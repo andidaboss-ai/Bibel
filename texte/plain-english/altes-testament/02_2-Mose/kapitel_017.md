@@ -5,7 +5,7 @@
 
 ## No water in Rephidim (Verses 1–7)
 
-[1] The whole community of the children of Israel set out from the wilderness of Sin.
+[1] The whole community of the people of Israel set out from the wilderness of Sin.
 They traveled from place to place, as the LORD commanded.
 Then they camped in Rephidim.
 But there was no water there for the people to drink.
@@ -34,7 +34,7 @@ Then water will come out of it, so that the people can drink.”
 Moses did so before the eyes of the elders of Israel.
 
 [7] He named the place Massah and Meribah.
-For the children of Israel had quarreled there.
+For the people of Israel had quarreled there.
 And they had tested the LORD.
 They had said,
 “Is the LORD among us or not?”

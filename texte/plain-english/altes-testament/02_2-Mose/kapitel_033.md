@@ -20,12 +20,12 @@ Otherwise I might destroy you on the way.”
 [4] When the people heard this bad news, they mourned.
 And no one put on his jewelry.
 [5] For the LORD had said to Moses,
-“Tell the children of Israel,
+“Tell the people of Israel,
 ‘You are a stiff-necked people.
 If I went up among you for just one moment, I would destroy you.
 So now take off your jewelry.
 Then I will know what to do with you.’”
-[6] So the children of Israel took off their jewelry, from Mount Horeb on.
+[6] So the people of Israel took off their jewelry, from Mount Horeb on.
 
 > **What does this mean?**
 > God keeps his promise: The people will get the land. But God himself does not want to go with them. Only an angel shall lead them.

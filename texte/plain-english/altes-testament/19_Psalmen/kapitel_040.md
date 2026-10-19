@@ -5,7 +5,7 @@
 
 ## I waited patiently (Verses 1–5)
 
-[1] For the Chief Musician. A psalm by David.
+[1] For the music director. A psalm by David.
 I waited patiently for the LORD.
 He turned to me and heard my cry.
 [2] He also brought me up out of a terrible pit,

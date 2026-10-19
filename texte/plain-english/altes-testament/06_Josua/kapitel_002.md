@@ -10,7 +10,7 @@
 They went and came into the house of a prostitute whose name was Rahab.
 They spent the night there.
 [2] Someone told the king of Jericho,
-“Look, men from the children of Israel came here tonight to spy out the land.”
+“Look, men from the people of Israel came here tonight to spy out the land.”
 [3] So the king of Jericho sent a message to Rahab:
 “Bring out the men who came to you, who went into your house.
 For they have come to spy out the whole land.”

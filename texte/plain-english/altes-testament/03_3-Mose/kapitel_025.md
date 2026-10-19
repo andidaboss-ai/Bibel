@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses on Mount Sinai.
 He said:
-[2] “Speak to the children of Israel and tell them:
+[2] “Speak to the people of Israel and tell them:
 ‘You will come into the land that I give you.
 Then the land shall keep a Sabbath for the LORD.
 [3] For six years you shall sow seed in your field.
@@ -150,7 +150,7 @@ They can be bought back, and they become free in the Jubilee.
 The Levites may buy back the houses in the cities that belong to them at any time.
 [33] If a Levite has sold a house in the city that belongs to him, it can be bought back.
 And it becomes free in the Jubilee.
-For the houses in the cities of the Levites are their property among the children of Israel.
+For the houses in the cities of the Levites are their property among the people of Israel.
 [34] But the pasture land around their cities may not be sold.
 For it is their property forever.
 
@@ -211,7 +211,7 @@ and from their families who are with you, who were born in your land.
 They will be your property.
 [46] You may leave them to your children after you as an inheritance, so that they own them.
 You may keep them as slaves forever.
-But over your brothers, the children of Israel, you shall not rule harshly, one over another.
+But over your brothers, the people of Israel, you shall not rule harshly, one over another.
 
 > **What does this mean?**
 > These verses are very hard for us to read today. They allow people to buy people from other nations as slaves and to pass them on to their children.
@@ -247,7 +247,7 @@ He shall pay the price to buy him back according to his years of service.
 The man shall not rule over him harshly while you watch.
 [54] If he is not bought back in these ways,
 then he shall become free in the Year of Jubilee, he and his children with him.
-[55] For the children of Israel are my servants.
+[55] For the people of Israel are my servants.
 They are my servants whom I brought out of the land of Egypt.
 I am the LORD your God.
 

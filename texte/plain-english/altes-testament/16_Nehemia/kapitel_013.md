@@ -8,7 +8,7 @@
 [1] On that day they read in the book of Moses so that the people could hear.
 And it was found written in it
 that an Ammonite and a Moabite should never come into the assembly of God,
-[2] because they didn’t meet the children of Israel with bread and with water,
+[2] because they didn’t meet the people of Israel with bread and with water,
 but hired Balaam against them to curse them.
 However, our God turned the curse into a blessing.
 [3] When they had heard the law,

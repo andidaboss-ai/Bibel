@@ -5,7 +5,7 @@
 
 ## First the Sabbath (Verses 1–3)
 
-[1] Moses gathered the whole community of the children of Israel and said to them,
+[1] Moses gathered the whole community of the people of Israel and said to them,
 “These are the words that the LORD has commanded you to do:
 [2] ‘Work shall be done for six days.
 But the seventh day shall be a holy day for you,
@@ -23,7 +23,7 @@ Whoever does any work on it shall be put to death.
 
 ## Whoever is glad to give shall give (Verses 4–9)
 
-[4] Moses said to the whole community of the children of Israel,
+[4] Moses said to the whole community of the people of Israel,
 “This is what the LORD has commanded:
 [5] ‘Collect an offering for the LORD from among you.
 Whoever has a willing heart shall bring it as the LORD’s offering:
@@ -68,7 +68,7 @@ for their service as priests.’”
 
 ## The people give more than enough (Verses 20–29)
 
-[20] Then the whole community of the children of Israel left Moses.
+[20] Then the whole community of the people of Israel left Moses.
 [21] And they came back:
 everyone whose heart moved him,
 and everyone whose spirit made him willing.
@@ -90,7 +90,7 @@ the blue, the purple and the scarlet thread and the fine linen.
 
 [27] The leaders brought the onyx stones and the stones to be set for the ephod and for the breastplate,
 [28] and the spices and the oil for the light, for the anointing oil and for the sweet incense.
-[29] So the children of Israel brought a freewill offering to the LORD.
+[29] So the people of Israel brought a freewill offering to the LORD.
 Every man and woman whose heart made them willing
 brought something for all the work that the LORD had commanded through Moses.
 
@@ -104,7 +104,7 @@ brought something for all the work that the LORD had commanded through Moses.
 
 ## Bezalel and Oholiab (Verses 30–35)
 
-[30] Moses said to the children of Israel,
+[30] Moses said to the people of Israel,
 “Look, the LORD has called Bezalel by name,
 the son of Uri, the son of Hur, from the tribe of Judah.
 [31] He has filled him with the Spirit of God,

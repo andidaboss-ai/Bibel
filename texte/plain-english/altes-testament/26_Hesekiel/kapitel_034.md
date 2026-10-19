@@ -88,7 +88,7 @@ I will take care of them with justice.”’
 > **What does this mean?**
 > Because the human shepherds have failed, God says: “I myself will be the shepherd!” And he does exactly what the bad shepherds did not do (verse 16 is the answer to verse 4).
 > This is like Psalm 23: “The LORD is my shepherd. I will not lack anything.”
-> Jesus takes up this chapter: “I am the good shepherd. The good shepherd gives his life for the sheep” (John 10:11). And he tells the parable of the lost sheep, which the shepherd searches for until he finds it (Luke 15:4–7). “For the Son of Man came to seek and to save that which was lost” (Luke 19:10).
+> Jesus takes up this chapter: “I am the good shepherd. The good shepherd gives his life for the sheep” (John 10:11). And he tells the parable of the lost sheep, which the shepherd searches for until he finds it (Luke 15:4–7). “The Son of Man came to look for the lost and to save them” (Luke 19:10).
 > Verse 16: “I will destroy the fat and the strong ones.” This means those who became fat and strong at the cost of others (see verses 17–21).
 > For you this means: If you feel lost, hurt or weak, you are exactly the one God is looking for.
 

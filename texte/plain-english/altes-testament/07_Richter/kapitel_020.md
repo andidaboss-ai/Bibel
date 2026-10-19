@@ -5,15 +5,15 @@
 
 ## Israel gathers at Mizpah (Verses 1–7)
 
-[1] Then all the children of Israel went out.
+[1] Then all the people of Israel went out.
 The congregation gathered together as one man,
 from Dan to Beersheba, with the land of Gilead,
 to the LORD at Mizpah.
 [2] The leaders of all the people, of all the tribes of Israel,
 took their places in the assembly of the people of God:
 400,000 foot soldiers who fought with the sword.
-[3] (The children of Benjamin heard that the children of Israel had gone up to Mizpah.)
-The children of Israel said,
+[3] (The people of Benjamin heard that the people of Israel had gone up to Mizpah.)
+The people of Israel said,
 “Tell us, how did this evil thing happen?”
 [4] The Levite, the husband of the woman who had been murdered, answered,
 “I came to Gibeah, which belongs to Benjamin, I and my concubine,
@@ -25,7 +25,7 @@ And they raped my concubine, and she is dead.
 [6] So I took my concubine, cut her into pieces,
 and sent her throughout the whole land of Israel’s inheritance.
 For they have done a shameful and foolish thing in Israel.
-[7] Now, you children of Israel, all of you:
+[7] Now, you people of Israel, all of you:
 Give your advice and your opinion here.”
 
 > **What does this mean?**
@@ -55,10 +55,10 @@ joined together as one man.
 “What is this evil thing that has happened among you?
 [13] Now hand over the men, the wicked men who are in Gibeah.
 Then we will put them to death and remove the evil from Israel.”
-But the children of Benjamin would not listen to the voice of their brothers, the children of Israel.
-[14] The children of Benjamin gathered from the cities to Gibeah,
-to go out to battle against the children of Israel.
-[15] On that day the children of Benjamin were counted:
+But the people of Benjamin would not listen to the voice of their brothers, the people of Israel.
+[14] The people of Benjamin gathered from the cities to Gibeah,
+to go out to battle against the people of Israel.
+[15] On that day the people of Benjamin were counted:
 from the cities, 26,000 men who fought with the sword,
 besides the people of Gibeah. Of them, 700 chosen men were counted.
 [16] Among all these soldiers there were 700 chosen men who were left-handed.
@@ -77,31 +77,31 @@ All of them were men of war.
 
 ## Two defeats for Israel (Verses 18–28)
 
-[18] The children of Israel got up, went up to Bethel, and asked God for advice.
+[18] The people of Israel got up, went up to Bethel, and asked God for advice.
 They asked,
-“Which of us shall go up first to battle against the children of Benjamin?”
+“Which of us shall go up first to battle against the people of Benjamin?”
 The LORD said, “Judah first.”
-[19] The children of Israel got up in the morning and camped across from Gibeah.
+[19] The people of Israel got up in the morning and camped across from Gibeah.
 [20] The men of Israel went out to battle against Benjamin.
 The men of Israel lined up for battle against them at Gibeah.
-[21] The children of Benjamin came out of Gibeah
+[21] The people of Benjamin came out of Gibeah
 and on that day struck down 22,000 men of Israel.
 [22] The people, the men of Israel, took courage
 and lined up for battle again in the same place where they had lined up on the first day.
-[23] The children of Israel went up and wept in front of the LORD until evening.
+[23] The people of Israel went up and wept in front of the LORD until evening.
 They asked the LORD,
 “Shall I go into battle again against my brother Benjamin?”
 The LORD said, “Go up against him.”
-[24] On the second day the children of Israel came near to the children of Benjamin.
+[24] On the second day the people of Israel came near to the people of Benjamin.
 [25] On the second day Benjamin went out against them from Gibeah
-and struck down another 18,000 men of the children of Israel.
+and struck down another 18,000 men of the people of Israel.
 All of them fought with the sword.
 
-[26] Then all the children of Israel and all the people went up and came to Bethel.
+[26] Then all the people of Israel and all the people went up and came to Bethel.
 They wept and sat there in front of the LORD.
 They fasted that day until evening.
 Then they offered burnt offerings and peace offerings in front of the LORD.
-[27] The children of Israel asked the LORD
+[27] The people of Israel asked the LORD
 – for the ark of the covenant of God was there in those days,
 [28] and Phinehas, the son of Eleazar, the son of Aaron, served before it in those days –
 and they asked,
@@ -122,15 +122,15 @@ The LORD said,
 ## The ambush (Verses 29–36)
 
 [29] Israel set men in ambush all around Gibeah.
-[30] On the third day the children of Israel went up against the children of Benjamin
+[30] On the third day the people of Israel went up against the people of Benjamin
 and lined up against Gibeah as at the other times.
-[31] The children of Benjamin went out against the people and were drawn away from the city.
+[31] The people of Benjamin went out against the people and were drawn away from the city.
 They began to strike down and kill some of the people as at the other times,
 on the highways, one of which goes up to Bethel and the other to Gibeah,
 in the open field, about thirty men of Israel.
-[32] The children of Benjamin said,
+[32] The people of Benjamin said,
 “They are being struck down in front of us, as at the first.”
-But the children of Israel said,
+But the people of Israel said,
 “Let’s run away and draw them away from the city onto the highways.”
 [33] All the men of Israel got up from their place
 and lined up at Baal Tamar.
@@ -140,9 +140,9 @@ out of Maareh Geba.
 The battle was hard.
 But the Benjamites did not know that disaster was close to them.
 [35] The LORD struck Benjamin in front of Israel.
-And on that day the children of Israel killed 25,100 men of Benjamin.
+And on that day the people of Israel killed 25,100 men of Benjamin.
 All of them fought with the sword.
-[36] So the children of Benjamin saw that they were beaten.
+[36] So the people of Benjamin saw that they were beaten.
 For the men of Israel had given ground to Benjamin,
 because they were relying on the men in ambush whom they had set against Gibeah.
 
@@ -187,7 +187,7 @@ who fought with the sword.
 All of them were brave men.
 [47] But 600 men turned and fled toward the wilderness, to the rock of Rimmon.
 They stayed at the rock of Rimmon for four months.
-[48] The men of Israel turned against the children of Benjamin again
+[48] The men of Israel turned against the people of Benjamin again
 and struck them with the edge of the sword,
 the whole city, the livestock, and everything they found.
 They also set on fire all the cities they found.

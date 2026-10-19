@@ -5,10 +5,10 @@
 
 ## The Midianites come like locusts (Verses 1–6)
 
-[1] The children of Israel did what was evil in the eyes of the LORD.
+[1] The people of Israel did what was evil in the eyes of the LORD.
 So the LORD gave them into the hand of Midian for seven years.
 [2] The hand of Midian pressed hard on Israel.
-Because of Midian, the children of Israel made hiding places for themselves in the mountains, caves, and strongholds.
+Because of Midian, the people of Israel made hiding places for themselves in the mountains, caves, and strongholds.
 [3] Whenever Israel had sown its seed,
 the Midianites, the Amalekites, and the people of the east came up against them.
 [4] They camped against them and destroyed the crops of the land as far as Gaza.
@@ -18,7 +18,7 @@ They came in as many as locusts.
 They and their camels could not be counted.
 And they came into the land to destroy it.
 [6] So Israel became very poor because of Midian.
-And the children of Israel cried out to the LORD.
+And the people of Israel cried out to the LORD.
 
 > **What does this mean?**
 > The Midianites were nomads from the desert. Every year at harvest time they came with their herds and camels and took everything. The Israelites had nothing left to eat. They had to hide in caves.
@@ -28,8 +28,8 @@ And the children of Israel cried out to the LORD.
 
 ## A prophet reminds them of God’s deeds (Verses 7–10)
 
-[7] When the children of Israel cried out to the LORD because of Midian,
-[8] the LORD sent a prophet to the children of Israel.
+[7] When the people of Israel cried out to the LORD because of Midian,
+[8] the LORD sent a prophet to the people of Israel.
 He said to them,
 “This is what the LORD, the God of Israel, says:
 ‘I brought you up from Egypt.

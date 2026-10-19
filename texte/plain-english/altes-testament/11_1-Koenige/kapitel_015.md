@@ -22,7 +22,7 @@ The only exception was the matter of Uriah the Hittite.
 [7] The rest of Abijam’s story and everything he did
 are written in the book of the chronicles of the kings of Judah.
 There was war between Abijam and Jeroboam.
-[8] Abijam died and joined his fathers.
+[8] Abijam died and joined his ancestors.
 They buried him in David’s city.
 His son Asa became king in his place.
 
@@ -97,7 +97,7 @@ King Asa used them to build up Geba in Benjamin, and Mizpah.
 [23] The rest of Asa’s story is written in the book of the chronicles of the kings of Judah.
 It tells about all his strength, all that he did, and the cities that he built.
 But when he was old, he got a disease in his feet.
-[24] Asa died and joined his fathers.
+[24] Asa died and joined his ancestors.
 He was buried with his fathers in the city of his father David.
 His son Jehoshaphat became king in his place.
 

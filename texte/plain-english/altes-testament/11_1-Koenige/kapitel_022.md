@@ -181,7 +181,7 @@ It happened as the LORD had said.
 [39] The rest of Ahab’s story and everything he did
 are written in the book of the chronicles of the kings of Israel.
 It also tells about the ivory house and all the cities he built.
-[40] So Ahab died and joined his fathers.
+[40] So Ahab died and joined his ancestors.
 His son Ahaziah became king in his place.
 
 > **What does this mean?**
@@ -220,7 +220,7 @@ The ships were wrecked at Ezion Geber.
 [49] Then Ahaziah, the son of Ahab, said to Jehoshaphat,
 “Let my servants sail with your servants in the ships.”
 But Jehoshaphat did not want that.
-[50] Jehoshaphat died and joined his fathers.
+[50] Jehoshaphat died and joined his ancestors.
 He was buried with his fathers in the city of his father David.
 His son Jehoram became king in his place.
 

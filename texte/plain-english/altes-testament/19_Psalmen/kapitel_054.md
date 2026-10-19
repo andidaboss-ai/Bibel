@@ -5,7 +5,7 @@
 
 ## Save me, God (Verses 1–3)
 
-[1] For the Chief Musician. On stringed instruments. A contemplation by David,
+[1] For the music director. On stringed instruments. A contemplation by David,
 when the Ziphites came and said to Saul,
 “Isn’t David hiding among us?”
 Save me, God, by your name.

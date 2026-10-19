@@ -115,3 +115,31 @@ Fixed markers (translate the German ones exactly like this):
 - A speech that goes on over several paragraphs: open a new “ at each new paragraph without closing the old one (like the WEB). A speech may stay open at the end of a chapter if it goes on in the next chapter.
 - Emergency: “In an emergency, call your local emergency number (911 in the US, 999 in the UK).”
 - Work chapter by chapter and **save every chapter file as soon as it is finished**. Skip chapters whose English file already exists and passes the checker.
+
+## Fixed wording for the whole edition (final review)
+
+Use these renderings everywhere, in the Bible text and in the boxes:
+
+| WEB | Plain Language |
+|---|---|
+| the children of Israel / of Ammon / of Judah … | the people of Israel / of Ammon / of Judah … |
+| fathers (meaning ancestors) | ancestors |
+| slept with his fathers | died and joined his ancestors |
+| behold | leave out, or “Look!” |
+| woe to … | How terrible it will be for … / How terrible for … |
+| For the Chief Musician (psalm headings) | For the music director |
+| assembly (in the New Testament, the believers) | church |
+| assembly (in the Old Testament) | assembly or gathering |
+| sodomites (shrine prostitutes) | male shrine prostitutes (explain once in the box) |
+| unleavened bread | bread without yeast (the Feast of Unleavened Bread keeps its name) |
+| wrath | anger |
+| dwell | live |
+| righteous / righteousness | keep where needed; explain once per book (“Righteous means: living right before God.”) |
+| Sheol | keep, with “(the world of the dead)” the first time in a chapter |
+| Selah | keep as it is |
+
+- Talents and shekels: “100 talents of silver (about 7,500 pounds)”: the old unit stays, the weight follows in brackets. One talent = about 75 pounds; one shekel = about 0.4 ounces.
+- When a box mentions our source: “the WEB, our English source text”.
+- Parallel passages use the same wording (Psalm 14 = 53; Psalm 18 = 2 Samuel 22; Psalm 108 = 57:7–11 + 60:5–12;
+  1 Chronicles 16 = Psalms 96/105; Ezra 1:1–3 = 2 Chronicles 36:22–23; Song of Songs 2:7 = 3:5 = 8:4;
+  the voice from heaven in Matthew 3:17 / 17:5, Mark 1:11 / 9:7, Luke 3:22 / 9:35).

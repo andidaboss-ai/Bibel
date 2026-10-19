@@ -120,7 +120,7 @@ And the people fled to their tents.
 Libnah also rebelled at the same time.
 [23] The rest of the things Joram did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[24] Joram died and joined his fathers.
+[24] Joram died and joined his ancestors.
 He was buried with his fathers in David’s city.
 And his son Ahaziah became king in his place.
 

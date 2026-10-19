@@ -5,60 +5,54 @@
 
 ## Stumbling, forgiveness and faith (Verses 1–10)
 
-[1] Jesus said to the disciples,
-“It is impossible
-that no occasions of stumbling should come.
-But woe to him
-through whom they come!
-[2] It would be better for him
-if a millstone were hung around his neck
-and he were thrown into the sea,
-than that he should cause one of these little ones to stumble.
-[3] Be careful.
+[1] Jesus said to his disciples,
+“Things that make people fall into sin will surely come.
+But how bad it will be for the person who causes them!
+[2] Suppose someone causes one of these little ones to fall into sin.
+It would be better for him
+to have a millstone tied around his neck
+and to be thrown into the sea.
+[3] So be careful!
 If your brother sins against you,
-rebuke him.
-If he repents,
+tell him that he did wrong.
+If he is sorry and turns away from his sin,
 forgive him.
-[4] If he sins against you seven times in the day,
-and seven times comes back to you
-and says, ‘I repent,’
-you shall forgive him.”
+[4] He may sin against you seven times in one day.
+And seven times he may come back to you and say,
+‘I am sorry.’
+Then you must forgive him.”
 [5] The apostles said to the Lord,
-“Increase our faith.”
+“Make our faith stronger!”
 [6] The Lord said,
-“If you had faith like a grain of mustard seed,
-you would tell this sycamore tree,
-‘Be uprooted
-and be planted in the sea,’
-and it would obey you.
-[7] Imagine
-one of you has a servant
-who is plowing or keeping sheep.
-Will you say to him
-when he comes in from the field,
-‘Come immediately and sit down at the table’?
-[8] Wouldn’t you rather tell him,
-‘Prepare my supper,
-dress yourself properly,
-and serve me
+“Suppose your faith were only as big as a mustard seed.
+Then you could say to this sycamore tree,
+‘Pull yourself up by the roots
+and plant yourself in the sea!’
+And it would obey you.
+[7] Suppose one of you has a servant.
+The servant has been plowing the field or taking care of the sheep.
+He comes in from the field.
+Would you say to him,
+‘Come at once and sit down at the table’?
+[8] No, you would say to him,
+‘Make my dinner.
+Get dressed and serve me
 while I eat and drink.
-Afterward you shall eat and drink’?
-[9] Do you thank that servant
-because he did the things
-that were commanded?
-I think not.
+After that you can eat and drink.’
+[9] Do you thank the servant
+because he did what he was told?
+I don’t think so.
 [10] It is the same with you.
-When you have done all the things
-that you were commanded,
-say,
-‘We are unworthy servants.
-We have done our duty.’”
+When you have done everything you were told to do,
+you should say,
+‘We are servants who deserve no thanks.
+We have only done our duty.’”
 
 > **What does this mean?**
-> Verses 1–2: “These little ones” are children and people whose faith is still weak or who are easily hurt. Whoever leads them into evil or destroys their faith takes on heavy guilt. Occasions of stumbling are things that make people fall into sin. A millstone was a heavy stone for grinding grain.
+> Verses 1–2: “These little ones” are children and people whose faith is still weak or who are easily hurt. Whoever leads them into evil or destroys their faith takes on heavy guilt. Jesus speaks of things that make people fall into sin. Older Bibles call them “occasions of stumbling.” A millstone was a heavy stone for grinding grain.
 > Important: These words show how seriously Jesus takes the protection of the weak. This applies most of all to the abuse of children, including in churches. In the US, call RAINN at 1-800-656-4673, or call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111.
 > Verse 3: The words “against you” are not in all manuscripts.
-> Verses 3–4: Forgiveness should be generous, again and again. But Jesus also says: Wrong should be spoken about. Rebuke: tell someone clearly that they did wrong.
+> Verses 3–4: Forgiveness should be generous, again and again. But Jesus also says: Wrong should be spoken about. Telling someone that they did wrong should be done clearly, but with love.
 > Important: Forgiving does not mean that you have to let yourself be hurt again. Whoever experiences violence may protect themselves and keep their distance. Forgiveness often takes a long time.
 > Verse 6: The sycamore tree here is a kind of fig tree with very deep roots. Even a tiny faith can do the impossible, because God is at work.
 > Verses 7–10: Jesus uses a picture from the working world of that time, with servants. He says: We cannot boast before God about what we achieve. The good we do is simply what we should do.
@@ -68,35 +62,34 @@ We have done our duty.’”
 
 ## Ten lepers are healed (Verses 11–19)
 
-[11] On his way to Jerusalem,
-Jesus was passing along the borders of Samaria and Galilee.
-[12] As he entered a village,
-ten men who were lepers met him.
-They stood at a distance
-[13] and called out loudly,
+[11] Jesus was on his way to Jerusalem.
+He was traveling along the border between Samaria and Galilee.
+[12] He was going into a village.
+Ten men who had leprosy came to meet him.
+They stood at a distance.
+[13] They called out loudly,
 “Jesus, Master,
 have mercy on us!”
-[14] When he saw them,
-he said to them,
-“Go and show yourselves
-to the priests.”
-And as they went,
-they were cleansed.
-[15] One of them saw
-that he was healed.
-He turned back
+[14] Jesus saw them.
+He said to them,
+“Go and show yourselves to the priests.”
+And while they were on their way,
+they were made clean.
+[15] One of them saw that he was healed.
+He came back
 and praised God with a loud voice.
-[16] He fell on his face at Jesus’ feet
+[16] He bowed down with his face to the ground
+at the feet of Jesus
 and thanked him.
-And he was a Samaritan.
-[17] Jesus said,
-“Weren’t the ten cleansed?
-But where are the nine?
-[18] Were there none found who returned
-to give glory to God,
-except this foreigner?”
-[19] Then he said to him,
-“Get up, and go your way.
+This man was a Samaritan.
+[17] Jesus asked,
+“Weren’t all ten men made clean?
+Where are the other nine?
+[18] Only this foreigner came back
+to give praise to God.
+Didn’t anyone else come back?”
+[19] Then Jesus said to the man,
+“Get up and go on your way.
 Your faith has healed you.”
 
 > **What does this mean?**
@@ -114,74 +107,63 @@ Your faith has healed you.”
 [20] The Pharisees asked Jesus
 when God’s Kingdom would come.
 He answered them,
-“God’s Kingdom doesn’t come
-in a way that can be watched for.
-[21] Nor will they say,
+“God’s Kingdom does not come
+in a way that people can see with their eyes.
+[21] People will not say,
 ‘Look, here!’
 or, ‘Look, there!’
-For
-God’s Kingdom is within you.”
-[22] He said to the disciples,
-“The days will come
-when you will long
-to see one of the days of the Son of Man,
-and you will not see it.
-[23] They will tell you,
+For God’s Kingdom is within you.”
+[22] Then Jesus said to his disciples,
+“The time will come
+when you will long to see one of the days of the Son of Man.
+But you will not see it.
+[23] People will say to you,
 ‘Look, here!’
 or, ‘Look, there!’
-Don’t go away
-or follow after them.
-[24] For as the lightning flashes
-and shines from one part of the sky to the other,
-so will the Son of Man be in his day.
-[25] But first he must suffer many things
-and be rejected by this generation.
-[26] As it was in the days of Noah,
-so it will also be in the days of the Son of Man.
-[27] They ate,
-they drank,
-they married,
-and they were given in marriage,
-until the day
-that Noah entered into the ship.
+Don’t go there.
+Don’t run after them.
+[24] Lightning flashes
+and lights up the sky from one side to the other.
+That is how the Son of Man will be on his day.
+[25] But first he must suffer many things.
+The people of this generation will reject him.
+[26] It was like this in the days of Noah.
+And it will be the same in the days of the Son of Man.
+[27] People were eating and drinking.
+They were marrying,
+and their children were being given in marriage.
+This went on until the day Noah went into the ship.
 Then the flood came
 and destroyed them all.
-[28] It was the same in the days of Lot:
-They ate,
-they drank,
-they bought,
-they sold,
-they planted,
-they built.
-[29] But on the day
-that Lot went out from Sodom,
-it rained fire and sulfur from the sky
+[28] It was the same in the days of Lot.
+People were eating and drinking,
+buying and selling,
+planting and building.
+[29] But on the day Lot left Sodom,
+fire and sulfur rained down from the sky
 and destroyed them all.
-[30] It will be the same way on the day
-the Son of Man is revealed.
-[31] On that day, whoever is on the housetop
-with his goods in the house
-should not go down
-to take them away.
-And whoever is in the field
-should likewise not turn back.
+[30] It will be just like that
+on the day when the Son of Man appears.
+[31] On that day, someone may be on the roof of his house,
+and his things may be inside the house.
+He must not go down to get them.
+In the same way, someone in the field
+must not go back home.
 [32] Remember Lot’s wife!
-[33] Whoever seeks to save his life
-loses it.
-But whoever loses his life
-preserves it.
+[33] Whoever tries to save his life will lose it.
+But whoever loses his life will keep it.
 [34] I tell you,
-in that night there will be two people in one bed.
+on that night two people will be in one bed.
 One will be taken,
 and the other will be left.
-[35] There will be two grinding grain together.
+[35] Two will be grinding grain together.
 One will be taken,
 and the other will be left.”
-[36] They asked him,
+[36] The disciples asked him,
 “Where, Lord?”
 He said to them,
-“Where the body is,
-there the vultures will also be gathered together.”
+“Where there is a dead body,
+there the vultures will gather.”
 
 > **What does this mean?**
 > Verses 20–21: God’s Kingdom cannot be calculated or pinned down to one place. The WEB says “within you.” The Greek word can also be translated “among you.” Both are possible: God’s Kingdom is already here, in Jesus, among the people.
@@ -192,4 +174,4 @@ there the vultures will also be gathered together.”
 > Verses 34–35: These pictures show: God’s judgment separates people who outwardly live exactly the same way. What matters is the heart. In the Greek, verse 35 speaks of two women, because grinding grain was women’s work.
 > Important: The Bible does not give exact predictions of how the end of the world will happen. These pictures want to wake people up, not frighten them.
 > Verse numbering: In many other Bibles this chapter has 37 verses. There verse 36 is a sentence like Matthew 24:40, about two men in the field, one taken and the other left. This sentence is missing in the oldest manuscripts and in the WEB. That is why the last verse here is verse 36, in other Bibles verse 37.
-> Verse 36: “Where the body is, there the vultures will also be gathered together” was probably a proverb. It means: The judgment will come as surely as vultures fly to a dead animal. No one will miss it.
+> Verse 36: “Where there is a dead body, there the vultures will gather” was probably a proverb. It means: The judgment will come as surely as vultures fly to a dead animal. No one will miss it.

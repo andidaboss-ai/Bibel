@@ -123,9 +123,9 @@ It shall be your share.
 [27] Make holy the breast of the wave offering and the thigh of the wave offering,
 which were waved and raised up from the ram of consecration,
 from what is for Aaron and for his sons.
-[28] It shall be Aaron’s and his sons’ share forever from the children of Israel.
+[28] It shall be Aaron’s and his sons’ share forever from the people of Israel.
 For it is a wave offering.
-It shall be a wave offering from the children of Israel, from the sacrifices of their peace offerings.
+It shall be a wave offering from the people of Israel, from the sacrifices of their peace offerings.
 It is their wave offering to the LORD.
 
 > **What does this mean?**
@@ -206,11 +206,11 @@ There I will meet with you, to speak to you there.
 
 ## God lives in the middle of his people (Verses 43–46)
 
-[43] “There I will meet with the children of Israel.
+[43] “There I will meet with the people of Israel.
 And the place will be made holy by my glory.
 [44] I will make the Tent of Meeting and the altar holy.
 I will also make Aaron and his sons holy, so that they can serve me as priests.
-[45] I will live among the children of Israel.
+[45] I will live among the people of Israel.
 And I will be their God.
 [46] Then they will know that I am the LORD their God,
 who brought them out of the land of Egypt,
@@ -218,6 +218,6 @@ so that I might live among them.
 I am the LORD their God.
 
 > **What does this mean?**
-> These verses are the goal of everything: “I will live among the children of Israel. And I will be their God.”
+> These verses are the goal of everything: “I will live among the people of Israel. And I will be their God.”
 > God did not only free Israel from Egypt so that it would be free. He freed it so that he could live with it. Freedom leads to friendship with God.
 > In the New Testament it says about Jesus that the Word became flesh and lived among us (John 1:14). Flesh here means: a human being. In Greek, the word for “lived” really means: to live in a tent. And at the very end of the Bible it says that God’s home is with people, and that he will live with them (Revelation 21:3). There, too, the Greek uses the word for tent.

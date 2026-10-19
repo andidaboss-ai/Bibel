@@ -130,7 +130,7 @@ and also the chains on the necks of their camels.
 [27] Gideon made an ephod out of it and set it up in his city, Ophrah.
 And all Israel was unfaithful to God with it there, like a prostitute.
 And it became a trap for Gideon and his family.
-[28] So Midian was brought down in front of the children of Israel,
+[28] So Midian was brought down in front of the people of Israel,
 and they did not lift up their heads anymore.
 And the land had rest for forty years in the days of Gideon.
 
@@ -151,10 +151,10 @@ And the land had rest for forty years in the days of Gideon.
 And he named him Abimelech.
 [32] Gideon the son of Joash died at a good old age.
 He was buried in the tomb of his father Joash, in Ophrah of the Abiezrites.
-[33] As soon as Gideon was dead, the children of Israel turned away again.
+[33] As soon as Gideon was dead, the people of Israel turned away again.
 They were unfaithful like prostitutes and followed the Baals,
 and they made Baal Berith their god.
-[34] The children of Israel no longer remembered the LORD their God,
+[34] The people of Israel no longer remembered the LORD their God,
 who had rescued them from the hand of all their enemies around them.
 [35] And they did not show kindness to the family of Jerubbaal, that is, Gideon,
 for all the good he had done for Israel.

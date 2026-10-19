@@ -14,7 +14,7 @@ which will lie down there, and no one will scare them away.
 [3] The fortress will disappear from Ephraim,
 and the kingdom from Damascus,
 and the rest of Syria.
-They will be like the glory of the children of Israel,”
+They will be like the glory of the people of Israel,”
 says the LORD of Armies.
 [4] “On that day it will happen
 that the glory of Jacob will grow thin,
@@ -43,7 +43,7 @@ and they will not pay attention to what their fingers have made,
 neither the Asherah poles nor the incense altars.
 [9] On that day, their strong cities will be
 like the abandoned places in the forest and on the mountaintop,
-which were abandoned before the children of Israel,
+which were abandoned before the people of Israel,
 and it will be a wasteland.
 [10] For you have forgotten the God of your salvation
 and have not remembered the rock of your strength.

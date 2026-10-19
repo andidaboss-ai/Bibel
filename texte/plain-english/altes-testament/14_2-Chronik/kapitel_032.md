@@ -175,7 +175,7 @@ so that he might know all that was in his heart.
 [32] The rest of the acts of Hezekiah and his good deeds,
 look, they are written in the vision of Isaiah the prophet, the son of Amoz,
 in the book of the kings of Judah and Israel.
-[33] Hezekiah died and joined his fathers,
+[33] Hezekiah died and joined his ancestors,
 and they buried him on the way up to the tombs of the sons of David.
 All Judah and the people of Jerusalem honored him at his death.
 And Manasseh his son reigned in his place.

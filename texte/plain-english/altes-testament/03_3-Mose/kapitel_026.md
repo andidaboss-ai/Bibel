@@ -197,7 +197,7 @@ I brought them out of the land of Egypt while the nations watched, so that I mig
 I am the LORD.’”
 
 [46] These are the statutes, the rules and the laws
-that the LORD made between himself and the children of Israel on Mount Sinai through Moses.
+that the LORD made between himself and the people of Israel on Mount Sinai through Moses.
 
 > **What does this mean?**
 > This is the most important part of the chapter. After all the harsh words comes hope.

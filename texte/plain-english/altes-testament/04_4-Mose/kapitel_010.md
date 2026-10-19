@@ -42,7 +42,7 @@ I am the LORD your God.”
 
 [11] In the second year, in the second month, on the twentieth day of the month,
 the cloud rose up from over the Tabernacle of the Testimony.
-[12] And the children of Israel set out from the wilderness of Sinai, one stage after another.
+[12] And the people of Israel set out from the wilderness of Sinai, one stage after another.
 And the cloud stopped in the wilderness of Paran.
 [13] So they set out for the first time, at the command of the LORD through Moses.
 
@@ -78,7 +78,7 @@ It was the rear guard of all the camps.
 Ahiezer, the son of Ammishaddai, led its army.
 [26] Pagiel, the son of Ochran, led the army of the tribe of the descendants of Asher.
 [27] Ahira, the son of Enan, led the army of the tribe of the descendants of Naphtali.
-[28] This was the order in which the children of Israel traveled, by their armies.
+[28] This was the order in which the people of Israel traveled, by their armies.
 And they set out.
 
 > **What does this mean?**

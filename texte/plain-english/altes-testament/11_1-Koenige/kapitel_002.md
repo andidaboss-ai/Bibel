@@ -55,7 +55,7 @@ You shall bring his gray head down to Sheol with blood.”
 
 ## David’s death (Verses 10–12)
 
-[10] David slept with his fathers
+[10] David died and joined his ancestors
 and was buried in David’s city.
 [11] The time that David ruled over Israel was 40 years.
 He ruled 7 years in Hebron,

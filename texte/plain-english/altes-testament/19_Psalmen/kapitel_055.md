@@ -5,7 +5,7 @@
 
 ## If only I had wings like a dove (Verses 1–8)
 
-[1] For the Chief Musician. On stringed instruments. A contemplation by David.
+[1] For the music director. On stringed instruments. A contemplation by David.
 Listen to my prayer, God.
 Do not hide from me when I beg you for help.
 [2] Pay attention to me, and answer me.

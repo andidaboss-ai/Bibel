@@ -5,7 +5,7 @@
 
 ## When I am afraid (Verses 1–4)
 
-[1] For the Chief Musician. To the tune of “Silent Dove in Distant Lands.”
+[1] For the music director. To the tune of “Silent Dove in Distant Lands.”
 A poem by David, when the Philistines caught him in Gath.
 Be merciful to me, God, for people want to swallow me up.
 All day long they attack me and oppress me.

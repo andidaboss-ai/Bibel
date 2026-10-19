@@ -47,7 +47,7 @@ It is most holy to the LORD.”
 
 [11] The LORD spoke to Moses.
 He said,
-[12] “You will take a census of the children of Israel.
+[12] “You will take a census of the people of Israel.
 A census means: counting the people.
 When you count them, each man shall give the LORD a ransom for his life.
 A ransom is a price paid to set a life free.
@@ -59,9 +59,9 @@ Half a shekel shall be an offering to the LORD.
 [14] Everyone who passes over to those who are counted, who is 20 years old or older, shall give the offering to the LORD.
 [15] The rich shall not give more, and the poor shall not give less, than the half shekel,
 when you give the LORD’s offering to make atonement for your lives.
-[16] Take the atonement money from the children of Israel.
+[16] Take the atonement money from the people of Israel.
 Use it for the service of the Tent of Meeting.
-It shall be a reminder of the children of Israel before the LORD,
+It shall be a reminder of the people of Israel before the LORD,
 to make atonement for your lives.”
 
 > **What does this mean?**
@@ -117,7 +117,7 @@ Whatever touches them will be holy.
 [30] Anoint Aaron and his sons too, and make them holy,
 so that they can serve me as priests.
 
-[31] Speak to the children of Israel.
+[31] Speak to the people of Israel.
 Say, ‘This shall be a holy anointing oil for me, through all your generations.
 [32] It shall not be poured on the body of an ordinary person.
 And do not make any oil like it with the same mixture.

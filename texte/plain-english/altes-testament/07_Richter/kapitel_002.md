@@ -17,7 +17,7 @@ Why have you done this?
 ‘I will not drive them out in front of you.
 They will be like thorns in your sides,
 and their gods will be a trap for you.’”
-[4] When the angel of the LORD said these words to all the children of Israel,
+[4] When the angel of the LORD said these words to all the people of Israel,
 the people cried out loud and wept.
 [5] They named that place Bochim.
 And they offered sacrifices there to the LORD.
@@ -33,7 +33,7 @@ And they offered sacrifices there to the LORD.
 ## Looking back at Joshua’s death (Verses 6–10)
 
 [6] When Joshua had sent the people away,
-the children of Israel each went to his own inheritance to take the land.
+the people of Israel each went to his own inheritance to take the land.
 [7] The people served the LORD as long as Joshua lived,
 and as long as the elders lived who outlived Joshua
 and who had seen all the great work that the LORD had done for Israel.
@@ -54,7 +54,7 @@ or the work he had done for Israel.
 
 ## The cycle of the time of the judges (Verses 11–19)
 
-[11] The children of Israel did what was evil in the eyes of the LORD,
+[11] The people of Israel did what was evil in the eyes of the LORD,
 and they served the Baals.
 [12] They left the LORD, the God of their fathers,
 who had brought them out of the land of Egypt,

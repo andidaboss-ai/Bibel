@@ -179,7 +179,7 @@ the first sons of their strength in the tents of Ham.
 > The psalm remembers the plagues in Egypt (Exodus 7–12): blood, frogs, flies, locusts, hail, the plague on the animals, and last, the death of the firstborn.
 > “Angels who bring disaster”: angels who carry out God’s judgment.
 > “The tents of Ham”: Egypt. According to Genesis 10:6, Egypt (Mizraim) came from Ham, a son of Noah.
-> This story is hard for readers today, especially the death of the children. The Bible tells it as a judgment on Pharaoh, who would not let Israel go and who himself had the children of Israel killed (Exodus 1:22).
+> This story is hard for readers today, especially the death of the children. The Bible tells it as a judgment on Pharaoh, who would not let Israel go and who himself had the people of Israel killed (Exodus 1:22).
 
 ---
 

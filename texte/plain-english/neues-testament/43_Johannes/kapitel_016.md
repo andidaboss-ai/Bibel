@@ -5,21 +5,15 @@
 
 ## Persecution will come (Verses 1–4)
 
-[1] “I have told you these things
-so that you won’t stumble.
-[2] They will put you out of the synagogues.
-Yes, the time is coming
-when whoever kills you
-will think
-that he is offering service to God.
-[3] They will do these things
-because they have not known the Father nor me.
-[4] But I have told you these things
-so that when the time comes,
-you may remember
-that I told you about them.
-I didn’t tell you these things from the beginning,
-because I was with you.”
+[1] “I have told you these things so that you won’t stumble.
+[2] People will put you out of the synagogues.
+Yes, the time is coming when people will kill you.
+And they will think that they are serving God by doing it.
+[3] They will do these things because they have not known the Father or me.
+[4] But I have told you these things now.
+So when the time comes, you will remember that I told you about them.
+I didn’t tell you these things at the beginning,
+because I was with you.
 
 *stumble* = here: lose your faith
 
@@ -32,57 +26,36 @@ because I was with you.”
 
 ## The work of the Holy Spirit (Verses 5–15)
 
-[5] “But now I am going to him
-who sent me.
-And none of you asks me,
-‘Where are you going?’
-[6] But because I have told you these things,
-sorrow has filled your heart.
-[7] Nevertheless I tell you the truth:
-It is good for you
-that I go away.
-For if I don’t go away,
-the Counselor won’t come to you.
-But if I go,
-I will send him to you.
-[8] When he has come,
-he will convict the world
-about sin,
-about righteousness,
-and about judgment:
-[9] about sin,
-because they don’t believe in me;
-[10] about righteousness,
-because I am going to my Father,
-and you won’t see me any more;
-[11] about judgment,
-because the prince of this world has been judged.
-[12] I still have many things to tell you,
-but you can’t bear them now.
-[13] However, when he,
-the Spirit of truth,
-has come,
-he will guide you into all truth.
-For he will not speak from himself.
-But whatever he hears,
-he will speak.
-And he will tell you
-things that are coming.
-[14] He will glorify me,
-for he will take from what is mine
-and will tell it to you.
-[15] All things that the Father has
-are mine.
-That is why I said
-that he takes of mine
-and will tell it to you.”
+[5] But now I am going to the one who sent me.
+Yet none of you asks me, ‘Where are you going?’
+[6] Instead, your hearts are full of sadness because I have told you these things.
+[7] But I am telling you the truth:
+It is better for you that I go away.
+If I don’t go away, the Counselor will not come to you.
+But if I go, I will send him to you.
+[8] When he comes, he will convict the world.
+He will show the world the truth about sin, about what is right, and about judgment.
+[9] About sin: because people don’t believe in me.
+[10] About what is right: because I am going to my Father, and you won’t see me anymore.
+[11] About judgment: because the ruler of this world has been judged.
+[12] “I still have many things to tell you.
+But right now it would be too much for you.
+[13] But the Spirit of truth will come.
+He will lead you into all the truth.
+He will not speak on his own.
+He will speak only what he hears.
+He will tell you about the things that are going to happen.
+[14] He will bring me glory.
+He will take what is mine and tell it to you.
+[15] Everything the Father has is mine.
+That is why I said that the Spirit will take what is mine and tell it to you.
 
 *convict* = show clearly who is guilty and what is true
 
 > **What does this mean?**
 > Verse 7: Jesus says: My going away is good for you. For then the Holy Spirit will come. He is everywhere and with everyone at the same time.
 > Verse 8: “Convict” means: to show, to uncover, to make clear what is true.
-> Verse 11: “The prince of this world” is the power of evil. Through Jesus’ death and resurrection it is already defeated.
+> Verse 11: “The ruler of this world” is the power of evil. Through Jesus’ death and resurrection it is already defeated.
 > Verses 12–13: The Holy Spirit helps Christians to understand Jesus more and more deeply, also in new times and with new questions.
 > For today: If you can’t understand something yet, you don’t need to despair. God’s Spirit leads step by step.
 
@@ -90,53 +63,36 @@ and will tell it to you.”
 
 ## Sorrow turns into joy (Verses 16–24)
 
-[16] “A little while,
-and you will not see me.
-Again a little while,
-and you will see me.”
-[17] So some of his disciples said to one another,
-“What does he mean
-when he says to us,
-‘A little while, and you won’t see me,
-and again a little while, and you will see me’
-and,
-‘Because I go to the Father’?”
-[18] They said,
-“What does he mean by ‘A little while’?
-We don’t know
-what he is saying.”
-[19] Jesus noticed
-that they wanted to ask him.
+[16] “In a little while, you will not see me anymore.
+Then, after a little while, you will see me again.”
+[17] So some of his disciples said to each other,
+“What does he mean?
+He tells us, ‘In a little while, you won’t see me, and then after a little while, you will see me.’
+And he says, ‘Because I am going to the Father.’”
+[18] They kept asking,
+“What does he mean by ‘a little while’?
+We don’t understand what he is saying.”
+[19] Jesus saw that they wanted to ask him about it.
 So he said to them,
-“Are you asking one another
-what I meant
-when I said,
-‘A little while, and you won’t see me,
-and again a little while, and you will see me’?
-[20] Most certainly I tell you,
-you will weep and lament,
-but the world will rejoice.
-You will be sorrowful,
-but your sorrow will be turned into joy.
-[21] When a woman gives birth,
-she has pain,
-because her time has come.
-But when she has delivered the child,
-she doesn’t remember the anguish any more,
-because of the joy
-that a human being is born into the world.
-[22] So you also have sorrow now.
+“Are you asking each other what I meant?
+I said, ‘In a little while, you won’t see me, and then after a little while, you will see me.’
+[20] I tell you the truth:
+You will cry and lament, but the world will be glad.
+You will be sad, but your sadness will turn into joy.
+[21] When a woman is giving birth, she is in pain, because her hour has come.
+But after the baby is born, she forgets the pain.
+She is so happy that a new person has been born into the world.
+[22] It is the same with you.
+You are sad now.
 But I will see you again.
-Then your heart will rejoice,
-and no one will take your joy away from you.
-[23] On that day you will ask me no questions.
-Most certainly I tell you,
-whatever you ask of the Father in my name,
-he will give it to you.
-[24] Until now, you have asked nothing in my name.
-Ask,
-and you will receive,
-so that your joy may be made full.”
+Then your hearts will be full of joy.
+No one will take your joy away from you.
+[23] “On that day you will not ask me any questions.
+I tell you the truth:
+The Father will give you whatever you ask him for in my name.
+[24] Until now you have not asked for anything in my name.
+Ask, and you will receive.
+Then your joy will be complete.
 
 *lament* = cry out loudly in grief
 
@@ -150,40 +106,31 @@ so that your joy may be made full.”
 
 ## “I have overcome the world” (Verses 25–33)
 
-[25] “I have told you these things in figures of speech.
-But the time is coming
-when I will no longer speak to you in figures of speech,
-but will tell you plainly about the Father.
+[25] “I have told you these things using figures of speech.
+But the time is coming when I will not use figures of speech anymore.
+Then I will tell you plainly about the Father.
 [26] On that day you will ask in my name.
-And I don’t say to you
-that I will pray to the Father for you.
-[27] For the Father himself loves you,
-because you have loved me
-and have believed
-that I came from God.
-[28] I came from the Father
-and have come into the world.
-Again, I leave the world
-and go to the Father.”
+I am not saying that I will ask the Father for you.
+[27] The Father himself loves you,
+because you have loved me.
+And you have believed that I came from God.
+[28] I came from the Father into the world.
+Now I am leaving the world and going back to the Father.”
 [29] His disciples said to him,
-“Now you are speaking plainly
-and using no figures of speech.
-[30] Now we know
-that you know all things,
-and that no one needs to question you.
-By this we believe
-that you came from God.”
+“Look, now you are speaking plainly.
+You are not using figures of speech.
+[30] Now we know that you know everything.
+No one needs to ask you questions.
+This is why we believe that you came from God.”
 [31] Jesus answered them,
-“Do you now believe?
-[32] The time is coming,
-yes, it has now come,
-when you will be scattered,
-everyone to his own place.
+“So now you believe?
+[32] Look, the time is coming, and it is already here,
+when you will be scattered.
+Each of you will go to his own home.
 And you will leave me alone.
-Yet I am not alone,
+But I am not alone,
 because the Father is with me.
-[33] I have told you these things,
-so that in me you may have peace.
+[33] I have told you these things so that you will have peace in me.
 In the world you have trouble.
 But cheer up!
 I have overcome the world.”

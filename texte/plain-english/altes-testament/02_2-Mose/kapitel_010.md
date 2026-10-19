@@ -99,7 +99,7 @@ It picked up the locusts and drove them into the Red Sea.
 Not one locust was left in all of Egypt.
 
 [20] But the LORD made Pharaoh’s heart hard.
-He did not let the children of Israel go.
+He did not let the people of Israel go.
 
 > **What does this mean?**
 > What the hail left behind, the locusts now eat. Egypt is bare. A famine is coming.
@@ -118,7 +118,7 @@ a darkness that people can feel.”
 And there was thick darkness in the whole land of Egypt for three days.
 [23] People could not see one another.
 For three days, no one got up from his place.
-But all the children of Israel had light where they lived.
+But all the people of Israel had light where they lived.
 
 [24] Then Pharaoh called for Moses.
 He said,

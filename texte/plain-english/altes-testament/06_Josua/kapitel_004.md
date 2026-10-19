@@ -11,21 +11,21 @@
 ‘Take twelve stones from the middle of the Jordan, from the place where the priests’ feet stood firm.
 Carry them over with you
 and put them down in the place where you will camp tonight.’”
-[4] Then Joshua called the twelve men whom he had chosen from the children of Israel, one man from each tribe.
+[4] Then Joshua called the twelve men whom he had chosen from the people of Israel, one man from each tribe.
 [5] Joshua said to them,
 “Go ahead of the ark of the LORD your God into the middle of the Jordan.
 Each of you, pick up a stone and put it on your shoulder,
-one for each tribe of the children of Israel,
+one for each tribe of the people of Israel,
 [6] so that this may be a sign among you.
 In the future, when your children ask you,
 ‘What do these stones mean to you?’
 [7] then tell them,
 ‘The water of the Jordan was cut off in front of the ark of the covenant of the LORD.
 When it crossed the Jordan, the water of the Jordan was cut off.
-These stones will be a reminder for the children of Israel forever.’”
-[8] The children of Israel did as Joshua commanded.
+These stones will be a reminder for the people of Israel forever.’”
+[8] The people of Israel did as Joshua commanded.
 They took twelve stones from the middle of the Jordan, as the LORD had told Joshua,
-one for each tribe of the children of Israel.
+one for each tribe of the people of Israel.
 They carried them over with them to the place where they camped, and they put them down there.
 
 > **What does this mean?**
@@ -46,7 +46,7 @@ just as Moses had commanded Joshua.
 And the people hurried and crossed over.
 [11] When all the people had completely crossed over,
 the ark of the LORD crossed over with the priests, while the people watched.
-[12] The children of Reuben, the children of Gad, and the half-tribe of Manasseh crossed over armed in front of the children of Israel,
+[12] The people of Reuben, the people of Gad, and the half-tribe of Manasseh crossed over armed in front of the people of Israel,
 as Moses had told them.
 [13] About 40,000 men, ready and armed for war,
 crossed over in front of the LORD to battle, to the plains of Jericho.
@@ -81,7 +81,7 @@ and flowed over all its banks again, as before.
 [19] The people came up out of the Jordan on the tenth day of the first month.
 They camped in Gilgal, on the east border of Jericho.
 [20] Joshua set up the twelve stones that they had taken out of the Jordan in Gilgal.
-[21] He said to the children of Israel,
+[21] He said to the people of Israel,
 “In the future, when your children ask their fathers,
 ‘What do these stones mean?’
 [22] then explain it to your children and say,

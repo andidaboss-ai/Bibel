@@ -6,7 +6,7 @@
 ## God’s command (Verses 1–6)
 
 [1] The LORD spoke to Joshua. He said,
-[2] “Speak to the children of Israel and say,
+[2] “Speak to the people of Israel and say,
 ‘Choose the cities of refuge that I spoke to you about through Moses.
 A refuge is a safe place.
 [3] Anyone who kills a person by accident or without meaning to may run there.
@@ -41,7 +41,7 @@ and Kiriath Arba – that is Hebron – in the hill country of Judah.
 Bezer in the wilderness, on the plain, from the tribe of Reuben,
 Ramoth in Gilead from the tribe of Gad,
 and Golan in Bashan from the tribe of Manasseh.
-[9] These were the chosen cities for all the children of Israel and for the foreigner who lives among them,
+[9] These were the chosen cities for all the people of Israel and for the foreigner who lives among them,
 so that anyone who killed a person without meaning to could run there
 and not die by the hand of the avenger of blood
 before he had stood trial in front of the community.

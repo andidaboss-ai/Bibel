@@ -5,7 +5,7 @@
 
 ## Praise of the king (Verses 1–5)
 
-[1] For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.
+[1] For the music director. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.
 My heart overflows with a beautiful theme.
 I recite my verses for the king.
 My tongue is like the pen of a skilled writer.

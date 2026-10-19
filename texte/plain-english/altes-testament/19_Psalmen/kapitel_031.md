@@ -5,7 +5,7 @@
 
 ## Be a strong rock for me (Verses 1–5)
 
-[1] For the Chief Musician. A psalm by David.
+[1] For the music director. A psalm by David.
 LORD, I come to you for safety.
 Never let me be put to shame.
 Rescue me, because you are righteous.

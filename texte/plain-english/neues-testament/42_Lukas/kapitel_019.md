@@ -6,41 +6,37 @@
 ## Zacchaeus (Verses 1–10)
 
 [1] Jesus came to Jericho
-and was passing through the city.
-[2] There was a man named Zacchaeus.
+and was going through the town.
+[2] A man named Zacchaeus lived there.
 He was a chief tax collector,
 and he was rich.
-[3] He was trying to see
-who Jesus was.
-But he couldn’t because of the crowd,
-because he was short.
+[3] He wanted to see who Jesus was.
+But he could not see him because of the crowd,
+for Zacchaeus was a short man.
 [4] So he ran on ahead
-and climbed up into a sycamore tree
-to see Jesus.
-For Jesus was going to pass that way.
+and climbed up into a sycamore tree to see Jesus.
+For Jesus was going to come that way.
 [5] When Jesus came to the place,
-he looked up,
-saw him,
-and said to him,
+he looked up and saw Zacchaeus.
+He said to him,
 “Zacchaeus, hurry and come down!
-For today I must stay at your house.”
-[6] Zacchaeus hurried down
-and welcomed Jesus joyfully.
-[7] When the people saw it,
-they all grumbled and said,
-“He has gone in to stay with a man who is a sinner.”
-[8] But Zacchaeus stood
-and said to the Lord,
-“Lord,
-half of my goods I give to the poor.
-If I have wrongfully taken anything from anyone,
-I give back four times as much.”
+Today I must stay at your house.”
+[6] Zacchaeus hurried down.
+He was very happy to welcome Jesus.
+[7] All the people saw this
+and began to complain.
+They said,
+“He has gone to be the guest of a sinner!”
+[8] But Zacchaeus stood up and said to the Lord,
+“Look, Lord!
+I give half of everything I own to the poor.
+And if I have cheated anyone,
+I pay him back four times as much.”
 [9] Jesus said to him,
-“Today, salvation has come to this house,
-because he also is a son of Abraham.
-[10] For the Son of Man came
-to seek and to save
-that which was lost.”
+“Today salvation has come to this house.
+For this man is also a son of Abraham.
+[10] The Son of Man came to look for the lost
+and to save them.”
 
 > **What does this mean?**
 > Only Luke tells this story. Jericho was a rich trading city. A “chief tax collector” had other tax collectors under him and earned a lot of money, often at the expense of others.
@@ -56,77 +52,69 @@ that which was lost.”
 
 ## The parable of the entrusted coins (Verses 11–27)
 
-[11] The people heard these things.
-Then Jesus told another parable.
-For he was near Jerusalem,
-and they thought
-that God’s Kingdom would appear immediately.
-[12] He said,
-“A certain nobleman
-went into a far country.
-He wanted to receive a kingdom there
-and then return.
-[13] He called ten of his servants
-and gave them ten mina coins.
+[11] The people were listening to this.
+So Jesus told them another parable.
+He was near Jerusalem,
+and the people thought
+that God’s Kingdom was going to appear right away.
+[12] Jesus said,
+“A man from a noble family
+went to a country far away.
+There he was to be made king.
+Then he was going to come back.
+[13] Before he left,
+he called ten of his servants.
+He gave them ten mina coins.
 He told them,
-‘Do business with this
-until I come back.’
-[14] But his citizens hated him.
-They sent messengers after him
-to say,
-‘We don’t want
-this man to reign over us.’
-[15] But he received the kingdom
-and came back.
-Then he had the servants called
+‘Do business with this money until I come back.’
+[14] But the people of his country hated him.
+They sent messengers after him to say,
+‘We don’t want this man to be our king.’
+[15] But he was made king
+and came back home.
+Then he called the servants
 to whom he had given the money.
 He wanted to know
-what they had gained by doing business.
-[16] The first came
-and said,
-‘Lord, your mina has made ten more minas.’
-[17] He said to him,
+how much each one had earned by doing business.
+[16] The first servant came and said,
+‘Master, your mina has earned ten more minas.’
+[17] The king said to him,
 ‘Well done, you good servant!
-Because you were found faithful with very little,
-you shall have authority over ten cities.’
-[18] The second came
-and said,
-‘Your mina, Lord, has made five minas.’
-[19] He said to him,
-‘And you are to be over five cities.’
-[20] Another came
-and said,
-‘Lord, here is your mina.
-I kept it put away in a handkerchief.
-[21] For I was afraid of you,
-because you are a strict man.
-You take up what you didn’t lay down,
-and reap what you didn’t sow.’
-[22] He said to him,
-‘Out of your own mouth I will judge you,
-you wicked servant!
-You knew
-that I am a strict man,
-taking up what I didn’t lay down
-and reaping what I didn’t sow.
+You were faithful with very little.
+So you shall rule over ten cities.’
+[18] The second servant came and said,
+‘Master, your mina has earned five minas.’
+[19] The king said to him,
+‘You shall rule over five cities.’
+[20] Then another servant came and said,
+‘Master, here is your mina.
+I kept it hidden in a cloth.
+[21] I was afraid of you,
+because you are a hard man.
+You take what you did not put in.
+You harvest what you did not plant.’
+[22] The king said to him,
+‘You evil servant!
+I will judge you by your own words.
+You knew that I am a hard man.
+You knew that I take what I did not put in
+and harvest what I did not plant.
 [23] Then why didn’t you put my money in the bank?
-Then at my coming I would have received it with interest.’
-[24] He said to those who stood by,
-‘Take the mina away from him
-and give it to him who has the ten minas.’
+Then when I came back,
+I could have gotten it back with interest.’
+[24] The king said to the people standing there,
+‘Take the mina away from him.
+Give it to the servant who has ten minas.’
 [25] They said to him,
-‘Lord, he has ten minas!’
-[26] ‘I tell you,
-to everyone who has,
-more will be given.
-But from him who doesn’t have,
-even that which he has
-will be taken away.
-[27] But those enemies of mine
-who didn’t want me
-to reign over them,
-bring them here
-and kill them before me.’”
+‘Master, he already has ten minas!’
+[26] The king answered,
+‘I tell you,
+everyone who has something will be given more.
+But whoever has nothing
+will lose even what he has.
+[27] And bring here those enemies of mine
+who did not want me to be their king.
+Kill them in front of me.’”
 
 > **What does this mean?**
 > A mina was a sum of money, about the wages for a hundred days of work. Each servant receives the same amount.
@@ -143,55 +131,48 @@ and kill them before me.’”
 ## Jesus enters Jerusalem (Verses 28–40)
 
 [28] After Jesus had said these things,
-he went on ahead,
-going up to Jerusalem.
-[29] He came near Bethsphage and Bethany,
-at the mountain that is called Olivet.
-Then he sent two of his disciples
-[30] and said,
-“Go into the village ahead of you.
-As you enter,
-you will find a colt
-tied there.
-No one has ever sat on it.
-Untie it
-and bring it.
-[31] If anyone asks you,
-‘Why are you untying it?’
-say to him:
+he went on ahead of the others.
+He was going up to Jerusalem.
+[29] He came near the villages of Bethsphage and Bethany,
+at the mountain called Olivet.
+There he sent two of his disciples ahead.
+[30] He said to them,
+“Go into the village over there.
+As you go in,
+you will find a colt tied up.
+No one has ever ridden it.
+Untie it and bring it here.
+[31] Someone may ask you,
+‘Why are you untying the colt?’
+Then tell him,
 ‘The Lord needs it.’”
-[32] The two went away
-and found things
-just as he had told them.
-[33] As they were untying the colt,
-its owners said to them,
+[32] The two disciples went.
+They found everything just as Jesus had told them.
+[33] While they were untying the colt,
+its owners asked them,
 “Why are you untying the colt?”
-[34] They said,
+[34] The disciples said,
 “The Lord needs it.”
-[35] They brought it to Jesus.
-They threw their cloaks on the colt
-and sat Jesus on it.
-[36] As he rode along,
-people spread their cloaks on the road.
-[37] As he was now getting near,
-at the place where the road goes down the Mount of Olives,
-the whole crowd of the disciples began
-to rejoice
-and praise God with a loud voice
-for all the mighty works
-which they had seen.
+[35] They brought the colt to Jesus.
+They threw their coats on it
+and helped Jesus get on it.
+[36] As Jesus rode along,
+people spread their coats on the road.
+[37] Jesus came near the place
+where the road goes down from the Mount of Olives.
+Then the whole crowd of his disciples began to shout for joy.
+They praised God with loud voices
+for all the great miracles they had seen.
 [38] They said,
-“Blessed is the King
-who comes in the name of the Lord!
+“Blessed is the King who comes in the name of the Lord!
 Peace in heaven,
 and glory in the highest!”
-[39] Some of the Pharisees from the crowd
-said to him,
-“Teacher, rebuke your disciples!”
-[40] He answered them,
+[39] Some Pharisees in the crowd said to Jesus,
+“Teacher, tell your disciples to stop!”
+[40] Jesus answered them,
 “I tell you,
-if these were silent,
-the stones would cry out.”
+if they were quiet,
+the stones would shout.”
 
 > **What does this mean?**
 > Bethsphage and Bethany were villages on the Mount of Olives, east of Jerusalem. Olivet is another name for the Mount of Olives.
@@ -206,26 +187,25 @@ the stones would cry out.”
 
 ## Jesus weeps over Jerusalem (Verses 41–44)
 
-[41] When Jesus came near
-and saw the city,
-he wept over it
-[42] and said,
-“If you, even you, had known today
-the things which belong to your peace!
-But now they are hidden from your eyes.
-[43] For the days will come on you
+[41] Jesus came closer to Jerusalem.
+When he saw the city,
+he cried over it.
+[42] He said,
+“If only you, even you, had known today
+what would bring you peace!
+But now it is hidden from your eyes.
+[43] A time is coming for you
 when your enemies will build a wall around you.
 They will surround you
-and hem you in on every side.
-[44] They will dash you and your children within you
-to the ground.
-They will not leave in you one stone on another,
-because you didn’t know the time
-when God came to visit you.”
+and close you in from every side.
+[44] They will throw you and your children to the ground.
+They will not leave one stone on top of another in you.
+For you did not know the time
+when God came to you.”
 
 > **What does this mean?**
 > Only Luke tells that Jesus weeps over Jerusalem. He loves this city.
-> In Hebrew, the name “Jerusalem” contains the word “shalom,” peace. That is why Jesus speaks of “the things which belong to your peace.”
+> In Hebrew, the name “Jerusalem” contains the word “shalom,” peace. That is why Jesus speaks of “what would bring you peace.”
 > Verses 43–44: Jesus foresees what happened in the year AD 70: The Romans besieged Jerusalem and destroyed the city and the temple.
 > Important: The destruction of Jerusalem was not a “punishment from God on the Jews.” In church history this text was often misused in that way. Jesus weeps, he does not rejoice. It is the grief of a prophet, as with Jeremiah (Jeremiah 9:1, in the Hebrew Bible and in many German Bibles 8:23). The victims of this war were people Jesus wept for.
 > The WEB says “the time of your visitation”: the time when God came to his people through Jesus.
@@ -235,23 +215,17 @@ when God came to visit you.”
 ## Jesus in the temple (Verses 45–48)
 
 [45] Jesus went into the temple.
-He began
-to drive out those
-who bought and sold in it.
+He began to drive out the people who were buying and selling there.
 [46] He said to them,
 “It is written,
-‘My house is a house of prayer,’
-but you have made it a ‘den of robbers’!”
-[47] He was teaching daily in the temple.
-But the chief priests,
-the scribes,
-and the leading men among the people
-were looking for a way
-to destroy him.
-[48] But they couldn’t find
-anything they could do.
-For all the people hung on to every word
-that he said.
+‘My house is a house of prayer.’
+But you have made it a ‘den of robbers’!”
+[47] Every day Jesus taught in the temple.
+But the chief priests, the scribes,
+and the leaders of the people
+wanted to kill him.
+[48] But they could not find a way to do it.
+For all the people listened eagerly to every word Jesus said.
 
 > **What does this mean?**
 > In the outer court of the temple people sold animals for sacrifice and exchanged money. That was needed for the temple service. But it disturbed prayer, especially in the court where non-Jews were also allowed to pray.

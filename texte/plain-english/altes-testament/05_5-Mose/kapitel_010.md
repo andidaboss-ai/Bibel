@@ -30,7 +30,7 @@ And there they are, as the LORD commanded me.
 
 ## An added note: Aaron’s death and the Levites (Verses 6–9)
 
-[6] (The children of Israel traveled from Beeroth Bene Jaakan to Moserah.
+[6] (The people of Israel traveled from Beeroth Bene Jaakan to Moserah.
 There Aaron died, and there he was buried.
 And his son Eleazar served as priest in his place.
 [7] From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land with brooks of water.

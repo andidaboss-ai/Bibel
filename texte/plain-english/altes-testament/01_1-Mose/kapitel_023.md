@@ -20,13 +20,13 @@ Abraham came to mourn for Sarah and to weep for her.
 ## Abraham asks for a burial place (Verses 3–9)
 
 [3] Then Abraham got up and left his dead wife.
-He spoke to the children of Heth.
+He spoke to the people of Heth.
 He said,
 [4] “I am a stranger and a foreigner living among you.
 Give me a piece of land among you as my own, so that I can have a grave.
 Then I can bury my dead there.”
 
-[5] The children of Heth answered Abraham.
+[5] The people of Heth answered Abraham.
 They said to him,
 [6] “Listen to us, my lord!
 You are a prince of God among us.
@@ -34,7 +34,7 @@ Bury your dead in the best of our tombs.
 None of us will refuse you his tomb.
 Bury your dead.”
 
-[7] Then Abraham got up and bowed down to the people of the land, to the children of Heth.
+[7] Then Abraham got up and bowed down to the people of the land, to the people of Heth.
 [8] He said to them,
 “If you agree that I may bury my dead,
 then listen to me and speak for me to Ephron, the son of Zohar.
@@ -45,7 +45,7 @@ Then it will be my own, as a burial place.”
 
 > **What does this mean?**
 > God has promised Abraham the whole land. But until now he does not own a single square foot of it. He lives there as a foreigner.
-> The children of Heth, the Hittites, are a people who lived in the land at that time.
+> The people of Heth, the Hittites, are a people who lived in the land at that time.
 > They treat Abraham with great respect: “a prince of God.”
 > But Abraham does not want the grave as a gift, and he does not just want to borrow it. He wants to buy it – as his own, for good.
 
@@ -53,8 +53,8 @@ Then it will be my own, as a burial place.”
 
 ## The bargaining (Verses 10–16)
 
-[10] Ephron was sitting among the children of Heth.
-Ephron the Hittite answered Abraham so that all the children of Heth could hear,
+[10] Ephron was sitting among the people of Heth.
+Ephron the Hittite answered Abraham so that all the people of Heth could hear,
 all who had come to the gate of his city.
 He said,
 [11] “No, my lord, listen to me!
@@ -78,7 +78,7 @@ what is that between me and you?
 Bury your dead.”
 
 [16] Abraham agreed with Ephron.
-He weighed out for Ephron the silver he had named in front of the children of Heth:
+He weighed out for Ephron the silver he had named in front of the people of Heth:
 400 shekels of silver, by the weight the traders used.
 
 > **What does this mean?**
@@ -93,12 +93,12 @@ He weighed out for Ephron the silver he had named in front of the children of He
 [17] So the field of Ephron in Machpelah, east of Mamre, became Abraham’s:
 the field, the cave in it
 and all the trees in the field, all around, as far as its borders.
-[18] It became Abraham’s own in front of the children of Heth,
+[18] It became Abraham’s own in front of the people of Heth,
 in front of all who had come to the gate of his city.
 
 [19] After this, Abraham buried his wife Sarah in the cave of the field of Machpelah,
 east of Mamre – that is Hebron – in the land of Canaan.
-[20] So the field and the cave in it were given over to Abraham by the children of Heth as a burial place of his own.
+[20] So the field and the cave in it were given over to Abraham by the people of Heth as a burial place of his own.
 
 > **What does this mean?**
 > The first piece of land that Abraham owns in the promised land is a grave. That sounds sad. But it is also a sign of hope: Abraham firmly believes that his descendants will live here one day.

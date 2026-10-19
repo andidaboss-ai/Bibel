@@ -34,7 +34,7 @@ and made them like the dust at threshing time.
 [8] The rest of the things Jehoahaz did,
 all that he did, and his power,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[9] Jehoahaz died and joined his fathers,
+[9] Jehoahaz died and joined his ancestors,
 and they buried him in Samaria.
 And his son Joash became king in his place.
 
@@ -58,7 +58,7 @@ but he lived in them.
 [12] The rest of the things Joash did,
 all that he did, and his power with which he fought against Amaziah king of Judah,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[13] Joash died and joined his fathers,
+[13] Joash died and joined his ancestors,
 and Jeroboam sat on his throne.
 Joash was buried in Samaria with the kings of Israel.
 

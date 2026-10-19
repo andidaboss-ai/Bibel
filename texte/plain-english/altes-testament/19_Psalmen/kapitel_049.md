@@ -5,7 +5,7 @@
 
 ## Listen, all you peoples (Verses 1–4)
 
-[1] For the Chief Musician. A psalm by the sons of Korah.
+[1] For the music director. A psalm by the sons of Korah.
 Hear this, all you peoples.
 Listen, all you who live in the world,
 [2] both poor people and important people,

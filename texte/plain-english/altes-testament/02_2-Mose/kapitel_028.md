@@ -5,7 +5,7 @@
 
 ## Aaron and his sons become priests (Verses 1–5)
 
-[1] “Bring your brother Aaron and his sons with him near to you, from among the children of Israel.
+[1] “Bring your brother Aaron and his sons with him near to you, from among the people of Israel.
 They shall serve me as priests:
 Aaron and his sons Nadab, Abihu, Eleazar and Ithamar.
 [2] Make holy clothes for your brother Aaron,
@@ -40,15 +40,15 @@ So it is held together.
 of gold, of blue, purple and scarlet cloth and of fine twisted linen.
 
 [9] Take two onyx stones.
-Engrave the names of the children of Israel on them:
+Engrave the names of the people of Israel on them:
 [10] six of their names on the one stone,
 and the names of the other six on the other stone,
 in the order of their birth.
-[11] An engraver of stone shall engrave the names of the children of Israel on the two stones, the way a seal is engraved.
+[11] An engraver of stone shall engrave the names of the people of Israel on the two stones, the way a seal is engraved.
 A seal is a stamp with a name on it.
 Put the stones in settings of gold.
 [12] Put the two stones on the shoulder straps of the ephod.
-They shall be stones of remembrance for the children of Israel.
+They shall be stones of remembrance for the people of Israel.
 So Aaron shall carry their names before the LORD on his two shoulders, as a reminder.
 
 [13] Make settings of gold,
@@ -76,7 +76,7 @@ In the first row a ruby, a topaz and a beryl.
 [19] In the third row a jacinth, an agate and an amethyst.
 [20] In the fourth row a chrysolite, an onyx and a jasper.
 They shall be set in gold settings.
-[21] There shall be twelve stones, one for each name of the children of Israel.
+[21] There shall be twelve stones, one for each name of the people of Israel.
 A name shall be engraved on each stone, the way a seal is engraved.
 They shall be for the twelve tribes.
 
@@ -96,12 +96,12 @@ close to the place where they are joined, above the woven band of the ephod.
 So it stays on the woven band of the ephod,
 and the breastplate cannot swing away from the ephod.
 
-[29] So Aaron shall carry the names of the children of Israel on the breastplate of judgment, on his heart,
+[29] So Aaron shall carry the names of the people of Israel on the breastplate of judgment, on his heart,
 when he goes into the holy place.
 It shall always be a reminder before the LORD.
 [30] Put the Urim and the Thummim into the breastplate of judgment.
 They shall be on Aaron’s heart when he goes in before the LORD.
-So Aaron shall always carry the judgment of the children of Israel on his heart before the LORD.
+So Aaron shall always carry the judgment of the people of Israel on his heart before the LORD.
 
 > **What does this mean?**
 > The Bible gives the size as “a span.” A span is the distance from the thumb to the little finger when the hand is spread out. It is about 9 inches.
@@ -144,7 +144,7 @@ Engrave on it, the way a seal is engraved:
 It shall be on the front of the turban.
 [38] It shall be on Aaron’s forehead.
 So Aaron carries the guilt that may stick to the holy things,
-which the children of Israel make holy in all their holy gifts.
+which the people of Israel make holy in all their holy gifts.
 It shall always be on his forehead,
 so that the LORD accepts them.
 

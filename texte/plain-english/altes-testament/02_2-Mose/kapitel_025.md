@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses.
 He said,
-[2] “Speak to the children of Israel.
+[2] “Speak to the people of Israel.
 Tell them to collect an offering for me.
 Take my offering from everyone whose heart makes him willing to give.
 [3] This is the offering that you shall take from them:
@@ -79,7 +79,7 @@ They shall look toward the mercy seat.
 And put the covenant that I will give you inside the ark.
 [22] There I will meet with you.
 From above the mercy seat, from between the two cherubim on the ark of the covenant,
-I will tell you everything that I command you for the children of Israel.
+I will tell you everything that I command you for the people of Israel.
 
 > **What does this mean?**
 > In English, the cover is called the “mercy seat.” In Hebrew it is called “kapporet.” The word is connected with “making peace” and “covering guilt.” On the great Day of Atonement, blood is sprinkled here, so that the people’s guilt is forgiven (Leviticus 16).

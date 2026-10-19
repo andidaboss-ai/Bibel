@@ -5,12 +5,12 @@
 
 ## Israel is oppressed by Jabin (Verses 1–3)
 
-[1] After Ehud had died, the children of Israel again did what was evil in the eyes of the LORD.
+[1] After Ehud had died, the people of Israel again did what was evil in the eyes of the LORD.
 [2] So the LORD sold them into the hand of Jabin, the king of Canaan, who ruled in Hazor.
 The commander of his army was Sisera, who lived in Harosheth of the Gentiles.
-[3] Then the children of Israel cried out to the LORD.
+[3] Then the people of Israel cried out to the LORD.
 For he had nine hundred chariots of iron,
-and he cruelly oppressed the children of Israel for twenty years.
+and he cruelly oppressed the people of Israel for twenty years.
 
 > **What does this mean?**
 > Again the cycle: Ehud dies, Israel falls away, an enemy comes.
@@ -23,12 +23,12 @@ and he cruelly oppressed the children of Israel for twenty years.
 
 [4] At that time Deborah judged Israel. She was a prophetess, the wife of Lappidoth.
 [5] She sat under Deborah’s palm tree between Ramah and Bethel in the hill country of Ephraim.
-And the children of Israel came up to her to have their cases judged.
+And the people of Israel came up to her to have their cases judged.
 [6] She sent for Barak the son of Abinoam, from Kedesh in Naphtali,
 and said to him,
 “Hasn’t the LORD, the God of Israel, commanded you:
 ‘Go and lead the way to Mount Tabor,
-and take with you ten thousand men from the children of Naphtali and the children of Zebulun.
+and take with you ten thousand men from the people of Naphtali and the people of Zebulun.
 [7] I will draw Sisera, the commander of Jabin’s army, with his chariots and his crowd of soldiers,
 to you at the river Kishon,
 and I will give him into your hand’?”
@@ -121,8 +121,8 @@ and there lay Sisera, dead, with the tent peg in his temple.
 
 ## Jabin is defeated (Verses 23–24)
 
-[23] So on that day God brought down Jabin, the king of Canaan, in front of the children of Israel.
-[24] And the hand of the children of Israel pressed harder and harder on Jabin, the king of Canaan,
+[23] So on that day God brought down Jabin, the king of Canaan, in front of the people of Israel.
+[24] And the hand of the people of Israel pressed harder and harder on Jabin, the king of Canaan,
 until they had destroyed Jabin, the king of Canaan.
 
 > **What does this mean?**

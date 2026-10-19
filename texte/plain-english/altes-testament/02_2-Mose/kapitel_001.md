@@ -28,7 +28,7 @@ Joseph was already in Egypt.
 
 [6] Then Joseph died.
 All his brothers died too, and all the people of that generation.
-[7] But the children of Israel had many children.
+[7] But the people of Israel had many children.
 They grew in number very much.
 They became very many and very strong.
 The land was full of them.
@@ -45,7 +45,7 @@ The land was full of them.
 [8] Then a new king came to power over Egypt.
 He did not know about Joseph.
 [9] He said to his people,
-“Look! The people of the children of Israel are more and stronger than we are.
+“Look! The people of the people of Israel are more and stronger than we are.
 [10] Come, let’s be clever with them.
 Otherwise they will become even more.
 And when a war breaks out, they will join our enemies.
@@ -56,9 +56,9 @@ They were to oppress them with heavy work.
 The Israelites built storage cities for Pharaoh: Pithom and Raamses.
 [12] But the more the Egyptians oppressed them, the more they grew in number.
 And the more they spread out.
-The Egyptians began to dread the children of Israel.
+The Egyptians began to dread the people of Israel.
 
-[13] The Egyptians forced the children of Israel to work without mercy.
+[13] The Egyptians forced the people of Israel to work without mercy.
 [14] They made their lives bitter with hard work:
 with mortar and with bricks,
 and with all kinds of work in the field.

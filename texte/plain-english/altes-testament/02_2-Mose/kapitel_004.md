@@ -161,11 +161,11 @@ He met Moses at God’s mountain and kissed him.
 He also told him about all the signs the LORD had commanded him to do.
 
 [29] Then Moses and Aaron went.
-They gathered all the elders of the children of Israel.
+They gathered all the elders of the people of Israel.
 [30] Aaron spoke all the words that the LORD had spoken to Moses.
 And he did the signs before the eyes of the people.
 [31] The people believed.
-They heard that the LORD had come to look after the children of Israel,
+They heard that the LORD had come to look after the people of Israel,
 and that he had seen their misery.
 Then they bowed their heads and worshiped.
 

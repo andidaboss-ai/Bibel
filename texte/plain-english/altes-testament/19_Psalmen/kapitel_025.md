@@ -71,7 +71,7 @@ for he will pull my feet out of the net.
 
 > **What does this mean?**
 > Verse 14 is beautiful: God is a friend to those who honor him. The Hebrew word means a close, trusted circle in which people share secrets.
-> Jesus says: “No longer do I call you servants … But I have called you friends” (John 15:15).
+> Jesus says: “I don’t call you servants anymore. … But I have called you friends” (John 15:15).
 > Verse 15: Like an animal caught in a net, the person praying needs God’s help to get free.
 
 ---

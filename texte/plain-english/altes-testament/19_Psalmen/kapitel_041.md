@@ -5,7 +5,7 @@
 
 ## Whoever thinks of the poor (Verses 1–3)
 
-[1] For the Chief Musician. A psalm by David.
+[1] For the music director. A psalm by David.
 Blessed is the one who thinks of the poor.
 Blessed means: truly happy.
 The LORD will rescue him on the day of trouble.

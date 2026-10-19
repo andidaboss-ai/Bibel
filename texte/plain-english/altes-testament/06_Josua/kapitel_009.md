@@ -62,9 +62,9 @@ The leaders of the community swore an oath to them.
 
 [16] Three days after they had made a covenant with them,
 they heard that they were their neighbors and lived among them.
-[17] The children of Israel set out and came to their cities on the third day.
+[17] The people of Israel set out and came to their cities on the third day.
 Their cities were Gibeon, Chephirah, Beeroth, and Kiriath Jearim.
-[18] The children of Israel did not kill them,
+[18] The people of Israel did not kill them,
 because the leaders of the community had sworn to them by the LORD, the God of Israel.
 And the whole community grumbled against the leaders.
 [19] But all the leaders said to the whole community,
@@ -99,7 +99,7 @@ and that is why we did this.
 [25] Now, look, we are in your hand.
 Do with us what seems good and right to you.”
 [26] So he did that with them.
-He saved them from the hand of the children of Israel, so that they did not kill them.
+He saved them from the hand of the people of Israel, so that they did not kill them.
 [27] That day Joshua made them woodcutters and water carriers
 for the community and for the altar of the LORD, to this day,
 in the place that the LORD would choose.

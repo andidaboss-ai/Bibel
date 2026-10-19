@@ -17,7 +17,7 @@ to Hoham king of Hebron, to Piram king of Jarmuth,
 to Japhia king of Lachish, and to Debir king of Eglon. He said,
 [4] “Come up to me and help me.
 Let’s strike Gibeon,
-for it has made peace with Joshua and with the children of Israel.”
+for it has made peace with Joshua and with the people of Israel.”
 [5] So the five kings of the Amorites gathered together:
 the king of Jerusalem, the king of Hebron, the king of Jarmuth,
 the king of Lachish, and the king of Eglon.
@@ -48,7 +48,7 @@ and chased them on the road up to Beth Horon
 and struck them as far as Azekah and Makkedah.
 [11] As they ran away from Israel, while they were on the slope going down from Beth Horon,
 the LORD threw down great stones from the sky on them, as far as Azekah, and they died.
-More died from the hailstones than the children of Israel killed with the sword.
+More died from the hailstones than the people of Israel killed with the sword.
 
 > **What does this mean?**
 > Israel keeps its promise. The Gibeonites had tricked them. Still, Joshua comes to help them right away, even with a night march of about 19 miles uphill. A covenant is a covenant.
@@ -58,7 +58,7 @@ More died from the hailstones than the children of Israel killed with the sword.
 
 ## Sun, stand still! (Verses 12–15)
 
-[12] Then Joshua spoke to the LORD, on the day when the LORD gave the Amorites over to the children of Israel.
+[12] Then Joshua spoke to the LORD, on the day when the LORD gave the Amorites over to the people of Israel.
 He said, while Israel watched,
 “Sun, stand still over Gibeon!
 And you, moon, stop over the valley of Aijalon!”
@@ -97,10 +97,10 @@ and put men there to guard them.
 Chase your enemies and attack them from behind.
 Don’t let them get into their cities.
 For the LORD your God has given them into your hand.”
-[20] Joshua and the children of Israel finished striking them in a very great battle, until they were destroyed.
+[20] Joshua and the people of Israel finished striking them in a very great battle, until they were destroyed.
 Those of them who were left escaped into the walled cities.
 [21] Then all the people came back safely to Joshua at the camp at Makkedah.
-No one dared even to move his tongue against the children of Israel.
+No one dared even to move his tongue against the people of Israel.
 [22] Then Joshua said,
 “Open the entrance of the cave, and bring those five kings out of the cave to me.”
 [23] They did so and brought those five kings out of the cave to him:

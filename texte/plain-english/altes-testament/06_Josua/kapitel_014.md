@@ -5,9 +5,9 @@
 
 ## The land is divided by lot (Verses 1–5)
 
-[1] These are the inheritances that the children of Israel received in the land of Canaan.
+[1] These are the inheritances that the people of Israel received in the land of Canaan.
 Eleazar the priest, Joshua the son of Nun,
-and the heads of the families of the tribes of the children of Israel gave them out to them,
+and the heads of the families of the tribes of the people of Israel gave them out to them,
 [2] by the lot of their inheritance,
 as the LORD had commanded through Moses,
 for the nine tribes and for the half-tribe.
@@ -16,7 +16,7 @@ But to the Levites he gave no inheritance among them.
 [4] For the children of Joseph were two tribes, Manasseh and Ephraim.
 They gave the Levites no share in the land,
 except cities to live in, with their pasture lands for their livestock and for their property.
-[5] The children of Israel did as the LORD had commanded Moses, and they divided the land.
+[5] The people of Israel did as the LORD had commanded Moses, and they divided the land.
 
 > **What does this mean?**
 > The land is divided by lot. That way no one could say that they had been treated unfairly. People believed: God himself decides through the lot.
@@ -26,7 +26,7 @@ except cities to live in, with their pasture lands for their livestock and for t
 
 ## Caleb reminds Joshua of an old promise (Verses 6–12)
 
-[6] Then the children of Judah came to Joshua in Gilgal.
+[6] Then the people of Judah came to Joshua in Gilgal.
 Caleb, the son of Jephunneh the Kenizzite, said to him,
 “You know what the LORD said to Moses, the man of God, in Kadesh Barnea,
 about me and about you.

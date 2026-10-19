@@ -89,7 +89,7 @@ that person shall be cut off from his people.’”
 ## No fat and no blood (Verses 22–27)
 
 [22] The LORD spoke to Moses. He said,
-[23] “Speak to the children of Israel and say,
+[23] “Speak to the people of Israel and say,
 ‘You shall not eat any fat, whether of cattle, or sheep, or goats.
 [24] The fat of an animal that died by itself,
 and the fat of an animal that was torn by wild animals,
@@ -110,7 +110,7 @@ that person shall be cut off from his people.
 ## The priests’ share of the peace offering (Verses 28–36)
 
 [28] The LORD spoke to Moses. He said,
-[29] “Speak to the children of Israel and say,
+[29] “Speak to the people of Israel and say,
 ‘Whoever brings the sacrifice of his peace offerings to the LORD
 shall bring his gift to the LORD from the sacrifice of his peace offerings.
 [30] He shall bring the LORD’s offerings made by fire with his own hands.
@@ -123,14 +123,14 @@ But the breast shall belong to Aaron and his sons.
 [33] The one among the sons of Aaron who brings the blood of the peace offerings and the fat
 shall have the right thigh as his share.
 [34] For I have taken the breast that is waved and the thigh that is lifted up
-from the children of Israel, from the sacrifices of their peace offerings.
+from the people of Israel, from the sacrifices of their peace offerings.
 And I have given them to Aaron the priest and to his sons
-as their share forever from the children of Israel.’”
+as their share forever from the people of Israel.’”
 
 [35] This is the holy share of Aaron and the holy share of his sons
 from the LORD’s offerings made by fire,
 from the day when he brought them near to serve the LORD as priests.
-[36] The LORD commanded that the children of Israel give this to them,
+[36] The LORD commanded that the people of Israel give this to them,
 from the day that he anointed them.
 It is their share forever, for all their generations.
 
@@ -144,7 +144,7 @@ It is their share forever, for all their generations.
 
 [37] This is the law for the burnt offering, the meal offering, the sin offering, the trespass offering, the consecration offering, and the sacrifice of peace offerings,
 [38] which the LORD commanded Moses on Mount Sinai,
-on the day when he commanded the children of Israel to bring their offerings to the LORD, in the wilderness of Sinai.
+on the day when he commanded the people of Israel to bring their offerings to the LORD, in the wilderness of Sinai.
 The consecration offering is the offering when the priests are set apart for their service.
 
 > **What does this mean?**

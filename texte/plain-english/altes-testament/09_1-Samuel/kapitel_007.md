@@ -25,7 +25,7 @@ And the whole house of Israel mourned and longed for the LORD.
 then put away the foreign gods and the Ashtaroth from among you.
 Turn your hearts to the LORD and serve him only.
 Then he will save you from the hand of the Philistines.”
-[4] So the children of Israel put away the Baals and the Ashtaroth
+[4] So the people of Israel put away the Baals and the Ashtaroth
 and served the LORD only.
 [5] Samuel said,
 “Gather all Israel at Mizpah.
@@ -34,7 +34,7 @@ Then I will pray to the LORD for you.”
 They drew water and poured it out in front of the LORD.
 They fasted on that day and said there,
 “We have sinned against the LORD.”
-And Samuel judged the children of Israel at Mizpah.
+And Samuel judged the people of Israel at Mizpah.
 
 > **What does this mean?**
 > For twenty years we hear nothing about Samuel. Now he steps forward and says clearly: Real turning back does not only mean mourning. Real turning back means: putting away everything that stands between you and God.
@@ -46,10 +46,10 @@ And Samuel judged the children of Israel at Mizpah.
 
 ## God thunders against the Philistines (Verses 7–11)
 
-[7] When the Philistines heard that the children of Israel had gathered at Mizpah,
+[7] When the Philistines heard that the people of Israel had gathered at Mizpah,
 the lords of the Philistines went up against Israel.
-When the children of Israel heard it, they were afraid of the Philistines.
-[8] The children of Israel said to Samuel,
+When the people of Israel heard it, they were afraid of the Philistines.
+[8] The people of Israel said to Samuel,
 “Don’t stop crying out to the LORD our God for us,
 so that he will save us from the hand of the Philistines.”
 [9] Samuel took a young lamb that was still nursing

@@ -22,7 +22,7 @@ For he had filled Jerusalem with innocent blood,
 and the LORD would not forgive.
 [5] The rest of the things Jehoiakim did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[6] Jehoiakim died and joined his fathers,
+[6] Jehoiakim died and joined his ancestors,
 and his son Jehoiachin became king in his place.
 [7] The king of Egypt did not come out of his land anymore.
 For the king of Babylon had taken everything that belonged to the king of Egypt,

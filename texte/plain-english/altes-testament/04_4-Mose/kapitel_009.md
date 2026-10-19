@@ -8,12 +8,12 @@
 [1] The LORD spoke to Moses in the wilderness of Sinai,
 in the first month of the second year after they had come out of the land of Egypt.
 He said:
-[2] “The children of Israel shall keep the Passover at its appointed time.
+[2] “The people of Israel shall keep the Passover at its appointed time.
 [3] On the fourteenth day of this month, in the evening, you shall keep it at its appointed time.
 You shall keep it by all its statutes and by all its rules.”
-[4] Moses told the children of Israel that they should keep the Passover.
+[4] Moses told the people of Israel that they should keep the Passover.
 [5] And they kept the Passover in the first month, on the fourteenth day of the month, in the evening, in the wilderness of Sinai.
-The children of Israel did everything just as the LORD had commanded Moses.
+The people of Israel did everything just as the LORD had commanded Moses.
 
 > **What does this mean?**
 > One year after leaving Egypt, Israel celebrates the Passover again for the first time. They remember the night when they were set free.
@@ -29,13 +29,13 @@ They came to Moses and Aaron on that day.
 [7] These men said to him:
 “We are unclean because we touched the dead body of a person.
 Why should we be kept back?
-Why may we not bring the offering of the LORD at its appointed time with the children of Israel?”
+Why may we not bring the offering of the LORD at its appointed time with the people of Israel?”
 [8] Moses answered them:
 “Wait. I will hear what the LORD commands about you.”
 
 [9] The LORD spoke to Moses.
 He said:
-[10] “Tell the children of Israel:
+[10] “Tell the people of Israel:
 ‘Someone among you or your descendants may be unclean because he touched a dead body.
 Or he may be on a long journey far away.
 He shall still keep the Passover for the LORD.
@@ -70,14 +70,14 @@ the cloud covered the Tabernacle, the Tent of the Testimony.
 In the evening, something that looked like fire was over the Tabernacle until the morning.
 [16] It was always like this:
 The cloud covered it, and at night it looked like fire.
-[17] Whenever the cloud rose up from over the Tent, the children of Israel set out after it.
-And in the place where the cloud stopped, there the children of Israel set up their camp.
-[18] At the command of the LORD the children of Israel set out,
+[17] Whenever the cloud rose up from over the Tent, the people of Israel set out after it.
+And in the place where the cloud stopped, there the people of Israel set up their camp.
+[18] At the command of the LORD the people of Israel set out,
 and at the command of the LORD they set up camp.
 As long as the cloud stayed over the Tabernacle, they stayed in the camp.
 
 [19] When the cloud stayed over the Tabernacle for many days,
-the children of Israel kept the LORD’s command and did not set out.
+the people of Israel kept the LORD’s command and did not set out.
 [20] Sometimes the cloud was over the Tabernacle for only a few days.
 Then they stayed in the camp at the command of the LORD,
 and they set out at the command of the LORD.
@@ -85,7 +85,7 @@ and they set out at the command of the LORD.
 When the cloud rose up in the morning, they set out.
 Or if it stayed a day and a night: When the cloud rose up, they set out.
 [22] It could be two days, or a month, or a year that the cloud stayed over the Tabernacle –
-the children of Israel stayed in the camp and did not set out.
+the people of Israel stayed in the camp and did not set out.
 But when it rose up, they set out.
 [23] At the command of the LORD they set up camp,
 and at the command of the LORD they set out.

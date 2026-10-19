@@ -12,28 +12,21 @@
 
 ## Paul’s grief for his people (Verses 1–5)
 
-[1] I tell the truth in Christ.
+[1] I am telling the truth in Christ.
 I am not lying.
-My conscience testifies with me in the Holy Spirit:
-[2] I have great sorrow
-and unceasing pain in my heart.
-[3] For I could even wish
-that I myself were cursed and cut off from Christ
-for the sake of my brothers,
-my relatives according to the flesh.
+My conscience agrees with me, and it is guided by the Holy Spirit:
+[2] I am very sad.
+The pain in my heart never stops.
+[3] I could even wish that I myself were cursed and cut off from Christ.
+I would accept that for the sake of my brothers, the people of my own race.
 [4] They are Israelites.
-Theirs is the adoption,
-the glory,
-the covenants,
-the giving of the law,
-the worship,
-and the promises.
-[5] Theirs are the fathers.
-And from them is Christ
-as concerning the flesh.
-He is over all,
-God,
-blessed forever.
+God adopted them as his children.
+God’s glory belongs to them, and so do the covenants.
+God gave them the law.
+They have the worship of God, and they have the promises.
+[5] The fathers belong to them.
+And Christ, as a human being, comes from them.
+He is over all, God, blessed forever.
 Amen.
 
 *covenant* = a solemn agreement between God and people
@@ -48,33 +41,22 @@ Amen.
 ## God chooses freely (Verses 6–13)
 
 [6] But it is not as though the word of God has come to nothing.
-For not all
-who are descended from Israel
-are Israel.
-[7] And not all are children
-just because they are Abraham’s offspring.
-But it says,
-“your offspring will be accounted as from Isaac.”
-[8] That is,
-it is not the children of the flesh who are children of God,
-but the children of the promise are counted as heirs.
-[9] For this is a word of promise:
-“At the appointed time I will come,
-and Sarah will have a son.”
-[10] Not only so.
-Rebekah also became pregnant by one man,
-by our father Isaac.
-[11] The children were not yet born
-and had done nothing good or bad.
-So that God’s free plan of choosing might stand,
-not because of works,
-but because of him
-who calls,
-[12] it was said to her,
-“The elder will serve the younger.”
-[13] As it is written,
-“Jacob I loved,
-but Esau I hated.”
+For not everyone who comes from Israel is truly Israel.
+[7] And not everyone who comes from Abraham is truly his child.
+No, the Scripture says: “Your offspring will be counted through Isaac.”
+[8] That means: The children born in the normal human way are not God’s children.
+The children of the promise are counted as Abraham’s offspring.
+[9] For this is what God promised:
+“At the set time I will come, and Sarah will have a son.”
+[10] And that is not all.
+Rebekah also became pregnant by one man, our father Isaac.
+[11] Her twins were not born yet.
+They had not done anything good or bad.
+But God’s plan of choosing had to stand.
+It does not depend on what people do.
+It depends on God, who calls.
+[12] So God said to Rebekah: “The older will serve the younger.”
+[13] As it is written: “Jacob I loved, but Esau I hated.”
 
 *election* = God’s choosing
 
@@ -88,70 +70,49 @@ but Esau I hated.”
 
 ## Is God unfair? (Verses 14–29)
 
-[14] What shall we say then?
-Is there unrighteousness with God?
-May it never be!
-[15] For he said to Moses,
-“I will have mercy on whom I have mercy,
-and I will have compassion on whom I have compassion.”
-[16] So then it does not depend on the one
-who wants,
-or on the one
-who runs,
-but on God
-who has mercy.
-[17] For the Scripture says to Pharaoh,
-“For this very purpose I caused you to be raised up,
-that I might show in you my power,
-and that my name might be proclaimed in all the earth.”
-[18] So then, he has mercy
-on whom he desires,
-and he hardens
-whom he desires.
-[19] You will say then to me,
-“Why does he still find fault?
-For who withstands his will?”
-[20] But, O man,
-who are you
-to answer back to God?
-Will the thing formed ask him
-who formed it,
-“Why did you make me like this?”
-[21] Or doesn’t the potter have a right over the clay,
-from the same lump
-to make one vessel for honor,
-and another for dishonor?
-[22] What if God
-wanted to show his wrath
-and make his power known,
-and therefore endured with much patience vessels of wrath
-prepared for destruction,
-[23] so that he might make known the riches of his glory
-on vessels of mercy,
-which he prepared beforehand for glory?
-[24] That is us,
-whom he also called,
-not from the Jews only,
-but also from the Gentiles.
-[25] As he says also in Hosea,
-“I will call them ‘my people,’
-which were not my people;
-and her ‘beloved,’
-who was not beloved.”
-[26] “It will be that in the place
-where it was said to them,
-‘You are not my people,’
-there they will be called ‘children of the living God.’ ”
-[27] Isaiah cries concerning Israel,
-“If the number of the children of Israel
-are as the sand of the sea,
-it is the remnant who will be saved;
-[28] for he will finish the work and cut it short in righteousness,
-because the Lord will make a short work upon the earth.”
-[29] As Isaiah has said before,
-“Unless the Lord of Armies had left us a seed,
-we would have become like Sodom,
-and would have been made like Gomorrah.”
+[14] So what can we say?
+Is God unfair?
+Of course not!
+[15] For God said to Moses:
+“I will have mercy on whom I have mercy.
+And I will have compassion on whom I have compassion.”
+[16] So it does not depend on what people want or on how hard they try.
+It depends on God, who has mercy.
+[17] For the Scripture says to Pharaoh:
+“I raised you up for this very reason:
+I wanted to show my power through you.
+I wanted my name to be made known in all the earth.”
+[18] So God has mercy on whom he wants to.
+And he makes stubborn whom he wants to.
+[19] Then you will say to me:
+“So why does God still blame us?
+Who can resist what he wants?”
+[20] But who are you, a human being, to talk back to God?
+Can a pot say to the one who made it, “Why did you make me like this?”
+[21] The potter has the right to do what he wants with the clay, doesn’t he?
+From the same lump of clay he can make one vessel for special use and another for common use.
+[22] God wanted to show his anger and make his power known.
+But he was very patient with the vessels of his anger.
+They were ready to be destroyed.
+[23] He did this to show the riches of his glory to the vessels of his mercy.
+He prepared them ahead of time for glory.
+[24] We are these vessels.
+God has called us.
+He called us not only from the Jews, but also from the Gentiles.
+[25] As God also says in the book of Hosea:
+“I will call them ‘my people,’ who were not my people.
+I will call her ‘beloved,’ who was not beloved.”
+[26] “In the place where people said to them, ‘You are not my people,’
+there they will be called ‘children of the living God.’”
+[27] Isaiah calls out about Israel:
+“The children of Israel may be as many as the sand of the sea.
+But only the remnant will be saved.
+[28] For the Lord will finish his work on earth.
+He will do it quickly and in righteousness.”
+[29] Isaiah said before:
+“If the Lord of Armies had not left us some descendants,
+we would have become like Sodom.
+We would have been like Gomorrah.”
 
 *vessel* = a pot or jar
 *remnant* = the part that is left over
@@ -168,21 +129,18 @@ and would have been made like Gomorrah.”
 
 ## The stumbling stone (Verses 30–33)
 
-[30] What shall we say then?
-The Gentiles,
-who didn’t pursue righteousness,
-attained righteousness,
-the righteousness which is of faith.
-[31] But Israel pursued a law of righteousness
-and didn’t arrive at the law of righteousness.
-[32] Why?
-Because they didn’t seek it by faith,
-but as if it came by works of the law.
-They stumbled over the stumbling stone,
-[33] as it is written,
-“I lay in Zion a stumbling stone
-and a rock of offense;
-and no one who believes in him will be disappointed.”
+[30] So what can we say?
+The Gentiles did not try to become righteous.
+But they became righteous, through faith.
+[31] Israel tried to become righteous by keeping a law.
+But they did not reach the goal of that law.
+[32] Why not?
+Because they did not try to reach it through faith.
+They tried to reach it through works of the law.
+They stumbled over the stumbling stone.
+[33] As it is written:
+“Look, I am putting a stumbling stone in Zion, a rock that makes people fall.
+But no one who believes in him will be disappointed.”
 
 > **What does this mean?**
 > Verse 33 combines Isaiah 28:16 and Isaiah 8:14.

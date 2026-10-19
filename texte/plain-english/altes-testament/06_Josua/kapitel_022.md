@@ -29,8 +29,8 @@ When Joshua sent them away to their tents, he blessed them
 “Go back to your tents with great wealth,
 with very much livestock, with silver, gold, bronze, and iron, and with very much clothing.
 Share the goods you took from your enemies with your brothers.”
-[9] So the children of Reuben, the children of Gad, and the half-tribe of Manasseh turned back.
-They left the children of Israel at Shiloh, which is in the land of Canaan,
+[9] So the people of Reuben, the people of Gad, and the half-tribe of Manasseh turned back.
+They left the people of Israel at Shiloh, which is in the land of Canaan,
 to go to the land of Gilead, to the land that belonged to them,
 which they had taken as the LORD had commanded through Moses.
 
@@ -44,14 +44,14 @@ which they had taken as the LORD had commanded through Moses.
 ## A large altar (Verses 10–12)
 
 [10] When they came to the region by the Jordan that is in the land of Canaan,
-the children of Reuben, the children of Gad, and the half-tribe of Manasseh built an altar there by the Jordan,
+the people of Reuben, the people of Gad, and the half-tribe of Manasseh built an altar there by the Jordan,
 a large altar that could be seen from far away.
-[11] The children of Israel heard about it:
-“Look, the children of Reuben, the children of Gad, and the half-tribe of Manasseh
+[11] The people of Israel heard about it:
+“Look, the people of Reuben, the people of Gad, and the half-tribe of Manasseh
 have built an altar on the border of the land of Canaan, in the region by the Jordan,
-on the side that belongs to the children of Israel.”
-[12] When the children of Israel heard it,
-the whole community of the children of Israel gathered at Shiloh
+on the side that belongs to the people of Israel.”
+[12] When the people of Israel heard it,
+the whole community of the people of Israel gathered at Shiloh
 to go to war against them.
 
 > **What does this mean?**
@@ -62,11 +62,11 @@ to go to war against them.
 
 ## Messengers are sent (Verses 13–20)
 
-[13] The children of Israel sent Phinehas, the son of Eleazar the priest,
-to the children of Reuben, the children of Gad, and the half-tribe of Manasseh, in the land of Gilead.
+[13] The people of Israel sent Phinehas, the son of Eleazar the priest,
+to the people of Reuben, the people of Gad, and the half-tribe of Manasseh, in the land of Gilead.
 [14] With him were ten leaders, one leader of a family for each tribe of Israel.
 Each of them was the head of his family among the thousands of Israel.
-[15] They came to the children of Reuben, the children of Gad, and the half-tribe of Manasseh, in the land of Gilead,
+[15] They came to the people of Reuben, the people of Gad, and the half-tribe of Manasseh, in the land of Gilead,
 and spoke with them. They said,
 [16] “The whole community of the LORD says:
 ‘What is this unfaithfulness that you have done against the God of Israel?
@@ -97,7 +97,7 @@ And that man was not the only one who died because of his sin.’”
 
 ## The answer: an altar as a witness (Verses 21–29)
 
-[21] Then the children of Reuben, the children of Gad, and the half-tribe of Manasseh answered.
+[21] Then the people of Reuben, the people of Gad, and the half-tribe of Manasseh answered.
 They said to the heads of the thousands of Israel,
 [22] “The Mighty One, God, the LORD! The Mighty One, God, the LORD, he knows!
 And Israel shall know:
@@ -111,7 +111,7 @@ then let the LORD himself punish us for it.
 We thought, ‘In the future your children might say to our children,
 “What do you have to do with the LORD, the God of Israel?
 [25] For the LORD has made the Jordan a border between us and you,
-you children of Reuben and children of Gad.
+you people of Reuben and people of Gad.
 You have no share in the LORD.”’
 So your children might make our children stop fearing the LORD.
 [26] That is why we said,
@@ -145,20 +145,20 @@ besides the altar of the LORD our God that stands in front of his tabernacle!”
 
 [30] Phinehas the priest and the leaders of the community,
 the heads of the thousands of Israel who were with him,
-heard the words that the children of Reuben, the children of Gad, and the children of Manasseh spoke.
+heard the words that the people of Reuben, the people of Gad, and the people of Manasseh spoke.
 They were very pleased.
-[31] Phinehas, the son of Eleazar the priest, said to the children of Reuben, the children of Gad, and the children of Manasseh,
+[31] Phinehas, the son of Eleazar the priest, said to the people of Reuben, the people of Gad, and the people of Manasseh,
 “Today we know that the LORD is among us,
 because you have not done this unfaithful thing against the LORD.
-Now you have saved the children of Israel from the hand of the LORD.”
+Now you have saved the people of Israel from the hand of the LORD.”
 [32] Then Phinehas, the son of Eleazar the priest, and the leaders
-went back from the children of Reuben and the children of Gad, from the land of Gilead, to the land of Canaan, to the children of Israel,
+went back from the people of Reuben and the people of Gad, from the land of Gilead, to the land of Canaan, to the people of Israel,
 and brought them the report.
-[33] The children of Israel were pleased with it.
-The children of Israel praised God
+[33] The people of Israel were pleased with it.
+The people of Israel praised God
 and spoke no more of going to war against them
-to destroy the land where the children of Reuben and the children of Gad lived.
-[34] The children of Reuben and the children of Gad named the altar
+to destroy the land where the people of Reuben and the people of Gad lived.
+[34] The people of Reuben and the people of Gad named the altar
 “A Witness Between Us that the LORD is God.”
 
 > **What does this mean?**

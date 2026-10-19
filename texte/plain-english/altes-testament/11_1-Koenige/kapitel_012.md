@@ -86,7 +86,7 @@ We have no inheritance in the son of Jesse.
 To your tents, Israel!
 Now look after your own house, David!”
 So Israel went home to their tents.
-[17] But Rehoboam ruled over the children of Israel who lived in the cities of Judah.
+[17] But Rehoboam ruled over the people of Israel who lived in the cities of Judah.
 [18] Then King Rehoboam sent Adoram, who was over the men who had to do forced labor.
 But all Israel stoned him to death with stones.
 King Rehoboam hurried to get up into his chariot
@@ -120,7 +120,7 @@ and bring the kingdom back to Rehoboam the son of Solomon.
 and to the whole house of Judah and Benjamin,
 and to the rest of the people, and say:
 [24] ‘The LORD says:
-You must not go up or fight against your brothers, the children of Israel.
+You must not go up or fight against your brothers, the people of Israel.
 Everyone go back to his house, for this thing is from me.’”
 So they listened to the LORD’s word
 and turned back and went their way, as the LORD had said.
@@ -162,7 +162,7 @@ And in Bethel he appointed the priests of the high places that he had made.
 [33] He went up to the altar that he had made in Bethel
 on the fifteenth day of the eighth month,
 in the month that he had made up in his own heart.
-He set up a feast for the children of Israel
+He set up a feast for the people of Israel
 and went up to the altar to burn incense.
 
 > **What does this mean?**

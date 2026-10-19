@@ -14,11 +14,11 @@ They cried out loud and wept bitterly.
 that today one tribe is missing in Israel?”
 [4] The next day the people got up early and built an altar there.
 They offered burnt offerings and peace offerings.
-[5] The children of Israel said,
+[5] The people of Israel said,
 “Who from all the tribes of Israel did not come up to the assembly to the LORD?”
 For they had sworn a great oath about anyone who did not come up to the LORD at Mizpah:
 “He shall surely be put to death.”
-[6] The children of Israel felt sorry for their brother Benjamin.
+[6] The people of Israel felt sorry for their brother Benjamin.
 They said,
 “Today one tribe has been cut off from Israel.
 [7] How can we find wives for those who are left?
@@ -50,7 +50,7 @@ and every woman who has slept with a man.”
 virgins who had never slept with a man.
 They brought them to the camp at Shiloh, which is in the land of Canaan.
 [13] The whole congregation sent messengers
-and spoke to the children of Benjamin who were at the rock of Rimmon,
+and spoke to the people of Benjamin who were at the rock of Rimmon,
 and offered them peace.
 [14] So Benjamin came back at that time.
 And they gave them the women whom they had kept alive from the women of Jabesh Gilead.
@@ -59,7 +59,7 @@ But there still were not enough for them.
 > **What does this mean?**
 > This is another horrifying chapter. To solve the problem with Benjamin, Israel destroys yet another city. Men, women, and children are killed. Only 400 young girls are left alive, and they are taken away against their will and given to the Benjamites.
 > The Bible does not praise this. It shows: One wrong leads to the next. To punish a crime against one woman, hundreds of women are now killed or carried off.
-> Jabesh was east of the Jordan, in the land of Gilead. Later this city is remembered again: King Saul from the tribe of Benjamin rescues Jabesh from the children of Ammon (1 Samuel 11). Maybe there was an old connection between Jabesh and Benjamin.
+> Jabesh was east of the Jordan, in the land of Gilead. Later this city is remembered again: King Saul from the tribe of Benjamin rescues Jabesh from the people of Ammon (1 Samuel 11). Maybe there was an old connection between Jabesh and Benjamin.
 > 600 men, but only 400 women: 200 are still missing.
 
 ---
@@ -75,14 +75,14 @@ For the women of Benjamin have been destroyed.”
 “There must be an inheritance for those of Benjamin who have escaped,
 so that a tribe is not wiped out from Israel.
 [18] But we cannot give them any of our daughters as wives.
-For the children of Israel have sworn,
+For the people of Israel have sworn,
 ‘Cursed is anyone who gives a wife to Benjamin.’”
 [19] They said,
 “Look, every year there is a feast of the LORD in Shiloh.
 Shiloh is north of Bethel,
 east of the highway that goes up from Bethel to Shechem,
 and south of Lebonah.”
-[20] They commanded the children of Benjamin,
+[20] They commanded the people of Benjamin,
 “Go and lie in wait in the vineyards.
 [21] Watch carefully:
 When the daughters of Shiloh come out to dance in the dances,
@@ -95,12 +95,12 @@ we will say to them,
 For we did not take a wife for each man in battle.
 And you did not give them to them either.
 Otherwise you would now be guilty.’”
-[23] The children of Benjamin did so.
+[23] The people of Benjamin did so.
 They took wives for themselves, as many as there were men,
 from the girls who were dancing, whom they carried off.
 Then they went away and returned to their inheritance.
 They rebuilt the cities and lived in them.
-[24] At that time the children of Israel left that place,
+[24] At that time the people of Israel left that place,
 each man to his tribe and his family.
 Each one went from there to his own inheritance.
 

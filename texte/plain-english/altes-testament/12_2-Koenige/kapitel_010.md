@@ -182,7 +182,7 @@ both Gilead and Bashan.
 [34] The rest of the things Jehu did,
 all that he did, and all his power,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[35] Jehu died and joined his fathers,
+[35] Jehu died and joined his ancestors,
 and they buried him in Samaria.
 And his son Jehoahaz became king in his place.
 [36] The time that Jehu ruled over Israel in Samaria was 28 years.

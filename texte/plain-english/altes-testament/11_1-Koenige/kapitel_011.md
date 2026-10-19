@@ -8,7 +8,7 @@
 [1] King Solomon loved many foreign women,
 together with the daughter of Pharaoh:
 women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites,
-[2] from the nations about which the LORD had said to the children of Israel,
+[2] from the nations about which the LORD had said to the people of Israel,
 “You must not go among them, and they must not come among you.
 For they will surely turn your heart away to their gods.”
 Solomon held on to these women in love.
@@ -24,7 +24,7 @@ and Milcom, the disgusting idol of the Ammonites.
 and did not follow the LORD fully, as his father David had.
 [7] Then Solomon built a high place for Chemosh, the disgusting idol of Moab,
 on the mountain that is east of Jerusalem,
-and for Molech, the disgusting idol of the children of Ammon.
+and for Molech, the disgusting idol of the people of Ammon.
 [8] He did the same for all his foreign wives,
 who burned incense and sacrificed to their gods.
 
@@ -88,7 +88,7 @@ the sister of Queen Tahpenes.
 [20] The sister of Tahpenes gave birth to his son Genubath.
 Tahpenes raised him in Pharaoh’s house until he no longer nursed.
 And Genubath was in Pharaoh’s house among the sons of Pharaoh.
-[21] When Hadad heard in Egypt that David slept with his fathers
+[21] When Hadad heard in Egypt that David died and joined his ancestors
 and that Joab the commander of the army was dead,
 Hadad said to Pharaoh,
 “Let me go, so that I may go to my own country.”
@@ -151,7 +151,7 @@ for the sake of my servant David
 and for the sake of Jerusalem, the city that I have chosen out of all the tribes of Israel –
 [33] because they have abandoned me
 and have worshiped Ashtoreth the goddess of the Sidonians, Chemosh the god of Moab,
-and Milcom the god of the children of Ammon.
+and Milcom the god of the people of Ammon.
 They have not walked in my ways,
 to do what is right in my eyes,
 and to keep my statutes and my ordinances, as his father David did.
@@ -197,7 +197,7 @@ And he stayed in Egypt until Solomon died.
 everything he did, and his wisdom,
 aren’t they written in the book of the acts of Solomon?
 [42] Solomon ruled in Jerusalem over all Israel for 40 years.
-[43] Solomon slept with his fathers
+[43] Solomon died and joined his ancestors
 and was buried in the city of his father David.
 And his son Rehoboam became king in his place.
 

@@ -43,7 +43,7 @@ so the LORD of Armies will protect Jerusalem.
 He will protect it and rescue it.
 He will pass over it and keep it safe.”
 [6] Turn back to the one you have turned so far away from,
-you children of Israel!
+you people of Israel!
 [7] For on that day, everyone will throw away his idols of silver
 and his idols of gold,
 the sin that your own hands have made for you.

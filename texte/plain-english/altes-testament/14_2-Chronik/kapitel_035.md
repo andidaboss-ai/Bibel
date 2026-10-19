@@ -77,7 +77,7 @@ because their brothers the Levites prepared food for them.
 [16] So all the service of the LORD was prepared on the same day,
 to keep the Passover and to offer burnt offerings on the LORD’s altar,
 as King Josiah had commanded.
-[17] The children of Israel who were there kept the Passover at that time,
+[17] The people of Israel who were there kept the Passover at that time,
 and the feast of unleavened bread for seven days.
 [18] No Passover like it had been kept in Israel since the days of Samuel the prophet.
 And none of the kings of Israel had kept such a Passover as Josiah kept,

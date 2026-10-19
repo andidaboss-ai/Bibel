@@ -153,6 +153,6 @@ that I, the LORD, am your Savior
 and your Redeemer, the Mighty One of Jacob.”
 
 > **What does this mean?**
-> Verses 22–23: The nations themselves will carry the children of Israel home. Kings and queens will care for them like foster parents. “Licking the dust” is an old picture of complete surrender. What it means is: Things are turned around; the despised people is honored.
+> Verses 22–23: The nations themselves will carry the people of Israel home. Kings and queens will care for them like foster parents. “Licking the dust” is an old picture of complete surrender. What it means is: Things are turned around; the despised people is honored.
 > Verses 24–25: Can a mighty man’s captives be taken away from him again? Yes, God can do it. He fights for his people and saves the children.
 > Verse 26: A harsh picture. Many interpreters understand it like this: In the end, the oppressors destroy themselves, for example by fighting each other. This is not a call to violence. It describes how violence turns against those who use it. It is God who brings about justice.

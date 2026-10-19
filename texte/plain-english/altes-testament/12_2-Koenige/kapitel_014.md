@@ -80,7 +80,7 @@ and went back to Samaria.
 [15] The rest of the things Jehoash did, and his power,
 and how he fought against Amaziah king of Judah,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[16] Jehoash died and joined his fathers.
+[16] Jehoash died and joined his ancestors.
 He was buried in Samaria with the kings of Israel.
 And his son Jeroboam became king in his place.
 [17] Amaziah the son of Joash, king of Judah,
@@ -95,12 +95,12 @@ and he was buried in Jerusalem with his fathers in David’s city.
 [21] All the people of Judah took Azariah, who was 16 years old,
 and made him king in the place of his father Amaziah.
 [22] He built up Elath and gave it back to Judah.
-After that the king died and joined his fathers.
+After that the king died and joined his ancestors.
 
 > **What does this mean?**
 > Amaziah is murdered too, just like his father Joash. Lachish was a large fortress city in the southwest of Judah.
 > Azariah becomes king at the age of 16. He is also called Uzziah (Chapter 15:13). Elath lies on the Red Sea, on the Gulf of Aqaba. With this, Judah has a harbor again.
-> “The king died and joined his fathers”: this probably means Amaziah. Azariah built up Elath after his father’s death.
+> “The king died and joined his ancestors”: this probably means Amaziah. Azariah built up Elath after his father’s death.
 > Amaziah ruled from about 796 to 767 before Christ.
 
 ---
@@ -125,7 +125,7 @@ So he saved them through Jeroboam the son of Joash.
 all that he did, and his power, how he fought,
 and how he won back for Israel Damascus and Hamath, which had belonged to Judah,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[29] Jeroboam died and joined his fathers, the kings of Israel.
+[29] Jeroboam died and joined his ancestors, the kings of Israel.
 And his son Zechariah became king in his place.
 
 > **What does this mean?**

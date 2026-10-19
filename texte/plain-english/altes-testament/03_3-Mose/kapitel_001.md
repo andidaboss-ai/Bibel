@@ -18,7 +18,7 @@ The temple in Jerusalem was destroyed in the year 70 after Christ. Since then, J
 ## The burnt offering from cattle (Verses 1–9)
 
 [1] The LORD called Moses and spoke to him from the Tent of Meeting. He said,
-[2] “Speak to the children of Israel and tell them,
+[2] “Speak to the people of Israel and tell them,
 ‘When any of you brings an offering to the LORD,
 you shall bring your offering from the livestock, from the cattle or from the sheep and goats.
 

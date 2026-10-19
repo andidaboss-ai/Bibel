@@ -24,7 +24,7 @@ And it ended at the sea.
 
 ## The borders of Ephraim (Verses 5–9)
 
-[5] This was the territory of the children of Ephraim by their clans:
+[5] This was the territory of the people of Ephraim by their clans:
 The border of their inheritance on the east was Ataroth Addar, as far as Upper Beth Horon.
 [6] The border went out to the west, at Michmethath on the north.
 And the border turned east to Taanath Shiloh
@@ -32,8 +32,8 @@ and went along past it, east of Janoah.
 [7] It went down from Janoah to Ataroth and to Naarah,
 reached Jericho, and went out at the Jordan.
 [8] From Tappuah the border went west to the brook of Kanah and ended at the sea.
-This is the inheritance of the tribe of the children of Ephraim by their clans,
-[9] together with the cities that were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh,
+This is the inheritance of the tribe of the people of Ephraim by their clans,
+[9] together with the cities that were set apart for the people of Ephraim in the middle of the inheritance of the people of Manasseh,
 all the cities with their villages.
 
 > **What does this mean?**

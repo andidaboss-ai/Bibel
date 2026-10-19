@@ -5,7 +5,7 @@
 
 ## Rescue me from my enemies (Verses 1–5)
 
-[1] For the Chief Musician. To the tune of “Do Not Destroy.”
+[1] For the music director. To the tune of “Do Not Destroy.”
 A poem by David, when Saul sent men,
 and they watched the house to kill him.
 Rescue me from my enemies, my God.

@@ -43,7 +43,7 @@ They shall do everything exactly as I have commanded you.”
 
 [12] The LORD spoke to Moses.
 He said,
-[13] “Also speak to the children of Israel.
+[13] “Also speak to the people of Israel.
 Say, ‘You shall surely keep my Sabbaths.
 For the Sabbath is a sign between me and you, through all your generations.
 By it you shall know that I am the LORD who makes you holy.
@@ -53,9 +53,9 @@ For whoever does any work on it shall be cut off from among his people.
 [15] Work shall be done for six days.
 But the seventh day is a Sabbath, a day of complete rest, holy to the LORD.
 Whoever does any work on the Sabbath day shall surely be put to death.
-[16] So the children of Israel shall keep the Sabbath.
+[16] So the people of Israel shall keep the Sabbath.
 They shall celebrate the Sabbath through all their generations, as a covenant forever.
-[17] It is a sign between me and the children of Israel forever.
+[17] It is a sign between me and the people of Israel forever.
 For in six days the LORD made heaven and earth.
 And on the seventh day he rested and was refreshed.’”
 

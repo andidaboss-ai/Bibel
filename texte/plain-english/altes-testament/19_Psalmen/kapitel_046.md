@@ -5,7 +5,7 @@
 
 ## God is our refuge (Verses 1–3)
 
-[1] For the Chief Musician. By the sons of Korah. According to Alamoth.
+[1] For the music director. By the sons of Korah. According to Alamoth.
 God is our refuge and strength.
 A refuge is a safe place.
 He is always there to help in times of trouble.

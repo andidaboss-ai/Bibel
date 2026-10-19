@@ -50,7 +50,7 @@ Otherwise you will die.
 This is a rule forever, for all your generations.
 [10] You must tell the difference between what is holy and what is common,
 and between what is unclean and what is clean.
-[11] And you must teach the children of Israel all the rules
+[11] And you must teach the people of Israel all the rules
 that the LORD has spoken to them through Moses.”
 
 > **What does this mean?**
@@ -72,7 +72,7 @@ That is what I have been commanded.
 [14] The breast that is waved and the thigh that is lifted up you shall eat in a clean place,
 you and your sons and your daughters with you.
 For they are given as your share and your sons’ share,
-from the sacrifices of the peace offerings of the children of Israel.
+from the sacrifices of the peace offerings of the people of Israel.
 [15] They shall bring the thigh that is lifted up and the breast that is waved
 together with the fat of the offerings made by fire,
 to wave it before the LORD as a wave offering.

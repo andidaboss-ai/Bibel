@@ -17,7 +17,7 @@ I will make your house like the house of Jeroboam the son of Nebat.
 And whoever of his dies in the field, the birds of the sky will eat.”
 [5] The rest of the acts of Baasha, what he did, and his strength,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[6] Baasha slept with his fathers and was buried in Tirzah.
+[6] Baasha died and joined his ancestors and was buried in Tirzah.
 And his son Elah became king in his place.
 [7] The word of the LORD also came through the prophet Jehu the son of Hanani
 against Baasha and against his house,
@@ -100,7 +100,7 @@ and in his sins with which he had made Israel sin,
 making the LORD, the God of Israel, angry with their worthless idols.
 [27] The rest of the acts of Omri, what he did, and the strength that he showed,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[28] Omri slept with his fathers and was buried in Samaria.
+[28] Omri died and joined his ancestors and was buried in Samaria.
 And his son Ahab became king in his place.
 
 > **What does this mean?**

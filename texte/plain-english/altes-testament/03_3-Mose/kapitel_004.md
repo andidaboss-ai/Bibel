@@ -6,7 +6,7 @@
 ## When the high priest sins (Verses 1–12)
 
 [1] The LORD spoke to Moses. He said,
-[2] “Speak to the children of Israel and say,
+[2] “Speak to the people of Israel and say,
 ‘If anyone sins without meaning to,
 and does any of the things that the LORD has commanded not to be done –
 [3] if the anointed priest sins and so brings guilt on the people,

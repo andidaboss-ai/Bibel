@@ -8,7 +8,7 @@
 [1] This was the lot for the tribe of Manasseh, for he was the firstborn of Joseph.
 Machir, the firstborn of Manasseh, the father of Gilead, was a man of war.
 That is why he received Gilead and Bashan.
-[2] And this lot was for the rest of the children of Manasseh by their clans:
+[2] And this lot was for the rest of the people of Manasseh by their clans:
 for the children of Abiezer, for the children of Helek, for the children of Asriel,
 for the children of Shechem, for the children of Hepher, and for the children of Shemida.
 These were the male descendants of Manasseh the son of Joseph, by their clans.
@@ -43,7 +43,7 @@ And the land of Gilead belonged to the rest of the sons of Manasseh.
 [7] The border of Manasseh went from Asher to Michmethath, which is opposite Shechem.
 And the border went along to the right, to the people of En Tappuah.
 [8] The land of Tappuah belonged to Manasseh,
-but the town of Tappuah on the border of Manasseh belonged to the children of Ephraim.
+but the town of Tappuah on the border of Manasseh belonged to the people of Ephraim.
 [9] The border went down to the brook of Kanah, south of the brook.
 These cities belonged to Ephraim, among the cities of Manasseh.
 The border of Manasseh was on the north side of the brook and ended at the sea.
@@ -56,9 +56,9 @@ the people of Dor and its towns,
 the people of Endor and its towns,
 the people of Taanach and its towns,
 and the people of Megiddo and its towns.
-[12] But the children of Manasseh could not drive out the people of those cities.
+[12] But the people of Manasseh could not drive out the people of those cities.
 The Canaanites were determined to stay in that land.
-[13] When the children of Israel grew strong, they put the Canaanites to forced labor.
+[13] When the people of Israel grew strong, they put the Canaanites to forced labor.
 But they did not drive them out completely.
 
 > **What does this mean?**

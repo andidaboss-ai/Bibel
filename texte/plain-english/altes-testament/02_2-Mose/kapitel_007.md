@@ -10,17 +10,17 @@
 And Aaron, your brother, will be your prophet.
 [2] You will speak everything that I command you.
 And Aaron, your brother, will speak to Pharaoh,
-so that he lets the children of Israel go out of his land.
+so that he lets the people of Israel go out of his land.
 
 [3] “But I will make Pharaoh’s heart hard.
 And I will do many signs and wonders in the land of Egypt.
 [4] Pharaoh will not listen to you.
 So I will lay my hand on Egypt.
-I will bring my armies, my people, the children of Israel, out of the land of Egypt
+I will bring my armies, my people, the people of Israel, out of the land of Egypt
 with great judgments.
 [5] Then the Egyptians will know that I am the LORD,
 when I reach out my hand against Egypt
-and bring the children of Israel out from among them.”
+and bring the people of Israel out from among them.”
 
 [6] Moses and Aaron did so.
 They did just as the LORD had commanded them.

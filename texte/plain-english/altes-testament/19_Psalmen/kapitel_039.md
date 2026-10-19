@@ -5,7 +5,7 @@
 
 ## I wanted to stay silent (Verses 1–3)
 
-[1] For the Chief Musician. For Jeduthun. A psalm by David.
+[1] For the music director. For Jeduthun. A psalm by David.
 I said, “I will watch my ways,
 so that I do not sin with my tongue.
 I will keep my mouth closed, as with a bridle,

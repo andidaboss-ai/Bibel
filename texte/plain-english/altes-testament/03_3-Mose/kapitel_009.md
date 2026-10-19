@@ -9,7 +9,7 @@
 [2] He said to Aaron,
 “Take a calf from the cattle as a sin offering and a ram as a burnt offering, both without any fault,
 and bring them before the LORD.
-[3] And speak to the children of Israel and say,
+[3] And speak to the people of Israel and say,
 ‘Take a male goat as a sin offering,
 and a calf and a lamb, both one year old and without any fault, as a burnt offering,
 [4] and a bull and a ram as peace offerings, to sacrifice before the LORD,

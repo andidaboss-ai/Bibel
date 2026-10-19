@@ -150,7 +150,7 @@ when they were slaves in Egypt in Pharaoh’s house?
 [28] Didn’t I choose him out of all the tribes of Israel to be my priest,
 to go up to my altar, to burn incense,
 and to wear an ephod in front of me?
-Didn’t I give your father’s family all the offerings of the children of Israel made by fire?
+Didn’t I give your father’s family all the offerings of the people of Israel made by fire?
 [29] Why do you kick at my sacrifice and my offering,
 which I commanded in my dwelling place?
 And why do you honor your sons more than me,

@@ -249,7 +249,7 @@ shouted the war cry,
 and chased the Philistines as far as Gai and to the gates of Ekron.
 The wounded Philistines fell along the road to Shaaraim,
 as far as Gath and Ekron.
-[53] The children of Israel came back from chasing the Philistines
+[53] The people of Israel came back from chasing the Philistines
 and plundered their camp.
 [54] David took the head of the Philistine and brought it to Jerusalem.
 But he put his weapons in his tent.

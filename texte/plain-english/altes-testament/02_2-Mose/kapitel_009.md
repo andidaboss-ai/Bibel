@@ -14,14 +14,14 @@
 on the horses, on the donkeys, on the camels, on the herds of cattle, and on the flocks of sheep and goats.
 A very terrible disease will come.
 [4] But the LORD will make a difference between the livestock of Israel and the livestock of Egypt.
-Of everything that belongs to the children of Israel, not one animal will die.”’”
+Of everything that belongs to the people of Israel, not one animal will die.”’”
 
 [5] The LORD set a time.
 He said,
 “Tomorrow the LORD will do this in the land.”
 [6] On the next day the LORD did it.
 All the livestock of Egypt died.
-But of the livestock of the children of Israel, not one animal died.
+But of the livestock of the people of Israel, not one animal died.
 [7] Pharaoh sent people to check.
 Not even one animal of the Israelites’ livestock had died.
 But Pharaoh’s heart stayed stubborn.
@@ -100,7 +100,7 @@ There had never been anything like it in all the land of Egypt since it became a
 [25] In the whole land of Egypt, the hail struck down everything that was in the field, both people and animals.
 The hail struck down every plant of the field.
 And it broke every tree of the field.
-[26] Only in the land of Goshen, where the children of Israel were, there was no hail.
+[26] Only in the land of Goshen, where the people of Israel were, there was no hail.
 
 [27] Then Pharaoh sent for Moses and Aaron.
 He said to them,
@@ -130,7 +130,7 @@ And the rain no longer poured down on the earth.
 [34] When Pharaoh saw that the rain and the hail and the thunder had stopped, he sinned even more.
 He and his servants made their hearts hard.
 [35] Pharaoh’s heart stayed hard.
-He did not let the children of Israel go, just as the LORD had said through Moses.
+He did not let the people of Israel go, just as the LORD had said through Moses.
 
 > **What does this mean?**
 > This plague is special. God warns ahead of time and gives advice: Bring people and animals to a safe place. God does not want people to die.

@@ -6,7 +6,7 @@
 ## When a man has a discharge because of illness (Verses 1–12)
 
 [1] The LORD spoke to Moses and to Aaron. He said,
-[2] “Speak to the children of Israel and tell them,
+[2] “Speak to the people of Israel and tell them,
 ‘When any man has a discharge from his body,
 he is unclean because of his discharge.
 A discharge is a fluid that flows out of the body.
@@ -121,7 +121,7 @@ So the priest shall make atonement for her before the LORD because of her unclea
 
 ## The purpose of these rules (Verses 31–33)
 
-[31] “‘This is how you shall keep the children of Israel away from their uncleanness.
+[31] “‘This is how you shall keep the people of Israel away from their uncleanness.
 Otherwise they will die in their uncleanness when they make my tabernacle unclean, which is among them.’”
 [32] This is the law for the man who has a discharge,
 and for the man who has a release of semen that makes him unclean,

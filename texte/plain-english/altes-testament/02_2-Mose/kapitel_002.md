@@ -128,13 +128,13 @@ He said,
 
 [23] Many years went by.
 Then the king of Egypt died.
-The children of Israel groaned because of their slavery.
+The people of Israel groaned because of their slavery.
 They cried out for help.
 And their cry because of the slavery went up to God.
 [24] God heard their groaning.
 And God remembered his covenant with Abraham, with Isaac, and with Jacob.
 A covenant is a binding agreement.
-[25] God saw the children of Israel.
+[25] God saw the people of Israel.
 And God understood.
 
 > **What does this mean?**

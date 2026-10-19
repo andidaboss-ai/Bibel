@@ -52,7 +52,7 @@ He said to him,
 “What are you doing here, Elijah?”
 [10] He said,
 “I have been very jealous for the LORD, the God of Armies.
-For the children of Israel have abandoned your covenant,
+For the people of Israel have abandoned your covenant,
 torn down your altars,
 and killed your prophets with the sword.
 I, I alone, am left.
@@ -73,7 +73,7 @@ And a voice came to him and said,
 “What are you doing here, Elijah?”
 [14] He said,
 “I have been very jealous for the LORD, the God of Armies.
-For the children of Israel have abandoned your covenant,
+For the people of Israel have abandoned your covenant,
 torn down your altars,
 and killed your prophets with the sword.
 I, I alone, am left.

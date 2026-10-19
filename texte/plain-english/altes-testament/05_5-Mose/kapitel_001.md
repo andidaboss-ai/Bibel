@@ -21,7 +21,7 @@ beyond the Jordan, in the wilderness, in the Arabah, opposite Suf,
 between Paran, Tophel, Laban, Hazeroth, and Dizahab.
 [2] From Horeb by the way of Mount Seir to Kadesh Barnea is a journey of eleven days.
 [3] In the fortieth year, in the eleventh month, on the first day of the month,
-Moses spoke to the children of Israel.
+Moses spoke to the people of Israel.
 He told them everything that the LORD had commanded him to tell them.
 [4] That was after he had struck down Sihon, the king of the Amorites, who lived in Heshbon,
 and Og, the king of Bashan, who lived in Ashtaroth, at Edrei.

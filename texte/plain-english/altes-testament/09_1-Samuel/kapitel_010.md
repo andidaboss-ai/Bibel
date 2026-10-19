@@ -113,7 +113,7 @@ he told him nothing.
 ## Saul is chosen by lot (Verses 17–24)
 
 [17] Samuel called the people together to the LORD at Mizpah.
-[18] He said to the children of Israel,
+[18] He said to the people of Israel,
 “This is what the LORD, the God of Israel, says:
 ‘I brought Israel up out of Egypt.
 I saved you from the hand of the Egyptians

@@ -175,7 +175,7 @@ and 67 priests’ garments.
 [73] So the priests, the Levites, the gatekeepers, the singers,
 some of the people, the temple servants, and all Israel lived in their cities.
 When the seventh month had come,
-the children of Israel were in their cities.
+the people of Israel were in their cities.
 
 > **What does this mean?**
 > “Darics” were Persian gold coins of about 0.3 ounces. Silver: the Bible says “2,200 minas” and “2,000 minas”. A mina is about 1¼ pounds.

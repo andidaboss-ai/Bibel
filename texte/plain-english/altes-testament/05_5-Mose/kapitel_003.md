@@ -37,7 +37,7 @@ from the valley of the Arnon to Mount Hermon.
 as far as Salecah and Edrei, the cities of the kingdom of Og in Bashan.
 [11] (For only Og, the king of Bashan, was left of the rest of the Rephaim.
 Look! His bed was a bed of iron.
-Is it not in Rabbah of the children of Ammon?
+Is it not in Rabbah of the people of Ammon?
 It was about 13 and a half feet long and about 6 feet wide, measured by the ordinary cubit.)
 
 > **What does this mean?**
@@ -64,7 +64,7 @@ And he named them, all Bashan, after his own name: Havvoth Jair, as it is called
 [15] I gave Gilead to Machir.
 [16] To the Reubenites and to the Gadites I gave the land from Gilead to the valley of the Arnon,
 with the middle of the valley as the border,
-and as far as the river Jabbok, which is the border of the children of Ammon.
+and as far as the river Jabbok, which is the border of the people of Ammon.
 [17] I also gave them the Arabah, with the Jordan as the border,
 from Chinnereth to the sea of the Arabah, the Salt Sea,
 below the slopes of Pisgah to the east.
@@ -81,7 +81,7 @@ below the slopes of Pisgah to the east.
 
 [18] At that time I commanded you:
 “The LORD your God has given you this land to own it.
-All your brave men shall go across armed, ahead of your brothers, the children of Israel.
+All your brave men shall go across armed, ahead of your brothers, the people of Israel.
 [19] But your wives, your little children, and your livestock
 (I know that you have a lot of livestock)
 shall stay in your cities that I have given you,

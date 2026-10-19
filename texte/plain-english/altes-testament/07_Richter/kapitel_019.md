@@ -68,7 +68,7 @@ His concubine was with him too.
 The servant said to his master,
 “Please come, let’s go into this city of the Jebusites and spend the night there.”
 [12] His master said to him,
-“We will not go into the city of foreigners who are not children of Israel.
+“We will not go into the city of foreigners who are not people of Israel.
 We will go on to Gibeah.”
 [13] He said to his servant,
 “Come, let’s go to one of these places.
@@ -160,7 +160,7 @@ He divided her, limb by limb, into twelve pieces
 and sent them throughout the whole territory of Israel.
 [30] And everyone who saw it said,
 “Such a thing has not been done or seen
-since the day the children of Israel came up out of the land of Egypt
+since the day the people of Israel came up out of the land of Egypt
 until this day!
 Think about it, talk it over, and speak!”
 

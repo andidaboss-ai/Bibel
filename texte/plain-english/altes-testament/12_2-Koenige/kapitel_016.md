@@ -105,7 +105,7 @@ because of the king of Assyria.
 
 [19] The rest of the things Ahaz did,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[20] Ahaz died and joined his fathers.
+[20] Ahaz died and joined his ancestors.
 He was buried with his fathers in David’s city.
 And his son Hezekiah became king in his place.
 

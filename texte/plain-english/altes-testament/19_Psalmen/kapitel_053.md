@@ -5,7 +5,7 @@
 
 ## No one does good (Verses 1–3)
 
-[1] For the Chief Musician. To the tune of “Mahalath.” A contemplation by David.
+[1] For the music director. To the tune of “Mahalath.” A contemplation by David.
 The fool has said in his heart, “There is no God.”
 They are rotten.
 They have done disgusting evil.

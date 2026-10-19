@@ -5,7 +5,7 @@
 
 ## When and how big (Verses 1–10)
 
-[1] In the 480th year after the children of Israel had come out of the land of Egypt,
+[1] In the 480th year after the people of Israel had come out of the land of Egypt,
 in the fourth year of Solomon’s rule over Israel,
 in the month of Ziv, which is the second month,
 he began to build the LORD’s house.
@@ -52,7 +52,7 @@ if you walk in my statutes
 and do my ordinances
 and keep all my commandments and walk in them,
 then I will fulfill with you my word that I spoke to your father David.
-[13] I will live among the children of Israel
+[13] I will live among the people of Israel
 and will not abandon my people Israel.”
 [14] So Solomon built the house and finished it.
 

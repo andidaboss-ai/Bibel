@@ -6,7 +6,7 @@
 ## Land animals (Verses 1–8)
 
 [1] The LORD spoke to Moses and to Aaron. He said to them,
-[2] “Speak to the children of Israel and say,
+[2] “Speak to the people of Israel and say,
 ‘These are the living things that you may eat, of all the animals on the earth:
 [3] Any animal that has a split hoof, divided all the way through, and that chews the cud, you may eat.
 To chew the cud means: The animal brings its food back up from its stomach and chews it again.

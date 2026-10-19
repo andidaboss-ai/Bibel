@@ -36,4 +36,4 @@ says the Lord GOD.
 > **What does this mean?**
 > In the Bible, Israel was often compared to a vine (Psalm 80:8–16, in some Bibles 80:9–17; Isaiah 5:1–7). A vine is valuable, but only because of its fruit. Its wood is crooked and soft. You cannot even make a hook out of it. When a vine does not bring grapes, it is only good as firewood.
 > Verses 4–5: Jerusalem is like a piece of vine wood that has already been burned at both ends. The ends probably stand for the disasters the people have already lived through (the destruction of the northern kingdom and the first exile in 597 before Christ). What is left will also be burned.
-> Jesus takes up this picture in the New Testament: “I am the vine. You are the branches. He who remains in me and I in him bears much fruit” (John 15:1–8). For Jesus, it is above all an invitation: Stay connected with me, then you will grow and bring fruit.
+> Jesus takes up this picture in the New Testament: “I am the vine. You are the branches. If you remain in me and I remain in you, you will bear much fruit” (John 15:1–8). For Jesus, it is above all an invitation: Stay connected with me, then you will grow and bring fruit.

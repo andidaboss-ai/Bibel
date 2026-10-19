@@ -5,33 +5,33 @@
 
 ## The persistent widow (Verses 1–8)
 
-[1] Jesus told them a parable.
+[1] Jesus told his disciples a parable.
 He wanted to show them
-that they must always pray
-and not give up.
+that they should always pray
+and never give up.
 [2] He said,
-“There was a judge in a certain city.
-He didn’t fear God
-and didn’t respect people.
-[3] A widow lived in that city.
-She came to him again and again
-and said,
-‘Defend me from my opponent!’
-[4] For a while he wouldn’t.
-But afterward he said to himself,
-‘Though I neither fear God
-nor respect people,
-[5] yet because this widow bothers me,
-I will defend her.
+“In a certain town there was a judge.
+He did not fear God,
+and he did not respect people.
+[3] In that town there was also a widow.
+She kept coming to the judge and saying,
+‘Help me get justice against the man who is against me!’
+[4] For a while the judge did not want to help her.
+But later he said to himself,
+‘I don’t fear God,
+and I don’t respect people.
+[5] But this widow keeps bothering me.
+So I will make sure she gets justice.
 Otherwise she will wear me out
-by her continual coming.’”
+by coming again and again.’”
 [6] The Lord said,
-“Listen to what the unrighteous judge says.
-[7] Won’t God avenge his chosen ones,
-who are crying out to him day and night?
-And yet he is patient with them.
+“Listen to what this unjust judge says!
+[7] God’s chosen people cry out to him day and night.
+Won’t God see that they get justice?
+Will he keep them waiting?
 [8] I tell you,
-he will avenge them quickly.
+he will see that they get justice,
+and he will do it quickly.
 But when the Son of Man comes,
 will he find faith on the earth?”
 
@@ -39,7 +39,7 @@ will he find faith on the earth?”
 > Back then widows often had no husband and no son to stand up for them. They were easy victims of injustice. Again and again the Bible calls for widows and orphans to be protected (for example Deuteronomy 10:18).
 > The widow does not give up. She has no power, but she keeps on.
 > Jesus does not compare God to the unrighteous judge. He says: If even a bad judge helps in the end, how much more will God help, who is just and loves us.
-> Verses 7–8: The WEB says “avenge.” What is meant is: God brings justice. It is not about personal revenge.
+> Verses 7–8: The WEB says “avenge.” What is meant is: God sees that people get justice. It is not about personal revenge.
 > Verse 8: The question at the end is aimed at us: Will we stay in faith, even if it takes a long time?
 > For today: You may ask God again and again. And you may stand up for your rights.
 
@@ -47,61 +47,56 @@ will he find faith on the earth?”
 
 ## The Pharisee and the tax collector (Verses 9–14)
 
-[9] Jesus also told this parable to some people
-who were convinced
-of their own righteousness,
-and who looked down on everyone else:
-[10] “Two men went up into the temple
-to pray.
+[9] Some people were sure that they themselves were good and right with God.
+They looked down on everyone else.
+Jesus told them this parable.
+[10] “Two men went up to the temple to pray.
 One was a Pharisee,
 and the other was a tax collector.
-[11] The Pharisee stood
-and prayed to himself like this:
+[11] The Pharisee stood by himself and prayed,
 ‘God, I thank you
-that I am not like the rest of men:
-cheats, unrighteous, adulterers,
-or even like this tax collector.
+that I am not like other people.
+They steal, they do wrong,
+and they are unfaithful in marriage.
+I thank you that I am not like this tax collector.
 [12] I fast twice a week.
-I give tithes of all
-that I get.’
+I give you a tenth of everything I get.’
 [13] But the tax collector stood far away.
-He wouldn’t even
-lift up his eyes to heaven.
-He beat his chest
-and said,
-‘God, be merciful to me, a sinner!’
+He did not even look up to heaven.
+He beat his chest and said,
+‘God, have mercy on me, a sinner!’
 [14] I tell you,
-this man went down to his house justified
-rather than the other.
+this tax collector went home right with God,
+and the other man did not.
 For everyone who lifts himself up
-will be humbled,
-but he who humbles himself
+will be humbled.
+But whoever humbles himself
 will be lifted up.”
 
 > **What does this mean?**
 > The parable is aimed at people who think they themselves are righteous and look down on others (verse 9). That can be anyone, in any religion.
 > Important: This parable was often misused to pass judgment on the Pharisees or the Jews. Whoever does that makes exactly the mistake of the Pharisee in the parable: thanking God for not being like the others. The real Pharisees were devout people, and much of what the Pharisee does is good: praying, fasting, giving.
-> Verse 12: The law required fasting only on the Day of Atonement. The Pharisee does much more. His mistake is not his devout life, but that he looks down on others. Tithes: a tenth of what you earn, given to God.
+> Verse 12: The law required fasting only on the Day of Atonement. The Pharisee does much more. His mistake is not his devout life, but that he looks down on others. He gives a tenth of what he earns to God. This is called a tithe.
 > Verse 13: Beating your chest was a sign of regret and sorrow. To this day the tax collector’s prayer is prayed, for example in the “Jesus Prayer” of the Orthodox Church, which asks Jesus Christ, the Son of God, to have mercy.
-> Verse 14: “Justified” means: put right with God. God accepts the one who honestly asks for grace.
+> Verse 14: “Right with God” (in older Bibles: justified) means: put right with God. God accepts the one who honestly asks for grace.
 > For today: Before God I don’t need to compare myself with others.
 
 ---
 
 ## Jesus blesses the children (Verses 15–17)
 
-[15] People were also bringing their babies to Jesus,
-so that he might touch them.
-When the disciples saw it,
-they scolded them.
-[16] But Jesus called the children to him
-and said,
-“Allow the little children to come to me,
-and don’t hinder them!
-For God’s Kingdom belongs to such as these.
-[17] Most certainly I tell you,
-whoever doesn’t receive God’s Kingdom like a little child
-will in no way enter into it.”
+[15] People were also bringing babies to Jesus.
+They wanted him to touch them.
+When the disciples saw this,
+they told the people not to do it.
+[16] But Jesus called the children to him.
+He said,
+“Let the little children come to me.
+Don’t stop them!
+For God’s Kingdom belongs to people like them.
+[17] I tell you for certain:
+Whoever does not accept God’s Kingdom like a little child
+will never get into it.”
 
 > **What does this mean?**
 > The WEB says “babies”: They were very small children, even infants.
@@ -116,53 +111,52 @@ will in no way enter into it.”
 
 [18] A ruler asked Jesus,
 “Good Teacher,
-what shall I do
-to inherit eternal life?”
+what must I do
+to receive eternal life?”
 [19] Jesus asked him,
 “Why do you call me good?
-No one is good, except one: God.
+No one is good except God alone.
 [20] You know the commandments:
 ‘Don’t commit adultery.’
 ‘Don’t murder.’
 ‘Don’t steal.’
-‘Don’t give false testimony.’
+‘Don’t lie about others in court.’
 ‘Honor your father and your mother.’”
-[21] He said,
-“I have kept all these things from my youth up.”
+[21] The man said,
+“I have obeyed all these commandments
+since I was a boy.”
 [22] When Jesus heard this,
 he said to him,
-“You still lack one thing:
-Sell all that you have
-and give it to the poor.
+“You still need to do one thing.
+Sell everything you have
+and give the money to the poor.
 Then you will have treasure in heaven.
-Then come, follow me.”
-[23] When he heard this,
+Then come and follow me.”
+[23] When the man heard this,
 he became very sad,
-for he was very rich.
-[24] Jesus saw
-that he became very sad,
-and said,
-“How hard it is for those
-who have riches
-to enter into God’s Kingdom!
-[25] For it is easier for a camel to go through a needle’s eye
-than for a rich man to enter into God’s Kingdom.”
-[26] Those who heard it
-said,
+because he was very rich.
+[24] Jesus saw that he was very sad.
+He said,
+“How hard it is for rich people
+to get into God’s Kingdom!
+[25] It is easier for a camel to go through the eye of a needle
+than for a rich person to get into God’s Kingdom.”
+[26] The people who heard this asked,
 “Then who can be saved?”
-[27] But he said,
-“The things which are impossible with men
-are possible with God.”
+[27] Jesus said,
+“What is impossible for people
+is possible for God.”
 [28] Peter said,
 “Look, we have left everything
 and followed you.”
-[29] He said to them,
-“Most certainly I tell you,
-there is no one who has left house, or wife,
-or brothers, or parents, or children,
-for the sake of God’s Kingdom,
-[30] who will not receive many times more in this time,
-and in the world to come, eternal life.”
+[29] Jesus said to them,
+“I tell you for certain:
+Some people have left their house,
+or wife, or brothers, or parents, or children,
+for the sake of God’s Kingdom.
+[30] Every one of them will receive many times more in this life.
+And in the world to come
+they will receive eternal life.”
 
 > **What does this mean?**
 > A “ruler” was a respected man, perhaps a leader of a synagogue or a member of a council. Only Luke calls him this (compare Mark 10:17–31).
@@ -178,23 +172,20 @@ and in the world to come, eternal life.”
 
 ## Jesus announces his suffering a third time (Verses 31–34)
 
-[31] Jesus took the twelve aside
-and said to them,
-“We are going up to Jerusalem.
-There all the things will be completed
-that are written through the prophets about the Son of Man.
-[32] For he will be handed over to the Gentiles.
-He will be mocked,
-treated shamefully,
-and spit on.
-[33] They will whip him
-and kill him.
-And on the third day
-he will rise again.”
-[34] But they understood none of these things.
-This saying was hidden from them.
-They didn’t understand
-what he was saying.
+[31] Jesus took the twelve apostles aside.
+He said to them,
+“Listen! We are going up to Jerusalem.
+There everything will happen
+that the prophets wrote about the Son of Man.
+[32] He will be handed over to the Gentiles.
+They will make fun of him,
+treat him shamefully,
+and spit on him.
+[33] They will whip him and kill him.
+And on the third day he will rise again.”
+[34] But the apostles did not understand any of this.
+The meaning of these words was hidden from them.
+They did not understand what Jesus was talking about.
 
 > **What does this mean?**
 > This is the third and most exact time in Luke that Jesus announces his suffering (compare Luke 9:22 and 9:44).
@@ -206,41 +197,35 @@ what he was saying.
 
 ## A blind man near Jericho is healed (Verses 35–43)
 
-[35] As Jesus came near Jericho,
-a blind man was sitting by the road,
-begging.
-[36] He heard
-a crowd going by
-and asked
-what was going on.
-[37] They told him,
+[35] Jesus was coming near Jericho.
+A blind man was sitting by the road, begging.
+[36] He heard a crowd going by.
+He asked what was happening.
+[37] The people told him,
 “Jesus of Nazareth is passing by.”
-[38] He cried out,
-“Jesus, you son of David,
+[38] The blind man shouted,
+“Jesus, son of David,
 have mercy on me!”
-[39] Those who led the way
-scolded him
-and told him to be quiet.
-But he cried out all the more,
-“You son of David,
+[39] The people at the front of the crowd
+told him sharply to be quiet.
+But he shouted even louder,
+“Son of David,
 have mercy on me!”
-[40] Jesus stood still
-and commanded
-that he be brought to him.
-When he had come near,
+[40] Jesus stopped.
+He told the people to bring the man to him.
+When the man came near,
 Jesus asked him,
 [41] “What do you want me to do?”
 He said,
-“Lord, that I may see again.”
+“Lord, I want to see again.”
 [42] Jesus said to him,
-“Receive your sight.
+“Then see!
 Your faith has healed you.”
-[43] Immediately he received his sight.
-He followed Jesus,
-praising God.
-And all the people
-who saw it
-praised God.
+[43] At once the man could see.
+He followed Jesus
+and praised God.
+When all the people saw this,
+they also praised God.
 
 > **What does this mean?**
 > Jericho is in the Jordan Valley, about 15 miles (25 kilometers) from Jerusalem. From there the road climbed steeply up to Jerusalem.

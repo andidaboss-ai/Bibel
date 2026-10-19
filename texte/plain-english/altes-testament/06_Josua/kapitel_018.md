@@ -5,7 +5,7 @@
 
 ## The Tent of Meeting comes to Shiloh (Verse 1)
 
-[1] The whole community of the children of Israel gathered at Shiloh,
+[1] The whole community of the people of Israel gathered at Shiloh,
 and they set up the Tent of Meeting there.
 The land was under their control.
 
@@ -17,8 +17,8 @@ The land was under their control.
 
 ## Seven tribes still have no land (Verses 2–10)
 
-[2] Among the children of Israel, there were still seven tribes that had not yet received their inheritance.
-[3] Joshua said to the children of Israel,
+[2] Among the people of Israel, there were still seven tribes that had not yet received their inheritance.
+[3] Joshua said to the people of Israel,
 “How long will you wait to go in and take the land
 that the LORD, the God of your fathers, has given you?
 [4] Choose three men from each tribe.
@@ -44,7 +44,7 @@ Then I will cast lots for you here in front of the LORD in Shiloh.”
 They described it city by city, in seven parts, in a book.
 And they came back to Joshua at the camp at Shiloh.
 [10] Joshua cast lots for them in Shiloh in front of the LORD.
-There Joshua divided the land to the children of Israel by their divisions.
+There Joshua divided the land to the people of Israel by their divisions.
 
 > **What does this mean?**
 > Seven tribes are still waiting. Joshua asks them: “How long will you wait to go in and take the land?” God has given them the land as a gift, but they also have to take it.
@@ -55,8 +55,8 @@ There Joshua divided the land to the children of Israel by their divisions.
 
 ## The borders of Benjamin (Verses 11–20)
 
-[11] The lot of the tribe of the children of Benjamin came out, by their clans.
-The territory of their lot lay between the children of Judah and the children of Joseph.
+[11] The lot of the tribe of the people of Benjamin came out, by their clans.
+The territory of their lot lay between the people of Judah and the children of Joseph.
 [12] Their border on the north side began at the Jordan.
 The border went up along the side of Jericho on the north
 and went up through the hill country to the west.
@@ -65,7 +65,7 @@ And it ended at the wilderness of Beth Aven.
 The border went down to Ataroth Addar, by the mountain south of Lower Beth Horon.
 [14] The border went on and turned south on the west side,
 from the mountain that lies south, in front of Beth Horon.
-And it ended at Kiriath Baal – that is Kiriath Jearim –, a city of the children of Judah.
+And it ended at Kiriath Baal – that is Kiriath Jearim –, a city of the people of Judah.
 This was the west side.
 [15] The south side began at the far edge of Kiriath Jearim.
 The border went out to the west and went out to the spring of the waters of Nephtoah.
@@ -81,7 +81,7 @@ And it went down to the stone of Bohan, the son of Reuben.
 And the border ended at the north bay of the Salt Sea, at the south end of the Jordan.
 This was the southern border.
 [20] And the Jordan was its border on the east side.
-This was the inheritance of the children of Benjamin, by its borders all around, by their clans.
+This was the inheritance of the people of Benjamin, by its borders all around, by their clans.
 
 > **What does this mean?**
 > Benjamin was a small tribe. It received a small but important area between the two large tribes of Judah and Ephraim.
@@ -92,7 +92,7 @@ This was the inheritance of the children of Benjamin, by its borders all around,
 
 ## The cities of Benjamin (Verses 21–28)
 
-[21] The cities of the tribe of the children of Benjamin by their clans were:
+[21] The cities of the tribe of the people of Benjamin by their clans were:
 Jericho, Beth Hoglah, Emek Keziz,
 [22] Beth Arabah, Zemaraim, Bethel,
 [23] Avvim, Parah, Ophrah,
@@ -103,7 +103,7 @@ Twelve cities with their villages.
 [27] Rekem, Irpeel, Taralah,
 [28] Zelah, Eleph, the Jebusite city – that is Jerusalem –, Gibeath, and Kiriath.
 Fourteen cities with their villages.
-This is the inheritance of the children of Benjamin by their clans.
+This is the inheritance of the people of Benjamin by their clans.
 
 > **What does this mean?**
 > Here Jerusalem is given to Benjamin. In Chapter 15:63 it was named with Judah. It lay exactly on the border between the two tribes.

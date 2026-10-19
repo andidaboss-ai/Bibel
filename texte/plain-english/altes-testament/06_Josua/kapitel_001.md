@@ -19,7 +19,7 @@ In the Jewish Bible, the book of Joshua belongs to the “Former Prophets.” In
 the LORD spoke to Joshua, the son of Nun, who had served Moses. He said,
 [2] “Moses my servant is dead.
 So now get up and go across this Jordan, you and all these people,
-into the land that I am giving to them, to the children of Israel.
+into the land that I am giving to them, to the people of Israel.
 [3] I have given you every place that the sole of your foot will step on,
 as I told Moses.
 [4] From the wilderness and this Lebanon to the great river, the river Euphrates,

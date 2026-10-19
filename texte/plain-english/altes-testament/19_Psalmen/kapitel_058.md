@@ -5,7 +5,7 @@
 
 ## Unjust judges (Verses 1–5)
 
-[1] For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David.
+[1] For the music director. To the tune of “Do Not Destroy.” A poem by David.
 Do you really speak what is right, you silent ones?
 Do you judge fairly, you human beings?
 [2] No, in your heart you plan injustice.

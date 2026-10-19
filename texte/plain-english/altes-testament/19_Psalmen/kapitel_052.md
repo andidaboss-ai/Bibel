@@ -5,7 +5,7 @@
 
 ## Why do you boast about evil? (Verses 1–5)
 
-[1] For the Chief Musician. A contemplation by David,
+[1] For the music director. A contemplation by David,
 when Doeg the Edomite came and told Saul,
 “David has come to Ahimelech’s house.”
 Why do you boast about the evil you do, you mighty man?

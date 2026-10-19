@@ -5,7 +5,7 @@
 
 ## Clap your hands, all you nations! (Verses 1–4)
 
-[1] For the Chief Musician. A psalm by the sons of Korah.
+[1] For the music director. A psalm by the sons of Korah.
 Oh, clap your hands, all you nations!
 Shout to God with loud cries of joy!
 [2] For the LORD Most High is awesome.

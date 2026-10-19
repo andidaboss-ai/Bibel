@@ -152,7 +152,7 @@ and who had known all the work that the LORD had done for Israel.
 
 ## Joseph’s bones and Eleazar’s death (Verses 32–33)
 
-[32] They buried the bones of Joseph, which the children of Israel had brought up from Egypt,
+[32] They buried the bones of Joseph, which the people of Israel had brought up from Egypt,
 in Shechem, on the piece of land
 that Jacob had bought from the sons of Hamor, the father of Shechem, for a hundred pieces of silver.
 It became the inheritance of the children of Joseph.

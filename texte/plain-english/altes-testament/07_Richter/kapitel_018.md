@@ -8,7 +8,7 @@
 [1] In those days there was no king in Israel.
 In those days the tribe of the Danites was looking for an inheritance to live in.
 For until that day, no inheritance had fallen to them among the tribes of Israel.
-[2] The children of Dan sent five men from their family, from their whole number,
+[2] The people of Dan sent five men from their family, from their whole number,
 brave men, from Zorah and from Eshtaol,
 to spy out the land and explore it.
 They said to them, “Go, explore the land!”
@@ -83,7 +83,7 @@ and a carved image, and a cast metal image?
 So now think about what you want to do.”
 [15] They went over there and came to the house of the young Levite, to Micah’s house,
 and asked him how he was doing.
-[16] The six hundred men of the children of Dan, armed with their weapons of war,
+[16] The six hundred men of the people of Dan, armed with their weapons of war,
 stood at the entrance of the gate.
 [17] The five men who had gone to spy out the land went up.
 They went in there and took the carved image, the ephod, the teraphim, and the cast metal image.
@@ -114,8 +114,8 @@ and went with the people.
 They put the little children, the livestock, and their belongings in front of them.
 [22] When they were already a good distance from Micah’s house,
 the men from the houses near Micah’s house gathered together
-and caught up with the children of Dan.
-[23] They called out after the children of Dan.
+and caught up with the people of Dan.
+[23] They called out after the people of Dan.
 They turned around and said to Micah,
 “What is wrong with you, that you come with such a crowd?”
 [24] He said,
@@ -123,11 +123,11 @@ They turned around and said to Micah,
 and you have gone away!
 What do I have left?
 How can you ask me, ‘What is wrong with you?’”
-[25] The children of Dan said to him,
+[25] The people of Dan said to him,
 “Don’t let us hear your voice.
 Otherwise angry men will attack you,
 and you will lose your life and the lives of your family.”
-[26] The children of Dan went on their way.
+[26] The people of Dan went on their way.
 When Micah saw that they were too strong for him,
 he turned and went back to his house.
 
@@ -151,7 +151,7 @@ The Danites rebuilt the city and lived in it.
 after the name of their forefather Dan, who was born to Israel.
 But the city used to be called Laish.
 
-[30] The children of Dan set up the carved image for themselves.
+[30] The people of Dan set up the carved image for themselves.
 And Jonathan, the son of Gershom, the son of Moses,
 he and his sons were priests for the tribe of the Danites
 until the day the land was taken into captivity.

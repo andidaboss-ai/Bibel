@@ -76,7 +76,7 @@ And they saw the crowd melting away and running here and there.
 When they had counted, Jonathan and his armor bearer were not there.
 [18] Saul said to Ahijah,
 “Bring the ark of God here.”
-For the ark of God was with the children of Israel at that time.
+For the ark of God was with the people of Israel at that time.
 [19] While Saul was still talking to the priest,
 the noise in the Philistine camp kept getting louder.
 So Saul said to the priest,

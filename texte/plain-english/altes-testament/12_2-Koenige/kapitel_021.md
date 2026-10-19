@@ -84,7 +84,7 @@ so that they did what was evil in the LORD’s eyes.
 [17] The rest of the things Manasseh did,
 all that he did, and the sin that he committed,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[18] Manasseh died and joined his fathers.
+[18] Manasseh died and joined his ancestors.
 He was buried in the garden of his own house, in the garden of Uzza.
 And his son Amon became king in his place.
 

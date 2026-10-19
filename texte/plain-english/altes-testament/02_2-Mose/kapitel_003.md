@@ -52,11 +52,11 @@ I will bring them up out of that land to a good and wide land,
 to a land flowing with milk and honey:
 to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.
 
-[9] “Now the cry of the children of Israel has come to me.
+[9] “Now the cry of the people of Israel has come to me.
 I have also seen how the Egyptians oppress them.
 [10] So come now.
 I will send you to Pharaoh.
-Bring my people, the children of Israel, out of Egypt.”
+Bring my people, the people of Israel, out of Egypt.”
 
 > **What does this mean?**
 > God says: I have seen, I have heard, I know the pain, I have come down, I will save. God does not stay in heaven. He comes down to those who suffer.
@@ -69,7 +69,7 @@ Bring my people, the children of Israel, out of Egypt.”
 
 [11] Moses said to God,
 “Who am I, that I should go to Pharaoh?
-And that I should bring the children of Israel out of Egypt?”
+And that I should bring the people of Israel out of Egypt?”
 [12] God said,
 “I will certainly be with you.
 This will be the sign for you that I have sent you:
@@ -86,7 +86,7 @@ you will serve God on this mountain.”
 ## God’s name (Verses 13–15)
 
 [13] Moses said to God,
-“Look, I will come to the children of Israel and tell them,
+“Look, I will come to the people of Israel and tell them,
 ‘The God of your fathers has sent me to you.’
 Then they will ask me, ‘What is his name?’
 What should I tell them?”
@@ -94,11 +94,11 @@ What should I tell them?”
 [14] God said to Moses,
 “I AM WHO I AM.”
 And he said,
-“Tell the children of Israel this:
+“Tell the people of Israel this:
 ‘I AM has sent me to you.’”
 
 [15] God also said to Moses,
-“Tell the children of Israel this:
+“Tell the people of Israel this:
 ‘The LORD, the God of your fathers,
 the God of Abraham, the God of Isaac, and the God of Jacob,
 has sent me to you.’

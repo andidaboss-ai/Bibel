@@ -5,7 +5,7 @@
 
 ## God’s plan (Verses 1–5)
 
-[1] Jericho was tightly shut because of the children of Israel.
+[1] Jericho was tightly shut because of the people of Israel.
 No one went out, and no one came in.
 [2] The LORD said to Joshua,
 “Look, I have given Jericho into your hand, with its king and its brave warriors.

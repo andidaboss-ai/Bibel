@@ -15,7 +15,7 @@ exactly as the LORD has commanded.”
 and every man with a wise heart, in whose heart the LORD had put wisdom,
 everyone whose heart moved him to come to the work and do it.
 [3] They received from Moses the whole offering
-that the children of Israel had brought for the work of the sanctuary, so that they could build it.
+that the people of Israel had brought for the work of the sanctuary, so that they could build it.
 But the people kept bringing freewill offerings to him every morning.
 
 [4] So all the skilled men who did all the work of the sanctuary came.

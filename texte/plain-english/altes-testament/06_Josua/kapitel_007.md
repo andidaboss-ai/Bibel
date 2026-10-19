@@ -5,10 +5,10 @@
 
 ## The defeat at Ai (Verses 1–5)
 
-[1] But the children of Israel were unfaithful with the devoted things.
+[1] But the people of Israel were unfaithful with the devoted things.
 For Achan, the son of Carmi, the son of Zabdi, the son of Zerah, from the tribe of Judah,
 took some of the devoted things.
-So the anger of the LORD burned against the children of Israel.
+So the anger of the LORD burned against the people of Israel.
 [2] Joshua sent men from Jericho to Ai, which is near Beth Aven, east of Bethel.
 He said to them, “Go up and spy out the land.”
 The men went up and spied out Ai.
@@ -59,7 +59,7 @@ Yes, they have broken my covenant, which I commanded them.
 Yes, they have even taken some of the devoted things,
 and they have also stolen and also lied.
 They have even put it among their own things.
-[12] That is why the children of Israel cannot stand against their enemies.
+[12] That is why the people of Israel cannot stand against their enemies.
 They turn and run from their enemies, because they themselves have become devoted to destruction.
 I will not be with you anymore
 unless you destroy the devoted things from among you.
@@ -117,7 +117,7 @@ Look, they are hidden in the ground in the middle of my tent, with the silver un
 [22] So Joshua sent messengers, and they ran to the tent.
 Look! It was hidden in his tent, with the silver underneath.
 [23] They took the things out of the middle of the tent,
-brought them to Joshua and to all the children of Israel,
+brought them to Joshua and to all the people of Israel,
 and laid them down in front of the LORD.
 [24] Then Joshua, and all Israel with him, took Achan the son of Zerah,
 the silver, the robe, the bar of gold,

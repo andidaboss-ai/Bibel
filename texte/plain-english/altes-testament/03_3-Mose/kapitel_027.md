@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses.
 He said:
-[2] “Speak to the children of Israel and tell them:
+[2] “Speak to the people of Israel and tell them:
 ‘Someone may make a vow and give a person to the LORD.
 Then the value shall be set according to your valuation.
 [3] The value for a man from 20 to 60 years old shall be 50 shekels of silver,
@@ -136,7 +136,7 @@ If he does swap it anyway, then both shall be holy:
 the animal and the one it was swapped for.
 It may not be bought back.’”
 
-[34] These are the commandments that the LORD gave Moses for the children of Israel on Mount Sinai.
+[34] These are the commandments that the LORD gave Moses for the people of Israel on Mount Sinai.
 
 > **What does this mean?**
 > The “tithe” means: One tenth of everything you harvest and of all the animals that are born belongs to God. The Levites and priests lived from it, and the poor too (Deuteronomy 14:28–29).

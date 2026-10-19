@@ -53,8 +53,8 @@ who keeps covenant and loving kindness with those who love him and keep his comm
 [6] let your ear now listen and your eyes be open,
 so that you hear the prayer of your servant,
 which I pray before you at this time, day and night,
-for the children of Israel your servants.
-I confess the sins of the children of Israel,
+for the people of Israel your servants.
+I confess the sins of the people of Israel,
 which we have sinned against you.
 Yes, I and my father’s house have sinned.
 [7] We have acted very wickedly against you.

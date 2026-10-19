@@ -74,12 +74,12 @@ all its tent pegs and all the tent pegs of the courtyard shall be of bronze.
 
 ## The oil for the lamp stand (Verses 20–21)
 
-[20] “Command the children of Israel to bring you pure olive oil.
+[20] “Command the people of Israel to bring you pure olive oil.
 It shall be made from beaten olives, for the light.
 With it, a lamp shall burn all the time.
 [21] It shall be in the Tent of Meeting, outside the veil that is in front of the covenant.
 There Aaron and his sons shall keep the lamp burning before the LORD from evening until morning.
-This is a law forever, for all the generations of the children of Israel.
+This is a law forever, for all the generations of the people of Israel.
 
 > **What does this mean?**
 > The best oil is used for the lamps: The olives are not pressed hard. They are only beaten lightly. So the oil is very pure and burns brightly, without much smoke.

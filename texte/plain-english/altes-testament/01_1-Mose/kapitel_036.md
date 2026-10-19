@@ -131,7 +131,7 @@ These are the chiefs of the Horites, by their chiefs, in the land of Seir.
 ## The kings of Edom (Verses 31–39)
 
 [31] These are the kings who ruled in the land of Edom,
-before any king ruled over the children of Israel:
+before any king ruled over the people of Israel:
 [32] Bela, the son of Beor, was king in Edom.
 His city was named Dinhabah.
 [33] Bela died.

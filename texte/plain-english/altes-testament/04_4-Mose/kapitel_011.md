@@ -25,7 +25,7 @@ because the fire of the LORD had burned among them.
 ## “Who will give us meat?” (Verses 4–9)
 
 [4] The mixed crowd that was among them was filled with greedy craving.
-And the children of Israel also cried again and said:
+And the people of Israel also cried again and said:
 “Who will give us meat to eat?
 [5] We remember the fish that we ate in Egypt for free,
 the cucumbers, the melons, the leeks, the onions and the garlic.

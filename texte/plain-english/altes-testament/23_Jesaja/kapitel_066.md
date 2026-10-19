@@ -113,7 +113,7 @@ And they will announce my glory among the nations.
 as an offering to the LORD,
 on horses, in chariots, in litters, on mules and on camels,
 to my holy mountain Jerusalem,” says the LORD,
-“just as the children of Israel bring their offering in a clean vessel
+“just as the people of Israel bring their offering in a clean vessel
 into the house of the LORD.
 [21] I will also choose some of them to be priests and Levites,”
 says the LORD.

@@ -14,7 +14,7 @@
 
 ## My soul thirsts for God (Verses 1–4)
 
-[1] For the Chief Musician. A contemplation by the sons of Korah.
+[1] For the music director. A contemplation by the sons of Korah.
 As the deer pants for streams of water,
 so my soul pants for you, God.
 [2] My soul thirsts for God, for the living God.

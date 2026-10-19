@@ -23,7 +23,7 @@ tie on the linen sash
 and put on the linen turban.
 These are the holy clothes.
 He shall bathe his body in water and then put them on.
-[5] From the community of the children of Israel he shall take two male goats as a sin offering,
+[5] From the community of the people of Israel he shall take two male goats as a sin offering,
 and one ram as a burnt offering.
 
 > **What does this mean?**
@@ -82,7 +82,7 @@ He shall bring its blood behind the curtain.
 He shall do with its blood just as he did with the bull’s blood,
 and sprinkle it on the mercy seat and in front of the mercy seat.
 [16] So he shall make atonement for the Holy Place,
-because of the uncleanness of the children of Israel and because of their wrongdoings, all their sins.
+because of the uncleanness of the people of Israel and because of their wrongdoings, all their sins.
 He shall do the same for the Tent of Meeting,
 which lives with them in the middle of their uncleanness.
 [17] No one shall be in the Tent of Meeting
@@ -94,7 +94,7 @@ for himself, for his family and for the whole assembly of Israel.
 He shall take some of the bull’s blood and some of the goat’s blood
 and put it all around on the horns of the altar.
 [19] He shall sprinkle some of the blood on it with his finger seven times.
-So he shall make it clean and make it holy from the uncleanness of the children of Israel.
+So he shall make it clean and make it holy from the uncleanness of the people of Israel.
 
 > **What does this mean?**
 > Not only the people are made clean, but also the holy place itself. All year long, the guilt of the people has piled up in the holy place like dirt. Now everything is made clean. So God can go on living in the middle of his people.
@@ -107,7 +107,7 @@ So he shall make it clean and make it holy from the uncleanness of the children 
 [20] “When he has finished making atonement for the Holy Place, the Tent of Meeting and the altar,
 he shall bring the living goat.
 [21] Aaron shall lay both his hands on the head of the living goat.
-Over it he shall confess all the guilt of the children of Israel,
+Over it he shall confess all the guilt of the people of Israel,
 all their wrongdoings, all their sins.
 He shall put them on the head of the goat.
 And he shall send it away into the wilderness with a man who is ready for this.
@@ -166,7 +166,7 @@ He shall put on the linen clothes, the holy clothes.
 He shall make atonement for the Tent of Meeting and for the altar.
 And he shall make atonement for the priests and for all the people of the assembly.
 [34] “This shall be a rule for you forever:
-to make atonement for the children of Israel once a year because of all their sins.”
+to make atonement for the people of Israel once a year because of all their sins.”
 And it was done as the LORD commanded Moses.
 
 > **What does this mean?**

@@ -5,7 +5,7 @@
 
 ## Until the disaster has passed (Verses 1–3)
 
-[1] For the Chief Musician. To the tune of “Do Not Destroy.”
+[1] For the music director. To the tune of “Do Not Destroy.”
 A poem by David, when he fled from Saul into the cave.
 Be merciful to me, God, be merciful to me,
 for my soul comes to you for safety.

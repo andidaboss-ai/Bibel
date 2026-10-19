@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses and to Aaron.
 He said:
-[2] “The children of Israel shall set up their tents, every man by his own flag,
+[2] “The people of Israel shall set up their tents, every man by his own flag,
 with the banners of their fathers’ houses.
 They shall camp around the Tent of Meeting, at some distance from it.
 
@@ -107,11 +107,11 @@ They shall set out last, by their flags.”
 
 ## Summary (Verses 32–34)
 
-[32] These were the children of Israel who were counted by their fathers’ houses.
+[32] These were the people of Israel who were counted by their fathers’ houses.
 All who were counted in the camps, by their armies, were 603,550.
-[33] But the Levites were not counted among the children of Israel,
+[33] But the Levites were not counted among the people of Israel,
 just as the LORD had commanded Moses.
-[34] The children of Israel did this.
+[34] The people of Israel did this.
 They did everything just as the LORD had commanded Moses.
 So they camped by their flags,
 and so they set out, everyone with his family, by his fathers’ house.

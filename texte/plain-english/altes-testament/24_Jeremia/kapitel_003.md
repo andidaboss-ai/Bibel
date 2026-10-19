@@ -120,7 +120,7 @@ and you will not turn away from following me.’
 [20] “But as a wife is unfaithful and leaves her husband,
 so you have been unfaithful to me, house of Israel,” says the LORD.
 [21] A voice is heard on the bare hilltops:
-the weeping and the pleading of the children of Israel,
+the weeping and the pleading of the people of Israel,
 because they have twisted their way.
 They have forgotten the LORD their God.
 [22] Return, unfaithful children,

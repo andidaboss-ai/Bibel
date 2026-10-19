@@ -5,7 +5,7 @@
 
 ## You have rejected us (Verses 1–5)
 
-[1] For the Chief Musician. To the tune of “The Lily of the Covenant.” A teaching poem by David,
+[1] For the music director. To the tune of “The Lily of the Covenant.” A teaching poem by David,
 when he fought against Aram Naharaim and Aram Zobah,
 and Joab returned and killed 12,000 men of Edom in the Valley of Salt.
 God, you have rejected us.

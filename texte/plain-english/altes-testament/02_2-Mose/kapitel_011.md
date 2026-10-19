@@ -33,7 +33,7 @@ to the firstborn of the female slave who works at the hand mill,
 and all the firstborn of the livestock.
 [6] There will be a great cry in the whole land of Egypt.
 There has never been such a cry, and there will never be one like it again.
-[7] But against the children of Israel, not even a dog will bark or move its tongue,
+[7] But against the people of Israel, not even a dog will bark or move its tongue,
 neither against people nor against animals.
 By this you will know that the LORD makes a difference between the Egyptians and Israel.
 [8] All these servants of yours will come down to me.
@@ -60,7 +60,7 @@ Then Moses went out from Pharaoh, burning with anger.
 So my wonders will become even more in the land of Egypt.”
 [10] Moses and Aaron did all these wonders before Pharaoh.
 But the LORD made Pharaoh’s heart hard.
-He did not let the children of Israel go out of his land.
+He did not let the people of Israel go out of his land.
 
 > **What does this mean?**
 > These two verses are like a look back at the nine plagues. Everything has happened just as God announced.

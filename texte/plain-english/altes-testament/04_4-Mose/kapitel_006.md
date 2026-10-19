@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses.
 He said:
-[2] “Speak to the children of Israel and tell them:
+[2] “Speak to the people of Israel and tell them:
 ‘A man or a woman may make a special vow,
 the vow of a Nazirite, to set himself apart for the LORD.
 A vow is a solemn promise to God.
@@ -109,12 +109,12 @@ He must do just as he has promised in his vow, by the law for his being set apar
 [22] The LORD spoke to Moses.
 He said:
 [23] “Speak to Aaron and to his sons and tell them:
-‘This is how you shall bless the children of Israel.’
+‘This is how you shall bless the people of Israel.’
 Tell them:
 [24] ‘The LORD bless you and keep you.
 [25] The LORD make his face shine on you and be gracious to you.
 [26] The LORD lift up his face toward you and give you peace.’
-[27] So they shall put my name on the children of Israel.
+[27] So they shall put my name on the people of Israel.
 And I will bless them.”
 
 > **What does this mean?**

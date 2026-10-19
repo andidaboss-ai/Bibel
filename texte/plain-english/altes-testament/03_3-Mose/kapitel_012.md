@@ -6,7 +6,7 @@
 ## After the birth of a son or a daughter (Verses 1–5)
 
 [1] The LORD spoke to Moses. He said,
-[2] “Speak to the children of Israel and say,
+[2] “Speak to the people of Israel and say,
 ‘If a woman becomes pregnant and gives birth to a son,
 she shall be unclean for seven days.
 She shall be unclean as in the days of her monthly period.

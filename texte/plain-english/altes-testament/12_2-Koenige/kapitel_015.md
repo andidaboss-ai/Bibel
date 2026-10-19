@@ -21,7 +21,7 @@ Jotham, the king’s son, was in charge of the palace
 and judged the people of the land.
 [6] The rest of the things Azariah did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[7] Azariah died and joined his fathers,
+[7] Azariah died and joined his ancestors,
 and they buried him with his fathers in David’s city.
 And his son Jotham became king in his place.
 
@@ -88,7 +88,7 @@ So the king of Assyria turned back
 and did not stay there in the land.
 [21] The rest of the things Menahem did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Israel?
-[22] Menahem died and joined his fathers,
+[22] Menahem died and joined his ancestors,
 and his son Pekahiah became king in his place.
 
 > **What does this mean?**
@@ -155,7 +155,7 @@ He built the upper gate of the LORD’s house.
 aren’t they written in the book of the chronicles of the kings of Judah?
 [37] In those days the LORD began
 to send Rezin the king of Syria and Pekah the son of Remaliah against Judah.
-[38] Jotham died and joined his fathers.
+[38] Jotham died and joined his ancestors.
 He was buried with his fathers in the city of his father David.
 And his son Ahaz became king in his place.
 

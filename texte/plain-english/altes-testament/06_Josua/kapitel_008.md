@@ -121,12 +121,12 @@ They piled a great heap of stones on it, which is still there to this day.
 ## The altar on Mount Ebal (Verses 30–35)
 
 [30] Then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal,
-[31] as Moses, the servant of the LORD, had commanded the children of Israel,
+[31] as Moses, the servant of the LORD, had commanded the people of Israel,
 as it is written in the book of the law of Moses:
 an altar of uncut stones, on which no one had used an iron tool.
 On it they offered burnt offerings to the LORD and sacrificed peace offerings.
 [32] There he wrote on the stones a copy of the law of Moses,
-which he wrote while the children of Israel watched.
+which he wrote while the people of Israel watched.
 [33] All Israel, with their elders, officers, and judges,
 stood on both sides of the ark, facing the Levitical priests who carried the ark of the covenant of the LORD,
 the foreigner as well as the one born in Israel.

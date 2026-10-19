@@ -7,14 +7,14 @@
 
 [1] These are the nations that the LORD left, to test Israel by them,
 all those who had not been through any of the wars of Canaan.
-[2] It was only so that the generations of the children of Israel would learn,
+[2] It was only so that the generations of the people of Israel would learn,
 so that they would be taught war, at least those who had not known it before:
 [3] the five lords of the Philistines, all the Canaanites, the Sidonians,
 and the Hivites who lived on Mount Lebanon, from Mount Baal Hermon to the entrance of Hamath.
 [4] They were left to test Israel by them,
 to find out whether they would listen to the commandments of the LORD,
 which he had commanded their fathers through Moses.
-[5] So the children of Israel lived among the Canaanites, the Hittites, the Amorites,
+[5] So the people of Israel lived among the Canaanites, the Hittites, the Amorites,
 the Perizzites, the Hivites, and the Jebusites.
 [6] They took their daughters as wives
 and gave their own daughters to their sons
@@ -28,13 +28,13 @@ and served their gods.
 
 ## Othniel, the first judge (Verses 7–11)
 
-[7] The children of Israel did what was evil in the eyes of the LORD.
+[7] The people of Israel did what was evil in the eyes of the LORD.
 They forgot the LORD their God and served the Baals and the Asheroth.
 [8] So the anger of the LORD burned against Israel,
 and he sold them into the hand of Cushan Rishathaim, the king of Mesopotamia.
-And the children of Israel served Cushan Rishathaim for eight years.
-[9] Then the children of Israel cried out to the LORD.
-And the LORD raised up a savior for the children of Israel, who saved them:
+And the people of Israel served Cushan Rishathaim for eight years.
+[9] Then the people of Israel cried out to the LORD.
+And the LORD raised up a savior for the people of Israel, who saved them:
 Othniel the son of Kenaz, Caleb’s younger brother.
 [10] The Spirit of the LORD came on him, and he judged Israel.
 He went out to war, and the LORD gave Cushan Rishathaim, the king of Mesopotamia, into his hand.
@@ -53,16 +53,16 @@ Then Othniel the son of Kenaz died.
 
 ## Ehud and King Eglon (Verses 12–26)
 
-[12] The children of Israel again did what was evil in the eyes of the LORD.
+[12] The people of Israel again did what was evil in the eyes of the LORD.
 So the LORD made Eglon, the king of Moab, strong against Israel,
 because they had done what was evil in the eyes of the LORD.
-[13] He gathered the children of Ammon and Amalek to himself.
+[13] He gathered the people of Ammon and Amalek to himself.
 He went and struck Israel, and they took the city of palm trees.
-[14] The children of Israel served Eglon, the king of Moab, for eighteen years.
-[15] Then the children of Israel cried out to the LORD.
+[14] The people of Israel served Eglon, the king of Moab, for eighteen years.
+[15] Then the people of Israel cried out to the LORD.
 And the LORD raised up a savior for them:
 Ehud the son of Gera, the Benjamite, a left-handed man.
-The children of Israel sent tribute through him to Eglon, the king of Moab.
+The people of Israel sent tribute through him to Eglon, the king of Moab.
 [16] Ehud made himself a sword that had two edges and was about 18 inches long.
 He wore it under his clothing on his right thigh.
 [17] He brought the tribute to Eglon, the king of Moab.
@@ -108,7 +108,7 @@ He had gone past the stone idols and escaped to Seirah.
 ## Moab is defeated (Verses 27–30)
 
 [27] When he got there, he blew a trumpet in the hill country of Ephraim.
-Then the children of Israel went down with him from the hill country, and he led them.
+Then the people of Israel went down with him from the hill country, and he led them.
 [28] He said to them,
 “Follow me! For the LORD has given your enemies, the Moabites, into your hand.”
 They followed him and took the fords of the Jordan against the Moabites.

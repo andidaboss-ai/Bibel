@@ -152,19 +152,19 @@ And he wrote on the tablets the words of the covenant, the Ten Commandments.
 He had the two tablets of the covenant in his hand.
 When he came down from the mountain, Moses did not know that the skin of his face was shining,
 because he had been speaking with God.
-[30] Aaron and all the children of Israel saw Moses.
+[30] Aaron and all the people of Israel saw Moses.
 And look, the skin of his face was shining.
 So they were afraid to come near him.
 [31] Moses called to them.
 Then Aaron and all the leaders of the community came back to him,
 and Moses spoke to them.
-[32] After that, all the children of Israel came near.
+[32] After that, all the people of Israel came near.
 And he gave them all the commandments that the LORD had spoken with him on Mount Sinai.
 
 [33] When Moses had finished speaking with them, he put a veil over his face.
 [34] But whenever Moses went in before the LORD to speak with him, he took the veil off until he came out.
-Then he came out and told the children of Israel what he had been commanded.
-[35] The children of Israel saw Moses’ face, that the skin of Moses’ face was shining.
+Then he came out and told the people of Israel what he had been commanded.
+[35] The people of Israel saw Moses’ face, that the skin of Moses’ face was shining.
 Then Moses put the veil over his face again, until he went in to speak with God.
 
 > **What does this mean?**

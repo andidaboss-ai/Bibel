@@ -72,7 +72,7 @@ He answered,
 “You.”
 [15] So he called up the young men of the leaders of the provinces.
 There were 232.
-After them he called up all the people, all the children of Israel: 7,000.
+After them he called up all the people, all the people of Israel: 7,000.
 [16] They went out at noon.
 But Ben Hadad was drinking himself drunk in the tents,
 he and the kings, the 32 kings who were helping him.
@@ -119,9 +119,9 @@ He listened to their advice and did so.
 [26] When the year came around again,
 Ben Hadad called up the Syrians
 and went up to Aphek to fight against Israel.
-[27] The children of Israel were also called up and given supplies,
+[27] The people of Israel were also called up and given supplies,
 and they went out against them.
-The children of Israel camped opposite them like two little flocks of young goats.
+The people of Israel camped opposite them like two little flocks of young goats.
 But the Syrians filled the countryside.
 [28] A man of God came and said to the king of Israel,
 “The LORD says:
@@ -131,7 +131,7 @@ I will hand over this whole great crowd to you.
 And you will know that I am the LORD.’”
 [29] They camped opposite each other for seven days.
 On the seventh day the battle began.
-The children of Israel killed 100,000 Syrian foot soldiers in one day.
+The people of Israel killed 100,000 Syrian foot soldiers in one day.
 [30] The rest fled to Aphek, into the city.
 Then the wall fell on the 27,000 men who were left.
 Ben Hadad fled and came into the city, into an inner room.

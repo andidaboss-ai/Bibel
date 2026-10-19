@@ -18,11 +18,11 @@ But by my name, the LORD, I did not make myself known to them.
 [4] I also made my covenant with them.
 I promised to give them the land of Canaan,
 the land where they traveled and lived as foreigners.
-[5] I have also heard the groaning of the children of Israel,
+[5] I have also heard the groaning of the people of Israel,
 whom the Egyptians keep as slaves.
 And I have remembered my covenant.
 
-[6] “So tell the children of Israel,
+[6] “So tell the people of Israel,
 ‘I am the LORD.
 I will bring you out from under the heavy work of the Egyptians.
 I will free you from their slavery.
@@ -46,22 +46,22 @@ I am the LORD.’”
 
 ## No one listens (Verses 9–13)
 
-[9] Moses told all this to the children of Israel.
+[9] Moses told all this to the people of Israel.
 But they did not listen to Moses.
 For they had lost all hope because of the cruel slavery.
 
 [10] Then the LORD spoke to Moses.
 He said,
 [11] “Go in and speak to Pharaoh, the king of Egypt.
-Tell him to let the children of Israel go out of his land.”
+Tell him to let the people of Israel go out of his land.”
 [12] But Moses said to the LORD,
-“Look, the children of Israel have not listened to me.
+“Look, the people of Israel have not listened to me.
 How then will Pharaoh listen to me,
 when I have uncircumcised lips?”
 
 [13] Then the LORD spoke to Moses and to Aaron.
-He gave them a command for the children of Israel and for Pharaoh, the king of Egypt:
-They were to bring the children of Israel out of the land of Egypt.
+He gave them a command for the people of Israel and for Pharaoh, the king of Egypt:
+They were to bring the people of Israel out of the land of Egypt.
 
 > **What does this mean?**
 > The Israelites can no longer hear the good news. They are too worn out and too full of despair. When someone suffers very much, sometimes they cannot accept hope anymore.
@@ -123,9 +123,9 @@ These are the heads of the families of the Levites, by their families.
 ## Moses and Aaron (Verses 26–30)
 
 [26] These are the Aaron and Moses to whom the LORD said,
-“Bring the children of Israel out of the land of Egypt, in order, by their armies.”
+“Bring the people of Israel out of the land of Egypt, in order, by their armies.”
 [27] They are the ones who spoke to Pharaoh, the king of Egypt,
-to bring the children of Israel out of Egypt.
+to bring the people of Israel out of Egypt.
 These are that Moses and Aaron.
 
 [28] On the day when the LORD spoke to Moses in the land of Egypt,

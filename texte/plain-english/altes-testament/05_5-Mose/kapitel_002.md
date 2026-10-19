@@ -80,9 +80,9 @@ to destroy them from the middle of the camp, until they were all gone.
 [16] When all the men of war among the people had died out and were dead,
 [17] the LORD spoke to me. He said,
 [18] “Today you will pass by Ar, at the border of Moab.
-[19] When you come near the children of Ammon,
+[19] When you come near the people of Ammon,
 do not trouble them, and do not start a quarrel with them.
-For I will not give you any of the land of the children of Ammon as your own.
+For I will not give you any of the land of the people of Ammon as your own.
 For I have given it to the children of Lot as their own.”
 [20] (That land is also counted as a land of Rephaim.
 Rephaim lived there in the past.
@@ -157,7 +157,7 @@ together with the plunder from the cities that we had taken.
 [36] From Aroer, which is on the edge of the valley of the Arnon, and from the city in the valley, all the way to Gilead,
 no city was too high for us.
 The LORD our God gave them all over to us.
-[37] Only the land of the children of Ammon you did not come near:
+[37] Only the land of the people of Ammon you did not come near:
 the whole bank of the river Jabbok, the cities in the hill country,
 and every place that the LORD our God had forbidden us.
 

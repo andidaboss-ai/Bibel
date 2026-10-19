@@ -23,20 +23,20 @@ Outlaws gathered around Jephthah, and they went out with him.
 
 ## The elders bring Jephthah back (Verses 4–11)
 
-[4] After a while, the children of Ammon made war against Israel.
-[5] When the children of Ammon made war against Israel,
+[4] After a while, the people of Ammon made war against Israel.
+[5] When the people of Ammon made war against Israel,
 the elders of Gilead went to bring Jephthah back from the land of Tob.
 [6] They said to Jephthah,
-“Come and be our commander, so that we can fight against the children of Ammon.”
+“Come and be our commander, so that we can fight against the people of Ammon.”
 [7] Jephthah said to the elders of Gilead,
 “Didn’t you hate me and drive me out of my father’s house?
 Why have you come to me now, when you are in trouble?”
 [8] The elders of Gilead said to Jephthah,
 “That is why we have come back to you now.
-Go with us and fight against the children of Ammon.
+Go with us and fight against the people of Ammon.
 Then you will be our head over all the people of Gilead.”
 [9] Jephthah said to the elders of Gilead,
-“If you bring me back home to fight against the children of Ammon,
+“If you bring me back home to fight against the people of Ammon,
 and the LORD gives them to me, will I be your head?”
 [10] The elders of Gilead said to Jephthah,
 “The LORD will be witness between us.
@@ -53,16 +53,16 @@ And Jephthah spoke all his words in front of the LORD in Mizpah.
 
 ## Jephthah negotiates with the king of Ammon (Verses 12–28)
 
-[12] Jephthah sent messengers to the king of the children of Ammon, saying,
+[12] Jephthah sent messengers to the king of the people of Ammon, saying,
 “What do you have against me, that you have come to me to fight against my land?”
-[13] The king of the children of Ammon answered Jephthah’s messengers,
+[13] The king of the people of Ammon answered Jephthah’s messengers,
 “Because Israel took away my land when he came up out of Egypt,
 from the Arnon to the Jabbok and to the Jordan.
 So now give it back peacefully.”
-[14] Jephthah sent messengers again to the king of the children of Ammon
+[14] Jephthah sent messengers again to the king of the people of Ammon
 [15] and said to him,
 “This is what Jephthah says:
-Israel did not take away the land of Moab or the land of the children of Ammon.
+Israel did not take away the land of Moab or the land of the people of Ammon.
 [16] But when they came up from Egypt,
 Israel went through the wilderness to the Red Sea and came to Kadesh.
 [17] Then Israel sent messengers to the king of Edom, saying,
@@ -95,12 +95,12 @@ and in all the cities along the Arnon for three hundred years!
 Why didn’t you take them back during that time?
 [27] I have not sinned against you.
 But you are doing me wrong by making war against me.
-May the LORD, the Judge, judge today between the children of Israel and the children of Ammon.”
-[28] But the king of the children of Ammon did not listen to the words that Jephthah sent him.
+May the LORD, the Judge, judge today between the people of Israel and the people of Ammon.”
+[28] But the king of the people of Ammon did not listen to the words that Jephthah sent him.
 
 > **What does this mean?**
 > Before Jephthah fights, he tries with words. He sends messengers twice and explains the history in detail, just as it is told in Numbers 20–21. This is one of the first diplomatic negotiations recorded in the Bible.
-> His arguments: Israel did not take the land from the children of Ammon, but from King Sihon, who had attacked Israel. And Israel has lived there for 300 years. Why do you come only now?
+> His arguments: Israel did not take the land from the people of Ammon, but from King Sihon, who had attacked Israel. And Israel has lived there for 300 years. Why do you come only now?
 > “Chemosh” was actually the god of the Moabites. Maybe Jephthah mixes up the peoples here, or Ammon and Moab were closely connected at that time. Jephthah speaks in the language of his opponent here, without saying that Chemosh is a real god.
 > “The LORD, the Judge”: In the end, Jephthah leaves the decision to God. He is the real judge.
 > “Red Sea”: This is what the WEB says. The Hebrew says “Sea of Reeds.”
@@ -111,18 +111,18 @@ May the LORD, the Judge, judge today between the children of Israel and the chil
 
 [29] Then the Spirit of the LORD came on Jephthah.
 He passed through Gilead and Manasseh, he passed through Mizpah of Gilead,
-and from Mizpah of Gilead he went on to the children of Ammon.
+and from Mizpah of Gilead he went on to the people of Ammon.
 [30] And Jephthah made a vow to the LORD and said,
-“If you will really give the children of Ammon into my hand,
+“If you will really give the people of Ammon into my hand,
 [31] then whatever comes out of the doors of my house to meet me
-when I come back in peace from the children of Ammon
+when I come back in peace from the people of Ammon
 shall belong to the LORD,
 and I will offer it up as a burnt offering.”
-[32] So Jephthah went over to the children of Ammon to fight against them.
+[32] So Jephthah went over to the people of Ammon to fight against them.
 And the LORD gave them into his hand.
 [33] He struck them from Aroer to Minnith, twenty cities, and as far as Abelcheramim,
 with a very great slaughter.
-So the children of Ammon were brought down in front of the children of Israel.
+So the people of Ammon were brought down in front of the people of Israel.
 
 > **What does this mean?**
 > A vow is a solemn promise made to God.
@@ -145,7 +145,7 @@ For I have opened my mouth to the LORD, and I cannot take it back.”
 [36] She said to him,
 “My father, you have opened your mouth to the LORD.
 Do to me what has come out of your mouth,
-since the LORD has taken revenge for you on your enemies, the children of Ammon.”
+since the LORD has taken revenge for you on your enemies, the people of Ammon.”
 [37] And she said to her father,
 “Let just this one thing be done for me:
 Leave me alone for two months,

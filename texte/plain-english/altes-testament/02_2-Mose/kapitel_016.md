@@ -6,10 +6,10 @@
 ## The people are hungry (Verses 1–3)
 
 [1] They set out from Elim.
-The whole community of the children of Israel came to the wilderness of Sin, which is between Elim and Sinai.
+The whole community of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai.
 That was on the fifteenth day of the second month after they had left the land of Egypt.
-[2] In the wilderness, the whole community of the children of Israel complained against Moses and against Aaron.
-[3] The children of Israel said to them,
+[2] In the wilderness, the whole community of the people of Israel complained against Moses and against Aaron.
+[3] The people of Israel said to them,
 “We wish we had died by the LORD’s hand in the land of Egypt!
 There we sat by the pots of meat.
 There we ate as much bread as we wanted.
@@ -32,7 +32,7 @@ In this way I will test them, to see whether they will live by my law or not.
 [5] On the sixth day they must prepare what they bring in.
 It will be twice as much as they gather on the other days.”
 
-[6] Moses and Aaron said to all the children of Israel,
+[6] Moses and Aaron said to all the people of Israel,
 “This evening you will know that the LORD has brought you out of the land of Egypt.
 [7] And in the morning you will see the glory of the LORD.
 For he has heard you complaining against the LORD.
@@ -45,13 +45,13 @@ Who are we?
 You are not complaining against us, but against the LORD.”
 
 [9] Moses said to Aaron,
-“Tell the whole community of the children of Israel,
+“Tell the whole community of the people of Israel,
 ‘Come close to the LORD, for he has heard your complaining.’”
-[10] While Aaron was speaking to the whole community of the children of Israel, they looked toward the wilderness.
+[10] While Aaron was speaking to the whole community of the people of Israel, they looked toward the wilderness.
 And there the glory of the LORD appeared in the cloud.
 [11] The LORD spoke to Moses.
 He said,
-[12] “I have heard the complaining of the children of Israel.
+[12] “I have heard the complaining of the people of Israel.
 Tell them,
 ‘In the evening you will eat meat.
 And in the morning you will be filled with bread.
@@ -71,7 +71,7 @@ And in the morning there was dew all around the camp.
 [14] When the dew was gone,
 there was something small and round on the surface of the wilderness,
 as small as frost on the ground.
-[15] The children of Israel saw it.
+[15] The people of Israel saw it.
 They said to one another,
 “What is it?”
 For they did not know what it was.
@@ -83,7 +83,7 @@ Moses said to them,
 Take an omer for each person,
 by the number of people.
 Everyone must gather for those who are in his tent.’”
-[17] The children of Israel did so.
+[17] The people of Israel did so.
 Some gathered more, some less.
 [18] When they measured it with an omer,
 the one who gathered much had nothing left over.
@@ -165,7 +165,7 @@ Put it before the LORD, so that it may be kept through all your generations.”
 [34] Aaron put it in front of the Testimony, so that it would be kept,
 just as the LORD had commanded Moses.
 
-[35] The children of Israel ate the manna for 40 years,
+[35] The people of Israel ate the manna for 40 years,
 until they came to a land where people lived.
 They ate the manna until they came to the border of the land of Canaan.
 [36] An omer is one tenth of an ephah.

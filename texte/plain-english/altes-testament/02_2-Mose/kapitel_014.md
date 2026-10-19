@@ -7,10 +7,10 @@
 
 [1] The LORD spoke to Moses.
 He said,
-[2] “Tell the children of Israel to turn back.
+[2] “Tell the people of Israel to turn back.
 They must camp in front of Pihahiroth, between Migdol and the sea, in front of Baal Zephon.
 You must camp across from it, by the sea.
-[3] Then Pharaoh will say about the children of Israel,
+[3] Then Pharaoh will say about the people of Israel,
 ‘They are lost in the land.
 The wilderness has shut them in.’
 [4] I will make Pharaoh’s heart hard, and he will chase after them.
@@ -39,8 +39,8 @@ and all the other chariots of Egypt,
 with officers over all of them.
 
 [8] The LORD made the heart of Pharaoh, the king of Egypt, hard.
-And Pharaoh chased after the children of Israel.
-But the children of Israel went out with a raised hand.
+And Pharaoh chased after the people of Israel.
+But the people of Israel went out with a raised hand.
 [9] The Egyptians chased after them.
 All of Pharaoh’s horses and chariots, his horsemen, and his army caught up with them.
 The Israelites were camping by the sea,
@@ -55,9 +55,9 @@ beside Pihahiroth, in front of Baal Zephon.
 
 ## “Do not be afraid!” (Verses 10–14)
 
-[10] When Pharaoh came near, the children of Israel looked up.
+[10] When Pharaoh came near, the people of Israel looked up.
 They saw the Egyptians marching after them.
-The children of Israel became very afraid.
+The people of Israel became very afraid.
 They cried out to the LORD.
 [11] They said to Moses,
 “Were there no graves in Egypt?
@@ -86,10 +86,10 @@ And you must be still.”
 
 [15] The LORD said to Moses,
 “Why are you crying out to me?
-Tell the children of Israel to go forward.
+Tell the people of Israel to go forward.
 [16] And you: Lift up your staff.
 Reach out your hand over the sea and divide it.
-Then the children of Israel will go through the middle of the sea on dry ground.
+Then the people of Israel will go through the middle of the sea on dry ground.
 [17] And look: I myself will make the hearts of the Egyptians hard, and they will go in after them.
 Then I will show my glory through Pharaoh and through all his army,
 through his chariots and through his horsemen.
@@ -107,7 +107,7 @@ So the one camp did not come near the other all night.
 Then the LORD drove the sea back with a strong east wind all night.
 He made the sea into dry land.
 The waters were divided.
-[22] The children of Israel went into the middle of the sea on dry ground.
+[22] The people of Israel went into the middle of the sea on dry ground.
 The waters were like a wall for them, on their right and on their left.
 
 > **What does this mean?**
@@ -140,7 +140,7 @@ So the LORD threw the Egyptians into the middle of the sea.
 the whole army of Pharaoh that had gone in after them into the sea.
 Not one of them was left.
 
-[29] But the children of Israel walked on dry land through the middle of the sea.
+[29] But the people of Israel walked on dry land through the middle of the sea.
 The waters were like a wall for them, on their right and on their left.
 [30] So on that day the LORD saved Israel from the hand of the Egyptians.
 And Israel saw the Egyptians lying dead on the seashore.

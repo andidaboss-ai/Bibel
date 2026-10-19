@@ -21,7 +21,7 @@ as far as Aphek, to the border of the Amorites,
 [5] and the land of the Gebalites, and all Lebanon to the east,
 from Baal Gad below Mount Hermon to the entrance of Hamath,
 [6] all the people of the hill country from Lebanon to Misrephoth Maim, all the Sidonians.
-I myself will drive them out in front of the children of Israel.
+I myself will drive them out in front of the people of Israel.
 Just divide the land to Israel by lot as an inheritance, as I have commanded you.
 [7] So now divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”
 
@@ -43,13 +43,13 @@ just as Moses, the servant of the LORD, gave it to them:
 and the city in the middle of the valley,
 and the whole plain of Medeba to Dibon,
 [10] and all the cities of Sihon, king of the Amorites, who ruled in Heshbon,
-as far as the border of the children of Ammon,
+as far as the border of the people of Ammon,
 [11] and Gilead, and the territory of the Geshurites and Maacathites,
 all Mount Hermon, and all Bashan as far as Salecah,
 [12] the whole kingdom of Og in Bashan, who ruled in Ashtaroth and in Edrei.
 He was one of the last of the Rephaim who were left.
 Moses had attacked them and driven them out.
-[13] But the children of Israel did not drive out the Geshurites or the Maacathites.
+[13] But the people of Israel did not drive out the Geshurites or the Maacathites.
 So Geshur and Maacath live in the middle of Israel to this day.
 [14] Only to the tribe of Levi he gave no inheritance.
 The offerings made by fire to the LORD, the God of Israel, are his inheritance, as the LORD told him.
@@ -63,7 +63,7 @@ The offerings made by fire to the LORD, the God of Israel, are his inheritance, 
 
 ## The territory of Reuben (Verses 15–23)
 
-[15] Moses gave land to the tribe of the children of Reuben by their clans.
+[15] Moses gave land to the tribe of the people of Reuben by their clans.
 [16] Their territory went from Aroer, which is on the edge of the valley of the Arnon,
 and the city in the middle of the valley, and the whole plain by Medeba,
 [17] Heshbon and all its cities on the plain:
@@ -74,10 +74,10 @@ Dibon, Bamoth Baal, Beth Baal Meon,
 [21] all the cities of the plain, and the whole kingdom of Sihon, king of the Amorites, who ruled in Heshbon.
 Moses had struck him, together with the chiefs of Midian,
 Evi, Rekem, Zur, Hur, and Reba, the princes of Sihon, who lived in the land.
-[22] The children of Israel also killed Balaam the son of Beor, the fortune-teller, with the sword,
+[22] The people of Israel also killed Balaam the son of Beor, the fortune-teller, with the sword,
 together with the others they killed.
-[23] The border of the children of Reuben was the bank of the Jordan.
-This was the inheritance of the children of Reuben by their clans, the cities and their villages.
+[23] The border of the people of Reuben was the bank of the Jordan.
+This was the inheritance of the people of Reuben by their clans, the cities and their villages.
 
 > **What does this mean?**
 > Balaam is called a “fortune-teller” here. He had blessed Israel when he was supposed to curse it (Numbers 22–24). But later he had advised the Midianites to lead Israel into worshiping idols. That is why he died in the war against Midian (Numbers 31:8, 16).
@@ -86,15 +86,15 @@ This was the inheritance of the children of Reuben by their clans, the cities an
 
 ## The territory of Gad (Verses 24–28)
 
-[24] Moses gave land to the tribe of Gad, to the children of Gad, by their clans.
+[24] Moses gave land to the tribe of Gad, to the people of Gad, by their clans.
 [25] Their territory was Jazer and all the cities of Gilead,
-and half the land of the children of Ammon, as far as Aroer, which is near Rabbah,
+and half the land of the people of Ammon, as far as Aroer, which is near Rabbah,
 [26] and from Heshbon to Ramath Mizpeh and Betonim,
 and from Mahanaim to the border of Debir,
 [27] and in the valley: Beth Haram, Beth Nimrah, Succoth, and Zaphon,
 the rest of the kingdom of Sihon, king of Heshbon,
 with the bank of the Jordan to the far end of the sea of Chinnereth, beyond the Jordan to the east.
-[28] This is the inheritance of the children of Gad by their clans, the cities and their villages.
+[28] This is the inheritance of the people of Gad by their clans, the cities and their villages.
 
 > **What does this mean?**
 > Mahanaim is the place where Jacob met angels (Genesis 32:2). Succoth is the place where Jacob built shelters for his livestock (Genesis 33:17). The old stories of the fathers are connected with this land.
@@ -104,7 +104,7 @@ with the bank of the Jordan to the far end of the sea of Chinnereth, beyond the 
 ## The territory of the half-tribe of Manasseh (Verses 29–33)
 
 [29] Moses gave an inheritance to the half-tribe of Manasseh.
-It was for the half-tribe of the children of Manasseh by their clans.
+It was for the half-tribe of the people of Manasseh by their clans.
 [30] Their territory went from Mahanaim: all Bashan, the whole kingdom of Og, king of Bashan,
 and all the villages of Jair, which are in Bashan, sixty cities.
 [31] Half of Gilead, Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan,

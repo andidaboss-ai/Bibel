@@ -190,12 +190,12 @@ and Golan in Bashan for the Manassites.
 
 ## The introduction to the law (Verses 44–49)
 
-[44] This is the law that Moses put before the children of Israel.
+[44] This is the law that Moses put before the people of Israel.
 [45] These are the testimonies, the rules, and the laws
-that Moses told the children of Israel after they came out of Egypt,
+that Moses told the people of Israel after they came out of Egypt,
 [46] beyond the Jordan, in the valley opposite Beth Peor,
 in the land of Sihon, the king of the Amorites, who lived at Heshbon.
-Moses and the children of Israel had struck him down after they came out of Egypt.
+Moses and the people of Israel had struck him down after they came out of Egypt.
 [47] They took his land as their own, and the land of Og, the king of Bashan.
 These were the two kings of the Amorites who lived beyond the Jordan, in the east, where the sun rises.
 [48] The land reached from Aroer, which is on the edge of the valley of the Arnon, to Mount Siyon (also called Hermon),

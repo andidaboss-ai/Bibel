@@ -17,7 +17,7 @@ It is a book about complaining and doubt, about rebellions and punishments, but 
 [1] The LORD spoke to Moses in the wilderness of Sinai, in the Tent of Meeting.
 It was on the first day of the second month, in the second year after they had come out of the land of Egypt.
 He said:
-[2] “Take a census of the whole community of the children of Israel.
+[2] “Take a census of the whole community of the people of Israel.
 A census means: counting all the people.
 Count them by their families and by their fathers’ houses,
 by the number of the names, every male, one by one,
@@ -145,7 +145,7 @@ from 20 years old and up, all who were able to go to war.
 [44] These were the ones who were counted.
 Moses and Aaron counted them,
 together with the twelve leaders of Israel, one for each fathers’ house.
-[45] All the children of Israel who were counted by their fathers’ houses, from 20 years old and up,
+[45] All the people of Israel who were counted by their fathers’ houses, from 20 years old and up,
 all in Israel who were able to go to war –
 [46] all who were counted were 603,550.
 
@@ -162,7 +162,7 @@ all in Israel who were able to go to war –
 [48] For the LORD had spoken to Moses.
 He had said:
 [49] “Only the tribe of Levi you shall not count.
-You shall not take a census of them among the children of Israel.
+You shall not take a census of them among the people of Israel.
 [50] Instead, put the Levites in charge of the Tabernacle of the Testimony,
 over all its equipment and over everything that belongs to it.
 The Tabernacle is the holy tent where God lives among his people.
@@ -171,12 +171,12 @@ They shall take care of it and camp all around it.
 [51] When the Tabernacle is to move on, the Levites shall take it down.
 And when the Tabernacle is to be set up, the Levites shall set it up.
 A stranger who comes near it shall be put to death.
-[52] The children of Israel shall set up their tents,
+[52] The people of Israel shall set up their tents,
 every man in his own camp and every man by his own flag, by their army divisions.
 [53] But the Levites shall camp all around the Tabernacle of the Testimony,
-so that no anger comes on the community of the children of Israel.
+so that no anger comes on the community of the people of Israel.
 The Levites shall be responsible for the Tabernacle of the Testimony.”
-[54] The children of Israel did this.
+[54] The people of Israel did this.
 They did everything just as the LORD had commanded Moses.
 
 > **What does this mean?**

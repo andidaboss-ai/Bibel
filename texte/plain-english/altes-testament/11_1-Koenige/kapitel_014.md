@@ -99,7 +99,7 @@ It happened as the LORD had said through his servant Ahijah the prophet.
 [19] The rest of Jeroboam’s story is written in the book of the chronicles of the kings of Israel.
 It tells how he fought and how he ruled.
 [20] Jeroboam ruled for 22 years.
-Then he died and joined his fathers.
+Then he died and joined his ancestors.
 His son Nadab became king in his place.
 
 > **What does this mean?**
@@ -140,7 +140,7 @@ Then they brought them back to the guard room.
 [29] The rest of Rehoboam’s story and everything he did
 are written in the book of the chronicles of the kings of Judah.
 [30] There was war between Rehoboam and Jeroboam the whole time.
-[31] Rehoboam died and joined his fathers.
+[31] Rehoboam died and joined his ancestors.
 He was buried with his fathers in David’s city.
 His mother’s name was Naamah the Ammonitess.
 His son Abijam became king in his place.

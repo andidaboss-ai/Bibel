@@ -200,7 +200,7 @@ He did not notice when she lay down or when she got up.
 [37] The older one had a son and named him Moab.
 He is the father of the Moabites to this day.
 [38] The younger one also had a son and named him Ben Ammi.
-He is the father of the children of Ammon to this day.
+He is the father of the people of Ammon to this day.
 
 > **What does this mean?**
 > This is a sad ending for Lot. He chose the most beautiful land – and in the end he lost everything: his belongings, his wife, his good name. Now he lives in a cave.

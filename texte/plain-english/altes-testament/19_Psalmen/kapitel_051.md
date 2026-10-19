@@ -5,7 +5,7 @@
 
 ## Have mercy on me (Verses 1–5)
 
-[1] For the Chief Musician. A psalm by David,
+[1] For the music director. A psalm by David,
 when Nathan the prophet came to him,
 after David had slept with Bathsheba.
 Have mercy on me, God,

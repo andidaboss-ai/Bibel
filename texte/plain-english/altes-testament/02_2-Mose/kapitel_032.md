@@ -94,7 +94,7 @@ Then Moses became very angry.
 He threw the tablets out of his hands and broke them at the foot of the mountain.
 [20] He took the calf that they had made and burned it with fire.
 He ground it into powder, scattered it on the water,
-and made the children of Israel drink it.
+and made the people of Israel drink it.
 
 > **What does this mean?**
 > The tablets were God’s own handwriting. Moses breaks them. This is a sign: The covenant is broken. The people have broken it already, even before the tablets arrive.

@@ -6,7 +6,7 @@
 ## Follow the ark of the covenant (Verses 1–6)
 
 [1] Joshua got up early in the morning.
-They set out from Shittim and came to the Jordan, he and all the children of Israel.
+They set out from Shittim and came to the Jordan, he and all the people of Israel.
 They camped there before they crossed over.
 [2] After three days, the officers went through the middle of the camp
 [3] and commanded the people:
@@ -40,7 +40,7 @@ so that they may know that as I was with Moses, so I will be with you.
 [8] Command the priests who carry the ark of the covenant:
 ‘When you come to the edge of the water of the Jordan,
 stand still in the Jordan.’”
-[9] Joshua said to the children of Israel,
+[9] Joshua said to the people of Israel,
 “Come here and listen to the words of the LORD your God.”
 [10] Joshua said,
 “This is how you will know that the living God is among you,

@@ -98,7 +98,7 @@ And the glory of the LORD filled the tabernacle.
 because the cloud stayed on it,
 and the glory of the LORD filled the tabernacle.
 
-[36] Whenever the cloud was lifted up from over the tabernacle, the children of Israel moved on.
+[36] Whenever the cloud was lifted up from over the tabernacle, the people of Israel moved on.
 It was like this on all their journeys.
 [37] But if the cloud was not lifted up, then they did not travel,
 until the day when it was lifted up.
@@ -108,7 +108,7 @@ All the house of Israel could see it, on all their journeys.
 
 > **What does this mean?**
 > This is the great goal of the whole book of Exodus. At the beginning, Israel was in Egypt, slaves of Pharaoh, far away from God. At the end, God lives in the middle of his people.
-> God has kept his promise: “I will live among the children of Israel” (Exodus 29:45).
+> God has kept his promise: “I will live among the people of Israel” (Exodus 29:45).
 > And this after the golden calf! The people had broken the covenant. But God has forgiven them and comes anyway, to live with them.
 > God’s glory is so great that not even Moses can go in. The next book, Leviticus, tells how people can still come near to the holy God.
 > The cloud shows the people the way through the desert. When it moves on, they move on. When it stays, they stay. God himself leads his people.

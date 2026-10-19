@@ -8,7 +8,7 @@
 [1] The LORD spoke to Moses.
 He said,
 [2] “Set apart for me every firstborn.
-Among the children of Israel, everything that comes first out of its mother’s womb belongs to me,
+Among the people of Israel, everything that comes first out of its mother’s womb belongs to me,
 both people and animals.
 It is mine.”
 
@@ -91,10 +91,10 @@ For God said,
 “The people might change their minds when they see war.
 Then they would go back to Egypt.”
 [18] So God led the people around, on the road through the wilderness to the Red Sea.
-The children of Israel went up out of the land of Egypt ready for battle.
+The people of Israel went up out of the land of Egypt ready for battle.
 
 [19] Moses took the bones of Joseph with him.
-For Joseph had made the children of Israel swear an oath.
+For Joseph had made the people of Israel swear an oath.
 He had said,
 “God will surely come to help you.
 Then you must carry my bones up from here with you.”

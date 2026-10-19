@@ -5,7 +5,7 @@
 
 ## The song of Moses (Verses 1–5)
 
-[1] Then Moses and the children of Israel sang this song to the LORD.
+[1] Then Moses and the people of Israel sang this song to the LORD.
 They said,
 “I will sing to the LORD,
 for he has won a glorious victory.
@@ -93,7 +93,7 @@ the holy place, Lord, that your hands have built.
 
 [19] For Pharaoh’s horses went into the sea with his chariots and his horsemen.
 And the LORD brought the waters of the sea back over them.
-But the children of Israel walked on dry land through the middle of the sea.
+But the people of Israel walked on dry land through the middle of the sea.
 
 [20] Then Miriam the prophetess, the sister of Aaron, took a tambourine in her hand.
 A tambourine is a small hand drum.

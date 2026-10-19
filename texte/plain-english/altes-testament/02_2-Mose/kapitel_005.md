@@ -60,7 +60,7 @@ They said,
 “Finish your work every day, just as when you had straw!”
 
 [14] Pharaoh’s slave drivers had put Israelite foremen over the people.
-These foremen of the children of Israel were beaten.
+These foremen of the people of Israel were beaten.
 They were asked,
 “Why have you not made as many bricks as before, yesterday and today?”
 
@@ -74,7 +74,7 @@ They were asked,
 
 ## The foremen complain (Verses 15–21)
 
-[15] Then the foremen of the children of Israel went to Pharaoh.
+[15] Then the foremen of the people of Israel went to Pharaoh.
 They cried out to him,
 “Why do you treat your servants like this?
 [16] Your servants are not given any straw.
@@ -89,7 +89,7 @@ That is why you say, ‘Let’s go and offer sacrifices to the LORD.’
 You will not be given any straw.
 But you must still deliver the same number of bricks!”
 
-[19] Then the foremen of the children of Israel saw that they were in trouble.
+[19] Then the foremen of the people of Israel saw that they were in trouble.
 For they had been told,
 “You must not make one brick less each day!”
 [20] When they came out from Pharaoh, they met Moses and Aaron.

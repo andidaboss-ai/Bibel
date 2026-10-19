@@ -123,7 +123,7 @@ because his wife Jezebel stirred him up.
 [26] He acted in a very disgusting way
 by following idols,
 just as the Amorites had done,
-whom the LORD drove out before the children of Israel.
+whom the LORD drove out before the people of Israel.
 
 > **What does this mean?**
 > God sees what happens in secret. No human court helped Naboth. But God sends Elijah.

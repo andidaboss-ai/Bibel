@@ -24,7 +24,7 @@ I have to give back what I did not take.
 > **What does this mean?**
 > “The waters have come up to my neck”: Even today, people use this picture as a saying. The one praying feels as if he is drowning. He cannot find anything to hold on to.
 > He has cried out until his voice gave out. He has waited until his eyes grew tired.
-> Verse 4: He is hated without a cause. He is supposed to give back something he never stole. Jesus quotes: “They hated me without a cause” (John 15:25).
+> Verse 4: He is hated without a cause. He is supposed to give back something he never stole. Jesus quotes: “They hated me for no reason” (John 15:25).
 > If the water is up to your neck right now and you see no way out: Get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---

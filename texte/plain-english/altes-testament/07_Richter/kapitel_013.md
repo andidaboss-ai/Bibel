@@ -5,7 +5,7 @@
 
 ## The Philistines rule over Israel (Verse 1)
 
-[1] The children of Israel again did what was evil in the eyes of the LORD.
+[1] The people of Israel again did what was evil in the eyes of the LORD.
 And the LORD gave them into the hand of the Philistines for forty years.
 
 > **What does this mean?**

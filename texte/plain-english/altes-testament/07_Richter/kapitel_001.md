@@ -16,7 +16,7 @@ And still the book shows: God does not give up on his people. Again and again he
 
 ## Judah goes into battle first (Verses 1–7)
 
-[1] After Joshua died, the children of Israel asked the LORD,
+[1] After Joshua died, the people of Israel asked the LORD,
 “Which of us should go up first against the Canaanites to fight against them?”
 [2] The LORD said,
 “Judah will go up.
@@ -48,9 +48,9 @@ They brought him to Jerusalem, and he died there.
 
 ## Jerusalem, Hebron, and Debir (Verses 8–15)
 
-[8] The children of Judah fought against Jerusalem.
+[8] The people of Judah fought against Jerusalem.
 They took it, struck it with the edge of the sword, and set the city on fire.
-[9] After that, the children of Judah went down to fight against the Canaanites
+[9] After that, the people of Judah went down to fight against the Canaanites
 who lived in the hill country, in the South, and in the lowland.
 [10] Judah went against the Canaanites who lived in Hebron.
 (The name of Hebron used to be Kiriath Arba.)
@@ -77,7 +77,7 @@ So Caleb gave her the upper springs and the lower springs.
 ## Successes in the south (Verses 16–20)
 
 [16] The descendants of the Kenite, Moses’ brother-in-law,
-went up with the children of Judah from the city of palm trees into the wilderness of Judah, which is south of Arad.
+went up with the people of Judah from the city of palm trees into the wilderness of Judah, which is south of Arad.
 They went and lived with the people.
 [17] Judah went with his brother Simeon.
 They struck the Canaanites who lived in Zephath
@@ -101,8 +101,8 @@ And he drove out the three sons of Anak from there.
 
 ## The other tribes do not drive out the Canaanites (Verses 21–36)
 
-[21] The children of Benjamin did not drive out the Jebusites who lived in Jerusalem.
-So the Jebusites live with the children of Benjamin in Jerusalem to this day.
+[21] The people of Benjamin did not drive out the Jebusites who lived in Jerusalem.
+So the Jebusites live with the people of Benjamin in Jerusalem to this day.
 [22] The house of Joseph also went up against Bethel, and the LORD was with them.
 [23] The house of Joseph sent men to spy out Bethel.
 (The name of the city used to be Luz.)
@@ -131,7 +131,7 @@ for they did not drive them out.
 [33] Naphtali did not drive out the people of Beth Shemesh or the people of Beth Anath.
 He lived among the Canaanites, the people of the land.
 But the people of Beth Shemesh and Beth Anath had to do forced labor.
-[34] The Amorites forced the children of Dan back into the hill country.
+[34] The Amorites forced the people of Dan back into the hill country.
 They did not let them come down into the valley.
 [35] The Amorites were determined to stay at Mount Heres, in Aijalon, and in Shaalbim.
 But the hand of the house of Joseph grew strong against them, so that they had to do forced labor.

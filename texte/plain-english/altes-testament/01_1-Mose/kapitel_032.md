@@ -157,7 +157,7 @@ and yet my life was spared.”
 
 [31] The sun rose on him as he passed Peniel.
 He was limping because of his hip.
-[32] That is why the children of Israel do not eat the muscle at the hip, which lies on the hip socket, to this very day.
+[32] That is why the people of Israel do not eat the muscle at the hip, which lies on the hip socket, to this very day.
 For the man struck Jacob’s hip socket at this muscle.
 
 > **What does this mean?**

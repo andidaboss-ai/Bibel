@@ -7,8 +7,8 @@
 
 [1] All the kings of the Amorites who lived beyond the Jordan to the west,
 and all the kings of the Canaanites who lived by the sea,
-heard how the LORD had dried up the water of the Jordan in front of the children of Israel until we had crossed over.
-Then their hearts melted, and they had no more courage because of the children of Israel.
+heard how the LORD had dried up the water of the Jordan in front of the people of Israel until we had crossed over.
+Then their hearts melted, and they had no more courage because of the people of Israel.
 
 > **What does this mean?**
 > “Until we had crossed over”: The narrator says “we.” He counts himself among the people who were there at that time.
@@ -28,7 +28,7 @@ had died in the wilderness along the way, after they came out of Egypt.
 [5] For all the people who came out had been circumcised.
 But all the people who were born in the wilderness along the way, after they came out of Egypt,
 had not been circumcised.
-[6] For the children of Israel walked forty years in the wilderness,
+[6] For the people of Israel walked forty years in the wilderness,
 until the whole nation, the men of war who came out of Egypt, had died,
 because they did not listen to the voice of the LORD.
 The LORD swore to them that he would not let them see the land
@@ -51,12 +51,12 @@ That is why the name of that place is Gilgal to this day.
 
 ## The first Passover in the land (Verses 10–12)
 
-[10] The children of Israel camped in Gilgal.
+[10] The people of Israel camped in Gilgal.
 They kept the Passover on the fourteenth day of the month, in the evening, in the plains of Jericho.
 [11] On the day after the Passover, they ate food that grew in the land:
 bread without yeast and roasted grain, on that very day.
 [12] The manna stopped on the next day, after they had eaten food from the land.
-The children of Israel had no more manna.
+The people of Israel had no more manna.
 That year they ate the fruit of the land of Canaan.
 
 > **What does this mean?**

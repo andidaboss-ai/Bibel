@@ -47,7 +47,7 @@ this is what will be done to his oxen.”
 Then the fear of the LORD fell on the people,
 and they came out as one man.
 [8] He counted them at Bezek.
-The children of Israel were 300,000 men,
+The people of Israel were 300,000 men,
 and the men of Judah 30,000.
 [9] They said to the messengers who had come,
 “Tell the men of Jabesh Gilead:

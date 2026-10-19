@@ -5,7 +5,7 @@
 
 ## The wicked person (Verses 1–4)
 
-[1] For the Chief Musician. By David, the servant of the LORD.
+[1] For the music director. By David, the servant of the LORD.
 God has shown my heart something
 about the wrongdoing of the wicked:
 He does not fear God at all.

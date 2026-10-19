@@ -5,7 +5,7 @@
 
 ## What you did in the past (Verses 1–8)
 
-[1] For the Chief Musician. By the sons of Korah. A contemplative psalm.
+[1] For the music director. By the sons of Korah. A contemplative psalm.
 God, we have heard it with our ears.
 Our ancestors have told us
 what you did in their days,

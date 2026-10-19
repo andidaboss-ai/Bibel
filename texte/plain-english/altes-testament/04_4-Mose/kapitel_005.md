@@ -7,14 +7,14 @@
 
 [1] The LORD spoke to Moses.
 He said:
-[2] “Command the children of Israel to send out of the camp
+[2] “Command the people of Israel to send out of the camp
 everyone who has leprosy, everyone who has a discharge,
 and everyone who has become unclean by touching a dead body.
 Leprosy here means: a serious skin disease.
 [3] You shall send out both men and women. Send them outside the camp,
 so that they do not make their camp unclean. I live in the middle of it.”
-[4] The children of Israel did this and sent them outside the camp.
-As the LORD had told Moses, so the children of Israel did.
+[4] The people of Israel did this and sent them outside the camp.
+As the LORD had told Moses, so the people of Israel did.
 
 > **What does this mean?**
 > God lives in the middle of the camp. That is why the camp shall be clean. Whoever is unclean has to stay outside for a while, until he is clean again.
@@ -26,7 +26,7 @@ As the LORD had told Moses, so the children of Israel did.
 
 [5] The LORD spoke to Moses.
 He said:
-[6] “Speak to the children of Israel:
+[6] “Speak to the people of Israel:
 ‘A man or a woman may commit any sin that people commit
 and so be unfaithful to the LORD.
 Then that person is guilty.
@@ -38,7 +38,7 @@ He shall give it to the person he has wronged.
 Then the payment for the guilt belongs to the LORD, that means: to the priest.
 This is in addition to the ram of atonement, with which atonement is made for the guilty person.
 Atonement means: the guilt is taken away, and there is peace with God again.
-[9] Every offering that is lifted up from all the holy gifts that the children of Israel bring to the priest shall be his.
+[9] Every offering that is lifted up from all the holy gifts that the people of Israel bring to the priest shall be his.
 [10] The holy gifts of every person shall belong to the priest.
 Whatever anyone gives to the priest shall be his.’”
 
@@ -53,7 +53,7 @@ Whatever anyone gives to the priest shall be his.’”
 
 [11] The LORD spoke to Moses.
 He said:
-[12] “Speak to the children of Israel and tell them:
+[12] “Speak to the people of Israel and tell them:
 ‘A man’s wife may go astray and be unfaithful to him.
 [13] Another man may sleep with her.
 It may be hidden from the eyes of her husband and kept secret.

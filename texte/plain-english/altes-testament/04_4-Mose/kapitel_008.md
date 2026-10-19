@@ -26,7 +26,7 @@ He made the lampstand by the pattern that the LORD had shown Moses.
 
 [5] The LORD spoke to Moses.
 He said:
-[6] “Take the Levites from among the children of Israel and make them clean.
+[6] “Take the Levites from among the people of Israel and make them clean.
 [7] This is what you shall do to them to make them clean:
 Sprinkle the water of cleansing on them.
 They shall shave their whole bodies with a razor,
@@ -34,10 +34,10 @@ wash their clothes and make themselves clean.
 [8] Then they shall take a young bull and its grain offering, fine flour mixed with oil.
 And you shall take another young bull as a sin offering.
 [9] You shall bring the Levites in front of the Tent of Meeting.
-And you shall gather the whole community of the children of Israel.
+And you shall gather the whole community of the people of Israel.
 [10] You shall bring the Levites before the LORD.
-The children of Israel shall lay their hands on the Levites.
-[11] And Aaron shall offer the Levites before the LORD as a wave offering from the children of Israel.
+The people of Israel shall lay their hands on the Levites.
+[11] And Aaron shall offer the Levites before the LORD as a wave offering from the people of Israel.
 So they shall do the work of the LORD.
 
 [12] “The Levites shall lay their hands on the heads of the bulls.
@@ -45,7 +45,7 @@ You shall offer one as a sin offering and the other as a burnt offering to the L
 to make atonement for the Levites.
 [13] You shall set the Levites before Aaron and before his sons,
 and offer them to the LORD as a wave offering.
-[14] So you shall set the Levites apart from among the children of Israel.
+[14] So you shall set the Levites apart from among the people of Israel.
 And the Levites shall be mine.
 
 > **What does this mean?**
@@ -60,16 +60,16 @@ And the Levites shall be mine.
 
 [15] “After that, the Levites shall go in to do the work at the Tent of Meeting.
 You shall make them clean and offer them as a wave offering.
-[16] For they are given to me completely from among the children of Israel.
+[16] For they are given to me completely from among the people of Israel.
 I have taken them for myself instead of all who are the first to come from the womb,
-instead of all the firstborn of the children of Israel.
-[17] For all the firstborn among the children of Israel are mine, both people and animals.
+instead of all the firstborn of the people of Israel.
+[17] For all the firstborn among the people of Israel are mine, both people and animals.
 On the day when I struck down all the firstborn in the land of Egypt, I made them holy for myself.
-[18] I have taken the Levites instead of all the firstborn among the children of Israel.
-[19] I have given the Levites as a gift to Aaron and to his sons, from among the children of Israel.
-They shall do the work of the children of Israel at the Tent of Meeting
-and make atonement for the children of Israel,
-so that no plague comes on the children of Israel when the children of Israel come near the sanctuary.”
+[18] I have taken the Levites instead of all the firstborn among the people of Israel.
+[19] I have given the Levites as a gift to Aaron and to his sons, from among the people of Israel.
+They shall do the work of the people of Israel at the Tent of Meeting
+and make atonement for the people of Israel,
+so that no plague comes on the people of Israel when the people of Israel come near the sanctuary.”
 
 > **What does this mean?**
 > The Levites are a “gift” for the priests. They help them with all the work.
@@ -79,8 +79,8 @@ so that no plague comes on the children of Israel when the children of Israel co
 
 ## The dedication is carried out (Verses 20–22)
 
-[20] Moses, Aaron and the whole community of the children of Israel did this to the Levites.
-The children of Israel did to them everything the LORD had commanded Moses about the Levites.
+[20] Moses, Aaron and the whole community of the people of Israel did this to the Levites.
+The people of Israel did to them everything the LORD had commanded Moses about the Levites.
 [21] The Levites made themselves clean from sin and washed their clothes.
 And Aaron offered them before the LORD as a wave offering.
 And Aaron made atonement for them to make them clean.

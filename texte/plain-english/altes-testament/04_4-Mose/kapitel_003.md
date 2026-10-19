@@ -31,10 +31,10 @@ They shall serve him.
 [7] They shall carry out their duties for him and for the whole community in front of the Tent of Meeting.
 They shall do the work of the Tabernacle.
 [8] They shall take care of all the equipment of the Tent of Meeting.
-They shall carry out the duties for the children of Israel
+They shall carry out the duties for the people of Israel
 and do the work of the Tabernacle.
 [9] You shall give the Levites to Aaron and to his sons.
-They are given to him completely, from among the children of Israel.
+They are given to him completely, from among the people of Israel.
 [10] You shall appoint Aaron and his sons, so that they do their work as priests.
 But a stranger who comes near shall be put to death.”
 
@@ -48,8 +48,8 @@ But a stranger who comes near shall be put to death.”
 
 [11] The LORD spoke to Moses.
 He said:
-[12] “Look: I have taken the Levites from among the children of Israel
-instead of all the firstborn among the children of Israel, who are the first to come from their mother’s womb.
+[12] “Look: I have taken the Levites from among the people of Israel
+instead of all the firstborn among the people of Israel, who are the first to come from their mother’s womb.
 The Levites shall be mine.
 [13] For all the firstborn are mine.
 On the day when I struck down all the firstborn in the land of Egypt,
@@ -142,7 +142,7 @@ the boards of the Tabernacle, its crossbars, its posts, its bases, all its equip
 
 [38] In front of the Tabernacle, in the east, in front of the Tent of Meeting toward the sunrise,
 Moses, Aaron and his sons shall camp.
-They shall carry out the duties of the sanctuary, as a service for the children of Israel.
+They shall carry out the duties of the sanctuary, as a service for the people of Israel.
 An outsider who comes near shall be put to death.
 [39] All the Levites who were counted, whom Moses and Aaron counted at the command of the LORD,
 by their families, all the males from one month old and up, were 22,000.
@@ -156,27 +156,27 @@ by their families, all the males from one month old and up, were 22,000.
 ## The exchange for the firstborn (Verses 40–51)
 
 [40] The LORD said to Moses:
-“Count all the firstborn males of the children of Israel, from one month old and up,
+“Count all the firstborn males of the people of Israel, from one month old and up,
 and find out the number of their names.
 [41] You shall take the Levites for me – I am the LORD –
-instead of all the firstborn among the children of Israel.
-And take the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel.”
-[42] Moses counted all the firstborn among the children of Israel, as the LORD had commanded him.
+instead of all the firstborn among the people of Israel.
+And take the livestock of the Levites instead of all the firstborn among the livestock of the people of Israel.”
+[42] Moses counted all the firstborn among the people of Israel, as the LORD had commanded him.
 [43] All the firstborn males, by the number of names, from one month old and up,
 were 22,273.
 
 [44] The LORD spoke to Moses.
 He said:
-[45] “Take the Levites instead of all the firstborn among the children of Israel,
+[45] “Take the Levites instead of all the firstborn among the people of Israel,
 and the livestock of the Levites instead of their livestock.
 The Levites shall be mine. I am the LORD.
-[46] There are 273 firstborn of the children of Israel who are more than the number of the Levites.
+[46] There are 273 firstborn of the people of Israel who are more than the number of the Levites.
 They must be bought free.
 [47] For this, you shall take five shekels for each one.
 You shall take them by the shekel of the sanctuary. One shekel is 20 gerahs.
 [48] And you shall give the money with which the rest of them are bought free to Aaron and to his sons.”
 [49] Moses took the money for buying them free from those who were more than the ones bought free by the Levites.
-[50] He took the money from the firstborn of the children of Israel: 1,365 shekels, by the shekel of the sanctuary.
+[50] He took the money from the firstborn of the people of Israel: 1,365 shekels, by the shekel of the sanctuary.
 [51] And Moses gave the money for buying them free to Aaron and to his sons,
 by the word of the LORD, as the LORD had commanded Moses.
 

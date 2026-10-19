@@ -78,7 +78,7 @@ and the one who formed them will show them no kindness.
 [12] On that day it will happen
 that the LORD will thresh from the flowing Euphrates River to the Brook of Egypt,
 and you will be gathered up one by one,
-you children of Israel.
+you people of Israel.
 [13] On that day it will happen
 that a great trumpet will be blown,
 and those who were about to perish in the land of Assyria

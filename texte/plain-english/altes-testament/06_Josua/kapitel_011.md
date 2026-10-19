@@ -60,7 +60,7 @@ He struck them with the edge of the sword and completely destroyed them,
 as Moses, the servant of the LORD, had commanded.
 [13] But Israel did not burn any of the cities that stood on their hills.
 Joshua burned only Hazor.
-[14] The children of Israel took all the goods of these cities and the livestock for themselves.
+[14] The people of Israel took all the goods of these cities and the livestock for themselves.
 But they struck every person with the edge of the sword until they had destroyed them.
 They left no one who breathed.
 [15] As the LORD had commanded Moses his servant, so Moses commanded Joshua.
@@ -82,7 +82,7 @@ the hill country of Israel and its lowland,
 [17] from Mount Halak, which goes up toward Seir, to Baal Gad in the valley of Lebanon below Mount Hermon.
 He captured all their kings, struck them, and put them to death.
 [18] Joshua made war with all those kings for a long time.
-[19] There was not one city that made peace with the children of Israel,
+[19] There was not one city that made peace with the people of Israel,
 except the Hivites who lived in Gibeon.
 They took all the others in battle.
 [20] For it came from the LORD that their hearts became hard,
@@ -104,7 +104,7 @@ as the LORD had commanded Moses.
 [21] At that time Joshua came and wiped out the Anakim from the hill country,
 from Hebron, from Debir, from Anab, from all the hill country of Judah, and from all the hill country of Israel.
 Joshua completely destroyed them and their cities.
-[22] No Anakim were left in the land of the children of Israel.
+[22] No Anakim were left in the land of the people of Israel.
 Only in Gaza, in Gath, and in Ashdod did some remain.
 [23] So Joshua took the whole land,
 just as the LORD had said to Moses.

@@ -19,9 +19,9 @@ of gold, of blue, purple and scarlet cloth and of fine twisted linen,
 as the LORD commanded Moses.
 
 [6] They worked the onyx stones and set them in settings of gold.
-They engraved the names of the children of Israel on them, the way a seal is engraved.
+They engraved the names of the people of Israel on them, the way a seal is engraved.
 [7] He put them on the shoulder straps of the ephod.
-They were stones of remembrance for the children of Israel,
+They were stones of remembrance for the people of Israel,
 as the LORD commanded Moses.
 
 > **What does this mean?**
@@ -43,7 +43,7 @@ In the first row a ruby, a topaz and a beryl.
 [12] In the third row a jacinth, an agate and an amethyst.
 [13] In the fourth row a chrysolite, an onyx and a jasper.
 They were set in gold settings.
-[14] There were twelve stones, one for each name of the children of Israel.
+[14] There were twelve stones, one for each name of the people of Israel.
 A name was engraved on each stone, the way a seal is engraved, for the twelve tribes.
 
 [15] They made chains for the breastplate like braided cords of pure gold.
@@ -103,7 +103,7 @@ as the LORD commanded Moses.
 ## The work is finished (Verses 32–43)
 
 [32] So all the work on the tabernacle, the Tent of Meeting, was finished.
-The children of Israel did everything as the LORD had told Moses. That is what they did.
+The people of Israel did everything as the LORD had told Moses. That is what they did.
 [33] They brought the tabernacle to Moses:
 the tent with all its furniture,
 its clasps, its boards, its bars, its pillars and its sockets,
@@ -125,7 +125,7 @@ and all the tools for the service of the tabernacle, for the Tent of Meeting,
 the holy clothes for Aaron the priest and the clothes of his sons
 for their service as priests.
 
-[42] The children of Israel did all the work exactly as the LORD had told Moses.
+[42] The people of Israel did all the work exactly as the LORD had told Moses.
 [43] Moses looked at all the work.
 And look: They had done it as the LORD had commanded. That is what they had done.
 And Moses blessed them.

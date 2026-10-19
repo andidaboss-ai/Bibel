@@ -83,10 +83,10 @@ We have no inheritance in the son of Jesse!
 Every man to your tents, Israel!
 Now take care of your own house, David.”
 So all Israel went away to their tents.
-[17] But Rehoboam reigned over the children of Israel
+[17] But Rehoboam reigned over the people of Israel
 who lived in the cities of Judah.
 [18] Then King Rehoboam sent Hadoram, who was over the men who had to do forced labor.
-And the children of Israel stoned him to death with stones.
+And the people of Israel stoned him to death with stones.
 King Rehoboam quickly got up into his chariot
 to flee to Jerusalem.
 [19] So Israel rebelled against David’s house to this day.

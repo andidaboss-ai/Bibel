@@ -119,7 +119,7 @@ all his power,
 and how he made the pool and the water channel
 and brought water into the city,
 aren’t they written in the book of the chronicles of the kings of Judah?
-[21] Hezekiah died and joined his fathers,
+[21] Hezekiah died and joined his ancestors,
 and his son Manasseh became king in his place.
 
 > **What does this mean?**

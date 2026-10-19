@@ -134,12 +134,12 @@ you must keep this service.
 ‘What does this service mean to you?’
 [27] then you must say,
 ‘It is the sacrifice of the LORD’s Passover.
-He passed over the houses of the children of Israel in Egypt
+He passed over the houses of the people of Israel in Egypt
 when he struck the Egyptians.
 He spared our houses.’”
 Then the people bowed their heads and worshiped.
 
-[28] The children of Israel went and did so.
+[28] The people of Israel went and did so.
 They did just as the LORD had commanded Moses and Aaron.
 
 > **What does this mean?**
@@ -162,7 +162,7 @@ For there was not a house where no one was dead.
 
 [31] That same night Pharaoh called for Moses and Aaron.
 He said,
-“Get up! Get out from among my people, both you and the children of Israel!
+“Get up! Get out from among my people, both you and the people of Israel!
 Go, serve the LORD, as you have said!
 [32] Take your flocks and your herds too, as you have said.
 Go!
@@ -174,7 +174,7 @@ For they said,
 [34] So the people took their dough before yeast had made it rise.
 They wrapped their bowls for making dough in their clothes and carried them on their shoulders.
 
-[35] The children of Israel did what Moses had said.
+[35] The people of Israel did what Moses had said.
 They asked the Egyptians for jewelry of silver, jewelry of gold, and clothing.
 [36] The LORD had made the Egyptians kind toward the people.
 So the Egyptians gave them what they asked for.
@@ -190,7 +190,7 @@ In this way they took the riches of the Egyptians.
 
 ## Setting out (Verses 37–42)
 
-[37] The children of Israel traveled from Rameses to Succoth.
+[37] The people of Israel traveled from Rameses to Succoth.
 There were about 600,000 men on foot, not counting the children.
 [38] A large mixed crowd of other people went up with them too.
 There were also flocks and herds, a very large number of livestock.
@@ -199,12 +199,12 @@ For the dough had not risen.
 They had been driven out of Egypt.
 They could not wait, and they had not made any food for the journey.
 
-[40] The children of Israel had lived in Egypt for 430 years.
+[40] The people of Israel had lived in Egypt for 430 years.
 [41] At the end of the 430 years, on that very day,
 all the armies of the LORD went out of the land of Egypt.
 [42] It is a night when the LORD kept watch, to bring them out of the land of Egypt.
 This is the LORD’s night.
-All the children of Israel must keep watch on this night through all their generations.
+All the people of Israel must keep watch on this night through all their generations.
 
 > **What does this mean?**
 > 600,000 men – with women and children, that would be more than two million people. That is a huge number. Some experts think that the Hebrew word for “thousand” could also mean “family” or “group” here. Then there would have been fewer people. Others take the number literally.
@@ -233,9 +233,9 @@ He will be like someone born in the land.
 But no one who is not circumcised may eat of it.
 [49] The same law is for the one who is born in the land and for the foreigner who lives among you.”
 
-[50] All the children of Israel did so.
+[50] All the people of Israel did so.
 They did just as the LORD had commanded Moses and Aaron.
-[51] On that very day, the LORD brought the children of Israel out of the land of Egypt by their armies.
+[51] On that very day, the LORD brought the people of Israel out of the land of Egypt by their armies.
 
 > **What does this mean?**
 > The Passover is a festival for the people of the covenant. Whoever wants to celebrate it belongs to the people – through circumcision, the sign of the covenant with Abraham.
