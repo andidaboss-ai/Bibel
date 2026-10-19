@@ -5,63 +5,45 @@
 
 ## Jesus feeds five thousand people (Verses 1–15)
 
-[1] After this Jesus went away to the other side of the sea of Galilee,
-which is also called the Sea of Tiberias.
-[2] A great crowd followed him,
-because they saw the signs
-which he did for the sick.
-[3] Jesus went up on the mountain
-and sat there with his disciples.
-[4] The Passover, the feast of the Jews, was near.
-[5] Jesus looked up
-and saw that a great crowd was coming to him.
-So he said to Philip,
-“Where are we to buy bread,
-so that these people may eat?”
-[6] He said this
-to test him.
-For he himself knew
-what he would do.
+[1] After this, Jesus went away to the other side of the Sea of Galilee.
+It is also called the Sea of Tiberias.
+[2] A large crowd followed him.
+They had seen the signs he did by healing sick people.
+[3] Jesus went up on the mountain.
+He sat down there with his disciples.
+[4] It was almost time for the Passover, the feast of the Jews.
+[5] Jesus looked up.
+He saw a large crowd coming toward him.
+He said to Philip,
+“Where can we buy bread, so that these people can eat?”
+[6] He said this to test Philip.
+He himself already knew what he was going to do.
 [7] Philip answered him,
-“Two hundred denarii worth of bread is not enough
-for each of them to get even a little.”
-[8] One of his disciples,
-Andrew, Simon Peter’s brother,
-said to him,
-[9] “There is a boy here
-who has five barley loaves and two fish.
-But what are these among so many?”
-[10] Jesus said,
-“Have the people sit down.”
-There was much grass in that place.
-So the men sat down,
-about five thousand of them.
-[11] Jesus took the loaves,
-gave thanks,
-and handed them out to the disciples,
-and the disciples to those
-who were sitting down.
-He did the same with the fish,
-as much as they wanted.
-[12] When they were full,
-he said to his disciples,
-“Gather up the broken pieces which are left over,
-so that nothing is lost.”
-[13] So they gathered them up
-and filled twelve baskets with broken pieces
-from the five barley loaves,
-which were left over
-by those who had eaten.
-[14] When the people saw the sign
-which Jesus had done,
-they said,
-“This is truly the prophet
-who comes into the world.”
-[15] Jesus saw
-that they were about to come
-and take him by force to make him king.
-So he went back up the mountain,
-all by himself.
+“Bread for two hundred denarii would not be enough for them.
+Each one would not even get a little.”
+[8] One of his disciples spoke to him.
+It was Andrew, the brother of Simon Peter.
+[9] He said,
+“There is a boy here who has five barley loaves and two fish.
+But what is that for so many people?”
+[10] Jesus said, “Have the people sit down.”
+There was a lot of grass in that place.
+So the people sat down.
+There were about five thousand men.
+[11] Jesus took the loaves and gave thanks.
+He gave the bread to the disciples.
+And the disciples gave it to the people who were sitting there.
+He did the same with the fish.
+Everyone got as much as they wanted.
+[12] When they were full, he said to his disciples,
+“Gather up the pieces that are left over, so that nothing is lost.”
+[13] So they gathered them up.
+They filled twelve baskets with the pieces of the five barley loaves.
+These pieces were left over by the people who had eaten.
+[14] The people saw the sign that Jesus had done.
+They said, “He really is the prophet who is to come into the world.”
+[15] Jesus knew that they were about to come and take him by force to make him king.
+So he went back up on the mountain by himself.
 
 > **What does this mean?**
 > The Sea of Galilee was also named after the city of Tiberias, which Herod Antipas had built there.
@@ -78,24 +60,20 @@ all by himself.
 
 ## Jesus walks on the water (Verses 16–21)
 
-[16] When evening came,
-his disciples went down to the sea.
-[17] They got into the boat
-and were going over the sea to Capernaum.
-It was already dark,
-and Jesus had not yet come to them.
-[18] A strong wind was blowing,
-and the sea was rough.
-[19] When they had rowed about twenty-five or thirty stadia,
-they saw Jesus walking on the sea
-and coming near to the boat.
-And they were afraid.
+[16] When evening came, his disciples went down to the lake.
+[17] They got into the boat.
+They started across the lake to Capernaum.
+It was already dark, and Jesus had not yet come to them.
+[18] A strong wind was blowing.
+The water became rough.
+[19] They had rowed about 3 or 3½ miles.
+Then they saw Jesus walking on the water.
+He was coming near the boat.
+They were afraid.
 [20] But he said to them,
-“It is I.
-Don’t be afraid.”
-[21] Then they were willing to take him into the boat.
-And immediately the boat was at the land
-where they were going.
+“It is I. Don’t be afraid.”
+[21] Then they were glad to take him into the boat.
+And right away the boat reached the shore where they were going.
 
 > **What does this mean?**
 > Twenty-five or thirty stadia are about 3 to 3½ miles (5 to 6 kilometers). The disciples were in the middle of the lake.
@@ -107,166 +85,109 @@ where they were going.
 
 ## Jesus is the bread of life (Verses 22–59)
 
-[22] The next day
-the crowd was still standing on the other side of the sea.
-They had seen
-that there had been only one boat there.
-And Jesus hadn’t gotten into the boat with his disciples,
-but his disciples had gone away alone.
-[23] However, other boats came from Tiberias
-near the place
-where they had eaten the bread
-after the Lord had given thanks.
-[24] When the crowd saw
-that Jesus wasn’t there,
-nor his disciples,
-they themselves got into the boats,
-came to Capernaum,
-and looked for Jesus.
-[25] They found him on the other side of the sea
-and asked him,
-“Rabbi, when did you come here?”
+[22] The next day, the crowd was still on the other side of the lake.
+They saw that only one boat had been there.
+They knew that Jesus had not gotten into that boat with his disciples.
+His disciples had left alone.
+[23] But some boats from Tiberias came near the place where they had eaten the bread after the Lord gave thanks.
+[24] The crowd saw that Jesus was not there.
+His disciples were not there either.
+So the people got into the boats themselves.
+They went to Capernaum to look for Jesus.
+[25] They found him on the other side of the lake.
+They asked him, “Rabbi, when did you get here?”
 [26] Jesus answered them,
-“Most certainly I tell you,
-you are looking for me,
-not because you saw signs,
-but because you ate of the loaves
-and were filled.
-[27] Don’t work for the food
-which perishes,
-but for the food
-which remains to eternal life.
-The Son of Man will give it to you.
-For God the Father has put his seal on him.”
-[28] So they asked him,
-“What must we do,
-so that we may do the works of God?”
+“I tell you the truth:
+You are looking for me, but not because you saw signs.
+You are looking for me because you ate the bread and got full.
+[27] Don’t work for food that spoils.
+Work for the food that lasts for eternal life.
+The Son of Man will give you this food.
+God the Father has put his seal on him.”
+That means: God has shown that the Son comes from him.
+[28] Then they asked him,
+“What must we do to do the works of God?”
 [29] Jesus answered them,
 “This is the work of God:
-that you believe in him
-whom he has sent.”
+that you believe in the one he has sent.”
 [30] So they said to him,
-“What sign do you do then,
-so that we may see and believe you?
-What work do you do?
-[31] Our fathers ate the manna in the wilderness.
-As it is written,
-‘He gave them bread out of heaven to eat.’”
-[32] Then Jesus said to them,
-“Most certainly I tell you,
-it wasn’t Moses who gave you the bread out of heaven,
-but my Father gives you the true bread out of heaven.
-[33] For the bread of God is that
-which comes down out of heaven
-and gives life to the world.”
-[34] So they said to him,
-“Lord, always give us this bread.”
+“Then what sign will you do, so that we can see it and believe you?
+What will you do?
+[31] Our ancestors ate the manna in the wilderness.
+The Scriptures say, ‘He gave them bread from heaven to eat.’”
+[32] Jesus said to them,
+“I tell you the truth:
+It was not Moses who gave you the bread from heaven.
+My Father is giving you the true bread from heaven.
+[33] The bread of God is the one who comes down from heaven.
+He gives life to the world.”
+[34] Then they said to him,
+“Lord, give us this bread always.”
 [35] Jesus said to them,
 “I am the bread of life.
-Whoever comes to me
-will not be hungry.
-And whoever believes in me
-will never be thirsty.
-[36] But I told you
-that you have seen me,
-and yet you don’t believe.
-[37] All those whom the Father gives me
-will come to me.
-He who comes to me
-I will in no way throw out.
-[38] For I have come down from heaven,
-not to do my own will,
-but the will of him
-who sent me.
-[39] This is the will of my Father
-who sent me:
-that of all
-he has given to me
-I should lose nothing,
-but should raise him up at the last day.
-[40] This is the will of the one
-who sent me:
-that everyone who sees the Son
-and believes in him
-should have eternal life.
-And I will raise him up at the last day.”
-[41] Then the Jews grumbled about him,
-because he had said,
-“I am the bread
-which came down out of heaven.”
+Whoever comes to me will not be hungry.
+Whoever believes in me will never be thirsty.
+[36] But I told you: You have seen me, and still you don’t believe.
+[37] Everyone the Father gives me will come to me.
+And I will never send away anyone who comes to me.
+[38] I have come down from heaven.
+I did not come to do what I want.
+I came to do what the one who sent me wants.
+[39] This is what my Father, who sent me, wants:
+I should not lose anyone he has given me.
+I should raise them up on the last day.
+[40] This is what the one who sent me wants:
+Everyone who sees the Son and believes in him should have eternal life.
+And I will raise him up on the last day.”
+[41] Then the Jews grumbled about Jesus,
+because he said, “I am the bread that came down from heaven.”
 [42] They said,
 “Isn’t this Jesus, the son of Joseph?
-We know his father and mother!
-How then does he say,
-‘I have come down out of heaven’?”
+We know his father and mother.
+So how can he say, ‘I have come down from heaven’?”
 [43] Jesus answered them,
-“Don’t grumble among yourselves.
-[44] No one can come to me
-unless the Father who sent me draws him.
-And I will raise him up at the last day.
-[45] It is written in the prophets,
-‘They will all be taught by God.’
-Everyone who has heard from the Father and has learned
-comes to me.
-[46] Not that anyone has seen the Father.
-Only he who is from God,
-he has seen the Father.
-[47] Most certainly I tell you,
-he who believes in me
-has eternal life.
+“Stop grumbling among yourselves.
+[44] No one can come to me unless the Father who sent me draws him to me.
+And I will raise him up on the last day.
+[45] The prophets wrote, ‘They will all be taught by God.’
+Everyone who listens to the Father and learns from him comes to me.
+[46] That doesn’t mean that anyone has seen the Father.
+Only the one who is from God has seen the Father.
+[47] I tell you the truth:
+Whoever believes in me has eternal life.
 [48] I am the bread of life.
-[49] Your fathers ate the manna in the wilderness
-and they died.
-[50] This is the bread
-which comes down out of heaven,
-so that anyone may eat of it
-and not die.
-[51] I am the living bread
-which came down out of heaven.
-If anyone eats of this bread,
-he will live forever.
-And the bread which I will give
-for the life of the world
-is my flesh.”
-[52] Then the Jews argued with one another,
-saying,
-“How can this man give us his flesh to eat?”
-[53] So Jesus said to them,
-“Most certainly I tell you,
-unless you eat the flesh of the Son of Man
-and drink his blood,
-you don’t have life in yourselves.
-[54] He who eats my flesh
-and drinks my blood
-has eternal life.
-And I will raise him up at the last day.
-[55] For my flesh is food indeed,
-and my blood is drink indeed.
-[56] He who eats my flesh
-and drinks my blood
-lives in me,
-and I in him.
-[57] As the living Father sent me,
-and I live because of the Father,
-so he
-who feeds on me
-will also live because of me.
-[58] This is the bread
-which came down out of heaven.
-It is not like the manna
-that the fathers ate
-and died.
-He who eats this bread
-will live forever.”
-[59] Jesus said these things
-as he taught in the synagogue in Capernaum.
+[49] Your ancestors ate the manna in the wilderness, and they died.
+[50] But here is the bread that comes down from heaven.
+Anyone can eat it and not die.
+[51] I am the living bread that came down from heaven.
+Whoever eats this bread will live forever.
+The bread I will give is my flesh.
+I will give it for the life of the world.”
+[52] Then the Jews argued with each other.
+They said, “How can this man give us his flesh to eat?”
+[53] Jesus said to them,
+“I tell you the truth:
+You must eat the flesh of the Son of Man and drink his blood.
+If you don’t, you have no life in you.
+[54] Whoever eats my flesh and drinks my blood has eternal life.
+And I will raise him up on the last day.
+[55] My flesh is real food.
+My blood is real drink.
+[56] Whoever eats my flesh and drinks my blood lives in me, and I live in him.
+[57] The living Father sent me, and I live because of the Father.
+In the same way, whoever feeds on me will live because of me.
+[58] This is the bread that came down from heaven.
+It is not like the manna our ancestors ate.
+They died.
+But whoever eats this bread will live forever.”
+[59] Jesus said these things while he was teaching in the synagogue in Capernaum.
 
 > **What does this mean?**
 > Verses 26–27: The people are looking for Jesus because they got full. Jesus wants to give them more: food for the soul.
 > Verse 29: The most important “work” is to trust God.
 > Verse 31 quotes Psalm 78:24. The manna was a gift from God in the wilderness.
 > Verse 35: “I am the bread of life” is the first of the seven great “I am” sayings in John. As bread feeds the body, so Jesus feeds the whole of life.
-> Verse 37: “He who comes to me I will in no way throw out.” A great comfort: No one is turned away.
+> Verse 37: “I will never send away anyone who comes to me.” A great comfort: No one is turned away.
 > Verses 41 and 52: “The Jews” here means listeners in the synagogue of Capernaum who are discussing with Jesus. Their questions are understandable. The word “grumble” is a reminder of Israel in the wilderness (Exodus 16:2). Important: This is not a judgment on the Jewish people. Jesus and all the disciples were Jews too.
 > Verse 45 quotes Isaiah 54:13.
 > Verse 47: The words “in me” are missing in the oldest manuscripts. There it simply says that whoever believes has eternal life.
@@ -277,46 +198,33 @@ as he taught in the synagogue in Capernaum.
 
 ## Many go away, Peter stays (Verses 60–71)
 
-[60] Many of his disciples who heard this
-said,
-“This is a hard saying!
-Who can listen to it?”
-[61] Jesus knew in himself
-that his disciples were grumbling about this.
+[60] Many of his disciples heard this.
+They said, “This teaching is hard! Who can listen to it?”
+[61] Jesus knew that his disciples were grumbling about this.
 He said to them,
-“Does this cause you to stumble?
-[62] Then what if you would see the Son of Man
-going up to where he was before?
-[63] It is the spirit
-who gives life.
-The flesh profits nothing.
-The words that I speak to you
-are spirit, and are life.
-[64] But there are some of you
-who don’t believe.”
-For Jesus knew from the beginning
-who they were who didn’t believe,
-and who would betray him.
+“Does this make you stumble?
+[62] Then what if you saw the Son of Man going up to where he was before?
+[63] The Spirit is the one who gives life.
+The flesh is of no use.
+The words I have spoken to you are spirit, and they are life.
+[64] But some of you don’t believe.”
+From the beginning, Jesus knew which of them didn’t believe.
+He also knew who would betray him.
 [65] He said,
-“For this reason I have said to you
-that no one can come to me,
-unless it is given to him by my Father.”
-[66] At this, many of his disciples went back
-and walked with him no more.
+“That is why I told you that no one can come to me unless my Father gives it to him.”
+[66] After this, many of his disciples turned back.
+They didn’t go along with him anymore.
 [67] So Jesus said to the twelve,
-“You don’t also want to go away, do you?”
+“You don’t want to go away too, do you?”
 [68] Simon Peter answered him,
 “Lord, to whom would we go?
 You have the words of eternal life.
-[69] We have come to believe and know
-that you are the Christ,
-the Son of the living God.”
+[69] We have come to believe and to know that you are the Christ, the Son of the living God.”
 [70] Jesus answered them,
 “Didn’t I choose you, the twelve?
-And one of you is a devil.”
+And yet one of you is a devil.”
 [71] He meant Judas, the son of Simon Iscariot.
-For he would betray him,
-even though he was one of the twelve.
+Judas was one of the twelve, and he would betray Jesus.
 
 > **What does this mean?**
 > Verse 60: Many disciples, too, find Jesus’ words too hard. Believing is not always easy.

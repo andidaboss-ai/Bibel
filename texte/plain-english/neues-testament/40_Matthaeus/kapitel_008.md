@@ -5,20 +5,19 @@
 
 ## A man with leprosy is healed (Verses 1–4)
 
-[1] When Jesus came down from the mountain,
-large crowds followed him.
-[2] A man with leprosy came to him,
-knelt down in front of him and said,
-“Lord, if you want to, you can make me clean.”
-[3] Jesus stretched out his hand,
-touched him and said,
-“I want to. Be made clean!”
-At once his leprosy was healed.
+[1] Jesus came down from the mountain.
+Large crowds followed him.
+[2] A man with leprosy came to him.
+He knelt down in front of Jesus to honor him.
+He said, “Lord, if you want to, you can make me clean.”
+[3] Jesus reached out his hand and touched him.
+He said, “I want to. Be clean!”
+At once the man was healed of his leprosy.
 [4] Jesus said to him,
-“See that you tell nobody.
-But go, show yourself to the priest,
-and offer the gift that Moses commanded,
-as a testimony to them.”
+“Make sure you do not tell anyone.
+But go and show yourself to the priest.
+Bring the gift that Moses commanded.
+That will show them that you are healed.”
 
 > **What does this mean?**
 > At that time “leprosy” was a name for various serious skin diseases. Whoever had leprosy was considered unclean and had to live outside the villages, separated from family and friends (Leviticus 13:45–46). No one was allowed to touch him.
@@ -30,33 +29,33 @@ as a testimony to them.”
 
 ## The faith of a Roman officer (Verses 5–13)
 
-[5] When Jesus came into Capernaum,
-a centurion came to him and asked him for help.
+[5] Jesus came into Capernaum.
+There a centurion came to him and asked him for help.
 [6] He said,
-“Lord, my servant is lying at home paralyzed
-and is suffering terribly.”
+“Lord, my servant is lying at home.
+He cannot move, and he is suffering terribly.”
 [7] Jesus said to him,
 “I will come and heal him.”
 [8] The centurion answered,
 “Lord, I’m not worthy for you to come under my roof.
 Just say the word, and my servant will be healed.
-[9] For I am also a man under authority,
-and I have soldiers under me.
+[9] I also have people over me who give me orders.
+And I have soldiers under me.
 I tell this one, ‘Go,’ and he goes.
-I tell another, ‘Come,’ and he comes.
-And I tell my servant, ‘Do this,’ and he does it.”
-[10] When Jesus heard this, he was amazed
-and said to those who followed him,
-“Most certainly I tell you,
-I haven’t found such great faith in anyone in Israel.
-[11] I tell you
-that many will come from the east and the west
-and will sit at the table with Abraham, Isaac, and Jacob in the Kingdom of Heaven.
-[12] But the children of the Kingdom will be thrown out into the outer darkness.
-There will be weeping and grinding of teeth.”
-[13] And Jesus said to the centurion,
-“Go! Let it be done for you as you have believed.”
-And his servant was healed in that same hour.
+I tell another one, ‘Come,’ and he comes.
+I tell my servant, ‘Do this,’ and he does it.”
+[10] Jesus heard this and was amazed.
+He said to the people who were following him,
+“I tell you the truth:
+I have not found such great faith in anyone, not even in Israel.
+[11] I tell you:
+Many people will come from the east and from the west.
+They will sit at the table with Abraham, Isaac and Jacob in the Kingdom of Heaven.
+[12] But the children of the Kingdom will be thrown out into the darkness outside.
+There will be weeping and grinding of teeth there.”
+[13] Then Jesus said to the centurion,
+“Go! What you believed will happen for you.”
+And his servant was healed in that very hour.
 
 > **What does this mean?**
 > A centurion was a Roman officer who commanded about a hundred soldiers. He was not a Jew, and he belonged to the occupying power. Even so, he comes to Jesus, and not for himself, but for his sick servant.
@@ -69,18 +68,18 @@ And his servant was healed in that same hour.
 
 ## Peter’s mother-in-law and many others (Verses 14–17)
 
-[14] When Jesus came into Peter’s house,
-he saw Peter’s mother-in-law lying in bed with a fever.
+[14] Jesus came into Peter’s house.
+There he saw Peter’s mother-in-law.
+She was lying in bed with a fever.
 [15] He touched her hand,
 and the fever left her.
 Then she got up and served him.
-[16] When evening came,
-they brought to him many people possessed by demons.
-He cast out the spirits with a word
-and healed all who were sick.
-[17] This happened so that what the prophet Isaiah had said would come true:
-“He took our weaknesses on himself
-and carried our diseases.”
+[16] In the evening, people brought to him many who were possessed by demons.
+With a word he drove out the spirits.
+And he healed all who were sick.
+[17] This happened so that the words of the prophet Isaiah would come true:
+“He took our weaknesses on himself.
+He carried our diseases.”
 
 > **What does this mean?**
 > Verse 14: Peter was married (compare 1 Corinthians 9:5).
@@ -92,19 +91,19 @@ and carried our diseases.”
 
 ## What it means to follow Jesus (Verses 18–22)
 
-[18] When Jesus saw the many people around him,
-he gave the order to go over to the other side of the lake.
-[19] Then a scribe came and said to him,
-“Teacher, I will follow you wherever you go.”
+[18] Jesus saw the many people around him.
+So he gave the order to go across to the other side of the lake.
+[19] Then a scribe came to him.
+He said, “Teacher, I will follow you wherever you go.”
 [20] Jesus said to him,
-“The foxes have holes,
-and the birds of the sky have nests,
-but the Son of Man has nowhere to lay his head.”
-[21] Another of his disciples said to him,
-“Lord, allow me first to go and bury my father.”
+“Foxes have holes.
+Birds have nests.
+But the Son of Man has no place to lay his head.”
+[21] Another one of his disciples said to him,
+“Lord, let me first go and bury my father.”
 [22] But Jesus said to him,
-“Follow me,
-and leave the dead to bury their own dead.”
+“Follow me!
+Let the dead bury their own dead.”
 
 > **What does this mean?**
 > Verse 19: Interesting: A scribe wants to follow Jesus. Not all scribes were against Jesus.
@@ -115,21 +114,22 @@ and leave the dead to bury their own dead.”
 
 ## Jesus calms the storm (Verses 23–27)
 
-[23] When he got into the boat,
-his disciples followed him.
-[24] Suddenly a violent storm came up on the lake,
-so that the boat was covered by the waves.
-But he was asleep.
-[25] The disciples came to him, woke him up and said,
-“Save us, Lord! We are dying!”
+[23] Jesus got into a boat.
+His disciples followed him.
+[24] Suddenly a violent storm came up on the lake.
+The waves covered the boat.
+But Jesus was asleep.
+[25] The disciples came and woke him up.
+They said, “Save us, Lord! We are dying!”
 [26] He said to them,
-“Why are you afraid, you of little faith?”
-Then he got up
-and rebuked the wind and the lake,
-and it became completely calm.
-[27] The men were amazed and said,
-“What kind of man is this,
-that even the wind and the lake obey him?”
+“Why are you so afraid? Your faith is so small!”
+Then he got up.
+He gave orders to the wind and the lake.
+And it became completely calm.
+[27] The men were amazed.
+They said,
+“What kind of man is this?
+Even the wind and the lake obey him!”
 
 > **What does this mean?**
 > To this day there are sudden, violent storms on the Sea of Galilee, because cold winds come down from the mountains.
@@ -142,29 +142,30 @@ that even the wind and the lake obey him?”
 
 ## Two men possessed by demons in the country of the Gergesenes (Verses 28–34)
 
-[28] When he came to the other side, into the country of the Gergesenes,
-two men possessed by demons came to meet him.
-They came out of the tombs
-and were very dangerous,
-so that nobody could pass by that way.
-[29] They cried out,
-“What do we have to do with you, Jesus, Son of God?
-Have you come here to torment us before the time?”
+[28] Jesus came to the other side of the lake, into the country of the Gergesenes.
+There two men came out of the tombs to meet him.
+They were possessed by demons.
+They were so wild and dangerous
+that no one could go along that road.
+[29] They shouted,
+“What do you want with us, Jesus, Son of God?
+Have you come here to torture us before the time?”
 [30] Far away from them a large herd of pigs was feeding.
-[31] The demons begged him,
-“If you cast us out,
+[31] The demons begged Jesus,
+“If you drive us out,
 let us go into the herd of pigs.”
 [32] He said to them,
 “Go!”
 They came out and went into the pigs.
-And the whole herd rushed down the steep bank into the lake
-and died in the water.
-[33] The men who looked after the pigs ran away,
-went into the town,
-and told everything, including what had happened to the men possessed by demons.
+And the whole herd rushed down the steep bank into the lake.
+They died in the water.
+[33] The men who took care of the pigs ran away.
+They went into the town.
+They told everything,
+also what had happened to the men possessed by demons.
 [34] Then the whole town came out to meet Jesus.
 When they saw him,
-they begged him to leave their region.
+they begged him to leave their area.
 
 > **What does this mean?**
 > Verse 28: The region lay on the east side of the lake, where mostly non-Jews lived. That is why there were herds of pigs there, which were unclean for Jews. The name of the place is written differently in the old manuscripts: “Gergesenes” (as in the WEB), “Gadarenes” or “Gerasenes” (compare Mark 5:1; Luke 8:26).

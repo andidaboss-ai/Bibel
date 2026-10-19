@@ -5,18 +5,13 @@
 
 ## Phoebe (Verses 1–2)
 
-[1] I commend to you Phoebe,
-our sister.
-She is a servant of the assembly
-that is at Cenchreae.
-[2] Receive her in the Lord
-in a way worthy of the saints.
-Help her in whatever matter
-she may need from you.
-For she herself has been a helper of many,
+[1] I want to recommend our sister Phoebe to you.
+She is a servant of the church in Cenchreae.
+[2] Welcome her as someone who belongs to the Lord.
+Welcome her in the way God’s holy people should.
+Help her with anything she may need from you.
+She herself has been a helper of many people,
 and of me too.
-
-*commend* = recommend, speak well of someone
 
 > **What does this mean?**
 > Cenchreae was the port of the city of Corinth. Paul probably wrote this letter from there.
@@ -28,58 +23,51 @@ and of me too.
 
 ## Greetings to the church in Rome (Verses 3–16)
 
-[3] Greet Prisca and Aquila,
-my fellow workers in Christ Jesus.
-[4] They risked their own necks for my life.
-Not only I give thanks to them,
-but also all the assemblies of the Gentiles.
-[5] Greet also the assembly
-that meets in their house.
-Greet Epaenetus,
-my beloved friend.
-He is the first fruits of Achaia to Christ.
-[6] Greet Mary,
-who worked hard for us.
-[7] Greet Andronicus and Junia,
-my relatives
-and my fellow prisoners.
+[3] Greet Prisca and Aquila.
+They work together with me for Christ Jesus.
+[4] They risked their own lives to save my life.
+I thank them.
+And all the churches of the Gentiles thank them too.
+[5] Also greet the church that meets in their house.
+Greet my dear friend Epaenetus.
+He was the first person in Achaia to come to Christ.
+[6] Greet Mary.
+She worked very hard for us.
+[7] Greet Andronicus and Junia.
+They are my relatives.
+They were in prison with me.
 They are notable among the apostles.
-They were also in Christ before me.
-[8] Greet Amplias,
-my beloved in the Lord.
-[9] Greet Urbanus,
-our fellow worker in Christ,
-and Stachys,
-my beloved.
-[10] Greet Apelles,
-who is approved in Christ.
-Greet those of the household of Aristobulus.
-[11] Greet Herodion,
-my relative.
-Greet those of the household of Narcissus
-who are in the Lord.
-[12] Greet Tryphaena and Tryphosa,
-who work hard in the Lord.
-Greet Persis, the beloved,
-who worked very hard in the Lord.
-[13] Greet Rufus,
-the chosen in the Lord,
-and his mother,
-who has been a mother to me too.
+And they belonged to Christ before I did.
+[8] Greet Amplias.
+I love him dearly in the Lord.
+[9] Greet Urbanus.
+He works together with us for Christ.
+And greet my dear friend Stachys.
+[10] Greet Apelles.
+He has been tested and has proved true in Christ.
+Greet the people of Aristobulus’s household.
+[11] Greet my relative Herodion.
+Greet the people of Narcissus’s household who belong to the Lord.
+[12] Greet Tryphaena and Tryphosa.
+They work for the Lord.
+Greet dear Persis.
+She has worked very hard for the Lord.
+[13] Greet Rufus.
+The Lord chose him.
+Greet his mother too.
+She has also been a mother to me.
 [14] Greet Asyncritus,
 Phlegon,
 Hermes,
 Patrobas,
 Hermas,
-and the brothers
-who are with them.
+and the brothers who are with them.
 [15] Greet Philologus and Julia,
 Nereus and his sister,
 and Olympas,
-and all the saints
-who are with them.
+and all of God’s holy people who are with them.
 [16] Greet one another with a holy kiss.
-The assemblies of Christ greet you.
+All the churches of Christ send you greetings.
 
 > **What does this mean?**
 > Verse 3: We know Prisca (also called Priscilla) and her husband Aquila from Acts (chapter 18). Prisca is often named first. She was probably especially important in the church.
@@ -94,27 +82,21 @@ The assemblies of Christ greet you.
 
 ## A last warning (Verses 17–20)
 
-[17] Now I beg you, brothers:
-Look out for those
-who cause divisions
-and make others stumble,
-against the teaching
-which you learned.
-Turn away from them.
-[18] For such people don’t serve our Lord Jesus Christ,
-but their own belly.
-With smooth and flattering speech
-they deceive the hearts of the innocent.
-[19] For your obedience has become known to all.
-So I rejoice over you.
-But I want you
-to be wise
-in what is good,
-and innocent
-in what is evil.
-[20] And the God of peace
-will quickly crush Satan under your feet.
-The grace of our Lord Jesus Christ be with you.
+[17] Brothers, I urge you:
+Watch out for people who cause divisions.
+They make others stumble.
+They go against the teaching you learned.
+Stay away from them.
+[18] Such people do not serve our Lord Jesus Christ.
+They serve their own stomachs.
+They use smooth words and flattery.
+That is how they fool people who do not suspect anything.
+[19] Everyone has heard that you obey God.
+So I am happy about you.
+But I want you to be wise about what is good,
+and innocent about what is evil.
+[20] The God of peace will soon crush Satan under your feet.
+May the grace of our Lord Jesus Christ be with you.
 
 > **What does this mean?**
 > Verses 17–18: Paul warns against people who sow conflict and only look for their own advantage. Whoever uses beautiful words to exploit others is not serving Christ.
@@ -125,27 +107,20 @@ The grace of our Lord Jesus Christ be with you.
 
 ## Greetings from his co-workers (Verses 21–24)
 
-[21] Timothy,
-my fellow worker,
-greets you,
-and so do Lucius,
-Jason
-and Sosipater,
-my relatives.
-[22] I, Tertius,
-who write the letter,
-greet you in the Lord.
-[23] Gaius greets you.
-He is my host
-and the host of the whole assembly.
-Erastus,
-the treasurer of the city,
-greets you,
-and so does Quartus, the brother.
-[24] The grace of our Lord Jesus Christ be with you all!
+[21] Timothy works together with me.
+He sends you greetings.
+So do my relatives Lucius, Jason and Sosipater.
+[22] I am Tertius.
+I am writing down this letter.
+I greet you in the Lord.
+[23] Gaius sends you greetings.
+He is my host.
+He is also the host of the whole church.
+Erastus, the city treasurer, sends you greetings.
+A treasurer is the official who takes care of a city’s money.
+Our brother Quartus sends greetings too.
+[24] May the grace of our Lord Jesus Christ be with you all!
 Amen.
-
-*treasurer* = the official who takes care of a city’s money
 
 > **What does this mean?**
 > Verse 22: Paul didn’t write the letter himself, but dictated it. Tertius was the writer. Here he sends his own greeting.

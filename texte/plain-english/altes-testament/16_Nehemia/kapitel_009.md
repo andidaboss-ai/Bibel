@@ -86,7 +86,7 @@ You had promised with an oath to give it to them.
 > **What does this mean?**
 > Here the story from Exodus is summed up: the misery in Egypt, the wonders, the crossing through the sea, the pillar of cloud and fire, the law at Sinai, the manna and the water from the rock.
 > God sees, hears, saves, leads, teaches and provides.
-> “Bread from the sky”: later Jesus calls himself “the bread of life” (John 6:35) and “the living bread which came down out of heaven” (John 6:51).
+> “Bread from the sky”: later Jesus calls himself “the bread of life” (John 6:35) and “the living bread that came down from heaven” (John 6:51).
 
 ---
 

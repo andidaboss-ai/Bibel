@@ -5,49 +5,34 @@
 
 ## The Holy Spirit comes (Verses 1–13)
 
-[1] When the day of Pentecost had come,
-they were all together in one place, of one mind.
-[2] Suddenly there came from the sky a sound
-like the rushing of a mighty wind.
-It filled the whole house
-where they were sitting.
-[3] Tongues like fire appeared.
-They were divided among them,
-and one sat on each of them.
+[1] The day of Pentecost came.
+They were all together in one place, and they were all of one mind.
+[2] Suddenly a sound came from the sky.
+It sounded like a strong wind rushing by.
+It filled the whole house where they were sitting.
+[3] Then they saw tongues like fire.
+The tongues spread out, and one came to rest on each of them.
 [4] They were all filled with the Holy Spirit.
-They began
-to speak in other languages,
-as the Spirit gave them the ability to speak.
-[5] At that time Jews were living in Jerusalem,
-devout men
-from every nation under the sky.
-[6] When this sound was heard,
-the crowd came together.
-The people were bewildered,
-because everyone heard them speaking in his own language.
-[7] They were all amazed and marveled.
-They said to one another,
-“Aren’t all these
-who are speaking
-Galileans?
-[8] How is it
-that each of us hears them in our own native language?
-[9] We are Parthians, Medes, Elamites,
-and people from Mesopotamia, Judea, Cappadocia,
-Pontus, Asia,
-[10] Phrygia, Pamphylia, Egypt,
-the parts of Libya around Cyrene,
-visitors from Rome,
-both Jews and proselytes,
-[11] Cretans and Arabians.
-We hear them speaking in our languages
-about the mighty works of God!”
-[12] They were all amazed
-and puzzled.
-They said to one another,
-“What does this mean?”
-[13] But others mocked and said,
-“They are filled with new wine.”
+They began to speak in other languages.
+The Spirit gave them the ability to speak.
+[5] At that time devout Jews were living in Jerusalem.
+They came from every nation under the sky.
+[6] When people heard this sound, a crowd came together.
+They were confused.
+Each one heard them speaking in his own language.
+[7] They were all amazed and full of wonder.
+They said to one another, “Look, aren’t all these people who are speaking from Galilee?
+[8] So how can each of us hear them in our own native language?
+[9] We are Parthians, Medes, and Elamites.
+We are people from Mesopotamia, Judea, Cappadocia, Pontus, and Asia,
+[10] from Phrygia, Pamphylia, and Egypt, and from the parts of Libya around Cyrene.
+We are visitors from Rome, both Jews and proselytes,
+[11] and we are Cretans and Arabians.
+And we hear them speaking in our own languages about the mighty works of God!”
+[12] They were all amazed and did not know what to think.
+They said to one another, “What does this mean?”
+[13] But others made fun of them.
+They said, “They are full of new wine.”
 
 *devout* = deeply faithful to God
 *proselytes* = people who had become Jews
@@ -64,95 +49,68 @@ They said to one another,
 
 ## Peter’s sermon at Pentecost (Verses 14–36)
 
-[14] But Peter stood up with the eleven.
-He raised his voice and spoke out to them,
-“You men of Judea,
-and all you who live in Jerusalem,
-let this be known to you,
-and listen to my words.
-[15] These people aren’t drunk,
-as you think.
+[14] Then Peter stood up with the eleven.
+He spoke to the crowd in a loud voice:
+“You men of Judea, and all of you who live in Jerusalem!
+I want you to know this.
+Listen to my words.
+[15] These people aren’t drunk, as you think.
 It is only the third hour of the day.
-[16] But this is what has been spoken
-through the prophet Joel:
-[17] ‘It will be in the last days,
-says God,
-that I will pour out my Spirit
-on all flesh.
+[16] No, this is what God spoke through the prophet Joel:
+[17] ‘God says: In the last days I will pour out my Spirit on all flesh.
 Your sons and your daughters will prophesy.
 Your young men will see visions.
 Your old men will dream dreams.
-[18] Yes, and on my servants
-and on my handmaidens
-in those days, I will pour out my Spirit,
-and they will prophesy.
-[19] I will show wonders
-in the sky above,
-and signs on the earth beneath:
-blood, and fire, and billows of smoke.
-[20] The sun will be turned into darkness,
-and the moon into blood,
-before the great and glorious day of the Lord comes.
-[21] It will be
-that whoever will call on the name of the Lord
-will be saved.’
-[22] Men of Israel,
-hear these words!
-Jesus of Nazareth was a man
-approved by God to you.
-God showed this by mighty works, wonders, and signs
-which God did through him among you,
-as you yourselves know.
-[23] He was handed over
-by the set plan
-and foreknowledge of God.
-You crucified and killed him
-by the hand of lawless men.
+[18] In those days I will pour out my Spirit even on my servants, men and women.
+And they will prophesy.
+[19] I will show wonders in the sky above.
+I will show signs on the earth below:
+blood, fire, and clouds of smoke.
+[20] The sun will become dark.
+The moon will become like blood.
+That will happen before the great and glorious day of the Lord comes.
+[21] Then everyone who calls on the name of the Lord will be saved.’
+[22] Men of Israel, listen to these words!
+Jesus of Nazareth was a man whom God approved of in front of you.
+God did mighty works, wonders, and signs through him among you.
+You know this yourselves.
+[23] God had planned it and knew it ahead of time:
+This Jesus was handed over.
+And you used lawless men to crucify him and kill him.
 [24] But God raised him up.
-He freed him from the agony of death,
-because it was not possible
-that death should hold him.
-[25] For David says about him,
-‘I saw the Lord always before my face,
-for he is on my right hand,
-so that I should not be moved.
-[26] Therefore my heart was glad,
-and my tongue rejoiced.
-Moreover my flesh also will live in hope,
-[27] because you will not leave my soul in Hades,
-and you will not allow your Holy One to see decay.
-[28] You made known to me the ways of life.
-You will make me full of gladness
-with your presence.’
-[29] Brothers,
-I may tell you freely about the patriarch David:
-He both died and was buried,
-and his tomb is with us to this day.
-[30] But he was a prophet.
-He knew
-that God had sworn with an oath to him
-that he would raise up one of his descendants,
-the Christ,
-to sit on his throne.
+God set him free from the pain of death.
+It was not possible for death to hold him.
+[25] David says about him:
+‘I always saw the Lord before me.
+He is at my right hand, so that nothing can shake me.
+[26] That is why my heart was glad, and my tongue was full of joy.
+My body also will live in hope.
+[27] For you will not leave my soul in Hades.
+You will not let your Holy One see decay.
+[28] You showed me the ways of life.
+You will fill me with joy in your presence.’
+[29] Brothers, I can tell you plainly about our forefather David:
+He died and was buried.
+His tomb is still here with us today.
+[30] But David was a prophet.
+He knew that God had promised him with an oath:
+God would raise up one of his own descendants, the Christ.
+The Christ would sit on David’s throne.
 [31] David saw this ahead of time.
-So he spoke about the resurrection of the Christ:
-His soul wasn’t left in Hades,
-and his flesh didn’t see decay.
-[32] This Jesus God raised up.
+So he spoke about the resurrection of the Christ.
+He said that the Christ was not left in Hades, and that his body did not see decay.
+[32] God raised up this Jesus.
 We are all witnesses of this.
-[33] He has been lifted up to the right hand of God.
-He has received from the Father the promised Holy Spirit.
-He has poured this out,
-as you now see and hear.
-[34] For David didn’t go up into the heavens,
-but he says himself,
-‘The Lord said to my Lord,
-“Sit by my right hand
-[35] until I make your enemies
-a footstool for your feet.”’
-[36] So let all the house of Israel know for certain
-that God has made him both Lord and Christ,
-this Jesus whom you crucified.”
+[33] God has lifted him up to his right hand.
+Jesus has received from the Father the Holy Spirit, as God promised.
+And he has poured out what you now see and hear.
+[34] David himself did not go up into the heavens.
+But he says:
+‘The Lord said to my Lord, “Sit at my right hand
+[35] until I make your enemies a footstool for your feet.”’
+[36] So the whole house of Israel should know this for certain:
+God has made this Jesus both Lord and Christ.
+He is the Jesus whom you crucified.”
 
 *prophesy* = speak a message from God
 *patriarch* = a forefather of the people
@@ -170,34 +128,25 @@ this Jesus whom you crucified.”
 
 ## The first people are baptized (Verses 37–41)
 
-[37] When they heard this,
-they were cut to the heart.
-They said to Peter and the rest of the apostles,
-“Brothers, what shall we do?”
-[38] Peter said to them,
-“Repent and be baptized,
-every one of you,
-in the name of Jesus Christ
-for the forgiveness of sins.
-And you will receive the gift of the Holy Spirit.
-[39] For the promise is to you
-and to your children,
-and to all who are far off,
-as many as the Lord our God will call to himself.”
-[40] With many other words
-he testified
-and urged them,
-“Save yourselves from this crooked generation!”
-[41] Then those who gladly received his word
-were baptized.
-About three thousand people were added that day.
+[37] When the people heard this, it cut them to the heart.
+They said to Peter and the other apostles, “Brothers, what should we do?”
+[38] Peter said to them, “Repent!
+Every one of you should be baptized in the name of Jesus Christ, so that your sins are forgiven.
+And you will receive the Holy Spirit as a gift.
+[39] For the promise is for you and for your children.
+It is also for all who are far off.
+It is for everyone the Lord our God will call to himself.”
+[40] Peter said many more words to them.
+He gave witness and urged them, “Save yourselves from this crooked generation!”
+[41] Those who gladly accepted his message were baptized.
+About three thousand people were added to them that day.
 
 *repent* = turn your life around toward God
 
 > **What does this mean?**
 > Verse 37: The listeners are deeply moved. They ask: What shall we do?
 > Verse 38: “Repent” means: to turn your life toward God in a new way. Baptism is the sign of this. God forgives and gives his Spirit.
-> Verse 39: “To all who are far off”: The good news is for all people and all times.
+> Verse 39: “For all who are far off”: The good news is for all people and all times.
 > Verse 41: Three thousand people, all of them Jews and people who had become Jews. The first church was a Jewish community.
 > The churches baptize in different ways: Some baptize small children, others only people who believe themselves and decide for it. All of them appeal to the Bible.
 
@@ -205,27 +154,19 @@ About three thousand people were added that day.
 
 ## How the first church lived (Verses 42–47)
 
-[42] They continued steadfastly
-in the apostles’ teaching
-and fellowship,
-in the breaking of bread,
-and in prayer.
+[42] They kept on faithfully with the apostles’ teaching and with the fellowship.
+They kept on with the breaking of bread and with prayer.
 [43] Fear came on everyone.
-And many wonders and signs were done through the apostles.
-[44] All who believed
-were together
-and had all things in common.
-[45] They sold their possessions and goods
-and shared the money with all,
-as anyone had need.
-[46] Day by day, they met in the temple, of one mind.
-They broke bread at home.
-They ate their food together
-with gladness and a simple heart.
-[47] They praised God
-and had favor with all the people.
-And day by day the Lord added to the assembly
-those who were being saved.
+The apostles did many wonders and signs.
+[44] All the believers were together.
+They shared everything they had.
+[45] They sold their land and their belongings.
+They gave the money to everyone who had need.
+[46] Every day they kept meeting in the temple, all of one mind.
+They broke bread in their homes.
+They ate their meals with joy and with sincere hearts.
+[47] They praised God, and they had favor with all the people.
+Every day the Lord added to the assembly those who were being saved.
 
 *fellowship* = community, sharing life together
 

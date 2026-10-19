@@ -17,36 +17,38 @@ God’s promise to David (Chapter 7) is one of the most important chapters in th
 
 ## A messenger brings the news (Verses 1–10)
 
-[1] After the death of Saul, when David had returned from defeating the Amalekites,
-and David had stayed two days in Ziklag,
-[2] on the third day a man came out of the camp from Saul.
-His clothes were torn, and he had earth on his head.
-When he came to David, he fell to the earth and showed respect.
-[3] David said to him, “Where do you come from?”
-He said to him, “I have escaped from the camp of Israel.”
-[4] David said to him, “How did it go? Please tell me.”
-He answered,
-“The people have fled from the battle.
-And many of the people have also fallen and are dead.
+[1] Saul was dead.
+David had come back from killing many Amalekites.
+He had been in Ziklag for two days.
+[2] On the third day a man came from Saul’s camp.
+His clothes were torn, and he had dirt on his head.
+These were signs of deep sadness.
+He came to David and bowed down to the ground to show respect.
+[3] David asked him, “Where do you come from?”
+He answered, “I have escaped from the camp of Israel.”
+[4] David said, “What happened? Please tell me.”
+The man answered,
+“Our soldiers ran away from the battle.
+Many of them were killed.
 Saul and his son Jonathan are dead too.”
-[5] David said to the young man who told him,
+[5] David asked the young man,
 “How do you know that Saul and his son Jonathan are dead?”
-[6] The young man who told him said,
-“I happened to come to Mount Gilboa by chance.
-And look, Saul was leaning on his spear.
-And look, the chariots and the horsemen were close behind him.
-[7] When he looked behind him, he saw me and called to me.
-I answered, ‘Here I am.’
-[8] He said to me, ‘Who are you?’
-I answered him, ‘I am an Amalekite.’
-[9] He said to me,
-‘Please stand beside me and kill me.
-For terrible pain has taken hold of me, because life is still in me.’
-[10] So I stood beside him and killed him.
-For I was sure that he could not live after he had fallen.
-I took the crown that was on his head
-and the bracelet that was on his arm,
-and I have brought them here to my lord.”
+[6] The young man answered,
+“I just happened to be on Mount Gilboa.
+There I saw Saul leaning on his spear.
+The chariots and the horsemen were right behind him.
+[7] Saul turned around and saw me.
+He called to me, and I answered, ‘Here I am.’
+[8] He asked me, ‘Who are you?’
+I answered, ‘I am an Amalekite.’
+[9] Then he said to me,
+‘Please come here and kill me.
+I am in terrible pain, but I am still alive.’
+[10] So I went to him and killed him.
+I was sure that he could not live after he had fallen.
+I took the crown from his head
+and the bracelet from his arm.
+I have brought them here to you, my lord.”
 
 > **What does this mean?**
 > The man tells a different story than 1 Samuel 31. There it says that Saul fell on his own sword. Here the Amalekite says that he killed Saul.
@@ -58,25 +60,26 @@ and I have brought them here to my lord.”
 ## David mourns and punishes the Amalekite (Verses 11–16)
 
 [11] Then David took hold of his clothes and tore them.
-And all the men who were with him did the same.
-[12] They mourned, wept, and fasted until evening
-for Saul and for his son Jonathan,
-for the people of the LORD and for the house of Israel,
-because they had fallen by the sword.
-[13] David said to the young man who had told him,
+All the men with him did the same.
+[12] They mourned and wept.
+They did not eat anything until evening.
+They mourned for Saul and for his son Jonathan.
+They mourned for the people of the LORD and for the nation of Israel,
+because so many had been killed in battle.
+[13] David asked the young man who had brought the news,
 “Where are you from?”
 He answered,
 “I am the son of a foreigner, an Amalekite.”
 [14] David said to him,
-“Why were you not afraid to stretch out your hand
-to destroy the LORD’s anointed?”
-[15] David called one of the young men and said,
-“Come here and cut him down!”
-He struck him, and he died.
-[16] David said to him,
-“Your blood be on your head.
-For your own mouth has testified against you,
-when you said, ‘I have killed the LORD’s anointed.’”
+“Why were you not afraid to raise your hand
+and kill the LORD’s anointed king?”
+[15] David called one of his young men and said,
+“Come here and kill him!”
+The young man struck him, and he died.
+[16] David said to the Amalekite,
+“You are to blame for your own death.
+Your own words have spoken against you.
+You said, ‘I have killed the LORD’s anointed.’”
 
 > **What does this mean?**
 > David is not glad about Saul’s death. He mourns, together with all his men. Saul was the man who hunted him, but he was also the king of Israel. And Jonathan was his best friend.
@@ -88,35 +91,36 @@ when you said, ‘I have killed the LORD’s anointed.’”
 
 ## The Song of the Bow: David’s lament for Saul and Jonathan (Verses 17–27)
 
-[17] David sang this song of mourning over Saul and over his son Jonathan.
-[18] And he commanded that the people of Judah should be taught the song of the bow.
+[17] Then David sang this sad song about Saul and his son Jonathan.
+[18] He ordered that the people of Judah should learn it.
+It is called “the Song of the Bow.”
 It is written in the book of Jashar:
-[19] “Your glory, Israel, was killed on your high places!
+[19] “Israel, your glory lies dead on your hills!
 How the mighty have fallen!
 [20] Don’t tell it in Gath.
-Don’t announce it in the streets of Ashkelon.
-Or the daughters of the Philistines will rejoice,
-or the daughters of the uncircumcised will celebrate.
+Don’t spread the news in the streets of Ashkelon.
+Otherwise the daughters of the Philistines will be glad.
+The daughters of the uncircumcised will cheer.
 [21] You mountains of Gilboa,
-let there be no dew or rain on you,
-and no fields of offerings.
-For there the shield of the mighty was made dirty and thrown away,
-the shield of Saul, not anointed with oil.
-[22] From the blood of the killed, from the fat of the mighty,
-Jonathan’s bow did not turn back.
-Saul’s sword did not return empty.
+may no dew or rain fall on you.
+May no fields grow there for offerings.
+For there the shield of the mighty was made dirty and thrown away.
+The shield of Saul was no longer rubbed with oil.
+[22] Jonathan’s bow never turned back
+from the blood of the dead and the fat of the mighty.
+Saul’s sword never came back empty.
 [23] Saul and Jonathan
-were lovely and pleasant in their lives.
+were loved and pleasant in their lives.
 In their death they were not divided.
-They were swifter than eagles.
+They were faster than eagles.
 They were stronger than lions.
-[24] You daughters of Israel, weep over Saul,
-who dressed you finely in scarlet,
-who put ornaments of gold on your clothing.
+[24] You daughters of Israel, weep over Saul!
+He dressed you in fine red clothes.
+He put gold jewelry on your clothes.
 [25] How the mighty have fallen in the middle of the battle!
-Jonathan was killed on your high places.
-[26] I am in sorrow for you, my brother Jonathan.
-You have been very dear to me.
+Jonathan lies dead on your hills.
+[26] I am so sad because of you, my brother Jonathan.
+You were very dear to me.
 Your love to me was wonderful, greater than the love of women.
 [27] How the mighty have fallen,
 and the weapons of war have perished!”

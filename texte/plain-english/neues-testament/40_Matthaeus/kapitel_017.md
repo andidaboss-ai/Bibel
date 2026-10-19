@@ -5,31 +5,32 @@
 
 ## The transfiguration on the mountain (Verses 1–8)
 
-[1] After six days Jesus took with him Peter, James,
-and John his brother.
-He led them up a high mountain by themselves.
-[2] There he was changed in front of them.
-His face shone like the sun,
-and his clothes became as white as the light.
-[3] Moses and Elijah appeared to them
-and were talking with him.
+[1] Six days later, Jesus took Peter, James and John, the brother of James, with him.
+He led them up a high mountain.
+They were alone there.
+[2] There Jesus was changed in front of them.
+His face shone like the sun.
+His clothes became as white as light.
+[3] Suddenly Moses and Elijah appeared to them.
+They were talking with Jesus.
 [4] Peter said to Jesus,
 “Lord, it is good for us to be here.
 If you want, let’s make three tents here:
-one for you, one for Moses, and one for Elijah.”
-[5] While he was still speaking,
-a bright cloud came and covered them with its shadow.
-And a voice came out of the cloud and said,
-“This is my beloved Son,
-in whom I am well pleased.
+one for you, one for Moses and one for Elijah.”
+[5] Peter was still speaking
+when a bright cloud came over them.
+A voice came out of the cloud.
+It said,
+“This is my Son. I love him.
+I am very pleased with him.
 Listen to him!”
 [6] When the disciples heard this,
-they fell on their faces
-and were very afraid.
-[7] Jesus came, touched them and said,
-“Get up, and don’t be afraid!”
-[8] When they looked up,
-they saw no one except Jesus alone.
+they threw themselves face down on the ground.
+They were very afraid.
+[7] Jesus came and touched them.
+He said, “Get up. Don’t be afraid!”
+[8] They looked up.
+They saw no one except Jesus alone.
 
 > **What does this mean?**
 > This event is called the “transfiguration.” For a moment three disciples see Jesus’ divine glory.
@@ -45,27 +46,26 @@ they saw no one except Jesus alone.
 
 ## The question about Elijah (Verses 9–13)
 
-[9] As they were coming down from the mountain,
-Jesus commanded them,
-“Don’t tell anyone what you have seen
+[9] They were coming down from the mountain.
+On the way Jesus gave them an order.
+He said, “Don’t tell anyone what you have seen
 until the Son of Man has risen from the dead.”
 [10] His disciples asked him,
 “Then why do the scribes say
 that Elijah must come first?”
 [11] Jesus answered them,
-“Elijah does come first
-and will restore all things.
-[12] But I tell you
-that Elijah has already come.
-And they didn’t recognize him,
-but did to him whatever they wanted.
-In the same way the Son of Man
-will also suffer at their hands.”
-[13] Then the disciples understood
-that he was speaking to them about John the Baptizer.
+“It is true: Elijah comes first.
+He will set everything right again.
+[12] But I tell you:
+Elijah has already come.
+People did not recognize him.
+They did to him whatever they wanted.
+In the same way they will make the Son of Man suffer too.”
+[13] Then the disciples understood:
+Jesus was talking to them about John the Baptizer.
 
 > **What does this mean?**
-> The scribes pointed to the prophet Malachi. There it says: God will send Elijah before the great day of the LORD comes (Malachi 4:5–6; in the Hebrew Bible and in many German Bibles Malachi 3:23–24).
+> The scribes pointed to the prophet Malachi. There it says: God will send Elijah before the great day of the LORD comes (Malachi 4:5–6; in the Hebrew Bible and in some Bibles Malachi 3:23–24).
 > Jesus confirms this. But he says: Elijah has already been here, namely in John the Baptizer (compare 11:14).
 > “They did to him whatever they wanted”: John was killed by Herod (14:1–12). Jesus says: I too will suffer.
 > To this day Elijah is part of Jewish hope. At the Passover feast, many Jewish families set out a cup for Elijah.
@@ -74,36 +74,38 @@ that he was speaking to them about John the Baptizer.
 
 ## Jesus heals a sick boy (Verses 14–21)
 
-[14] When they came to the crowd,
-a man came to Jesus.
+[14] They came back to the crowd.
+A man came to Jesus.
 He knelt down in front of him
 [15] and said,
 “Lord, have mercy on my son!
-For he has epilepsy
-and suffers terribly.
+He has epilepsy.
+He suffers terribly.
 He often falls into the fire
 and often into the water.
 [16] I brought him to your disciples,
 but they could not heal him.”
 [17] Jesus answered,
-“You unbelieving and twisted generation!
-How long will I be with you?
-How long will I put up with you?
+“You people of today do not believe.
+You have gone the wrong way!
+How long do I still have to be with you?
+How long do I have to put up with you?
 Bring him here to me!”
-[18] Jesus rebuked the demon.
-And it went out of him.
-And the boy was healed from that hour on.
-[19] Then the disciples came to Jesus privately and asked,
-“Why weren’t we able to cast it out?”
+[18] Jesus spoke sharply to the demon.
+It went out of the boy.
+From that hour on the boy was healed.
+[19] Then the disciples came to Jesus when they were alone with him.
+They asked,
+“Why were we not able to drive it out?”
 [20] He said to them,
-“Because of your unbelief.
-For most certainly I tell you,
-if you have faith like a mustard seed,
-you will say to this mountain,
+“Because you do not believe enough.
+I tell you the truth:
+Your faith may be as small as a mustard seed.
+Then you will say to this mountain,
 ‘Move from here to there,’
 and it will move.
-And nothing will be impossible for you.
-[21] But this kind does not go out except by prayer and fasting.”
+Nothing will be impossible for you.
+[21] But this kind only goes out through prayer and fasting.”
 
 > **What does this mean?**
 > The father is desperate. His son’s life is in danger, because during his seizures he falls into the fire or into the water. He looks for help from Jesus.
@@ -119,13 +121,13 @@ And nothing will be impossible for you.
 
 ## Jesus announces his suffering again (Verses 22–23)
 
-[22] While they were staying in Galilee,
-Jesus said to them,
-“The Son of Man is about to be
-handed over into the hands of people.
-[23] They will kill him,
-and on the third day he will be raised up.”
-And they were very sad.
+[22] They were staying in Galilee.
+There Jesus said to them,
+“The Son of Man will soon be
+handed over to people.
+[23] They will kill him.
+And on the third day he will be raised to life.”
+The disciples were very sad.
 
 > **What does this mean?**
 > This is the second time he announces his suffering (the first was in 16:21).
@@ -135,26 +137,28 @@ And they were very sad.
 
 ## The temple tax (Verses 24–27)
 
-[24] When they came to Capernaum,
-the men who collected the didrachma coins
-came to Peter and said,
+[24] They came to Capernaum.
+There the men who collected the didrachma coins came to Peter.
+They said,
 “Doesn’t your teacher pay the didrachma?”
-[25] He said,
+[25] Peter said,
 “Yes, he does.”
-When he came into the house,
-Jesus spoke to him first and said,
+Peter came into the house.
+Before he could say anything, Jesus spoke to him.
+He said,
 “What do you think, Simon?
-From whom do the kings of the earth collect tolls or taxes?
+The kings of the earth collect fees and taxes.
+From whom do they collect them?
 From their own children, or from strangers?”
 [26] Peter said to him,
 “From strangers.”
 Jesus said to him,
-“Then the children are free.
-[27] But so that we don’t offend them,
-go to the lake and throw out a hook.
-Take the first fish that bites.
-When you open its mouth,
-you will find a stater coin.
+“Then the children do not have to pay.
+[27] But we do not want to upset these people.
+So go to the lake and throw out a fishing line with a hook.
+Take the first fish that you pull up.
+Open its mouth.
+You will find a stater coin there.
 Take it and give it to them for me and for you.”
 
 > **What does this mean?**

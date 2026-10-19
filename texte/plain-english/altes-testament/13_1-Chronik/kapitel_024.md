@@ -5,27 +5,33 @@
 
 ## The priests are divided (Verses 1–6)
 
-[1] These were the divisions of the sons of Aaron.
-The sons of Aaron:
+[1] These were the groups of the descendants of Aaron.
+The sons of Aaron were
 Nadab, Abihu, Eleazar, and Ithamar.
-[2] But Nadab and Abihu died before their father and had no children.
+[2] But Nadab and Abihu died before their father.
+They had no children.
 So Eleazar and Ithamar served as priests.
-[3] David, with Zadok of the sons of Eleazar
-and Ahimelech of the sons of Ithamar,
-divided them according to their order in their service.
-[4] More chief men were found among the sons of Eleazar than among the sons of Ithamar.
-They were divided like this:
-of the sons of Eleazar there were sixteen, heads of fathers’ houses,
-and of the sons of Ithamar, according to their fathers’ houses, eight.
-[5] So they were divided fairly by drawing lots,
-the one group like the other.
-For there were princes of the sanctuary and princes of God
-both among the sons of Eleazar and among the sons of Ithamar.
-[6] Shemaiah the son of Nethanel the scribe, who was one of the Levites,
-wrote them down
-in the presence of the king, the princes, Zadok the priest, Ahimelech the son of Abiathar,
-and the heads of the fathers’ households of the priests and of the Levites.
-One fathers’ house was taken for Eleazar, and one was taken for Ithamar.
+[3] David divided the priests into groups for their service.
+Zadok helped him.
+He was a descendant of Eleazar.
+Ahimelech also helped him.
+He was a descendant of Ithamar.
+[4] There were more leaders among the descendants of Eleazar
+than among the descendants of Ithamar.
+So they divided them like this:
+16 heads of families from the descendants of Eleazar,
+and 8 heads of families from the descendants of Ithamar.
+[5] They divided them fairly by drawing lots.
+Lots were small objects used to make a choice.
+There were leaders of the sanctuary and leaders of God
+among the descendants of Eleazar and also among the descendants of Ithamar.
+[6] The writer Shemaiah, the son of Nethanel, was a Levite.
+He wrote down the names.
+The king and the leaders were there.
+Zadok the priest and Ahimelech, the son of Abiathar, were there.
+The heads of the families of the priests and the Levites were there too.
+One family was chosen for Eleazar,
+and then one for Ithamar.
 
 > **What does this mean?**
 > Nadab and Abihu died because they brought “strange fire” before God (Leviticus 10:1–2).
@@ -37,7 +43,7 @@ One fathers’ house was taken for Eleazar, and one was taken for Ithamar.
 
 ## The order of the 24 divisions (Verses 7–19)
 
-[7] Now the first lot came out to Jehoiarib,
+[7] The first lot fell to Jehoiarib,
 the second to Jedaiah,
 [8] the third to Harim,
 the fourth to Seorim,
@@ -61,54 +67,54 @@ the twentieth to Jehezkel,
 the twenty-second to Gamul,
 [18] the twenty-third to Delaiah,
 and the twenty-fourth to Maaziah.
-[19] This was their order in their service,
-to come into the LORD’s house
-according to the rule given to them by Aaron their father,
-as the LORD, the God of Israel, had commanded him.
+[19] This was the order in which they served.
+In this order they came into the LORD’s house.
+They followed the rule their ancestor Aaron had given them,
+just as the LORD, the God of Israel, had commanded him.
 
 > **What does this mean?**
 > These 24 divisions of priests still existed at the time of Jesus.
 > The eighth division, Abijah, is especially well known: the priest Zacharias, the father of John the Baptist, belonged to it. When he was serving in the temple, the angel Gabriel appeared to him (Luke 1:5–13).
 > The first division, Jehoiarib, was the family of the Maccabees, who in the 2nd century before Christ freed the temple from foreign gods. The festival of lights, Hanukkah, remembers this.
 > In Caesarea in Israel, pieces of a stone inscription were found on which the 24 divisions of priests are listed, with the places in Galilee where they lived after the temple was destroyed.
-> In some Bibles “Hakkoz” is called “Koz”. The “ha” is the Hebrew article.
+> In some Bibles “Hakkoz” is called “Koz.” The “ha” is the Hebrew article.
 
 ---
 
 ## The rest of the Levites (Verses 20–31)
 
-[20] Of the rest of the sons of Levi:
-of the sons of Amram, Shubael;
-of the sons of Shubael, Jehdeiah.
-[21] Of Rehabiah:
-of the sons of Rehabiah, Isshiah the chief.
-[22] Of the Izharites, Shelomoth;
-of the sons of Shelomoth, Jahath.
+[20] These were the other descendants of Levi:
+From the descendants of Amram: Shubael.
+From the descendants of Shubael: Jehdeiah.
+[21] From Rehabiah:
+From the sons of Rehabiah: Isshiah, the leader.
+[22] From the Izharites: Shelomoth.
+From the sons of Shelomoth: Jahath.
 [23] The sons of Hebron:
-Jeriah, Amariah the second, Jahaziel the third, and Jekameam the fourth.
-[24] The sons of Uzziel: Micah;
-of the sons of Micah, Shamir.
-[25] The brother of Micah: Isshiah;
-of the sons of Isshiah, Zechariah.
+Jeriah, Amariah was second, Jahaziel was third, and Jekameam was fourth.
+[24] The sons of Uzziel: Micah.
+From the sons of Micah: Shamir.
+[25] Micah’s brother: Isshiah.
+From the sons of Isshiah: Zechariah.
 [26] The sons of Merari:
 Mahli and Mushi.
 The son of Jaaziah: Beno.
-[27] The sons of Merari by Jaaziah:
+[27] The descendants of Merari through Jaaziah:
 Beno, Shoham, Zaccur, and Ibri.
-[28] Of Mahli:
+[28] From Mahli:
 Eleazar, who had no sons.
-[29] Of Kish, the son of Kish:
-Jerahmeel.
+[29] From Kish:
+Kish’s son Jerahmeel.
 [30] The sons of Mushi:
 Mahli, Eder, and Jerimoth.
-These were the sons of the Levites by their fathers’ houses.
-[31] They too cast lots just as their brothers the sons of Aaron,
-in the presence of David the king, Zadok, Ahimelech,
-and the heads of the fathers’ households of the priests and of the Levites,
-the fathers’ households of the chief just like those of his younger brother.
+These were the Levites, listed by their families.
+[31] They also drew lots, just like their relatives, the descendants of Aaron.
+King David, Zadok, and Ahimelech were there.
+The heads of the families of the priests and the Levites were there too.
+The family of the oldest brother was treated just like the family of his younger brother.
 
 > **What does this mean?**
 > The other Levites are also divided by lot.
-> The last sentence is beautiful: “the fathers’ households of the chief just like those of his younger brother.” Before the lot everyone was equal. No one was favored because of his rank.
+> The last sentence is beautiful: “The family of the oldest brother was treated just like the family of his younger brother.” Before the lot everyone was equal. No one was favored because of his rank.
 > Shubael is called “Shebuel” in 1 Chronicles 23:16. The list continues chapter 23, with one more generation.
 > In Hebrew verses 26–27 are hard to understand. Jaaziah is not named anywhere else as a son of Merari.

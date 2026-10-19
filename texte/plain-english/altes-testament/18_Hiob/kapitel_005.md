@@ -54,7 +54,7 @@ and injustice shuts its mouth.
 
 > **What does this mean?**
 > Eliphaz says many true things about God: He is great, he does wonders, he helps the lowly and the poor.
-> Paul quotes verse 13 in the New Testament: “He has caught the wise in their craftiness” (1 Corinthians 3:19). So the words are not wrong.
+> Paul quotes verse 13 in the New Testament: “He has caught the wise in their own tricks” (1 Corinthians 3:19). So the words are not wrong.
 > The problem is not what Eliphaz says, but how he applies it to Job. He gives wise advice without really listening.
 > “If I were you, I would …”: People often say this to those who suffer. But no one is ever really in someone else’s place.
 

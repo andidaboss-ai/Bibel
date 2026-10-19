@@ -114,7 +114,7 @@ and struck down the young men of Israel.
 
 > **What does this mean?**
 > In spite of their unbelief, God gave them food: manna, the “bread from heaven” (Exodus 16), and quail (Numbers 11).
-> “The bread of angels”: bread that comes from heaven. Later, Jesus calls himself “the true bread out of heaven” (John 6:31–35).
+> “The bread of angels”: bread that comes from heaven. Later, Jesus calls himself “the true bread from heaven” (John 6:31–35).
 > Verses 30–31 remind us of the story in Numbers 11:33: The greed of the people was punished. Afterward, the place was called “graves of craving.”
 
 ---

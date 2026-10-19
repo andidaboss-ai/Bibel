@@ -5,76 +5,44 @@
 
 ## The great catch of fish (Verses 1–14)
 
-[1] After these things,
-Jesus showed himself again to the disciples
-at the Sea of Tiberias.
-It happened this way.
-[2] Simon Peter,
-Thomas called Didymus,
-Nathanael of Cana in Galilee,
-the sons of Zebedee,
-and two others of his disciples
-were together.
-[3] Simon Peter said to them,
-“I’m going fishing.”
-They told him,
-“We are also coming with you.”
-They immediately went out
-and got into the boat.
-That night, they caught nothing.
-[4] When morning had already come,
-Jesus stood on the beach.
-But the disciples didn’t know
-that it was Jesus.
-[5] Jesus said to them,
-“Children, have you anything to eat?”
-They answered him,
-“No.”
-[6] He said to them,
-“Cast the net on the right side of the boat,
-and you will find some.”
-So they cast it.
-And now they weren’t able to pull it in,
-because there were so many fish.
-[7] Then the disciple
-whom Jesus loved
-said to Peter,
-“It’s the Lord!”
-When Simon Peter heard
-that it was the Lord,
-he wrapped his coat around himself,
-for he was naked,
-and threw himself into the sea.
-[8] The other disciples came in the little boat,
-dragging the net full of fish.
-For they were not far from the land,
-only about two hundred cubits away.
-[9] When they got out on the land,
-they saw a fire of coals there,
-with fish and bread laid on it.
-[10] Jesus said to them,
-“Bring some of the fish
-which you have just caught.”
-[11] Simon Peter went up
-and pulled the net to land.
-It was full of great fish,
-one hundred fifty-three.
-Even though there were so many,
-the net wasn’t torn.
-[12] Jesus said to them,
-“Come and eat breakfast!”
-None of the disciples dared
-to ask him,
-“Who are you?”
-For they knew
-that it was the Lord.
-[13] Then Jesus came,
-took the bread,
-and gave it to them,
-and the fish likewise.
-[14] This was now the third time
-that Jesus showed himself to his disciples
-after he had risen from the dead.
+[1] After this, Jesus showed himself to the disciples again.
+It was at the Sea of Tiberias.
+This is how it happened.
+[2] Some of his disciples were together:
+Simon Peter, Thomas (also called Didymus), Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples.
+[3] Simon Peter said to them, “I’m going fishing.”
+They said to him, “We are coming with you.”
+So they went out and got into the boat right away.
+But that night they caught nothing.
+[4] Early in the morning Jesus stood on the shore.
+But the disciples didn’t know that it was Jesus.
+[5] Jesus called to them, “Children, do you have anything to eat?”
+They answered him, “No.”
+[6] He said to them, “Throw the net out on the right side of the boat.
+Then you will find some fish.”
+So they threw the net out.
+Now they could not pull it in, because there were so many fish.
+[7] The disciple Jesus loved said to Peter, “It’s the Lord!”
+Simon Peter heard that it was the Lord.
+He was naked, so he wrapped his coat around himself.
+Then he jumped into the sea.
+[8] The other disciples came in the little boat.
+They dragged the net full of fish behind them.
+They were not far from land, only about two hundred cubits away.
+[9] They got out onto the land.
+There they saw a charcoal fire.
+Fish and bread were lying on it.
+[10] Jesus said to them, “Bring some of the fish you have just caught.”
+[11] Simon Peter went up and pulled the net to land.
+It was full of big fish, one hundred fifty-three of them.
+There were so many, but the net still didn’t tear.
+[12] Jesus said to them, “Come and eat breakfast!”
+None of the disciples dared to ask him, “Who are you?”
+They knew that it was the Lord.
+[13] Then Jesus came.
+He took the bread and gave it to them.
+He did the same with the fish.
+[14] This was now the third time that Jesus showed himself to his disciples after he had risen from the dead.
 
 *cubit* = an old measure of length, about 18 inches (45 centimeters)
 
@@ -92,53 +60,25 @@ after he had risen from the dead.
 
 ## Jesus and Peter (Verses 15–19)
 
-[15] When they had eaten their breakfast,
-Jesus said to Simon Peter,
-“Simon, son of Jonah,
-do you love me more than these?”
-He said to him,
-“Yes, Lord;
-you know
-that I have affection for you.”
-Jesus said to him,
-“Feed my lambs.”
-[16] He said to him again a second time,
-“Simon, son of Jonah,
-do you love me?”
-He said to him,
-“Yes, Lord;
-you know
-that I have affection for you.”
-He said to him,
-“Tend my sheep.”
-[17] He said to him the third time,
-“Simon, son of Jonah,
-do you have affection for me?”
-Peter was grieved,
-because he asked him the third time,
-“Do you have affection for me?”
-He said to him,
-“Lord, you know everything.
-You know
-that I have affection for you.”
-Jesus said to him,
-“Feed my sheep.
-[18] Most certainly I tell you,
-when you were young,
-you dressed yourself
-and walked
-where you wanted to.
-But when you are old,
-you will stretch out your hands.
-Another will dress you
-and carry you
-where you don’t want to go.”
-[19] He said this
-to show
-by what kind of death Peter would glorify God.
-When he had said this,
-he said to him,
-“Follow me.”
+[15] When they had finished breakfast, Jesus said to Simon Peter, “Simon, son of Jonah, do you love me more than these?”
+Peter said to him, “Yes, Lord. You know that I have affection for you.”
+Jesus said to him, “Feed my lambs.”
+[16] Jesus asked him a second time, “Simon, son of Jonah, do you love me?”
+Peter said to him, “Yes, Lord. You know that I have affection for you.”
+Jesus said to him, “Tend my sheep.”
+[17] Jesus asked him the third time, “Simon, son of Jonah, do you have affection for me?”
+Peter was sad because Jesus asked him the third time, “Do you have affection for me?”
+He said to him, “Lord, you know everything.
+You know that I have affection for you.”
+Jesus said to him, “Feed my sheep.
+[18] I tell you the truth:
+When you were young, you dressed yourself.
+You went wherever you wanted to go.
+But when you are old, you will stretch out your hands.
+Someone else will dress you.
+He will carry you where you do not want to go.”
+[19] Jesus said this to show by what kind of death Peter would bring glory to God.
+After he said this, he said to Peter, “Follow me.”
 
 *tend* = take care of
 
@@ -153,43 +93,24 @@ he said to him,
 
 ## Jesus and the beloved disciple (Verses 20–25)
 
-[20] Then Peter turned around
-and saw the disciple following
-whom Jesus loved.
-He was the one
-who had also leaned on Jesus’ chest at the supper
-and asked,
-“Lord, who is going to betray you?”
-[21] When Peter saw him,
-he said to Jesus,
-“Lord, what about this man?”
-[22] Jesus said to him,
-“If I desire
-that he stay
-until I come,
-what is that to you?
+[20] Peter turned around.
+He saw the disciple Jesus loved following them.
+At the supper this disciple had leaned against Jesus’ chest.
+He had asked, “Lord, who is going to betray you?”
+[21] When Peter saw him, he said to Jesus, “Lord, what about this man?”
+[22] Jesus said to him, “What if I want him to stay until I come?
+What is that to you?
 You follow me.”
-[23] So this saying went out among the brothers
-that this disciple wouldn’t die.
-Yet Jesus didn’t say to him
-that he wouldn’t die,
-but,
-“If I desire
-that he stay
-until I come,
-what is that to you?”
-[24] This is the disciple
-who testifies about these things
-and wrote these things.
-We know
-that his witness is true.
-[25] There are also many other things
-which Jesus did.
-If they were all written down one by one,
-I suppose
-that even the world itself wouldn’t have room
-for the books
-that would be written.
+[23] So a rumor spread among the brothers: This disciple will not die.
+But Jesus did not say to him that he would not die.
+He only said, “What if I want him to stay until I come?
+What is that to you?”
+[24] This is the disciple who tells about these things.
+He is the one who wrote these things down.
+We know that what he says is true.
+[25] Jesus also did many other things.
+Suppose they were all written down, one by one.
+Then I think even the whole world would not have room for all the books that would be written.
 
 > **What does this mean?**
 > Verses 21–22: Peter asks about the other disciple’s path. Jesus says: Everyone has his own path. Don’t compare yourself. Follow me.

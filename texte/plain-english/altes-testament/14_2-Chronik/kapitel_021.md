@@ -5,29 +5,29 @@
 
 ## Jehoram kills his brothers (Verses 1–7)
 
-[1] Jehoshaphat died and joined his fathers,
-and he was buried with his fathers in David’s city.
-And Jehoram his son reigned in his place.
-[2] He had brothers, the sons of Jehoshaphat:
-Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah.
-All these were the sons of Jehoshaphat king of Israel.
-[3] Their father gave them great gifts of silver, of gold, and of precious things,
-together with fortified cities in Judah.
+[1] Jehoshaphat died and joined his ancestors.
+He was buried with his ancestors in the City of David.
+And his son Jehoram became king in his place.
+[2] Jehoram had brothers, other sons of Jehoshaphat.
+They were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah.
+All of them were sons of Jehoshaphat, the king of Israel.
+[3] Their father had given them great gifts of silver, gold, and valuable things.
+He had also given them fortified cities in Judah.
 But he gave the kingdom to Jehoram,
-because he was the firstborn.
-[4] Jehoram rose up over the kingdom of his father
-and made himself strong.
-Then he killed all his brothers with the sword,
-and also some of the princes of Israel.
-[5] Jehoram was 32 years old when he began to reign,
-and he reigned for eight years in Jerusalem.
-[6] He walked in the way of the kings of Israel,
-as Ahab’s house did,
-for he had Ahab’s daughter as his wife.
-He did what was evil in the LORD’s sight.
-[7] But the LORD would not destroy David’s house,
-because of the covenant that he had made with David.
-For he had promised to give a lamp to him and to his children always.
+because Jehoram was his oldest son.
+[4] Jehoram took over his father’s kingdom
+and made his power strong.
+Then he killed all his brothers with the sword.
+He also killed some of the leaders of Israel.
+[5] Jehoram was 32 years old when he became king.
+He ruled in Jerusalem for eight years.
+[6] He lived the way the kings of Israel lived,
+just like the family of Ahab,
+because he had married Ahab’s daughter.
+He did what was evil in the LORD’s eyes.
+[7] But the LORD did not want to destroy David’s family.
+He had made a covenant with David.
+He had promised to give him and his descendants a lamp forever.
 
 > **What does this mean?**
 > Here you can see the results of Jehoshaphat’s alliance with Ahab: his son Jehoram has married Athaliah, the daughter of Ahab. And Jehoram becomes like Ahab.
@@ -40,18 +40,18 @@ For he had promised to give a lamp to him and to his children always.
 
 ## Edom and Libnah break away (Verses 8–11)
 
-[8] In his days Edom rebelled against the rule of Judah
-and made a king over themselves.
-[9] Then Jehoram went there with his captains and all his chariots.
-He got up by night
-and struck the Edomites who surrounded him,
-and the captains of the chariots.
-[10] So Edom has been in rebellion against the rule of Judah to this day.
-Then Libnah also rebelled against his rule at the same time,
-because he had abandoned the LORD, the God of his fathers.
-[11] He also made high places in the mountains of Judah.
-He made the people of Jerusalem play the prostitute,
-and he led Judah astray.
+[8] While Jehoram was king, Edom rebelled against Judah’s rule.
+The Edomites made their own king.
+[9] So Jehoram went there with his commanders and all his chariots.
+At night he got up and attacked.
+He struck down the Edomites who had surrounded him,
+and the commanders of their chariots.
+[10] But Edom has rebelled against Judah’s rule until this day.
+At the same time the city of Libnah also rebelled against Jehoram’s rule.
+This happened because Jehoram had abandoned the LORD, the God of his ancestors.
+[11] He also built high places in the mountains of Judah.
+He led the people of Jerusalem to play the prostitute.
+He led Judah away from God.
 
 > **What does this mean?**
 > These events are also told in 2 Kings 8:20–22.
@@ -63,19 +63,21 @@ and he led Judah astray.
 
 ## A letter from Elijah (Verses 12–15)
 
-[12] A letter came to him from Elijah the prophet:
-“The LORD, the God of David your father, says,
-‘You have not walked in the ways of Jehoshaphat your father,
-or in the ways of Asa king of Judah.
-[13] But you have walked in the way of the kings of Israel.
-You have made Judah and the people of Jerusalem play the prostitute,
-as Ahab’s house did.
-And you have also killed your brothers of your father’s house,
-who were better than you.
-[14] So look, the LORD will strike your people with a great plague,
-and your children, your wives, and all your possessions.
-[15] And you will have a great sickness, a disease of your bowels,
-until your bowels come out because of the sickness, day by day.’”
+[12] Then a letter came to Jehoram from the prophet Elijah.
+It said,
+“This is what the LORD, the God of your ancestor David, says:
+‘You have not lived the way your father Jehoshaphat lived.
+You have not lived the way Asa, the king of Judah, lived.
+[13] Instead, you have lived the way the kings of Israel live.
+You have led Judah and the people of Jerusalem to play the prostitute,
+just as Ahab’s family did.
+You have also killed your own brothers, your father’s sons.
+They were better than you.
+[14] So now the LORD will strike your people with a terrible disaster.
+He will strike your sons, your wives, and everything you own.
+[15] And you yourself will become very sick with a disease of your intestines.
+Day after day the disease will get worse,
+until your intestines come out.’”
 
 > **What does this mean?**
 > This is the only time that Chronicles names the prophet Elijah. And it is the only time that Elijah sends something in writing.
@@ -86,28 +88,28 @@ until your bowels come out because of the sickness, day by day.’”
 
 ## The end of Jehoram (Verses 16–20)
 
-[16] The LORD stirred up against Jehoram the spirit of the Philistines
-and of the Arabians who live near the Ethiopians.
-[17] They came up against Judah and broke into it.
-They carried away all the possessions that were found in the king’s house,
-and also his sons and his wives.
-No son was left to him except Jehoahaz, the youngest of his sons.
-[18] After all this the LORD struck him in his bowels
-with a disease that could not be healed.
+[16] The LORD stirred up the Philistines against Jehoram.
+He also stirred up the Arabs who live near the Ethiopians.
+[17] They attacked Judah and broke into it.
+They carried off everything that was found in the king’s palace.
+They also took his sons and his wives.
+Only one son was left to him, Jehoahaz, his youngest son.
+[18] After all this, the LORD struck Jehoram with a disease of the intestines.
+It could not be healed.
 [19] After some time, at the end of two years,
-his bowels came out because of his sickness,
-and he died of terrible diseases.
-His people made no fire in his honor,
-like the fire for his fathers.
-[20] He was 32 years old when he began to reign,
-and he reigned in Jerusalem for eight years.
-He departed, and no one missed him.
-They buried him in David’s city,
+his intestines came out because of the disease.
+He died in terrible pain.
+His people did not make a fire in his honor,
+as they had done for his ancestors.
+[20] Jehoram was 32 years old when he became king.
+He ruled in Jerusalem for eight years.
+He died, and no one was sad about it.
+They buried him in the City of David,
 but not in the tombs of the kings.
 
 > **What does this mean?**
 > Jehoram had killed his brothers. Now he himself loses his sons. Only the youngest is left. In Chapter 22:1 Jehoahaz is called “Ahaziah”. Both names mean almost the same: “The LORD has taken hold”.
 > “Ethiopians”: the Hebrew says “Cushites”.
 > The “fire” is the fire of honor with spices, as for Asa (Chapter 16:14). Jehoram did not receive this honor.
-> Verse 20 is a sad verdict: “He departed, and no one missed him.” No one mourned for him. A life that was built only on power and violence leaves no love behind.
+> Verse 20 is a sad verdict: “He died, and no one was sad about it.” No one mourned for him. A life that was built only on power and violence leaves no love behind.
 > The Bible does not say here that every illness is a punishment. Jesus clearly rejected that (John 9:1–3). This is about this one king and his judgment.

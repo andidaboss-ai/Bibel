@@ -34,7 +34,7 @@ and let us waste away because of our wrongdoings.
 
 > **What does this mean?**
 > Verse 1: A passionate cry: “Oh, that you would tear open the heavens and come down!” The people long for God himself to step in. A German Advent hymn (in English: “O Savior, Rend the Heavens Wide”) takes up this verse. Christians see the birth of Jesus as the answer to this cry.
-> Verse 4: No other god acts for those who wait for him. Paul quotes this verse freely: “Things which an eye didn’t see … these God has prepared for those who love him” (1 Corinthians 2:9).
+> Verse 4: No other god acts for those who wait for him. Paul quotes this verse freely: “No eye has seen these things … These things God has prepared for those who love him” (1 Corinthians 2:9).
 > Verse 6: An honest confession: Even our best deeds are like a dirty garment. We wither like a leaf in autumn.
 > Verse 7: No one holds on to God anymore. The people feel as if God has turned away.
 

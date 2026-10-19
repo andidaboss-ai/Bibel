@@ -5,30 +5,32 @@
 
 ## David in Hebron (Verses 1–7)
 
-[1] After this, David asked the LORD and said,
-“Shall I go up into one of the cities of Judah?”
+[1] After this, David asked the LORD,
+“Should I go up to one of the cities of Judah?”
 The LORD said to him, “Go up.”
-David said, “Where shall I go up?”
-He said, “To Hebron.”
-[2] So David went up there
-with his two wives,
-Ahinoam from Jezreel and Abigail, the wife of Nabal from Carmel.
-[3] David also brought up his men who were with him,
-every man with his household.
-And they lived in the cities of Hebron.
-[4] The men of Judah came,
-and there they anointed David king over the house of Judah.
+David asked, “Where should I go?”
+The LORD answered, “To Hebron.”
+[2] So David went up to Hebron
+with his two wives.
+They were Ahinoam from Jezreel and Abigail, the widow of Nabal from Carmel.
+[3] David also brought the men who were with him,
+and each man brought his family.
+They lived in the towns around Hebron.
+[4] Then the men of Judah came to Hebron.
+There they anointed David as king over the people of Judah.
 They told David,
-“The men of Jabesh Gilead were the ones who buried Saul.”
-[5] So David sent messengers to the men of Jabesh Gilead
-and said to them,
-“May the LORD bless you,
-because you have shown this kindness to your lord Saul and have buried him.
-[6] Now may the LORD show loving kindness and faithfulness to you.
-I also will reward you for this kindness, because you have done this.
+“The men of Jabesh Gilead buried Saul.”
+[5] So David sent messengers to the men of Jabesh Gilead.
+He told them to say,
+“May the LORD bless you!
+You were kind and loyal to your lord Saul.
+You buried him.
+[6] Now may the LORD be kind and faithful to you.
+I will also be good to you,
+because you have done this.
 [7] So now be strong and brave.
-For Saul your lord is dead,
-and the house of Judah has anointed me king over them.”
+Your lord Saul is dead.
+And the people of Judah have anointed me as their king.”
 
 > **What does this mean?**
 > Before David does anything, he asks God. That is what he has mostly done since Chapter 23 of 1 Samuel.
@@ -40,18 +42,18 @@ and the house of Judah has anointed me king over them.”
 
 ## Ishbosheth becomes king over Israel (Verses 8–11)
 
-[8] Abner the son of Ner, the commander of Saul’s army,
-had taken Ishbosheth the son of Saul
-and brought him over to Mahanaim.
-[9] He made him king over Gilead, over the Ashurites,
+[8] Meanwhile Abner, the son of Ner, had taken Ishbosheth, the son of Saul,
+across the river to Mahanaim.
+Abner was the commander of Saul’s army.
+[9] He made Ishbosheth king over Gilead, over the Ashurites,
 over Jezreel, over Ephraim, over Benjamin,
 and over all Israel.
-[10] Ishbosheth, Saul’s son, was 40 years old
-when he began to rule over Israel,
-and he ruled for two years.
-But the house of Judah followed David.
-[11] The time that David was king in Hebron over the house of Judah
-was seven years and six months.
+[10] Saul’s son Ishbosheth was 40 years old
+when he became king over Israel.
+He ruled for 2 years.
+But the people of Judah followed David.
+[11] David was king over the people of Judah in Hebron
+for 7 years and 6 months.
 
 > **What does this mean?**
 > Now there are two kings: David in the south over Judah, and Ishbosheth in the north over the other tribes. The land is divided.
@@ -64,24 +66,24 @@ was seven years and six months.
 
 ## The fight at the pool of Gibeon (Verses 12–17)
 
-[12] Abner the son of Ner and the servants of Ishbosheth the son of Saul
-went out from Mahanaim to Gibeon.
-[13] Joab the son of Zeruiah and David’s servants also went out.
+[12] Abner, the son of Ner, went out from Mahanaim to Gibeon.
+The servants of Ishbosheth, the son of Saul, went with him.
+[13] Joab, the son of Zeruiah, and David’s servants also went out.
 They met by the pool of Gibeon.
-They sat down, the one group on one side of the pool
-and the other group on the other side of the pool.
+One group sat down on one side of the pool.
+The other group sat down on the other side.
 [14] Abner said to Joab,
-“Please let the young men get up and compete in front of us!”
-Joab said, “Let them get up!”
-[15] Then they got up and went over by number:
-twelve for Benjamin and for Ishbosheth the son of Saul,
-and twelve of David’s servants.
-[16] Each one caught his opponent by the head
-and thrust his sword into the other man’s side.
-So they all fell down together.
-That is why that place in Gibeon was called Helkath Hazzurim.
-[17] The battle was very hard that day.
-And Abner and the men of Israel were beaten by David’s servants.
+“Let some of the young men get up and fight each other in front of us!”
+Joab said, “All right, let them do it!”
+[15] So the young men got up, and they were counted.
+There were 12 for Benjamin and for Ishbosheth, the son of Saul,
+and 12 of David’s servants.
+[16] Each man grabbed his opponent by the head
+and stabbed his sword into the other man’s side.
+So they all fell down dead together.
+That is why that place in Gibeon is called Helkath Hazzurim.
+[17] The battle that day was very hard.
+David’s servants defeated Abner and the men of Israel.
 
 > **What does this mean?**
 > Gibeon was about 6 miles northwest of Jerusalem. Archaeologists have found a large water shaft there, cut into the rock.
@@ -95,25 +97,26 @@ And Abner and the men of Israel were beaten by David’s servants.
 ## Abner kills Asahel (Verses 18–23)
 
 [18] The three sons of Zeruiah were there: Joab, Abishai, and Asahel.
-Asahel was as quick on his feet as a wild gazelle.
-[19] Asahel chased Abner.
-He did not turn to the right or to the left as he followed Abner.
-[20] Then Abner looked behind him and said,
+Asahel could run as fast as a wild gazelle.
+[19] Asahel ran after Abner.
+He went straight after him.
+He did not turn to the right or to the left.
+[20] Abner looked back and asked,
 “Is that you, Asahel?”
-He answered, “It is.”
+He answered, “Yes, it is.”
 [21] Abner said to him,
-“Turn away to your right or to your left,
-grab one of the young men, and take his armor.”
-But Asahel would not stop following him.
+“Turn to the right or to the left!
+Grab one of the young men and take his armor.”
+But Asahel would not stop chasing him.
 [22] Abner said to Asahel again,
-“Stop following me.
-Why should I strike you to the ground?
-How could I then look your brother Joab in the face?”
-[23] But he refused to turn away.
-So Abner struck him in the body with the back end of the spear,
-so that the spear came out behind him.
-He fell down there and died in the same place.
-And all who came to the place where Asahel had fallen and died stood still.
+“Stop chasing me!
+I don’t want to kill you.
+How could I look your brother Joab in the face then?”
+[23] But Asahel would not turn away.
+So Abner stabbed him in the belly with the back end of his spear.
+The spear came out of his back.
+Asahel fell down and died right there.
+Everyone who came to the place where Asahel lay dead stopped and stood still.
 
 > **What does this mean?**
 > Asahel is young, fast, and ambitious. He wants to defeat the famous Abner.
@@ -126,41 +129,40 @@ And all who came to the place where Asahel had fallen and died stood still.
 ## Abner asks for peace (Verses 24–32)
 
 [24] But Joab and Abishai chased Abner.
-The sun went down when they came to the hill of Ammah,
-which lies in front of Giah on the way to the wilderness of Gibeon.
-[25] The people of Benjamin gathered behind Abner
-and became one single group.
-They stood on the top of a hill.
-[26] Then Abner called to Joab and said,
-“Shall the sword devour forever?
-Don’t you know that it will be bitter in the end?
-How long will it be before you tell the people
+At sunset they came to the hill of Ammah.
+It lies across from Giah, on the road to the wilderness of Gibeon.
+[25] The men of Benjamin gathered behind Abner.
+They formed one group
+and stood on the top of a hill.
+[26] Then Abner called out to Joab,
+“Must the sword keep on killing forever?
+Don’t you know that this will end in bitterness?
+When will you tell your men
 to stop chasing their brothers?”
 [27] Joab said,
-“As God lives,
-if you had not spoken,
-the people would surely have gone away in the morning,
-and each one would not have chased his brother.”
+“As surely as God lives:
+If you had not spoken,
+my men would surely have gone away in the morning.
+Then each one would have stopped chasing his brother.”
 [28] So Joab blew the trumpet.
-And all the people stood still.
-They did not chase Israel anymore,
+All his men stopped.
+They did not chase the men of Israel anymore,
 and they did not fight anymore.
 
-[29] Abner and his men went all that night through the Arabah.
-They crossed over the Jordan,
-went through all Bithron,
+[29] Abner and his men marched all that night through the Arabah.
+They crossed the Jordan,
+went through the whole area of Bithron,
 and came to Mahanaim.
-[30] Joab returned from chasing Abner.
-When he had gathered all the people together,
-19 of David’s men were missing, and Asahel.
-[31] But David’s servants had struck down Benjamin and Abner’s men,
-so that 360 men died.
-[32] They took up Asahel and buried him in his father’s tomb in Bethlehem.
-Joab and his men walked all night,
-and the day broke when they were at Hebron.
+[30] Joab came back from chasing Abner.
+He gathered all his men together.
+19 of David’s men were missing, and Asahel too.
+[31] But David’s servants had killed 360 men from Benjamin and from Abner’s army.
+[32] They took Asahel’s body and buried him in his father’s tomb in Bethlehem.
+Then Joab and his men marched all night.
+They came to Hebron as the day began.
 
 > **What does this mean?**
-> Abner says an important sentence: “Shall the sword devour forever? Don’t you know that it will be bitter in the end?” A war between brothers has no winner. Joab listens and ends the fighting.
+> Abner says an important sentence: “Must the sword keep on killing forever? Don’t you know that this will end in bitterness?” A war between brothers has no winner. Joab listens and ends the fighting.
 > The losses: David loses 20 men, counting Asahel. Abner’s side loses 360. David’s side is much stronger.
 > The Arabah is the low land of the Jordan Valley. “Bithron” is probably a ravine or an area east of the Jordan.
 > Asahel is buried in Bethlehem, the hometown of David and his family.

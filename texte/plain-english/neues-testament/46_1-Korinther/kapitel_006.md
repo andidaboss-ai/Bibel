@@ -5,34 +5,28 @@
 
 ## Christians quarrel in court (Verses 1–8)
 
-[1] If any of you has a quarrel with another,
-does he dare to go to court
-before the unrighteous,
-and not before the saints?
-[2] Don’t you know
-that the saints will judge the world?
-And if the world is judged by you,
-are you not able
-to decide the smallest matters?
-[3] Don’t you know
-that we will judge angels?
-How much more things of everyday life!
-[4] So if you have to judge things of everyday life,
-do you appoint as judges people
-who count for nothing in the assembly?
-[5] I say this
-to make you ashamed.
-Isn’t there even one wise person among you
-who would be able to decide between his brothers?
-[6] Instead, brother goes to court against brother,
-and that before unbelievers!
-[7] It is already a complete failure for you
-that you have lawsuits against one another.
-Why not rather be wronged?
-Why not rather be cheated?
-[8] No,
-you yourselves do wrong and cheat others,
-and you even do it to your brothers.
+[1] Suppose one of you has a complaint against another believer.
+How can he dare to take it to court before unrighteous people?
+Why does he not take it before God’s holy people?
+[2] Don’t you know that the saints will judge the world?
+The saints are God’s holy people.
+You will judge the world.
+So are you not good enough to decide the smallest matters?
+[3] Don’t you know that we will judge angels?
+Then we can surely judge the things of everyday life!
+[4] So if you have to decide matters of everyday life,
+why do you ask people to judge who count for nothing in the church?
+[5] I say this to make you ashamed.
+Is there not even one wise person among you?
+Is there no one who can settle a quarrel between his brothers?
+[6] Instead, one brother takes another brother to court.
+And he does it in front of unbelievers!
+[7] The fact that you take each other to court
+already shows that you have failed completely.
+Why not rather let others wrong you?
+Why not rather let others cheat you?
+[8] But no, you yourselves do wrong and cheat others.
+And you even do it to your own brothers.
 
 > **What does this mean?**
 > Verse 1: The Christians in Corinth took small quarrels, for example about money, to the Roman courts. Paul thinks: Christians should settle their quarrels among themselves peacefully.
@@ -45,28 +39,26 @@ and you even do it to your brothers.
 
 ## You were washed (Verses 9–11)
 
-[9] Or don’t you know
-that the unrighteous will not inherit God’s Kingdom?
-Don’t be deceived!
-Neither the sexually immoral,
-nor idolaters,
-nor adulterers,
-nor male prostitutes,
-nor homosexuals,
-[10] nor thieves,
-nor the greedy,
-nor drunkards,
-nor slanderers,
-nor those who rob others
-will inherit God’s Kingdom.
-[11] Some of you were such people.
+[9] Don’t you know that the unrighteous will not inherit God’s Kingdom?
+Do not be fooled!
+None of these people will inherit God’s Kingdom:
+the sexually immoral,
+people who worship idols,
+adulterers,
+male prostitutes,
+homosexuals,
+An adulterer is someone who is unfaithful in marriage.
+[10] thieves,
+greedy people,
+drunkards,
+people who speak evil of others,
+or people who take things from others by force.
+[11] Some of you were like that.
 But you were washed.
 You were made holy.
 You were made righteous
 in the name of the Lord Jesus
 and in the Spirit of our God.
-
-*adulterer* = someone who is unfaithful in marriage
 
 > **What does this mean?**
 > Verses 9–10: Paul lists ways of behaving that don’t fit with God’s Kingdom. Many of them are about how we treat other people: cheating, greed, slander, robbery.
@@ -79,47 +71,37 @@ and in the Spirit of our God.
 
 ## Your body is a temple (Verses 12–20)
 
-[12] “All things are lawful for me,”
-but not all things are helpful.
-“All things are lawful for me,”
-but I will not be ruled by anything.
-[13] “Foods for the belly,
-and the belly for foods,”
-but God will bring both to nothing.
-But the body is not for sexual immorality,
-but for the Lord,
-and the Lord for the body.
-[14] God raised up the Lord,
-and he will also raise us up by his power.
-[15] Don’t you know
-that your bodies are members of Christ?
-Shall I then take the members of Christ
-and make them members of a prostitute?
-May it never be!
-[16] Or don’t you know
-that he who is joined to a prostitute
-is one body with her?
-For it says:
+[12] “I am allowed to do anything,”
+but not everything is good for me.
+“I am allowed to do anything,”
+but I will not let anything control me.
+[13] “Food is for the stomach, and the stomach is for food,”
+but God will bring both of them to an end.
+But the body is not for sexual immorality.
+The body is for the Lord,
+and the Lord is for the body.
+[14] God raised the Lord from the dead.
+And by his power he will also raise us up.
+[15] Don’t you know that your bodies are parts of Christ’s body?
+So should I take parts of Christ’s body
+and make them parts of a prostitute’s body?
+Certainly not!
+[16] Don’t you know that a man who joins himself to a prostitute
+becomes one body with her?
+For he says,
 “The two will become one flesh.”
-[17] But he who is joined to the Lord
-is one spirit with him.
-[18] Flee sexual immorality!
-“Every sin
-that a person does
-is outside the body.”
-But he who commits sexual immorality
-sins against his own body.
-[19] Or don’t you know
-that your body is a temple of the Holy Spirit
-who is in you
-and whom you have from God?
-You are not your own.
-[20] For you were bought with a price.
-So glorify God in your body
-and in your spirit,
-which belong to God.
-
-*members* = here: parts of the body
+[17] But someone who joins himself to the Lord
+becomes one spirit with him.
+[18] Run away from sexual immorality!
+“Every sin that a person does is outside the body.”
+But someone who commits sexual immorality sins against his own body.
+[19] Don’t you know that your body is a temple of the Holy Spirit?
+The Holy Spirit is in you.
+You have received him from God.
+You do not belong to yourselves.
+[20] You were bought with a price.
+So honor God with your body and with your spirit.
+They belong to God.
 
 > **What does this mean?**
 > Verses 12–13 and 18: The sentences in quotation marks were probably sayings that people used in Corinth. Some thought: The body is unimportant, you can do anything with it. Paul disagrees.

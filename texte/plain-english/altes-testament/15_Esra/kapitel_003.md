@@ -5,27 +5,30 @@
 
 ## The altar is built (Verses 1–6)
 
-[1] When the seventh month had come,
-and the children of Israel were in their cities,
-the people gathered together as one man in Jerusalem.
-[2] Then Jeshua the son of Jozadak stood up with his brothers the priests,
-and Zerubbabel the son of Shealtiel with his relatives.
-They built the altar of the God of Israel,
-to offer burnt offerings on it,
-as it is written in the law of Moses the man of God.
-[3] In spite of their fear of the peoples of the surrounding lands,
-they set the altar on its base.
-And they offered burnt offerings on it to the LORD,
-burnt offerings morning and evening.
-[4] They kept the feast of booths, as it is written,
-and offered the daily burnt offerings by number, according to the rule,
-as each day required.
-[5] After that they offered the continual burnt offering,
-the offerings of the new moons and of all the set feasts of the LORD that were made holy,
-and the offerings of everyone who willingly gave a freewill offering to the LORD.
-[6] From the first day of the seventh month
+[1] The seventh month came.
+The people of Israel were living in their towns.
+Then all the people gathered in Jerusalem.
+They were united, as if they were one person.
+[2] Jeshua, the son of Jozadak, and his relatives, the priests, got to work.
+Zerubbabel, the son of Shealtiel, and his relatives got to work too.
+They built the altar of the God of Israel.
+They wanted to offer burnt offerings on it,
+as it is written in the Law of Moses, the man of God.
+[3] They were afraid of the peoples of the lands around them.
+But they still set up the altar on its old base.
+They offered burnt offerings on it to the LORD,
+every morning and every evening.
+[4] They celebrated the Feast of Booths, as it is written.
+Every day they offered the right number of burnt offerings,
+as the rules say for each day.
+[5] After that, they offered the regular burnt offerings.
+They offered the offerings for the new moons
+and for all the holy feasts of the LORD.
+They also offered the gifts of everyone who wanted to give the LORD a freewill offering.
+A freewill offering is a gift that a person gives because they want to.
+[6] On the first day of the seventh month,
 they began to offer burnt offerings to the LORD.
-But the foundation of the LORD’s temple was not yet laid.
+But the foundation of the LORD’s temple had not yet been laid.
 
 > **What does this mean?**
 > The seventh month (September/October) is the month of the great feasts: New Year, the Day of Atonement and the feast of booths.
@@ -38,10 +41,10 @@ But the foundation of the LORD’s temple was not yet laid.
 
 ## The preparations (Verse 7)
 
-[7] They also gave money to the stonecutters and to the carpenters.
-And they gave food, drink, and oil to the people of Sidon and Tyre,
-so that they would bring cedar trees from Lebanon to the sea, to Joppa,
-as Cyrus king of Persia had allowed them.
+[7] They gave money to the stonemasons and the carpenters.
+They gave food, drink, and olive oil to the people of Sidon and Tyre.
+In return, these people were to bring cedar logs from Lebanon by sea to Joppa.
+Cyrus, king of Persia, had given them permission for this.
 
 > **What does this mean?**
 > As with the building of the first temple under Solomon, the wood again comes from Lebanon, over the sea to Joppa (2 Chronicles 2:16). The new temple is to continue the old one.
@@ -51,28 +54,31 @@ as Cyrus king of Persia had allowed them.
 
 ## The foundation is laid (Verses 8–11)
 
-[8] In the second year after they came to God’s house in Jerusalem, in the second month,
-Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak,
-and the rest of their brothers the priests and the Levites,
-and all who had come out of the captivity to Jerusalem, began the work.
-They appointed the Levites from 20 years old and upward
-to watch over the work of the LORD’s house.
-[9] Then Jeshua stood with his sons and his brothers,
-Kadmiel and his sons, the sons of Judah,
-together, to watch over the workmen in God’s house,
-with the sons of Henadad, with their sons and their brothers the Levites.
-[10] When the builders laid the foundation of the LORD’s temple,
-they set the priests in their robes with trumpets,
-and the Levites, the sons of Asaph, with cymbals,
-to praise the LORD, as David king of Israel had directed.
-[11] They sang to one another, praising and giving thanks to the LORD:
+[8] They had come to God’s house in Jerusalem.
+In the second month of the second year after that, they began the work.
+Zerubbabel, the son of Shealtiel, and Jeshua, the son of Jozadak, began it.
+So did the rest of their relatives, the priests and the Levites.
+And so did everyone who had come back to Jerusalem from captivity.
+They chose Levites who were 20 years old or older
+to supervise the work on the LORD’s house.
+[9] Jeshua, his sons, and his relatives,
+and Kadmiel and his sons, the sons of Judah,
+worked together to supervise the workers in God’s house.
+The sons of Henadad, with their sons and their relatives, the Levites, helped them.
+[10] The builders laid the foundation of the LORD’s temple.
+Then the priests stood there in their robes with trumpets.
+The Levites, the sons of Asaph, stood there with cymbals.
+They praised the LORD,
+as David, king of Israel, had told them to do.
+[11] They sang to one another.
+They praised the LORD and thanked him:
 “For he is good, for his loving kindness endures forever toward Israel.”
-All the people shouted with a great shout when they praised the LORD,
+All the people gave a great shout as they praised the LORD,
 because the foundation of the LORD’s house had been laid.
 
 > **What does this mean?**
-> The second month is the same month in which Solomon began to build the first temple (1 Kings 6:1). Again a link to the old temple.
-> “The sons of Judah” in verse 9: this probably means “Hodaviah”, the Levite family from Chapter 2:40. The two names look alike in Hebrew.
+> The second month is the same month in which Solomon began to build the first temple (1 Kings 6:1). Again, there is a link to the old temple.
+> “The sons of Judah” in verse 9: this probably means “Hodaviah,” the Levite family from Chapter 2:40. The two names look alike in Hebrew.
 > When the foundation is laid, they celebrate. They sing almost the same words as at the dedication of the first temple: “For he is good, for his loving kindness endures forever” (2 Chronicles 5:13; 7:3; Psalm 136).
 > “To one another”: two choirs sing to each other, as was usual with many psalms.
 
@@ -80,15 +86,15 @@ because the foundation of the LORD’s house had been laid.
 
 ## Shouts of joy and weeping (Verses 12–13)
 
-[12] But many of the priests and Levites and heads of families,
-the old men who had seen the first house,
-wept with a loud voice
-when the foundation of this house was laid before their eyes.
-Many others shouted aloud for joy.
-[13] So the people could not tell the sound of the shouts of joy
-from the sound of the people’s weeping.
-For the people shouted with a loud shout,
-and the noise was heard far away.
+[12] Many of the priests, Levites, and family leaders were old.
+They had seen the first house.
+Now they saw the foundation of this house being laid.
+Then they wept out loud.
+But many others shouted for joy.
+[13] The people could not tell the shouts of joy
+from the sound of weeping.
+The people shouted very loudly.
+The noise could be heard far away.
 
 > **What does this mean?**
 > A moving moment: the young shout for joy, because at last the temple is being built. The old weep, because they still remember the splendid temple of Solomon, which had been destroyed 50 years before.

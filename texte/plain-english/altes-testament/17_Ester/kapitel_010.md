@@ -5,22 +5,21 @@
 
 ## Mordecai seeks the good of his people (Verses 1–3)
 
-[1] King Ahasuerus laid a tax on the land and on the islands of the sea.
-[2] All the acts of his power and of his might,
-and the full account of the greatness of Mordecai,
-to which the king had raised him:
-aren’t they written in the book of the chronicles of the kings of Media and Persia?
-[3] For Mordecai the Jew was second only to King Ahasuerus,
-and great among the Jews,
-and accepted by the multitude of his brothers,
-seeking the good of his people
-and speaking peace to all his descendants.
+[1] King Ahasuerus made the land and the islands of the sea pay taxes.
+[2] All his powerful and mighty deeds are written in the book of the chronicles of the kings of Media and Persia.
+The full story of Mordecai’s greatness is written there too.
+The king had made Mordecai great.
+[3] Mordecai the Jew was second in rank after King Ahasuerus.
+He was great among the Jews.
+Most of his fellow Jews respected him.
+He worked for the good of his people.
+He spoke words of peace to all his descendants.
 
 > **What does this mean?**
 > The book ends briefly. Mordecai is now the second most powerful man in the empire, exactly where Haman stood before.
-> But Mordecai is completely different from Haman. Haman sought his own honor and the death of others. Mordecai was “seeking the good of his people and speaking peace”.
+> But Mordecai is completely different from Haman. Haman sought his own honor and the death of others. Mordecai “worked for the good of his people” and “spoke words of peace”.
 > That recalls Joseph in Egypt, who also, as a foreigner, became the second man after the king and saved his people (Genesis 41:40).
-> Mordecai is called “accepted by the multitude of his brothers”. Word for word it says “by the majority”. An honest hint: not everyone agreed with him. Even a good leader cannot please everyone.
+> It says: “Most of his fellow Jews respected him.” Word for word: “the majority of his brothers”. An honest hint: not everyone agreed with him. Even a good leader cannot please everyone.
 
 ---
 

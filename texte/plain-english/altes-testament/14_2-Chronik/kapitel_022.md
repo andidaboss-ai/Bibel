@@ -5,28 +5,29 @@
 
 ## Ahaziah, king of Judah (Verses 1–6)
 
-[1] The people who lived in Jerusalem made Ahaziah, his youngest son, king in his place.
-For the band of men who came with the Arabians to the camp had killed all the older sons.
-So Ahaziah the son of Jehoram king of Judah reigned.
-[2] Ahaziah was 42 years old when he began to reign,
-and he reigned for one year in Jerusalem.
-His mother’s name was Athaliah the daughter of Omri.
-[3] He also walked in the ways of Ahab’s house,
-because his mother advised him to act wickedly.
-[4] He did what was evil in the LORD’s sight,
-as Ahab’s house did.
-For after the death of his father they were his advisers,
-and that led to his destruction.
-[5] He also followed their advice.
-He went with Jehoram the son of Ahab king of Israel
-to war against Hazael king of Syria at Ramoth Gilead.
-And the Syrians wounded Joram.
-[6] He returned to Jezreel to be healed of the wounds
-that they had given him at Ramah,
-when he fought against Hazael king of Syria.
-Azariah the son of Jehoram, king of Judah,
-went down to Jezreel to see Jehoram the son of Ahab,
-because he was sick.
+[1] The people of Jerusalem made Ahaziah, Jehoram’s youngest son, king in his place.
+A band of raiders had come into the camp with the Arabs.
+They had killed all the older sons.
+So Ahaziah, the son of Jehoram, became king of Judah.
+[2] Ahaziah was 42 years old when he became king.
+He ruled in Jerusalem for one year.
+His mother was Athaliah, the daughter of Omri.
+[3] Ahaziah also lived the way Ahab’s family lived.
+His mother gave him advice to do evil.
+[4] He did what was evil in the LORD’s eyes,
+just like Ahab’s family.
+After his father died, they became his advisers.
+And that led to his ruin.
+[5] He followed their advice.
+He went with Jehoram, the son of Ahab, the king of Israel,
+to fight against Hazael, the king of Syria, at Ramoth Gilead.
+There the Syrians wounded Joram.
+[6] So Joram went back to Jezreel to recover from his wounds.
+He had received them at Ramah,
+when he fought against Hazael, the king of Syria.
+Then Azariah, the son of Jehoram, the king of Judah,
+went down to Jezreel to visit Jehoram, the son of Ahab,
+because Jehoram was sick.
 
 > **What does this mean?**
 > This story is told in more detail in 2 Kings 8–9.
@@ -40,41 +41,42 @@ because he was sick.
 
 ## The death of Ahaziah (Verses 7–9)
 
-[7] The destruction of Ahaziah came from God,
-because he went to Joram.
-For when he had come,
-he went out with Jehoram against Jehu the son of Nimshi,
-whom the LORD had anointed to cut off Ahab’s house.
-[8] Jehu was carrying out judgment on Ahab’s house.
-Then he found the princes of Judah and the sons of Ahaziah’s brothers,
-who served Ahaziah,
-and he killed them.
-[9] He looked for Ahaziah,
-and they caught him while he was hiding in Samaria.
+[7] God had planned Ahaziah’s ruin
+through this visit to Joram.
+When Ahaziah arrived,
+he went out with Jehoram to meet Jehu, the son of Nimshi.
+The LORD had anointed Jehu to wipe out Ahab’s family.
+[8] Jehu was carrying out God’s judgment on Ahab’s family.
+There he found the leaders of Judah and the sons of Ahaziah’s brothers,
+who were serving Ahaziah.
+And Jehu killed them.
+[9] Then Jehu searched for Ahaziah.
+Ahaziah was hiding in Samaria, but Jehu’s men caught him.
 They brought him to Jehu and killed him.
-And they buried him, for they said,
-“He is the son of Jehoshaphat, who sought the LORD with all his heart.”
-The house of Ahaziah had no one with the power to hold the kingdom.
+Then they buried him.
+They said,
+“He is the grandson of Jehoshaphat, who sought the LORD with all his heart.”
+No one from Ahaziah’s family was left who was strong enough to rule the kingdom.
 
 > **What does this mean?**
 > Jehu had the task of punishing Ahab’s house (2 Kings 9). Ahaziah was in the wrong place at the wrong time, because he had joined himself to Ahab’s family.
 > In 2 Kings 9:27 Ahaziah’s death is told a little differently: he flees and is fatally wounded near Megiddo. Chronicles sums it up more briefly. How exactly the two reports fit together is not quite clear.
-> Verse 9 is beautiful: Ahaziah is buried with honor because of his grandfather Jehoshaphat. Jehoshaphat’s faithfulness to God still has an effect after his death.
+> Verse 9 is beautiful: Ahaziah is buried with honor because of his grandfather Jehoshaphat. The English source text says “son”, because in Hebrew “son” can also mean “grandson”. Jehoshaphat’s faithfulness to God still has an effect after his death.
 
 ---
 
 ## Athaliah seizes power (Verses 10–12)
 
-[10] Athaliah the mother of Ahaziah saw that her son was dead.
-Then she got up and destroyed all the royal descendants of the house of Judah.
-[11] But Jehoshabeath, the king’s daughter, took Joash the son of Ahaziah.
-She secretly rescued him from among the king’s sons who were being killed.
-She put him and his nurse in the bedroom.
-So Jehoshabeath, the daughter of King Jehoram and the wife of Jehoiada the priest,
-hid him from Athaliah, so that she didn’t kill him.
-For she was the sister of Ahaziah.
-[12] He was hidden with them in God’s house for six years,
-while Athaliah reigned over the land.
+[10] Athaliah, Ahaziah’s mother, saw that her son was dead.
+Then she began to kill the whole royal family of Judah.
+[11] But Jehoshabeath, the king’s daughter, took Joash, the son of Ahaziah.
+She secretly took him away from the king’s sons who were about to be killed.
+She hid him and his nurse in a bedroom.
+Jehoshabeath was the daughter of King Jehoram and the wife of the priest Jehoiada.
+She was also Ahaziah’s sister.
+She hid Joash from Athaliah, so Athaliah did not kill him.
+[12] Joash stayed hidden with them in God’s house for six years.
+During that time Athaliah ruled over the land.
 
 > **What does this mean?**
 > This is one of the darkest moments in the history of Judah. Athaliah wants to kill her own grandchildren in order to rule herself. If she had succeeded, David’s family would have died out. And God’s promise to David (Chapter 21:7) would have been broken.

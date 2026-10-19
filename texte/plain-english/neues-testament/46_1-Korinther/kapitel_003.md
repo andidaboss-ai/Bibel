@@ -6,25 +6,23 @@
 ## Like babies (Verses 1–4)
 
 [1] Brothers,
-I couldn’t speak to you
-as to spiritual people,
-but as to fleshly people,
+I could not speak to you as to spiritual people.
+I had to speak to you as to fleshly people,
 as to babies in Christ.
-[2] I fed you with milk,
-not with solid food.
-For you weren’t ready yet.
-Indeed, you aren’t ready even now,
-[3] for you are still fleshly.
-For as long as there is jealousy, strife and factions among you,
-aren’t you fleshly?
-And don’t you live in the ways of ordinary people?
-[4] For when one says,
-“I follow Paul,”
-and another,
-“I follow Apollos,”
-aren’t you fleshly?
-
-*factions* = groups that are against each other
+[2] I gave you milk to drink.
+I did not give you solid food.
+You were not ready for it yet.
+And you are still not ready now,
+[3] because you are still fleshly.
+There is jealousy among you.
+You quarrel and split into groups that are against each other.
+So are you not fleshly?
+Are you not living like ordinary people?
+[4] One of you says,
+“I follow Paul.”
+Another says,
+“I follow Apollos.”
+So are you not fleshly?
 
 > **What does this mean?**
 > “Fleshly” here means: thinking and acting as if there were no God. It doesn’t mean the body.
@@ -34,25 +32,24 @@ aren’t you fleshly?
 
 ## God makes things grow (Verses 5–9)
 
-[5] Who then is Apollos?
+[5] Who is Apollos?
 And who is Paul?
-They are servants
-through whom you came to believe,
-each as the Lord gave to him.
+We are only servants.
+Through us you came to believe.
+Each of us did what the Lord gave him to do.
 [6] I planted.
 Apollos watered.
-But God gave the growth.
-[7] So neither he who plants is anything,
-nor he who waters,
-but God
-who gives the growth.
-[8] He who plants and he who waters
-are the same.
-But each will receive his own reward
-according to his own work.
-[9] For we are God’s fellow workers.
-You are God’s field,
-God’s building.
+But God made it grow.
+[7] So the one who plants is nothing.
+The one who waters is nothing.
+Only God matters,
+because he makes things grow.
+[8] The one who plants and the one who waters are the same.
+But each one will get his own reward
+for his own work.
+[9] We work together with God.
+You are God’s field.
+You are God’s building.
 
 > **What does this mean?**
 > Verse 6: A picture from farming. People can plant and water. But whether something grows is not in their hands. God gives that.
@@ -63,43 +60,32 @@ God’s building.
 
 ## The foundation is Jesus Christ (Verses 10–17)
 
-[10] By the grace of God
-which was given to me,
-I laid a foundation
-like a wise master builder.
-Another builds on it.
-But each one should be careful
-how he builds on it.
-[11] For no one can lay any other foundation
-than the one
-which has been laid:
-Jesus Christ.
-[12] But if anyone builds on the foundation
-with gold,
+[10] God gave me his grace.
+With it I laid a foundation, like a wise master builder.
+Now someone else is building on it.
+But each one must be careful how he builds on it.
+[11] No one can lay any other foundation than the one that has been laid.
+That foundation is Jesus Christ.
+[12] Someone may build on this foundation with gold,
 silver,
 costly stones,
 wood,
 hay
-or straw,
-[13] each one’s work will be revealed.
-For the Day will show it,
-because it is revealed in fire.
-And the fire itself will test
-what sort of work each one’s work is.
-[14] If anyone’s work remains
-which he built on it,
+or straw.
+[13] But each person’s work will be shown for what it is.
+The Day will make it clear,
+because it will be revealed with fire.
+The fire will test what kind of work each person has done.
+[14] If the building that someone built on the foundation lasts,
 he will receive a reward.
-[15] If anyone’s work is burned,
-he will suffer loss.
+[15] If someone’s work burns up, he will lose it.
 But he himself will be saved,
-but as through fire.
-[16] Don’t you know
-that you are God’s temple
-and that God’s Spirit lives in you?
+like someone who escapes through a fire.
+[16] Don’t you know that you are God’s temple?
+Don’t you know that God’s Spirit lives in you?
 [17] If anyone destroys God’s temple,
 God will destroy him.
-For God’s temple is holy,
-and you are that temple.
+God’s temple is holy, and you are that temple.
 
 > **What does this mean?**
 > Verse 11: The foundation of the church is Jesus Christ. Everything else builds on him.
@@ -111,32 +97,29 @@ and you are that temple.
 
 ## Everything is yours (Verses 18–23)
 
-[18] Let no one deceive himself.
-If anyone among you thinks
-that he is wise in this world,
-let him become a fool,
-so that he may become wise.
-[19] For the wisdom of this world
-is foolishness with God.
-For it is written:
-“He has caught the wise in their craftiness.”
-[20] And again:
+[18] Do not fool yourselves.
+Some of you may think that you are wise in this world.
+If so, you should become a fool,
+so that you can become truly wise.
+[19] The wisdom of this world is foolishness to God.
+It is written,
+“He has caught the wise in their own tricks.”
+[20] And it is also written,
 “The Lord knows the thoughts of the wise.
-He knows
-that they are worthless.”
-[21] So let no one boast in people.
-For all things are yours:
-[22] whether Paul,
-or Apollos,
-or Cephas,
-or the world,
-or life,
-or death,
-or things present,
-or things to come.
-All are yours.
-[23] And you belong to Christ,
-and Christ belongs to God.
+He knows that they are worthless.”
+[21] So no one should boast about people.
+Everything belongs to you:
+[22] Paul,
+Apollos,
+Cephas,
+the world,
+life,
+death,
+the present,
+and the future.
+Everything belongs to you.
+[23] And you belong to Christ.
+And Christ belongs to God.
 
 > **What does this mean?**
 > Verse 19 quotes Job 5:13. Verse 20 quotes Psalm 94:11.

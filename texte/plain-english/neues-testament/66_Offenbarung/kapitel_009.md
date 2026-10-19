@@ -5,55 +5,40 @@
 
 ## The fifth trumpet: Locusts from the abyss (Verses 1–12)
 
-[1] The fifth angel sounded.
-Then I saw a star
-which had fallen from the sky to the earth.
-The key to the pit of the abyss was given to him.
-The abyss is a deep, bottomless pit.
+[1] The fifth angel blew his trumpet.
+Then I saw a star that had fallen from the sky to the earth.
+He was given the key to the pit of the abyss.
+The abyss is a deep pit with no bottom.
 [2] He opened the pit of the abyss.
-Then smoke went up out of the pit,
-like the smoke from a burning furnace.
-The sun and the air were darkened
-because of the smoke from the pit.
-[3] Out of the smoke came locusts on the earth.
-Power was given to them,
-as the scorpions of the earth have power.
-[4] They were told
-that they should not hurt the grass of the earth,
-nor any green thing,
-nor any tree,
-but only those people
-who don’t have God’s seal on their foreheads.
-[5] They were given power,
-not to kill them,
-but to torment them for five months.
-Their torment was like the torment of a scorpion
-when it strikes a person.
-[6] In those days people will seek death
-and will in no way find it.
-They will desire to die,
-but death will flee from them.
-[7] The locusts looked
-like horses prepared for war.
-On their heads were something like golden crowns.
-And their faces were like people’s faces.
-[8] They had hair like women’s hair,
-and their teeth were like those of lions.
+Smoke went up out of the pit, like the smoke from a burning furnace.
+The sun and the air became dark because of the smoke from the pit.
+[3] Then locusts came out of the smoke onto the earth.
+They were given power like the power of scorpions on the earth.
+[4] They were told not to hurt the grass of the earth,
+or any green plant, or any tree.
+They were only to hurt the people who don’t have God’s seal on their foreheads.
+[5] They were not given power to kill these people.
+They were only allowed to torment them for five months.
+The pain was like the pain from a scorpion when it stings a person.
+[6] In those days people will look for death,
+but they will not find it at all.
+They will long to die,
+but death will run away from them.
+[7] The locusts looked like horses that are ready for battle.
+On their heads they had something like golden crowns.
+Their faces were like human faces.
+[8] They had hair like women’s hair.
+Their teeth were like lions’ teeth.
 [9] They had breastplates like breastplates of iron.
-And the sound of their wings was like the sound
-of many chariots and horses
-rushing to war.
-[10] They have tails like those of scorpions,
-with stingers.
-And in their tails they have power
-to harm people for five months.
-[11] They have a king over them:
-the angel of the abyss.
-His name in Hebrew is “Abaddon,”
-and in Greek “Apollyon.”
-[12] The first woe is past.
-Look,
-there are still two woes coming after this.
+The sound of their wings was like the sound of many chariots and horses rushing into battle.
+[10] They have tails with stingers, like scorpions.
+In their tails they have power to harm people for five months.
+[11] They have a king over them.
+He is the angel of the abyss.
+His name in Hebrew is “Abaddon.”
+In Greek his name is “Apollyon.”
+[12] The first disaster is over.
+Look, two more disasters are still coming after this.
 
 > **What does this mean?**
 > The locusts recall the eighth plague in Egypt (Exodus 10) and the prophet Joel (Joel 1–2). There, locusts fall upon the land like an army.
@@ -69,62 +54,42 @@ there are still two woes coming after this.
 
 ## The sixth trumpet: A huge army of horsemen (Verses 13–19)
 
-[13] The sixth angel sounded.
-Then I heard a voice
-from the horns of the golden altar
-which is before God.
-[14] It said to the sixth angel
-who had the trumpet,
-“Free the four angels
-who are bound at the great river Euphrates!”
-[15] Then the four angels were freed.
-They had been prepared for that hour,
-that day,
-that month
-and that year,
-to kill one third of mankind.
-[16] The number of the armies of the horsemen was two hundred million.
+[13] The sixth angel blew his trumpet.
+Then I heard a voice.
+It came from the horns of the golden altar that is before God.
+[14] It said to the sixth angel, who had the trumpet,
+“Set free the four angels who are tied up at the great river Euphrates!”
+[15] So the four angels were set free.
+They had been made ready for that hour, that day, that month, and that year.
+They were to kill one third of all people.
+[16] The armies of the horsemen numbered 200,000,000.
 I heard their number.
-[17] This is how I saw the horses in the vision
-and those who sat on them:
-They had breastplates of fiery red, hyacinth blue
-and sulfur yellow.
-The horses’ heads looked like lions’ heads.
-Out of their mouths came fire, smoke and sulfur.
-[18] By these three plagues
-one third of mankind was killed:
-by the fire, the smoke and the sulfur
-which came out of their mouths.
-[19] For the power of the horses is in their mouths
-and in their tails.
-Their tails are like serpents
-and have heads.
-And with them they harm.
+[17] In the vision I saw the horses and their riders like this:
+The riders had breastplates that were fiery red, dark blue, and sulfur yellow.
+The heads of the horses looked like lions’ heads.
+Fire, smoke, and sulfur came out of their mouths.
+Sulfur is a yellow substance that burns with a bad smell.
+[18] One third of all people were killed by these three plagues:
+by the fire, the smoke, and the sulfur that came out of the horses’ mouths.
+[19] For the power of the horses is in their mouths and in their tails.
+Their tails are like snakes.
+They have heads, and with them they do harm.
 
 > **What does this mean?**
 > Verse 14: The Euphrates was the eastern border of the Roman Empire. People feared attacks from enemy peoples of horsemen from there. For the people at that time, this was a picture of the worst danger of war.
-> Verse 16: Two hundred million is an unimaginably large number. It means: an army that no one can count. It is a picture, not an exact number.
+> Verse 16: 200,000,000 is an unimaginably large number. It means: an army that no one can count. It is a picture, not an exact number.
 > These pictures show how terrible war is. Violence destroys life.
 
 ---
 
 ## The people don’t repent (Verses 20–21)
 
-[20] The rest of mankind,
-who were not killed by these plagues,
-didn’t repent of the works of their hands.
-They didn’t stop
-worshiping demons
-and the idols of gold and silver,
-of brass, stone and wood,
-which can’t see,
-hear
-or walk.
-[21] And they didn’t repent
-of their murders,
-their sorceries,
-their sexual immorality
-or their thefts.
+[20] The rest of the people were not killed by these plagues.
+But they still did not repent and turn away from the things their hands had made.
+They did not stop worshiping demons and idols.
+The idols were made of gold, silver, brass, stone, and wood.
+They cannot see, hear, or walk.
+[21] They did not repent of their murders, their magic, their sexual sins, or their stealing.
 
 > **What does this mean?**
 > Here it becomes clear what the plagues are for: They are meant to call people to repent. God doesn’t want to destroy, but wants people to turn back.

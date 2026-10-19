@@ -5,76 +5,52 @@
 
 ## The healing at the pool of Bethesda (Verses 1–18)
 
-[1] After this there was a feast of the Jews,
-and Jesus went up to Jerusalem.
-[2] In Jerusalem, by the sheep gate, there is a pool,
-which is called “Bethesda” in Hebrew.
-It has five porches.
-[3] In these porches lay a great crowd of people
-who were sick, blind, lame, or paralyzed.
-They were waiting for the moving of the water.
-[4] For an angel went down into the pool at certain times
-and stirred up the water.
-Whoever stepped in first
-after the stirring of the water
-was healed
-of whatever disease he had.
-[5] A man was there
-who had been sick for thirty-eight years.
+[1] After this, there was a feast of the Jews.
+Jesus went up to Jerusalem.
+[2] In Jerusalem, near the Sheep Gate, there is a pool.
+In Hebrew it is called “Bethesda.”
+It has five covered porches.
+[3] Many sick people were lying in these porches.
+Some were blind. Some could not walk. Some were paralyzed.
+They were waiting for the water to move.
+[4] At certain times an angel went down into the pool and stirred up the water.
+After the water was stirred up, the first one to step in was healed of any disease he had.
+[5] A man was there who had been sick for thirty-eight years.
 [6] Jesus saw him lying there.
-He knew
-that he had been sick for a long time.
-So he asked him,
-“Do you want to be made well?”
+He knew that the man had been sick for a long time.
+He asked him, “Do you want to be made well?”
 [7] The sick man answered him,
-“Sir, I have no one
-to put me into the pool
-when the water is stirred up.
-While I’m coming,
-another steps down before me.”
+“Sir, I have no one to put me into the pool when the water is stirred up.
+While I am trying to get there, someone else steps down ahead of me.”
 [8] Jesus said to him,
-“Arise,
-take up your mat,
-and walk.”
-[9] Immediately the man was made well.
-He took up his mat
-and walked.
-Now that day was a Sabbath.
-[10] So the Jews said to the man who was cured,
+“Get up, pick up your mat, and walk.”
+[9] At once the man was well.
+He picked up his mat and walked.
+That day was a Sabbath.
+[10] So the Jews said to the man who had been healed,
 “It is the Sabbath.
-It is not lawful for you
-to carry the mat.”
+The law does not allow you to carry your mat.”
 [11] He answered them,
-“He who made me well
-said to me,
-‘Take up your mat and walk.’”
-[12] Then they asked him,
-“Who is the man
-who said to you,
-‘Take up your mat and walk’?”
-[13] But the man who was healed didn’t know
-who it was.
-For Jesus had slipped away,
-because there was a crowd in the place.
-[14] Afterward Jesus found him in the temple
-and said to him,
-“You are made well.
-Sin no more,
-so that nothing worse happens to you.”
-[15] The man went away
-and told the Jews
-that it was Jesus
-who had made him well.
-[16] For this reason the Jews persecuted Jesus
-and wanted to kill him,
-because he did these things on the Sabbath.
+“The man who made me well told me, ‘Pick up your mat and walk.’”
+[12] They asked him,
+“Who is the man who told you, ‘Pick up your mat and walk’?”
+[13] But the man who had been healed didn’t know who it was.
+There was a crowd in that place, and Jesus had slipped away.
+[14] Later Jesus found him in the temple.
+He said to him,
+“Look, you have been made well.
+Don’t sin anymore, so that nothing worse happens to you.”
+[15] The man went away.
+He told the Jews that it was Jesus who had made him well.
+[16] Jesus was doing these things on the Sabbath.
+That is why the Jews persecuted Jesus and tried to kill him.
 [17] But Jesus answered them,
-“My Father is still working,
-so I am working, too.”
-[18] For this reason the Jews wanted all the more to kill him.
-For he not only broke the Sabbath,
-but also called God his own Father,
-making himself equal with God.
+“My Father is still working.
+So I am working too.”
+[18] So the Jews tried even harder to kill him.
+He was not only breaking the Sabbath.
+He was also calling God his own Father.
+In this way, he was making himself equal with God.
 
 > **What does this mean?**
 > The pool of Bethesda was in the north of Jerusalem, near the temple. Archaeologists have found the remains of a large pool complex there. Instead of “Bethesda” some manuscripts have “Bethzatha” or “Bethsaida.”
@@ -82,7 +58,7 @@ making himself equal with God.
 > Verse 6: “Do you want to be made well?” Jesus asks the man. He respects his will.
 > Verse 7: “I have no one.” The man is not only sick, but also lonely. No one helps him. To this day that is the need of many sick and old people.
 > Verse 10: On the Sabbath one was not to carry loads (Jeremiah 17:21). The question is meant seriously. Devout Jews wanted to keep the commandment faithfully.
-> Verse 14: “Sin no more” does not mean that the illness was a punishment for sin. In John 9:3 Jesus says explicitly that illness is not a punishment. Here Jesus is calling the man to a new life.
+> Verse 14: “Don’t sin anymore” does not mean that the illness was a punishment for sin. In John 9:3 Jesus says explicitly that illness is not a punishment. Here Jesus is calling the man to a new life.
 > Important: Illness and disability are not a punishment from God.
 > Verses 10–18: “The Jews” here means certain leaders in Jerusalem, not the Jewish people. The healed man, Jesus and his disciples are Jews too. These verses must never be used to accuse Jews. The church teaches clearly: The Jewish people bear no guilt for Jesus’ death (*Nostra Aetate*, 1965).
 > Verse 17: Jesus says: God never stops doing good, not even on the Sabbath. That is why Jesus also heals on the Sabbath.
@@ -92,61 +68,41 @@ making himself equal with God.
 ## The Son does what the Father does (Verses 19–30)
 
 [19] So Jesus answered them,
-“Most certainly I tell you,
-the Son can do nothing by himself,
-but only what he sees the Father doing.
-For whatever the Father does,
-the Son also does likewise.
-[20] For the Father loves the Son
-and shows him all things
-that he himself does.
-He will show him greater works than these,
-so that you will be amazed.
-[21] For as the Father raises the dead
-and gives them life,
-even so the Son also gives life
-to whom he wants.
-[22] For the Father judges no one,
-but he has given all judgment to the Son,
-[23] so that all may honor the Son,
-even as they honor the Father.
-He who doesn’t honor the Son
-doesn’t honor the Father
-who sent him.
-[24] Most certainly I tell you,
-he who hears my word
-and believes him
-who sent me
-has eternal life.
-He doesn’t come into judgment,
-but has passed out of death into life.
-[25] Most certainly I tell you,
-the hour comes,
-and now is,
+“I tell you the truth:
+The Son can do nothing by himself.
+He can only do what he sees the Father doing.
+Whatever the Father does, the Son does too.
+[20] The Father loves the Son.
+He shows him everything he himself does.
+And he will show him even greater works than these.
+Then you will be amazed.
+[21] The Father raises the dead and gives them life.
+In the same way, the Son gives life to anyone he wants to.
+[22] The Father judges no one.
+He has given all judging to the Son.
+[23] Then everyone will honor the Son, just as they honor the Father.
+Whoever doesn’t honor the Son doesn’t honor the Father who sent him.
+[24] “I tell you the truth:
+Whoever hears my word and believes the one who sent me has eternal life.
+He will not be judged.
+He has already passed from death into life.
+[25] I tell you the truth:
+The hour is coming, and it is already here,
 when the dead will hear the voice of the Son of God.
-And those who hear
-will live.
-[26] For as the Father has life in himself,
-even so he gave to the Son also
-to have life in himself.
-[27] He also gave him authority
-to carry out judgment,
-because he is a son of man.
-[28] Don’t be amazed at this.
-For the hour comes
-in which all who are in the tombs
-will hear his voice.
-[29] They will come out:
-those who have done good,
-to the resurrection of life;
-and those who have done evil,
-to the resurrection of judgment.
+And those who hear it will live.
+[26] The Father has life in himself.
+In the same way, he has let the Son have life in himself too.
+[27] He has also given him the power to judge, because he is a son of man.
+[28] Don’t be surprised at this.
+The hour is coming when all who are in the tombs will hear his voice.
+[29] They will come out.
+Those who have done good will rise to life.
+Those who have done evil will rise to be judged.
 [30] I can do nothing by myself.
-As I hear, I judge.
-And my judgment is righteous,
-because I don’t seek my own will,
-but the will of my Father
-who sent me.”
+I judge as I hear.
+And my judging is fair,
+because I don’t look for what I want.
+I look for what my Father wants, who sent me.
 
 > **What does this mean?**
 > Jesus explains his close bond with God the Father. The Son does nothing alone, but always together with the Father, like a son who learns from his father.
@@ -160,66 +116,43 @@ who sent me.”
 
 ## Witnesses for Jesus (Verses 31–47)
 
-[31] “If I testify about myself,
-my witness is not valid.
-[32] It is another
-who testifies about me.
-And I know
-that the testimony is true
-which he gives about me.
-[33] You have sent to John,
-and he has testified to the truth.
-[34] But the testimony which I receive is not from man.
-However, I say these things
-so that you may be saved.
-[35] John was the burning
-and shining lamp.
-And you were willing for a while
-to rejoice in his light.
-[36] But the testimony which I have
-is greater than that of John.
-For the works
-which the Father gave me
-to finish,
-the very works that I do,
-testify about me
-that the Father has sent me.
-[37] The Father himself,
-who sent me,
-has testified about me.
-You have never heard his voice
-nor seen his form.
-[38] And you don’t have his word living in you,
-because you don’t believe him
-whom he sent.
-[39] You search the Scriptures,
-because you think
-that in them you have eternal life.
-And these are the very ones
-that testify about me.
-[40] Yet you will not come to me,
-so that you may have life.
-[41] I don’t receive glory from men.
-[42] But I know you:
-You don’t have God’s love in yourselves.
-[43] I have come in my Father’s name,
-and you don’t receive me.
-If another comes in his own name,
-you will receive him.
-[44] How can you believe,
-when you receive glory from one another
-and don’t seek the glory
-that comes from the only God?
-[45] Don’t think
-that I will accuse you before the Father.
-There is one who accuses you:
-Moses,
-on whom you have set your hope.
-[46] For if you believed Moses,
-you would believe me.
-For he wrote about me.
-[47] But if you don’t believe his writings,
-how will you believe my words?”
+[31] “If I am the only one who speaks for myself, what I say is not valid.
+[32] But there is someone else who speaks for me.
+And I know that what he says about me is true.
+[33] You sent messengers to John.
+And he told the truth.
+[34] But I don’t accept the word of a human being about me.
+I am saying these things so that you can be saved.
+[35] John was a lamp that burned and gave light.
+For a while you were happy to enjoy his light.
+[36] But I have a witness that is greater than John.
+The Father gave me works to finish.
+These works that I am doing speak for me.
+They show that the Father has sent me.
+[37] And the Father who sent me has spoken for me himself.
+You have never heard his voice.
+You have never seen what he looks like.
+[38] And his word does not live in you,
+because you don’t believe the one he sent.
+[39] “You study the Scriptures,
+because you think that they give you eternal life.
+And the Scriptures are the very ones that speak about me.
+[40] But you don’t want to come to me to have life.
+[41] I don’t accept honor from people.
+[42] But I know you.
+I know that you don’t have God’s love in you.
+[43] I have come in my Father’s name, and you don’t accept me.
+If someone else comes in his own name, you will accept him.
+[44] You accept honor from each other.
+But you don’t look for the honor that comes from the only God.
+So how can you believe?
+[45] “Don’t think that I will accuse you in front of the Father.
+Someone else accuses you: Moses.
+And you have put your hope in him.
+[46] If you believed Moses, you would believe me,
+because he wrote about me.
+[47] But if you don’t believe what he wrote,
+how will you believe what I say?”
 
 > **What does this mean?**
 > According to the law of Moses, at least two witnesses were needed (Deuteronomy 19:15). Jesus names several: John the Baptizer, his own works, the Father himself and the Holy Scriptures.

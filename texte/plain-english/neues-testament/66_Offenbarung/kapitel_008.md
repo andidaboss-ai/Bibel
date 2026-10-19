@@ -6,26 +6,20 @@
 ## Silence in heaven and the prayers (Verses 1–5)
 
 [1] When the Lamb opened the seventh seal,
-there was silence in heaven
-for about half an hour.
-[2] And I saw the seven angels
-who stand before God.
-Seven trumpets were given to them.
-[3] Another angel came
-and stood over the altar.
+heaven was silent for about half an hour.
+[2] I saw the seven angels who stand before God.
+They were given seven trumpets.
+[3] Another angel came and stood over the altar.
 He had a golden censer.
 A censer is a bowl for burning incense.
-Much incense was given to him,
-so that he would add it to the prayers of all the saints
-on the golden altar which was before the throne.
-[4] And the smoke of the incense,
-with the prayers of the saints,
-went up before God out of the angel’s hand.
-[5] Then the angel took the censer,
-filled it with the fire of the altar
-and threw it on the earth.
-Thunders, sounds, lightnings
-and an earthquake followed.
+He was given a lot of incense.
+He was to add it to the prayers of all the saints on the golden altar before the throne.
+[4] The smoke of the incense went up before God out of the angel’s hand,
+together with the prayers of the saints.
+[5] The angel took the censer.
+He filled it with fire from the altar.
+Then he threw it down on the earth.
+Thunder, loud sounds, lightning, and an earthquake followed.
 
 > **What does this mean?**
 > Verse 1: After all the noise it suddenly becomes completely still. All of heaven holds its breath. Perhaps it is also the silence so that God can hear the prayers.
@@ -36,39 +30,31 @@ and an earthquake followed.
 
 ## The first four trumpets (Verses 6–12)
 
-[6] The seven angels
-who had the seven trumpets
-prepared themselves
-to sound them.
-[7] The first sounded.
-Then there came hail and fire,
-mixed with blood,
-and they were thrown to the earth.
-One third of the earth was burned up,
-one third of the trees were burned up,
-and all green grass was burned up.
-[8] The second angel sounded.
-Then something like a great burning mountain
-was thrown into the sea.
-And one third of the sea became blood.
-[9] One third of the living creatures in the sea died,
-and one third of the ships were destroyed.
-[10] The third angel sounded.
+[6] The seven angels who had the seven trumpets got ready to blow them.
+[7] The first angel blew his trumpet.
+Then hail and fire came, mixed with blood.
+They were thrown down on the earth.
+One third of the earth burned up.
+One third of the trees burned up.
+And all the green grass burned up.
+[8] The second angel blew his trumpet.
+Then something like a great burning mountain was thrown into the sea.
+One third of the sea became blood.
+[9] One third of the living creatures in the sea died.
+One third of the ships were destroyed.
+[10] The third angel blew his trumpet.
 Then a great star fell from the sky.
 It was burning like a torch.
-It fell on one third of the rivers
-and on the springs of water.
+It fell on one third of the rivers and on the springs of water.
 [11] The name of the star is “Wormwood.”
 One third of the waters became wormwood.
-Many people died from the waters,
-because they were made bitter.
-[12] The fourth angel sounded.
+Many people died from the waters, because the waters had become bitter.
+[12] The fourth angel blew his trumpet.
 Then one third of the sun was struck,
-one third of the moon
-and one third of the stars,
-so that one third of them would be darkened.
-The day wouldn’t shine for one third of it,
-and the night in the same way.
+and one third of the moon, and one third of the stars.
+So one third of them became dark.
+For one third of the day there was no light,
+and the same happened to the night.
 
 > **What does this mean?**
 > At that time trumpets were signal horns. They announced something important: a war, a feast or the coming of a king.
@@ -81,18 +67,12 @@ and the night in the same way.
 
 ## An eagle warns (Verse 13)
 
-[13] And I saw,
-and I heard an eagle
-flying high up in the sky.
-It said with a loud voice,
-“Woe!
-Woe!
-Woe to those
-who dwell on the earth,
-because of the other trumpets
-which the three angels are yet to sound!”
+[13] I looked, and I heard an eagle flying high in the sky.
+It called out with a loud voice,
+“How terrible! How terrible! How terrible it will be for those who live on the earth!
+For the other three angels are still going to blow their trumpets!”
 
 > **What does this mean?**
-> The eagle announces: Even harder things are coming. The three “Woe”s stand for the three last trumpets.
+> The eagle announces: Even harder things are coming. The three cries of “How terrible!” stand for the three last trumpets.
 > Some manuscripts have “angel” instead of “eagle.”
-> In the Revelation, “those who dwell on the earth” often means the people who set themselves against God.
+> In the Revelation, “those who live on the earth” often means the people who set themselves against God.
