@@ -5,40 +5,30 @@
 
 ## God remains faithful (Verses 1–8)
 
-[1] Then what advantage does the Jew have?
-Or what is the benefit of circumcision?
-[2] Much,
-in every way!
-First of all:
-They were entrusted with the words of God.
-[3] What if
-some were without faith?
-Will their lack of faith cancel the faithfulness of God?
-[4] May it never be!
-Let God be found true,
-even if every person is a liar.
-As it is written,
-“that you might be justified in your words,
-and might prevail when you come into judgment.”
-[5] But if our unrighteousness
-shows the righteousness of God even more clearly,
-what will we say?
-Is God unrighteous
-when he brings wrath?
-I speak like people do.
-[6] May it never be!
-For then how will God judge the world?
-[7] For if through my lie
-the truth of God becomes even greater,
-to his glory,
-why am I still judged as a sinner?
-[8] And why not say,
-“Let’s do evil,
-that good may come”?
-Some people slander us
-and claim
-that we say this.
-Those who say so are justly condemned.
+[1] So what advantage does the Jew have?
+What good is circumcision?
+[2] It is good in many ways!
+First of all, God trusted the Jews with his words.
+[3] What if some of them were not faithful?
+Does that mean that God is not faithful?
+[4] Of course not!
+God is always true, even if every person is a liar.
+As it is written:
+“So you are shown to be right in what you say.
+You win when you are judged.”
+[5] But maybe our wrongdoing shows even more clearly that God is right.
+What can we say then?
+Is God unfair when he punishes us in his anger?
+(I am speaking the way people talk.)
+[6] Of course not!
+If that were so, how could God judge the world?
+[7] Maybe my lie makes God’s truth shine even more.
+Maybe it brings him more glory.
+Then why am I still judged as a sinner?
+[8] Then why not say, “Let’s do evil, so that good may come of it”?
+Some people slander us.
+They claim that we say this.
+They deserve to be condemned.
 
 > **What does this mean?**
 > Verses 1–2: Paul says clearly: The advantage of the Jews is great. God entrusted his word, the Holy Scriptures, to them.
@@ -50,41 +40,31 @@ Those who say so are justly condemned.
 
 ## All people need God’s grace (Verses 9–20)
 
-[9] What then?
-Are we better than they?
-No, in no way.
-For we have already shown:
-Jews and Greeks
-are all under the power of sin.
-[10] As it is written,
-“There is no one righteous;
-no, not one.
-[11] There is no one
-who understands.
-There is no one
-who seeks after God.
+[9] So what does this mean?
+Are we better than they are?
+No, not at all!
+We have already shown that all people are under the power of sin.
+That is true of Jews and of Greeks.
+[10] As it is written:
+“There is no one righteous; no, not one.
+[11] There is no one who understands.
+There is no one who looks for God.
 [12] They have all turned away.
-They have together become useless.
-There is no one
-who does good,
-no, not so much as one.”
-[13] “Their throat is an open tomb.
-With their tongues they have used deceit.”
-“The poison of vipers is under their lips.”
+All of them together have become useless.
+There is no one who does good, no, not even one.”
+[13] “Their throat is an open grave.
+They use their tongues to lie.”
+“The poison of snakes is under their lips.”
 [14] “Their mouth is full of cursing and bitterness.”
-[15] “Their feet are swift to shed blood.
-[16] Destruction and misery are in their ways.
-[17] The way of peace, they haven’t known.”
-[18] “There is no fear of God before their eyes.”
-[19] Now we know:
-Whatever the law says,
-it says to those
-who are under the law.
-So every mouth is to be closed,
-and all the world is to be brought under the judgment of God.
-[20] For by the works of the law
-no one will be justified in his sight.
-For through the law comes the knowledge of sin.
+[15] “Their feet run quickly to shed blood.
+[16] Wherever they go, they leave ruin and misery.
+[17] They have never known the way of peace.”
+[18] “They have no fear of God at all.”
+[19] We know that the law speaks to those who live under the law.
+So every mouth must be closed.
+The whole world must stand before God’s judgment.
+[20] For no one will be justified before God by the works of the law.
+The law only shows us what sin is.
 
 *justified* = declared righteous by God
 
@@ -98,48 +78,39 @@ For through the law comes the knowledge of sin.
 
 ## Made right by grace (Verses 21–31)
 
-[21] But now the righteousness of God has been revealed
-apart from the law.
-The law and the prophets testify to it.
-[22] It is the righteousness of God
-through faith in Jesus Christ,
-to all and on all
-who believe.
-For there is no distinction.
-[23] For all have sinned,
-and fall short of the glory of God.
-[24] They are justified freely
-by his grace
-through the redemption
-that is in Christ Jesus.
-[25] God put him forward as an atoning sacrifice,
-through faith in his blood.
-In this way God wanted to show his righteousness.
-For in his patience
-he had passed over the sins done before.
-[26] So now, at this present time, he shows his righteousness:
-He himself is just,
-and he makes righteous the one
-who has faith in Jesus.
-[27] Where then is the boasting?
-It is excluded.
-By what kind of law?
-By the law of works?
-No,
-but by a law of faith.
-[28] For we hold
-that a person is justified by faith
-apart from the works of the law.
-[29] Or is God the God of Jews only?
-Isn’t he the God of Gentiles also?
-Yes,
-of Gentiles also.
-[30] For there is one God.
-He will justify the circumcised by faith
-and the uncircumcised through faith.
-[31] Do we then cancel the law through faith?
-May it never be!
-No, we establish the law.
+[21] But now God has shown his righteousness.
+He has shown it apart from the law.
+The law and the prophets also speak about it.
+[22] God makes people righteous through faith in Jesus Christ.
+He does this for all who believe.
+There is no difference between people.
+[23] For all have sinned, and fall short of the glory of God.
+[24] But God makes them righteous as a free gift, by his grace.
+He does this through the redemption that is in Christ Jesus.
+That means: Christ Jesus sets them free.
+[25] God gave Jesus as an atoning sacrifice, through his blood.
+People receive this through faith.
+In this way God wanted to show that he is righteous.
+For God was patient.
+He did not punish the sins people had done before.
+[26] Now, at this time, God shows his righteousness:
+He himself is righteous.
+And he makes righteous everyone who has faith in Jesus.
+[27] So can anyone boast?
+No, there is no room for boasting.
+Why not?
+Because of the law of works?
+No, because of the law of faith.
+[28] So we say: A person is justified by faith, apart from the works of the law.
+[29] Or is God only the God of the Jews?
+Isn’t he also the God of the Gentiles?
+Yes, he is the God of the Gentiles too.
+[30] For there is only one God.
+He will justify the circumcised by faith.
+And he will justify the uncircumcised through faith.
+[31] So does faith mean that the law no longer counts?
+Of course not!
+No, faith makes the law stand firm.
 
 *redemption* = being set free, being bought free
 *atoning sacrifice* = an offering that makes peace between God and people
