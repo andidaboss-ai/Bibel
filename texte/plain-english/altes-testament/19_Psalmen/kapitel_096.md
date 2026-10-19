@@ -39,7 +39,7 @@ The world also stands firm. It cannot be moved.
 He will judge the peoples fairly.
 
 > **What does this mean?**
-> Verses 7–9 remind us of Psalm 29:1–2. But there it was the heavenly beings. Here it is the “families of the nations”, that is, all people.
+> Verses 7–9 remind us of Psalm 29:1–2. But there it was the heavenly beings. Here it is the families of the nations, that is, all people.
 > Verse 10: The good news for the world: “The LORD reigns!” That means: The LORD is King! He will judge fairly.
 
 ---

@@ -41,4 +41,4 @@ then Jacob will be full of joy, and Israel will be glad.
 
 > **What does this mean?**
 > Verse 5 is different from Psalm 14:5–6. Here it is about an enemy army that surrounds Jerusalem. Suddenly the enemies become afraid, even though there is no reason to be seen. God has made them run away. Their bones lie scattered on the field.
-> Verse 6: The WEB says here “brings his people back from captivity.” The Hebrew word can also mean “turns their fortunes around” (compare Psalm 14:7).
+> Verse 6: The WEB says here “brings his people back from captivity.” The Hebrew word can also mean that God “turns things around for his people” (compare Psalm 14:7).
