@@ -5,94 +5,64 @@
 
 ## Jesus washes his disciples’ feet (Verses 1–20)
 
-[1] It was before the feast of the Passover.
-Jesus knew
-that his time had come
-to leave this world and go to the Father.
-He had loved his own
-who were in the world.
-And he loved them to the end.
-[2] It was during supper.
-The devil had already put it into the heart of Judas Iscariot,
-Simon’s son,
-to betray Jesus.
-[3] Jesus knew
-that the Father had given all things into his hands,
-and that he had come from God
-and was going to God.
-[4] So he got up from supper,
-laid aside his outer garments,
-took a towel,
-and wrapped it around his waist.
-[5] Then he poured water into the basin.
-He began
-to wash the disciples’ feet
-and to wipe them with the towel
-that was wrapped around him.
+[1] It was just before the Passover feast.
+Jesus knew that his hour had come.
+It was time for him to leave this world and go to the Father.
+He had loved his own people who were in the world.
+He loved them to the end.
+[2] They were eating supper.
+The devil had already put the idea into the heart of Judas Iscariot, Simon’s son, to betray Jesus.
+[3] Jesus knew that the Father had put everything into his hands.
+He knew that he had come from God and was going back to God.
+[4] So he got up from the table.
+He took off his outer clothes.
+He took a towel and tied it around his waist.
+[5] Then he poured water into a bowl.
+He began to wash the disciples’ feet.
+He dried them with the towel that was tied around him.
 [6] Then he came to Simon Peter.
 Peter said to him,
-“Lord, do you wash my feet?”
+“Lord, are you going to wash my feet?”
 [7] Jesus answered him,
-“You don’t know what I am doing now,
-but you will understand later.”
+“You don’t understand now what I am doing.
+But later you will understand.”
 [8] Peter said to him,
 “You will never wash my feet!”
 Jesus answered him,
-“If I don’t wash you,
-you have no part with me.”
+“If I don’t wash you, you have no part with me.”
 [9] Simon Peter said to him,
-“Lord, not my feet only,
-but also my hands and my head!”
+“Lord, then don’t wash only my feet.
+Wash my hands and my head too!”
 [10] Jesus said to him,
-“Someone who has bathed
-only needs to have his feet washed,
-but is completely clean.
-You are clean,
-but not all of you.”
-[11] For he knew
-who would betray him.
-That is why he said,
-“You are not all clean.”
-[12] When he had washed their feet,
-put his outer garment back on,
-and sat down again,
-he said to them,
-“Do you know
-what I have done to you?
+“Someone who has had a bath only needs to wash his feet.
+The rest of him is completely clean.
+You are clean, but not all of you.”
+[11] Jesus knew who was going to betray him.
+That is why he said, “Not all of you are clean.”
+[12] Jesus finished washing their feet.
+He put his outer clothes back on and sat down again.
+Then he said to them,
+“Do you understand what I have done for you?
 [13] You call me ‘Teacher’ and ‘Lord.’
-And you say so correctly,
-for so I am.
-[14] If I then,
-the Lord and the Teacher,
-have washed your feet,
-you also ought to wash one another’s feet.
-[15] For I have given you an example,
-so that you also should do
-as I have done to you.
-[16] Most certainly I tell you,
-a servant is not greater than his lord,
-and one who is sent is not greater than he
-who sent him.
-[17] If you know these things,
-blessed are you
-if you do them.
-[18] I don’t speak about all of you.
-I know
-whom I have chosen.
-But the Scripture must be fulfilled:
-‘He who eats bread with me
-has lifted up his heel against me.’
-[19] I tell you now,
-before it happens,
-so that when it happens,
-you may believe
-that I am he.
-[20] Most certainly I tell you,
-he who receives whomever I send
-receives me.
-And he who receives me
-receives him
-who sent me.”
+You are right, because that is what I am.
+[14] I am your Lord and Teacher, and I have washed your feet.
+So you also should wash each other’s feet.
+[15] I have given you an example.
+You should do what I have done for you.
+[16] I tell you the truth:
+A servant is not greater than his master.
+And a messenger is not greater than the one who sent him.
+[17] Now you know these things.
+You will be blessed if you do them.
+[18] I am not talking about all of you.
+I know the ones I have chosen.
+But the Scriptures must come true:
+‘The one who eats bread with me has lifted up his heel against me.’
+[19] I am telling you this now, before it happens.
+Then, when it happens, you will believe that I am he.
+[20] I tell you the truth:
+Whoever welcomes someone I send welcomes me.
+And whoever welcomes me welcomes the one who sent me.”
 
 > **What does this mean?**
 > John tells the Last Supper differently from the other Gospels. He does not report about bread and wine, but about the washing of feet.
@@ -108,48 +78,36 @@ who sent me.”
 
 ## Jesus announces that he will be betrayed (Verses 21–30)
 
-[21] When Jesus had said this,
-he was troubled in spirit
-and testified,
-“Most certainly I tell you,
-one of you will betray me.”
-[22] The disciples looked at one another.
-They were confused
-about whom he meant.
-[23] One of his disciples,
-whom Jesus loved,
-was at the table, leaning against Jesus’ chest.
-[24] Simon Peter waved to him
-and said to him,
-“Tell us
-who it is he is speaking of.”
-[25] So he leaned back on Jesus’ chest
-and asked him,
-“Lord, who is it?”
+[21] After Jesus said this, he was deeply upset in his spirit.
+He said openly,
+“I tell you the truth:
+One of you will betray me.”
+[22] The disciples looked at each other.
+They had no idea which one of them he meant.
+[23] One of his disciples was lying at the table close beside Jesus.
+Jesus loved this disciple.
+[24] Simon Peter waved to him to get his attention.
+He said to him,
+“Ask him who he is talking about.”
+[25] So that disciple leaned back against Jesus.
+He asked him, “Lord, who is it?”
 [26] Jesus answered,
-“It is he to whom I will give this piece of bread
-when I have dipped it.”
-He dipped the piece of bread
-and gave it to Judas,
-the son of Simon Iscariot.
-[27] After the piece of bread,
-Satan entered into him.
+“It is the one I will give this piece of bread to, after I dip it in the dish.”
+Then he dipped the piece of bread.
+He gave it to Judas, the son of Simon Iscariot.
+[27] After Judas took the bread, Satan went into him.
 Then Jesus said to him,
-“What you do,
-do quickly.”
-[28] But nobody at the table knew
-why he said this to him.
-[29] Because Judas had the money box,
-some thought
-that Jesus was telling him,
-“Buy what things we need for the feast,”
-or that he should give something to the poor.
-[30] When Judas had taken the piece of bread,
-he went out immediately.
-And it was night.
+“What you are going to do, do it quickly.”
+[28] No one at the table knew why Jesus said this to him.
+[29] Judas kept the money box.
+So some of them thought that Jesus was telling him,
+“Buy what we need for the feast.”
+Or they thought that Jesus wanted him to give something to poor people.
+[30] Judas took the piece of bread and went out right away.
+It was night.
 
 > **What does this mean?**
-> Verse 23: “One of his disciples, whom Jesus loved”: This disciple is mentioned here for the first time. According to old tradition it is John. That is not certain.
+> Verse 23: The disciple whom “Jesus loved”: This disciple is mentioned here for the first time. According to old tradition it is John. That is not certain.
 > At festive meals people lay on cushions. So the disciple could lean his head against Jesus.
 > Verse 26: Handing someone a piece of bread was a sign of friendship and honor. Jesus offers Judas his friendship to the very end.
 > Verse 30: “It was night”: Night is a picture of the darkness into which Judas goes out.
@@ -159,41 +117,32 @@ And it was night.
 
 ## The new commandment (Verses 31–38)
 
-[31] When Judas had gone out,
-Jesus said,
-“Now the Son of Man has been glorified,
-and God has been glorified in him.
-[32] If God has been glorified in him,
-God will also glorify him in himself.
-And he will glorify him immediately.
-[33] Little children,
-I will be with you only a little while longer.
+[31] After Judas had gone out, Jesus said,
+“Now the Son of Man has been glorified.
+And God has been glorified in him.
+[32] God has been glorified in him.
+So God will also glorify the Son in himself.
+And he will do it right away.
+[33] Little children, I will be with you only a little while longer.
 You will look for me.
-And as I said to the Jews,
-‘Where I am going,
-you can’t come,’
-so now I tell you.
-[34] A new commandment I give to you:
-that you love one another.
-Just as I have loved you,
-you also love one another.
-[35] By this everyone will know
-that you are my disciples,
-if you have love for one another.”
+I told the Jews, ‘You can’t come where I am going.’
+Now I am telling you the same thing.
+[34] Here is a new commandment for you:
+Love each other.
+Love each other in the same way that I have loved you.
+[35] If you love each other, then everyone will know that you are my disciples.”
 [36] Simon Peter said to him,
 “Lord, where are you going?”
 Jesus answered,
-“Where I am going,
-you can’t follow now.
-But you will follow afterwards.”
+“You can’t follow me now to the place where I am going.
+But you will follow me later.”
 [37] Peter said to him,
 “Lord, why can’t I follow you now?
-I will lay down my life for you.”
+I will give my life for you.”
 [38] Jesus answered him,
-“Will you lay down your life for me?
-Most certainly I tell you,
-the rooster won’t crow
-until you have denied me three times.”
+“Will you really give your life for me?
+I tell you the truth:
+Before the rooster crows, you will say three times that you don’t know me.
 
 > **What does this mean?**
 > Verses 31–32: Jesus’ suffering and death is at the same time his glorification. On the cross God’s love shows most clearly.

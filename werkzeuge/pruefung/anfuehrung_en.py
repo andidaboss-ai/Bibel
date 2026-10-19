@@ -29,12 +29,14 @@ def zeichen(z):
 
 def pruefe_zeile(z, stapel, neue_zeile):
     fehler = []
-    erstes = True
+    # Fortsetzung einer offenen Rede am Zeilenanfang: “ oder “‘ öffnen die schon offenen Ebenen neu
+    rest = re.sub(r"^\s*(\[\d+\]\s*)?", "", z)
+    kopf = re.match(r"[“‘]*", rest).group()
+    ueberspringen = len(kopf) if neue_zeile and kopf and "".join(stapel).endswith(kopf) else 0
     for i, ch in zeichen(z):
         if ch in "“‘":
-            # Fortsetzung einer offenen Rede am Zeilenanfang
-            if erstes and neue_zeile and stapel and stapel[-1] == ch and not z[:i].strip(" [0-9]"):
-                erstes = False
+            if ueberspringen:
+                ueberspringen -= 1
                 continue
             stapel.append(ch)
         elif ch == "’?":
@@ -49,7 +51,6 @@ def pruefe_zeile(z, stapel, neue_zeile):
                         stapel.pop()
             else:
                 stapel.pop()
-        erstes = False
     return fehler
 
 

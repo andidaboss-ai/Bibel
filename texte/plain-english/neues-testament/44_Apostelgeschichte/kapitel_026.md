@@ -5,37 +5,24 @@
 
 ## The hope of Israel (Verses 1–8)
 
-[1] Agrippa said to Paul,
-“You may speak for yourself.”
-Then Paul stretched out his hand
-and made his defense:
-[2] “King Agrippa,
-I think myself happy
-that I may make my defense before you today
-concerning all the things
-the Jews accuse me of.
-[3] Especially
-because you know all the customs and questions among the Jews well.
-So I beg you
-to hear me patiently.
-[4] All the Jews know my way of life from my youth.
-From the beginning I lived among my own nation
-and at Jerusalem.
-[5] They have known me from the first.
-If they are willing,
-they can testify:
-I lived as a Pharisee,
-following the strictest group of our religion.
-[6] And now I stand here to be judged
-for the hope of the promise
-made by God to our fathers.
-[7] Our twelve tribes earnestly serve God night and day
-and hope
-to reach this promise.
-Concerning this hope I am accused by the Jews,
-King Agrippa!
-[8] Why do you think it is unbelievable
-that God raises the dead?
+[1] Agrippa said to Paul, “You may speak for yourself.”
+Then Paul raised his hand and began his defense:
+[2] “King Agrippa, I am glad that I can defend myself in front of you today.
+The Jews accuse me of many things.
+[3] And you know all the customs and questions of the Jews very well.
+So please listen to me patiently.
+[4] All the Jews know how I have lived since I was young.
+From the beginning I lived among my own people and in Jerusalem.
+[5] They have known me for a long time.
+If they are willing, they can say it:
+I lived as a Pharisee.
+The Pharisees are the strictest group in our religion.
+[6] And now I stand here on trial because of my hope.
+I hope for what God promised our fathers.
+[7] Our twelve tribes hope to see this promise come true.
+That is why they serve God with all their hearts, night and day.
+And because of this hope I am accused by the Jews, King Agrippa!
+[8] Why do you all think it is impossible to believe that God raises the dead?
 
 > **What does this mean?**
 > Verses 4–5: Paul stresses his Jewish background. He was a Pharisee, so he kept the law very carefully.
@@ -47,77 +34,49 @@ that God raises the dead?
 
 ## Paul tells how he was called (Verses 9–23)
 
-[9] I myself was sure
-that I ought to do many things against the name of Jesus of Nazareth.
-[10] I also did this in Jerusalem.
-I locked up many of the saints in prisons.
-I had received the authority for this from the chief priests.
-And when they were put to death,
-I gave my vote against them.
-[11] I often punished them in all the synagogues
-and tried
-to force them to blaspheme.
-In my great rage against them
-I persecuted them even to foreign cities.
-[12] So I traveled to Damascus
-with the authority and commission of the chief priests.
-[13] At noon on the way,
-O king,
-I saw a light from the sky,
-brighter than the sun.
-It shone around me
-and those who traveled with me.
+[9] I myself was sure that I had to do many things against the name of Jesus of Nazareth.
+[10] And that is what I did in Jerusalem.
+The chief priests gave me the power to put many of the saints in prison.
+And when they were put to death, I voted against them.
+[11] Many times I punished them in all the synagogues.
+I tried to force them to speak against God.
+I was so angry with them that I even went to cities in other countries to persecute them.
+[12] So I went to Damascus.
+The chief priests had given me the power and the orders to do this.
+[13] At noon, O king, I was on the road.
+I saw a light from the sky.
+It was brighter than the sun.
+It shone around me and the men traveling with me.
 [14] We all fell to the ground.
-Then I heard a voice
-saying to me in the Hebrew language,
-‘Saul, Saul,
-why are you persecuting me?
-It is hard for you
-to kick against the goads.’
-[15] I said,
-‘Who are you, Lord?’
-He said,
-‘I am Jesus,
-whom you are persecuting.
-[16] But get up
-and stand on your feet!
-For I have appeared to you
-to make you a servant and a witness:
-of the things which you have seen,
-and of the things which I will still show you.
-[17] I will rescue you
-from the people
-and from the Gentiles,
-to whom I send you.
-[18] You are to open their eyes,
-so that they may turn from darkness to light
-and from the power of Satan to God.
-So they will receive forgiveness of sins
-and an inheritance among those
-who are made holy by faith in me.’
-[19] So, King Agrippa,
-I was not disobedient to the heavenly vision.
-[20] Instead I declared first to the people in Damascus,
-then at Jerusalem
-and throughout all the country of Judea,
-and also to the Gentiles:
-They should repent,
-turn to God,
-and do works
-that fit with repentance.
-[21] For this reason the Jews seized me in the temple
-and tried
-to kill me.
-[22] But God has helped me.
-To this day I stand here
-and testify
-to small and great.
-I say nothing
-but what the prophets and Moses said would happen:
-[23] that the Christ must suffer,
-and that by the resurrection of the dead
-he would be the first to proclaim light
-both to these people and to the Gentiles.”
+Then I heard a voice speaking to me in the Hebrew language:
+‘Saul, Saul, why are you persecuting me?
+It is hard for you to kick against the goads.’
+[15] I asked, ‘Who are you, Lord?’
+He said, ‘I am Jesus, the one you are persecuting.
+[16] But get up and stand on your feet!
+I have appeared to you for this reason:
+I am choosing you to be my servant and my witness.
+You will tell what you have seen.
+And you will tell what I will still show you.
+[17] I will rescue you from your own people and from the Gentiles.
+I am sending you to them
+[18] to open their eyes.
+Then they will turn from darkness to light.
+They will turn from the power of Satan to God.
+Their sins will be forgiven.
+They will receive a share among those who are made holy by faith in me.’
+[19] So, King Agrippa, I obeyed the vision from heaven.
+[20] First I preached to the people in Damascus.
+Then I preached in Jerusalem and in the whole country of Judea.
+I also preached to the Gentiles.
+I told them that they should repent and turn to God.
+And they should do things that show they have repented.
+[21] That is why the Jews took hold of me in the temple and tried to kill me.
+[22] But God has helped me until this day.
+So I stand here and tell this to everyone, to the small and to the great.
+I say nothing except what the prophets and Moses said would happen:
+[23] The Christ would suffer.
+By rising from the dead, he would be the first to bring the message of light to these people and to the Gentiles.”
 
 *goad* = a pointed stick used to drive oxen
 
@@ -132,47 +91,26 @@ both to these people and to the Gentiles.”
 
 ## Agrippa and the question of faith (Verses 24–32)
 
-[24] While Paul was making his defense like this,
-Festus said with a loud voice,
-“Paul, you are crazy!
-Your great learning
-is driving you insane!”
-[25] But Paul said,
-“I am not crazy,
-most excellent Festus.
-I boldly speak words of truth and good sense.
-[26] For the king knows about these things.
-So I speak freely to him.
-For I am sure
-that none of these things is hidden from him.
-For this has not been done in a corner.
-[27] King Agrippa,
-do you believe the prophets?
-I know
-that you believe.”
-[28] Agrippa said to Paul,
-“With a little persuasion are you trying
-to make me a Christian?”
-[29] Paul said,
-“I pray to God
-that whether with little or with much,
-not only you,
-but also all
-who hear me today,
-might become such as I am,
-except for these chains.”
-[30] Then the king rose up,
-with the governor and Bernice
-and those
-who sat with them.
-[31] They went out
-and spoke to one another.
-They said,
-“This man does nothing
-that deserves death or chains.”
-[32] Agrippa said to Festus,
-“This man might have been set free
-if he had not appealed to Caesar.”
+[24] Paul was still defending himself in this way when Festus shouted, “Paul, you are crazy!
+All your learning is driving you insane!”
+[25] But Paul said, “I am not crazy, most excellent Festus.
+What I am saying is true and makes good sense.
+I say it boldly.
+[26] The king knows about these things.
+So I can speak freely to him.
+I am sure that none of these things is hidden from him.
+This has not been done in a corner.
+[27] King Agrippa, do you believe the prophets?
+I know that you believe them.”
+[28] Agrippa said to Paul, “With so little persuasion, are you trying to make me a Christian?”
+[29] Paul said, “Whether with little or with much, I pray to God for this:
+Not only you, but everyone who is listening to me today should become like me.
+But I do not wish these chains on anyone.”
+[30] Then the king stood up.
+The governor and Bernice and everyone who sat with them stood up too.
+[31] They went out and talked with one another.
+They said, “This man is doing nothing that deserves death or chains.”
+[32] Agrippa said to Festus, “This man could have been set free if he had not appealed to Caesar.”
 
 > **What does this mean?**
 > Verse 24: To Festus the resurrection sounds crazy. But Paul stays polite and calm.
