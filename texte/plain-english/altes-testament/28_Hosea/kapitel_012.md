@@ -25,7 +25,7 @@ He will pay him back for what he has done.
 [3] In the womb, he took hold of his brother’s heel.
 And as a grown man, he struggled with God.
 [4] Yes, he struggled with the angel and won.
-He wept and begged him for a blessing.
+He wept and pleaded with him.
 He found God at Bethel,
 and there God spoke with us –
 [5] the LORD, the God of Armies.
@@ -39,7 +39,7 @@ and always wait for your God.
 > – Even in the womb, he held on to the heel of his twin brother Esau (Genesis 25:26). The name “Jacob” sounds like “heel-holder,” and also like “cheater.”
 > – Later, he struggled with God a whole night by the river Jabbok and received the name “Israel” (“he struggles with God,” Genesis 32:22–30).
 > – At Bethel, God met him in the dream of the stairway to heaven (Genesis 28:10–22).
-> Verse 4: “He wept and begged him for a blessing” – this is a detail that is not written like this in Genesis. Jacob did not only fight. He also wept and asked for a blessing.
+> Verse 4: “He wept and pleaded with him” – this is a detail that is not written like this in Genesis. Jacob did not only fight. He also wept and pleaded with God.
 > The message: Jacob was not a perfect person either. He was a cheater. But he struggled with God and met him. In the same way, the people should turn back to God.
 > Verse 6: The way back is simple to say: “Hold on to kindness and justice, and always wait for your God.” That is a good summary of faith, for today too.
 

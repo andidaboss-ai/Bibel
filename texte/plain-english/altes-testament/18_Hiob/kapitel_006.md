@@ -103,7 +103,7 @@ I will surely not lie to your face.
 [29] Please turn back. Let there be no injustice.
 Yes, turn back. My cause is right.
 [30] Is there anything wrong on my tongue?
-Can’t my sense of taste tell what is harmful?
+Can’t my sense of taste tell what is harmful?”
 
 > **What does this mean?**
 > Job challenges his friends: If I have sinned, then show me where! Say it plainly!
