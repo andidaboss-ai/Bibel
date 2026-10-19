@@ -5,38 +5,38 @@
 
 ## Promise and warning (Verses 1–9)
 
-[1] When Solomon had finished building the LORD’s house
-and the king’s house and everything that Solomon wanted to build,
-[2] the LORD appeared to Solomon a second time,
+[1] Solomon finished building the LORD’s house and the king’s house.
+He finished everything that he wanted to build.
+[2] Then the LORD appeared to Solomon a second time,
 as he had appeared to him at Gibeon.
 [3] The LORD said to him,
-“I have heard your prayer and your request that you made before me.
-I have made this house holy, which you have built,
-to put my name there forever.
-And my eyes and my heart will be there always.
-[4] And as for you:
-if you walk before me as your father David walked,
-with a whole heart and honestly,
-and do everything that I have commanded you,
-and keep my statutes and my ordinances,
-[5] then I will make the throne of your kingdom over Israel firm forever,
-as I promised to your father David when I said,
-‘You will never be without a man on the throne of Israel.’
-[6] But if you turn away from following me, you or your children,
-and do not keep my commandments and my statutes that I have set before you,
-but go and serve other gods and worship them,
-[7] then I will cut Israel off from the land that I have given them.
-And I will throw this house, which I have made holy for my name, out of my sight.
-And Israel will become a proverb and a joke among all peoples.
-[8] And this house, as high as it is:
-everyone who passes by it will be shocked and will hiss.
-And they will say,
+“I have heard your prayer and your plea that you made before me.
+You have built this house, and I have made it holy.
+I have put my name there forever.
+My eyes and my heart will always be there.
+[4] Now you must live before me as your father David lived.
+He lived with an honest heart and did what was right.
+Do everything that I have commanded you.
+Keep my rules and my laws.
+[5] Then I will make the throne of your kingdom over Israel last forever.
+I promised this to your father David.
+I said, ‘There will always be a man from your family on the throne of Israel.’
+[6] But you or your children may turn away from following me.
+You may not keep my commandments and my rules that I have given you.
+You may go and serve other gods and worship them.
+[7] Then I will remove Israel from the land that I have given them.
+I have made this house holy for my name.
+But I will throw it away, out of my sight.
+Israel will become a saying and a joke among all peoples.
+[8] This house is so great.
+But everyone who passes by it will be shocked and will hiss.
+They will say,
 ‘Why has the LORD done this to this land and to this house?’
-[9] And they will answer,
-‘Because they abandoned the LORD their God,
-who brought their fathers out of the land of Egypt,
-and they held on to other gods
-and worshiped them and served them.
+[9] And people will answer,
+‘Because they left the LORD their God.
+He brought their fathers out of the land of Egypt.
+But they held on to other gods.
+They worshiped them and served them.
 That is why the LORD has brought all this disaster on them.’”
 
 > **What does this mean?**
@@ -49,16 +49,17 @@ That is why the LORD has brought all this disaster on them.’”
 
 ## Solomon and Hiram (Verses 10–14)
 
-[10] At the end of twenty years, in which Solomon had built the two houses,
-the LORD’s house and the king’s house,
-[11] – Hiram the king of Tyre had supplied Solomon with cedar and cypress wood
-and with gold, as much as he wanted –
-King Solomon gave Hiram twenty cities in the land of Galilee.
+[10] Solomon spent twenty years building the two houses,
+the LORD’s house and the king’s house.
+[11] Hiram, the king of Tyre, had given Solomon cedar wood and cypress wood
+and gold, as much as he wanted.
+After the twenty years, King Solomon gave Hiram twenty cities in the land of Galilee.
 [12] Hiram came out of Tyre to see the cities that Solomon had given him.
-But they did not please him.
+But he did not like them.
 [13] He said,
-“What cities are these that you have given me, my brother?”
-And he called them the land of Cabul, to this day.
+“My brother, what kind of cities are these that you have given me?”
+He called them the land of Cabul.
+They still have that name today.
 [14] Hiram sent the king about 4½ tons of gold.
 
 > **What does this mean?**
@@ -72,35 +73,36 @@ And he called them the land of Cabul, to this day.
 
 ## Solomon’s buildings and the forced labor (Verses 15–25)
 
-[15] This is the reason for the forced labor that King Solomon drafted:
-to build the LORD’s house, his own house, the Millo, the wall of Jerusalem,
-Hazor, Megiddo, and Gezer.
-[16] Pharaoh king of Egypt had gone up,
-had captured Gezer and burned it with fire,
-and had killed the Canaanites who lived in the city.
-And he had given it as a wedding gift to his daughter, Solomon’s wife.
+[15] This is why King Solomon made people do forced labor.
+He needed them to build the LORD’s house, his own house, the Millo, and the wall of Jerusalem.
+He also needed them to build Hazor, Megiddo, and Gezer.
+[16] Pharaoh, the king of Egypt, had attacked Gezer and captured it.
+He had burned it with fire.
+He had killed the Canaanites who lived in the city.
+Then he had given it as a wedding gift to his daughter, Solomon’s wife.
 [17] Solomon built up Gezer in the land, and Lower Beth Horon,
-[18] Baalath, and Tamar in the wilderness,
-[19] all the storage cities that Solomon had,
-the cities for his chariots and the cities for his horsemen,
-and whatever Solomon wanted to build for his pleasure in Jerusalem, in Lebanon,
+[18] Baalath, and Tamar in the wilderness.
+[19] He built all his storage cities,
+the cities for his chariots, and the cities for his horsemen.
+He built whatever he wanted to build in Jerusalem, in Lebanon,
 and in all the land that he ruled.
-[20] As for all the people who were left of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites,
-who were not of the children of Israel,
-[21] their descendants who were left after them in the land,
-whom the children of Israel were not able to destroy completely:
-from them Solomon drafted slave workers, to this day.
-[22] But Solomon did not make any of the children of Israel slaves.
-They were the soldiers, his servants, his princes, his captains,
+[20] Some people were still left of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
+They were not Israelites.
+[21] Their descendants were still left in the land.
+The Israelites had not been able to destroy them completely.
+Solomon made them his slave workers.
+They are slave workers to this day.
+[22] But Solomon did not make any Israelites slaves.
+They were his soldiers, his servants, his officials, his captains,
 and the commanders of his chariots and of his horsemen.
-[23] These were the 550 chief officers who were over Solomon’s work
-and who ruled over the people who did the work.
-[24] But Pharaoh’s daughter came up from David’s city to her house,
-which Solomon had built for her.
+[23] There were 550 chief officers in charge of Solomon’s work.
+They ruled over the people who did the work.
+[24] Pharaoh’s daughter moved up from David’s city to her own house.
+Solomon had built it for her.
 Then he built the Millo.
-[25] Three times a year Solomon offered burnt offerings and peace offerings on the altar
-that he had built for the LORD,
-and he burned incense with them on the altar that was before the LORD.
+[25] Three times a year Solomon offered burnt offerings and peace offerings
+on the altar that he had built for the LORD.
+With them he burned incense on the altar that was before the LORD.
 So he finished the house.
 
 > **What does this mean?**
@@ -114,13 +116,13 @@ So he finished the house.
 
 ## Solomon’s ships (Verses 26–28)
 
-[26] King Solomon built a fleet of ships in Ezion Geber, which is beside Eloth,
-on the shore of the Red Sea, in the land of Edom.
-[27] And Hiram sent his servants with the fleet,
-sailors who knew the sea,
-together with the servants of Solomon.
-[28] They came to Ophir and brought from there about 16 tons of gold,
-and they brought it to King Solomon.
+[26] King Solomon built a fleet of ships in Ezion Geber.
+It is near Eloth, on the shore of the Red Sea, in the land of Edom.
+[27] Hiram sent his servants with the ships.
+They were sailors who knew the sea.
+They sailed together with Solomon’s servants.
+[28] They came to Ophir and got about 16 tons of gold there.
+They brought it to King Solomon.
 
 > **What does this mean?**
 > Ezion Geber and Eloth are in the far south, on the Gulf of Aqaba. There Israel had a way to the sea toward the south, toward Arabia and Africa.

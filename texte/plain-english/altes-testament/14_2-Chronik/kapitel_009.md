@@ -5,46 +5,49 @@
 
 ## The queen of Sheba (Verses 1–12)
 
-[1] The queen of Sheba heard of the fame of Solomon.
+[1] The queen of Sheba heard how famous Solomon was.
 So she came to Jerusalem to test Solomon with hard questions.
-She came with a very great caravan,
-with camels that carried spices, a lot of gold, and precious stones.
-When she had come to Solomon,
-she talked with him about all that was in her heart.
+She came with a very large group of servants.
+She had camels that carried spices, a lot of gold, and precious stones.
+She came to Solomon
+and talked with him about everything that was on her mind.
 [2] Solomon answered all her questions.
-There was nothing hidden from Solomon that he didn’t explain to her.
-[3] The queen of Sheba saw the wisdom of Solomon,
-the house that he had built,
-[4] the food of his table, the seating of his servants,
-the service of his officials and their clothing,
-his cup bearers and their clothing,
-and the way up by which he went up to the LORD’s house.
-Then she was left breathless.
+Nothing was too hard for Solomon to explain to her.
+[3] The queen of Sheba saw how wise Solomon was.
+She saw the palace he had built.
+[4] She saw the food on his table and how his officials sat.
+She saw how his servants served and what clothes they wore.
+She saw his cup bearers and their clothes.
+And she saw the way he went up to the LORD’s house.
+It took her breath away.
 [5] She said to the king,
-“The report that I heard in my own land about your deeds and your wisdom was true.
-[6] But I didn’t believe their words until I came and saw it with my own eyes.
-Look, not even half of the greatness of your wisdom was told to me.
-You are greater than the fame that I heard!
-[7] Happy are your men,
-and happy are these servants of yours,
-who always stand before you and hear your wisdom.
-[8] Blessed be the LORD your God,
-who delighted in you and set you on his throne
+“In my own land I heard about the things you have done and about your wisdom.
+Everything I heard is true.
+[6] But I didn’t believe it until I came here and saw it with my own eyes.
+Now I see that they did not tell me even half of your great wisdom.
+You are greater than everything I heard about you!
+[7] Your men are happy!
+These servants of yours are happy!
+They always stand before you and hear your wisdom.
+[8] Praise the LORD your God!
+He was pleased with you and set you on his throne
 to be king for the LORD your God.
-Because your God loved Israel and wants to make them firm forever,
-he made you king over them,
+Your God loves Israel and wants to make them strong forever.
+That is why he made you king over them,
 to do justice and righteousness.”
-[9] She gave the king 120 talents of gold, about 9,000 pounds,
-a very great amount of spices, and precious stones.
-There had never been such spice as the queen of Sheba gave to King Solomon.
-[10] The servants of Huram and the servants of Solomon, who brought gold from Ophir,
-also brought algum trees and precious stones.
-[11] The king used the algum wood to make terraces for the LORD’s house and for the king’s house,
-and harps and stringed instruments for the singers.
-Nothing like these had been seen before in the land of Judah.
-[12] King Solomon gave the queen of Sheba all she wanted, whatever she asked,
-more than what she had brought to the king.
-So she turned and went to her own land, she and her servants.
+Righteousness means: what is right.
+[9] She gave the king 120 talents of gold, about 9,000 pounds.
+She also gave him a great amount of spices and precious stones.
+No one had ever brought such spices as the queen of Sheba gave King Solomon.
+[10] The servants of Huram and the servants of Solomon brought gold from Ophir.
+They also brought algum wood and precious stones.
+[11] The king used the algum wood to make terraces for the LORD’s house and for the king’s palace.
+He also made harps and stringed instruments for the singers from it.
+No one had ever seen anything like them in the land of Judah.
+[12] King Solomon gave the queen of Sheba everything she wanted.
+He gave her whatever she asked for.
+He gave her more than she had brought to him.
+Then she and her servants went back to her own land.
 
 > **What does this mean?**
 > The story is almost the same in 1 Kings 10.
@@ -59,30 +62,29 @@ So she turned and went to her own land, she and her servants.
 
 ## Solomon’s riches (Verses 13–21)
 
-[13] The weight of gold that came to Solomon in one year
-was 666 talents of gold, about 50,000 pounds.
-[14] That was besides the gold that the traders and merchants brought.
-All the kings of Arabia and the governors of the country brought gold and silver to Solomon.
-[15] King Solomon made 200 large shields of beaten gold.
-About 15 pounds of beaten gold went into each large shield.
-[16] He made 300 shields of beaten gold.
-About 7½ pounds of gold went into each shield.
+[13] Every year Solomon received 666 talents of gold, about 50,000 pounds.
+[14] Besides that, the traders and merchants brought gold.
+And all the kings of Arabia and the governors of the land brought gold and silver to Solomon.
+[15] King Solomon made 200 large shields of hammered gold.
+He used about 15 pounds of hammered gold for each large shield.
+[16] He made 300 smaller shields of hammered gold.
+He used about 7½ pounds of gold for each shield.
 The king put them in the House of the Forest of Lebanon.
-[17] The king also made a great throne of ivory
-and covered it with pure gold.
-[18] The throne had six steps and a footstool of gold,
-which were fastened to the throne.
-There were armrests on both sides of the seat,
-and two lions standing beside the armrests.
-[19] Twelve lions stood there on the six steps,
-on the one side and on the other.
-Nothing like it was made in any other kingdom.
-[20] All King Solomon’s drinking cups were of gold,
-and all the objects of the House of the Forest of Lebanon were of pure gold.
-Silver was not thought to be worth much in the days of Solomon.
-[21] For the king had ships that went to Tarshish with Huram’s servants.
-Once every three years the ships of Tarshish came
-and brought gold, silver, ivory, apes, and peacocks.
+[17] The king also made a great throne of ivory.
+He covered it with pure gold.
+[18] The throne had six steps and a footstool of gold.
+They were attached to the throne.
+On both sides of the seat there were armrests.
+Two lions stood beside the armrests.
+[19] Twelve lions stood on the six steps,
+one on each side of every step.
+Nothing like it had ever been made in any other kingdom.
+[20] All King Solomon’s drinking cups were made of gold.
+All the dishes in the House of the Forest of Lebanon were made of pure gold.
+In Solomon’s time, silver was not worth much.
+[21] The king had ships that sailed to Tarshish with Huram’s servants.
+Once every three years the ships of Tarshish came back.
+They brought gold, silver, ivory, apes, and peacocks.
 
 > **What does this mean?**
 > Solomon is unbelievably rich. The Bible says “666 talents of gold” (a talent is about 75 pounds), “600 shekels” and “300 shekels” (a shekel is about 0.4 ounces). 1 Kings 10:17 has “three minas” instead of 300 shekels.
@@ -96,18 +98,18 @@ and brought gold, silver, ivory, apes, and peacocks.
 ## Solomon’s wisdom and power (Verses 22–28)
 
 [22] So King Solomon was greater than all the kings of the earth in riches and wisdom.
-[23] All the kings of the earth wanted to come before Solomon
-to hear his wisdom, which God had put in his heart.
-[24] Each of them brought gifts every year:
-objects of silver, objects of gold, clothing, armor, spices, horses, and mules.
+[23] All the kings of the earth wanted to visit Solomon.
+They wanted to hear the wisdom that God had put in his heart.
+[24] Every year each of them brought him gifts:
+things made of silver and gold, clothes, weapons, spices, horses, and mules.
 [25] Solomon had 4,000 stalls for horses and chariots,
 and 12,000 horsemen.
-He placed them in the chariot cities and with the king in Jerusalem.
-[26] He ruled over all the kings from the River to the land of the Philistines,
+He kept them in the chariot cities and with him in Jerusalem.
+[26] He ruled over all the kings from the River to the land of the Philistines
 and to the border of Egypt.
-[27] The king made silver as common in Jerusalem as stones.
-And he made cedars as many as the sycamore trees in the lowland.
-[28] They brought horses for Solomon out of Egypt and out of all lands.
+[27] In Jerusalem the king made silver as common as stones.
+He made cedar wood as common as the sycamore trees in the foothills.
+[28] People brought horses for Solomon from Egypt and from all the other lands.
 
 > **What does this mean?**
 > God’s promise from Chapter 1 has come true: Solomon is richer and wiser than all kings. And verse 23 stresses: his wisdom came from God.
@@ -119,14 +121,14 @@ And he made cedars as many as the sycamore trees in the lowland.
 
 ## Solomon’s death (Verses 29–31)
 
-[29] The rest of the acts of Solomon, from first to last,
-are they not written in the history of Nathan the prophet,
-and in the prophecy of Ahijah the Shilonite,
-and in the visions of Iddo the seer about Jeroboam the son of Nebat?
-[30] Solomon reigned in Jerusalem over all Israel for 40 years.
-[31] Solomon died and joined his fathers.
+[29] Everything else that Solomon did, from first to last, is written down.
+It is in the records of Nathan the prophet,
+in the prophecy of Ahijah from Shiloh,
+and in the visions of Iddo the seer about Jeroboam, the son of Nebat.
+[30] Solomon ruled in Jerusalem over all Israel for 40 years.
+[31] Then Solomon died and joined his ancestors.
 He was buried in the city of his father David.
-And Rehoboam his son reigned in his place.
+And his son Rehoboam became king in his place.
 
 > **What does this mean?**
 > Chronicles names books of prophets as sources. Today they are lost.

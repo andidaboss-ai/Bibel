@@ -31,7 +31,7 @@ And the LORD will be honored.
 > – to comfort those who mourn.
 > “The year of the LORD’s favor” recalls the Year of Jubilee (Leviticus 25): Every 50 years, debts were to be canceled and slaves set free. A new beginning for everyone.
 > Verse 3: Instead of ashes on their heads (a sign of mourning), those who mourn receive a festive garland. Instead of mourning, the oil of joy.
-> In the synagogue in Nazareth, Jesus read these verses aloud and said: “Today this Scripture has been fulfilled in your hearing” (Luke 4:21). He stopped in the middle of verse 2, after the words about the year of the LORD’s favor, and did not read aloud the words about the day of vengeance. In Judaism, the speaker is mostly understood as the prophet himself, who brings this message to Israel.
+> In the synagogue in Nazareth, Jesus read these verses aloud and said: “Today this Scripture has been fulfilled in your hearing” (Luke 4:21). He stopped in the middle of verse 2, after the words about the year of the LORD’s favor, and did not read aloud the words about the day when God takes revenge. In Judaism, the speaker is mostly understood as the prophet himself, who brings this message to Israel.
 
 ---
 
