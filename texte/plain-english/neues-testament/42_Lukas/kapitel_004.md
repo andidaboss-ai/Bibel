@@ -5,62 +5,58 @@
 
 ## Jesus is tempted in the wilderness (Verses 1–13)
 
-[1] Jesus returned from the Jordan,
-full of the Holy Spirit.
-The Spirit led him into the wilderness
-[2] for forty days,
-and there he was tempted by the devil.
-He ate nothing in those days.
-When they were over,
-he was hungry.
+[1] Jesus was full of the Holy Spirit.
+He came back from the Jordan River.
+The Spirit led him into the wilderness.
+[2] There the devil tempted him for forty days.
+Tempting means: trying to get someone to do wrong.
+Jesus ate nothing during those days.
+When the forty days were over, he was hungry.
 [3] The devil said to him,
 “If you are the Son of God,
-command this stone
-to become bread.”
+tell this stone to become bread.”
 [4] Jesus answered him,
 “It is written,
-‘Man shall not live by bread alone,
-but by every word of God.’”
-[5] The devil led him up on a high mountain
-and showed him in a moment of time
-all the kingdoms of the world.
+‘People do not live from bread alone.
+They also live from every word of God.’”
+[5] Then the devil led him up on a high mountain.
+In one moment he showed him all the kingdoms of the world.
 [6] The devil said to him,
-“I will give you all this power
-and their glory.
-For it has been handed over to me,
-and I give it to whomever I want.
-[7] So if you will worship before me,
-it will all be yours.”
+“I will give you power over all of this,
+and all its glory.
+For it has been given to me.
+And I can give it to anyone I want.
+[7] So if you bow down and worship me,
+all of it will be yours.”
 [8] Jesus answered him,
 “Get behind me, Satan!
 For it is written,
-‘You shall worship the Lord your God,
-and you shall serve him only.’”
-[9] The devil led him to Jerusalem,
-set him on the highest point of the temple,
-and said to him,
+‘You must worship the Lord your God.
+You must serve only him.’”
+[9] Then the devil led Jesus to Jerusalem.
+He put him on the highest point of the temple.
+He said to him,
 “If you are the Son of God,
 throw yourself down from here.
 [10] For it is written,
-‘He will put his angels in charge of you,
-to guard you,’
-[11] and,
-‘On their hands they will bear you up,
-so that you don’t strike your foot against a stone.’”
+‘He will tell his angels to take care of you
+and to guard you.’
+[11] And it is written,
+‘They will catch you with their hands.
+Then you will not hit your foot against a stone.’”
 [12] Jesus answered him,
 “It has been said,
-‘You shall not tempt the Lord your God.’”
-[13] When the devil had finished every temptation,
-he left him
-until another time.
+‘You must not test the Lord your God.’”
+[13] The devil had now tried every way to tempt Jesus.
+So he left him until another time.
 
 > **What does this mean?**
 > Forty days in the wilderness remind us of the forty years that Israel wandered through the wilderness. There Israel was often put to the test. Jesus passes the test.
 > Each time, Jesus answers with words from Deuteronomy: Deuteronomy 8:3; 6:13; 6:16. He lives from the Holy Scriptures of Israel.
 > In Luke the order is different from Matthew (Matthew 4:1–11): The last temptation is in Jerusalem, at the temple. Jerusalem is especially important for Luke.
 > The devil even quotes the Bible (Psalm 91:11–12). Bible words can also be misused.
-> Verse 4: The words “but by every word of God” are missing in some old manuscripts. Verse 8: “Get behind me, Satan!” is missing in the best old manuscripts. The WEB has both.
-> Verse 12: Tempt here means: to put God to the test.
+> Verse 4: The words “They also live from every word of God” are missing in some old manuscripts. Verse 8: “Get behind me, Satan!” is missing in the best old manuscripts. The WEB has both.
+> Verse 12: Jesus does not want to force God to prove himself. That would be putting God to the test.
 > Verse 13: “Until another time”: The temptation comes back, especially before Jesus’ suffering.
 > For today: Jesus was tempted too. Being tempted is not a sin. What matters is how you deal with it.
 
@@ -68,77 +64,77 @@ until another time.
 
 ## Jesus preaches in Nazareth (Verses 14–30)
 
-[14] Jesus returned to Galilee in the power of the Spirit.
-And news about him spread through all the surrounding area.
-[15] He taught in their synagogues,
-and everyone praised him.
-[16] He came to Nazareth,
-where he had been brought up.
+[14] Jesus went back to Galilee
+in the power of the Spirit.
+News about him spread through the whole area.
+[15] He taught in their synagogues.
+Everyone praised him.
+[16] Then Jesus came to Nazareth,
+the town where he grew up.
 On the Sabbath day he went into the synagogue,
-as was his custom.
+as he always did.
 He stood up to read.
-[17] The book of the prophet Isaiah was handed to him.
+[17] Someone handed him the book of the prophet Isaiah.
 He opened the book
-and found the place
-where it was written:
-[18] “The Spirit of the Lord is on me,
-because he has anointed me
-to preach good news to the poor.
+and found the place where it says:
+[18] “The Spirit of the Lord is on me.
+He has anointed me
+to bring good news to poor people.
 He has sent me
-to heal the broken hearted,
-to proclaim release to the captives,
-recovering of sight to the blind,
-to set free those who are crushed,
-[19] and to proclaim the acceptable year of the Lord.”
-[20] Then he closed the book,
-gave it back to the attendant,
-and sat down.
-The eyes of all in the synagogue were fixed on him.
-[21] He began to say to them,
-“Today this Scripture has been fulfilled
-in your hearing.”
-[22] They all spoke well of him
-and were amazed at the gracious words
-that came out of his mouth.
-And they said,
+to heal people whose hearts are broken.
+He has sent me to tell the prisoners that they will be free,
+and to tell the blind that they will see again.
+He has sent me to set free the people who are crushed.
+[19] He has sent me to announce the year
+when the Lord shows his favor.”
+[20] Then Jesus closed the book.
+He gave it back to the helper and sat down.
+Everyone in the synagogue was looking at him.
+[21] He began to speak to them.
+“Today these words of Scripture have come true,
+while you are listening.”
+[22] Everyone said good things about him.
+They were amazed at the kind and beautiful words he spoke.
+They said,
 “Isn’t this Joseph’s son?”
-[23] He said to them,
-“No doubt you will tell me this proverb:
-‘Physician, heal yourself!’
-And: ‘Whatever we have heard was done at Capernaum,
-do here in your hometown too.’”
+[23] Jesus said to them,
+“You will surely quote this saying to me:
+‘Doctor, heal yourself!’
+You will say,
+‘We heard about what you did in Capernaum.
+Do the same things here in your hometown!’”
 [24] He said,
-“Most certainly I tell you,
-no prophet is acceptable in his hometown.
-[25] But truly I tell you,
-there were many widows in Israel in the days of Elijah,
-when the sky was shut up for three years and six months,
-and a great famine came over all the land.
-[26] Elijah was sent to none of them,
-except to Zarephath, in the land of Sidon,
-to a woman who was a widow.
-[27] There were many lepers in Israel
-in the time of Elisha the prophet.
-Yet not one of them was cleansed,
-except Naaman, the Syrian.”
-[28] When they heard this,
-everyone in the synagogue was filled with rage.
-[29] They got up,
-threw him out of the city,
-and led him to the edge of the hill
-that their city was built on.
+“I tell you for certain:
+People do not accept a prophet in his own hometown.
+[25] I tell you the truth:
+There were many widows in Israel in the time of Elijah.
+At that time the sky was shut
+for three years and six months.
+There was a great famine in the whole land.
+[26] But God did not send Elijah to any of those widows.
+He sent him only to a widow in Zarephath,
+in the land of Sidon.
+[27] There were also many people with leprosy in Israel
+in the time of the prophet Elisha.
+But not one of them was made clean.
+Only Naaman, the man from Syria, was made clean.”
+[28] When the people in the synagogue heard this,
+they all became very angry.
+[29] They got up and threw Jesus out of the town.
+Their town was built on a hill.
+They led him to the edge of the hill.
 They wanted to throw him off the cliff.
-[30] But he passed through the middle of them
-and went his way.
+[30] But Jesus walked right through the middle of them
+and went on his way.
 
 > **What does this mean?**
-> Jesus goes to the synagogue on the Sabbath, “as was his custom.” He lives as a devout Jew.
+> Jesus goes to the synagogue on the Sabbath, “as he always did.” He lives as a devout Jew.
 > Synagogue: a Jewish house of prayer and teaching.
 > In the synagogue, passages from the law of Moses and from the prophets were read aloud. Afterward someone explained the text. To do this, he sat down.
 > Verses 18–19 quote Isaiah 61:1–2 and one line from Isaiah 58:6. This is like a program for Jesus’ whole work: good news for the poor, freedom for prisoners, light for the blind, freedom for the oppressed.
 > Anointed: chosen by God for a task. In the past, oil was poured on a person’s head for this.
-> “The acceptable year of the Lord” reminds us of the “Year of Jubilee” in Leviticus 25: Every fifty years debts were to be canceled and slaves set free.
-> The words “to heal the broken hearted” are missing in some old manuscripts.
+> “The year when the Lord shows his favor” reminds us of the “Year of Jubilee” in Leviticus 25: Every fifty years debts were to be canceled and slaves set free.
+> The words “to heal people whose hearts are broken” are missing in some old manuscripts.
 > Verse 21: “Today”: Jesus says that this promise is coming true now, with him.
 > Verses 25–27: Jesus recalls two stories from the books of Kings. Elijah helped a foreign widow in Zarephath (1 Kings 17:8–24). Elisha healed Naaman the Syrian (2 Kings 5). Both helped people who did not belong to Israel. Jesus shows: God’s goodness is also for foreigners.
 > Verses 28–29: The people are furious. This is the reaction of one particular place, not of the whole people. In other places Jesus is praised by many (verse 15).
@@ -149,31 +145,31 @@ and went his way.
 
 ## Jesus in Capernaum (Verses 31–37)
 
-[31] He went down to Capernaum,
-a city of Galilee.
+[31] Then Jesus went down to Capernaum,
+a town in Galilee.
 On the Sabbath day he taught the people.
-[32] They were astonished at his teaching,
-for his word was with authority.
+[32] They were amazed at his teaching,
+because his words had authority.
 [33] In the synagogue there was a man
-who had a spirit of an unclean demon.
-He cried out with a loud voice,
-[34] “Ah! What have we to do with you,
+who had an evil spirit, an unclean demon.
+He shouted with a loud voice,
+[34] “Ah! What do you want with us,
 Jesus of Nazareth?
 Have you come to destroy us?
-I know who you are:
-the Holy One of God!”
-[35] Jesus rebuked him and said,
-“Be silent and come out of him!”
-The demon threw the man down in the middle of them
-and came out of him
-without doing him any harm.
-[36] Everyone was amazed
-and they said to one another,
-“What is this word?
-With authority and power he commands the unclean spirits,
+I know who you are.
+You are the Holy One of God!”
+[35] Jesus spoke sharply to the demon.
+“Be quiet! Come out of him!”
+The demon threw the man down in front of everyone.
+Then it came out of him.
+It did not hurt him at all.
+[36] Everyone was amazed.
+They said to each other,
+“What kind of word is this?
+He gives orders to the unclean spirits with authority and power,
 and they come out!”
-[37] News about him went out
-into every place in the surrounding region.
+[37] The news about Jesus spread
+to every place in the whole area.
 
 > **What does this mean?**
 > Capernaum was on the Sea of Galilee. Jesus lived there for a time.
@@ -185,38 +181,37 @@ into every place in the surrounding region.
 
 ## Jesus heals many people (Verses 38–44)
 
-[38] Jesus got up,
-left the synagogue,
-and went into Simon’s house.
-Simon’s mother-in-law was suffering from a great fever.
-They begged him to help her.
-[39] He stood over her
-and rebuked the fever.
+[38] Jesus got up and left the synagogue.
+He went into Simon’s house.
+Simon’s mother-in-law was sick with a great fever.
+They begged Jesus to help her.
+[39] He stood beside her
+and ordered the fever to leave.
 And the fever left her.
-Immediately she got up
-and served them.
-[40] When the sun was setting,
-everyone brought him their sick,
-who had various diseases.
-He laid his hands on every one of them
+At once she got up
+and began to serve them.
+[40] When the sun was going down,
+people brought all their sick to Jesus.
+They had many different diseases.
+Jesus laid his hands on every one of them
 and healed them.
-[41] Demons also came out of many.
-They cried out,
+[41] Demons also came out of many people.
+They shouted,
 “You are the Christ, the Son of God!”
-But he rebuked them
-and didn’t allow them to speak,
+But Jesus spoke sharply to them.
+He did not let them speak,
 because they knew that he was the Christ.
-[42] When it was day,
-he went out to a lonely place.
-The crowds looked for him,
-came to him,
-and tried to hold on to him,
-so that he wouldn’t leave them.
+[42] When the day came,
+Jesus went out to a lonely place.
+The crowds looked for him.
+They came to him
+and tried to hold on to him.
+They did not want him to leave them.
 [43] But he said to them,
-“I must preach the good news of God’s Kingdom
-to the other cities too.
-For this is why I was sent.”
-[44] And he preached in the synagogues of Galilee.
+“I must tell the good news about God’s Kingdom
+in the other towns too.
+That is why God sent me.”
+[44] And Jesus preached in the synagogues of Galilee.
 
 > **What does this mean?**
 > According to old tradition, Luke was a doctor. He writes “a great fever.” Some see in this the eye of a doctor.

@@ -5,26 +5,28 @@
 
 ## A new name (Verses 1–5)
 
-[1] For Zion’s sake I will not keep silent,
-and for Jerusalem’s sake I will not rest,
-until her righteousness shines out like the dawn
-and her salvation like a burning torch.
-[2] The nations will see your righteousness
-and all kings your glory.
-You will be called by a new name,
-which the mouth of the LORD will give.
-[3] You will also be a crown of beauty in the hand of the LORD
-and a royal crown in the hand of your God.
-[4] You will no longer be called “Forsaken,”
-and your land will no longer be called “Desolate.”
-But you will be called “Hephzibah”
-and your land “Beulah,”
-for the LORD delights in you,
-and your land will be married.
-[5] For as a young man marries a young woman,
-so your sons will marry you.
-And as a bridegroom rejoices over his bride,
-so your God will rejoice over you.
+[1] I will not keep quiet, because I care about Zion.
+I will not rest, because I care about Jerusalem.
+I will not stop until her righteousness shines out like the dawn.
+I will not stop until her rescue shines like a burning torch.
+[2] The nations will see your righteousness.
+All kings will see your glory.
+You will get a new name.
+The LORD himself will give you that name.
+[3] You will be a beautiful crown in the hand of the LORD.
+You will be a royal crown in the hand of your God.
+[4] People will no longer call you “Forsaken.”
+Forsaken means: left all alone.
+They will no longer call your land “Desolate.”
+Desolate means: empty and ruined.
+But you will be called “Hephzibah.”
+And your land will be called “Beulah.”
+For the LORD delights in you.
+And your land will be married.
+[5] A young man marries a young woman.
+In the same way, your sons will marry you.
+A bridegroom is happy about his bride.
+In the same way, your God will be happy about you.
 
 > **What does this mean?**
 > Verse 1: The prophet says: I will not stop praying and calling out for Jerusalem until rescue has come.
@@ -35,21 +37,21 @@ so your God will rejoice over you.
 
 ## Watchmen on the walls (Verses 6–9)
 
-[6] I have set watchmen on your walls, Jerusalem.
+[6] Jerusalem, I have placed watchmen on your walls.
 They will never be silent, by day or by night.
-You who call on the LORD, take no rest,
-[7] and give him no rest
-until he sets Jerusalem up again
-and makes it a praise on the earth.
-[8] The LORD has sworn by his right hand
-and by his strong arm:
-“Surely I will no longer give your grain as food to your enemies,
-and foreigners will no longer drink your new wine,
-which you have worked so hard for.
-[9] But those who have harvested it will eat it
-and praise the LORD.
-And those who have gathered it will drink it
-in the courts of my sanctuary.”
+You who call on the LORD, do not rest.
+[7] Give him no rest
+until he makes Jerusalem strong again.
+Give him no rest until he makes Jerusalem a city that the whole earth praises.
+[8] The LORD has made a promise.
+He has sworn by his right hand and by his strong arm:
+“I will never again give your grain to your enemies as food.
+Foreigners will no longer drink your new wine.
+You worked hard for it.
+[9] Those who harvest the grain will eat it.
+And they will praise the LORD.
+Those who gather the grapes will drink the wine
+in the courtyards of my holy place.”
 
 > **What does this mean?**
 > Verses 6–7: The “watchmen” here are people who pray. They are to keep reminding God day and night until he rebuilds Jerusalem. A bold picture: We may “give God no rest” with our requests. Jesus tells a similar parable about a widow who does not give up (Luke 18:1–8).
@@ -64,12 +66,13 @@ Prepare the way for the people!
 Build up, build up the highway!
 Clear away the stones!
 Raise a banner for the peoples!
-[11] Look, the LORD has announced to the end of the earth:
+[11] Look, the LORD has announced to the ends of the earth:
 “Say to the daughter of Zion,
 ‘Look, your salvation is coming!
-Look, his reward is with him,
-and his payment goes before him!’”
-[12] They will call them “The Holy People, the LORD’s Redeemed.”
+Look, he brings his reward with him.
+He brings his payment with him!’”
+[12] People will call them “The Holy People, the LORD’s Redeemed.”
+Redeemed means: set free and bought back.
 And you will be called “Sought Out, a City Not Forsaken.”
 
 > **What does this mean?**

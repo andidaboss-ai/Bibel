@@ -5,16 +5,17 @@
 
 ## I remember the love of your youth (Verses 1–3)
 
-[1] The LORD’s word came to me. He said,
-[2] “Go and call out so that Jerusalem hears it:
-‘The LORD says:
-“I remember the kindness of your youth,
-your love as a bride,
-how you followed me in the wilderness,
-in a land where nothing was sown.
-[3] Israel was holy to the LORD,
-the first fruits of his harvest.
-All who eat him up will be held guilty.
+[1] The LORD spoke his word to me.
+He said,
+[2] “Go and call out so that the people of Jerusalem hear it.
+Say: ‘This is what the LORD says:
+“I remember how kind you were when you were young.
+I remember how you loved me as a bride.
+You followed me in the wilderness,
+in a land where no one planted seeds.
+[3] Israel was holy to the LORD.
+Israel was like the first part of his harvest.
+Everyone who eats it up will be held guilty.
 Disaster will come on them,”’ says the LORD.”
 
 > **What does this mean?**
@@ -26,51 +27,53 @@ Disaster will come on them,”’ says the LORD.”
 
 ## My people have left me (Verses 4–13)
 
-[4] Hear the LORD’s word, house of Jacob,
-and all the families of the house of Israel!
-[5] The LORD says,
-“What wrong did your fathers find in me,
-that they have gone far away from me,
-and have followed worthless idols,
-and have become worthless themselves?
-[6] They didn’t say,
-‘Where is the LORD, who brought us up out of the land of Egypt,
-who led us through the wilderness,
+[4] House of Jacob, hear the word of the LORD!
+All you families of the house of Israel, hear it!
+[5] This is what the LORD says:
+“What wrong did your ancestors find in me?
+Why did they go so far away from me?
+They followed worthless idols.
+And they became worthless themselves.
+[6] They did not ask,
+‘Where is the LORD?
+He brought us up out of the land of Egypt.
+He led us through the wilderness,
 through a land of deserts and pits,
-through a land of drought and of the shadow of death,
-through a land that no one passed through,
-and where no one lived?’
-[7] I brought you into a rich land
-to eat its fruit and its good things.
-But when you came in, you made my land unclean,
-and made my inheritance disgusting.
-[8] The priests didn’t say, ‘Where is the LORD?’
-Those who handle the law didn’t know me.
-The rulers also rebelled against me.
-The prophets prophesied by Baal
-and followed things that do not help.
-[9] “That is why I will still bring charges against you,” says the LORD,
-“and I will bring charges against your children’s children.
-[10] For cross over to the islands of Kittim, and look.
-Send to Kedar, and think about it carefully.
-See if there has ever been anything like this.
-[11] Has a nation ever changed its gods,
-even though they really are no gods?
+through a land of drought and deep darkness,
+through a land where no one travels
+and where no one lives.’
+[7] I brought you into a rich land.
+You could eat its fruit and its good things.
+But when you came in, you made my land unclean.
+You made the land I gave you disgusting.
+[8] The priests did not ask, ‘Where is the LORD?’
+Those who teach the law did not know me.
+The rulers turned against me.
+The prophets spoke in the name of Baal.
+They followed gods that do not help.
+[9] “That is why I will still bring charges against you,” says the LORD.
+“And I will bring charges against your grandchildren.
+[10] Go over to the islands of Kittim and look.
+Send someone to Kedar and think about it carefully.
+See if anything like this has ever happened.
+[11] Has a nation ever exchanged its gods?
+And their gods are not even real gods!
 But my people have traded their glory
-for something that doesn’t help.
-[12] “Be shocked at this, you heavens,
-and shudder with terror.
-Be completely desolate,” says the LORD.
-[13] “For my people have done two evil things:
-They have left me, the spring of living water,
-and they have dug out cisterns for themselves:
-broken cisterns that can’t hold water.
+for something that does not help.
+[12] “Heavens, be shocked at this!
+Shake with horror!
+Be completely empty,” says the LORD.
+[13] “My people have done two evil things.
+They have left me, the spring of living water.
+And they have dug water tanks for themselves.
+But those tanks are cracked.
+They cannot hold water.
 
 > **What does this mean?**
 > Verse 5: God asks like a disappointed lover: What did I do to you, that you have left me?
 > Verses 6–8: No one asked about God, not the people, not the priests, not the rulers, not the prophets. They forgot who freed them from Egypt.
 > Verses 10–11: Kittim is Cyprus in the west, Kedar is a people in Arabia in the east. God says: Look around everywhere! No nation changes its gods, even though they are not even real gods. But Israel has left the true God.
-> Verse 13 is the best-known picture of this chapter: God is like a fresh spring that always flows. The people have left this spring and dug cisterns for themselves, that is, holes in the rock in which rainwater is collected. But these cisterns are cracked and hold no water. Whoever leaves God looks for happiness where it cannot be found.
+> Verse 13 is the best-known picture of this chapter: God is like a fresh spring that always flows. The people have left this spring and dug cisterns (water tanks) for themselves, that is, holes in the rock in which rainwater is collected. But these cisterns are cracked and hold no water. Whoever leaves God looks for happiness where it cannot be found.
 
 ---
 
@@ -146,7 +149,7 @@ Let them get up, if they can save you in the time of your trouble.
 For you have as many gods as you have towns, Judah.
 
 > **What does this mean?**
-> Verse 20: The Bible often describes idol worship with the picture of unfaithfulness in marriage or prostitution. What is meant is: The people have become unfaithful to God. It is a picture of the relationship with God, not a judgment on women or on people in prostitution. Foreign gods were worshiped “on high hills and under green trees.”
+> Verse 20: The Bible often describes idol worship with the picture of unfaithfulness in marriage or prostitution. What is meant is: The people have become unfaithful to God. It is a picture of the relationship with God, not a judgment on women or on people in prostitution. Foreign gods were worshiped “on every high hill and under every green tree.”
 > Verse 21: God had planted Israel as a noble vine (as in Isaiah 5). But it has become a wild, spoiled vine.
 > Verse 22: Guilt cannot simply be washed off with soap.
 > Verses 23–24: Strong pictures from the animal world: The people run after foreign gods like an animal driven by its urges.

@@ -5,13 +5,13 @@
 
 ## David wants to build a house for God (Verses 1–2)
 
-[1] When David was living in his house,
-David said to Nathan the prophet,
-“Look, I live in a house of cedar,
-but the ark of the LORD’s covenant is in a tent.”
-[2] Nathan said to David,
-“Do all that is in your heart,
-for God is with you.”
+[1] David was now living in his own house.
+He said to the prophet Nathan,
+“Look, I live in a house made of cedar wood.
+But the ark of the LORD’s covenant stays in a tent.”
+[2] Nathan answered David,
+“Do everything you have in mind.
+God is with you.”
 
 > **What does this mean?**
 > David has a beautiful palace. But God’s ark stands only in a tent. He does not think this is right. He wants to build a temple for God.
@@ -22,52 +22,57 @@ for God is with you.”
 
 ## God wants to build a house for David (Verses 3–15)
 
-[3] That same night the word of God came to Nathan:
-[4] “Go and tell David my servant,
-‘The LORD says,
-“You shall not build me a house to live in.
-[5] For I have not lived in a house
-since the day that I brought up Israel to this day,
-but I have gone from tent to tent, and from one tent to another.
-[6] In all the places where I have walked with all Israel,
-did I ever speak a word to any of the judges of Israel,
-whom I commanded to be shepherd of my people, saying,
+[3] But that same night God spoke to Nathan.
+He said,
+[4] “Go and tell my servant David,
+‘This is what the LORD says:
+“You are not the one to build me a house to live in.
+[5] I have not lived in a house
+from the day I brought Israel out of Egypt until today.
+I have gone from tent to tent,
+from one tent to another.
+[6] I went with all Israel to many places.
+I commanded the judges of Israel to be shepherds of my people.
+Did I ever say to any of them,
 ‘Why have you not built me a house of cedar?’”’
-[7] “Now therefore you shall tell my servant David,
-‘The LORD of Armies says,
-“I took you from the sheep pen, from following the sheep,
-to be prince over my people Israel.
-[8] I have been with you wherever you have gone,
-and I have cut off all your enemies from before you.
-I will make you a name
-like the name of the great ones who are on the earth.
-[9] I will choose a place for my people Israel,
-and I will plant them,
-so that they may live in their own place and be moved no more.
-Wicked people will not destroy them any more, as at the first,
-[10] and as since the day that I commanded judges to be over my people Israel.
-I will subdue all your enemies.
-And I tell you that the LORD will build you a house.
-[11] When your days are over and you must go to be with your fathers,
-I will raise up your offspring after you,
-one of your sons.
-And I will make his kingdom firm.
-[12] He will build me a house,
-and I will make his throne firm forever.
+[7] “So now tell my servant David,
+‘This is what the LORD of Armies says:
+“I took you from the sheep pen,
+where you followed the sheep.
+I made you the leader of my people Israel.
+[8] I have been with you wherever you went.
+I have destroyed all your enemies in front of you.
+I will make your name famous,
+like the names of the great people on the earth.
+[9] I will choose a place for my people Israel.
+I will plant them there.
+Then they can live in their own place,
+and no one will drive them away again.
+Evil people will not crush them anymore, as they did at first,
+[10] and as they did ever since I put judges over my people Israel.
+I will defeat all your enemies.
+And I tell you: The LORD will build a house for you.
+[11] Your life will come to an end,
+and you will go to be with your fathers.
+Then I will raise up one of your descendants after you.
+He will be one of your sons.
+And I will make his kingdom strong.
+[12] He will build a house for me.
+And I will make his throne firm forever.
 [13] I will be his father,
 and he will be my son.
-I will not take my loving kindness away from him,
-as I took it from him who was before you.
-[14] But I will settle him in my house and in my kingdom forever.
+I will never take my loving kindness away from him,
+as I took it away from the king who ruled before you.
+[14] I will put him over my house and my kingdom forever.
 His throne will stand firm forever.”’”
-[15] Nathan spoke to David
-according to all these words and according to all this vision.
+[15] Nathan told David all these words.
+He told him everything he had seen in this vision.
 
 > **What does this mean?**
 > This is one of the most important passages in the Old Testament.
 > God says: not you build a house for me, but I build a “house” for you. The Hebrew word “house” can mean a building, but also a family, a royal family, a dynasty. A beautiful play on words.
 > God reminds David: I took you from the sheep. Everything you have is my gift.
-> God promises: a son of David will build the temple (Solomon). And David’s throne will stand firm “forever”.
+> God promises: a son of David will build the temple (Solomon). And David’s throne will stand firm “forever.”
 > “I will be his father, and he will be my son”: a very close relationship between God and the king.
 > Unlike 2 Samuel 7:14, the sentence that God will punish the son when he sins is missing here. Chronicles already sees the king more strongly as a picture of a coming, perfect king.
 > After the exile there was no more king from David’s family. Still, the Jews held on to this promise and waited for an “anointed one” (Messiah) from the house of David. Christians believe that this promise came true in Jesus, whom the New Testament calls “son of David” (Luke 1:32–33).
@@ -76,43 +81,46 @@ according to all these words and according to all this vision.
 
 ## David’s prayer (Verses 16–27)
 
-[16] Then King David went in, sat before the LORD, and said,
-“Who am I, LORD God, and what is my house,
-that you have brought me this far?
-[17] And this was a small thing in your eyes, God.
-You have also spoken of your servant’s house for a long time to come.
-And you have looked at me as at a man of high degree, LORD God.
-[18] What more can David say to you about the honor that you have shown your servant?
-For you know your servant.
-[19] LORD, for your servant’s sake and according to your own heart
-you have done all this greatness,
-to make known all these great things.
-[20] LORD, there is no one like you,
-and there is no God besides you,
-according to all that we have heard with our ears.
-[21] What one nation on the earth is like your people Israel,
-whom God went to redeem for himself as a people,
-to make you a name by great and awesome things,
-in driving out nations from before your people,
-whom you redeemed out of Egypt?
-[22] For you made your people Israel your own people forever,
-and you, LORD, became their God.
-[23] Now, LORD,
-let the word that you have spoken about your servant and about his house
-stand firm forever.
-Do as you have spoken.
-[24] Let your name stand firm and be made great forever,
-so that people say,
-‘The LORD of Armies is the God of Israel, a God to Israel.
-The house of David your servant stands firm before you.’
-[25] For you, my God, have shown your servant that you will build him a house.
-That is why your servant has found courage to pray before you.
-[26] Now, LORD, you are God,
-and you have promised this good thing to your servant.
-[27] Now it has pleased you to bless the house of your servant,
-so that it may continue forever before you.
-For you, LORD, have blessed,
-and it is blessed forever.”
+[16] Then King David went in and sat before the LORD.
+He said,
+“Who am I, LORD God, and what is my house, that you have brought me this far?
+[17] And even this was a small thing in your eyes, God.
+You have also spoken about the future of your servant’s house,
+far into the future.
+You have looked at me as if I were a man of high degree, LORD God.
+[18] What more can I, David, say to you
+about the honor you have given your servant?
+You know your servant.
+[19] LORD, you have done this great thing for your servant’s sake.
+You did it because you wanted to.
+You did it to make all these great things known.
+[20] LORD, there is no one like you.
+There is no God except you.
+Everything we have heard with our own ears shows it.
+[21] There is no other nation on earth like your people Israel.
+God himself went to free them,
+so that they would be his own people.
+You made your name famous by great and awesome deeds.
+You drove out nations in front of your people,
+whom you freed from Egypt.
+[22] You made your people Israel your own people forever.
+And you, LORD, became their God.
+[23] Now, LORD, you have made a promise about your servant and his house.
+Let it stand firm forever.
+Do what you have promised.
+[24] Let your name stand firm and be great forever.
+Then people will say,
+‘The LORD of Armies is the God of Israel.
+He really is Israel’s God.’
+And the house of your servant David will stand firm before you.
+[25] You, my God, have shown your servant
+that you will build a house for him.
+That is why I, your servant, have found the courage to pray to you.
+[26] LORD, you are God.
+You have promised this good thing to your servant.
+[27] Now you have been pleased to bless the house of your servant,
+so that it will last forever before you.
+For you, LORD, have blessed, and it is blessed forever.”
 
 > **What does this mean?**
 > David is overwhelmed. He sits before God and is amazed: “Who am I, LORD God, and what is my house, that you have brought me this far?” True thankfulness makes us humble.

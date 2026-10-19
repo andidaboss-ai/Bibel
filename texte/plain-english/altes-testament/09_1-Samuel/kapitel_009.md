@@ -5,23 +5,26 @@
 
 ## Saul, the son of Kish (Verses 1–4)
 
-[1] There was a man from Benjamin.
-His name was Kish, the son of Abiel, the son of Zeror, the son of Becorath,
-the son of Aphiah, the son of a Benjamite.
-He was a strong and respected man.
-[2] He had a son whose name was Saul.
-He was an impressive young man.
-Among the children of Israel there was no one more handsome than he.
-From his shoulders up he was taller than any of the people.
-[3] The donkeys of Kish, Saul’s father, were lost.
+[1] There was a man from the tribe of Benjamin.
+His name was Kish.
+He was the son of Abiel, the son of Zeror, the son of Becorath,
+the son of Aphiah, the son of a man from Benjamin.
+Kish was a strong and brave man.
+[2] He had a son named Saul.
+Saul was an impressive young man.
+No one among the people of Israel was more handsome than he was.
+He was a head taller than everyone else.
+[3] One day the donkeys of Saul’s father Kish were lost.
 Kish said to his son Saul,
-“Take one of the servants with you,
-get up, and go look for the donkeys.”
-[4] He went through the hill country of Ephraim
-and went through the land of Shalishah,
-but they didn’t find them.
-Then they went through the land of Shaalim, but they weren’t there.
-Then he went through the land of the Benjamites, but they didn’t find them.
+“Take one of the servants with you.
+Go and look for the donkeys.”
+[4] Saul went through the hill country of Ephraim
+and through the land of Shalishah.
+But they did not find the donkeys.
+Then they went through the land of Shaalim,
+but the donkeys were not there.
+Then Saul went through the land of Benjamin,
+but they did not find them.
 
 > **What does this mean?**
 > Saul comes from the tribe of Benjamin, the tribe that had almost been wiped out at the end of the book of Judges (Judges 20–21). God chooses the first king from this very small tribe.
@@ -33,29 +36,31 @@ Then he went through the land of the Benjamites, but they didn’t find them.
 
 ## The servant’s advice (Verses 5–10)
 
-[5] When they came to the land of Zuph, Saul said to his servant who was with him,
-“Come! Let’s go back.
+[5] They came to the land of Zuph.
+Saul said to the servant who was with him,
+“Come on! Let’s go back home.
 Otherwise my father will stop worrying about the donkeys
-and worry about us.”
-[6] The servant said to him,
-“Look, there is a man of God in this city.
-He is a respected man.
-Everything he says surely happens.
+and start worrying about us.”
+[6] But the servant said,
+“Listen, there is a man of God in this city.
+People respect him very much.
+Everything he says really happens.
 Let’s go there now.
 Maybe he can tell us which way to go.”
-[7] Then Saul said to his servant,
-“But look, if we go, what should we bring the man?
-For the bread in our sacks is used up,
-and we have no gift to bring to the man of God.
+[7] Saul said to his servant,
+“But if we go, what can we bring the man?
+The bread in our bags is all gone.
+We have no gift to bring to the man of God.
 What do we have?”
-[8] The servant answered Saul again and said,
-“Look, I have a quarter of a shekel of silver in my hand.
-I will give it to the man of God, so that he will tell us our way.”
-[9] (In earlier times in Israel, when someone wanted to ask God something, he said,
-“Come! Let’s go to the seer.”
-For the person who is now called a prophet used to be called a seer.)
-[10] Then Saul said to his servant,
-“Well said. Come! Let’s go.”
+[8] The servant answered Saul,
+“Look, I have a quarter of a shekel of silver here.
+I will give it to the man of God.
+Then he will tell us which way to go.”
+[9] (In earlier times in Israel, people went to ask God for advice.
+Then they said, “Come! Let’s go to the seer.”
+The person we call a prophet today used to be called a seer.)
+[10] Saul said to his servant,
+“Good idea. Come on, let’s go.”
 So they went to the city where the man of God was.
 
 > **What does this mean?**
@@ -68,22 +73,26 @@ So they went to the city where the man of God was.
 
 ## The girls at the well (Verses 11–14)
 
-[11] As they went up the road to the city,
-they met young women who were coming out to draw water.
-They asked them, “Is the seer here?”
-[12] They answered them,
-“Yes, he is. Look, he is ahead of you.
-Hurry now, for he has come into the city today.
-For the people have a sacrifice today at the high place.
-[13] As soon as you come into the city, you will find him right away,
-before he goes up to the high place to eat.
-For the people will not eat until he comes,
+[11] They went up the hill to the city.
+On the way they met some young women.
+The women were coming out to get water.
+Saul and his servant asked them, “Is the seer here?”
+[12] The women answered,
+“Yes, he is. He is just ahead of you.
+Hurry!
+He has just come to the city today,
+because the people are offering a sacrifice today at the high place.
+[13] As soon as you go into the city, you will find him.
+He has not yet gone up to the high place to eat.
+The people will not eat until he comes,
 because he blesses the sacrifice.
-After that, those who are invited eat.
-So go up now, for at this time you will find him.”
-[14] They went up to the city.
-As they came into the city,
-Samuel came out toward them to go up to the high place.
+After that, the guests eat.
+So go up now.
+At this time you will find him.”
+[14] So they went up to the city.
+As they were going into the city,
+Samuel came out toward them.
+He was on his way up to the high place.
 
 > **What does this mean?**
 > A “high place” was a place on a hill where people offered sacrifices to God. Later such places were often used for foreign gods and were forbidden. But at that time, when there was no temple, people also offered sacrifices to the LORD there.
@@ -94,31 +103,34 @@ Samuel came out toward them to go up to the high place.
 
 ## God had announced Saul (Verses 15–21)
 
-[15] The LORD had told Samuel one day before Saul came:
+[15] The day before Saul came, the LORD had told Samuel this:
 [16] “Tomorrow at about this time I will send you a man from the land of Benjamin.
-You shall anoint him to be prince over my people Israel.
-He will save my people from the hand of the Philistines.
-For I have looked upon my people,
-because their cry has come to me.”
+Anoint him to be the leader of my people Israel.
+He will save my people from the power of the Philistines.
+I have seen my people.
+I have heard them cry out to me.”
+To anoint means: to pour oil on someone’s head as a sign that God has chosen this person.
 [17] When Samuel saw Saul, the LORD said to him,
 “This is the man I told you about!
 He will rule over my people.”
-[18] Then Saul came up to Samuel in the gateway and said,
-“Please tell me where the seer’s house is.”
+[18] Saul came up to Samuel in the city gate.
+He said, “Please tell me where the seer’s house is.”
 [19] Samuel answered Saul,
 “I am the seer.
-Go up ahead of me to the high place,
-for you are to eat with me today.
-In the morning I will let you go
-and tell you all that is in your heart.
-[20] As for your donkeys that were lost three days ago,
-don’t worry about them, for they have been found.
+Go up ahead of me to the high place.
+Today you will eat with me.
+In the morning I will let you go.
+And I will tell you everything that is on your mind.
+[20] Your donkeys were lost three days ago.
+Don’t worry about them.
+They have been found.
 And who is it that all Israel longs for?
-Is it not you and all your father’s house?”
+Isn’t it you and your father’s whole family?”
 [21] Saul answered,
-“Am I not a Benjamite, from the smallest of the tribes of Israel?
-And isn’t my family the least of all the families of the tribe of Benjamin?
-Why then do you speak to me like this?”
+“But I am from Benjamin.
+That is the smallest of the tribes of Israel.
+And my family is the least important of all the families in the tribe of Benjamin.
+So why do you speak to me like this?”
 
 > **What does this mean?**
 > In Hebrew, “told” literally says: “He had uncovered Samuel’s ear.” God had trusted Samuel with a secret.
@@ -130,34 +142,34 @@ Why then do you speak to me like this?”
 
 ## The feast (Verses 22–27)
 
-[22] Samuel took Saul and his servant
-and brought them into the hall.
-He gave them the best place among those who were invited.
-There were about thirty people.
+[22] Samuel took Saul and his servant into the guest hall.
+He had them sit in the best place among the guests.
+There were about 30 guests.
 [23] Samuel said to the cook,
-“Bring the portion that I gave you,
-the one I told you about: ‘Set it aside.’”
-[24] Then the cook brought the thigh and what was on it
-and set it in front of Saul.
+“Bring the piece of meat I gave you.
+I told you to set it aside.”
+[24] So the cook brought the thigh and what was on it.
+He set it in front of Saul.
 Samuel said,
-“Here is what was kept back!
-Set it in front of you and eat.
-For it has been kept for you for this appointed time,
-for I said, ‘I have invited the people.’”
+“Here is what was kept for you!
+Eat it.
+It was saved for you for this special time.
+I said, ‘I have invited the people.’”
 So Saul ate with Samuel that day.
-[25] When they had come down from the high place into the city,
-he talked with Saul on the roof.
-[26] They got up early.
-At about daybreak Samuel called to Saul on the roof and said,
-“Get up, so that I can send you on your way.”
-Saul got up, and they both went outside, he and Samuel, together.
-[27] As they were going down to the edge of the city,
+[25] Then they came down from the high place into the city.
+Samuel talked with Saul on the roof of the house.
+[26] Early the next morning, at about sunrise,
+Samuel called to Saul on the roof.
+He said, “Get up. I will send you on your way.”
+Saul got up.
+Then he and Samuel went outside together.
+[27] They were walking down to the edge of the city.
 Samuel said to Saul,
 “Tell the servant to go on ahead of us.”
-He went ahead.
+So the servant went ahead.
 Then Samuel said,
-“But you stand still now,
-so that I can let you hear God’s message.”
+“But you stay here for a moment.
+I will tell you God’s message.”
 
 > **What does this mean?**
 > Saul gets the place of honor and the best piece of meat. Samuel had already had it set aside for him the day before. All the guests see: This young man is someone special.

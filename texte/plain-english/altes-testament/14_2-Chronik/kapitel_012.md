@@ -5,17 +5,17 @@
 
 ## Rehoboam leaves God (Verses 1–4)
 
-[1] The kingdom of Rehoboam was made firm, and he was strong.
-Then he abandoned the LORD’s law,
-and all Israel with him.
-[2] In the fifth year of King Rehoboam,
-Shishak king of Egypt came up against Jerusalem,
-because they had been unfaithful to the LORD.
-[3] He came with 1,200 chariots and 60,000 horsemen.
-The people who came with him out of Egypt could not be counted:
-the Lubim, the Sukkiim, and the Ethiopians.
-[4] He took the fortified cities that belonged to Judah,
-and he came to Jerusalem.
+[1] Rehoboam’s kingdom became firm, and he became strong.
+Then he turned away from the LORD’s law.
+And all Israel turned away with him.
+[2] In the fifth year that Rehoboam was king,
+Shishak, the king of Egypt, attacked Jerusalem.
+This happened because the people had been unfaithful to the LORD.
+[3] Shishak came with 1,200 chariots and 60,000 horsemen.
+He brought more soldiers from Egypt than anyone could count:
+Lubim, Sukkiim, and Ethiopians.
+[4] He captured the fortified cities of Judah.
+And he came as far as Jerusalem.
 
 > **What does this mean?**
 > A well-known pattern: when things go well for Rehoboam and he is strong, he forgets God. Success can be dangerous.
@@ -27,73 +27,73 @@ and he came to Jerusalem.
 
 ## The princes humble themselves (Verses 5–8)
 
-[5] Then Shemaiah the prophet came to Rehoboam and to the princes of Judah,
-who had gathered in Jerusalem because of Shishak.
-He said to them,
-“The LORD says,
+[5] Then the prophet Shemaiah came to Rehoboam and to the leaders of Judah.
+They had gathered in Jerusalem because of Shishak.
+Shemaiah said to them,
+“This is what the LORD says:
 ‘You have abandoned me.
-So I have also left you in the hand of Shishak.’”
-[6] Then the princes of Israel and the king humbled themselves.
-They said, “The LORD is righteous.”
+So now I have abandoned you to Shishak.’”
+[6] Then the leaders of Israel and the king humbled themselves.
+They said, “The LORD is in the right.”
 [7] The LORD saw that they humbled themselves.
-Then the LORD’s word came to Shemaiah:
-“They have humbled themselves.
-I will not destroy them.
-I will give them some rescue.
-My anger won’t be poured out on Jerusalem by the hand of Shishak.
-[8] But they will be his servants,
-so that they may know the difference between serving me
-and serving the kingdoms of the countries.”
+Then the LORD spoke to Shemaiah.
+He said, “They have humbled themselves.
+So I will not destroy them.
+I will soon rescue them.
+I will not pour out my anger on Jerusalem through Shishak.
+[8] But they will have to serve him.
+Then they will learn the difference between serving me
+and serving the kings of other lands.”
 
 > **What does this mean?**
 > Here we see the pattern from Chapter 7:14: the people humble themselves, and God hears and spares them.
-> “The LORD is righteous”: they admit that they themselves are guilty.
+> “The LORD is in the right”: they admit that they themselves are guilty.
 > God’s answer is remarkable: they are to learn the difference between serving God and serving foreign rulers. Serving God is freedom, serving foreign powers is a burden.
 
 ---
 
 ## Gold is replaced by bronze (Verses 9–12)
 
-[9] So Shishak king of Egypt came up against Jerusalem.
+[9] So Shishak, the king of Egypt, attacked Jerusalem.
 He took away the treasures of the LORD’s house
-and the treasures of the king’s house.
-He took it all away.
-He also took away the shields of gold that Solomon had made.
-[10] King Rehoboam made shields of bronze in their place.
-He gave them into the hands of the captains of the guard,
-who guarded the door of the king’s house.
-[11] Whenever the king went into the LORD’s house,
-the guard came and carried them,
-and then brought them back into the guard room.
-[12] When he humbled himself,
-the LORD’s anger turned away from him,
-so that he did not destroy him completely.
-Also, there were still good things found in Judah.
+and the treasures of the king’s palace.
+He took everything.
+He also took the gold shields that Solomon had made.
+[10] King Rehoboam made bronze shields to replace them.
+He gave them to the commanders of the guard.
+They guarded the entrance of the king’s palace.
+[11] Every time the king went into the LORD’s house,
+the guards came and carried the shields.
+Afterward they brought them back to the guardroom.
+[12] Rehoboam humbled himself.
+So the LORD’s anger turned away from him,
+and the LORD did not destroy him completely.
+And there were still some good things in Judah.
 
 > **What does this mean?**
 > Solomon’s golden shields are gone. Rehoboam replaces them with bronze. From the outside it still looks similar, but the splendor is lost.
-> “There were still good things found in Judah”: even in bad times there were still people who were faithful to God.
+> “There were still some good things in Judah”: even in bad times there were still people who were faithful to God.
 
 ---
 
 ## The end of Rehoboam (Verses 13–16)
 
-[13] So King Rehoboam made himself strong in Jerusalem and reigned.
-Rehoboam was 41 years old when he began to reign.
-He reigned for 17 years in Jerusalem,
-the city that the LORD had chosen out of all the tribes of Israel to put his name there.
-His mother’s name was Naamah the Ammonitess.
-[14] He did what was evil,
-because he didn’t set his heart to seek the LORD.
-[15] The acts of Rehoboam, from first to last,
-are they not written in the histories of Shemaiah the prophet and of Iddo the seer,
-in the family lists?
-There were wars between Rehoboam and Jeroboam all the time.
-[16] Rehoboam died and joined his fathers,
-and he was buried in David’s city.
-And Abijah his son reigned in his place.
+[13] So King Rehoboam made his rule strong in Jerusalem, and he ruled as king.
+Rehoboam was 41 years old when he became king.
+He ruled for 17 years in Jerusalem.
+The LORD had chosen this city out of all the tribes of Israel as the place for his name.
+Rehoboam’s mother was Naamah, a woman from Ammon.
+[14] Rehoboam did what was evil.
+He did not set his heart to seek the LORD.
+[15] Everything Rehoboam did, from first to last, is written down.
+It is in the records of Shemaiah the prophet and of Iddo the seer,
+in the family lists.
+Rehoboam and Jeroboam were always at war with each other.
+[16] Then Rehoboam died and joined his ancestors.
+He was buried in the City of David.
+And his son Abijah became king in his place.
 
 > **What does this mean?**
-> Verse 14 is the verdict on Rehoboam: “He didn’t set his heart to seek the LORD.” For Chronicles this is the deciding measure. Not one single mistake, but a heart that does not seek God.
+> Verse 14 is the verdict on Rehoboam: “He did not set his heart to seek the LORD.” For Chronicles this is the deciding measure. Not one single mistake, but a heart that does not seek God.
 > Rehoboam reigned from about 930 to 913 before Christ.
 > In 1 Kings 15:1 Abijah is called “Abijam”.
