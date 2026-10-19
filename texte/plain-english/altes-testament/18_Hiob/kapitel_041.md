@@ -92,8 +92,7 @@ Neither does the spear, the dart or the pointed shaft.
 [27] He thinks of iron as straw,
 and of bronze as rotten wood.
 [28] An arrow cannot make him run away.
-Stones from a sling are like chaff to him.
-Chaff is the dry husk around the grain.
+Stones from a sling are like the dry husks of grain to him.
 [29] He thinks of clubs as straw.
 He laughs at the rushing sound of the javelin.
 [30] His underside is like sharp pieces of broken pottery.
