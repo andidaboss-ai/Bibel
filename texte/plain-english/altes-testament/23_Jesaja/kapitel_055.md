@@ -30,7 +30,7 @@ for he has given you glory.”
 > Verse 2: A question that still matters today: Why do you spend your money and your strength on things that do not really satisfy you? What truly feeds a person comes from God.
 > Verses 3–4: God had promised King David an everlasting covenant (2 Samuel 7). Now this promise is extended to the whole people.
 > Verse 5: Foreign nations will come to Israel because they see how God acts toward it.
-> Jesus takes up this picture: “If anyone is thirsty, let him come to me and drink!” (John 7:37). The book of Revelation, too, invites at the end: “He who is thirsty, let him come. He who desires, let him take the water of life freely” (Revelation 22:17).
+> Jesus takes up this picture: “If anyone is thirsty, let him come to me and drink!” (John 7:37). The book of Revelation, too, invites at the end: “Whoever is thirsty should come. Whoever wants it may take the water of life as a free gift” (Revelation 22:17).
 
 ---
 

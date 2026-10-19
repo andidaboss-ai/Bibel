@@ -5,32 +5,29 @@
 
 ## The river and the tree of life (Verses 1–5)
 
-[1] He showed me a river of water of life,
-clear as crystal.
-It came out of the throne of God and of the Lamb
-[2] and flowed through the middle of the city’s street.
-On both sides of the river
-was the tree of life.
-It bears twelve kinds of fruits
-and yields its fruit every month.
-And the leaves of the tree
-were for the healing of the nations.
-[3] There will be no curse any more.
+[1] The angel showed me a river of the water of life.
+It was as clear as crystal.
+It flowed out from the throne of God and of the Lamb
+[2] down the middle of the city’s street.
+On both sides of the river was the tree of life.
+It bears twelve kinds of fruit.
+It gives its fruit every month.
+The leaves of the tree were for the healing of the nations.
+[3] There will be no more curse.
 The throne of God and of the Lamb will be in the city.
-And his servants will serve him.
+His servants will serve him.
 [4] They will see his face.
-And his name will be on their foreheads.
+His name will be on their foreheads.
 [5] There will be no night.
-They need no light from a lamp
-and no light from the sun.
+They will not need the light of a lamp or the light of the sun.
 For the Lord God will give them light.
-And they will reign forever and ever.
+They will rule as kings forever and ever.
 
 > **What does this mean?**
 > Here the circle of the whole Bible closes. At the beginning the tree of life stood in the Garden of Eden (Genesis 2:9). After the curse, people no longer had access to it (Genesis 3:22–24). Now it stands there again, for everyone.
 > Verses 1–2: The river recalls the river flowing out of the temple in the prophet Ezekiel (Ezekiel 47:1–12). Wherever it flows, everything comes to life.
 > Verse 2: “For the healing of the nations”: God’s new world heals all the wounds between the nations.
-> Verse 3: “No curse any more”: Everything that has gone wrong since the beginning is healed.
+> Verse 3: “No more curse”: Everything that has gone wrong since the beginning is healed.
 > Verse 4: “They will see his face”: That is the greatest longing in the Bible. Moses was not allowed to see God’s face (Exodus 33:20). Now it becomes possible. There is no more separation between God and people.
 
 ---
@@ -38,59 +35,40 @@ And they will reign forever and ever.
 ## Jesus is coming soon (Verses 6–15)
 
 [6] He said to me,
-“These words are faithful and true.
-The Lord God of the spirits of the prophets
-sent his angel
-to show to his servants
-the things which must happen soon.”
-[7] “Look,
-I am coming soon!
-Blessed is he
-who keeps the words of the prophecy of this book.”
-[8] I, John,
-am the one
-who heard and saw these things.
-And when I had heard and seen,
-I fell down before the feet of the angel
-who had shown me these things,
-to worship him.
-[9] He said to me,
+“These words are trustworthy and true.
+The Lord, the God of the spirits of the prophets, sent his angel.
+He sent him to show his servants the things that must happen soon.”
+[7] “Look, I am coming soon!
+Blessed is the one who keeps the words of the prophecy in this book.”
+[8] I, John, am the one who heard and saw these things.
+When I had heard and seen them,
+I fell down at the feet of the angel who had shown me these things.
+I wanted to worship him.
+[9] But he said to me,
 “You must not do that!
-I am a fellow servant with you
-and with your brothers,
-the prophets,
-and with those
-who keep the words of this book.
+I am a servant, just like you
+and like your brothers, the prophets,
+and like those who keep the words of this book.
 Worship God!”
 [10] He said to me,
-“Don’t seal up the words of the prophecy of this book,
-for the time is at hand.
-[11] He who acts unjustly,
-let him act unjustly still.
-He who is filthy,
-let him be filthy still.
-He who is righteous,
-let him do righteousness still.
-And he who is holy,
-let him be holy still.”
-[12] “Look,
-I am coming soon!
-And my reward is with me,
-to repay to each one
-according to his work.
+“Don’t keep the words of the prophecy of this book secret,
+for the time is near.
+[11] Whoever does wrong, let him keep on doing wrong.
+Whoever is filthy, let him keep on being filthy.
+Whoever is righteous, let him keep on doing what is right.
+Whoever is holy, let him keep on being holy.”
+[12] “Look, I am coming soon!
+I bring my reward with me.
+I will pay back each person according to what he has done.
 [13] I am the Alpha and the Omega,
 the First and the Last,
 the Beginning and the End.
-[14] Blessed are those
-who do his commandments.
-They have the right to the tree of life
-and may enter in by the gates into the city.
-[15] Outside are the dogs,
-the sorcerers,
-the sexually immoral,
-the murderers,
-the idolaters
-and everyone who loves and practices falsehood.
+[14] Blessed are those who do his commandments.
+They will have the right to the tree of life.
+They may go through the gates into the city.
+[15] Outside are the dogs, those who practice magic,
+the sexually immoral, the murderers, and those who worship idols.
+Outside is everyone who loves lies and tells lies.
 
 > **What does this mean?**
 > Verse 7: This is the sixth “Blessed” in the Revelation. Verse 14 is the seventh and last. Seven is the number of perfection.
@@ -103,39 +81,23 @@ and everyone who loves and practices falsehood.
 
 ## Come! (Verses 16–21)
 
-[16] I, Jesus,
-have sent my angel
-to testify these things to you for the churches.
-I am the root and the offspring of David,
-the Bright and Morning Star.”
-[17] The Spirit and the bride say,
-“Come!”
-And he who hears,
-let him say,
-“Come!”
-He who is thirsty,
-let him come.
-He who desires,
-let him take the water of life freely.
-[18] I testify to everyone
-who hears the words of the prophecy of this book:
-If anyone adds to them,
-God will add to him the plagues
-which are written in this book.
-[19] And if anyone takes away from the words
-of the book of this prophecy,
-God will take away his part
-from the tree of life
-and out of the holy city,
-which are written in this book.
-[20] He who testifies these things
-says,
-“Yes,
-I am coming soon.”
-Amen!
-Yes, come, Lord Jesus!
-[21] The grace of the Lord Jesus Christ
-be with all the saints.
+[16] I, Jesus, have sent my angel to tell you these things for the churches.
+I am the root and the offspring of David.
+I am the bright Morning Star.”
+[17] The Spirit and the bride say, “Come!”
+Whoever hears this should say, “Come!”
+Whoever is thirsty should come.
+Whoever wants it may take the water of life as a free gift.
+[18] I warn everyone who hears the words of the prophecy of this book:
+If anyone adds anything to them,
+God will add to him the plagues that are written in this book.
+[19] If anyone takes anything away from the words of the book of this prophecy,
+God will take away his part in the tree of life and in the holy city.
+They are written about in this book.
+[20] The one who tells about these things says,
+“Yes, I am coming soon.”
+Amen! Yes, come, Lord Jesus!
+[21] May the grace of the Lord Jesus Christ be with all the saints.
 Amen.
 
 > **What does this mean?**

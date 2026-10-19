@@ -5,100 +5,73 @@
 
 ## The letter to Sardis (Verses 1–6)
 
-[1] And write to the angel of the church in Sardis:
-‘He says these things
-who has the seven Spirits of God
-and the seven stars:
-I know your works.
-You have a reputation
-of being alive.
+[1] And write this to the angel of the church in Sardis:
+‘These are the words of the one who has the seven Spirits of God and the seven stars.
+He says:
+I know what you do.
+People say that you are alive.
 But you are dead.
-[2] Wake up
-and strengthen the things
-that remain
-and that you were about to throw away.
-For I have found
-that none of your works are perfected before my God.
-[3] Remember
-how you have received and heard the message.
-Keep it
-and repent.
-If you won’t watch,
-I will come like a thief.
-And you won’t know
-at what hour I will come upon you.
-[4] But you have a few names in Sardis
-that didn’t defile their garments.
-They will walk with me in white,
-for they are worthy.
-[5] He who overcomes
-will be dressed in white garments.
-And I will in no way blot his name
-out of the book of life.
-And I will confess his name
-before my Father
-and before his angels.
-[6] He who has an ear,
-let him hear
-what the Spirit says to the churches.’
+[2] Wake up!
+Make strong what is still left,
+before you throw it away too.
+I have found that nothing you do is complete in the eyes of my God.
+[3] So remember what you received and heard.
+Hold on to it, and turn back to God.
+If you do not stay awake, I will come like a thief.
+You will not know at what hour I will come to you.
+[4] But you have a few people in Sardis
+who have not made their clothes dirty.
+They will walk with me in white clothes,
+because they are worthy.
+[5] The one who overcomes will be dressed in white clothes.
+I will never erase his name from the book of life.
+I will say openly before my Father and his angels
+that he belongs to me.
+[6] Whoever has ears should listen to what the Spirit says to the churches.’
 
 > **What does this mean?**
 > Sardis was once a rich royal city. Its fortress was thought to be impossible to capture. Even so, it was conquered twice because the guards didn’t pay attention. That is why the word fits: “Wake up.”
 > Verse 1: From the outside the church looks alive. But inside, its faith has fallen asleep.
 > Verses 4–5: White garments are a sign of purity, joy and victory.
-> “The book of life” is a picture: God knows the names of the people who belong to him. Verse 5 is a promise: He doesn’t blot them out.
+> “The book of life” is a picture: God knows the names of the people who belong to him. Verse 5 is a promise: He doesn’t erase them.
 
 ---
 
 ## The letter to Philadelphia (Verses 7–13)
 
-[7] And write to the angel of the church in Philadelphia:
-‘He says these things
-who is holy,
-who is true,
-who has the key of David.
-When he opens,
-no one can shut.
-And when he shuts,
-no one can open:
-[8] I know your works.
-Look,
-I have set before you an open door,
-which no one can shut.
-You have only a little power.
-But you have kept my word
-and didn’t deny my name.
-[9] Look,
-I give you some of the synagogue of Satan,
-of those who say they are Jews,
-and they are not,
-but lie.
-Look,
-I will make them
-come
-and worship before your feet
-and know
-that I have loved you.
-[10] Because you kept my command to endure,
-I also will keep you
-from the hour of testing
-which is to come on the whole world,
-to test those who dwell on the earth.
-[11] I am coming quickly!
-Hold firmly
-to what you have,
+[7] And write this to the angel of the church in Philadelphia:
+‘These are the words of the one who is holy and true.
+He has the key of David.
+When he opens a door, no one can shut it.
+When he shuts a door, no one can open it.
+He says:
+[8] I know what you do.
+Look, I have put an open door in front of you.
+No one can shut it.
+You have only a little strength.
+But you have kept my word,
+and you have not denied my name.
+[9] Look, some people belong to the synagogue of Satan.
+They say that they are Jews, but they are not.
+They are lying.
+Look, I will make them come and worship before your feet.
+I will make them know that I have loved you.
+[10] You kept my command to hold out patiently.
+So I will also keep you safe in the hour of testing.
+That hour is coming on the whole world.
+It will test the people who live on the earth.
+[11] I am coming soon!
+Hold on to what you have,
 so that no one takes your crown.
-[12] He who overcomes,
-I will make him a pillar in the temple of my God.
-And he will never go out from there again.
-And I will write on him the name of my God
-and the name of the city of my God,
-the new Jerusalem,
-which comes down out of heaven from my God,
-and my own new name.
-[13] He who has an ear,
-let him hear
-what the Spirit says to the churches.’
+[12] I will make the one who overcomes
+a pillar in the temple of my God.
+He will never leave it again.
+I will write on him the name of my God.
+I will write on him the name of the city of my God,
+the new Jerusalem.
+It comes down out of heaven from my God.
+And I will write on him my own new name.
+[13] Whoever has ears should listen to what the Spirit says to the churches.’
 
 > **Important note**
 > Verse 9 is as difficult as 2:9. In history it was misused to insult Jews. That is wrong.
@@ -115,54 +88,41 @@ what the Spirit says to the churches.’
 
 ## The letter to Laodicea (Verses 14–22)
 
-[14] And write to the angel of the church in Laodicea:
-‘The Amen says these things,
+[14] And write this to the angel of the church in Laodicea:
+‘These are the words of the Amen,
 the Faithful and True Witness,
-the Beginning of God’s creation:
-[15] I know your works.
+the Beginning of God’s creation.
+He says:
+[15] I know what you do.
 You are neither cold nor hot.
-I wish
-you were cold or hot.
-[16] But because you are lukewarm,
-and neither hot nor cold,
-I will vomit you out of my mouth.
+I wish you were cold or hot!
+[16] But you are lukewarm,
+neither hot nor cold.
+So I will spit you out of my mouth.
 [17] You say,
-“I am rich,
-I have gotten riches,
-and I have need of nothing.”
-And you don’t know
-that you are the wretched one,
-miserable, poor, blind and naked.
-[18] I counsel you:
-Buy from me gold
-refined by fire,
-so that you may become rich.
-And buy white garments,
-so that you may clothe yourself
-and the shame of your nakedness may not be revealed.
-And buy eye salve
-to anoint your eyes,
-so that you may see.
-[19] As many as I love,
-I reprove and chasten.
-So be zealous
-and repent.
-[20] Look,
-I stand at the door
-and knock.
-If anyone hears my voice
-and opens the door,
-then I will come in to him
-and will dine with him,
-and he with me.
-[21] He who overcomes,
-I will give to him
-to sit down with me on my throne,
-as I also overcame
-and sat down with my Father on his throne.
-[22] He who has an ear,
-let him hear
-what the Spirit says to the churches.’”
+“I am rich.
+I have become wealthy.
+I do not need anything.”
+But you do not know how wretched you are.
+You are miserable, poor, blind and naked.
+[18] So I give you this advice:
+Buy gold from me that has been made pure by fire.
+Then you will be rich.
+Buy white clothes from me, so that you can dress yourself.
+Then no one will see the shame of your nakedness.
+And buy salve from me to put on your eyes.
+Then you will be able to see.
+[19] I correct and discipline everyone I love.
+So be eager, and turn back to God.
+[20] Look, I stand at the door and knock.
+If anyone hears my voice and opens the door,
+I will come in to him.
+I will eat with him, and he will eat with me.
+[21] To the one who overcomes,
+I will give a place to sit with me on my throne.
+In the same way, I overcame,
+and I sat down with my Father on his throne.
+[22] Whoever has ears should listen to what the Spirit says to the churches.’”
 
 > **What does this mean?**
 > Laodicea was a rich city. It was famous for banks, for black wool and for an eye salve. That is why the pictures in verse 18 fit exactly.

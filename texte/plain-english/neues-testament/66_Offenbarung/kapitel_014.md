@@ -113,7 +113,7 @@ A winepress is a large tub where people crush grapes to make wine.
 [20] The grapes were crushed in the winepress outside the city.
 Blood came out of the winepress.
 It was as high as the horses’ bridles,
-and it spread for 1,600 stadia.
+and it spread for about 185 miles.
 
 > **What does this mean?**
 > Verse 14: “One like a son of man” is Jesus (compare 1:13 and Daniel 7:13).

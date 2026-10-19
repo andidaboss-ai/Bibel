@@ -5,23 +5,23 @@
 
 ## Issachar (Verses 1–5)
 
-[1] Of the sons of Issachar:
-Tola, Puah, Jashub, and Shimron, four.
-[2] The sons of Tola:
-Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel,
-heads of their fathers’ houses, of Tola,
-mighty men of courage in their generations.
-Their number in the days of David was 22,600.
-[3] The son of Uzzi: Izrahiah.
-The sons of Izrahiah:
-Michael, Obadiah, Joel, and Isshiah, five,
-all of them chief men.
-[4] With them, by their generations and their fathers’ houses,
-were troops of the army for war, 36,000,
-for they had many wives and sons.
-[5] Their brothers among all the families of Issachar,
-mighty men of courage, all listed together in the family records,
-were 87,000.
+[1] The sons of Issachar were
+Tola, Puah, Jashub, and Shimron, four in all.
+[2] The sons of Tola were
+Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel.
+They were heads of their families in the family of Tola.
+They were brave soldiers in their time.
+When David was king, there were 22,600 of them.
+[3] The son of Uzzi was Izrahiah.
+The sons of Izrahiah were
+Michael, Obadiah, Joel, and Isshiah, five in all.
+All of them were leaders.
+[4] Together with them, by their families,
+there were troops ready for war, 36,000 men.
+They had many wives and sons.
+[5] Their relatives in all the families of Issachar
+were brave soldiers too.
+In the family records there were 87,000 of them in all.
 
 > **What does this mean?**
 > Issachar lived in the fertile Valley of Jezreel in the north. The judge Tola came from this tribe (Judges 10:1).
@@ -33,26 +33,26 @@ were 87,000.
 
 ## Benjamin (Verses 6–12)
 
-[6] The sons of Benjamin:
-Bela, Becher, and Jediael, three.
-[7] The sons of Bela:
-Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five,
-heads of fathers’ houses, mighty men of courage.
-In the family records they were 22,034.
-[8] The sons of Becher:
+[6] The sons of Benjamin were
+Bela, Becher, and Jediael, three in all.
+[7] The sons of Bela were
+Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five in all.
+They were heads of their families and brave soldiers.
+In the family records there were 22,034 of them.
+[8] The sons of Becher were
 Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth.
 All these were the sons of Becher.
-[9] They were listed in the family records by their generations,
-heads of their fathers’ houses, mighty men of courage:
-20,200.
-[10] The son of Jediael: Bilhan.
-The sons of Bilhan:
+[9] They were written in the family records by their families.
+They were heads of their families and brave soldiers,
+20,200 in all.
+[10] The son of Jediael was Bilhan.
+The sons of Bilhan were
 Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
-[11] All these were sons of Jediael,
-according to the heads of their fathers’ households, mighty men of courage,
-17,200, who were able to go out in the army for war.
-[12] So were Shuppim and Huppim, the sons of Ir,
-Hushim, and the sons of Aher.
+[11] All these were descendants of Jediael.
+They were heads of their families and brave soldiers.
+There were 17,200 men who could go out to war in the army.
+[12] Shuppim and Huppim were also there, the sons of Ir,
+and Hushim, and the sons of Aher.
 
 > **What does this mean?**
 > Benjamin was Jacob’s youngest son. King Saul came from this tribe. Chapter 8 gives a longer list for Benjamin.
@@ -64,9 +64,9 @@ Hushim, and the sons of Aher.
 
 ## Naphtali (Verse 13)
 
-[13] The sons of Naphtali:
-Jahziel, Guni, Jezer, Shallum,
-and the sons of Bilhah.
+[13] The sons of Naphtali were
+Jahziel, Guni, Jezer, and Shallum,
+the sons of Bilhah.
 
 > **What does this mean?**
 > Naphtali gets only one single verse. Bilhah was the mother of Naphtali and Dan, a servant of Rachel (Genesis 30:4–8).
@@ -76,20 +76,21 @@ and the sons of Bilhah.
 
 ## Manasseh (Verses 14–19)
 
-[14] The sons of Manasseh:
-Asriel, whom his concubine, the Aramean woman, bore.
-She bore Machir the father of Gilead.
-[15] Machir took a wife of Huppim and Shuppim.
+[14] The sons of Manasseh were
+Asriel, whose mother was Manasseh’s concubine, a woman from Aram.
+A concubine is a wife of lower rank.
+She also gave birth to Machir, the father of Gilead.
+[15] Machir took a wife from Huppim and Shuppim.
 Their sister’s name was Maacah.
 The name of the second was Zelophehad.
-And Zelophehad had daughters.
-[16] Maacah the wife of Machir bore a son,
-and she named him Peresh.
-The name of his brother was Sheresh.
-And his sons were Ulam and Rakem.
-[17] The son of Ulam: Bedan.
-These were the sons of Gilead the son of Machir, the son of Manasseh.
-[18] His sister Hammolecheth bore Ishhod, Abiezer, and Mahlah.
+Zelophehad had daughters.
+[16] Maacah, the wife of Machir, gave birth to a son.
+She named him Peresh.
+His brother was named Sheresh.
+His sons were Ulam and Rakem.
+[17] The son of Ulam was Bedan.
+These were the descendants of Gilead, the son of Machir, the son of Manasseh.
+[18] His sister Hammolecheth gave birth to Ishhod, Abiezer, and Mahlah.
 [19] The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
 
 > **What does this mean?**
@@ -103,46 +104,46 @@ These were the sons of Gilead the son of Machir, the son of Manasseh.
 
 ## Ephraim (Verses 20–29)
 
-[20] The sons of Ephraim:
+[20] The descendants of Ephraim were
 Shuthelah,
-Bered his son,
-Tahath his son,
-Eleadah his son,
-Tahath his son,
-[21] Zabad his son,
-Shuthelah his son,
-and Ezer and Elead.
-The men of Gath who were born in the land killed them,
-because they came down to take away their livestock.
-[22] Ephraim their father mourned many days,
-and his brothers came to comfort him.
-[23] Then he went in to his wife.
-She became pregnant and bore a son.
-He named him Beriah,
-because there was trouble in his house.
-[24] His daughter was Sheerah.
-She built Beth Horon the lower and the upper, and Uzzen Sheerah.
-[25] Rephah was his son,
-Resheph his son,
-Telah his son,
-Tahan his son,
-[26] Ladan his son,
-Ammihud his son,
-Elishama his son,
-[27] Nun his son,
-and Joshua his son.
-[28] Their possessions and settlements were:
+his son Bered,
+his son Tahath,
+his son Eleadah,
+his son Tahath,
+[21] his son Zabad,
+and his son Shuthelah.
+Ephraim also had the sons Ezer and Elead.
+The men of Gath, who were born in that land, killed Ezer and Elead.
+They had come down to take away their animals.
+[22] Their father Ephraim mourned for them a long time.
+His brothers came to comfort him.
+[23] Then he slept with his wife.
+She became pregnant and gave birth to a son.
+Ephraim named him Beriah,
+because trouble had come to his family.
+[24] Ephraim’s daughter was Sheerah.
+She built Lower Beth Horon and Upper Beth Horon, and Uzzen Sheerah.
+[25] Then came his son Rephah,
+his son Resheph,
+his son Telah,
+his son Tahan,
+[26] his son Ladan,
+his son Ammihud,
+his son Elishama,
+[27] his son Nun,
+and his son Joshua.
+[28] Their land and the places where they lived were
 Bethel and its towns,
-and eastward Naaran,
-and westward Gezer with its towns,
-Shechem also and its towns,
-as far as Azzah and its towns;
-[29] and by the borders of the children of Manasseh:
+Naaran to the east,
+Gezer and its towns to the west,
+and Shechem and its towns,
+as far as Azzah and its towns.
+[29] Along the borders of the land of Manasseh there were
 Beth Shean and its towns,
 Taanach and its towns,
 Megiddo and its towns,
 and Dor and its towns.
-The children of Joseph the son of Israel lived in these.
+The descendants of Joseph, the son of Israel, lived in these places.
 
 > **What does this mean?**
 > A sad little story: sons of Ephraim are killed during a cattle raid. Their father Ephraim mourns for a long time. His brothers come and comfort him. Then a new son is born to him. He names him Beriah, “in trouble”. The name reminds of the pain, but the child is also a new beginning.
@@ -155,34 +156,34 @@ The children of Joseph the son of Israel lived in these.
 
 ## Asher (Verses 30–40)
 
-[30] The sons of Asher:
+[30] The sons of Asher were
 Imnah, Ishvah, Ishvi, and Beriah.
-And Serah was their sister.
-[31] The sons of Beriah:
+Their sister was Serah.
+[31] The sons of Beriah were
 Heber and Malchiel.
-He was the father of Birzaith.
-[32] Heber became the father of Japhlet, Shomer, and Hotham,
-and Shua their sister.
-[33] The sons of Japhlet:
+Malchiel was the father of Birzaith.
+[32] Heber was the father of Japhlet, Shomer, and Hotham,
+and of their sister Shua.
+[33] The sons of Japhlet were
 Pasach, Bimhal, and Ashvath.
 These are the children of Japhlet.
-[34] The sons of Shemer:
+[34] The sons of Shemer were
 Ahi, Rohgah, Jehubbah, and Aram.
-[35] The sons of Helem his brother:
+[35] Helem was his brother.
+The sons of Helem were
 Zophah, Imna, Shelesh, and Amal.
-[36] The sons of Zophah:
+[36] The sons of Zophah were
 Suah, Harnepher, Shual, Beri, Imrah,
 [37] Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
-[38] The sons of Jether:
+[38] The sons of Jether were
 Jephunneh, Pispa, and Ara.
-[39] The sons of Ulla:
+[39] The sons of Ulla were
 Arah, Hanniel, and Rizia.
-[40] All these were the children of Asher,
-heads of the fathers’ houses,
-chosen and mighty men of courage,
-chief of the princes.
-The number of them listed in the family records for service in war
-was 26,000 men.
+[40] All these were descendants of Asher.
+They were heads of their families,
+the best men and brave soldiers,
+the most important leaders.
+In the family records there were 26,000 men who could serve in war.
 
 > **What does this mean?**
 > Asher lived in the northwest, on the coast of the Mediterranean Sea.

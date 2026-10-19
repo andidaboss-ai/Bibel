@@ -5,17 +5,22 @@
 
 ## The LORD is my rock (Verses 1–4)
 
-[1] David spoke the words of this song to the LORD
-on the day the LORD rescued him from the hand of all his enemies
-and from the hand of Saul.
+[1] The LORD had rescued David from all his enemies
+and from Saul.
+On that day David sang this song to the LORD.
 [2] He said:
-“The LORD is my rock, my fortress, and my rescuer, yes, mine.
-[3] God is my rock, in whom I take refuge,
-my shield and the horn of my salvation,
-my high tower and my refuge.
-My Savior, you save me from violence.
-[4] I call on the LORD, who is worthy to be praised.
-So I will be saved from my enemies.
+“The LORD is my rock.
+He is my fortress.
+He is the one who rescues me, yes, me.
+[3] God is my rock.
+I am safe with him.
+He is my shield and the horn of my salvation.
+He is my high tower and my safe place.
+You are my Savior.
+You save me from violence.
+[4] I call on the LORD.
+He deserves all praise.
+And he saves me from my enemies.
 
 > **What does this mean?**
 > At the end of the book there is a great song of thanks. Almost exactly the same song is also in the book of Psalms, as Psalm 18.
@@ -27,9 +32,9 @@ So I will be saved from my enemies.
 
 ## In my distress I called to the LORD (Verses 5–7)
 
-[5] For the waves of death surrounded me.
-The floods of wickedness made me afraid.
-[6] The cords of Sheol were all around me.
+[5] The waves of death were all around me.
+The floods of evil made me afraid.
+[6] The ropes of Sheol were wrapped around me.
 The traps of death caught me.
 [7] In my distress I called on the LORD.
 Yes, I called to my God.
@@ -47,35 +52,35 @@ My cry came into his ears.
 ## God comes to help (Verses 8–20)
 
 [8] Then the earth shook and trembled.
-The foundations of heaven quaked and were shaken,
-because he was angry.
-[9] Smoke went up out of his nostrils.
-Consuming fire came out of his mouth.
-Coals were set burning by it.
-[10] He bent the heavens and came down.
-Thick darkness was under his feet.
+The foundations of the sky shook,
+because God was angry.
+[9] Smoke went up from his nose.
+Fire that burns everything came out of his mouth.
+It set coals on fire.
+[10] He bent the sky down and came down.
+Dark clouds were under his feet.
 [11] He rode on a cherub and flew.
-Yes, he was seen on the wings of the wind.
-[12] He made darkness a shelter around himself,
-gathered waters and thick clouds of the skies.
-[13] At the brightness before him,
-coals of fire were set burning.
+He was seen on the wings of the wind.
+[12] He hid himself in darkness like in a tent.
+Dark rain clouds and thick clouds were all around him.
+[13] Out of the bright light in front of him,
+burning coals blazed up.
 [14] The LORD thundered from heaven.
-The Most High let his voice be heard.
-[15] He shot out arrows and scattered them,
-lightning, and threw them into confusion.
-[16] Then the channels of the sea appeared.
-The foundations of the world were laid bare
-by the LORD’s rebuke,
-at the blast of the breath of his nostrils.
-[17] He reached down from on high and took hold of me.
-He drew me out of many waters.
-[18] He rescued me from my strong enemy,
-from those who hated me,
-for they were too mighty for me.
-[19] They came against me on the day of my disaster,
-but the LORD was my support.
-[20] He also brought me out into a wide, open place.
+The Most High God let his voice be heard.
+[15] He shot his arrows and scattered his enemies.
+He sent lightning and threw them into confusion.
+[16] Then the bottom of the sea could be seen.
+The foundations of the world were uncovered,
+because the LORD gave a stern warning.
+The breath of his nose blew like a storm.
+[17] He reached down from above and took hold of me.
+He pulled me out of deep waters.
+[18] He rescued me from my strong enemy.
+He rescued me from those who hated me.
+They were too strong for me.
+[19] They attacked me on the day when I was in great trouble.
+But the LORD held me up.
+[20] He brought me out into a wide, open place.
 He rescued me, because he delighted in me.
 
 > **What does this mean?**
@@ -89,22 +94,22 @@ He rescued me, because he delighted in me.
 
 ## God rewards faithfulness (Verses 21–28)
 
-[21] The LORD rewarded me according to my righteousness.
-He rewarded me according to the cleanness of my hands.
-[22] For I have kept the ways of the LORD,
-and I have not wickedly turned away from my God.
-[23] For all his laws were before me.
+[21] The LORD rewarded me because I did what was right.
+He rewarded me because my hands were clean.
+[22] I have followed the ways of the LORD.
+I have not done evil and turned away from my God.
+[23] I kept all his laws in front of my eyes.
 I did not turn away from his commands.
-[24] I was also blameless toward him.
-I kept myself from my sin.
-[25] So the LORD has rewarded me according to my righteousness,
-according to my cleanness in his eyes.
-[26] With the merciful you show yourself merciful.
-With the blameless man you show yourself blameless.
-[27] With the pure you show yourself pure.
-With the crooked you show yourself shrewd.
-[28] You save the humble people,
-but your eyes are on the proud, to bring them down.
+[24] I was without blame before him.
+I kept myself from sin.
+[25] So the LORD has rewarded me because I did what was right.
+In his eyes I was clean.
+[26] To those who are merciful, you show mercy.
+To those who are without blame, you show that you are without blame.
+[27] To those who are pure, you show that you are pure.
+But to those who are crooked, you show that you are clever.
+[28] You save people who are poor and suffering.
+But you watch the proud, and you bring them down.
 
 > **What does this mean?**
 > David says: I was righteous, I kept God’s commands. How can he say that, after what happened with Bathsheba and Uriah?
@@ -116,24 +121,24 @@ but your eyes are on the proud, to bring them down.
 
 ## With my God I leap over a wall (Verses 29–37)
 
-[29] For you are my lamp, LORD.
-The LORD lights up my darkness.
-[30] For with you I run against a troop.
+[29] You are my lamp, LORD.
+The LORD makes my darkness bright.
+[30] With you I can attack a whole troop of soldiers.
 With my God I leap over a wall.
-[31] As for God, his way is perfect.
-The word of the LORD has been tested.
-He is a shield to all who take refuge in him.
-[32] For who is God, besides the LORD?
-And who is a rock, besides our God?
+[31] God’s way is perfect.
+The word of the LORD has been tested and is true.
+He is a shield for all who look to him for safety.
+[32] Who is God except the LORD?
+And who is a rock except our God?
 [33] God is my strong fortress.
 He makes my way perfect.
-[34] He makes his feet like the feet of a deer
-and sets me on my high places.
-[35] He teaches my hands to fight,
-so that my arms can bend a bow of bronze.
-[36] You have also given me the shield of your salvation.
+[34] He makes his feet like the feet of a deer.
+He lets me stand safely on the high places.
+[35] He trains my hands for battle.
+Now my arms can bend a bow of bronze.
+[36] You have given me the shield of your salvation.
 Your gentleness has made me great.
-[37] You have made room for my steps under me.
+[37] You have made a wide path for my steps.
 My feet have not slipped.
 
 > **What does this mean?**
@@ -147,25 +152,25 @@ My feet have not slipped.
 
 ## Victory over the enemies (Verses 38–46)
 
-[38] I have chased my enemies and destroyed them.
-I did not turn back until they were wiped out.
-[39] I have wiped them out and struck them through, so that they cannot get up.
-Yes, they have fallen under my feet.
-[40] For you have armed me with strength for the battle.
-You have brought down under me those who rose up against me.
-[41] You have also made my enemies turn their backs to me,
-so that I could cut off those who hate me.
-[42] They looked, but there was no one to save them.
-They even looked to the LORD, but he did not answer them.
-[43] Then I beat them as small as the dust of the earth.
-I crushed them like the mud of the streets and spread them out.
+[38] I chased my enemies and destroyed them.
+I did not turn back until they were finished.
+[39] I finished them off and struck them down, so that they cannot get up.
+They have fallen under my feet.
+[40] You have armed me with strength for the battle.
+You have made those who attacked me fall down before me.
+[41] You made my enemies turn and run away from me.
+So I could destroy those who hate me.
+[42] They looked for help, but there was no one to save them.
+They even called to the LORD, but he did not answer them.
+[43] I ground them as fine as the dust of the earth.
+I crushed them like the mud in the streets and scattered them.
 [44] You have also rescued me from the quarrels of my people.
-You have kept me to be the head of the nations.
-A people whom I have not known will serve me.
-[45] The foreigners will submit to me.
-As soon as they hear of me, they will obey me.
-[46] The foreigners will fade away
-and come trembling out of their hiding places.
+You have kept me as the head of the nations.
+A people I did not know will serve me.
+[45] Foreigners will bow down to me.
+As soon as they hear about me, they will obey me.
+[46] Foreigners will lose their courage.
+They will come out of their hiding places, trembling.
 
 > **What does this mean?**
 > This part is a victory song, like the songs kings sang in those days. The language is harsh and warlike. It reflects David’s world, in which people fought to survive.
@@ -178,17 +183,17 @@ and come trembling out of their hiding places.
 ## Praise for God’s faithfulness (Verses 47–51)
 
 [47] The LORD lives!
-Blessed be my rock!
-Exalted be God, the rock of my salvation,
-[48] the God who takes revenge for me
-and brings down peoples under me,
-[49] who brings me away from my enemies.
-Yes, you lift me up above those who rise up against me.
-You rescue me from the violent man.
-[50] So I will give thanks to you, LORD, among the nations,
-and I will sing praises to your name.
-[51] He gives great salvation to his king
-and shows loving kindness to his anointed,
+Praise be to my rock!
+Praise God, the rock who saves me!
+[48] He is the God who pays back my enemies for me.
+He puts nations under my power.
+[49] He sets me free from my enemies.
+You lift me up high above those who attack me.
+You rescue me from violent people.
+[50] So I will give thanks to you, LORD, among the nations.
+I will sing praises to your name.
+[51] He gives great victories to his king.
+He shows his faithful love to his anointed king,
 to David and to his descendants, forever.”
 
 > **What does this mean?**

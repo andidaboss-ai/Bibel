@@ -32,8 +32,8 @@ The one who sat on it had a balance in his hand.
 A balance is a scale for weighing.
 [6] I heard a voice in the middle of the four living creatures.
 It said,
-“A choenix of wheat for a denarius,
-and three choenix of barley for a denarius!
+“About a quart of wheat for a denarius,
+and about three quarts of barley for a denarius!
 Don’t harm the oil and the wine!”
 [7] When the Lamb opened the fourth seal,
 I heard the fourth living creature say, “Come and see!”
@@ -47,7 +47,7 @@ He could kill with the sword, with famine, with death, and by the wild animals o
 > The four riders recall the colored horses in the prophet Zechariah (Zechariah 1 and 6).
 > Verse 2: The white rider with a bow perhaps recalls the Parthians, a people of horsemen that the Romans were afraid of. He stands for conquest and greed for power.
 > Verse 4: The red rider stands for war and violence.
-> Verses 5–6: The black rider stands for hunger and high prices. A denarius was the wage for one day of work. A choenix is about a quart. A choenix of wheat was just enough for one person for one day. Nothing was left for a family. But oil and wine, the things of the rich, are spared. That shows injustice.
+> Verses 5–6: The black rider stands for hunger and high prices. A denarius was the wage for one day of work. The old measure here is a choenix. A choenix is about a quart. A choenix of wheat was just enough for one person for one day. Nothing was left for a family. But oil and wine, the things of the rich, are spared. That shows injustice.
 > Verse 8: The pale rider is called Death. “Pale” is the greenish, pale color of sick and dead people. The word “death” appears twice in verse 8. The second time probably means plague, as in Ezekiel 14:21.
 > Important: The power of the riders is limited. It is only “given” to them. And it is only “one fourth,” not everything.
 

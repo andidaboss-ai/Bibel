@@ -5,21 +5,22 @@
 
 ## Benjamin’s sons and grandsons (Verses 1–7)
 
-[1] Benjamin became the father of Bela his firstborn,
-Ashbel the second,
-Aharah the third,
-[2] Nohah the fourth,
-and Rapha the fifth.
-[3] Bela had sons:
+[1] Benjamin was the father of these sons:
+Bela, his firstborn,
+Ashbel, the second,
+Aharah, the third,
+[2] Nohah, the fourth,
+and Rapha, the fifth.
+[3] The sons of Bela were
 Addar, Gera, Abihud,
 [4] Abishua, Naaman, Ahoah,
 [5] Gera, Shephuphan, and Huram.
 [6] These are the sons of Ehud.
-These are the heads of fathers’ households of the people who lived in Geba,
-who were carried away as captives to Manahath:
-[7] Naaman, Ahijah, and Gera.
-He carried them away.
-And he became the father of Uzza and Ahihud.
+They were the heads of the families who lived in Geba.
+They were taken away as prisoners to Manahath.
+[7] They were Naaman, Ahijah, and Gera.
+Gera took them away.
+He was the father of Uzza and Ahihud.
 
 > **What does this mean?**
 > Benjamin gets a second, longer list. There is a reason for this: King Saul came from Benjamin. And after the exile many Benjamites lived in and around Jerusalem.
@@ -31,35 +32,38 @@ And he became the father of Uzza and Ahihud.
 
 ## Shaharaim and his descendants (Verses 8–28)
 
-[8] Shaharaim became the father of children in the field of Moab,
+[8] Shaharaim had children in the country of Moab,
 after he had sent them away.
 Hushim and Baara were his wives.
-[9] By Hodesh his wife he became the father of Jobab, Zibia, Mesha, Malcam,
+[9] With his wife Hodesh he had these sons:
+Jobab, Zibia, Mesha, Malcam,
 [10] Jeuz, Shachia, and Mirmah.
-These were his sons, heads of fathers’ households.
-[11] By Hushim he became the father of Abitub and Elpaal.
-[12] The sons of Elpaal:
+These were his sons.
+They were heads of families.
+[11] With Hushim he had the sons Abitub and Elpaal.
+[12] The sons of Elpaal were
 Eber, Misham, and Shemed.
 He built Ono and Lod with its towns.
-[13] And Beriah and Shema.
-They were heads of fathers’ households of the people who lived in Aijalon.
-They drove away the people who lived in Gath.
-[14] And Ahio, Shashak, Jeremoth,
+[13] Then there were Beriah and Shema.
+They were heads of the families who lived in Aijalon.
+They chased away the people who lived in Gath.
+[14] Ahio, Shashak, Jeremoth,
 [15] Zebadiah, Arad, Eder,
-[16] Michael, Ishpah, and Joha, the sons of Beriah.
+[16] Michael, Ishpah, and Joha were the sons of Beriah.
 [17] Zebadiah, Meshullam, Hizki, Heber,
-[18] Ishmerai, Izliah, and Jobab, the sons of Elpaal.
+[18] Ishmerai, Izliah, and Jobab were the sons of Elpaal.
 [19] Jakim, Zichri, Zabdi,
 [20] Elienai, Zillethai, Eliel,
-[21] Adaiah, Beraiah, and Shimrath, the sons of Shimei.
+[21] Adaiah, Beraiah, and Shimrath were the sons of Shimei.
 [22] Ishpan, Eber, Eliel,
 [23] Abdon, Zichri, Hanan,
 [24] Hananiah, Elam, Anthothijah,
-[25] Iphdeiah, and Penuel, the sons of Shashak.
+[25] Iphdeiah, and Penuel were the sons of Shashak.
 [26] Shamsherai, Shehariah, Athaliah,
-[27] Jaareshiah, Elijah, Zichri, and the sons of Jeroham.
-[28] These were heads of fathers’ households throughout their generations, chief men.
-These lived in Jerusalem.
+[27] Jaareshiah, Elijah, and Zichri were the sons of Jeroham.
+[28] These were heads of families in their time.
+They were leaders.
+They lived in Jerusalem.
 
 > **What does this mean?**
 > Shaharaim lived in Moab for a time. Does this remind us of Ruth? Naomi’s family was in Moab too (Ruth 1:1).
@@ -74,35 +78,37 @@ These lived in Jerusalem.
 
 [29] The father of Gibeon lived in Gibeon.
 His wife’s name was Maacah.
-[30] With him lived his firstborn son Abdon, and Zur, Kish, Baal, Nadab,
+[30] His firstborn son Abdon lived with him,
+and Zur, Kish, Baal, Nadab,
 [31] Gedor, Ahio, Zecher,
 [32] and Mikloth.
-He became the father of Shimeah.
+Mikloth was the father of Shimeah.
 They also lived with their families in Jerusalem, near their relatives.
-[33] Ner became the father of Kish.
-Kish became the father of Saul.
-Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
+[33] Ner was the father of Kish.
+Kish was the father of Saul.
+Saul was the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
 [34] The son of Jonathan was Merib-baal.
-Merib-baal became the father of Micah.
-[35] The sons of Micah:
+Merib-baal was the father of Micah.
+[35] The sons of Micah were
 Pithon, Melech, Tarea, and Ahaz.
-[36] Ahaz became the father of Jehoaddah.
-Jehoaddah became the father of Alemeth, Azmaveth, and Zimri.
-Zimri became the father of Moza.
-[37] Moza became the father of Binea.
-Raphah was his son,
-Eleasah his son,
-and Azel his son.
+[36] Ahaz was the father of Jehoaddah.
+Jehoaddah was the father of Alemeth, Azmaveth, and Zimri.
+Zimri was the father of Moza.
+[37] Moza was the father of Binea.
+Binea’s son was Raphah.
+Raphah’s son was Eleasah.
+Eleasah’s son was Azel.
 [38] Azel had six sons. These are their names:
 Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.
 All these were the sons of Azel.
-[39] The sons of Eshek his brother:
-Ulam his firstborn,
-Jeush the second,
-and Eliphelet the third.
-[40] The sons of Ulam were mighty men of courage, archers.
-They had many sons and grandsons, 150.
-All these were of the sons of Benjamin.
+[39] Azel’s brother was Eshek.
+The sons of Eshek were
+Ulam, his firstborn,
+Jeush, the second,
+and Eliphelet, the third.
+[40] The sons of Ulam were brave soldiers and archers.
+They had many sons and grandsons, 150 in all.
+All these were descendants of Benjamin.
 
 > **What does this mean?**
 > Here is the family tree of King Saul. Saul is the first king of Israel, and Chronicles tells about his death in the next chapter. His family lived on, over many generations.

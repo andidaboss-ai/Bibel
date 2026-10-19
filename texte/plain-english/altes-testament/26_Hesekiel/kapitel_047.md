@@ -79,7 +79,7 @@ and their leaves for healing.”
 > The river flows through the desert (the Arabah is the valley of the Jordan down to the Dead Sea) and then into the Dead Sea. The Dead Sea is so salty that no fish can live in it. But this water makes even the Dead Sea come alive! Fishermen will throw out their nets there.
 > En Gedi is an oasis on the west shore of the Dead Sea that still exists today.
 > Verse 11: The swamps stay salty. Salt was important for life back then (for seasoning food and for keeping it from spoiling). God provides for everything.
-> Verse 12: Trees that bear fruit every month and whose leaves heal. That is a picture of paradise. At the end of the Bible this picture is taken up: “He showed me a river of water of life … On both sides of the river was the tree of life. It bears twelve kinds of fruits and yields its fruit every month. And the leaves of the tree were for the healing of the nations” (Revelation 22:1–2).
+> Verse 12: Trees that bear fruit every month and whose leaves heal. That is a picture of paradise. At the end of the Bible this picture is taken up: “The angel showed me a river of the water of life … On both sides of the river was the tree of life. It bears twelve kinds of fruit. It gives its fruit every month. The leaves of the tree were for the healing of the nations” (Revelation 22:1–2).
 > The message: God’s presence changes even what is dead into what is alive, the desert into a garden.
 
 ---

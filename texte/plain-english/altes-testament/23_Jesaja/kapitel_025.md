@@ -61,7 +61,7 @@ We will be glad and rejoice in his salvation!”
 > Verse 6: God invites all peoples to a great feast on Mount Zion. The best food, the best wine. No one is left out. Jesus often speaks of the kingdom of God as a feast (Matthew 8:11; Luke 14:15–24).
 > Verse 7: The “covering” and the “veil” are perhaps veils of mourning. God takes the mourning away from all people.
 > Verse 8: “He has swallowed up death forever!” Death, which swallows everything, is itself swallowed up. And God himself wipes away every tear, as tenderly as a mother.
-> Paul quotes this verse when he speaks of the resurrection (1 Corinthians 15:54). And Revelation takes it up: “He will wipe away every tear from their eyes. Death will be no more” (Revelation 21:4). This verse is often read at funerals.
+> Paul quotes this verse when he speaks of the resurrection (1 Corinthians 15:54). And Revelation takes it up: “He will wipe away every tear from their eyes. There will be no more death” (Revelation 21:4). This verse is often read at funerals.
 > Verse 9: “This is our God! We have waited for him.” The long wait was worth it.
 
 ---

@@ -10,6 +10,7 @@ import concurrent.futures as cf, glob, json, os, re, sys, urllib.parse, urllib.r
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SERVER = "http://localhost:8081/v2/check"
+EN = os.environ.get("BIBEL_SPRACHE") == "en"  # BIBEL_SPRACHE=en prüft die englische Ausgabe (en-US)
 
 
 def reiner_text(md):
@@ -43,7 +44,7 @@ def pruefe(datei):
         teile.append(t + trenner)
         pos += len(t) + len(trenner)
     text = "".join(teile)
-    daten = urllib.parse.urlencode({"text": text, "language": "de-DE", "level": "picky"}).encode()
+    daten = urllib.parse.urlencode({"text": text, "language": "en-US" if EN else "de-DE", "level": "picky"}).encode()
     antwort = json.load(urllib.request.urlopen(SERVER, daten, timeout=900))
     funde = []
     for m in antwort["matches"]:
@@ -61,7 +62,7 @@ def pruefe(datei):
 
 if __name__ == "__main__":
     aus = sys.argv[1] if len(sys.argv) > 1 else os.path.join(WURZEL, "sprachpruefung.json")
-    dateien = sorted(glob.glob(os.path.join(WURZEL, "texte", "leichte-sprache", "*", "*", "kapitel_*.md")))
+    dateien = sorted(glob.glob(os.path.join(WURZEL, "texte", "plain-english" if EN else "leichte-sprache", "*", "*", "kapitel_*.md")))
     alle = []
     with cf.ThreadPoolExecutor(6) as pool:
         for i, f in enumerate(pool.map(pruefe, dateien), start=1):

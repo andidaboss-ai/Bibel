@@ -68,7 +68,7 @@ lame people, and blind people.
 [14] Then you will be blessed.
 They cannot pay you back.
 But you will be paid back
-when good people rise from the dead.”
+when the people who do what is right rise from the dead.”
 
 > **What does this mean?**
 > At feasts back then the seating order was very important. It showed how much honor someone had.
