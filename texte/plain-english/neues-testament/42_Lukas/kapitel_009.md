@@ -7,33 +7,32 @@
 
 [1] Jesus called the twelve together.
 He gave them power and authority
-over all demons,
-and power to cure diseases.
+to drive out all demons
+and to heal diseases.
 [2] He sent them out
-to preach God’s Kingdom
+to tell about God’s Kingdom
 and to heal the sick.
 [3] He said to them,
-“Take nothing for your journey:
-no staffs,
+“Take nothing with you for the trip.
+Take no walking stick,
 no bag,
 no bread,
 and no money.
-Don’t have two tunics each.
-[4] Whatever house you enter,
-stay there
-until you leave that place.
-[5] If people don’t welcome you,
-then leave that city
-and shake off even the dust from your feet.
-That will be a testimony against them.”
-[6] They set out
-and went through the villages.
-They preached the Good News
+Don’t take an extra shirt.
+[4] When you go into a house,
+stay there until you leave that town.
+[5] Some people will not welcome you.
+When you leave their town,
+shake the dust off your feet.
+That will be a warning to them.”
+[6] So the twelve went out.
+They went from village to village.
+They told the Good News
 and healed people everywhere.
 
 > **What does this mean?**
 > The twelve are to do what Jesus does: preach and heal. Now they are no longer only students, but messengers.
-> Verse 3: They are to travel without supplies. In this way they show: We trust in God and in people’s hospitality. A staff is a walking stick. A tunic is a simple shirt-like garment.
+> Verse 3: They are to travel without supplies. In this way they show: We trust in God and in people’s hospitality. A staff is a walking stick. The “shirt” is a tunic, a simple shirt-like garment.
 > Verse 5: Shaking off the dust means: We let you go. Now you are responsible yourselves. It is a sign, not revenge and not violence.
 > For today: Whoever tells others about God does not need much. Trust is more important than money.
 
@@ -41,20 +40,16 @@ and healed people everywhere.
 
 ## Herod is puzzled (Verses 7–9)
 
-[7] Herod the tetrarch
-heard about all that was done by Jesus.
-He was very puzzled.
-For some said
-that John had risen from the dead.
-[8] Others said
-that Elijah had appeared.
-And still others said
-that one of the old prophets had risen again.
+[7] Herod the tetrarch heard about everything that was happening.
+He did not know what to think.
+Some people said that John had risen from the dead.
+[8] Others said that Elijah had appeared.
+Still others said that one of the old prophets had come back to life.
 [9] Herod said,
-“I beheaded John.
-But who is this
-about whom I hear such things?”
-And he wanted to see him.
+“I had John’s head cut off.
+So who is this man?
+I hear such things about him!”
+And Herod wanted to see Jesus.
 
 > **What does this mean?**
 > This Herod is Herod Antipas. He had had John the Baptizer killed (compare Mark 6:14–29). Luke does not tell the death of John in detail.
@@ -66,50 +61,46 @@ And he wanted to see him.
 
 ## Jesus feeds five thousand people (Verses 10–17)
 
-[10] The apostles came back
-and told Jesus
-everything they had done.
-He took them with him
-and withdrew with them alone
-to a desert region of a city called Bethsaida.
-[11] But the crowds found out
+[10] The apostles came back.
+They told Jesus everything they had done.
+Jesus took them with him,
+and they went away by themselves.
+He went with them to a deserted area of a town called Bethsaida.
+[11] But the crowds found out about it
 and followed him.
-He welcomed them,
-spoke to them about God’s Kingdom,
-and healed those who needed healing.
-[12] The day began to come to an end.
-Then the twelve came to him
-and said,
+Jesus welcomed them.
+He told them about God’s Kingdom.
+And he healed the people who needed healing.
+[12] Late in the afternoon,
+the twelve came to Jesus.
+They said,
 “Send the crowd away.
-They should go into the surrounding villages and farms
-to find a place to stay and get food.
-For we are here in a deserted place.”
-[13] But he said to them,
+Then they can go to the villages and farms around here.
+They can find a place to stay and get food.
+For we are in a deserted place here.”
+[13] But Jesus said to them,
 “You give them something to eat.”
 They said,
-“We have no more than five loaves and two fish.
-Or should we go
-and buy food for all these people?”
-[14] For there were about five thousand men.
-He said to his disciples,
-“Make them sit down in groups
-of about fifty each.”
-[15] They did so
-and made them all sit down.
-[16] He took the five loaves and the two fish,
-looked up to the sky,
-blessed them,
-and broke them.
-He gave them to the disciples
-to hand out to the crowd.
-[17] They all ate
-and were filled.
-They gathered up what was left over:
-twelve baskets of broken pieces.
+“We have only five loaves of bread and two fish.
+Do you want us to go and buy food for all these people?”
+[14] There were about five thousand men there.
+Jesus said to his disciples,
+“Have them sit down in groups of about fifty.”
+[15] The disciples did this.
+They had everyone sit down.
+[16] Jesus took the five loaves and the two fish.
+He looked up to the sky
+and blessed them.
+He broke the bread and the fish into pieces.
+He gave the pieces to the disciples
+to give to the crowd.
+[17] Everyone ate and had enough.
+The disciples picked up the pieces that were left over.
+They filled twelve baskets.
 
 > **What does this mean?**
 > This is the only miracle of Jesus that is told in all four Gospels (compare Matthew 14:13–21; Mark 6:30–44; John 6:1–15).
-> Verse 10: The WEB says “to a desert region of a city called Bethsaida.” Some old manuscripts only say: to a city called Bethsaida. Bethsaida was on the north shore of the Sea of Galilee.
+> Verse 10: Here it says that Jesus went with them “to a deserted area of a town called Bethsaida.” Some old manuscripts only say: to a city called Bethsaida. Bethsaida was on the north shore of the Sea of Galilee.
 > Verse 13: “You give them something to eat.” Jesus makes the disciples responsible.
 > Verse 14: Back then often only the men were counted. So there were even more people there, with women and children.
 > Verse 16: Looking up, blessing, breaking, giving: These words remind us of the Last Supper (Luke 22:19). Christians think of Holy Communion or the Eucharist.
@@ -120,104 +111,98 @@ twelve baskets of broken pieces.
 
 ## Peter says who Jesus is (Verses 18–27)
 
-[18] Once Jesus was praying alone.
-The disciples were near him.
+[18] One day Jesus was praying alone.
+His disciples were near him.
 He asked them,
 “Who do the crowds say that I am?”
 [19] They answered,
-“‘John the Baptizer.’
-But others say, ‘Elijah.’
+“Some say you are John the Baptizer.
+Others say you are Elijah.
 And others say
-that one of the old prophets has risen again.”
-[20] He said to them,
+that one of the old prophets has come back to life.”
+[20] Jesus said to them,
 “But who do you say that I am?”
 Peter answered,
-“The Christ of God.”
-[21] But he warned them
-and commanded them
-to tell this to no one.
+“You are the Christ of God.”
+[21] Then Jesus warned them strongly
+not to tell this to anyone.
 [22] He said,
 “The Son of Man must suffer many things.
-He will be rejected by the elders,
-the chief priests,
-and the scribes.
-He will be killed,
-and on the third day be raised up.”
-[23] He said to all,
-“If anyone wants to come after me,
-let him deny himself,
-take up his cross,
+The elders, the chief priests, and the scribes will reject him.
+He will be killed.
+And on the third day he will be raised to life.”
+[23] Then he said to everyone,
+“If anyone wants to come with me,
+he must say no to himself.
+He must take up his cross
 and follow me.
-[24] For whoever wants to save his life
+[24] Whoever wants to save his life
 will lose it.
-But whoever loses his life for my sake
+But whoever loses his life because of me
 will save it.
-[25] For what does it profit a man
-if he gains the whole world,
-but loses
-or forfeits his own self?
-[26] For whoever is ashamed of me and of my words,
-of him the Son of Man will be ashamed
+[25] What good is it for a person
+to win the whole world
+but to lose his own self, or to throw it away?
+[26] Someone may be ashamed of me and of my words.
+Then the Son of Man will be ashamed of him
 when he comes in his glory,
-and the glory of the Father,
+in the glory of the Father
 and of the holy angels.
-[27] But I tell you the truth:
-There are some of those who stand here
-who will in no way taste of death
-until they see God’s Kingdom.”
+[27] I tell you the truth:
+Some of the people standing here will not die
+before they see God’s Kingdom.”
 
 > **What does this mean?**
 > Verse 18: In Luke, Jesus prays before important moments. Here too.
 > Verse 20: “Christ” is Greek and means “the anointed one,” in Hebrew “Messiah.” Peter says: You are the Savior promised by God.
 > Verses 21–22: Jesus does not want people to misunderstand him as a political liberator. He says: The Messiah’s way leads through suffering. This is the first time in Luke that Jesus announces his suffering.
 > Important: Verse 22 names certain leaders in Jerusalem, not the Jewish people. According to Luke 24:20 and Acts 4:27 the Romans were involved too. The Jewish people do not bear guilt for the death of Jesus (Council declaration *Nostra Aetate*, 1965).
-> Verse 23: “Take up his cross” is a picture: following Jesus even when it is hard. Deny himself: not putting himself first. Many old manuscripts say that he should take up his cross daily. The WEB does not have “daily.”
+> Verse 23: “Take up his cross” is a picture: following Jesus even when it is hard. Say no to himself: not putting himself first. Many old manuscripts say that he should take up his cross daily. The WEB does not have “daily.”
 > Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help.
-> Verse 25: Forfeits: loses something as a penalty.
+> Verse 25: “Throw it away”: Older Bibles say “forfeit,” that is, lose something as a penalty.
 > Verse 27: These words are understood in different ways. Many interpreters think of the transfiguration, which follows right after, or of Easter and Pentecost.
 
 ---
 
 ## Jesus is transfigured (Verses 28–36)
 
-[28] About eight days after these sayings,
-Jesus took Peter, John, and James with him
-and went up onto the mountain
-to pray.
-[29] As he was praying,
-the appearance of his face was changed,
-and his clothing became white and dazzling.
-[30] Two men were talking with him.
+[28] About eight days after Jesus said these things,
+he took Peter, John, and James with him.
+He went up on the mountain to pray.
+[29] While he was praying,
+his face changed.
+His clothes became shining white.
+[30] Suddenly two men were talking with him.
 They were Moses and Elijah.
-[31] They appeared in glory
-and spoke of his departure,
-which he was about to complete at Jerusalem.
-[32] Peter and those who were with him
-were heavy with sleep.
-But when they were fully awake,
-they saw his glory
-and the two men who stood with him.
-[33] As the two were leaving him,
-Peter said to Jesus,
+[31] They appeared in glory.
+They talked about his departure.
+That means: how he would leave this world.
+This was soon going to happen in Jerusalem.
+[32] Peter and the others with him were very sleepy.
+But then they became fully awake.
+They saw the glory of Jesus
+and the two men standing with him.
+[33] The two men were about to leave Jesus.
+Then Peter said to him,
 “Master, it is good for us to be here.
 Let’s make three tents:
 one for you,
 one for Moses,
 and one for Elijah.”
-He didn’t know what he was saying.
-[34] While he was saying these things,
-a cloud came
-and overshadowed them.
-They were afraid
-as they entered into the cloud.
-[35] A voice came out of the cloud, saying,
+Peter did not know what he was saying.
+[34] While he was saying this,
+a cloud came and covered them.
+The disciples were afraid
+as they went into the cloud.
+[35] A voice came out of the cloud.
+It said,
 “This is my beloved Son.
 Listen to him!”
-[36] When the voice had spoken,
-Jesus was found alone.
-They were silent
-and in those days told no one
-any of the things they had seen.
+[36] After the voice had spoken,
+they saw that Jesus was alone.
+The disciples kept quiet.
+In those days they told no one
+anything about what they had seen.
 
 > **What does this mean?**
 > This story is called the “transfiguration.” Transfigured means: changed in appearance, shining with glory. For a moment the disciples see Jesus’ divine glory.
@@ -232,49 +217,47 @@ any of the things they had seen.
 ## Jesus heals a boy (Verses 37–45)
 
 [37] The next day they came down from the mountain.
-A great crowd came to meet him.
-[38] A man from the crowd called out,
-“Teacher, I beg you
-to look at my son,
-for he is my only child.
-[39] A spirit seizes him.
-Suddenly he cries out.
-It throws him into convulsions
-so that he foams at the mouth.
-And it hardly leaves him,
-bruising him severely.
+A large crowd came to meet Jesus.
+[38] A man in the crowd shouted,
+“Teacher, please look at my son!
+He is my only child.
+[39] A spirit takes hold of him.
+Then he suddenly screams.
+The spirit shakes him hard,
+so that foam comes out of his mouth.
+It hurts him badly
+and hardly ever leaves him.
 [40] I begged your disciples
-to cast it out,
-but they couldn’t.”
+to drive it out,
+but they could not do it.”
 [41] Jesus answered,
-“Faithless and perverse generation,
-how long shall I be with you
-and bear with you?
+“You people of this generation have no faith!
+You have turned away from what is right!
+How long must I stay with you
+and put up with you?
 Bring your son here.”
-[42] While the boy was still coming,
-the demon threw him down
-and shook him violently.
-But Jesus rebuked the unclean spirit,
-healed the boy,
+[42] The boy was still coming to Jesus
+when the demon threw him to the ground.
+It shook him violently.
+But Jesus gave a strict order to the unclean spirit.
+He healed the boy
 and gave him back to his father.
-[43] They were all astonished at the majesty of God.
-But while they were all marveling
-at all the things Jesus did,
-he said to his disciples,
-[44] “Let these words sink into your ears:
-The Son of Man will be handed over into the hands of men.”
-[45] But they didn’t understand this saying.
+[43] All the people were amazed at the great power of God.
+Everyone was amazed at all the things Jesus was doing.
+Then Jesus said to his disciples,
+[44] “Listen carefully to what I am telling you.
+The Son of Man will be handed over to people.”
+[45] But the disciples did not understand what he meant.
 It was hidden from them,
-so that they did not grasp it.
-And they were afraid
-to ask him about this saying.
+so that they could not understand it.
+And they were afraid to ask him about it.
 
 > **What does this mean?**
 > Verse 38: Luke stresses: He is the only child. The father is desperate.
 > The description reminds us of epilepsy: seizures, crying out, convulsions, foaming at the mouth. People back then explained such things by a spirit.
 > Convulsions: sudden, violent movements of the body that a person cannot control.
 > Important: Epilepsy is an illness of the brain. It has nothing to do with demons or sin. People with epilepsy need medical help and understanding, not fear.
-> Verse 41: Jesus’ lament is aimed at the whole generation, including the disciples who could not help. It is not aimed at the desperate father. Perverse: twisted, turned away from what is right.
+> Verse 41: Jesus’ lament is aimed at the whole generation, including the disciples who could not help. It is not aimed at the desperate father. Older Bibles say “perverse”: twisted, turned away from what is right.
 > Verse 42: Jesus “gave him back to his father”: as with the widow’s son in Nain (Luke 7:15).
 > Verses 44–45: The second time Jesus announces his suffering. The disciples do not understand it. Only after Easter will they understand (Luke 24:45).
 
@@ -282,27 +265,25 @@ to ask him about this saying.
 
 ## Who is the greatest? (Verses 46–50)
 
-[46] An argument arose among the disciples
+[46] The disciples began to argue
 about which of them was the greatest.
-[47] Jesus knew
-what they were thinking in their hearts.
+[47] Jesus knew what they were thinking in their hearts.
 He took a little child
-and set him by his side.
-[48] He said to them,
-“Whoever receives this little child in my name
-receives me.
-Whoever receives me
-receives him who sent me.
-For whoever is least among you all,
-this one will be great.”
-[49] John answered,
-“Master, we saw someone
-casting out demons in your name.
-We forbade him,
-because he doesn’t follow with us.”
+and had him stand beside him.
+[48] Jesus said to them,
+“Whoever welcomes this little child in my name
+welcomes me.
+And whoever welcomes me
+welcomes the one who sent me.
+Whoever is the least important among all of you
+is the one who is great.”
+[49] John said,
+“Master, we saw someone driving out demons in your name.
+We tried to stop him,
+because he does not follow you with us.”
 [50] Jesus said to him,
-“Don’t forbid him,
-for he who is not against us
+“Don’t stop him.
+Whoever is not against us
 is for us.”
 
 > **What does this mean?**
@@ -317,30 +298,26 @@ is for us.”
 
 ## A Samaritan village does not welcome Jesus (Verses 51–56)
 
-[51] The days were drawing near
-when he was to be taken up.
-So he firmly set his face
-to go to Jerusalem.
+[51] The time came near
+when Jesus would be taken up.
+So he set his face to go to Jerusalem.
+That means: He firmly decided to go there.
 [52] He sent messengers ahead of him.
-They went
-and entered a village of the Samaritans
+They went into a village of the Samaritans
 to get things ready for him.
-[53] But the people there did not welcome him,
+[53] But the people there did not welcome Jesus,
 because he was on his way to Jerusalem.
-[54] When his disciples James and John saw this,
-they said,
-“Lord, do you want us
-to command fire to come down from the sky
-and destroy them,
+[54] His disciples James and John saw this.
+They said,
+“Lord, do you want us to call fire down from the sky
+to destroy these people,
 just as Elijah did?”
-[55] But he turned
-and rebuked them,
-“You don’t know
-of what kind of spirit you are.
-[56] For the Son of Man didn’t come
-to destroy men’s lives,
-but to save them.”
-And they went to another village.
+[55] But Jesus turned and spoke sharply to them.
+He said,
+“You don’t know what kind of spirit you belong to.
+[56] The Son of Man did not come to destroy people’s lives.
+He came to save them.”
+Then they went to another village.
 
 > **What does this mean?**
 > Verse 51 is a turning point in the Gospel of Luke. From here on Jesus is on his way to Jerusalem, until chapter 19. “Taken up” means his death, his resurrection and his ascension.
@@ -348,39 +325,36 @@ And they went to another village.
 > Back then Jews and Samaritans were enemies. The Samaritans had their own holy mountain, Mount Gerizim. That is why they did not want to welcome pilgrims going to Jerusalem.
 > Verse 54: James and John are thinking of Elijah, who made fire fall from the sky (2 Kings 1:10–12).
 > Jesus clearly rejects violence and revenge. He simply goes to another village.
-> Verses 54–56: The words “just as Elijah did” and “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them” are missing in many old manuscripts. The WEB has them. They fit well with Luke 19:10.
+> Verses 54–56: The words “just as Elijah did” and “You don’t know what kind of spirit you belong to. The Son of Man did not come to destroy people’s lives. He came to save them” are missing in many old manuscripts. The WEB has them. They fit well with Luke 19:10.
 > For today: Whoever is rejected should not answer with hatred and violence.
 
 ---
 
 ## What it means to follow Jesus (Verses 57–62)
 
-[57] As they went on along the way,
-someone said to him,
-“I want to follow you
-wherever you go, Lord.”
+[57] They were walking along the road.
+A man said to Jesus,
+“Lord, I will follow you
+wherever you go.”
 [58] Jesus said to him,
-“The foxes have holes,
-and the birds of the sky have nests.
+“Foxes have holes.
+Birds have nests.
 But the Son of Man has no place
-to lay his head.”
-[59] He said to another,
+where he can lay down his head.”
+[59] Jesus said to another man,
 “Follow me!”
-But he said,
-“Lord, allow me
-first to go and bury my father.”
-[60] But Jesus said to him,
-“Leave the dead to bury their own dead.
-But you go
-and announce God’s Kingdom.”
-[61] Another also said,
-“I want to follow you, Lord.
-But first allow me
-to say good-bye
-to those who are at my house.”
-[62] But Jesus said to him,
+But the man said,
+“Lord, let me first go and bury my father.”
+[60] Jesus said to him,
+“Let the dead bury their own dead.
+But you must go and tell about God’s Kingdom.”
+[61] Another man said,
+“Lord, I will follow you.
+But first let me say good-bye
+to my family at home.”
+[62] Jesus said to him,
 “No one who puts his hand to the plow
-and looks back
+and then looks back
 is fit for God’s Kingdom.”
 
 > **What does this mean?**

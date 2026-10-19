@@ -6,18 +6,18 @@
 ## Lady Wisdom invites (Verses 1–6)
 
 [1] Wisdom has built her house.
-She has carved out her seven pillars.
-[2] She has prepared her meat.
+She has cut out its seven pillars.
+[2] She has cooked her meat.
 She has mixed her wine.
 She has also set her table.
-[3] She has sent out her young women.
-She calls from the highest places of the city:
-[4] “Whoever is simple, let him come in here!”
-To the one who has no sense, she says,
-[5] “Come, eat some of my bread,
-and drink some of the wine that I have mixed!
-[6] Leave your simple ways, and live!
-Walk in the way of understanding!”
+[3] She has sent out her servant girls.
+She calls out from the highest places in the city:
+[4] “Whoever has no experience, come in here!”
+To people who have no sense, she says,
+[5] “Come, eat some of my bread.
+Drink some of the wine I have mixed.
+[6] Stop being foolish, and live.
+Walk on the road of understanding.”
 
 > **What does this mean?**
 > Wisdom is like a generous hostess. She has built a beautiful house and prepared a feast. She invites everyone, especially those who do not know much yet.
@@ -28,18 +28,18 @@ Walk in the way of understanding!”
 
 ## Who lets himself be taught? (Verses 7–12)
 
-[7] Whoever corrects a mocker gets insulted.
-Whoever corrects a wicked man gets abused.
-[8] Don’t correct a mocker, or he will hate you!
+[7] If you correct a mocker, he will insult you.
+If you correct a wicked man, he will hurt you.
+[8] Don’t correct a mocker, or he will hate you.
 Correct a wise person, and he will love you.
 [9] Teach a wise person, and he will become even wiser.
-Teach a righteous person, and he will grow in learning.
+Teach a person who does right, and he will learn even more.
 [10] The fear of the LORD is the beginning of wisdom.
-The knowledge of the Holy One is understanding.
-[11] For by me your days will be many.
-The years of your life will be increased.
-[12] If you are wise, you are wise for your own good.
-If you mock, you alone will bear it.
+To know the Holy One is understanding.
+[11] Through me you will live many days.
+Years will be added to your life.
+[12] If you are wise, your wisdom helps you.
+If you mock, you alone will suffer for it.
 
 > **What does this mean?**
 > Verses 7–9: A test: How does someone react to criticism? The mocker becomes angry. The wise person is thankful and learns from it. Wise people are glad to be corrected.
@@ -50,18 +50,18 @@ If you mock, you alone will bear it.
 
 ## Lady Folly invites too (Verses 13–18)
 
-[13] The foolish woman is loud,
-undisciplined, and knows nothing.
+[13] The foolish woman is loud.
+She has no self-control, and she knows nothing.
 [14] She sits at the door of her house,
-on a seat in the high places of the city,
-[15] to call to those who pass by,
-who go straight on their ways:
-[16] “Whoever is simple, let him come in here!”
-To the one who has no sense, she says,
+on a seat in the highest places of the city.
+[15] She calls out to the people who walk by,
+who are going straight along their way:
+[16] “Whoever has no experience, come in here!”
+To people who have no sense, she says,
 [17] “Stolen water is sweet.
 Food eaten in secret tastes good.”
-[18] But he does not know that the spirits of the dead are there,
-that her guests are in the depths of Sheol, the world of the dead.
+[18] But they don’t know that the spirits of the dead are there.
+Her guests are deep down in Sheol, the world of the dead.
 
 > **What does this mean?**
 > Now comes the opposite picture: Lady Folly. She invites too, with exactly the same words as wisdom (verse 4 and verse 16). Both call those without experience.

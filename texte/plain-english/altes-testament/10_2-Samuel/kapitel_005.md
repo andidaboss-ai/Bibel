@@ -5,21 +5,23 @@
 
 ## All Israel anoints David (Verses 1–5)
 
-[1] Then all the tribes of Israel came to David at Hebron
-and said,
-“Look, we are your bone and your flesh.
-[2] In the past, when Saul was king over us,
-it was you who led Israel out to battle and brought them back in.
+[1] Then all the tribes of Israel came to David at Hebron.
+They said,
+“We are your bone and your flesh.
+That means: we are your own family.
+[2] In the past, Saul was king over us.
+But even then, you were the one who led Israel out to battle and back home again.
 And the LORD said to you,
-‘You will be shepherd of my people Israel,
-and you will be prince over Israel.’”
-[3] So all the elders of Israel came to the king at Hebron.
-And King David made a covenant with them in Hebron before the LORD.
-And they anointed David king over Israel.
-[4] David was 30 years old when he became king,
-and he ruled for 40 years.
-[5] In Hebron he ruled over Judah for seven years and six months.
-And in Jerusalem he ruled for 33 years over all Israel and Judah.
+‘You will be the shepherd of my people Israel.
+You will be the leader over Israel.’”
+[3] So all the leaders of Israel came to King David at Hebron.
+There, in front of the LORD, King David made a covenant with them.
+A covenant is a binding agreement.
+And they anointed David as king over Israel.
+[4] David was 30 years old when he became king.
+He ruled for 40 years.
+[5] In Hebron he ruled over Judah for 7 years and 6 months.
+In Jerusalem he ruled over all Israel and Judah for 33 years.
 
 > **What does this mean?**
 > At last the time has come: all twelve tribes come to David. “We are your bone and your flesh” means: we are your family, we belong together.
@@ -32,24 +34,25 @@ And in Jerusalem he ruled for 33 years over all Israel and Judah.
 
 ## The conquest of Jerusalem (Verses 6–10)
 
-[6] The king and his men went to Jerusalem against the Jebusites,
-the people who lived in the land.
-They said to David,
-“The blind and the lame will keep you out of here.”
-They thought, “David can’t come in here.”
-[7] But David took the stronghold of Zion.
-That is David’s city.
+[6] The king and his men went to Jerusalem.
+They wanted to fight against the Jebusites, who lived there.
+The Jebusites said to David,
+“You will never get in here.
+Even the blind and the lame can keep you out!”
+They thought, “David can’t get in here.”
+[7] But David captured the fortress of Zion.
+It is now called the City of David.
 [8] On that day David said,
-“Whoever wants to strike the Jebusites
-must go up through the water shaft
-and strike those lame and blind, who are hated by David’s soul.”
+“Whoever wants to attack the Jebusites
+must go up through the water shaft.
+Then he can strike those lame and blind, who are hated by David’s soul.”
 That is why people say,
 “The blind and the lame can’t come into the house.”
-[9] David lived in the stronghold
-and called it David’s city.
-And David built all around, from the Millo inward.
-[10] David became greater and greater,
-for the LORD, the God of Armies, was with him.
+[9] David lived in the fortress.
+He called it the City of David.
+He built up the area all around it, from the Millo inward.
+[10] David became more and more powerful,
+because the LORD, the God of Armies, was with him.
 
 > **What does this mean?**
 > Until then Jerusalem had belonged to the Jebusites. The city lay on a hill, well protected by valleys. It lay right on the border between Judah and the northern tribes and belonged to no tribe. That is why it was the perfect capital for everyone.
@@ -64,15 +67,17 @@ for the LORD, the God of Armies, was with him.
 
 ## David’s house and family (Verses 11–16)
 
-[11] Hiram, the king of Tyre, sent messengers to David,
-with cedar trees, carpenters, and stonemasons.
-And they built David a house.
-[12] David understood that the LORD had made him firm as king over Israel,
-and that he had lifted up his kingdom for the sake of his people Israel.
-[13] After he had come from Hebron,
-David took more concubines and wives for himself from Jerusalem.
-And more sons and daughters were born to David.
-[14] These are the names of the sons who were born to him in Jerusalem:
+[11] Hiram, the king of Tyre, sent messengers to David.
+He also sent cedar trees, carpenters, and stonemasons.
+They built a palace for David.
+[12] Then David understood that the LORD had made him a strong king over Israel.
+The LORD had made his kingdom great for the sake of his people Israel.
+[13] After David came from Hebron to Jerusalem,
+he took more wives from Jerusalem.
+He also took more concubines.
+Concubines are women who belong to a man like a wife, but with fewer rights.
+More sons and daughters were born to David.
+[14] These are the names of the children who were born to him in Jerusalem:
 Shammua, Shobab, Nathan, Solomon,
 [15] Ibhar, Elishua, Nepheg, Japhia,
 [16] Elishama, Eliada, and Eliphelet.
@@ -88,37 +93,39 @@ Shammua, Shobab, Nathan, Solomon,
 
 ## Two victories over the Philistines (Verses 17–25)
 
-[17] When the Philistines heard that David had been anointed king over Israel,
-all the Philistines went up to look for David.
-But David heard about it and went down to the stronghold.
-[18] The Philistines had come and spread out in the valley of Rephaim.
-[19] David asked the LORD and said,
-“Shall I go up against the Philistines?
+[17] The Philistines heard that David had been anointed king over Israel.
+So their whole army went up to hunt for David.
+But David heard about it.
+He went down to the fortress.
+[18] The Philistines came and spread out in the valley of Rephaim.
+[19] David asked the LORD,
+“Should I go up and attack the Philistines?
 Will you hand them over to me?”
-The LORD said to David,
+The LORD answered David,
 “Go up.
-For I will certainly hand the Philistines over to you.”
-[20] David came to Baal Perazim,
-and David struck them there.
-Then he said,
+I will surely hand the Philistines over to you.”
+[20] So David went to Baal Perazim.
+There he defeated the Philistines.
+He said,
 “The LORD has broken through my enemies in front of me,
-like water breaking through.”
-That is why he called the name of that place Baal Perazim.
-[21] They left their idols there,
-and David and his men took them away.
+like water that breaks through a dam.”
+That is why he named that place Baal Perazim.
+[21] The Philistines left their idols there.
+David and his men carried them away.
 
-[22] The Philistines came up yet again
-and spread out in the valley of Rephaim.
-[23] When David asked the LORD, he said,
-“You shall not go up.
-Circle around behind them
-and attack them in front of the mulberry trees.
-[24] When you hear the sound of marching in the tops of the mulberry trees,
-then act quickly.
-For then the LORD has gone out ahead of you
+[22] Once again the Philistines came up.
+They spread out in the valley of Rephaim.
+[23] David asked the LORD again.
+This time the LORD said,
+“Do not go straight up to them.
+Go around behind them.
+Attack them in front of the mulberry trees.
+[24] You will hear a sound like marching in the tops of the mulberry trees.
+Then attack quickly!
+That will be the sign that the LORD has gone out ahead of you
 to strike the army of the Philistines.”
-[25] David did so, as the LORD had commanded him.
-And he struck the Philistines all the way from Geba to Gezer.
+[25] David did what the LORD had commanded him.
+He defeated the Philistines all the way from Geba to Gezer.
 
 > **What does this mean?**
 > As long as David ruled only over Judah, the Philistines left him alone. Now that he unites all Israel, they see him as a danger.

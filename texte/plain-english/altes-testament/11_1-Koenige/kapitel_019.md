@@ -125,4 +125,4 @@ Then he got up, followed Elijah, and served him.
 > Elijah throws his cloak over him. That is a sign: you are to be my successor.
 > Elijah’s answer, “What have I done to you?”, probably means: decide for yourself. I am not forcing you.
 > Elisha makes a clear decision: he kills the oxen and burns the plow as firewood. There is no going back. And he holds a farewell meal with the people.
-> Jesus hinted at this story: “No one who puts his hand to the plow and looks back is fit for God’s Kingdom” (Luke 9:61–62).
+> Jesus hinted at this story: “No one who puts his hand to the plow and then looks back is fit for God’s Kingdom” (Luke 9:61–62).
