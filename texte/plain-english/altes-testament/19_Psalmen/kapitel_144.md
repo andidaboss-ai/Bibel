@@ -15,6 +15,7 @@ my shield and the one in whom I find safety.
 He makes my people obey me.
 [3] LORD, what are human beings, that you care for them?
 What is a son of man, that you think about him?
+A son of man means: a human being.
 [4] A human being is like a breath.
 His days are like a shadow that passes by.
 
