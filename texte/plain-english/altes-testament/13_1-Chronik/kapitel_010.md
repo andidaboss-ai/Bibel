@@ -5,26 +5,27 @@
 
 ## The battle on Mount Gilboa (Verses 1–7)
 
-[1] Now the Philistines fought against Israel.
-The men of Israel fled from the Philistines
-and fell down slain on Mount Gilboa.
-[2] The Philistines followed hard after Saul and his sons.
-And the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.
-[3] The battle went hard against Saul.
-The archers caught up with him,
-and he was in great distress because of the archers.
-[4] Then Saul said to his armor bearer,
-“Draw your sword and thrust me through with it,
-so that these uncircumcised men don’t come and abuse me.”
-But his armor bearer would not, for he was terrified.
-So Saul took his sword and fell on it.
-[5] When his armor bearer saw that Saul was dead,
-he also fell on his sword and died.
-[6] So Saul died with his three sons,
-and all his house died together.
-[7] When all the men of Israel who were in the valley saw that they had fled,
-and that Saul and his sons were dead,
-they abandoned their cities and fled.
+[1] The Philistines fought against Israel.
+The men of Israel ran away from the Philistines.
+Many of them were killed on Mount Gilboa.
+[2] The Philistines chased Saul and his sons.
+They killed Saul’s sons Jonathan, Abinadab, and Malchishua.
+[3] The fighting was hard around Saul.
+The archers found him.
+He was badly wounded by the archers.
+[4] Then Saul said to the young man who carried his weapons,
+“Pull out your sword and stab me with it.
+Otherwise these uncircumcised men will come and treat me cruelly.”
+But the young man did not want to do it.
+He was terrified.
+So Saul took his own sword and fell on it.
+[5] The young man saw that Saul was dead.
+Then he too fell on his sword and died.
+[6] So Saul died, and his three sons died.
+All his house died together.
+[7] The men of Israel in the valley saw that the army had run away.
+They saw that Saul and his sons were dead.
+So they left their cities and ran away.
 And the Philistines came and lived in them.
 
 > **What does this mean?**
@@ -38,20 +39,21 @@ And the Philistines came and lived in them.
 
 ## The men of Jabesh honor Saul (Verses 8–12)
 
-[8] On the next day the Philistines came to strip the slain.
-Then they found Saul and his sons fallen on Mount Gilboa.
-[9] They stripped him
-and took his head and his armor.
-Then they sent messengers all around the land of the Philistines
-to carry the news to their idols and to the people.
-[10] They put his armor in the house of their gods,
-and they fastened his head in the house of Dagon.
-[11] When all Jabesh Gilead heard all that the Philistines had done to Saul,
-[12] all the brave men got up.
-They took away the body of Saul and the bodies of his sons
+[8] On the next day the Philistines came to take things from the dead.
+They found Saul and his sons lying dead on Mount Gilboa.
+[9] They took his clothes and his armor.
+They cut off his head.
+Then they sent messengers all around the land of the Philistines.
+They spread the news to their idols and to the people.
+[10] They put his armor in the house of their gods.
+And they hung up his head in the house of Dagon.
+[11] The people of Jabesh Gilead heard everything the Philistines had done to Saul.
+[12] Then all the brave men set out.
+They took the body of Saul and the bodies of his sons
 and brought them to Jabesh.
-They buried their bones under the oak in Jabesh
-and fasted seven days.
+They buried their bones under the oak tree in Jabesh.
+Then they fasted for seven days.
+To fast means: not to eat.
 
 > **What does this mean?**
 > The Philistines celebrate their victory as a victory of their gods. Dagon was a god of the Philistines.
@@ -61,15 +63,16 @@ and fasted seven days.
 
 ## Why Saul died (Verses 13–14)
 
-[13] So Saul died for his unfaithfulness that he committed against the LORD,
-because of the LORD’s word, which he didn’t keep,
-and also because he asked advice of one who had a familiar spirit
-[14] and didn’t ask the LORD.
-Therefore he killed him
-and turned the kingdom over to David the son of Jesse.
+[13] So Saul died because he was unfaithful to the LORD.
+He did not keep the LORD’s word.
+He also asked a medium for advice.
+A medium is a person who tries to speak with the spirits of the dead.
+[14] He did not ask the LORD.
+So the LORD put him to death.
+And he gave the kingdom to David, the son of Jesse.
 
 > **What does this mean?**
 > Chronicles explains Saul’s death: he did not keep God’s word (1 Samuel 13 and 15), and he asked a medium at Endor (1 Samuel 28). He looked for advice from others instead of from God.
-> “He killed him”: Chronicles sees God acting behind everything. Saul himself ended his life. But God let his rule come to an end.
+> “The LORD put him to death”: Chronicles sees God acting behind everything. Saul himself ended his life. But God let his rule come to an end.
 > 1 Samuel 28:6 says that Saul did ask the LORD, but got no answer. Chronicles probably means: he did not truly seek God with his whole heart.
 > With this the way is open for David, whom the rest of the book is about.

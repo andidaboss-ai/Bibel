@@ -5,50 +5,59 @@
 
 ## The southern border (Verses 1–4)
 
-[1] The lot for the tribe of the children of Judah by their clans
-went to the border of Edom, to the wilderness of Zin in the south, at the farthest end of the south.
-[2] Their southern border began at the farthest end of the Salt Sea, at the bay that faces south.
-[3] It went out south of the ascent of Akrabbim,
-went along to Zin,
-went up south of Kadesh Barnea,
-went along past Hezron, went up to Addar,
-and turned toward Karka.
-[4] It went along to Azmon and went out at the brook of Egypt.
-And the border ended at the sea.
+[1] The tribe of Judah drew lots for its land.
+Each clan got its share.
+Their land reached to the border of Edom.
+In the south it reached to the wilderness of Zin, at the very end of the south.
+[2] Their southern border began at the very end of the Salt Sea,
+at the bay that faces south.
+[3] From there it went south of the Akrabbim Pass
+and on to Zin.
+It went up south of Kadesh Barnea
+and on past Hezron.
+It went up to Addar and turned toward Karka.
+[4] It went on to Azmon and came out at the brook of Egypt.
+The border ended at the sea.
 This will be your southern border.
 
 > **What does this mean?**
 > Judah was the largest tribe. It receives its territory first, in the south of the land.
-> “Akrabbim” means “scorpions.” The “ascent of Akrabbim” is a steep mountain pass in the south.
+> “Akrabbim” means “scorpions.” The Akrabbim Pass is a steep mountain road in the south.
 > The borders are described much like the southern border of the whole land (Numbers 34:3–5).
 
 ---
 
 ## The eastern and northern borders (Verses 5–11)
 
-[5] The eastern border was the Salt Sea, up to the mouth of the Jordan.
-The border on the north side began at the bay of the sea, at the mouth of the Jordan.
+[5] The eastern border was the Salt Sea,
+up to the place where the Jordan flows into it.
+The northern border began at the bay of the sea,
+where the Jordan flows in.
 [6] The border went up to Beth Hoglah
-and went along north of Beth Arabah.
-And the border went up to the stone of Bohan, the son of Reuben.
-[7] The border went up to Debir from the valley of Achor
-and turned north toward Gilgal,
-which is opposite the ascent of Adummim, south of the stream.
-The border went along to the waters of En Shemesh
+and went on north of Beth Arabah.
+Then it went up to the Stone of Bohan.
+Bohan was the son of Reuben.
+[7] From the valley of Achor, the border went up to Debir.
+Then it turned north toward Gilgal.
+Gilgal is across from the Adummim Pass, on the south side of the stream.
+The border went on to the waters of En Shemesh
 and ended at En Rogel.
-[8] The border went up through the valley of the son of Hinnom,
-along the south side of the Jebusite city – that is Jerusalem.
-And the border went up to the top of the mountain that lies west in front of the valley of Hinnom,
-at the northern end of the valley of Rephaim.
-[9] The border stretched from the top of the mountain to the spring of the waters of Nephtoah
-and went out to the cities of Mount Ephron.
-And the border stretched to Baalah – that is Kiriath Jearim.
-[10] The border turned west from Baalah to Mount Seir
-and went along to the side of Mount Jearim – that is Chesalon – on the north.
-It went down to Beth Shemesh and went along past Timnah.
-[11] And the border went out to the side of Ekron in the north.
-The border stretched to Shikkeron, went along to Mount Baalah, and went out at Jabneel.
-And the border ended at the sea.
+[8] Then the border went up through the valley of the son of Hinnom.
+It ran along the south side of the city of the Jebusites.
+That city is Jerusalem.
+The border went up to the top of the mountain west of the valley of Hinnom.
+This mountain is at the north end of the valley of Rephaim.
+[9] From the top of the mountain, the border went to the spring of the waters of Nephtoah.
+It came out at the cities of Mount Ephron.
+Then it went to Baalah.
+Baalah is also called Kiriath Jearim.
+[10] From Baalah the border turned west to Mount Seir.
+It went on to the north side of Mount Jearim.
+Mount Jearim is also called Chesalon.
+The border went down to Beth Shemesh and on past Timnah.
+[11] Then it came out at the north side of Ekron.
+It went to Shikkeron, on to Mount Baalah, and came out at Jabneel.
+The border ended at the sea.
 
 > **What does this mean?**
 > The northern border of Judah runs right along the south of Jerusalem, through the valley of Hinnom. Jerusalem itself still belongs to the Jebusites.
@@ -59,31 +68,36 @@ And the border ended at the sea.
 
 ## The western border (Verse 12)
 
-[12] The western border was the great sea with its coastline.
-This is the border all around the children of Judah, by their clans.
+[12] The western border was the coast of the great sea.
+This is the border all around the land of the people of Judah and their clans.
 
 ---
 
 ## Caleb takes Hebron and Debir (Verses 13–19)
 
-[13] To Caleb the son of Jephunneh, Joshua gave a share among the children of Judah,
-as the LORD had commanded Joshua:
-Kiriath Arba, named after the father of Anak – that is Hebron.
-[14] Caleb drove out the three sons of Anak from there:
-Sheshai, Ahiman, and Talmai, the children of Anak.
-[15] From there he went up against the people who lived in Debir.
-The name of Debir used to be Kiriath Sepher.
+[13] Joshua gave Caleb, the son of Jephunneh, a share among the people of Judah.
+The LORD had told Joshua to do this.
+Joshua gave him Kiriath Arba.
+It was named after the father of Anak.
+Kiriath Arba is Hebron.
+[14] Caleb drove out the three sons of Anak from there.
+Their names were Sheshai, Ahiman, and Talmai.
+They were descendants of Anak.
+[15] From there Caleb went up to fight against the people of Debir.
+Debir used to be called Kiriath Sepher.
 [16] Caleb said,
-“Whoever strikes Kiriath Sepher and takes it, I will give him my daughter Achsah as his wife.”
-[17] Othniel the son of Kenaz, Caleb’s brother, took it.
-And Caleb gave him his daughter Achsah as his wife.
-[18] When she came to him, she got him to ask her father for a field.
-She got off her donkey, and Caleb asked her,
-“What do you want?”
+“I will give my daughter Achsah as a wife to the man who attacks Kiriath Sepher and takes it.”
+[17] Othniel took the city.
+He was the son of Kenaz, Caleb’s brother.
+So Caleb gave him his daughter Achsah as his wife.
+[18] When Achsah came to Othniel, she got him to ask her father for a field.
+She got down from her donkey.
+Caleb asked her, “What do you want?”
 [19] She said,
 “Give me a blessing.
-Since you have given me land in the dry South, give me springs of water too.”
-So he gave her the upper springs and the lower springs.
+You have given me land in the South.
+So give me springs of water too.”
+So Caleb gave her the upper springs and the lower springs.
 
 > **What does this mean?**
 > The spies had already seen the three sons of Anak in Hebron 45 years earlier (Numbers 13:22). Now old Caleb drives out exactly these men.
@@ -96,8 +110,9 @@ So he gave her the upper springs and the lower springs.
 
 ## The cities in the South (Verses 20–32)
 
-[20] This is the inheritance of the tribe of the children of Judah by their clans.
-[21] The farthest cities of the tribe of the children of Judah toward the border of Edom, in the South, were:
+[20] This is the land that the tribe of Judah received.
+Each clan got its share.
+[21] These were the cities at the far end of Judah’s land, toward the border of Edom, in the South:
 Kabzeel, Eder, Jagur,
 [22] Kinah, Dimonah, Adadah,
 [23] Kedesh, Hazor, Ithnan,
@@ -110,7 +125,7 @@ Kabzeel, Eder, Jagur,
 [30] Eltolad, Chesil, Hormah,
 [31] Ziklag, Madmannah, Sansannah,
 [32] Lebaoth, Shilhim, Ain, and Rimmon.
-All together 29 cities with their villages.
+That makes 29 cities in all, with their villages.
 
 > **What does this mean?**
 > If you count the names, you get more than 29. Maybe some names are two parts of a single place, for example “Ain Rimmon.” Or some places were added later. These lists were passed on over a long time.
@@ -137,10 +152,10 @@ Sixteen cities with their villages.
 [44] Keilah, Achzib, and Mareshah.
 Nine cities with their villages.
 [45] Ekron with its towns and its villages.
-[46] From Ekron to the sea, everything that lay next to Ashdod, with their villages.
+[46] Then everything from Ekron to the sea that lay near Ashdod, with their villages.
 [47] Ashdod with its towns and its villages,
 Gaza with its towns and its villages,
-as far as the brook of Egypt and the great sea with its coastline.
+as far as the brook of Egypt and the coast of the great sea.
 
 > **What does this mean?**
 > The “towns” of a city were smaller places that belonged to a larger city.
@@ -194,8 +209,9 @@ Six cities with their villages.
 
 ## Jerusalem stays Jebusite (Verse 63)
 
-[63] But the children of Judah could not drive out the Jebusites, the people who lived in Jerusalem.
-So the Jebusites live with the children of Judah in Jerusalem to this day.
+[63] But the people of Judah could not drive out the Jebusites.
+The Jebusites lived in Jerusalem.
+So the Jebusites still live with the people of Judah in Jerusalem today.
 
 > **What does this mean?**
 > An honest sentence: Judah could not take Jerusalem. Only King David conquered the city many years later and made it his capital (2 Samuel 5:6–9).
