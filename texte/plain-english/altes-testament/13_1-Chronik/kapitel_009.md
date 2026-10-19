@@ -147,7 +147,7 @@ They lived in Jerusalem.
 > **What does this mean?**
 > In the temple there were many different tasks: counting and keeping the vessels, taking care of flour, wine, oil and frankincense, mixing spices for the holy anointing oil, baking bread.
 > The “showbread” was twelve loaves of bread that were put fresh on a table in the sanctuary every week, one for each tribe of Israel (Leviticus 24:5–9).
-> The singers praised God “day and night.” That reminds us of Psalm 134: “Praise the LORD, all you servants of the LORD, who stand by night in the LORD’s house!”
+> The singers praised God “day and night.” That reminds us of Psalm 134: “Praise the LORD, all you servants of the LORD, who stand in the LORD’s house at night!”
 > Every task has its place, whether gatekeeper, baker or singer. Together they all serve God.
 
 ---

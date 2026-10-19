@@ -176,7 +176,7 @@ and they obey him!”
 > On the Sea of Galilee strong storms can come up suddenly. The winds rush down from the mountains.
 > Jesus sleeps, calm and full of trust. The disciples are terrified of dying.
 > Verse 25: In Luke, Jesus only asks: “Where is your faith?” That is a gentle question, not an accusation.
-> In the Old Testament it is God who calms the sea (Psalm 107:29). That is why the disciples ask: “Who is this then?”
+> In the Old Testament it is God who calms the sea (Psalm 107:29). That is why the disciples ask who this man is (verse 25).
 > For today: Being afraid is human. In times of need you may cry out, like the disciples.
 
 ---

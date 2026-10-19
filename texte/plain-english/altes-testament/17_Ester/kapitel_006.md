@@ -19,7 +19,7 @@ The king’s servants who attended him said,
 > **What does this mean?**
 > This is the turning point of the whole story. And it begins with something very small: the king cannot sleep.
 > Why exactly on this night? Why does he have exactly this book read to him? Why exactly this passage? The Bible does not say. But the reader notices: this is no coincidence. Here God is guiding things in secret.
-> Jewish interpreters say: it was not only the king who could not sleep, but “the King of the world”, that is God, who “will neither slumber nor sleep” (Psalm 121:4).
+> Jewish interpreters say: it was not only the king who could not sleep, but “the King of the world”, that is God, who “will not doze and will not sleep” (Psalm 121:4).
 > Mordecai’s good deed from Chapter 2 seemed forgotten. Now, at exactly the right moment, it comes to light.
 
 ---

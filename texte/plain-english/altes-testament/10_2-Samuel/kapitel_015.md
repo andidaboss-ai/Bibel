@@ -193,7 +193,7 @@ And Absalom came into Jerusalem.
 
 > **What does this mean?**
 > David goes up the Mount of Olives weeping, barefoot, and with his head covered. These are signs of deep grief and humiliation. The king is broken.
-> According to its heading, Psalm 3 is a prayer of David when he fled from Absalom: “LORD, how my adversaries have increased! … But you, LORD, are a shield around me.”
+> According to its heading, Psalm 3 is a prayer of David when he fled from Absalom: “LORD, how many enemies I have now! … But you, LORD, are a shield all around me.”
 > David prays a short prayer: “LORD, please turn the advice of Ahithophel into foolishness.” And right after that, Hushai comes. He is the answer to David’s prayer.
 > Hushai is called “David’s friend.” That was probably a title of honor for a close adviser of the king. He is to pretend to go over to Absalom and to spoil Ahithophel’s plans.
 > The last verse shows the tension: Hushai comes into the city, and at the same time Absalom comes. The game begins.

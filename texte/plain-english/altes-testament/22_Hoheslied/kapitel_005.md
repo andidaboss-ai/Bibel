@@ -6,10 +6,11 @@
 ## In the garden (Verse 1)
 
 [1] I have come into my garden, my sister, my bride.
-I have gathered my myrrh with my spice.
-I have eaten my honeycomb with my honey.
-I have drunk my wine with my milk.
-Friends: Eat, friends! Drink, yes, drink deeply, you who are loved!
+I have gathered my myrrh and my spice.
+I have eaten my honeycomb and my honey.
+I have drunk my wine and my milk.
+The friends say: Eat, friends!
+Drink! Yes, drink all you want, you who love each other!
 
 > **What does this mean?**
 > The man she loves has accepted the invitation from chapter 4:16. He has come into “his garden.” This is a tender picture for the fulfillment of their love.
@@ -20,32 +21,35 @@ Friends: Eat, friends! Drink, yes, drink deeply, you who are loved!
 ## He knocks, and then he is gone (Verses 2–8)
 
 [2] I was asleep, but my heart was awake.
-There is the voice of my beloved, knocking:
-“Open to me, my sister, my love,
+Listen! My beloved is knocking.
+He says, “Open the door for me, my sister, my love,
 my dove, my perfect one!
-For my head is wet with dew,
-my hair with the dampness of the night.”
-[3] I have taken off my robe.
-Must I really put it on again?
-I have washed my feet.
-Must I really get them dirty again?
-[4] My beloved put his hand in through the opening by the latch.
+My head is wet with dew.
+My hair is wet from the damp night.”
+[3] I have already taken off my robe.
+Do I really have to put it on again?
+I have already washed my feet.
+Do I really have to get them dirty again?
+[4] My beloved pushed his hand in through the opening by the latch.
 My heart pounded for him.
-[5] I got up to open to my beloved.
-My hands dripped with myrrh,
-my fingers with liquid myrrh,
-on the handles of the lock.
-[6] I opened to my beloved,
-but my beloved had left, he was gone.
+[5] I got up to open the door for my beloved.
+My hands dripped with myrrh.
+My fingers dripped with liquid myrrh
+onto the handles of the lock.
+Myrrh is a sweet-smelling oil.
+[6] I opened the door for my beloved.
+But my beloved had left.
+He was gone.
 My heart sank when he spoke.
 I looked for him, but I did not find him.
 I called him, but he did not answer.
-[7] The watchmen who go around the city found me.
-They beat me. They hurt me.
-The guards of the walls took my cloak away from me.
-[8] I make you promise, daughters of Jerusalem:
+[7] The watchmen who walk around the city found me.
+They beat me.
+They hurt me and left bruises.
+The guards on the walls took my cloak away from me.
+[8] Daughters of Jerusalem, I make you promise:
 If you find my beloved,
-tell him that I am faint with love.
+tell him that I am weak with love.
 
 > **What does this mean?**
 > A scene like a dream: She is already asleep when he knocks. She hesitates for a moment: “I’m already in bed!” When she then opens the door, he is gone.
@@ -57,29 +61,32 @@ tell him that I am faint with love.
 
 ## What is your beloved like? (Verses 9–16)
 
-[9] How is your beloved better than any other beloved,
-most beautiful among women?
-How is your beloved better than any other beloved,
+[9] Most beautiful of women,
+how is your beloved better than any other?
+How is your beloved better than any other,
 that you make us promise this?
-[10] My beloved is radiant and ruddy,
-the best among ten thousand.
+[10] My beloved is fair and ruddy.
+Ruddy means: with a healthy, reddish color.
+He is the best of ten thousand.
 [11] His head is like the purest gold.
-His hair is wavy, black as a raven.
-[12] His eyes are like doves beside streams of water,
-washed in milk, set like jewels.
-[13] His cheeks are like a bed of spices,
-like towers of perfume.
-His lips are like lilies,
-dripping with liquid myrrh.
+His hair is thick and wavy.
+It is black like a raven.
+[12] His eyes are like doves by streams of water.
+They are washed in milk.
+They are set like jewels.
+[13] His cheeks are like a bed of spices.
+They are like towers of perfume.
+His lips are like lilies.
+Liquid myrrh drips from them.
 [14] His hands are like rings of gold
-set with beryl.
+set with beryl stones.
 His body is like a work of ivory
 covered with sapphires.
-[15] His legs are like pillars of marble
-set on bases of fine gold.
-His appearance is like Lebanon,
-splendid as the cedars.
-[16] His mouth is sweetness itself.
+[15] His legs are like pillars of marble.
+They stand on bases of pure gold.
+He looks like Lebanon.
+He is as fine as the cedar trees.
+[16] His mouth is sweet.
 Yes, everything about him is lovely.
 This is my beloved, and this is my friend,
 daughters of Jerusalem.

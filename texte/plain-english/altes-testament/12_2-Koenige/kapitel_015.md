@@ -64,7 +64,7 @@ And he ripped open all their women who were pregnant.
 
 > **What does this mean?**
 > With Zechariah, Jehu’s family comes to an end after four generations, just as God had said.
-> After that, chaos begins in the northern kingdom: Zechariah rules for six months, Shallum for only one month. Each one is murdered by the one who comes after him. In this time the prophet Hosea laments: “They have set up kings, but not by me” (Hosea 8:4).
+> After that, chaos begins in the northern kingdom: Zechariah rules for six months, Shallum for only one month. Each one is murdered by the one who comes after him. In this time the prophet Hosea laments: “They have set up kings, but not by my choice” (Hosea 8:4).
 > Menahem commits a horrible war crime against a city that did not want to surrender to him. The Bible names it without making it sound better. Such cruelty against defenseless people, especially against women and unborn children, can never be justified.
 > It is not certain where Tiphsah lay. Some old translations have “Tappuah” here, a city in Israel.
 

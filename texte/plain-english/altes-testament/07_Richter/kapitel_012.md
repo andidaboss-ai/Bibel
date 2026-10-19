@@ -5,22 +5,25 @@
 
 ## Conflict with Ephraim (Verses 1–4)
 
-[1] The men of Ephraim were called together.
-They crossed over to the north and said to Jephthah,
-“Why did you cross over to fight against the children of Ammon
-and didn’t call us to go with you?
-We will burn your house down over you with fire!”
-[2] Jephthah said to them,
-“My people and I had a great fight with the children of Ammon.
-And when I called you, you did not save me from their hand.
-[3] When I saw that you would not save me,
-I risked my life and went over against the children of Ammon.
-And the LORD gave them into my hand.
-So why have you come up to me today to fight against me?”
-[4] Then Jephthah gathered all the men of Gilead and fought against Ephraim.
-And the men of Gilead struck Ephraim,
-because they had said,
-“You Gileadites are only runaways from Ephraim, in the middle of Ephraim and in the middle of Manasseh.”
+[1] The men of Ephraim gathered their army.
+They crossed the river toward the north.
+They said to Jephthah,
+“You crossed over to fight against the people of Ammon.
+Why didn’t you call us to go with you?
+We will burn down your house with you inside!”
+[2] Jephthah answered them,
+“My people and I had a hard fight with the people of Ammon.
+I called you, but you did not save me from them.
+[3] I saw that you would not save me.
+So I risked my life and went over to fight the people of Ammon.
+And the LORD handed them over to me.
+So why have you come here today to fight against me?”
+[4] Then Jephthah gathered all the men of Gilead.
+They fought against Ephraim.
+The men of Gilead defeated Ephraim.
+They did this because the men of Ephraim had said,
+“You Gileadites are only runaways from Ephraim.
+You live in the middle of Ephraim and in the middle of Manasseh.”
 
 > **What does this mean?**
 > “To the north”: The Hebrew word “Zaphon” can mean “north,” but it can also be a city with this name east of the Jordan (Joshua 13:27).
@@ -32,16 +35,20 @@ because they had said,
 
 ## The word “Shibboleth” (Verses 5–7)
 
-[5] The Gileadites took the fords of the Jordan ahead of Ephraim.
-Whenever a runaway from Ephraim said, “Let me cross over,”
-the men of Gilead asked him, “Are you an Ephraimite?”
+[5] The Gileadites took control of the places where people could cross the Jordan.
+These places are called fords.
+They kept the Ephraimites from getting across.
+Sometimes a runaway from Ephraim said, “Let me cross over.”
+Then the men of Gilead asked him, “Are you an Ephraimite?”
 If he said, “No,”
-[6] then they said to him, “Then say ‘Shibboleth.’”
-And he said “Sibboleth,” because he could not pronounce it correctly.
+[6] they said to him, “Then say ‘Shibboleth.’”
+But he said “Sibboleth.”
+He could not say the word the right way.
 Then they grabbed him and killed him at the fords of the Jordan.
-At that time 42,000 men of Ephraim fell.
-[7] Jephthah judged Israel for six years.
-Then Jephthah the Gileadite died and was buried in one of the cities of Gilead.
+At that time 42,000 men of Ephraim were killed.
+[7] Jephthah was judge over Israel for 6 years.
+Then Jephthah the Gileadite died.
+He was buried in the cities of Gilead.
 
 > **What does this mean?**
 > “Shibboleth” means “ear of grain” or “stream.” The Ephraimites spoke a different dialect. They could not say the “sh” sound and said “s” instead. So people could recognize them by the way they spoke.
@@ -53,20 +60,24 @@ Then Jephthah the Gileadite died and was buried in one of the cities of Gilead.
 
 ## Ibzan, Elon, and Abdon (Verses 8–15)
 
-[8] After him, Ibzan of Bethlehem judged Israel.
-[9] He had thirty sons.
-He gave thirty daughters in marriage outside his clan,
-and he brought in thirty daughters from outside his clan for his sons.
-He judged Israel for seven years.
+[8] After Jephthah, Ibzan from Bethlehem was judge over Israel.
+[9] He had 30 sons.
+He sent his 30 daughters to marry outside his clan.
+And he brought in 30 young women from outside his clan as wives for his sons.
+He was judge over Israel for 7 years.
 [10] Ibzan died and was buried in Bethlehem.
-[11] After him, Elon the Zebulunite judged Israel.
-He judged Israel for ten years.
-[12] Elon the Zebulunite died and was buried in Aijalon in the land of Zebulun.
-[13] After him, Abdon the son of Hillel the Pirathonite judged Israel.
-[14] He had forty sons and thirty grandsons, who rode on seventy young donkeys.
-He judged Israel for eight years.
-[15] Abdon the son of Hillel the Pirathonite died
-and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.
+[11] After him, Elon from the tribe of Zebulun was judge over Israel.
+He was judge over Israel for 10 years.
+[12] Elon from Zebulun died.
+He was buried in Aijalon in the land of Zebulun.
+[13] After him, Abdon was judge over Israel.
+He was the son of Hillel, from Pirathon.
+[14] He had 40 sons and 30 grandsons.
+They rode on 70 young donkeys.
+He was judge over Israel for 8 years.
+[15] Abdon, the son of Hillel, from Pirathon, died.
+He was buried in Pirathon in the land of Ephraim,
+in the hill country of the Amalekites.
 
 > **What does this mean?**
 > Again, three “minor judges,” about whom little is told. They had big families and a lot of influence.

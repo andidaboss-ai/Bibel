@@ -132,7 +132,7 @@ Some of them had wives by whom they had children.
 > We have to understand the situation at that time: after the exile the small people was in great danger of dissolving and losing its faith in the one God. The leaders saw this as a question of survival.
 > But the Bible itself also shows other ways:
 > – Ruth from Moab and Rahab from Canaan became part of God’s people because they turned to the LORD.
-> – The prophet Malachi lived at the same time. He says: “One who hates and divorces … covers his garment with violence” (Malachi 2:16). That means: God does not want marriages to break.
+> – The prophet Malachi lived at the same time. He says: “Whoever hates and divorces … covers his clothes with violence” (Malachi 2:16). That means: God does not want marriages to break.
 > – In the New Testament Paul writes: if a Christian is married to a partner who does not believe, he should not separate if the other wants to stay. The children are “holy” (1 Corinthians 7:12–14).
 > Jews and Christians today do not read this chapter as instructions to separate families. They read it as a serious reminder that faith should shape life. And as a story that shows how hard some decisions were in a particular emergency.
 > The Bible does not tell what happened to the women and children. We only know that the problem came up again later (Nehemiah 13:23–27).

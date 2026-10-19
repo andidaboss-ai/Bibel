@@ -85,7 +85,7 @@ That is why the son who has been born to you will surely die.”
 
 > **What does this mean?**
 > David makes no excuses. He does not push the blame onto others, as Saul always did. He simply says: “I have sinned against the LORD.” That is the great difference between Saul and David.
-> According to its heading, Psalm 51 is the prayer that David prayed after this conversation: “Have mercy on me, God, according to your loving kindness. … Create in me a clean heart, O God.”
+> According to its heading, Psalm 51 is the prayer that David prayed after this conversation: “Have mercy on me, God, because of your loving kindness. … Create in me a clean heart, O God.”
 > God forgives David at once: “The LORD has also taken away your sin.” By the law David actually deserved death. But God is gracious.
 > But forgiveness does not mean that all the consequences disappear. The child will die.
 > “Given the enemies of the LORD great reason to mock him”: in Hebrew it literally says “despised the enemies of the LORD.” Many interpreters think that the scribes added a word here so that they would not have to write “you have despised the LORD.”

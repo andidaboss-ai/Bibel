@@ -91,7 +91,7 @@ For through the law comes the knowledge of sin.
 > **What does this mean?**
 > Verse 9: “We” here probably means the Jews, to whom Paul himself belongs. He says: We are not better, but not worse either. All people, Jews and non-Jews, need God’s grace.
 > Verses 10–18 are a collection of quotations from the Bible of Israel: Psalm 14:1–3 (and Psalm 53), Psalm 5:9 (in the Hebrew Bible and in many German Bibles 5:10), Psalm 140:3 (in the Hebrew Bible and in many German Bibles 140:4), Psalm 10:7, Isaiah 59:7–8 and Psalm 36:1 (in the Hebrew Bible and in many German Bibles 36:2).
-> Verse 20 recalls Psalm 143:2. “The works of the law” means: doing what the law requires. Paul says: No one can make themselves righteous before God by their own achievement.
+> “The works of the law” (verse 20) means: doing what the law requires. Paul says: No one can make themselves righteous before God by their own achievement. Verse 20 recalls Psalm 143:2.
 > Verse 20: The law is good. It shows what is right and wrong. But it cannot set people free from sin.
 
 ---

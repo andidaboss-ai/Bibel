@@ -5,21 +5,24 @@
 
 ## A day of confession (Verses 1–5)
 
-[1] On the twenty-fourth day of this month
-the children of Israel gathered together with fasting,
-dressed in sackcloth, and with dirt on their heads.
+[1] On the twenty-fourth day of this month the people of Israel came together.
+They were fasting.
+They wore sackcloth and had dirt on their heads.
+Sackcloth is rough cloth that people wore when they mourned.
 [2] The descendants of Israel separated themselves from all foreigners.
 They stood and confessed their sins and the sins of their fathers.
-[3] They stood up in their place
-and read in the book of the law of the LORD their God for a fourth part of the day.
-And for another fourth part they confessed and worshiped the LORD their God.
-[4] Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites
-stood up on the stairs
-and cried with a loud voice to the LORD their God.
-[5] Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said,
-“Stand up and bless the LORD your God from everlasting to everlasting!
-Blessed be your glorious name,
-which is lifted high above all blessing and praise!
+[3] They stood up in their places.
+For a fourth part of the day they read from the book of the law of the LORD their God.
+For another fourth part of the day they confessed their sins and worshiped the LORD their God.
+[4] Then some Levites stood up on the stairs:
+Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani.
+They cried out loudly to the LORD their God.
+[5] Then these Levites spoke:
+Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah.
+They said, “Stand up and praise the LORD your God!
+He is God from everlasting to everlasting.
+May your glorious name be praised!
+It is higher than all blessing and praise.
 
 > **What does this mean?**
 > Three weeks after the feast of joy (Chapter 8) comes a day of repentance. Both have their time: joy and honest confession.
@@ -32,21 +35,21 @@ which is lifted high above all blessing and praise!
 
 ## God the Creator and the God of Abraham (Verses 6–8)
 
-[6] You are the LORD, you alone.
-You have made heaven, the heaven of heavens, with all their army,
-the earth and everything on it,
-the seas and all that is in them.
+[6] You alone are the LORD.
+You made the heavens, even the highest heavens, with all their army.
+You made the earth and everything on it,
+the seas and everything in them.
 You keep them all alive.
 The army of heaven worships you.
-[7] You are the LORD, the God who chose Abram,
-brought him out of Ur of the Chaldees,
-and gave him the name Abraham.
-[8] You found his heart faithful before you
-and made a covenant with him,
-to give the land of the Canaanite, the Hittite, the Amorite,
-the Perizzite, the Jebusite, and the Girgashite,
-to give it to his offspring.
-And you have kept your words, for you are righteous.
+[7] You are the LORD, the God who chose Abram.
+You brought him out of Ur of the Chaldees.
+You gave him the name Abraham.
+[8] You saw that his heart was faithful to you.
+You made a covenant with him.
+A covenant is a binding agreement.
+You promised to give his offspring the land of the Canaanite, the Hittite, the Amorite,
+the Perizzite, the Jebusite, and the Girgashite.
+And you have kept your promise, because you are righteous.
 
 > **What does this mean?**
 > The prayer begins at the very beginning: with creation. God has made everything and keeps everything alive. “The army of heaven” here means the angels.
@@ -56,29 +59,29 @@ And you have kept your words, for you are righteous.
 
 ## God saves from Egypt (Verses 9–15)
 
-[9] “You saw the suffering of our fathers in Egypt,
-and heard their cry by the Red Sea.
+[9] “You saw how our fathers suffered in Egypt.
+You heard them cry out at the Red Sea.
 [10] You did signs and wonders against Pharaoh,
-against all his servants, and against all the people of his land,
-for you knew that they acted proudly against our fathers.
-And you made a name for yourself, as it is today.
-[11] You divided the sea before them,
-so that they went through the middle of the sea on dry land.
-And you threw those who chased them into the depths,
-like a stone into the mighty waters.
-[12] In a pillar of cloud you led them by day,
-and in a pillar of fire by night,
-to give them light on the way they should go.
-[13] You also came down on Mount Sinai
-and spoke with them from heaven.
+against all his servants, and against all the people of his land.
+You knew how proudly they treated our fathers.
+So you made a name for yourself that lasts until today.
+[11] You divided the sea in front of them.
+They went through the middle of the sea on dry land.
+But you threw the men who chased them into the deep water,
+like a stone into mighty waters.
+[12] During the day you led them with a pillar of cloud.
+At night you led them with a pillar of fire.
+It gave them light on the way they should go.
+[13] “You came down on Mount Sinai.
+You spoke with them from heaven.
 You gave them right rules and true laws,
 good statutes and commandments.
-[14] You made known to them your holy Sabbath,
-and gave them commandments, statutes, and a law through Moses your servant.
-[15] You gave them bread from the sky for their hunger,
-and brought water out of the rock for them for their thirst.
-And you commanded them to go in and take the land
-which you had sworn to give them.
+[14] You taught them about your holy Sabbath.
+Through Moses your servant you gave them commandments, statutes, and a law.
+[15] When they were hungry, you gave them bread from the sky.
+When they were thirsty, you brought water out of the rock for them.
+You told them to go in and take the land.
+You had promised with an oath to give it to them.
 
 > **What does this mean?**
 > Here the story from Exodus is summed up: the misery in Egypt, the wonders, the crossing through the sea, the pillar of cloud and fire, the law at Sinai, the manna and the water from the rock.
@@ -89,98 +92,105 @@ which you had sworn to give them.
 
 ## Unfaithfulness in the wilderness and God’s patience (Verses 16–21)
 
-[16] “But they, our fathers, acted proudly.
-They made their necks stiff
-and didn’t listen to your commandments.
+[16] “But they, our fathers, became proud.
+They were stubborn
+and did not listen to your commandments.
 [17] They refused to obey.
-They didn’t remember your wonders that you had done among them.
-They made their necks stiff,
-and in their rebellion they appointed a leader to return to their slavery.
-But you are a God ready to pardon,
-gracious and merciful, slow to anger,
-and abundant in loving kindness,
-and you didn’t abandon them.
-[18] Yes, they even made themselves a calf of cast metal and said,
-‘This is your God who brought you up out of Egypt,’
-and they spoke terrible words against you.
-[19] Yet in your great mercy you didn’t abandon them in the wilderness.
-The pillar of cloud didn’t leave them by day, to lead them on the way,
-and the pillar of fire didn’t leave them by night,
-to give them light on the way they should go.
-[20] You also gave your good Spirit to teach them.
-You didn’t hold back your manna from their mouth,
-and you gave them water for their thirst.
-[21] Yes, for 40 years you provided for them in the wilderness.
-They lacked nothing.
-Their clothes didn’t wear out,
-and their feet didn’t swell.
+They did not remember the wonders you had done among them.
+They were stubborn.
+In their rebellion they chose a leader to take them back to slavery.
+But you are a God who is ready to forgive.
+You are gracious and merciful.
+You are slow to become angry.
+Your loving kindness is great.
+You did not leave them.
+[18] They even made a metal statue of a calf for themselves.
+They said, ‘This is your God who brought you up out of Egypt.’
+They spoke terrible words against you.
+[19] But you have so much mercy.
+You did not leave them in the desert.
+During the day the pillar of cloud stayed over them and led them on the way.
+At night the pillar of fire stayed too.
+It gave them light on the way they should go.
+[20] You gave them your good Spirit to teach them.
+You did not stop giving them manna to eat.
+You gave them water when they were thirsty.
+[21] “For 40 years you took care of them in the desert.
+They did not lack anything.
+Their clothes did not wear out.
+Their feet did not swell.
 
 > **What does this mean?**
 > Now comes the dark side: the people were ungrateful. They even wanted to go back to slavery in Egypt (Numbers 14:4). They worshiped a golden calf (Exodus 32).
-> But verse 17 is the heart of the whole prayer: “You are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness.” God himself said these words about himself (Exodus 34:6). They come again and again in the Bible.
+> But verse 17 is the heart of the whole prayer: “You are a God who is ready to forgive. You are gracious and merciful. You are slow to become angry. Your loving kindness is great.” God himself said these words about himself (Exodus 34:6). They come again and again in the Bible.
 > In spite of everything God did not abandon them. He went on leading them and gave them his Spirit, food and water. For 40 years.
 
 ---
 
 ## The good land (Verses 22–25)
 
-[22] You also gave them kingdoms and peoples,
-and gave them each their share.
-So they took the land of Sihon, the land of the king of Heshbon,
-and the land of Og king of Bashan.
-[23] You also made their children as many as the stars of the sky,
-and brought them into the land
-of which you had told their fathers that they should go in and take it.
+[22] You gave them kingdoms and peoples.
+You gave each group its own share.
+So they took the land of Sihon, the king of Heshbon,
+and the land of Og, the king of Bashan.
+[23] You made their children as many as the stars in the sky.
+You brought them into the land.
+You had told their fathers that they would go in and take it.
 [24] “So the children went in and took the land.
-You brought down before them the people who lived in the land, the Canaanites,
-and gave them into their hands,
-with their kings and the peoples of the land,
-so that they could do with them as they pleased.
-[25] They took fortified cities and a rich land.
-They took houses full of all good things,
-dug-out cisterns, vineyards, olive groves, and fruit trees in great numbers.
-So they ate, were filled, became fat,
-and enjoyed your great goodness.
+You defeated the people who lived in the land, the Canaanites, in front of them.
+You gave them into their hands,
+together with their kings and the peoples of the land.
+Your people could do with them whatever they wanted.
+[25] They captured strong cities and a rich land.
+They took over houses full of all kinds of good things.
+They took over wells that others had dug, vineyards, olive groves, and many fruit trees.
+So they ate until they were full and became fat.
+They enjoyed your great goodness.
 
 > **What does this mean?**
 > Here the time of Moses and Joshua is summed up (Numbers 21; Joshua). God fulfilled the promise to Abraham.
 > The land was rich. They even received houses and vineyards that they had not built themselves (compare Deuteronomy 6:10–11).
 > The conquest of Canaan is one of the hard subjects of the Bible. The prayer tells it from Israel’s point of view, as God’s gift. See the explanations in the book of Joshua.
-> “Were filled, became fat”: that sounds good. But it is also a warning. When things went well, the people forgot God (compare Deuteronomy 32:15).
+> “They ate until they were full and became fat”: that sounds good. But it is also a warning. When things went well, the people forgot God (compare Deuteronomy 32:15).
 
 ---
 
 ## The same cycle again and again (Verses 26–31)
 
-[26] “Nevertheless they disobeyed and rebelled against you.
+[26] “But they did not obey.
+They rebelled against you.
 They threw your law behind their backs.
-They killed your prophets who warned them to turn them back to you,
-and they spoke terrible words against you.
-[27] So you gave them into the hand of their enemies, who oppressed them.
-In the time of their trouble they cried to you,
-and you heard from heaven.
-According to your great mercy you gave them saviors,
-who saved them out of the hands of their enemies.
-[28] But after they had rest, they did evil again before you.
-So you left them in the hands of their enemies,
-so that these ruled over them.
-Yet when they turned back and cried to you,
-you heard from heaven.
-And many times you saved them according to your mercy.
-[29] You warned them, to bring them back to your law.
-Yet they were proud
-and didn’t listen to your commandments,
-but sinned against your rules,
-which a man shall live by if he does them.
-They turned their backs, made their necks stiff,
-and would not listen.
-[30] Yet for many years you were patient with them,
-and warned them by your Spirit through your prophets.
-Yet they would not listen.
-So you gave them into the hand of the peoples of the lands.
-[31] “Nevertheless, in your great mercy
-you didn’t make a full end of them or abandon them,
-for you are a gracious and merciful God.
+Your prophets warned them and wanted to bring them back to you.
+But they killed your prophets.
+They spoke terrible words against you.
+[27] So you gave them into the hands of their enemies.
+Their enemies made them suffer.
+When they were in trouble, they cried out to you.
+You heard them from heaven.
+You have so much mercy.
+So you gave them saviors.
+These saviors rescued them from the hands of their enemies.
+[28] But as soon as they had peace, they did evil before you again.
+So you left them in the hands of their enemies.
+Their enemies ruled over them.
+But when they turned back and cried out to you,
+you heard them from heaven.
+Many times you rescued them because of your mercy.
+[29] You warned them to bring them back to your law.
+But they were proud.
+They did not listen to your commandments.
+They sinned against your rules.
+Whoever keeps these rules will live by them.
+But they turned their backs on you.
+They were stubborn and would not listen.
+[30] For many years you were patient with them.
+You warned them by your Spirit through your prophets.
+But they would not listen.
+So you gave them into the hands of the peoples of the lands.
+[31] “But you have so much mercy.
+You did not destroy them completely.
+You did not leave them.
+You are a gracious and merciful God.
 
 > **What does this mean?**
 > Here the time of the judges and the kings is summed up. It is always the same cycle:
@@ -190,40 +200,39 @@ for you are a gracious and merciful God.
 > 4. God hears and sends saviors.
 > 5. There is rest – and then everything begins all over again.
 > God saved them “many times”. His patience was huge.
-> Verse 29: “which a man shall live by if he does them”. This quotes Leviticus 18:5. God’s commandments are not there to make life hard, but to give life.
+> Verse 29: “Whoever keeps these rules will live by them.” This quotes Leviticus 18:5. God’s commandments are not there to make life hard, but to give life.
 > Verse 31: even the exile was not the end. God did not completely give up his people.
 
 ---
 
 ## The request (Verses 32–37)
 
-[32] “Now therefore, our God, the great, the mighty, and the awesome God,
-who keeps covenant and loving kindness:
-don’t let all the hardship seem little before you
-that has come on us, on our kings, on our princes, on our priests,
-on our prophets, on our fathers, and on all your people,
-since the time of the kings of Assyria to this day.
-[33] Yet you are just in all that has come on us,
-for you have acted faithfully, but we have done wickedly.
-[34] Our kings, our princes, our priests, and our fathers
-have not kept your law,
-nor listened to your commandments and your warnings
-with which you warned them.
-[35] For they have not served you in their kingdom,
-in the great goodness that you gave them,
-and in the large and rich land which you gave them.
-They didn’t turn from their wicked deeds.
-[36] “Look, we are slaves today.
-In the land that you gave to our fathers
-to eat its fruit and its good things,
-look, we are slaves in it.
-[37] Its rich harvest goes to the kings
-whom you have set over us because of our sins.
-They also rule over our bodies and over our livestock as they please.
-And we are in great distress.
+[32] Now, our God, you are the great, mighty, and awesome God.
+You keep your covenant and your loving kindness.
+So much hardship has come on us,
+on our kings, our princes, our priests, our prophets, our fathers, and all your people.
+It started in the time of the kings of Assyria, and it goes on until today.
+Please don’t think that all this hardship is a small thing.
+[33] You have been fair in everything that has happened to us.
+You have been faithful, but we have done evil.
+[34] Our kings, our princes, our priests, and our fathers did not keep your law.
+They did not pay attention to your commandments.
+They did not listen when you warned them.
+[35] They had their own kingdom.
+You gave them great goodness.
+You gave them a large and rich land.
+But even then they did not serve you.
+They did not turn away from their evil deeds.
+[36] “Look, today we are slaves.
+You gave this land to our fathers so they could eat its fruit and its good things.
+But look, we are slaves in it.
+[37] The land produces a big harvest.
+But the harvest goes to the kings you have put over us because of our sins.
+They rule over our bodies and over our animals as they please.
+We are in great distress.
 
 > **What does this mean?**
-> Only now, at the end, comes a request. And it is very careful: “Don’t let all the hardship seem little before you.” They ask God to see their suffering.
+> Only now, at the end, comes a request. And it is very careful: “Please don’t think that all this hardship is a small thing.” They ask God to see their suffering.
 > They admit: God was just. The guilt lies with us.
 > Verses 36–37 describe the situation under the Persians honestly: they are back in their own land, but they are not free. The taxes go to the foreign king. That is the bitter reality.
 
@@ -231,8 +240,8 @@ And we are in great distress.
 
 ## A firm covenant (Verse 38)
 
-[38] Yet in spite of all this, we make a firm covenant and write it down.
-And our princes, our Levites, and our priests seal it.”
+[38] In spite of all this, we are making a firm covenant and writing it down.
+Our princes, our Levites, and our priests are sealing it.”
 
 > **What does this mean?**
 > In some Bibles this verse is already Chapter 10:1. That is why the verses of Chapter 10 there are shifted by one.

@@ -5,46 +5,45 @@
 
 ## This time the right way (Verses 1–15)
 
-[1] David built houses for himself in David’s city.
+[1] David built houses for himself in the City of David.
 He prepared a place for God’s ark
 and set up a tent for it.
 [2] Then David said,
-“No one should carry God’s ark except the Levites.
-For the LORD has chosen them to carry God’s ark
+“No one may carry God’s ark except the Levites.
+The LORD chose them to carry God’s ark
 and to serve him forever.”
-[3] David gathered all Israel at Jerusalem
-to bring up the LORD’s ark to its place,
-which he had prepared for it.
-[4] David gathered together the sons of Aaron and the Levites:
-[5] of the sons of Kohath,
-Uriel the chief, and his brothers, 120;
-[6] of the sons of Merari,
-Asaiah the chief, and his brothers, 220;
-[7] of the sons of Gershom,
-Joel the chief, and his brothers, 130;
-[8] of the sons of Elizaphan,
-Shemaiah the chief, and his brothers, 200;
-[9] of the sons of Hebron,
-Eliel the chief, and his brothers, 80;
-[10] of the sons of Uzziel,
-Amminadab the chief, and his brothers, 112.
-[11] David called for Zadok and Abiathar the priests,
-and for the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,
-[12] and said to them,
-“You are the heads of the fathers’ households of the Levites.
-Make yourselves holy, both you and your brothers,
-so that you may bring the ark of the LORD, the God of Israel,
-up to the place that I have prepared for it.
-[13] For because you didn’t carry it the first time,
-the LORD our God broke out in anger against us,
-because we didn’t seek him according to the rule.”
-[14] So the priests and the Levites made themselves holy
-to bring up the ark of the LORD, the God of Israel.
-[15] The children of the Levites carried God’s ark on their shoulders with its poles,
-as Moses commanded according to the LORD’s word.
+[3] David gathered all Israel in Jerusalem.
+They were to bring the LORD’s ark up to the place he had prepared for it.
+[4] David called together the descendants of Aaron and the Levites:
+[5] from the descendants of Kohath:
+Uriel, the leader, and 120 of his relatives;
+[6] from the descendants of Merari:
+Asaiah, the leader, and 220 of his relatives;
+[7] from the descendants of Gershom:
+Joel, the leader, and 130 of his relatives;
+[8] from the descendants of Elizaphan:
+Shemaiah, the leader, and 200 of his relatives;
+[9] from the descendants of Hebron:
+Eliel, the leader, and 80 of his relatives;
+[10] from the descendants of Uzziel:
+Amminadab, the leader, and 112 of his relatives.
+[11] David called the priests Zadok and Abiathar.
+He also called the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.
+[12] He said to them,
+“You are the heads of the Levite families.
+Make yourselves holy, you and your relatives.
+Then bring the ark of the LORD, the God of Israel,
+up to the place I have prepared for it.
+[13] The first time you did not carry it.
+So the LORD our God broke out in anger against us.
+We did not seek him according to the rule.”
+[14] So the priests and the Levites made themselves holy.
+Then they could bring up the ark of the LORD, the God of Israel.
+[15] The Levites carried God’s ark on their shoulders with its poles.
+They did it as Moses had commanded, just as the LORD had said.
 
 > **What does this mean?**
-> David has learned from the mistake. He says openly: “We didn’t seek him according to the rule.” He does not look for someone to blame, but says “we”.
+> David has learned from the mistake. He says openly: “We did not seek him according to the rule.” He does not look for someone to blame, but says “we”.
 > Now they do it the right way: the Levites carry the ark on their shoulders, with poles, as it says in Exodus 25:14 and Numbers 7:9.
 > “Make yourselves holy” means: get ready, make yourselves clean, prepare yourselves for the service of God.
 > Elizaphan, Hebron and Uzziel were smaller families within the Kohathites. They are named here separately.
@@ -54,27 +53,30 @@ as Moses commanded according to the LORD’s word.
 
 ## Music for God (Verses 16–24)
 
-[16] David told the chiefs of the Levites
-to appoint their brothers as singers
-with instruments of music, stringed instruments, harps, and cymbals,
-sounding aloud and lifting up their voices with joy.
-[17] So the Levites appointed Heman the son of Joel;
-and of his brothers, Asaph the son of Berechiah;
-and of the sons of Merari their brothers, Ethan the son of Kushaiah;
-[18] and with them their brothers of the second rank:
+[16] David told the leaders of the Levites
+to choose some of their relatives as singers.
+They were to play music on harps, lyres, and cymbals.
+They were to play loudly and sing with joy.
+[17] So the Levites chose Heman, the son of Joel.
+From his relatives they chose Asaph, the son of Berechiah.
+From their relatives, the descendants of Merari, they chose Ethan, the son of Kushaiah.
+[18] With them were their relatives of the second rank:
 Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah,
-Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.
-[19] So the singers Heman, Asaph, and Ethan were given cymbals of bronze to sound aloud;
-[20] and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah
-played stringed instruments set to Alamoth;
-[21] and Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah
-played harps tuned to the eight-stringed lyre, to lead.
-[22] Chenaniah, chief of the Levites, was over the singing.
+Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel.
+They were the doorkeepers.
+[19] The singers Heman, Asaph, and Ethan
+were to play loudly on bronze cymbals.
+[20] Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah
+played lyres set to Alamoth.
+[21] Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah
+played harps tuned to the eight-stringed lyre.
+They were to lead.
+[22] Chenaniah, a leader of the Levites, was in charge of the singing.
 He taught the singers, because he was skillful.
 [23] Berechiah and Elkanah were doorkeepers for the ark.
-[24] Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests,
-blew the trumpets before God’s ark.
-And Obed-Edom and Jehiah were doorkeepers for the ark.
+[24] The priests Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer
+blew the trumpets in front of God’s ark.
+Obed-Edom and Jehiah were also doorkeepers for the ark.
 
 > **What does this mean?**
 > For Chronicles music is an important part of worship. David puts together a large choir and an orchestra. Praise of God should be loud and joyful.
@@ -86,21 +88,22 @@ And Obed-Edom and Jehiah were doorkeepers for the ark.
 
 ## Joy and contempt (Verses 25–29)
 
-[25] So David, the elders of Israel, and the captains over thousands went
-to bring the ark of the LORD’s covenant up out of the house of Obed-Edom with joy.
-[26] When God helped the Levites who carried the ark of the LORD’s covenant,
-they sacrificed seven bulls and seven rams.
-[27] David was dressed in a robe of fine linen,
-as were all the Levites who carried the ark,
-the singers, and Chenaniah the choir master with the singers.
-And David wore an ephod of linen.
-[28] So all Israel brought the ark of the LORD’s covenant up
-with shouting, with the sound of the horn, with trumpets, and with cymbals,
-sounding aloud with stringed instruments and harps.
-[29] As the ark of the LORD’s covenant came to David’s city,
-Michal the daughter of Saul looked out of the window.
-She saw King David dancing and playing,
-and she despised him in her heart.
+[25] So David, the leaders of Israel, and the commanders of thousands went with joy.
+They went to bring the ark of the LORD’s covenant up from the house of Obed-Edom.
+[26] God helped the Levites who carried the ark of the LORD’s covenant.
+So they sacrificed seven bulls and seven rams.
+[27] David wore a robe of fine linen.
+All the Levites who carried the ark wore one too.
+So did the singers and Chenaniah, the leader of the singing.
+David also wore a linen ephod.
+An ephod is a special garment like an apron.
+[28] So all Israel brought up the ark of the LORD’s covenant.
+They shouted and blew the horn and the trumpets.
+They played loudly on cymbals, lyres, and harps.
+[29] The ark of the LORD’s covenant came into the City of David.
+Michal, the daughter of Saul, looked out of the window.
+She saw King David dancing and celebrating.
+And in her heart she looked down on him.
 
 > **What does this mean?**
 > “When God helped the Levites”: this time everything goes well. Full of thankfulness the Levites offer sacrifices.

@@ -5,7 +5,7 @@
 
 ## The priests (Verses 1–8)
 
-[1] These are the ones who sealed it:
+[1] These are the men who put their seal on the covenant:
 Nehemiah the governor, the son of Hacaliah, and Zedekiah,
 [2] Seraiah, Azariah, Jeremiah,
 [3] Pashhur, Amariah, Malchijah,
@@ -60,66 +60,68 @@ Parosh, Pahathmoab, Elam, Zattu, Bani,
 
 ## The promise (Verses 28–29)
 
-[28] The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants,
-and all those who had separated themselves from the peoples of the lands to the law of God,
-their wives, their sons, and their daughters,
-everyone who had knowledge and understanding,
-[29] joined with their brothers, their nobles.
-They bound themselves with a curse and with an oath
-to walk in God’s law,
-which was given through Moses the servant of God,
-and to keep and do all the commandments of the LORD our Lord,
-and his rules and his statutes.
+[28] Then there was the rest of the people:
+the priests, the Levites, the gatekeepers, the singers, and the temple servants.
+There were also all those who had separated themselves from the peoples of the lands
+to follow the law of God.
+Their wives, their sons, and their daughters were there too,
+everyone who was able to know and understand.
+[29] They all joined their brothers and their nobles.
+They made a promise with an oath.
+They called a curse on themselves if they broke it.
+They promised to live by God’s law.
+God gave this law through Moses, the servant of God.
+They promised to keep and do all the commandments of the LORD our Lord,
+and all his rules and his statutes.
 
 > **What does this mean?**
 > Not only the leaders, but everyone takes part: men, women and children who are old enough to understand.
-> People from other peoples could also belong, if they had separated themselves “to the law of God”.
-> “A curse and an oath”: they promise solemnly. And they say: if we break the promise, may a curse strike us. That is how seriously they mean it.
+> People from other peoples could also belong, if they had separated themselves “to follow the law of God”.
+> An oath with a curse: they promise solemnly. And they say: if we break the promise, may a curse strike us. That is how seriously they mean it.
 
 ---
 
 ## The single promises (Verses 30–39)
 
-[30] We promised that we would not give our daughters to the peoples of the land,
-nor take their daughters for our sons.
-[31] And if the peoples of the land bring goods or any grain to sell on the Sabbath day,
-we would not buy from them on the Sabbath or on a holy day.
-And in the seventh year we would give up the crops
-and the collecting of every debt.
-[32] We also made rules for ourselves:
-to give each year the third part of a shekel
-for the service of the house of our God:
-[33] for the showbread, for the continual grain offering,
-for the continual burnt offering, for the Sabbaths, for the new moons,
-for the set feasts, for the holy things,
-for the sin offerings to make atonement for Israel,
-and for all the work of the house of our God.
-[34] We, the priests, the Levites, and the people,
-cast lots for the wood offering,
-to bring it into the house of our God, family by family,
-at set times year by year,
-to burn on the altar of the LORD our God, as it is written in the law.
-[35] We would bring the first fruits of our ground
-and the first fruits of all the fruit of every kind of tree,
-year by year, to the LORD’s house.
-[36] We would also bring the firstborn of our sons and of our livestock,
-as it is written in the law,
-and the firstborn of our herds and of our flocks,
-to the house of our God, to the priests who serve in the house of our God.
-[37] We would bring the first of our dough, our offerings,
-the fruit of every kind of tree, the new wine and the oil,
-to the priests, to the rooms of the house of our God,
-and the tithes of our ground to the Levites.
-For the Levites collect the tithes in all our farming towns.
-[38] The priest, the descendant of Aaron,
-shall be with the Levites when the Levites collect tithes.
-The Levites shall bring up a tenth of the tithes to the house of our God,
-to the rooms of the treasure house.
-[39] For the children of Israel and the children of Levi
-shall bring the offering of the grain, the new wine, and the oil
-to the rooms where the objects of the holy place are,
-and where the priests who serve, the gatekeepers, and the singers are.
-We will not forsake the house of our God.
+[30] We promised not to give our daughters in marriage to the peoples of the land.
+And we promised not to take their daughters as wives for our sons.
+[31] The peoples of the land might bring goods or grain to sell on the Sabbath day.
+Then we would not buy from them on the Sabbath or on any other holy day.
+Every seventh year we would not harvest the crops.
+And in that year we would cancel every debt.
+[32] We also made rules for ourselves.
+Each year every one of us would give a third of a shekel
+for the service in the house of our God.
+[33] The money is for the holy bread,
+for the daily grain offering and the daily burnt offering,
+for the Sabbaths, the new moons, and the set feasts,
+for the holy things,
+for the sin offerings that make atonement for Israel,
+and for all the work in the house of our God.
+Atonement means: the guilt is taken away, and people are at peace with God again.
+[34] We, the priests, the Levites, and the people, cast lots for the wood offering.
+In this way we decided which family would bring wood to the house of our God, and when.
+Each year at set times they would bring it.
+It is burned on the altar of the LORD our God, as it is written in the law.
+[35] Each year we would bring the first harvest of our fields to the LORD’s house.
+We would also bring the first fruit of every kind of tree.
+[36] We would bring the firstborn of our sons and of our animals,
+as it is written in the law.
+We would bring the firstborn of our cattle and of our sheep and goats
+to the house of our God, to the priests who serve there.
+[37] We would bring the first of our dough and our offerings,
+the fruit of every kind of tree, the new wine, and the oil.
+We would bring them to the priests, to the storerooms of the house of our God.
+And we would bring a tenth of the harvest of our fields to the Levites.
+The Levites collect this tenth in all our farming towns.
+[38] A priest from the family of Aaron will be with the Levites when they collect the tenth.
+The Levites will take a tenth of everything they collect
+and bring it up to the house of our God, to the storerooms of the treasure house.
+[39] The people of Israel and the descendants of Levi will bring the offerings of grain, new wine, and oil
+to the storerooms.
+The objects of the holy place are kept there.
+The priests who serve, the gatekeepers, and the singers are there too.
+We will not abandon the house of our God.
 
 > **What does this mean?**
 > The covenant becomes very concrete. It is about everyday life:
@@ -130,4 +132,4 @@ We will not forsake the house of our God.
 > A third of a shekel was a small amount. Everyone could give that.
 > Someone had to bring the wood for the altar. The fire on the altar was never to go out (Leviticus 6:13). The families took turns.
 > “The firstborn of our sons”: the firstborn sons were dedicated to God and then “bought back” with money (Numbers 18:15–16). It was never about human sacrifice.
-> The last sentence sums everything up: “We will not forsake the house of our God.” Sadly, Chapter 13 shows that they did not keep the promise for long.
+> The last sentence sums everything up: “We will not abandon the house of our God.” Sadly, Chapter 13 shows that they did not keep the promise for long.

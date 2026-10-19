@@ -7,37 +7,36 @@
 
 [1] Then Solomon said,
 “The LORD has said that he would live in the thick darkness.
-[2] But I have built you a house and a home,
-a place for you to live in forever.”
-[3] The king turned his face
-and blessed all the assembly of Israel.
-And all the assembly of Israel stood.
+[2] But I have built a house for you, a home,
+a place where you can live forever.”
+[3] Then the king turned around.
+He blessed the whole assembly of Israel,
+while the whole assembly of Israel stood.
 [4] He said,
-“Blessed be the LORD, the God of Israel,
-who spoke with his mouth to David my father,
-and has done it with his hands.
+“Praise the LORD, the God of Israel!
+He made a promise to my father David with his own mouth.
+And with his own hands he has done what he promised.
 He said,
-[5] ‘Since the day that I brought my people out of the land of Egypt,
-I chose no city out of all the tribes of Israel to build a house in,
-so that my name might be there.
-And I chose no man to be prince over my people Israel.
-[6] But now I have chosen Jerusalem, so that my name might be there.
+[5] ‘Since the day I brought my people out of the land of Egypt,
+I did not choose any city in all the tribes of Israel to build a house in,
+a house where my name would be.
+And I did not choose any man to be the ruler over my people Israel.
+[6] But now I have chosen Jerusalem as the place where my name will be.
 And I have chosen David to be over my people Israel.’
-[7] It was in the heart of David my father
+[7] My father David wanted with all his heart
 to build a house for the name of the LORD, the God of Israel.
-[8] But the LORD said to David my father,
-‘It was in your heart to build a house for my name.
-You did well that it was in your heart.
-[9] But you shall not build the house.
-Your son, who will be born to you,
-he shall build the house for my name.’
+[8] But the LORD said to my father David,
+‘You wanted with all your heart to build a house for my name.
+It was good that you wanted this.
+[9] But you will not build the house.
+Your own son will build the house for my name.’
 [10] “The LORD has done what he said.
-For I have risen up in the place of David my father,
-and I sit on the throne of Israel, as the LORD promised.
+I have taken the place of my father David.
+I sit on the throne of Israel, as the LORD promised.
 And I have built the house for the name of the LORD, the God of Israel.
-[11] There I have set the ark,
-in which is the LORD’s covenant,
-which he made with the children of Israel.”
+[11] I have put the ark there.
+The LORD’s covenant is in the ark,
+the covenant he made with the people of Israel.”
 
 > **What does this mean?**
 > This speech is almost the same in 1 Kings 8:12–21.
@@ -49,41 +48,42 @@ which he made with the children of Israel.”
 
 ## Solomon’s prayer: God, listen! (Verses 12–21)
 
-[12] He stood before the LORD’s altar,
-in front of all the assembly of Israel,
-and spread out his hands.
-[13] For Solomon had made a bronze platform,
-about 7½ feet long, about 7½ feet wide, and about 4½ feet high,
-and had set it in the middle of the court.
+[12] Then Solomon stood in front of the LORD’s altar,
+in front of the whole assembly of Israel,
+and he spread out his hands.
+[13] Solomon had made a bronze platform.
+It was about 7½ feet long, about 7½ feet wide, and about 4½ feet high.
+He had put it in the middle of the courtyard.
 He stood on it.
-He knelt down on his knees before all the assembly of Israel
+Then he knelt down in front of the whole assembly of Israel
 and spread out his hands toward heaven.
-[14] Then he said,
-“LORD, the God of Israel,
+[14] He said,
+“LORD, God of Israel,
 there is no God like you in heaven or on earth.
-You keep covenant and loving kindness with your servants
-who walk before you with all their heart.
-[15] You have kept what you promised your servant David my father.
-Yes, you spoke with your mouth, and you have done it with your hand, as it is today.
-[16] “So now, LORD, the God of Israel,
-keep what you promised your servant David my father, when you said,
-‘You will never lack a man in my sight to sit on the throne of Israel,
-if only your children take care how they live,
-and walk in my law as you have walked before me.’
-[17] So now, LORD, the God of Israel,
-let your word come true,
-which you spoke to your servant David.
-[18] “But will God really live with people on the earth?
-Look, heaven and the heaven of heavens can’t contain you.
-How much less this house that I have built!
-[19] Yet pay attention to the prayer of your servant and to his plea, LORD my God.
-Listen to the cry and to the prayer that your servant prays before you.
-[20] May your eyes be open toward this house day and night,
-toward the place where you have said that you would put your name,
-to listen to the prayer that your servant will pray toward this place.
-[21] Listen to the requests of your servant and of your people Israel,
+You keep your covenant and show your faithful love to your servants
+who live before you with all their heart.
+[15] You have kept your promise to your servant, my father David.
+You spoke with your mouth, and with your hand you have done it, as we see today.
+[16] “So now, LORD, God of Israel,
+keep the promise you made to your servant, my father David.
+You said to him,
+‘There will always be a man from your family to sit before me on the throne of Israel.
+But your sons must be careful how they live.
+They must walk in my law, as you have walked before me.’
+[17] So now, LORD, God of Israel,
+let your promise to your servant David come true.
+[18] “But will God really live on earth with human beings?
+Even heaven, even the highest heaven, cannot hold you.
+So this house that I have built can hold you even less!
+[19] But listen to the prayer of your servant, LORD my God.
+Listen to my plea for help.
+Hear the cry and the prayer that your servant prays to you.
+[20] Keep your eyes open toward this house day and night.
+This is the place where you said you would put your name.
+Listen to the prayer that your servant prays toward this place.
+[21] Listen to the requests of your servant and of your people Israel
 when they pray toward this place.
-Yes, hear from your dwelling place, from heaven.
+Hear from the place where you live, from heaven.
 And when you hear, forgive.
 
 > **What does this mean?**
@@ -98,80 +98,81 @@ And when you hear, forgive.
 ## Requests for many situations (Verses 22–39)
 
 [22] “Someone may sin against his neighbor.
-Then he may be made to swear an oath.
-He comes and swears before your altar in this house.
+Then he may have to swear an oath.
+He comes and swears the oath in front of your altar in this house.
 [23] Then hear from heaven, act, and judge your servants.
-Punish the wicked,
-and bring what he has done on his own head.
-And declare the righteous to be in the right,
-and give him what his righteousness deserves.
-[24] “Your people Israel may be struck down before the enemy
+Punish the guilty one.
+Let what he did come back on his own head.
+And declare the innocent one to be in the right.
+Give him what his right actions deserve.
+[24] “Your people Israel may lose a battle against an enemy
 because they have sinned against you.
-If they turn back, praise your name,
-and pray and plead before you in this house,
-[25] then hear from heaven,
-and forgive the sin of your people Israel,
-and bring them back to the land that you gave to them and to their fathers.
-[26] “The sky may be shut up and there may be no rain,
-because they have sinned against you.
-If they pray toward this place and praise your name,
-and turn from their sin when you bring trouble on them,
-[27] then hear in heaven,
-and forgive the sin of your servants, your people Israel,
-when you teach them the good way in which they should walk.
+Then they may turn back to you and praise your name.
+They may pray and plead with you in this house.
+[25] Then hear from heaven.
+Forgive the sin of your people Israel.
+Bring them back to the land you gave to them and to their ancestors.
+[26] “The sky may be shut, so that there is no rain,
+because the people have sinned against you.
+Then they may pray toward this place and praise your name.
+They may turn away from their sin because you have made them suffer.
+[27] Then hear in heaven.
+Forgive the sin of your servants, your people Israel.
+Teach them the good way they should live.
 And send rain on your land,
-which you have given to your people as their own.
-[28] “There may be famine in the land,
+the land you gave to your people as their own.
+[28] “There may be hunger in the land,
 or a deadly disease,
-or blight or mildew, locusts or caterpillars.
-Their enemies may surround them in the land of their cities.
-There may be any plague or any sickness.
-[29] Then any prayer and any plea may be made
-by any person or by all your people Israel.
-Each will know his own plague and his own sorrow,
-and will spread out his hands toward this house.
-[30] Then hear from heaven, your dwelling place, and forgive.
-Give to every person according to all his ways,
-for you know his heart.
-For you, and you alone, know the hearts of all people.
-[31] Do this, so that they may fear you
-and walk in your ways as long as they live in the land that you gave to our fathers.
-[32] “And the foreigner, who is not of your people Israel:
-he may come from a far country because of your great name,
+or plant diseases, or locusts or caterpillars.
+Enemies may surround their cities in their land.
+There may be any kind of disaster or sickness.
+[29] Then someone may pray and plead with you.
+It may be one person or all your people Israel.
+Each one knows his own trouble and his own pain.
+He spreads out his hands toward this house.
+[30] Then hear from heaven, the place where you live, and forgive.
+Give each person what all his ways deserve.
+You know his heart.
+Only you know the hearts of all people.
+[31] Then they will fear you.
+They will walk in your ways as long as they live in the land you gave to our ancestors.
+[32] “A foreigner, who is not from your people Israel,
+may come from a land far away.
+He comes because of your great name,
 your mighty hand, and your outstretched arm.
-When they come and pray toward this house,
-[33] then hear from heaven, from your dwelling place,
-and do all that the foreigner calls to you for.
-Then all the peoples of the earth may know your name and fear you,
-as your people Israel do.
-And they may know that this house which I have built is called by your name.
-[34] “Your people may go out to battle against their enemies,
-by whatever way you send them.
-They may pray to you toward this city which you have chosen,
-and toward the house which I have built for your name.
-[35] Then hear from heaven their prayer and their plea,
-and help them to their right.
-[36] “They may sin against you,
-for there is no one who doesn’t sin.
-And you may be angry with them and hand them over to the enemy,
-so that they carry them away as prisoners to a land far away or near.
-[37] Yet they may come to their senses in the land where they have been carried as prisoners.
-They may turn back and plead with you in the land of their captivity,
-and say,
-‘We have sinned, we have done wrong, and we have acted wickedly.’
-[38] They may return to you with all their heart and with all their soul
-in the land of their captivity, where they have been taken as prisoners,
-and pray toward their land, which you gave to their fathers,
-and toward the city which you have chosen,
-and toward the house which I have built for your name.
-[39] Then hear from heaven, from your dwelling place, their prayer and their requests,
-and help them to their right,
-and forgive your people who have sinned against you.
+Foreigners may come and pray toward this house.
+[33] Then hear from heaven, the place where you live.
+Do everything the foreigner asks you for.
+Then all the peoples of the earth will know your name and fear you,
+just like your people Israel.
+And they will know that this house I have built is called by your name.
+[34] “Your people may go out to fight against their enemies,
+wherever you send them.
+They may pray to you toward this city that you have chosen
+and toward the house I have built for your name.
+[35] Then hear their prayer and their plea from heaven.
+Help them and give them justice.
+[36] “Your people may sin against you.
+After all, there is no one who doesn’t sin.
+You may be angry with them and hand them over to an enemy.
+Their enemies may take them away as prisoners to another land, far away or near.
+[37] But in the land where they are prisoners, they may come to their senses.
+They may turn back and plead with you in that land.
+They may say,
+‘We have sinned. We have done wrong. We have done evil.’
+[38] They may turn back to you with all their heart and with all their soul
+in the land where they are prisoners.
+They may pray toward their own land, the land you gave to their ancestors.
+They may pray toward the city you have chosen
+and toward the house I have built for your name.
+[39] Then hear their prayer and their requests from heaven, the place where you live.
+Help them and give them justice.
+Forgive your people who have sinned against you.
 
 > **What does this mean?**
 > These requests are almost the same in 1 Kings 8:31–50. Solomon thinks of every kind of need: quarrels, war, drought, hunger, sickness and captivity.
 > Again and again: “Hear and forgive.” For “there is no one who doesn’t sin” (verse 36).
-> “Each will know his own plague and his own sorrow” (verse 29): God also hears the very personal prayer of a single person in their need.
+> “Each one knows his own trouble and his own pain” (verse 29): God also hears the very personal prayer of a single person in their need.
 > The foreigner from another people may also pray, and God is to hear him (verses 32–33). God’s house is open to all peoples.
 > The request for the prisoners (verses 36–39) was very important for the first readers of Chronicles. They had lived through the exile in Babylon. These verses told them: even far away, God hears.
 
@@ -179,17 +180,16 @@ and forgive your people who have sinned against you.
 
 ## The end of the prayer (Verses 40–42)
 
-[40] “Now, my God, I beg you,
-let your eyes be open,
-and let your ears pay attention to the prayer that is made in this place.
-[41] “Now arise, LORD God, into your resting place,
+[40] “Now, my God, please keep your eyes open.
+Let your ears listen to the prayers that are prayed in this place.
+[41] “Now rise up, LORD God, and come to your resting place,
 you and the ark of your strength.
-Let your priests, LORD God, be clothed with salvation,
-and let your saints rejoice in goodness.
-[42] “LORD God, don’t turn away the face of your anointed.
-Remember your loving kindnesses to David your servant.”
+LORD God, let your priests be clothed with salvation.
+Let your faithful people be glad about your goodness.
+[42] “LORD God, do not turn away from your anointed king.
+Remember your faithful love to your servant David.”
 
 > **What does this mean?**
 > Here the prayer ends differently than in 1 Kings 8. Chronicles closes with words from Psalm 132:8–10.
-> “Arise … into your resting place”: the ark, which has wandered for a long time, has now found a fixed place.
-> “Remember your loving kindnesses to David your servant”: at the end, Solomon appeals to God’s promise to David. For the readers of Chronicles, who no longer had a king, this was a hope: God does not forget his promise to David.
+> “Rise up … and come to your resting place”: the ark, which has wandered for a long time, has now found a fixed place.
+> “Remember your faithful love to your servant David”: at the end, Solomon appeals to God’s promise to David. For the readers of Chronicles, who no longer had a king, this was a hope: God does not forget his promise to David.

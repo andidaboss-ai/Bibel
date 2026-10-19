@@ -57,7 +57,7 @@ So they left him and went away.
 > **What does this mean?**
 > The parable reminds us of the “song of the vineyard” in the prophet Isaiah (Isaiah 5:1–7). There the vineyard is the people of Israel, which God planted with love.
 > The servants are the prophets whom God sent again and again. The “beloved son” is Jesus himself (compare 1:11 and 9:7). Jesus announces his death again.
-> Verses 10–11 quote Psalm 118:22–23. The rejected stone becomes the most important stone. “The head of the corner” is the cornerstone, which holds the building together. Christians see this as a picture of Jesus: rejected, killed and raised by God.
+> Verses 10–11 quote Psalm 118:22–23. The rejected stone becomes the most important stone. The head of the corner (verse 10) is the cornerstone, which holds the building together. Christians see this as a picture of Jesus: rejected, killed and raised by God.
 > Verse 12: The leaders realize that Jesus means them. The people, on the other hand, are on his side.
 > Very important: For a long time Christians interpreted this parable to mean that God had rejected the Jewish people. That is wrong and helped cause much hatred of Jews. What is meant are the leaders who reject Jesus. Paul writes: God has not rejected his people (Romans 11:1–2, 29).
 > The violence in the parable is a warning, not permission for revenge or violence.

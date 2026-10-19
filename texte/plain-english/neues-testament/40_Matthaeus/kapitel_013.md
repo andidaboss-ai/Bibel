@@ -195,7 +195,7 @@ that have been hidden since the creation of the world.”
 > The yeast: A small amount changes the whole dough. The Bible says “three measures” of flour. That is a lot, about 30 pounds, enough bread for many people. That is how God’s Kingdom works: quietly, invisibly, but it changes everything.
 > Leavened: made to rise by yeast.
 > What is beautiful: Here a woman at her everyday work is the picture for what God does.
-> Verse 35 quotes Psalm 78:2. There the psalm is linked to Asaph. Matthew calls him a “prophet.” Some old manuscripts read here “through the prophet Isaiah.” The WEB does not have that.
+> Verse 35 quotes Psalm 78:2. There the psalm is linked to Asaph. Matthew calls him a “prophet.” Some old manuscripts name the prophet Isaiah here. The WEB does not have that.
 
 ---
 

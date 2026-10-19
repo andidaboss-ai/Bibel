@@ -5,21 +5,24 @@
 
 ## Mighty men from Benjamin at Ziklag (Verses 1–7)
 
-[1] Now these are the ones who came to David at Ziklag
-while he was still hiding from Saul the son of Kish.
-They were among the mighty men who helped him in war.
-[2] They were armed with bows,
-and they could use both the right hand and the left
-in slinging stones and in shooting arrows from the bow.
-They were relatives of Saul, of the tribe of Benjamin.
-[3] The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite;
-Jeziel and Pelet, the sons of Azmaveth;
+[1] These are the men who came to David at Ziklag.
+At that time David was still hiding from Saul, the son of Kish.
+These men were among the mighty men who helped David in war.
+[2] They were armed with bows.
+They could sling stones and shoot arrows
+with the right hand and with the left.
+They were relatives of Saul from the tribe of Benjamin.
+[3] Their leader was Ahiezer.
+Then came Joash.
+They were the sons of Shemaah the Gibeathite.
+Then came Jeziel and Pelet, the sons of Azmaveth;
 Beracah; Jehu the Anathothite;
-[4] Ishmaiah the Gibeonite, a mighty man among the thirty and a leader of the thirty;
-Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;
+[4] Ishmaiah the Gibeonite.
+He was a mighty man among the thirty and a leader of the thirty.
+Then came Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;
 [5] Eluzai; Jerimoth; Bealiah; Shemariah; Shephatiah the Haruphite;
-[6] Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;
-[7] and Joelah and Zebadiah, the sons of Jeroham of Gedor.
+[6] the Korahites Elkanah, Isshiah, Azarel, Joezer, and Jashobeam;
+[7] and Joelah and Zebadiah, the sons of Jeroham from Gedor.
 
 > **What does this mean?**
 > Even when David was still running away from Saul, men came to him, even from Saul’s own tribe of Benjamin. They saw: God’s blessing is on David.
@@ -31,28 +34,32 @@ Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;
 
 ## Mighty men from Gad (Verses 8–15)
 
-[8] Some Gadites joined David in the stronghold in the wilderness,
-mighty men of courage, men trained for war,
-who could handle shield and spear.
-Their faces were like the faces of lions,
-and they were as fast as the gazelles on the mountains:
-[9] Ezer the chief,
-Obadiah the second,
-Eliab the third,
-[10] Mishmannah the fourth,
-Jeremiah the fifth,
-[11] Attai the sixth,
-Eliel the seventh,
-[12] Johanan the eighth,
-Elzabad the ninth,
-[13] Jeremiah the tenth,
-and Machbannai the eleventh.
-[14] These of the sons of Gad were captains of the army.
+[8] Some men from the tribe of Gad joined David
+at the fortress in the wilderness.
+They were brave, mighty men.
+They were trained for war.
+They could fight with shield and spear.
+Their faces looked like the faces of lions.
+They were as fast as gazelles on the mountains.
+These were the men:
+[9] Ezer was the leader.
+Obadiah was second.
+Eliab was third.
+[10] Mishmannah was fourth.
+Jeremiah was fifth.
+[11] Attai was sixth.
+Eliel was seventh.
+[12] Johanan was eighth.
+Elzabad was ninth.
+[13] Jeremiah was tenth.
+Machbannai was eleventh.
+[14] These men from Gad were commanders in the army.
 The one who was least was equal to one hundred,
 and the greatest to one thousand.
-[15] These are the ones who went over the Jordan in the first month,
-when it had overflowed all its banks.
-And they drove away all who lived in the valleys, both toward the east and toward the west.
+[15] They crossed the Jordan in the first month of the year.
+At that time the river was flooding over all its banks.
+They chased away everyone who lived in the valleys,
+to the east and to the west.
 
 > **What does this mean?**
 > The Gadites came from the other side of the Jordan. They crossed the river in spring, when it floods because the snow melts on Mount Hermon. That shows their courage and their determination.
@@ -63,22 +70,23 @@ And they drove away all who lived in the valleys, both toward the east and towar
 
 ## Mighty men from Benjamin and Judah (Verses 16–18)
 
-[16] Some of the children of Benjamin and Judah came to David at the stronghold.
-[17] David went out to meet them and said to them,
-“If you have come to me in peace to help me,
-my heart will be united with you.
-But if you have come to betray me to my enemies,
-though there is no wrong in my hands,
-may the God of our fathers see this and rebuke it.”
-[18] Then the Spirit came on Amasai, the chief of the thirty,
-and he said,
-“We are yours, David,
-and on your side, you son of Jesse.
-Peace, peace be to you,
-and peace be to your helpers,
-for your God helps you.”
-Then David received them
-and made them captains of the band.
+[16] Some men from Benjamin and Judah also came to David at the fortress.
+[17] David went out to meet them.
+He said to them,
+“Have you come to me in peace to help me?
+Then my heart will be one with yours.
+But maybe you have come to hand me over to my enemies.
+I have done nothing wrong.
+Then may the God of our fathers see it and punish it.”
+[18] Then the Spirit came on Amasai, the leader of the thirty.
+He said,
+“We are yours, David.
+We are on your side, son of Jesse.
+Peace, peace be to you.
+And peace be to those who help you.
+For your God helps you.”
+So David welcomed them.
+He made them commanders of his troops.
 
 > **What does this mean?**
 > David is careful. He does not know whether the men are friends or traitors. He asks openly and puts the matter into God’s hands.
@@ -89,68 +97,78 @@ and made them captains of the band.
 
 ## Mighty men from Manasseh (Verses 19–22)
 
-[19] Some of Manasseh also joined David
-when he went with the Philistines to battle against Saul.
-But they didn’t help them.
-For the lords of the Philistines talked it over and sent him away, saying,
-“He will desert to his master Saul, and that will cost us our heads.”
-[20] As he went to Ziklag, some from Manasseh joined him:
-Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai,
-captains of thousands who were of Manasseh.
-[21] They helped David against the band of raiders,
-for they were all mighty men of courage and captains in the army.
-[22] For day after day men came to David to help him,
-until there was a great army, like God’s army.
+[19] Some men from Manasseh also joined David.
+That was when David went with the Philistines to fight against Saul.
+But David and his men did not help the Philistines.
+The rulers of the Philistines talked it over.
+Then they sent David away.
+They said,
+“He will go back to his master Saul.
+And then it will cost us our heads.”
+[20] David went to Ziklag.
+On the way some men from Manasseh joined him:
+Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai.
+They were commanders of thousands from Manasseh.
+[21] They helped David fight against the band of raiders.
+They were all brave, mighty men.
+And they were commanders in the army.
+[22] Day after day more men came to David to help him.
+At last he had a great army, like the army of God.
 
 > **What does this mean?**
 > Verse 19 reminds us of 1 Samuel 29: at that time David lived among the Philistines and was supposed to fight with them against Saul. But the Philistines did not trust him and sent him back. So David did not have to fight against his own people.
-> “The band of raiders” are the Amalekites who had attacked Ziklag (1 Samuel 30).
+> “The band of raiders” means the Amalekites who had attacked Ziklag (1 Samuel 30).
 > “Like God’s army” means: a very large, mighty army.
 
 ---
 
 ## The great gathering at Hebron (Verses 23–37)
 
-[23] These are the numbers of the heads of those who were armed for war,
-who came to David at Hebron
-to turn the kingdom of Saul over to him, according to the LORD’s word:
-[24] Of the children of Judah who carried shield and spear:
-6,800, armed for war.
-[25] Of the children of Simeon, mighty men of courage for the war:
+[23] Many armed soldiers came to David at Hebron.
+They came to give Saul’s kingdom to David,
+just as the LORD had said.
+Here are the numbers of the leaders:
+[24] From Judah, men who carried shield and spear:
+6,800 men ready for war.
+[25] From Simeon, brave, mighty men for war:
 7,100.
-[26] Of the children of Levi:
+[26] From Levi:
 4,600.
-[27] Jehoiada was the leader of the household of Aaron,
-and with him were 3,700,
-[28] and Zadok, a young man, mighty and brave,
-and of his father’s house 22 captains.
-[29] Of the children of Benjamin, Saul’s relatives:
+[27] Jehoiada was the leader of the family of Aaron.
+With him were 3,700 men.
+[28] Also Zadok, a young man who was strong and brave.
+With him came 22 commanders from his family.
+[29] From Benjamin, the relatives of Saul:
 3,000.
-For until then most of them had stayed loyal to Saul’s house.
-[30] Of the children of Ephraim:
-20,800, mighty men of courage, famous men in their fathers’ houses.
-[31] Of the half-tribe of Manasseh:
-18,000, who were named by name
+Until then most of them had stayed loyal to Saul’s family.
+[30] From Ephraim:
+20,800 brave, mighty men.
+They were famous in their families.
+[31] From the half-tribe of Manasseh:
+18,000.
+They had been chosen by name
 to come and make David king.
-[32] Of the children of Issachar,
-men who understood the times and knew what Israel should do:
-their heads were 200,
-and all their brothers followed their command.
-[33] Of Zebulun, such as were able to go out in the army,
-who could set up the battle lines with all kinds of weapons of war:
-50,000 who could command and did not have a double heart.
-[34] Of Naphtali:
-1,000 captains,
-and with them 37,000 with shield and spear.
-[35] Of the Danites who could set up the battle lines:
-28,600.
-[36] Of Asher, such as were able to go out in the army,
-who could set up the battle lines:
-40,000.
+[32] From Issachar:
+200 leaders.
+They understood the times and knew what Israel should do.
+All their relatives followed their orders.
+[33] From Zebulun:
+50,000 men who were able to go out with the army.
+They could line up for battle with all kinds of weapons.
+They were able to lead.
+And they did not have a double heart.
+That means: They were completely loyal.
+[34] From Naphtali:
+1,000 commanders.
+With them were 37,000 men with shield and spear.
+[35] From Dan:
+28,600 men who could line up for battle.
+[36] From Asher:
+40,000 men who were able to go out with the army
+and could line up for battle.
 [37] From the other side of the Jordan,
-of the Reubenites, the Gadites, and the half-tribe of Manasseh,
-with all kinds of weapons of war for the battle:
-120,000.
+from Reuben, Gad, and the half-tribe of Manasseh:
+120,000 men with all kinds of weapons for battle.
 
 > **What does this mean?**
 > All twelve tribes come to Hebron to make David king. The Levites come too. For Chronicles this is a high point: all Israel is one.
@@ -164,20 +182,20 @@ with all kinds of weapons of war for the battle:
 
 ## A great feast (Verses 38–40)
 
-[38] All these were men of war who could set up the battle lines.
-They came to Hebron with a whole heart
+[38] All these soldiers could line up for battle.
+They came to Hebron with their whole heart
 to make David king over all Israel.
-And all the rest of Israel were also of one heart
+All the rest of Israel also agreed with one heart
 to make David king.
-[39] They were there with David three days,
-eating and drinking,
-for their brothers had prepared food for them.
-[40] Also those who lived near them, as far as Issachar, Zebulun, and Naphtali,
-brought bread on donkeys, on camels, on mules, and on oxen:
-supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in plenty.
+[39] They stayed there with David for three days.
+They ate and drank.
+Their relatives had prepared food for them.
+[40] Even people from far away, as far as Issachar, Zebulun, and Naphtali,
+brought food on donkeys, camels, mules, and oxen.
+They brought plenty of flour, fig cakes, bunches of raisins, wine, oil, cattle, and sheep.
 For there was joy in Israel.
 
 > **What does this mean?**
 > The chapter ends with a great feast. For three days the people eat and drink together. Everyone brings something, even those who live far away.
-> “With a whole heart” and “of one heart”: the people are united.
+> “With their whole heart” and “with one heart”: the people are united.
 > The last sentence sums everything up: “There was joy in Israel.” When God’s people come together and God is in the middle, joy is born.
