@@ -41,7 +41,7 @@ When I saw her, I was very amazed.
 > **What does this mean?**
 > Verse 1: “On many waters”: Ancient Babylon lay on the Euphrates with many canals. Verse 15 explains: The waters are the peoples over whom she rules.
 > Verse 2: “Sexual immorality” here means: The powerful got involved with this city because of money, trade and power. For this they betrayed God and justice.
-> Verse 4: Purple, gold and pearls show great wealth and luxury. On the outside everything shines. But inside, the cup is full of abominations.
+> Verse 4: Purple, gold and pearls show great wealth and luxury. On the outside everything shines. But inside, the cup is full of disgusting things.
 > Verse 6: This power persecuted and killed Christians. Under Emperor Nero many Christians were killed in Rome.
 > The woman is the contrasting picture to the woman in Chapter 12 and to the bride of the Lamb in Chapters 19 and 21.
 

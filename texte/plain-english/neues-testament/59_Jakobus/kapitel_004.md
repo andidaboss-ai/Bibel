@@ -6,48 +6,36 @@
 ## Where conflict comes from (Verses 1–10)
 
 [1] Where do the wars and fights among you come from?
-Don’t they come from your desires
-that fight in your bodies?
-[2] You want something
-and don’t get it.
-You murder and are jealous
-and still can’t get anything.
+They come from your desires,
+which fight inside your bodies.
+[2] You want something, but you don’t have it.
+You murder and you are jealous,
+but you still cannot get what you want.
 You fight and make war.
-You don’t have,
-because you don’t ask.
-[3] You ask,
-but you don’t receive,
+You don’t have, because you don’t ask God.
+[3] You ask, but you don’t receive,
 because you ask with wrong motives.
 You only want to spend it on your pleasures.
 [4] You adulterers and adulteresses!
-Don’t you know
-that friendship with the world is hostility toward God?
-So whoever wants to be a friend of the world
+Don’t you know that friendship with the world means being against God?
+So anyone who wants to be a friend of the world
 makes himself an enemy of God.
-[5] Or do you think
-that the Scripture says in vain,
-“The Spirit
-who lives in us
-yearns jealously”?
-[6] But he gives more grace.
-That is why it says,
-“God resists the proud,
-but gives grace to the humble.”
-[7] So be subject to God.
-Resist the devil,
-and he will flee from you.
-[8] Come near to God,
-and he will come near to you.
-Wash your hands,
-you sinners.
-Purify your hearts,
-you double-minded.
-[9] Lament,
-mourn
-and weep.
-Let your laughter be turned to mourning
-and your joy to gloom.
-[10] Humble yourselves before the Lord,
+[5] Or do you think the Scripture says this for no reason:
+“The Spirit who lives in us yearns jealously”?
+To yearn means: to long for something very much.
+[6] But he gives even more grace.
+That is why the Scripture says,
+“God resists the proud, but gives grace to the humble.”
+[7] So put yourselves under God.
+Stand up against the devil,
+and he will run away from you.
+[8] Come near to God, and he will come near to you.
+You sinners, wash your hands!
+You who cannot make up your minds, make your hearts pure!
+[9] Be sad, mourn and cry.
+Let your laughter turn into mourning,
+and your joy into sadness.
+[10] Make yourselves low before the Lord,
 and he will lift you up.
 
 > **What does this mean?**
@@ -63,19 +51,15 @@ and he will lift you up.
 
 ## Don’t judge one another (Verses 11–12)
 
-[11] Don’t speak against one another,
-brothers.
-Whoever speaks against his brother
-and judges his brother
-speaks against the law
-and judges the law.
+[11] Brothers, don’t speak against one another.
+Whoever speaks against his brother or judges his brother
+speaks against the law and judges the law.
 But if you judge the law,
-you are not a doer of the law,
-but a judge.
-[12] There is only one lawgiver and judge.
+you are not doing what the law says.
+Instead, you are making yourself its judge.
+[12] There is only one who gives the law.
 He is able to save and to destroy.
-Who are you
-to judge your neighbor?
+So who are you to judge someone else?
 
 > **What does this mean?**
 > Verses 11–12: Only God is judge. We are not to condemn others or speak badly about them. This recalls the words of Jesus: “Don’t judge” (compare Matthew 7:1).
@@ -85,29 +69,21 @@ to judge your neighbor?
 
 ## If the Lord wills (Verses 13–17)
 
-[13] Listen,
-you
-who say,
-“Today or tomorrow let’s travel to this or that city,
-stay there a year,
-trade
-and make a profit.”
-[14] You don’t know
-what your life will be like tomorrow.
-For what is your life?
-You are like a vapor
-that appears for a little time
-and then vanishes away.
-[15] Instead you ought to say,
-“If the Lord wills,
-we will live
+[13] Now listen, you who say,
+“Today or tomorrow we will go to this city.
+We will spend a year there.
+We will do business and make money.”
+[14] You don’t even know what your life will be like tomorrow.
+What is your life?
+You are like a mist.
+It appears for a short time, and then it disappears.
+[15] Instead, you should say,
+“If the Lord wills, we will live
 and do this or that.”
-[16] But now you glory in your boasting.
-All such boasting is evil.
-[17] So whoever knows
-what is good
-and doesn’t do it,
-for him it is sin.
+[16] But now you are proud of your boasting.
+All boasting like this is evil.
+[17] So if someone knows the right thing to do and doesn’t do it,
+that is sin for him.
 
 > **What does this mean?**
 > Verses 13–15: Making plans is not wrong. But we are not to act as if we had everything in our hands. Life is precious and fragile.
