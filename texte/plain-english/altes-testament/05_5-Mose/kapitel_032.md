@@ -74,8 +74,8 @@ with the finest wheat.
 And you drank wine from the blood of the grapes.
 
 > **What does this mean?**
-> Verse 8: The WEB, our English source, says “according to the number of the children of Israel,” as in the usual Hebrew text. But old manuscripts from the Dead Sea and the Greek translation say “according to the number of the sons of God.” Then it would mean: God divided up all the nations, but he kept his own people for himself.
-> “Like the pupil of his eye”: The eye is the most sensitive part we have. We protect it at once when it is in danger. That is how God protects his people. Older Bibles say “the apple of his eye,” and people still use this phrase today.
+> Verse 8: Like the usual Hebrew text, the WEB, our English source, says “according to the number of the people of Israel.” But old manuscripts from the Dead Sea and the Greek translation say: according to the number of the sons of God. Then it would mean: God divided up all the nations, but he kept his own people for himself.
+> “Like the pupil of his eye”: The eye is the most sensitive part we have. We protect it at once when it is in danger. That is how God protects his people. The WEB says “the apple of his eye.” People still use this phrase today.
 > The picture of the eagle (verse 11) is one of the most beautiful in the Bible: An eagle teaches its young to fly. It stirs them out of the nest. When they fall, it flies under them and catches them on its wings. That is how God led Israel through the wilderness: He challenged them, but never let them fall.
 > “Honey out of the rock”: In cracks in the rocks there were sometimes wild bees. God gave his people good things even in barren places.
 

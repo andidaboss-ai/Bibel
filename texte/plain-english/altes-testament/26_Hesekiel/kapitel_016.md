@@ -102,7 +102,6 @@ You poured out your prostitution on everyone who passed by.
 You gave yourself to anyone.
 [16] You took some of your clothes
 and made colorful high places for yourself.
-High places are places of worship on hills.
 You acted like a prostitute on them.
 Such things should not happen, and they must never be.
 [17] You also took your beautiful jewelry
@@ -248,8 +247,8 @@ who hated their husbands and their children.
 Your mother was a Hittite,
 and your father was an Amorite.
 [46] Your older sister is Samaria,
-who lives to the north of you with her daughters.
-And your younger sister, who lives to the south of you,
+who lives on your left with her daughters.
+And your younger sister, who lives on your right,
 is Sodom with her daughters.
 [47] You did not only follow their ways
 and do the disgusting things they did.
@@ -279,7 +278,6 @@ because you have made your sisters look righteous.
 
 > **What does this mean?**
 > Jerusalem thought it was better than Samaria (the northern kingdom that had been destroyed) and Sodom (the city God had destroyed, Genesis 19). But God says: You are worse than both of them!
-> In the Hebrew way of seeing directions, “left” means north and “right” means south (verse 46).
 > Verse 49: An important verse! Here the Bible itself says what the sin of Sodom was: pride, too much of everything, a life without a care, and not helping the poor and needy. Whoever is rich and full and forgets the poor is in danger of becoming like Sodom.
 > Verse 52: God says to Jerusalem: “You must also carry your own shame, because you have judged your sisters.” Whoever is quick to judge others should first look at himself (compare Matthew 7:3–5).
 
