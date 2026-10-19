@@ -325,5 +325,5 @@ This is the end of the words of Jeremiah.
 > **What does this mean?**
 > Verse 59: Seraiah was Baruch’s brother (both were sons of Neriah). In the year 594/593 BC, he traveled with King Zedekiah to Babylon.
 > Verses 60–64: One last symbolic act: Seraiah is to read the words about Babylon aloud in Babylon, then tie a stone to the scroll and throw it into the Euphrates. Just as the scroll sinks, Babylon will sink.
-> The Book of Revelation also takes up this picture: An angel throws a large stone into the sea and says: “In the same way, with violence, Babylon, the great city, will be thrown down” (Revelation 18:21).
+> The Book of Revelation also takes up this picture: An angel throws a large stone into the sea and says: “In the same way Babylon, the great city, will be thrown down with violence” (Revelation 18:21).
 > “This is the end of the words of Jeremiah.” The last chapter (52) is a historical appendix that tells about the fall of Jerusalem.

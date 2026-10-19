@@ -5,22 +5,20 @@
 
 ## Babylon has fallen (Verses 1–3)
 
-[1] After these things, I saw another angel
-coming down out of the sky.
+[1] After these things, I saw another angel coming down from the sky.
 He had great authority.
-And the earth was lit up with his glory.
-[2] He cried with a mighty voice,
-“Fallen, fallen is Babylon the great!
-She has become a home for demons,
-a prison of every unclean spirit
-and a prison of every unclean and hated bird!
-[3] For all the nations have drunk of the wine of the wrath of her sexual immorality.
+The earth was lit up by his glory.
+[2] He shouted with a mighty voice,
+“Babylon the great has fallen! She has fallen!
+She has become a home for demons.
+She has become a prison for every unclean spirit,
+and a prison for every unclean and hated bird!
+[3] For all the nations have drunk the wine of the anger of her sexual immorality.
 The kings of the earth committed sexual immorality with her.
-And the merchants of the earth grew rich
-from the abundance of her luxury.”
+The merchants of the earth grew rich from her great luxury.”
 
 > **What does this mean?**
-> Verse 2: “Fallen, fallen is Babylon” recalls Isaiah 21:9. Ancient Babylon had long been destroyed. Now the new “Babylon” will fall too.
+> Verse 2: “Babylon the great has fallen” recalls Isaiah 21:9. Ancient Babylon had long been destroyed. Now the new “Babylon” will fall too.
 > The splendid city becomes a ruin where only wild animals live. The prophets also describe the downfall of cities like this (for example Isaiah 13:21–22).
 > Verse 3: Babylon stands for an economy that is built only on wealth, luxury and greed.
 
@@ -28,108 +26,75 @@ from the abundance of her luxury.”
 
 ## Come out of her! (Verses 4–8)
 
-[4] I heard another voice from heaven,
-saying,
-“Come out of her,
-my people,
-so that you have no part in her sins
-and don’t receive any of her plagues.
-[5] For her sins have reached to the sky,
-and God has remembered her iniquities.
-Iniquities are wrong deeds.
-[6] Pay her back
-just as she paid,
-and repay her double,
-according to her works.
-In the cup
-which she mixed,
-mix double for her.
-[7] However much she glorified herself
-and lived in luxury,
-so much torment and mourning give her.
+[4] I heard another voice from heaven say,
+“Come out of her, my people!
+Then you will not take part in her sins,
+and you will not receive any of her plagues.
+[5] For her sins are piled up as high as the sky.
+God has remembered the wrong things she has done.
+[6] Pay her back just as she paid others.
+Pay her back double for what she did.
+In the cup she mixed for others, mix a double portion for her.
+[7] She gave herself glory and lived in luxury.
+Give her just as much pain and grief.
 For she says in her heart,
-‘I sit a queen.
-I am no widow,
-and I will in no way see mourning.’
-[8] Therefore her plagues will come in one day:
-death, mourning and famine.
-And she will be completely burned with fire.
-For the Lord God
-who has judged her is strong.
+‘I sit here as a queen.
+I am not a widow.
+I will never see grief.’
+[8] That is why her plagues will come in one day:
+death, grief, and hunger.
+She will be burned up completely with fire.
+For the Lord God who has judged her is strong.
 
 > **What does this mean?**
 > Verse 4: “Come out of her, my people” recalls Jeremiah 51:45. It doesn’t necessarily mean that you should move away. It means: Don’t take part in greed, exploitation and idol worship.
 > Verses 6–7: These words are spoken to the powers that carry out God’s judgment, not to Christians. Christians are not to take revenge (Romans 12:17–19). The punishment matches what Babylon did to others.
-> Verse 7: Babylon feels safe and untouchable. She says in her heart: “I sit a queen. I am no widow, and I will in no way see mourning.” That is how powers talk that raise themselves above all others (compare Isaiah 47:7–8).
+> Verse 7: Babylon feels safe and untouchable. She says in her heart: “I sit here as a queen. I am not a widow. I will never see grief.” That is how powers talk that raise themselves above all others (compare Isaiah 47:7–8).
 
 ---
 
 ## The mourning of the kings, merchants and sailors (Verses 9–19)
 
-[9] The kings of the earth
-who committed sexual immorality
-and lived in luxury with her
-will weep and wail over her
-when they look at the smoke
-of her burning.
-[10] They stand far away
-for fear of her torment,
-and say,
-‘Woe, woe,
-the great city,
-Babylon,
-the strong city!
-For your judgment has come in one hour.’
+[9] The kings of the earth committed sexual immorality with her and lived in luxury with her.
+They will weep and wail over her when they see the smoke from her burning.
+[10] They will stand far away, because they are afraid of her pain.
+They will say,
+‘How terrible, how terrible for the great city!
+Babylon, the strong city!
+In one hour your judgment has come.’
 [11] The merchants of the earth weep and mourn over her,
-for no one buys their merchandise any more:
-[12] merchandise of gold and silver,
-precious stones and pearls,
-fine linen, purple, silk and scarlet,
-all expensive wood,
-every vessel of ivory,
-every vessel made of most precious wood,
-and of brass, iron and marble,
-[13] and cinnamon, incense, perfume and frankincense,
-wine, olive oil, fine flour and wheat,
-cattle, sheep, horses and chariots,
-and people’s bodies and souls.
-[14] The fruits
-which your soul lusted after
-have been lost to you.
-All things that were fine and splendid have perished from you.
-And you will find them no more at all.
-[15] The merchants of these things,
-who were made rich by her,
-will stand far away
-for fear of her torment.
-They will weep and mourn
-[16] and say,
-‘Woe, woe,
-the great city,
-she who was dressed in fine linen, purple and scarlet,
-and decked with gold, precious stones and pearls!
-[17] For in one hour
-such great riches are made desolate.’
-And every ship master,
-and everyone who sails anywhere,
-and the sailors,
-and as many as earn their living by sea,
-stood far away.
-[18] They cried out
-as they looked at the smoke
-of her burning,
-saying,
-‘What is like the great city?’
-[19] They cast dust on their heads
-and cried,
-weeping and mourning,
-saying,
-‘Woe, woe,
-the great city,
-by whose great wealth
-all who had their ships in the sea
-were made rich!’
-For she is made desolate in one hour.
+because no one buys their goods anymore.
+[12] Their goods were gold, silver, precious stones, and pearls.
+They were fine linen, purple cloth, silk, and bright red cloth.
+They were all kinds of expensive wood,
+every kind of object made of ivory,
+and every kind of object made of very precious wood,
+of brass, of iron, and of marble.
+[13] They were cinnamon, incense, perfume, and frankincense.
+They were wine, olive oil, fine flour, and wheat.
+They were cattle, sheep, horses, and chariots.
+And they were people’s bodies and souls.
+[14] The fruits you longed for are gone from you.
+All your fine and splendid things are lost to you.
+You will never find them again.
+[15] The merchants who sold these things became rich from her.
+They will stand far away, because they are afraid of her pain.
+They will weep and mourn.
+[16] They will say,
+‘How terrible, how terrible for the great city!
+She was dressed in fine linen, purple, and bright red.
+She was decorated with gold, precious stones, and pearls!
+[17] In one hour all this great wealth has been destroyed.’
+Every ship captain, everyone who travels by ship, the sailors,
+and everyone who earns a living from the sea stood far away.
+[18] They saw the smoke from her burning and cried out,
+‘What city is like the great city?’
+[19] They threw dust on their heads.
+They cried out, weeping and mourning.
+They said,
+‘How terrible, how terrible for the great city!
+All who had ships on the sea became rich through her great wealth!’
+For in one hour she has been destroyed.
 
 > **What does this mean?**
 > These laments recall the lament over the trading city of Tyre in the prophet Ezekiel (Ezekiel 26–27).
@@ -141,37 +106,24 @@ For she is made desolate in one hour.
 
 ## Babylon will be found no more (Verses 20–24)
 
-[20] “Rejoice over her,
-O heaven,
-you saints, apostles and prophets!
-For God has judged your judgment on her.”
+[20] “Be glad over her, O heaven,
+you saints, apostles, and prophets!
+For God has judged her for what she did to you.”
 That means: God has given you justice against her.
-[21] A mighty angel took up a stone
-like a great millstone
-and cast it into the sea.
-He said,
-“In the same way, with violence, Babylon,
-the great city,
-will be thrown down
-and will be found no more at all.
-[22] The voice of harpists and minstrels,
-of flute players and trumpeters
-will be heard no more at all in you.
-No craftsman,
-of whatever craft,
-will be found any more at all in you.
-The sound of a mill
-will be heard no more at all in you.
-[23] The light of a lamp
-will shine no more at all in you.
-The voice of the bridegroom and of the bride
-will be heard no more at all in you.
+[21] A mighty angel picked up a stone like a great millstone.
+He threw it into the sea and said,
+“In the same way Babylon, the great city, will be thrown down with violence.
+It will never be found again.
+[22] The sound of harpists, musicians, flute players, and trumpeters
+will never be heard in you again.
+No worker of any trade will ever be found in you again.
+The sound of a mill will never be heard in you again.
+[23] The light of a lamp will never shine in you again.
+The voice of the bridegroom and of the bride will never be heard in you again.
 For your merchants were the princes of the earth.
-And with your sorcery
-all the nations were deceived.
+And with your magic all the nations were deceived.
 [24] In her was found the blood of prophets and of saints,
-and of all
-who have been slain on the earth.”
+and of all who have been killed on the earth.”
 
 > **What does this mean?**
 > Verse 21: The picture of the stone in the water recalls Jeremiah 51:63–64. As a stone sinks in the sea, so Babylon disappears forever.

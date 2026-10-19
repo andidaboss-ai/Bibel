@@ -15,7 +15,7 @@ That is why I will punish you for all your sins.”
 
 > **What does this mean?**
 > A surprising sentence! The Israelites probably thought: “We are God’s chosen people. So we are safe.” Amos turns this around: Precisely because you are chosen, precisely because you know God so well, you have a greater responsibility.
-> Being chosen is not a privilege. It is a task. Jesus says something similar: “To whomever much is given, of him will much be required” (Luke 12:48).
+> Being chosen is not a privilege. It is a task. Jesus says something similar: “If someone has been given much, much will be expected from him” (Luke 12:48).
 > The Hebrew word for “chosen” actually means “known.” It describes a close, personal relationship.
 
 ---

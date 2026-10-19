@@ -70,7 +70,7 @@ But I will do this in front of all Israel, in broad daylight.’”
 > This shows something important: in Israel even the king was under God’s law. He could not do whatever he wanted.
 > God reminds David of everything he has given him. David had so much, and yet he took the poor man’s only lamb away.
 > God names the crime clearly: murder and adultery. The guilt lies with David.
-> Then comes the judgment: the sword will not leave your house. And trouble will come from your own family. This comes true in the next chapters: one of David’s sons rapes his sister, another son murders him, and Absalom rises up against his father and sleeps in public with David’s concubines (Chapters 13–18, especially 16:22).
+> Then comes the judgment: the sword will never leave your family. And trouble will come from your own family. This comes true in the next chapters: one of David’s sons rapes his sister, another son murders him, and Absalom rises up against his father and sleeps in public with David’s concubines (Chapters 13–18, especially 16:22).
 > What David did in secret will come back in public.
 
 ---

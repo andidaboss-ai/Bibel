@@ -11,73 +11,51 @@
 
 ## Abraham, Joseph and the fathers (Verses 1–16)
 
-[1] The high priest said,
-“Are these things so?”
-[2] Stephen said,
-“Brothers and fathers, listen.
-The God of glory appeared to our father Abraham
-when he was in Mesopotamia,
-before he lived in Haran.
-[3] God said to him,
-‘Get out of your land
-and away from your relatives,
-and come into a land
-which I will show you.’
-[4] Then he came out of the land of the Chaldaeans
-and lived in Haran.
-From there, when his father was dead,
-God moved him into this land
-where you are now living.
-[5] God gave him no inheritance in it,
-not even enough to set his foot on.
-But he promised
-to give it to him as a possession,
-and to his offspring after him.
-And that was when Abraham still had no child.
-[6] God spoke in this way:
-His offspring would live as foreigners
-in a strange land.
-They would be enslaved and mistreated
-for four hundred years.
-[7] ‘I will judge the nation
-to which they will be in bondage,’
-said God,
-‘and after that they will come out
-and serve me in this place.’
+[1] The high priest asked, “Is this true?”
+[2] Stephen said, “Brothers and fathers, listen to me.
+The God of glory appeared to our father Abraham.
+Abraham was in Mesopotamia then, before he lived in Haran.
+[3] God said to him, ‘Leave your land and your relatives.
+Go to the land that I will show you.’
+[4] So Abraham left the land of the Chaldaeans and lived in Haran.
+After his father died, God moved him from there to this land, where you live now.
+[5] God gave him no part of it as his own.
+He did not even give him enough land to set his foot on.
+But God promised to give it to him and to his offspring after him.
+They would own it.
+God promised this when Abraham still had no child.
+[6] God said this to him:
+His offspring would live as foreigners in a strange land.
+There they would be slaves.
+They would be treated badly for four hundred years.
+[7] God said, ‘But I will judge the nation that makes them slaves.
+After that they will come out and serve me in this place.’
 [8] God gave Abraham the covenant of circumcision.
-So Abraham became the father of Isaac
-and circumcised him on the eighth day.
+Abraham became the father of Isaac.
+He circumcised Isaac on the eighth day.
 Isaac became the father of Jacob.
 And Jacob became the father of the twelve patriarchs.
-[9] The patriarchs were jealous of Joseph
-and sold him into Egypt.
+[9] The patriarchs were jealous of Joseph.
+They sold him as a slave into Egypt.
 But God was with him.
-[10] He rescued him out of all his troubles.
-He gave him favor and wisdom before Pharaoh,
-king of Egypt.
-Pharaoh made him governor over Egypt
-and over all his house.
-[11] Then a famine came over all the land of Egypt and Canaan,
-and great suffering.
-Our fathers found no food.
-[12] When Jacob heard
-that there was grain in Egypt,
-he sent out our fathers the first time.
-[13] On the second time,
-Joseph made himself known to his brothers.
-And Pharaoh learned
-what family Joseph came from.
-[14] Joseph sent messengers
-and called for his father Jacob
-and all his relatives,
-seventy-five people.
-[15] Jacob went down into Egypt.
-There he died,
-and our fathers too.
-[16] They were brought back to Shechem
-and laid in the tomb
-that Abraham had bought for a price in silver
-from the children of Hamor of Shechem.
+[10] God rescued him from all his troubles.
+God gave him favor and wisdom with Pharaoh, the king of Egypt.
+Pharaoh made him governor over Egypt and over his whole household.
+[11] Then a famine came over the whole land of Egypt and Canaan.
+There was great suffering.
+Our fathers could not find any food.
+[12] Jacob heard that there was grain in Egypt.
+So he sent our fathers there.
+That was their first trip.
+[13] On their second trip, Joseph told his brothers who he was.
+And Pharaoh learned about Joseph’s family.
+[14] Joseph sent for his father Jacob and all his relatives.
+There were seventy-five people.
+[15] So Jacob went down to Egypt.
+There he died, and our fathers died too.
+[16] Their bodies were brought back to Shechem.
+They were laid in the tomb there.
+Abraham had bought that tomb with silver from the children of Hamor of Shechem.
 
 *patriarchs* = the forefathers of the people
 *bondage* = slavery
@@ -94,128 +72,85 @@ from the children of Hamor of Shechem.
 
 ## Moses (Verses 17–43)
 
-[17] The time came close
-when the promise was to be fulfilled
-which God had sworn to Abraham.
-The people grew
-and multiplied in Egypt,
-[18] until a different king came to power in Egypt,
-who didn’t know Joseph.
-[19] He dealt cunningly with our people
-and mistreated our fathers.
-He forced them
-to abandon their babies,
-so that they wouldn’t stay alive.
+[17] The time came near for God to keep his promise to Abraham.
+God had promised it with an oath.
+The people grew and became very many in Egypt.
+[18] Then a different king came to power in Egypt.
+He did not know about Joseph.
+[19] This king took advantage of our people.
+He treated our fathers badly.
+He forced them to leave their babies outside, so that they would die.
 [20] At that time Moses was born.
 He was very beautiful in God’s eyes.
-He was cared for three months
-in his father’s house.
-[21] When he was abandoned,
-Pharaoh’s daughter took him up
-and raised him as her own son.
-[22] Moses was taught in all the wisdom of the Egyptians.
-He was mighty in his words and works.
-[23] When he was forty years old,
-it came into his heart
-to visit his brothers,
-the children of Israel.
-[24] He saw
-one of them being wronged.
-He defended him.
-He took revenge for the man
-who was oppressed,
-and struck down the Egyptian.
-[25] He thought
-that his brothers understood
-that God was rescuing them by his hand.
+For three months he was cared for in his father’s house.
+[21] Then he was put outside.
+Pharaoh’s daughter took him in.
+She raised him as her own son.
+[22] Moses was taught all the wisdom of the Egyptians.
+He was powerful in what he said and in what he did.
+[23] When Moses was forty years old, he decided to visit his brothers, the children of Israel.
+[24] He saw an Egyptian treating one of them unfairly.
+So he defended the man.
+He took revenge for him and struck down the Egyptian.
+[25] Moses thought his brothers would understand that God was using him to rescue them.
 But they didn’t understand.
-[26] The next day, he came upon them
-as two of them were fighting.
-He urged them to make peace
-and said,
-‘Sirs, you are brothers.
-Why do you wrong one another?’
-[27] But the one
-who was wronging his neighbor
-pushed him away
-and said,
-‘Who made you a ruler
-and a judge over us?
-[28] Do you want to kill me
-as you killed the Egyptian yesterday?’
-[29] At this saying, Moses fled.
-He became a foreigner in the land of Midian.
-There he became the father of two sons.
-[30] When forty years had passed,
-an angel of the Lord appeared to him
-in the wilderness of Mount Sinai,
-in a flame of fire in a bush.
-[31] When Moses saw it,
-he wondered at the sight.
-As he came close
-to look,
-the voice of the Lord came to him:
+[26] The next day he saw two of them fighting.
+He tried to make peace between them.
+He said, ‘Men, you are brothers.
+Why are you hurting each other?’
+[27] But the man who was hurting his neighbor pushed Moses away.
+He said, ‘Who made you a ruler and a judge over us?
+[28] Do you want to kill me, like you killed the Egyptian yesterday?’
+[29] When Moses heard this, he fled.
+He lived as a foreigner in the land of Midian.
+There he had two sons.
+[30] Forty years passed.
+Then an angel of the Lord appeared to Moses in the wilderness near Mount Sinai.
+The angel was in the flame of a burning bush.
+[31] Moses saw it and was amazed at the sight.
+He went closer to look.
+Then he heard the voice of the Lord:
 [32] ‘I am the God of your fathers:
-the God of Abraham,
-the God of Isaac,
-and the God of Jacob.’
-Moses trembled
-and didn’t dare to look.
-[33] The Lord said to him,
-‘Take off your sandals,
-for the place
-where you stand
-is holy ground.
-[34] I have surely seen
-the suffering of my people who are in Egypt.
-I have heard their groaning.
-I have come down
-to rescue them.
-Now come,
-I will send you into Egypt.’
-[35] This Moses whom they refused,
-saying,
-‘Who made you a ruler and a judge?’
-God sent him as both a ruler and a deliverer,
-by the hand of the angel
-who appeared to him in the bush.
-[36] This man led them out.
-He did wonders and signs in Egypt,
-in the Red Sea,
-and in the wilderness for forty years.
-[37] This is the Moses
-who said to the children of Israel,
-‘The Lord our God will raise up a prophet for you
-from among your brothers, like me.’
-[38] This is he
-who was in the assembly in the wilderness
-with the angel
-that spoke to him on Mount Sinai,
-and with our fathers.
-He received living words from God
-to give to us.
-[39] But our fathers wouldn’t obey him.
+the God of Abraham, the God of Isaac, and the God of Jacob.’
+Moses trembled.
+He did not dare to look.
+[33] The Lord said to him, ‘Take off your sandals.
+The place where you are standing is holy ground.
+[34] I have seen how my people in Egypt are suffering.
+I have heard them groaning.
+I have come down to rescue them.
+Now come, I will send you to Egypt.’
+[35] The people had rejected this Moses.
+They had said, ‘Who made you a ruler and a judge?’
+But God sent him to be their ruler and their deliverer.
+God did it through the angel who had appeared to Moses in the bush.
+[36] Moses led them out.
+He did wonders and signs in Egypt and at the Red Sea.
+He did them in the wilderness for forty years.
+[37] This is the same Moses who said to the children of Israel:
+‘The Lord our God will raise up a prophet for you from among your brothers.
+He will be like me.’
+[38] Moses was with the assembly in the wilderness.
+He was with the angel who spoke to him on Mount Sinai.
+And he was with our fathers.
+He received living words from God to give to us.
+[39] But our fathers did not want to obey him.
 They rejected him.
-In their hearts they turned back to Egypt.
-[40] They said to Aaron,
-‘Make us gods
-that will go before us!
-For as for this Moses
-who led us out of the land of Egypt,
-we don’t know what has become of him.’
-[41] In those days they made a calf.
-They brought a sacrifice to the idol
-and rejoiced in the works of their hands.
-[42] But God turned away.
-He gave them up to serve the army of the sky.
-As it is written in the book of the prophets,
-‘Did you offer to me slain animals and sacrifices
-forty years in the wilderness,
-O house of Israel?
-[43] You took up the tabernacle of Moloch,
-the star of your god Rephan,
-the figures which you made to worship.
-So I will carry you away beyond Babylon.’
+In their hearts they wanted to go back to Egypt.
+[40] They said to Aaron, ‘Make us gods who will lead us!
+This Moses led us out of the land of Egypt.
+But we don’t know what has happened to him.’
+[41] At that time they made an idol in the shape of a calf.
+They brought sacrifices to it.
+They celebrated what their own hands had made.
+[42] But God turned away from them.
+He let them serve the army of the sky.
+That is what is written in the book of the prophets:
+‘House of Israel, did you bring me animals and sacrifices for forty years in the wilderness?
+[43] No, you carried the tabernacle of Moloch.
+You carried the star of your god Rephan.
+These were the images you made so that you could worship them.
+So I will send you away beyond Babylon.’
 
 *deliverer* = rescuer
 *tabernacle* = tent used as a holy place
@@ -236,43 +171,33 @@ So I will carry you away beyond Babylon.’
 
 ## The tent of meeting and the temple (Verses 44–53)
 
-[44] Our fathers had the tabernacle of the testimony
-in the wilderness.
-God,
-who spoke to Moses,
-had commanded him
-to make it according to the pattern
-that he had seen.
-[45] Our fathers, in their turn, received it
-and brought it in with Joshua
-when they took possession of the land of the nations.
-God drove out these nations before our fathers.
-So it was until the days of David.
-[46] David found favor in the sight of God.
-He asked
-to find a dwelling place for the God of Jacob.
-[47] But Solomon built him a house.
-[48] However, the Most High doesn’t live in temples
-made with hands.
-As the prophet says,
-[49] ‘Heaven is my throne,
-and the earth a footstool for my feet.
-What kind of house will you build me?’
-says the Lord.
-‘Or what is the place of my rest?
+[44] Our fathers had the tabernacle of the testimony with them in the wilderness.
+God had spoken to Moses and told him how to make it.
+Moses made it like the pattern he had seen.
+[45] Later our fathers received it.
+They brought it with them when they came into the land with Joshua.
+They took the land from the nations.
+God drove these nations out in front of our fathers.
+The tabernacle was there until the days of David.
+[46] David found favor with God.
+He asked to find a dwelling place for the God of Jacob.
+[47] But it was Solomon who built a house for God.
+[48] But the Most High does not live in temples that people have made.
+As the prophet says:
+[49] ‘The Lord says: Heaven is my throne.
+The earth is a footstool for my feet.
+What kind of house will you build for me?
+Where is the place where I can rest?
 [50] Didn’t my hand make all these things?’
-[51] You stiff-necked people,
-uncircumcised in heart and ears!
+[51] You stiff-necked people!
+You are uncircumcised in heart and ears!
 You always resist the Holy Spirit!
-As your fathers did,
-so you do.
-[52] Which of the prophets didn’t your fathers persecute?
-They killed those
-who foretold the coming of the Righteous One.
-And you have now become his betrayers and murderers.
-[53] You received the law
-as it was given through angels,
-and didn’t keep it!”
+You are just like your fathers.
+[52] Was there any prophet your fathers did not persecute?
+They killed the people who told ahead of time that the Righteous One would come.
+And now you have betrayed and murdered him.
+[53] You received the law through angels.
+But you did not keep it!”
 
 > **What does this mean?**
 > Verse 44: “The tabernacle of the testimony” is the holy tent, Israel’s portable sanctuary in the wilderness (Exodus 25–27).
@@ -285,36 +210,22 @@ and didn’t keep it!”
 
 ## Stephen is stoned (Verses 54–60)
 
-[54] When they heard these things,
-they were cut to the heart.
-They ground their teeth at him.
-[55] But he was full of the Holy Spirit.
-He looked up steadily into heaven
-and saw the glory of God,
-and Jesus
-standing on the right hand of God.
-[56] He said,
-“I see the heavens opened
-and the Son of Man
-standing at the right hand of God!”
-[57] But they cried out with a loud voice,
-covered their ears,
-and all rushed at him together.
-[58] They threw him out of the city
-and stoned him.
-The witnesses placed their garments
-at the feet of a young man
-named Saul.
-[59] So they stoned Stephen
-as he called out,
-“Lord Jesus,
-receive my spirit!”
-[60] He knelt down
-and cried with a loud voice,
-“Lord,
-don’t hold this sin against them!”
-When he had said this,
-he fell asleep.
+[54] When the council heard this, it cut them to the heart.
+They ground their teeth at Stephen in anger.
+[55] But Stephen was full of the Holy Spirit.
+He looked up into heaven.
+He saw the glory of God.
+He saw Jesus standing at the right hand of God.
+[56] He said, “Look!
+I see the heavens open.
+I see the Son of Man standing at the right hand of God!”
+[57] Then they shouted loudly and covered their ears.
+All together they rushed at him.
+[58] They threw him out of the city and stoned him.
+The witnesses laid their coats at the feet of a young man named Saul.
+[59] While they were stoning Stephen, he called out, “Lord Jesus, receive my spirit!”
+[60] He knelt down and cried out loudly, “Lord, don’t hold this sin against them!”
+After he said this, he fell asleep.
 
 > **What does this mean?**
 > Verses 55–56: Jesus is “standing” at the right hand of God. Usually it says that he “sits.” Many scholars say: Jesus stands up to welcome Stephen.

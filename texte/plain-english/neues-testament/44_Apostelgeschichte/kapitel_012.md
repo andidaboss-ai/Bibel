@@ -5,26 +5,18 @@
 
 ## James is killed, Peter is arrested (Verses 1–5)
 
-[1] About that time,
-King Herod used violence against some of the assembly
-to do them harm.
-[2] He killed James,
-the brother of John,
-with the sword.
-[3] When he saw
-that it pleased the Jews,
-he went on to arrest Peter also.
-This was during the days of unleavened bread.
-[4] When he had arrested him,
-he put him in prison.
-He handed him over to four squads
-of four soldiers each
-to guard him.
-He intended to bring him out to the people
-after the Passover.
-[5] So Peter was kept in the prison.
-But the assembly prayed constantly
-to God for him.
+[1] About that time King Herod began to attack some people of the assembly.
+He wanted to harm them.
+[2] He had James, the brother of John, killed with the sword.
+[3] He saw that this pleased the Jews.
+So he arrested Peter too.
+This happened during the days of unleavened bread.
+[4] After Herod arrested Peter, he put him in prison.
+He had four squads of soldiers guard him.
+Each squad had four soldiers.
+Herod planned to bring Peter out to the people after the Passover.
+[5] So Peter was kept in prison.
+But the assembly kept praying hard to God for him.
 
 *unleavened bread* = bread made without yeast, eaten at Passover
 
@@ -40,88 +32,56 @@ to God for him.
 
 ## An angel sets Peter free (Verses 6–19)
 
-[6] On the night
-before Herod was going to bring him out,
+[6] It was the night before Herod planned to bring him out.
 Peter was sleeping between two soldiers.
-He was bound with two chains.
-Guards in front of the door were keeping the prison.
-[7] Suddenly an angel of the Lord stood by him,
-and a light shone in the cell.
-He struck Peter on the side,
-woke him up,
-and said,
-“Stand up quickly!”
-His chains fell off his hands.
-[8] The angel said to him,
-“Get dressed
-and put on your sandals.”
-He did so.
-The angel said to him,
-“Put on your cloak
-and follow me.”
-[9] Peter went out
-and followed him.
-He didn’t know
-that what the angel was doing
-was real.
-He thought
-he was seeing a vision.
-[10] They went past the first and the second guard.
-Then they came to the iron gate
-that leads into the city.
+He was tied with two chains.
+Guards stood at the door and watched the prison.
+[7] Suddenly an angel of the Lord stood next to Peter.
+A light shone in the cell.
+The angel hit Peter on the side and woke him up.
+He said, “Get up quickly!”
+The chains fell off Peter’s hands.
+[8] The angel said to him, “Get dressed and put on your sandals.”
+Peter did it.
+The angel said to him, “Put on your coat and follow me.”
+[9] Peter went out and followed him.
+He didn’t know that what the angel was doing was really happening.
+He thought he was seeing a vision.
+[10] They walked past the first guard and the second guard.
+Then they came to the iron gate that leads into the city.
 It opened for them by itself.
-They went out
-and went down one street.
-And immediately the angel left him.
-[11] When Peter came to himself,
-he said,
-“Now I truly know
-that the Lord has sent his angel.
-He has rescued me out of the hand of Herod,
-and from everything
-the Jewish people were expecting.”
-[12] When he had thought about this,
-he came to the house of Mary,
-the mother of John
-who was called Mark.
-Many were gathered there
-and were praying.
+They went out and walked along one street.
+Suddenly the angel left him.
+[11] Then Peter came to his senses.
+He said, “Now I really know it:
+The Lord has sent his angel.
+He has rescued me from Herod’s power.
+And he has rescued me from everything the Jewish people were expecting.”
+[12] When Peter understood this, he went to the house of Mary.
+She was the mother of John, who was also called Mark.
+Many people had gathered there and were praying.
 [13] Peter knocked at the door of the gate.
-A servant girl named Rhoda
-came to answer.
+A servant girl named Rhoda came to answer.
 [14] She recognized Peter’s voice.
-For joy she didn’t open the gate,
-but ran in
-and reported
-that Peter was standing in front of the gate.
-[15] They said to her,
-“You are crazy!”
-But she insisted
-that it was so.
-Then they said,
-“It is his angel.”
+She was so happy that she didn’t open the gate.
+Instead she ran inside.
+She told them that Peter was standing at the gate.
+[15] They said to her, “You are crazy!”
+But she kept saying that it was true.
+They said, “It is his angel.”
 [16] But Peter kept on knocking.
-When they opened,
-they saw him
-and were amazed.
-[17] He waved his hand to them
-to be quiet.
-He told them
-how the Lord had brought him out of the prison.
-He said,
-“Tell these things to James and to the brothers.”
-Then he left
-and went to another place.
-[18] As soon as it was day,
-there was no small commotion among the soldiers
-about what had become of Peter.
-[19] Herod searched for him
-but didn’t find him.
-He questioned the guards
-and commanded
-that they be put to death.
-Then he went down from Judea to Caesarea
-and stayed there.
+When they opened the gate, they saw him.
+They were amazed.
+[17] He waved his hand to tell them to be quiet.
+He told them how the Lord had led him out of the prison.
+He said, “Tell James and the brothers about this.”
+Then he left and went to another place.
+[18] In the morning there was a great stir among the soldiers.
+What had happened to Peter?
+[19] Herod searched for Peter, but he could not find him.
+He questioned the guards.
+Then he ordered them to be put to death.
+After that Herod went down from Judea to Caesarea and stayed there.
 
 > **What does this mean?**
 > Verse 6: Peter sleeps peacefully, even though he is to be executed the next day. He trusts God.
@@ -138,29 +98,18 @@ and stayed there.
 
 [20] Herod was very angry with the people of Tyre and Sidon.
 They came to him together.
-They made Blastus,
-the king’s personal aide,
-their friend.
-Then they asked for peace,
-because their country depended on the king’s country
-for food.
-[21] On an appointed day,
-Herod dressed himself in royal clothing,
-sat on the throne,
-and gave a speech to them.
-[22] The people shouted,
-“The voice of a god,
-and not of a man!”
-[23] Immediately an angel of the Lord struck him,
-because he didn’t give God the glory.
-He was eaten by worms
-and died.
-[24] But the word of God grew
-and spread.
-[25] Barnabas and Saul returned to Jerusalem
-when they had finished their service.
-They also took with them John
-who was called Mark.
+First they made Blastus their friend.
+Blastus was the king’s personal helper.
+Then they asked for peace.
+Their country got its food from the king’s country.
+[21] On a set day, Herod put on his royal clothes.
+He sat on his throne and gave a speech to them.
+[22] The people shouted, “This is the voice of a god, not of a man!”
+[23] At once an angel of the Lord struck Herod down, because he did not give the glory to God.
+Worms ate him, and he died.
+[24] But the word of God kept growing and spreading.
+[25] Barnabas and Saul finished their service and returned to Jerusalem.
+They took John with them, who was also called Mark.
 
 > **What does this mean?**
 > Verse 20: Tyre and Sidon were trading cities by the sea, in today’s Lebanon. They needed grain from Herod’s land.

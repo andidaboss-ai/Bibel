@@ -5,32 +5,36 @@
 
 ## Amnon’s evil plan (Verses 1–7)
 
-[1] After this, the following happened:
-Absalom the son of David had a beautiful sister whose name was Tamar.
-And Amnon the son of David loved her.
-[2] Amnon was so troubled that he became sick because of his sister Tamar.
-For she was a virgin,
-and it seemed impossible to Amnon to do anything to her.
-[3] But Amnon had a friend whose name was Jonadab, the son of Shimeah, David’s brother.
-And Jonadab was a very cunning man.
-[4] He said to him,
-“Son of the king, why are you so sad day after day?
+[1] Some time later, this happened:
+David’s son Absalom had a beautiful sister named Tamar.
+Amnon, another son of David, fell in love with her.
+[2] Amnon wanted his sister Tamar so much that he became sick.
+She was a virgin.
+Amnon thought there was no way he could do anything to her.
+[3] But Amnon had a friend named Jonadab.
+Jonadab was the son of Shimeah, David’s brother.
+Jonadab was a very clever and sly man.
+[4] He asked Amnon,
+“You are the king’s son.
+Why do you look so sad day after day?
 Won’t you tell me?”
-Amnon said to him,
+Amnon answered,
 “I love Tamar, the sister of my brother Absalom.”
 [5] Jonadab said to him,
 “Lie down on your bed and pretend to be sick.
-When your father comes to see you, tell him,
-‘Please let my sister Tamar come and give me bread to eat.
-Let her prepare the food where I can see it,
-so that I may watch and eat it from her hand.’”
+Your father will come to see you.
+Then tell him,
+‘Please let my sister Tamar come and give me something to eat.
+Let her make the food here, where I can watch her.
+Then I can eat it from her hand.’”
 [6] So Amnon lay down and pretended to be sick.
-When the king came to see him, Amnon said to the king,
-“Please let my sister Tamar come
-and make me a couple of cakes where I can see it,
-so that I may eat from her hand.”
-[7] Then David sent word home to Tamar:
-“Please go to your brother Amnon’s house and prepare food for him.”
+The king came to see him.
+Amnon said to the king,
+“Please let my sister Tamar come here.
+Let her make a couple of cakes while I watch.
+Then I can eat from her hand.”
+[7] So David sent a message to Tamar at the palace:
+“Please go to your brother Amnon’s house and make some food for him.”
 
 > **What does this mean?**
 > Here the trouble begins in David’s family that Nathan had announced (Chapter 12:10–11).
@@ -42,32 +46,35 @@ so that I may eat from her hand.”
 
 ## Amnon rapes Tamar (Verses 8–14)
 
-[8] So Tamar went to her brother Amnon’s house.
-He was lying down.
-She took dough, kneaded it, and made cakes where he could see it.
-And she baked the cakes.
-[9] She took the pan and poured them out in front of him.
+[8] So Tamar went to the house of her brother Amnon.
+He was lying in bed.
+She took some dough and kneaded it.
+She made cakes while he watched,
+and she baked them.
+[9] Then she took the pan and served him the cakes.
 But he refused to eat.
 Amnon said,
-“Have everyone leave me.”
-So everyone went out from him.
-[10] Amnon said to Tamar,
-“Bring the food into the room, so that I may eat from your hand.”
-Tamar took the cakes she had made
-and brought them into the room to her brother Amnon.
-[11] When she brought them near to him to eat,
-he took hold of her and said to her,
+“Send everyone out of here.”
+So everyone left.
+[10] Then Amnon said to Tamar,
+“Bring the food into my bedroom.
+I want to eat from your hand.”
+Tamar took the cakes she had made.
+She brought them into the bedroom to her brother Amnon.
+[11] She held them out to him to eat.
+But he grabbed her and said,
 “Come, sleep with me, my sister!”
 [12] She answered him,
 “No, my brother, do not force me!
-For such a thing must not be done in Israel.
+Such a thing must not be done in Israel.
 Don’t do this shameful thing!
-[13] And as for me, where could I take my shame?
-And as for you, you will be like one of the fools in Israel.
-So please speak to the king.
-For he will not keep me from you.”
-[14] But he would not listen to her.
-He was stronger than she was. He forced her and slept with her.
+[13] Where could I go with my shame?
+And you would be seen as one of the worst fools in Israel.
+Please speak to the king.
+He will not keep me from you.”
+[14] But Amnon would not listen to her.
+He was stronger than she was.
+He forced her and raped her.
 
 > **What does this mean?**
 > Here a terrible crime is told: Amnon rapes his sister. The Bible describes it clearly and does not make it look better.
@@ -80,28 +87,30 @@ He was stronger than she was. He forced her and slept with her.
 
 ## Tamar is thrown out (Verses 15–20)
 
-[15] Then Amnon hated her with a very great hatred.
-The hatred with which he hated her was greater than the love with which he had loved her.
+[15] Then Amnon hated her very much.
+He hated her even more than he had loved her before.
 Amnon said to her,
-“Get up, go away!”
+“Get up! Go away!”
 [16] She said to him,
-“No, for this great wrong of sending me away
-is worse than the other wrong that you did to me!”
+“No! Sending me away now is an even greater wrong
+than what you have already done to me!”
 But he would not listen to her.
-[17] Then he called his servant who served him and said,
-“Put this woman out away from me, and bolt the door after her.”
-[18] She was wearing a robe of many colors.
-For the king’s daughters who were virgins wore such robes.
-Then his servant brought her out and bolted the door after her.
-[19] Tamar put ashes on her head
-and tore the robe of many colors that she was wearing.
-She put her hand on her head
-and went away, crying out loud as she went.
+[17] He called the young servant who worked for him.
+He said,
+“Throw this woman out!
+And lock the door behind her!”
+[18] Tamar was wearing a long robe with many colors.
+The king’s daughters who were virgins wore robes like that.
+The servant put her out and locked the door behind her.
+[19] Tamar put ashes on her head.
+She tore the colorful robe she was wearing.
+She put her hand on her head.
+She went away, crying out loud as she went.
 [20] Her brother Absalom said to her,
 “Has your brother Amnon been with you?
-But now be quiet, my sister.
+Now be quiet, my sister.
 He is your brother.
-Don’t take this thing to heart.”
+Don’t take it so hard.”
 So Tamar stayed in her brother Absalom’s house, lonely and abandoned.
 
 > **What does this mean?**
@@ -115,10 +124,11 @@ So Tamar stayed in her brother Absalom’s house, lonely and abandoned.
 
 ## David is silent, Absalom hates (Verses 21–22)
 
-[21] But when King David heard about all these things, he was very angry.
-[22] Absalom said nothing to Amnon, neither good nor bad.
-For Absalom hated Amnon,
-because he had forced his sister Tamar.
+[21] King David heard about all these things.
+He was very angry.
+[22] Absalom did not say a word to Amnon, good or bad.
+But Absalom hated Amnon,
+because Amnon had raped his sister Tamar.
 
 > **What does this mean?**
 > David becomes angry. But he does nothing. He does not punish Amnon. An old manuscript from the Dead Sea and the old Greek translation also say why: “He did not want to hurt Amnon, for he loved him, because he was his firstborn.”
@@ -129,74 +139,78 @@ because he had forced his sister Tamar.
 
 ## Absalom’s revenge (Verses 23–29)
 
-[23] After two full years,
-Absalom had sheep shearers in Baal Hazor, which is near Ephraim.
-And Absalom invited all the king’s sons.
+[23] Two full years later,
+Absalom’s sheep were being sheared at Baal Hazor, near Ephraim.
+Absalom invited all the king’s sons to the feast.
 [24] Absalom came to the king and said,
-“Look now, your servant has sheep shearers.
-Please let the king and his servants go with your servant.”
+“I am having my sheep sheared.
+Please come with me, my king, and bring your servants.”
 [25] The king said to Absalom,
-“No, my son, let’s not all go,
-so that we will not be a burden to you.”
-Absalom pressed him, but he would not go. Instead he blessed him.
+“No, my son, we should not all go.
+We would be too much of a burden to you.”
+Absalom kept asking him.
+But the king did not want to go.
+He gave Absalom his blessing instead.
 [26] Then Absalom said,
-“If not, please let my brother Amnon go with us.”
-The king said to him,
+“If you will not come, then please let my brother Amnon come with us.”
+The king asked him,
 “Why should he go with you?”
-[27] But Absalom pressed him.
-So he let Amnon and all the king’s sons go with him.
-[28] Absalom commanded his servants,
-“Pay attention!
-When Amnon’s heart is merry with wine,
-and I tell you, ‘Strike Amnon,’
-then kill him.
+[27] But Absalom kept asking.
+So the king let Amnon and all the king’s sons go with him.
+[28] Absalom gave orders to his servants.
+He said,
+“Listen!
+Wait until Amnon is happy and has drunk a lot of wine.
+Then I will tell you, ‘Strike Amnon!’
+Then kill him.
 Don’t be afraid.
-Haven’t I commanded you?
-Be courageous and be brave!”
-[29] Absalom’s servants did to Amnon as Absalom had commanded.
-Then all the king’s sons got up.
-Each one got up on his mule, and they fled.
+I am the one who is giving you this order.
+Be strong and brave!”
+[29] So Absalom’s servants did to Amnon what Absalom had ordered.
+Then all the king’s sons jumped up.
+Each one got on his mule, and they fled.
 
 > **What does this mean?**
 > Absalom waits two years. He plans his revenge carefully. At the sheep-shearing feast, when everyone is celebrating and drinking wine, he has Amnon killed.
 > David suspects something: “Why should he go with you?” But he allows it anyway.
 > Amnon committed a terrible crime. But Absalom’s revenge is also a crime: murder. The Bible shows how violence keeps producing new violence.
-> Now Nathan’s word comes true: “The sword will never leave your house.” David’s son is murdered by David’s son.
+> Now Nathan’s word comes true: “The sword will never leave your family.” David’s son is murdered by David’s son.
 
 ---
 
 ## False news and great grief (Verses 30–39)
 
-[30] While they were still on the way,
-the news came to David:
-“Absalom has killed all the king’s sons,
-and not one of them is left!”
-[31] Then the king got up, tore his clothes,
-and lay on the ground.
-And all his servants stood by with their clothes torn.
-[32] Jonadab, the son of Shimeah, David’s brother, answered,
-“My lord should not think that they have killed all the young men, the king’s sons.
-For only Amnon is dead.
-For Absalom planned this
-from the day that Amnon forced his sister Tamar.
-[33] So my lord the king should not take the thing to heart
-and think that all the king’s sons are dead.
-For only Amnon is dead.”
-[34] But Absalom fled.
-The young man who kept watch looked up,
-and he saw many people coming along the road on the hillside behind him.
+[30] They were still on the way home
+when a report came to David:
+“Absalom has killed all the king’s sons!
+Not one of them is left!”
+[31] Then the king got up and tore his clothes.
+He lay down on the ground.
+All his servants stood near him with their clothes torn.
+[32] But Jonadab, the son of David’s brother Shimeah, said,
+“My lord, don’t think that they have killed all the young men, the king’s sons.
+Only Amnon is dead.
+Absalom has planned this
+since the day Amnon raped his sister Tamar.
+[33] So my lord the king, don’t take it to heart.
+Don’t think that all the king’s sons are dead.
+Only Amnon is dead.”
+[34] Meanwhile Absalom ran away.
+The young man on watch looked up.
+He saw many people coming down the road on the hillside behind him.
 [35] Jonadab said to the king,
 “Look, the king’s sons are coming!
-It is as your servant said.”
-[36] As soon as he had finished speaking,
-the king’s sons came.
-They lifted up their voices and wept.
+It is just as I said.”
+[36] He had just finished speaking
+when the king’s sons came in.
+They cried out loud and wept.
 The king and all his servants also wept very bitterly.
-[37] But Absalom fled and went to Talmai the son of Ammihur, king of Geshur.
+[37] But Absalom ran away.
+He went to Talmai, the son of Ammihur, the king of Geshur.
 And David mourned for his son every day.
-[38] So Absalom fled and went to Geshur, and he was there for three years.
-[39] And King David longed to go out to Absalom.
-For he had been comforted about Amnon, since he was dead.
+[38] Absalom went to Geshur and stayed there for 3 years.
+[39] King David longed to go out to Absalom.
+He had been comforted about Amnon, because Amnon was dead.
 
 > **What does this mean?**
 > Jonadab, who had given Amnon the evil plan, knows what is going on now too. He apparently knew for a long time that Absalom would take revenge. He did nothing to stop it.

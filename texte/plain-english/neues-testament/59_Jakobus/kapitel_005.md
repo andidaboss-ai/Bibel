@@ -5,29 +5,28 @@
 
 ## A warning to the rich (Verses 1–6)
 
-[1] Listen,
-you rich:
-Weep and howl for the miseries
-that are coming on you.
-[2] Your riches are rotten,
-and your clothes are moth-eaten.
-[3] Your gold and your silver are corroded.
-And their corrosion will be a testimony against you
-and will eat your flesh like fire.
+[1] Now listen, you rich people!
+Cry and howl,
+because terrible troubles are coming on you.
+[2] Your riches have rotted.
+Moths have eaten your clothes.
+[3] Your gold and your silver have rusted.
+Their rust will be evidence against you.
+It will eat your flesh like fire.
 You have stored up treasure in the last days.
-[4] Look,
-the wages of the workers
-who mowed your fields,
-which you have kept back by fraud,
-cry out.
-And the cries of those who harvested
-have entered into the ears of the Lord of Armies.
-[5] You have lived in luxury on the earth
-and taken your pleasure.
-You have fattened your hearts
-as for a day of slaughter.
-[6] You have condemned and murdered the righteous one.
-He doesn’t resist you.
+[4] Look!
+You cheated the workers who mowed your fields.
+You kept back their pay.
+That pay cries out against you.
+The cries of the people who harvested your crops
+have reached the ears of the Lord of Armies.
+[5] You have lived in luxury on the earth.
+You have enjoyed your pleasures.
+You have fattened your hearts,
+like animals on a day of slaughter.
+[6] You have condemned the righteous one,
+and you have murdered him.
+He does not fight back against you.
 
 > **What does this mean?**
 > Verses 1–6: Very harsh words against rich people who gathered their riches at the expense of others. They recall the prophets of Israel, for example Amos, who stood up for the poor.
@@ -40,41 +39,31 @@ He doesn’t resist you.
 
 ## Be patient (Verses 7–12)
 
-[7] So be patient,
-brothers,
-until the Lord comes.
-Look,
-the farmer waits for the precious fruit of the earth.
-He is patient
-until it receives the early and the late rain.
-[8] You also be patient.
+[7] So, brothers, be patient until the Lord comes.
+Look at the farmer.
+He waits for the precious crop of the land.
+He is patient with it,
+until it has received the early rain and the late rain.
+[8] You too must be patient.
 Make your hearts strong,
-for the coming of the Lord is near.
-[9] Don’t complain against one another,
-brothers,
-so that you won’t be judged.
-Look,
-the judge is standing at the door.
-[10] Brothers,
-take as an example the prophets
-who spoke in the name of the Lord.
-They suffered and endured.
-[11] Look,
-we call those blessed
-who endured.
-You have heard of the endurance of Job.
-And you have seen
-what the Lord did for him in the end.
-For the Lord is full of compassion and mercy.
-[12] But above all things,
-my brothers:
-Don’t swear,
-not by heaven,
-not by the earth,
-and not by any other oath.
+because the Lord will soon come.
+[9] Brothers, don’t complain against one another,
+so that you will not be judged.
+Look, the judge is standing at the door!
+[10] Brothers, the prophets spoke in the name of the Lord.
+Take them as an example of how to suffer and how to keep going.
+[11] Look, we call the people who endured blessed.
+You have heard how Job kept going.
+And you have seen how things turned out for him in the end through the Lord.
+The Lord is full of compassion and mercy.
+[12] But most of all, my brothers, don’t swear.
+Do not swear by heaven,
+or by the earth,
+or with any other oath.
 Let your “yes” be “yes,”
-and your “no” be “no,”
-so that you don’t fall into hypocrisy.
+and your “no” be “no.”
+Then you will not fall into hypocrisy.
+Hypocrisy means: pretending to be better than you are.
 
 > **What does this mean?**
 > Verse 7: The farmer in the land of Israel waited for two rainy seasons: the early rain in the fall and the late rain in the spring. Without them there was no harvest. In the same way Christians are to wait patiently for God.
@@ -87,36 +76,32 @@ so that you don’t fall into hypocrisy.
 ## Pray for one another (Verses 13–20)
 
 [13] Is anyone among you suffering?
-Let him pray.
-Is anyone cheerful?
-Let him sing praises.
+He should pray.
+Is anyone happy?
+He should sing songs of praise.
 [14] Is anyone among you sick?
-Let him call for the elders of the assembly.
-Let them pray over him
-and anoint him with oil in the name of the Lord.
-[15] And the prayer of faith will heal the sick person,
-and the Lord will raise him up.
-And if he has committed sins,
-he will be forgiven.
-[16] Confess your sins to one another
-and pray for one another,
-so that you may be healed.
-The earnest prayer of a righteous person
-is very powerful.
+He should call for the elders of the church.
+They should pray over him.
+And they should anoint him with oil in the name of the Lord.
+To anoint means: to rub or pour oil on someone.
+[15] The prayer of faith will heal the sick person.
+The Lord will raise him up.
+If he has committed sins, he will be forgiven.
+[16] Confess your sins to one another.
+And pray for one another, so that you may be healed.
+The prayer of a righteous person who keeps on praying is very powerful.
 [17] Elijah was a person like us.
-He prayed earnestly
-that it might not rain.
-And it didn’t rain on the earth for three years and six months.
+He prayed hard that it would not rain.
+And it did not rain on the earth for three years and six months.
 [18] Then he prayed again.
 And the sky gave rain,
-and the earth produced its fruit.
-[19] Brothers,
-if anyone among you wanders from the truth
-and someone turns him back,
-[20] let him know:
-Whoever turns a sinner back from his wrong way
-will save a soul from death
-and will cover a multitude of sins.
+and the earth produced its crops.
+[19] My brothers, someone among you may wander away from the truth.
+And someone else may bring him back.
+[20] Then he should know this:
+Whoever brings a sinner back from his wrong way
+will save that person’s soul from death.
+And he will cover many sins.
 
 > **What does this mean?**
 > Verse 13: Praying in suffering, singing in joy: There are words before God for every situation in life.

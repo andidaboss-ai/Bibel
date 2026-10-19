@@ -5,60 +5,40 @@
 
 ## Jesus heals a man who was born blind (Verses 1–12)
 
-[1] As Jesus passed by,
-he saw a man
-who was blind from birth.
+[1] As Jesus walked along, he saw a man who had been blind since he was born.
 [2] His disciples asked him,
-“Rabbi, who sinned,
-this man or his parents,
-that he was born blind?”
+“Rabbi, why was this man born blind?
+Who sinned, this man or his parents?”
 [3] Jesus answered,
-“This man didn’t sin,
-nor did his parents.
-But the works of God are to be revealed in him.
-[4] I must do the works of him
-who sent me,
-while it is day.
-The night is coming,
-when no one can work.
-[5] While I am in the world,
-I am the light of the world.”
-[6] When he had said this,
-he spat on the ground,
-made mud with the saliva,
-and put the mud on the blind man’s eyes.
+“This man didn’t sin, and his parents didn’t sin either.
+It happened so that God’s works could be seen in him.
+[4] While it is day, I must do the works of the one who sent me.
+Night is coming.
+Then no one can work.
+[5] While I am in the world, I am the light of the world.”
+[6] After he said this, he spit on the ground.
+He made mud with the spit.
+He spread the mud on the blind man’s eyes.
 [7] He said to him,
-“Go, wash in the pool of Siloam”
-(which means “Sent”).
-So he went away,
-washed,
-and came back seeing.
-[8] The neighbors and those
-who had seen before that he was blind
-said,
-“Isn’t this the one
-who sat and begged?”
-[9] Some were saying,
-“It is he.”
-Others were saying,
-“He looks like him.”
-He himself said,
-“I am he.”
+“Go and wash in the pool of Siloam.”
+Siloam means: Sent.
+So the man went and washed.
+When he came back, he could see.
+[8] His neighbors had seen him before, when he was blind.
+They said,
+“Isn’t this the man who used to sit and beg?”
+[9] Some said, “It is him.”
+Others said, “He looks like him.”
+The man himself said, “I am he.”
 [10] So they asked him,
 “How were your eyes opened?”
 [11] He answered,
-“A man called Jesus
-made mud,
-put it on my eyes,
-and said to me,
-‘Go to the pool of Siloam and wash.’
-So I went away,
-washed,
-and received sight.”
-[12] Then they asked him,
-“Where is he?”
-He said,
-“I don’t know.”
+“The man called Jesus made mud.
+He spread it on my eyes.
+He told me, ‘Go to the pool of Siloam and wash.’
+So I went and washed, and now I can see.”
+[12] They asked him, “Where is he?”
+He said, “I don’t know.”
 
 > **What does this mean?**
 > Verse 2: Back then many people thought: Whoever is sick or disabled is being punished for a sin, perhaps even for the sin of the parents.
@@ -73,113 +53,82 @@ He said,
 
 ## The Pharisees question the man who was healed (Verses 13–34)
 
-[13] They brought the man
-who had been blind
-to the Pharisees.
-[14] It was a Sabbath
-on the day when Jesus made the mud
-and opened his eyes.
-[15] So the Pharisees also asked him
-how he had received his sight.
-He said to them,
+[13] They brought the man who had been blind to the Pharisees.
+[14] Jesus had made the mud and opened the man’s eyes on a Sabbath day.
+[15] So the Pharisees also asked him how he had become able to see.
+He told them,
 “He put mud on my eyes.
-I washed,
-and I see.”
-[16] Then some of the Pharisees said,
+I washed, and now I can see.”
+[16] Some of the Pharisees said,
 “This man is not from God,
 because he doesn’t keep the Sabbath.”
 Others said,
-“How can a man who is a sinner do such signs?”
-So there was division among them.
-[17] So they asked the blind man again,
-“What do you say about him,
-because he opened your eyes?”
-He said,
-“He is a prophet.”
-[18] The Jews didn’t believe
-that he had been blind
-and had received his sight.
-So they called the parents of the man who had received his sight
-[19] and asked them,
-“Is this your son,
-who you say
-was born blind?
-How then
-does he now see?”
-[20] His parents answered,
-“We know
-that this is our son
-and that he was born blind.
-[21] But how he now sees,
-we don’t know.
-And who opened his eyes,
-we don’t know.
-He is of age.
+“How can a sinner do signs like these?”
+So they did not agree with each other.
+[17] Then they asked the blind man again,
+“He opened your eyes.
+What do you say about him?”
+The man said, “He is a prophet.”
+[18] The Jews did not believe that the man had been blind and could now see.
+So they called his parents.
+[19] They asked them,
+“Is this your son?
+You say that he was born blind.
+So how is it that he can see now?”
+[20] His parents answered them,
+“We know that this is our son.
+And we know that he was born blind.
+[21] But we don’t know how he can see now.
+And we don’t know who opened his eyes.
+He is old enough.
 Ask him.
-He will speak for himself.”
-[22] His parents said these things
-because they were afraid of the Jews.
-For the Jews had already agreed:
-If anyone would confess Jesus as Christ,
-he would be put out of the synagogue.
+He can speak for himself.”
+[22] His parents said this because they were afraid of the Jews.
+The Jews had already decided something:
+Anyone who said that Jesus is the Christ would be put out of the synagogue.
 [23] That is why his parents said,
-“He is of age.
-Ask him.”
-[24] So they called the man
-who had been blind
-a second time
-and said to him,
-“Give glory to God.
-We know
-that this man is a sinner.”
+“He is old enough. Ask him.”
+[24] So for the second time they called the man who had been blind.
+They said to him,
+“Give honor to God.
+We know that this man is a sinner.”
 [25] He answered,
-“I don’t know
-if he is a sinner.
-One thing I do know:
-that though I was blind,
-now I see.”
-[26] They said to him again,
+“I don’t know if he is a sinner.
+I know one thing:
+I used to be blind.
+Now I can see.”
+[26] They asked him again,
 “What did he do to you?
 How did he open your eyes?”
 [27] He answered them,
-“I told you already,
-and you didn’t listen.
+“I already told you, and you didn’t listen.
 Why do you want to hear it again?
-You don’t also want to become his disciples, do you?”
-[28] They insulted him
-and said,
+You don’t want to become his disciples too, do you?”
+[28] Then they insulted him.
+They said,
 “You are his disciple.
 But we are disciples of Moses.
-[29] We know
-that God has spoken to Moses.
-But as for this man,
-we don’t know where he comes from.”
+[29] We know that God spoke to Moses.
+But we don’t know where this man comes from.”
 [30] The man answered them,
-“How amazing!
-You don’t know
-where he comes from,
-yet he opened my eyes.
-[31] We know
-that God doesn’t listen to sinners.
-But if anyone worships God
-and does his will,
-he listens to him.
-[32] Since the world began
-it has never been heard of
-that anyone opened the eyes of someone born blind.
-[33] If this man were not from God,
-he could do nothing.”
+“That is amazing!
+You don’t know where he comes from.
+And yet he opened my eyes.
+[31] We know that God doesn’t listen to sinners.
+But God listens to anyone who honors him and does what he wants.
+[32] Since the world began, no one has ever heard of anyone who opened the eyes of a person born blind.
+[33] If this man were not from God, he could do nothing.”
 [34] They answered him,
-“You were altogether born in sins,
-and do you teach us?”
-And they threw him out.
+“You were born completely in sins.
+And you want to teach us?”
+Then they threw him out.
 
 > **What does this mean?**
 > Verse 14: On the Sabbath, kneading dough or making mud counted as work. That is why an argument arises.
 > Verse 16: The Pharisees do not agree with each other. Some are open to Jesus. Luke and John show again and again: There was no such thing as “the” Pharisees.
 > Verse 22: “Put out of the synagogue”: Many scholars think that John is also reflecting here the experience of his own church at the end of the first century. At that time Jewish and Christian communities painfully separated from one another. That is where the harsh language about “the Jews” in this Gospel comes from.
 > Important: “The Jews” here means certain leaders. The healed man, his parents, Jesus and the disciples are Jews themselves. These verses must not be used against Jewish people.
-> Verse 25: “Though I was blind, now I see.” The man stands by what he has experienced. He grows braver and braver.
+> Verse 25: “I used to be blind. Now I can see.” The man stands by what he has experienced. He grows braver and braver.
 > Verse 34: The opponents say he was “born in sins.” That is exactly what Jesus rejected in verse 3.
 > For today: Whoever has experienced something with God may tell about it, even if others do not want to believe it.
 
@@ -187,38 +136,28 @@ And they threw him out.
 
 ## Who is really blind? (Verses 35–41)
 
-[35] Jesus heard
-that they had thrown him out.
-He found him
-and said,
+[35] Jesus heard that they had thrown the man out.
+He found him and asked him,
 “Do you believe in the Son of God?”
-[36] He answered,
-“Who is he, Lord?
-I want to believe in him.”
+[36] The man answered,
+“Lord, who is he?
+Tell me, so that I can believe in him.”
 [37] Jesus said to him,
 “You have seen him.
-He is the one
-who is speaking with you.”
-[38] He said,
-“Lord, I believe!”
-And he worshiped him.
+He is the one who is talking with you now.”
+[38] The man said, “Lord, I believe!”
+And he worshiped Jesus.
 [39] Jesus said,
-“I came into this world for judgment:
-so that those who don’t see
-may see,
-and that those who see
-may become blind.”
-[40] Some of the Pharisees
-who were with him
-heard these things
-and said to him,
-“Are we also blind?”
+“I came into this world to judge.
+I came so that people who can’t see will see,
+and so that people who can see will become blind.”
+[40] Some Pharisees who were with him heard this.
+They asked him,
+“Are we blind too?”
 [41] Jesus said to them,
-“If you were blind,
-you would have no sin.
-But now you say,
-‘We see.’
-Therefore your sin remains.”
+“If you were blind, you would not be guilty of sin.
+But now you say, ‘We can see.’
+So your sin stays.
 
 > **What does this mean?**
 > Verse 35: Jesus looks for the man when he has been thrown out. He does not leave him alone. Instead of Son of God, many old manuscripts have Son of Man.

@@ -5,24 +5,28 @@
 
 ## Shecaniah makes a suggestion (Verses 1–5)
 
-[1] While Ezra prayed and confessed,
-weeping and throwing himself down before God’s house,
-a very great crowd of men, women, and children out of Israel gathered around him.
-For the people wept very bitterly.
-[2] Shecaniah the son of Jehiel, one of the descendants of Elam, answered Ezra,
-“We have been unfaithful to our God
-and have married foreign women of the peoples of the land.
+[1] Ezra was praying and confessing the sins of the people.
+He was weeping and lying on the ground in front of God’s house.
+Meanwhile, a very large crowd from Israel gathered around him.
+There were men, women, and children.
+The people were weeping bitterly too.
+[2] Then Shecaniah, the son of Jehiel, from the family of Elam, spoke to Ezra.
+He said,
+“We have been unfaithful to our God.
+We have married foreign women from the peoples of this land.
 Yet now there is hope for Israel in this matter.
-[3] So now let’s make a covenant with our God
-to send away all the wives and those who are born of them,
-as my lord advises, and those who tremble at the commandment of our God.
+[3] Let’s make a covenant with our God now.
+We will send away all these wives and their children.
+That is what my lord advises,
+and those who tremble at the commandment of our God.
 Let it be done according to the law.
-[4] Get up, for this matter is your task, and we are with you.
-Be brave, and do it.”
-[5] Then Ezra got up
-and made the leaders of the priests, the Levites, and all Israel swear
-that they would do as had been said.
-So they swore.
+[4] Get up! This is your job.
+We are with you.
+Be brave and do it.”
+[5] So Ezra got up.
+He made the leaders of the priests, the Levites, and all Israel promise with an oath
+to do what had been said.
+And they made the promise.
 
 > **What does this mean?**
 > Ezra’s prayer and his grief move many people. They come and weep with him.
@@ -33,39 +37,42 @@ So they swore.
 
 ## The assembly in Jerusalem (Verses 6–15)
 
-[6] Then Ezra got up from before God’s house
-and went into the room of Jehohanan the son of Eliashib.
-When he came there, he didn’t eat bread or drink water,
-for he mourned because of the unfaithfulness of the exiles.
-[7] They made an announcement throughout Judah and Jerusalem
-to all the people who had come back from captivity,
-that they should gather together in Jerusalem.
-[8] Whoever didn’t come within three days,
-as the princes and the elders had decided,
-would lose all his possessions,
-and he himself would be shut out from the assembly of the exiles.
-[9] Then all the men of Judah and Benjamin gathered together in Jerusalem within the three days.
-It was the ninth month, on the twentieth day of the month.
-All the people sat in the open square in front of God’s house,
-trembling because of this matter and because of the heavy rain.
+[6] Then Ezra left the place in front of God’s house.
+He went into the room of Jehohanan, the son of Eliashib.
+There he did not eat any bread or drink any water.
+He was mourning because the people who had come back from exile had been unfaithful.
+[7] Then a message was sent out everywhere in Judah and Jerusalem.
+All the people who had come back from captivity were to gather in Jerusalem.
+[8] The leaders and the elders had decided:
+Anyone who did not come within three days would lose all his property.
+And he himself would be shut out of the community of the exiles.
+[9] So within the three days, all the men of Judah and Benjamin gathered in Jerusalem.
+It was the twentieth day of the ninth month.
+All the people sat in the open square in front of God’s house.
+They were trembling because of this matter
+and because of the heavy rain.
 [10] Ezra the priest stood up and said to them,
-“You have been unfaithful and have married foreign women.
-So you have added to the guilt of Israel.
-[11] So now confess to the LORD, the God of your fathers, and do his will.
+“You have been unfaithful.
+You have married foreign women.
+So you have made Israel’s guilt even greater.
+[11] Now confess your sin to the LORD, the God of your ancestors.
+Do what he wants.
 Separate yourselves from the peoples of the land and from the foreign women.”
-[12] Then the whole assembly answered with a loud voice,
-“We must do as you have said to us.
-[13] But the people are many, and it is a time of much rain,
-and we are not able to stand outside.
-This is not a work of one day or two,
-for we have sinned greatly in this matter.
-[14] Now let our princes be appointed for the whole assembly.
-Let all those in our cities who have married foreign women
-come at set times,
-and with them the elders and the judges of every city,
-until the fierce anger of our God is turned away from us in this matter.”
-[15] Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this,
-and Meshullam and Shabbethai the Levite supported them.
+[12] The whole assembly answered with a loud voice,
+“Yes! We must do what you have said.
+[13] But there are many people here.
+And it is the rainy season.
+We cannot stand outside.
+This cannot be done in one or two days,
+because many of us have sinned in this matter.
+[14] Let our leaders act for the whole assembly.
+Everyone in our towns who has married a foreign woman
+should come at a set time.
+The elders and judges of each town should come with them.
+We will do this until our God’s fierce anger has turned away from us,
+until this matter is settled.”
+[15] Only Jonathan, the son of Asahel, and Jahzeiah, the son of Tikvah, were against this.
+Meshullam and Shabbethai the Levite supported them.
 
 > **What does this mean?**
 > The ninth month is December. It is cold, and it is pouring with rain. The people tremble with cold and with the seriousness of the situation.
@@ -76,11 +83,12 @@ and Meshullam and Shabbethai the Levite supported them.
 
 ## The cases are examined (Verses 16–17)
 
-[16] The people who had come back from captivity did so.
-Ezra the priest and certain heads of families,
-by their families, all of them by their names, were set apart.
-On the first day of the tenth month they sat down to examine the matter.
-[17] By the first day of the first month
+[16] The people who had come back from captivity did what had been agreed.
+Ezra the priest chose some family leaders,
+one from each family.
+All of them were named.
+On the first day of the tenth month, they sat down to look into each case.
+[17] By the first day of the first month,
 they had finished with all the men who had married foreign women.
 
 > **What does this mean?**
@@ -90,28 +98,29 @@ they had finished with all the men who had married foreign women.
 
 ## The list (Verses 18–44)
 
-[18] Among the descendants of the priests, these were found who had married foreign women:
-of the descendants of Jeshua the son of Jozadak, and his brothers:
+[18] Some of the priests had married foreign women.
+These are their names:
+From the descendants of Jeshua, the son of Jozadak, and his brothers:
 Maaseiah, Eliezer, Jarib, and Gedaliah.
-[19] They gave their hand as a promise that they would send away their wives.
-Because they were guilty, they offered a ram of the flock for their guilt.
-[20] Of the descendants of Immer: Hanani and Zebadiah.
-[21] Of the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
-[22] Of the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
-[23] Of the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.
-[24] Of the singers: Eliashib.
-Of the gatekeepers: Shallum, Telem, and Uri.
-[25] Of Israel:
-of the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
-[26] Of the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
-[27] Of the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
-[28] Of the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
-[29] Of the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
-[30] Of the descendants of Pahathmoab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
-[31] Of the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+[19] They shook hands to promise that they would send away their wives.
+Because they were guilty, they offered a ram from the flock as a guilt offering.
+[20] From the descendants of Immer: Hanani and Zebadiah.
+[21] From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
+[22] From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
+[23] From the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.
+[24] From the singers: Eliashib.
+From the gatekeepers: Shallum, Telem, and Uri.
+[25] From the rest of Israel:
+From the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
+[26] From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+[27] From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+[28] From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
+[29] From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
+[30] From the descendants of Pahathmoab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
+[31] From the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 [32] Benjamin, Malluch, and Shemariah.
-[33] Of the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
-[34] Of the descendants of Bani: Maadai, Amram, Uel,
+[33] From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
+[34] From the descendants of Bani: Maadai, Amram, Uel,
 [35] Benaiah, Bedeiah, Cheluhi,
 [36] Vaniah, Meremoth, Eliashib,
 [37] Mattaniah, Mattenai, Jaasu,
@@ -120,20 +129,20 @@ of the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malch
 [40] Machnadebai, Shashai, Sharai,
 [41] Azarel, Shelemiah, Shemariah,
 [42] Shallum, Amariah, and Joseph.
-[43] Of the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel, and Benaiah.
-[44] All these had taken foreign wives.
-Some of them had wives by whom they had children.
+[43] From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel, and Benaiah.
+[44] All these men had married foreign women.
+Some of them also had children with these wives.
 
 > **What does this mean?**
 > The list names about 110 men. With almost 30,000 who had returned, that is a small part. But many leaders and priests were among them, even from the family of the high priest.
 > Verse 44 is hard to understand in Hebrew. It ends very briefly with the children. You can feel the pain in this sentence.
 > **How can we understand this chapter today?**
 > This story is very hard for many readers. Women and children were sent away. That meant great suffering.
-> We have to understand the situation at that time: after the exile the small people was in great danger of dissolving and losing its faith in the one God. The leaders saw this as a question of survival.
+> We have to understand the situation at that time: after the exile, the small people was in great danger of dissolving and losing its faith in the one God. The leaders saw this as a question of survival.
 > But the Bible itself also shows other ways:
 > – Ruth from Moab and Rahab from Canaan became part of God’s people because they turned to the LORD.
 > – The prophet Malachi lived at the same time. He says: “Whoever hates and divorces … covers his clothes with violence” (Malachi 2:16). That means: God does not want marriages to break.
-> – In the New Testament Paul writes: if a Christian is married to a partner who does not believe, he should not separate if the other wants to stay. The children are “holy” (1 Corinthians 7:12–14).
+> – In the New Testament, Paul writes: if a Christian is married to a partner who does not believe, he should not separate if the other wants to stay. The children are “holy” (1 Corinthians 7:12–14).
 > Jews and Christians today do not read this chapter as instructions to separate families. They read it as a serious reminder that faith should shape life. And as a story that shows how hard some decisions were in a particular emergency.
 > The Bible does not tell what happened to the women and children. We only know that the problem came up again later (Nehemiah 13:23–27).
 
