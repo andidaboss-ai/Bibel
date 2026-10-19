@@ -9,7 +9,7 @@ The book of Job asks one of the hardest questions people have ever asked:
 Why do good people have to suffer?
 Job is a good man who loves God. Even so, he loses everything: his possessions, his children, his health.
 The book has three parts:
-– At the beginning (Chapters 1–2) and at the end (Job 42:7–17) there is a story. It is told in simple language, almost like a fairy tale: “There was a man …”
+– At the beginning (Chapters 1–2) and at the end (Job 42:7–17) there is a story. It is told in simple language, almost like a fairy tale. It begins with the words “There was a man” (Job 1:1).
 – In the middle (Chapter 3 to Job 42:6) there are long speeches in the form of poems. Job argues with his friends. The friends say: You must have sinned, or you would not suffer. Job says: I am innocent! And he accuses God.
 – Near the end (Chapters 38–41) God himself answers out of a storm.
 The book gives no easy answer to the question of suffering. But it shows: You may lament before God, cry out to him, and ask him questions. God can bear it. And the simple formula “Whoever suffers is to blame” is wrong.

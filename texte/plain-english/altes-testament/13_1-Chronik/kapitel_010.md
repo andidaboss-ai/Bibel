@@ -12,7 +12,7 @@ Many of them were killed on Mount Gilboa.
 They killed Saul’s sons Jonathan, Abinadab, and Malchishua.
 [3] The fighting was hard around Saul.
 The archers found him.
-He was badly wounded by the archers.
+He was in great trouble because of the archers.
 [4] Then Saul said to the young man who carried his weapons,
 “Pull out your sword and stab me with it.
 Otherwise these uncircumcised men will come and treat me cruelly.”
