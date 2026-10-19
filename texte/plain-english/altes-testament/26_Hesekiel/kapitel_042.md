@@ -18,8 +18,8 @@ that belonged to the inner courtyard,
 and across from the pavement of the outer courtyard.
 Gallery faced gallery on all three floors.
 [4] In front of the rooms was a walkway on the inside.
-It was about 17½ feet wide
-and about 175 feet long.
+It was about 17½ feet wide,
+with a path about 21 inches wide.
 Their doors faced north.
 [5] The upper rooms were narrower,
 because the galleries took more space away from them
@@ -41,7 +41,6 @@ where people go into them from the outer courtyard.
 > **What does this mean?**
 > Next to the temple there are large buildings with rooms on three floors. The floors are set back step by step toward the top (like terraces).
 > The exact measurements and the layout are hard to follow even for experts. What is important is what the rooms are used for. That is explained in verses 13–14.
-> A note about verse 4: In the WEB it says that the walkway was “ten cubits’ width inward, a way of one cubit.” The Greek translation reads “one hundred cubits” as its length here, and we have followed that in the text.
 
 ---
 
