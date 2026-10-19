@@ -23,8 +23,7 @@ and in the days of Jeroboam the son of Joash, king of Israel.
 the LORD said to Hosea,
 “Go, marry a woman who is a prostitute,
 and have children who come from unfaithfulness.
-For the land is very unfaithful.
-It is like a wife who cheats on her husband.
+For the land is like an unfaithful wife.
 It has left the LORD.”
 [3] So he went and married Gomer, the daughter of Diblaim.
 She became pregnant and gave birth to a son for him.

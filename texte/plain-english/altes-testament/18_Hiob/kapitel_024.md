@@ -87,8 +87,7 @@ because they know the terrors of thick darkness.
 Their share of the land is cursed.
 They no longer turn onto the road to the vineyards.
 [19] Drought and heat dry up the water from the snow.
-In the same way, Sheol takes those who have sinned.
-Sheol is the world of the dead.
+In the same way, Sheol, the world of the dead, takes those who have sinned.
 [20] The mother’s womb will forget him.
 The worm will feed on him with pleasure.
 No one will remember him anymore.

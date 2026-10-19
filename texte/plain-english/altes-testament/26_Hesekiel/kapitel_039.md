@@ -57,7 +57,7 @@ says the Lord GOD.
 
 > **What does this mean?**
 > A powerful picture: There are so many weapons that people can use them to heat their homes for seven years. The weapons are no longer needed. They are burned.
-> This is like Isaiah 2:4: “They will beat their swords into plowshares.” And like Psalm 46:9 (in some Bibles 46:10): God breaks the bow and shatters the spear. He burns the chariots in the fire.
+> This is like Isaiah 2:4: “They will beat their swords into plowshares.” And like Psalm 46:9 (in some Bibles 46:10): “He breaks the bow and smashes the spear. He burns the chariots in the fire.”
 > The hope of the Bible is a world without weapons and without war.
 
 ---
