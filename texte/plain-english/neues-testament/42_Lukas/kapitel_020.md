@@ -5,34 +5,32 @@
 
 ## The question about Jesus’ authority (Verses 1–8)
 
-[1] On one of those days
-Jesus was teaching the people in the temple
-and preaching the Good News.
-Then the priests and the scribes
-came to him with the elders.
-[2] They asked him,
+[1] One day Jesus was teaching the people in the temple.
+He was telling them the Good News.
+Then the priests and the scribes came to him,
+together with the elders.
+[2] They said to him,
 “Tell us:
-By what authority do you do these things?
-Or who is giving you this authority?”
-[3] He answered them,
-“I also will ask you one question.
+What authority do you have to do these things?
+Who gave you this authority?”
+[3] Jesus answered them,
+“I will also ask you a question.
 Tell me:
-[4] The baptism of John, was it from heaven,
-or from men?”
-[5] They reasoned with each other
-and said,
+[4] John’s baptism,
+did it come from heaven, or from people?”
+[5] They talked about this among themselves.
+They said,
 “If we say, ‘From heaven,’
 he will say,
-‘Why didn’t you believe him?’
-[6] But if we say, ‘From men,’
-all the people will stone us.
-For they are convinced
-that John was a prophet.”
+‘Then why didn’t you believe John?’
+[6] But if we say, ‘From people,’
+all the people will stone us to death.
+For they are sure that John was a prophet.”
 [7] So they answered
-that they didn’t know where it was from.
+that they did not know where it came from.
 [8] Jesus said to them,
-“Neither will I tell you
-by what authority I do these things.”
+“Then I will not tell you either
+what authority I have to do these things.”
 
 > **What does this mean?**
 > The temple leaders were responsible for order in the temple. After the cleansing of the temple (Luke 19:45–46) they ask: Who gives you the right to do this? That is an understandable question.
@@ -44,57 +42,52 @@ by what authority I do these things.”
 
 ## The parable of the wicked farmers (Verses 9–19)
 
-[9] Then Jesus began
-to tell the people this parable:
+[9] Then Jesus told the people this parable.
 “A man planted a vineyard.
-He rented it out to some farmers
-and went into another country for a long time.
-[10] When the right season came,
+He rented it out to some farmers.
+Then he went to another country for a long time.
+[10] When harvest time came,
 he sent a servant to the farmers.
-He was to collect his share of the fruit of the vineyard.
-But the farmers beat him
-and sent him away empty-handed.
-[11] He sent yet another servant.
-They also beat him,
-treated him shamefully,
-and sent him away empty-handed.
-[12] He sent yet a third.
-They also wounded him
+The servant was to get the owner’s share of the grapes.
+But the farmers beat the servant
+and sent him away with nothing.
+[11] So the owner sent another servant.
+They beat him too.
+They treated him shamefully
+and sent him away with nothing.
+[12] Then the owner sent a third servant.
+They hurt him badly too
 and threw him out.
-[13] Then the lord of the vineyard said,
+[13] The owner of the vineyard said,
 ‘What shall I do?
-I will send my beloved son.
-It may be that they will respect him
-when they see him.’
-[14] But when the farmers saw him,
-they reasoned among themselves
-and said,
-‘This is the heir.
-Come, let’s kill him,
-so that the inheritance may be ours.’
-[15] They threw him out of the vineyard
+I will send my son, whom I love.
+Maybe they will respect him.’
+[14] But when the farmers saw the son,
+they talked it over among themselves.
+They said,
+‘This is the one who will get the vineyard.
+Come on, let’s kill him!
+Then the vineyard will be ours.’
+[15] So they threw him out of the vineyard
 and killed him.
-What then will the lord of the vineyard do to them?
-[16] He will come
-and destroy these farmers,
-and will give the vineyard to others.”
-When the listeners heard that,
+What will the owner of the vineyard do to them?
+[16] He will come and destroy these farmers.
+And he will give the vineyard to other people.”
+When the people heard this,
 they said,
 “May that never be!”
-[17] But he looked at them
-and said,
-“Then what is this that is written,
-‘The stone which the builders rejected
-was made the chief cornerstone’?
+[17] But Jesus looked at them and said,
+“Then what does this Scripture mean?
+‘The stone that the builders rejected
+has become the most important cornerstone.’
 [18] Everyone who falls on that stone
 will be broken to pieces.
-And whoever it falls on,
-it will crush to dust.”
+And if the stone falls on someone,
+it will crush him to dust.”
 [19] The chief priests and the scribes
-wanted to arrest him that very hour.
+wanted to arrest Jesus at once.
 But they were afraid of the people.
-For they knew
-that he had told this parable against them.
+For they knew that Jesus had told this parable against them.
 
 > **What does this mean?**
 > In the Bible the vineyard is a picture for Israel (Isaiah 5:1–7). The owner is God. The servants are the prophets. The beloved son is Jesus.
@@ -108,36 +101,31 @@ that he had told this parable against them.
 
 ## The question about taxes for Caesar (Verses 20–26)
 
-[20] They watched him closely
-and sent out spies.
-These pretended
-to be righteous people.
-They wanted to trap him in something he said,
-so that they could hand him over to the power and authority of the governor.
-[21] They asked him,
-“Teacher, we know
-that you say and teach what is right.
-You don’t favor anyone,
-but truly teach the way of God.
-[22] Is it lawful for us
-to pay taxes to Caesar,
-or not?”
-[23] But he saw through their trick
-and said to them,
-“Why do you test me?
+[20] So they watched Jesus closely.
+They sent spies to him.
+The spies pretended to be honest people.
+They wanted to catch Jesus saying something wrong.
+Then they could hand him over to the power and authority of the governor.
+[21] The spies asked him,
+“Teacher, we know that what you say and teach is right.
+You do not favor anyone.
+You truly teach the way of God.
+[22] Tell us:
+Does the law allow us to pay taxes to Caesar, or not?”
+[23] But Jesus saw their trick.
+He said to them,
+“Why are you testing me?
 [24] Show me a denarius.
-Whose image and inscription are on it?”
+Whose picture and whose name are on it?”
 They answered,
 “Caesar’s.”
 [25] He said to them,
-“Then give to Caesar
-the things that are Caesar’s,
-and to God
-the things that are God’s.”
-[26] They weren’t able to trap him in his words
-before the people.
-They marveled at his answer
-and were silent.
+“Then give to Caesar what belongs to Caesar.
+And give to God what belongs to God.”
+[26] So they could not catch him
+saying anything wrong in front of the people.
+They were amazed at his answer
+and said nothing more.
 
 > **What does this mean?**
 > The question is a trap. If Jesus says “Yes,” he angers the people, who suffer under the Roman taxes. If he says “No,” he can be reported to the Romans as a rebel.
@@ -150,53 +138,50 @@ and were silent.
 
 ## The question about the resurrection (Verses 27–40)
 
-[27] Some Sadducees came to Jesus.
-They said
-that there is no resurrection.
+[27] Then some Sadducees came to Jesus.
+The Sadducees say
+that the dead will not rise again.
 [28] They asked him,
-“Teacher, Moses wrote to us:
-If a man’s brother dies
-and leaves a wife, but no children,
-then his brother should marry the wife
-and raise up children for his brother.
+“Teacher, Moses wrote this law for us:
+A man may die and leave a wife but no children.
+Then his brother must marry the widow
+and have children for his brother.
 [29] Now there were seven brothers.
-The first married
-and died childless.
-[30] The second married her
-and died childless.
-[31] Then the third,
-and so all seven.
-They left no children
-and died.
-[32] Last of all the woman also died.
-[33] So in the resurrection, whose wife will she be?
-For all seven had her as a wife.”
+The first one got married
+and died without children.
+[30] The second one married the widow
+and died without children.
+[31] Then the third one married her.
+In the same way all seven brothers died
+and left no children.
+[32] Finally the woman died too.
+[33] So when the dead rise again,
+whose wife will she be?
+For all seven brothers were married to her.”
 [34] Jesus said to them,
-“The children of this age
+“The people of this world
 marry and are given in marriage.
-[35] But those
-who are considered worthy
-to attain to that age and the resurrection from the dead
-neither marry
-nor are given in marriage.
-[36] For they can’t die any more.
-They are like the angels
-and are children of God,
-being children of the resurrection.
-[37] But that the dead are raised,
-even Moses showed
-at the story of the burning bush.
-There he calls the Lord
-‘The God of Abraham,
+[35] But some people are found worthy
+to have a part in the world to come
+and in the rising from the dead.
+They do not marry
+and are not given in marriage.
+[36] They cannot die anymore.
+They are like the angels.
+They are children of God,
+because they have been raised from the dead.
+[37] Even Moses showed that the dead are raised.
+In the story about the burning bush,
+he calls the Lord
+‘the God of Abraham,
 the God of Isaac,
 and the God of Jacob.’
-[38] Now he is not the God of the dead,
-but of the living,
-for all are alive to him.”
-[39] Some of the scribes answered,
-“Teacher, you speak well.”
-[40] And they didn’t dare
-to ask him any more questions.
+[38] He is not the God of the dead,
+but of the living.
+For to him all people are alive.”
+[39] Some of the scribes said,
+“Teacher, you have given a good answer.”
+[40] After that, no one dared to ask him any more questions.
 
 > **What does this mean?**
 > The Sadducees were a group of rich priestly families in Jerusalem. Above all they accepted the five books of Moses. They did not believe in the resurrection of the dead. The Pharisees, on the other hand, did believe in it, just like Jesus.
@@ -206,22 +191,22 @@ to ask him any more questions.
 > Important: This does not mean that love ends after death. Many Christians hope to see their loved ones again with God.
 > Verse 37 refers to Exodus 3:6. Jesus answers with a text from the books of Moses, which the Sadducees also accept.
 > Verse 39: Some scribes, probably Pharisees, agree with Jesus. Here they are of one mind with Jesus.
-> For today: “All are alive to him”: Our loved ones who have died are not lost with God either. People who are grieving can find help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> For today: “To him all people are alive”: Our loved ones who have died are not lost with God either. People who are grieving can find help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
 
 ## Whose son is the Christ? (Verses 41–44)
 
-[41] Jesus said to them,
-“Why do they say
-that the Christ is David’s son?
-[42] For David himself says in the book of Psalms,
+[41] Then Jesus said to them,
+“Why do people say
+that the Christ is the son of David?
+[42] David himself says in the book of Psalms,
 ‘The Lord said to my Lord,
-“Sit at my right hand,
+“Sit at my right side,
 [43] until I make your enemies
 the footstool of your feet.”’
 [44] So David calls him ‘Lord.’
-How then is he his son?”
+How then can he be David’s son?”
 
 > **What does this mean?**
 > Verses 42–43 quote Psalm 110:1. Many Jews back then understood this psalm as a word about the Messiah.
@@ -233,20 +218,19 @@ How then is he his son?”
 
 ## A warning against false piety (Verses 45–47)
 
-[45] While all the people were listening,
-he said to his disciples,
-[46] “Beware of those scribes
-who like to walk around in long robes
-and love
-to be greeted in the marketplaces.
-They want the best seats in the synagogues
-and the best places at feasts.
-[47] They devour widows’ houses,
-and for show they make long prayers.
-These will receive a harsher judgment.”
+[45] All the people were listening.
+Then Jesus said to his disciples,
+[46] “Watch out for the scribes!
+They like to walk around in long robes.
+They love it when people greet them with respect in the marketplaces.
+They love the most important seats in the synagogues
+and the places of honor at feasts.
+[47] They take away the houses of widows.
+And to make a show, they pray long prayers.
+They will be punished even more.”
 
 > **What does this mean?**
 > Jesus warns against a certain kind of scribe: those who seek honor and take advantage of the weak. Just before this, scribes had agreed with him (verse 39). It is not about all of them.
-> “They devour widows’ houses”: Some took advantage of the trust of widows, managed their property and made themselves rich.
+> “They take away the houses of widows”: Some took advantage of the trust of widows, managed their property and made themselves rich.
 > Important: This warning applies to all religious leaders, including those in the churches today. Whoever takes advantage of people in God’s name acts seriously against God.
 > The next chapter goes straight on with the story of a poor widow who gives everything (Luke 21:1–4).

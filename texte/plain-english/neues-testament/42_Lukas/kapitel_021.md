@@ -23,7 +23,7 @@ that she had to live on.”
 > **What does this mean?**
 > In the temple there were boxes for donations. The treasury: the place where these offering boxes stood. The two small coins were the smallest kind of coin. They were worth almost nothing.
 > Jesus looks closely. For God what counts is not the size of the gift, but the heart. The widow gives everything.
-> Just before this, Jesus warned against scribes: “They devour widows’ houses” (Luke 20:47). Some interpreters also hear a complaint in this: A system that makes poor widows give their last coins is not just.
+> Just before this, Jesus warned against scribes: “They take away the houses of widows” (Luke 20:47). Some interpreters also hear a complaint in this: A system that makes poor widows give their last coins is not just.
 > Important: No one should pressure people to give more than they can. Groups that take advantage of people financially act against God’s will.
 > For today: Even those who have little can give a lot. And: We should see the poor as Jesus sees them.
 

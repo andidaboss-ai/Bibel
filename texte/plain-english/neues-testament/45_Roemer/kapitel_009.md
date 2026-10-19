@@ -20,11 +20,10 @@ The pain in my heart never stops.
 [3] I could even wish that I myself were cursed and cut off from Christ.
 I would accept that for the sake of my brothers, the people of my own race.
 [4] They are Israelites.
-God adopted them as his children.
-God’s glory belongs to them, and so do the covenants.
-God gave them the law.
-They have the worship of God, and they have the promises.
-[5] The fathers belong to them.
+Theirs is the adoption as God’s children.
+Theirs is the glory, and theirs are the covenants.
+Theirs is the giving of the law, the worship, and the promises.
+[5] Theirs are the fathers.
 And Christ, as a human being, comes from them.
 He is over all, God, blessed forever.
 Amen.
@@ -45,7 +44,7 @@ For not everyone who comes from Israel is truly Israel.
 [7] And not everyone who comes from Abraham is truly his child.
 No, the Scripture says: “Your offspring will be counted through Isaac.”
 [8] That means: The children born in the normal human way are not God’s children.
-The children of the promise are counted as Abraham’s offspring.
+The children of the promise are counted as heirs.
 [9] For this is what God promised:
 “At the set time I will come, and Sarah will have a son.”
 [10] And that is not all.
@@ -90,7 +89,7 @@ Who can resist what he wants?”
 [20] But who are you, a human being, to talk back to God?
 Can a pot say to the one who made it, “Why did you make me like this?”
 [21] The potter has the right to do what he wants with the clay, doesn’t he?
-From the same lump of clay he can make one vessel for special use and another for common use.
+From the same lump of clay he can make one vessel for honor and another for dishonor.
 [22] God wanted to show his anger and make his power known.
 But he was very patient with the vessels of his anger.
 They were ready to be destroyed.
@@ -133,7 +132,7 @@ We would have been like Gomorrah.”
 The Gentiles did not try to become righteous.
 But they became righteous, through faith.
 [31] Israel tried to become righteous by keeping a law.
-But they did not reach the goal of that law.
+But they did not reach that law of righteousness.
 [32] Why not?
 Because they did not try to reach it through faith.
 They tried to reach it through works of the law.
