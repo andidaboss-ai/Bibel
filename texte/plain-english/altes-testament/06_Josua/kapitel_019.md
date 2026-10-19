@@ -146,7 +146,7 @@ They named it after their ancestor Dan.
 These cities and their villages were theirs.
 
 > **What does this mean?**
-> “The territory went out beyond them”: This is what the WEB says. The Hebrew sentence is hard to understand. Many translate: “The territory was lost to them,” because the Amorites pressed them hard (Judges 1:34).
+> “The territory of the people of Dan went out beyond them”: This is what the WEB says. The Hebrew sentence is hard to understand. Many translate: “The territory was lost to them,” because the Amorites pressed them hard (Judges 1:34).
 > Dan first received an area on the coast, near the modern city of Tel Aviv. “Joppa” is today’s Jaffa. “Bene Berak” still exists as a city today.
 > Because they could not hold on there, they moved far to the north and took the city of Leshem (also called Laish). This story is told in detail in Judges 18. After that, people said for all of Israel: from Dan to Beersheba (Judges 20:1), that is, from the north to the south.
 > Zorah belonged to Dan. Samson came from there (Judges 13:2).
