@@ -5,46 +5,39 @@
 
 > **Important note first**
 > In Chapters 2 and 3, Jesus dictates seven short letters to seven churches. All the letters have the same structure: Who is speaking? What is good? What is not good? A warning. A promise for those who hold out (“who overcome”).
-> The letters speak into the real situation of these churches at that time. But they are also written for all churches at all times: “He who has an ear, let him hear.”
+> The letters speak into the real situation of these churches at that time. But they are also written for all churches at all times: “Whoever has ears should listen.”
 
 ---
 
 ## The letter to Ephesus (Verses 1–7)
 
-[1] “Write to the angel of the church in Ephesus:
-‘He says these things
-who holds the seven stars in his right hand
-and who walks among the seven golden lampstands:
-[2] I know your works,
-your toil and your perseverance.
-I know
-that you can’t tolerate evil men.
-You have tested those
-who call themselves apostles,
-but are not,
-and you have found
-that they are false.
-[3] You have perseverance.
-You have endured much for my name’s sake
-and have not grown weary.
+[1] “Write this to the angel of the church in Ephesus:
+‘These are the words of the one who holds the seven stars in his right hand.
+He walks among the seven golden lampstands.
+He says:
+[2] I know what you do.
+I know how hard you work and how you keep going.
+I know that you cannot stand evil people.
+Some people call themselves apostles, but they are not.
+You have tested them,
+and you found out that they are liars.
+[3] You keep going.
+You have suffered much for my name.
+And you have not grown tired.
 [4] But I have this against you:
-You left your first love.
-[5] Remember
-from where you have fallen.
-Repent
-and do the first works again.
-Or else I am coming to you swiftly
-and will move your lampstand out of its place,
-unless you repent.
-[6] But this you have:
-You hate the works of the Nicolaitans,
-which I also hate.
-[7] He who has an ear,
-let him hear
-what the Spirit says to the churches.
-To him who overcomes
-I will give to eat from the tree of life,
-which is in the Paradise of my God.’
+You have left the love you had at first.
+[5] Remember how far you have fallen.
+Turn back to God.
+Do the things you did at first.
+If you do not turn back, I will come to you soon.
+Then I will take your lampstand away from its place.
+[6] But this is good about you:
+You hate what the Nicolaitans do.
+I hate it too.
+[7] Whoever has ears should listen to what the Spirit says to the churches.
+To the one who overcomes, I will give food from the tree of life.
+To overcome means: to win the victory and hold out to the end.
+The tree of life is in the Paradise of my God.’
 
 > **What does this mean?**
 > Ephesus was a large port city with a famous temple. Paul worked there for a long time (Acts 19).
@@ -57,30 +50,25 @@ which is in the Paradise of my God.’
 
 ## The letter to Smyrna (Verses 8–11)
 
-[8] And write to the angel of the church in Smyrna:
-‘The first and the last says these things,
-who was dead
-and has come to life:
-[9] I know your works,
-your oppression and your poverty.
+[8] And write this to the angel of the church in Smyrna:
+‘These are the words of the First and the Last.
+He was dead, and he has come back to life.
+He says:
+[9] I know what you do.
+I know your suffering and your poverty.
 But you are rich.
-And I know the blasphemy of those
-who say they are Jews,
-and they are not,
-but are a synagogue of Satan.
-[10] Don’t be afraid of the things
-which you are about to suffer.
-Look,
-the devil is about to throw some of you into prison,
-so that you may be tested.
-And you will have oppression for ten days.
-Be faithful to death,
-and I will give you the crown of life.
-[11] He who has an ear,
-let him hear
-what the Spirit says to the churches.
-He who overcomes
-won’t be harmed by the second death.’
+And I know how some people speak evil against you.
+They say that they are Jews, but they are not.
+They are a synagogue of Satan.
+A synagogue is a place where people meet to pray and to hear God’s word.
+[10] Do not be afraid of what you are about to suffer.
+Look, the devil is going to throw some of you into prison
+to test you.
+You will suffer for ten days.
+Be faithful, even if it means dying.
+Then I will give you the crown of life.
+[11] Whoever has ears should listen to what the Spirit says to the churches.
+The one who overcomes will not be harmed by the second death.’
 
 > **Important note**
 > Verse 9 is a very difficult verse. In history it was terribly misused to insult and persecute Jews. That is wrong and against the will of God.
@@ -97,42 +85,31 @@ won’t be harmed by the second death.’
 
 ## The letter to Pergamum (Verses 12–17)
 
-[12] And write to the angel of the church in Pergamum:
-‘He says these things
-who has the sharp two-edged sword:
-[13] I know your works,
-and I know
-where you dwell:
-where Satan’s throne is.
-You hold firmly to my name.
-You didn’t deny my faith,
-not even in the days of Antipas,
-my faithful witness.
-He was killed among you,
-where Satan dwells.
-[14] But I have a few things against you:
-You have some there
-who hold the teaching of Balaam.
-Balaam taught Balak
-to throw a stumbling block before the children of Israel,
-so that they would eat things sacrificed to idols
-and commit sexual immorality.
-[15] In the same way you also have some
-who hold to the teaching of the Nicolaitans.
-[16] So repent.
-Or else I am coming to you quickly
-and will make war against them
-with the sword of my mouth.
-[17] He who has an ear,
-let him hear
-what the Spirit says to the churches.
-To him who overcomes
-I will give some of the hidden manna.
-And I will give him a white stone.
-On the stone a new name is written.
-No one knows it
-but he
-who receives it.’
+[12] And write this to the angel of the church in Pergamum:
+‘These are the words of the one who has the sharp sword with two edges.
+He says:
+[13] I know what you do.
+And I know where you live.
+You live where Satan’s throne is.
+But you hold on to my name.
+You did not deny your faith in me,
+not even in the days of Antipas.
+Antipas was my faithful witness.
+He was killed in your city, where Satan lives.
+[14] But I have a few things against you.
+Some of you there follow the teaching of Balaam.
+Balaam taught Balak how to make the children of Israel fall.
+So they ate food that was sacrificed to idols,
+and they committed sexual immorality.
+[15] In the same way, some of you follow the teaching of the Nicolaitans.
+[16] So turn back to God!
+If you do not, I will come to you soon.
+I will fight against them with the sword of my mouth.
+[17] Whoever has ears should listen to what the Spirit says to the churches.
+To the one who overcomes, I will give some of the hidden manna.
+I will also give him a white stone.
+A new name is written on the stone.
+No one knows this name except the one who receives it.’
 
 > **What does this mean?**
 > Verse 13: Pergamum was a center of emperor worship. A great altar and a temple for the emperor stood there. That is why John calls it “Satan’s throne.” Antipas was a Christian who was killed there for his faith.
@@ -144,53 +121,45 @@ who receives it.’
 
 ## The letter to Thyatira (Verses 18–29)
 
-[18] And write to the angel of the church in Thyatira:
-‘The Son of God says these things.
-His eyes are like a flame of fire,
-and his feet are like burnished brass:
-[19] I know your works,
-your love, your faith,
-your service and your patient endurance.
-And your last works are more than the first.
+[18] And write this to the angel of the church in Thyatira:
+‘These are the words of the Son of God.
+His eyes are like a flame of fire.
+His feet are like polished brass.
+He says:
+[19] I know what you do.
+I know your love and your faith.
+I know how you serve and how patiently you hold out.
+And I know that you are doing more now than you did at first.
 [20] But I have this against you:
-You tolerate your woman Jezebel,
-who calls herself a prophetess.
-She teaches and seduces my servants
-to commit sexual immorality
-and to eat things sacrificed to idols.
-[21] I gave her time
-to repent.
-But she refuses to repent of her sexual immorality.
-[22] Look,
-I will throw her
-and those who commit adultery with her
-into a bed of great oppression,
-unless they repent of her works.
+You put up with your woman Jezebel.
+She calls herself a prophetess.
+With her teaching she leads my servants astray.
+She leads them into sexual immorality,
+and to eat food that was sacrificed to idols.
+[21] I gave her time to turn away from her sexual immorality.
+But she refuses to do it.
+[22] Look!
+I will throw her into a bed of great oppression.
+I will do the same to those who commit adultery with her,
+unless they turn away from what she does.
 [23] I will kill her children with Death.
-And all the churches will know
-that I am he
-who searches the minds and hearts.
-I will give to each one of you
-according to your deeds.
-[24] But to you I say,
-to the rest who are in Thyatira,
-to all who don’t have this teaching
-and who don’t know
-what some call “the deep things of Satan”:
+Then all the churches will know
+that I am the one who looks deep into minds and hearts.
+I will give each of you what your deeds deserve.
+[24] But now I speak to the rest of you in Thyatira.
+You do not follow this teaching.
+You do not know what some people call ‘the deep things of Satan.’
+To you I say:
 I am not putting any other burden on you.
-[25] Only hold firmly
-to what you have
-until I come.
-[26] He who overcomes
-and he who keeps my works to the end,
-to him I will give authority over the nations.
-[27] He will rule them with a rod of iron,
-shattering them like clay pots,
-as I also have received this authority from my Father.
+[25] Just hold on to what you have until I come.
+[26] The one who overcomes
+and keeps doing what I want until the end
+will receive power over the nations from me.
+[27] He will rule them with an iron rod.
+He will smash them like clay pots.
+I have received the same power from my Father.
 [28] And I will give him the morning star.
-[29] He who has an ear,
-let him hear
-what the Spirit says to the churches.’
+[29] Whoever has ears should listen to what the Spirit says to the churches.’
 
 > **What does this mean?**
 > Thyatira was a trading city with many craftsmen’s guilds. Whoever wanted to belong often had to take part in feasts for gods. Lydia, the seller of purple cloth, also came from Thyatira (Acts 16:14).

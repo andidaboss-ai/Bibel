@@ -71,7 +71,7 @@ You tie up my guilt.
 > Here a quiet hope shines through. Job imagines: Maybe God will hide him in the world of the dead, only for a while, until his anger is over. And then God will remember him.
 > Verse 14 asks the big question: “If a man dies, will he live again?” Job does not know the answer. But he dares to ask the question.
 > Verse 15 is very beautiful: “You would long for the work of your hands.” Deep inside, Job believes that God loves him and misses him.
-> Christians see in this question a hint of the resurrection that Jesus speaks about: “I am the resurrection and the life. He who believes in me will still live, even if he dies” (John 11:25).
+> Christians see in this question a hint of the resurrection that Jesus speaks about: “I am the resurrection and the life. Whoever believes in me will live, even if he dies” (John 11:25).
 > “Sealed up in a bag”: God collects Job’s guilt as if in a closed bag. Some also understand it this way: God closes up the guilt and does not look at it anymore.
 
 ---

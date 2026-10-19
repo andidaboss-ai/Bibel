@@ -11,22 +11,14 @@
 
 ## Barnabas and Saul are sent out (Verses 1–3)
 
-[1] In the assembly at Antioch
-there were prophets and teachers:
-Barnabas,
-Simeon who was called Niger,
-Lucius of Cyrene,
-Manaen, who had grown up with Herod the tetrarch,
-and Saul.
-[2] As they served the Lord
-and fasted,
-the Holy Spirit said,
-“Set apart Barnabas and Saul for me,
-for the work
-to which I have called them.”
-[3] Then they fasted and prayed,
-laid their hands on them,
-and sent them away.
+[1] In the assembly at Antioch there were some prophets and teachers.
+They were Barnabas, Simeon (who was called Niger), and Lucius from Cyrene.
+There was also Manaen, who had grown up with Herod the tetrarch, and there was Saul.
+[2] They were serving the Lord and fasting.
+Then the Holy Spirit said, “Set apart Barnabas and Saul for me.
+I have called them to do a special work.”
+[3] So they fasted and prayed.
+They laid their hands on Barnabas and Saul and sent them on their way.
 
 *tetrarch* = a ruler over part of a country
 
@@ -39,47 +31,36 @@ and sent them away.
 
 ## On the island of Cyprus (Verses 4–12)
 
-[4] So, being sent out by the Holy Spirit,
-they went down to Seleucia.
+[4] The Holy Spirit had sent the two men out.
+They went down to Seleucia.
 From there they sailed to Cyprus.
-[5] In Salamis they proclaimed God’s word
-in the Jewish synagogues.
-They also had John with them as their helper.
-[6] They went through the whole island to Paphos.
-There they found a sorcerer,
-a false prophet.
-He was a Jew
-whose name was Bar Jesus.
-[7] He was with the proconsul, Sergius Paulus,
-a man of understanding.
-This man called for Barnabas and Saul.
+[5] When they arrived in Salamis, they told God’s word in the synagogues of the Jews.
+John was with them as their helper.
+[6] They traveled across the whole island to Paphos.
+There they met a sorcerer.
+He was a Jew and a false prophet.
+His name was Bar Jesus.
+[7] He was with the proconsul, Sergius Paulus.
+Sergius Paulus was a man of understanding.
+He sent for Barnabas and Saul.
 He wanted to hear the word of God.
-[8] But Elymas the sorcerer
-(for that is what his name means)
-opposed them.
+[8] But Elymas the sorcerer worked against them.
+(That is what his name means.)
 He tried to turn the proconsul away from the faith.
-[9] But Saul,
-who is also called Paul,
-was filled with the Holy Spirit.
-He looked straight at him
-[10] and said,
-“You son of the devil,
-full of all deceit and all cunning,
-you enemy of all righteousness!
-Will you not stop
-twisting the right ways of the Lord?
-[11] Now the hand of the Lord is on you.
-You will be blind,
-not seeing the sun for a season!”
-Immediately a mist and darkness fell on him.
-He went around
-looking for someone
-to lead him by the hand.
-[12] When the proconsul saw
-what had happened,
-he believed.
-He was astonished
-at the teaching of the Lord.
+[9] Then Saul, who is also called Paul, was filled with the Holy Spirit.
+He looked straight at Elymas
+[10] and said, “You son of the devil!
+You are full of every kind of lie and trick.
+You are an enemy of everything that is right.
+Will you never stop twisting the straight ways of the Lord?
+[11] Now the hand of the Lord is against you.
+You will be blind.
+For a season you will not see the sun!”
+At once a mist and darkness came over him.
+He went around looking for someone to lead him by the hand.
+[12] The proconsul saw what had happened.
+Then he believed.
+He was amazed at the teaching about the Lord.
 
 *proconsul* = a Roman governor of a province
 
@@ -95,122 +76,81 @@ at the teaching of the Lord.
 
 ## Paul preaches in Antioch of Pisidia (Verses 13–41)
 
-[13] Paul and his companions set sail from Paphos
-and came to Perga in Pamphylia.
-But John left them
-and returned to Jerusalem.
-[14] They went on from Perga
-and came to Antioch of Pisidia.
-On the Sabbath day they went into the synagogue
-and sat down.
-[15] After the reading of the law and the prophets,
-the rulers of the synagogue sent word to them,
-“Brothers,
-if you have any word of encouragement for the people,
-speak.”
-[16] Paul stood up,
-made a sign with his hand,
-and said,
-“Men of Israel,
-and you who fear God,
-listen.
-[17] The God of this people
-chose our fathers.
-He made the people great
-when they lived as foreigners in the land of Egypt.
-With an uplifted arm,
-he led them out of it.
-[18] For a period of about forty years
-he put up with them in the wilderness.
-[19] He destroyed seven nations in the land of Canaan
-and gave them their land as an inheritance
-for about four hundred fifty years.
-[20] After these things,
-he gave them judges
-until Samuel the prophet.
-[21] Afterward they asked for a king.
-God gave them Saul
-the son of Kish,
-a man of the tribe of Benjamin,
-for forty years.
-[22] When he had removed him,
-he raised up David to be their king.
-About him he also said,
-‘I have found David
-the son of Jesse,
-a man after my heart,
-who will do all my will.’
-[23] From this man’s offspring,
-God has brought salvation to Israel,
-as he promised.
-[24] Before his coming,
-John had first preached the baptism of repentance
-to all the people of Israel.
-[25] As John was finishing his course,
-he said,
+[13] Paul and the men with him set sail from Paphos.
+They came to Perga in Pamphylia.
+There John left them and went back to Jerusalem.
+[14] They traveled on from Perga and came to Antioch in Pisidia.
+On the Sabbath day they went into the synagogue and sat down.
+[15] First the law and the prophets were read aloud.
+Then the leaders of the synagogue sent them a message:
+“Brothers, if you have a word of encouragement for the people, please speak.”
+[16] Paul stood up and waved his hand.
+He said, “Men of Israel, and you others who fear God, listen!
+[17] The God of this people chose our fathers.
+He made the people great while they lived as foreigners in the land of Egypt.
+With his mighty arm he led them out of Egypt.
+[18] For about forty years he put up with them in the wilderness.
+[19] He destroyed seven nations in the land of Canaan.
+He gave their land to our people as their own for about four hundred fifty years.
+[20] After that he gave them judges until the time of Samuel the prophet.
+[21] Then the people asked for a king.
+So God gave them Saul, the son of Kish.
+Saul was from the tribe of Benjamin.
+He was king for forty years.
+[22] Then God removed Saul.
+He made David their king.
+God said about David:
+‘I have found David, the son of Jesse.
+He is a man after my heart.
+He will do everything I want.’
+[23] God brought salvation to Israel from David’s offspring, as he had promised.
+[24] Before he came, John preached to all the people of Israel.
+He told them to repent and be baptized.
+[25] When John was coming to the end of his work, he said:
 ‘Who do you think I am?
-I am not he.
-But one comes after me,
-the sandals of whose feet
-I am not worthy to untie.’
-[26] Brothers,
-children of the family of Abraham,
-and those among you who fear God:
-The word of this salvation is sent out to you.
-[27] For those who live in Jerusalem,
-and their rulers,
-didn’t recognize him.
-They also didn’t understand the voices of the prophets
-which are read every Sabbath.
-But by condemning him,
-they fulfilled them.
-[28] They found no reason for a death sentence.
-Still they asked Pilate
-to have him killed.
-[29] When they had fulfilled all things
-that were written about him,
-they took him down from the tree
-and laid him in a tomb.
+I am not the one.
+But look, someone is coming after me.
+I am not even good enough to untie his sandals.’
+[26] Brothers, you children of Abraham’s family, and you others who fear God!
+God has sent this message of salvation to you.
+[27] Those who live in Jerusalem, and their rulers, didn’t recognize Jesus.
+They also didn’t understand the words of the prophets.
+Those words are read aloud every Sabbath.
+But when they condemned Jesus, they made those words come true.
+[28] They found no reason to sentence him to death.
+But they still asked Pilate to have him killed.
+[29] They did everything that was written about him.
+Then they took him down from the tree and laid him in a tomb.
 [30] But God raised him from the dead.
-[31] For many days he was seen by those
-who came up with him from Galilee to Jerusalem.
+[31] For many days he appeared to those who had come up with him from Galilee to Jerusalem.
 They are now his witnesses to the people.
-[32] And we bring you good news:
-What God promised to the fathers,
-[33] he has fulfilled for us,
-their children.
-He raised up Jesus.
-As it is also written in the second psalm,
+[32] We are bringing you good news.
+God made a promise to our fathers.
+[33] Now he has kept this promise for us, their children.
+He did it by raising up Jesus.
+That is also what is written in the second psalm:
 ‘You are my Son.
 Today I have become your father.’
-[34] About raising him up from the dead,
-never again to return to decay,
-he has spoken this way:
+[34] God raised him from the dead.
+He will never go back to decay.
+God said about this:
 ‘I will give you the holy and sure blessings of David.’
-[35] Therefore he also says in another psalm,
-‘You will not allow your Holy One
-to see decay.’
-[36] For David served the plan of God
-in his own generation.
-Then he fell asleep,
-was laid with his fathers,
-and saw decay.
-[37] But he whom God raised up
-saw no decay.
-[38] So let it be known to you, brothers,
-that through this man forgiveness of sins is proclaimed to you.
-[39] Through him everyone who believes is justified
-from all things
-from which you could not be justified
-by the law of Moses.
-[40] So be careful,
-so that what is spoken in the prophets
-doesn’t happen to you:
+[35] That is why he also says in another psalm:
+‘You will not allow your Holy One to see decay.’
+[36] David served God’s plan in his own time.
+Then he fell asleep.
+He was buried with his fathers, and his body saw decay.
+[37] But the one whom God raised up saw no decay.
+[38] So, brothers, you should know this:
+We tell you that through this man your sins can be forgiven.
+[39] Through him everyone who believes is justified from all things.
+The law of Moses could not justify you from these things.
+[40] So be careful!
+Do not let happen to you what the prophets said:
 [41] ‘Look, you scoffers!
-Wonder and perish,
-for I am doing a work in your days,
-a work which you will in no way believe,
-if someone tells it to you.’”
+Wonder, and then die!
+I am doing a work in your days.
+You would never believe it, even if someone told you about it.’”
 
 *justified* = made right with God, set free from guilt
 *scoffers* = people who mock
@@ -232,50 +172,33 @@ if someone tells it to you.’”
 
 ## The message goes to all nations (Verses 42–52)
 
-[42] When the Jews went out of the synagogue,
-the Gentiles begged
-that these words might be preached to them
-the next Sabbath.
-[43] When the synagogue meeting was over,
-many of the Jews
-and of the devout proselytes
-followed Paul and Barnabas.
-They spoke to them
-and urged them
-to continue in the grace of God.
-[44] The next Sabbath,
-almost the whole city gathered together
-to hear the word of God.
-[45] But when the Jews saw the crowds,
-they were filled with jealousy.
-They contradicted the things
-which Paul said,
-and blasphemed.
-[46] Paul and Barnabas spoke out boldly
-and said,
-“It was necessary that God’s word should be spoken to you first.
-Since you push it away from yourselves
-and judge yourselves unworthy of eternal life,
-we turn to the Gentiles.
-[47] For so the Lord has commanded us:
-‘I have set you as a light for the Gentiles,
-so that you should bring salvation
-to the farthest parts of the earth.’”
-[48] When the Gentiles heard this,
-they were glad
-and praised the word of God.
-And as many as were appointed to eternal life
-believed.
-[49] The Lord’s word spread
-throughout the whole region.
-[50] But the Jews stirred up the devout and prominent women
-and the leading men of the city.
-They started a persecution against Paul and Barnabas
-and threw them out of their region.
-[51] But they shook off the dust of their feet against them
-and came to Iconium.
-[52] And the disciples were filled with joy
-and with the Holy Spirit.
+[42] The Jews went out of the synagogue.
+Then the Gentiles begged Paul and Barnabas to speak about these things to them on the next Sabbath.
+[43] When the meeting in the synagogue was over, many Jews followed Paul and Barnabas.
+Many devout proselytes did too.
+Paul and Barnabas talked with them.
+They urged them to keep living in the grace of God.
+[44] On the next Sabbath almost the whole city came together to hear the word of God.
+[45] But when the Jews saw the crowds, they became very jealous.
+They spoke against what Paul said, and they insulted him.
+[46] Paul and Barnabas spoke out boldly.
+They said, “We had to tell God’s word to you first.
+But you push it away.
+You show that you do not think you are worthy of eternal life.
+So now we are turning to the Gentiles.
+[47] This is what the Lord has commanded us:
+‘I have made you a light for the Gentiles.
+You will bring salvation to the farthest parts of the earth.’”
+[48] When the Gentiles heard this, they were glad.
+They praised the word of God.
+And as many as were appointed to eternal life believed.
+[49] The Lord’s word spread through the whole region.
+[50] But the Jews stirred up the devout women of high standing and the leading men of the city.
+They started to persecute Paul and Barnabas.
+They threw them out of their region.
+[51] So Paul and Barnabas shook the dust off their feet as a sign against them.
+They went on to Iconium.
+[52] And the disciples were filled with joy and with the Holy Spirit.
 
 > **What does this mean?**
 > Verse 42: “Gentiles” means people from the non-Jewish nations. The word is not an insult here.

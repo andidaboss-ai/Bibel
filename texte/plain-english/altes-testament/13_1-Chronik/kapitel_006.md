@@ -5,38 +5,39 @@
 
 ## The high priests from Aaron to the exile (Verses 1–15)
 
-[1] The sons of Levi:
+[1] The sons of Levi were
 Gershon, Kohath, and Merari.
-[2] The sons of Kohath:
+[2] The sons of Kohath were
 Amram, Izhar, Hebron, and Uzziel.
-[3] The children of Amram:
+[3] The children of Amram were
 Aaron, Moses, and Miriam.
-The sons of Aaron:
+The sons of Aaron were
 Nadab, Abihu, Eleazar, and Ithamar.
-[4] Eleazar became the father of Phinehas.
-Phinehas became the father of Abishua.
-[5] Abishua became the father of Bukki.
-Bukki became the father of Uzzi.
-[6] Uzzi became the father of Zerahiah.
-Zerahiah became the father of Meraioth.
-[7] Meraioth became the father of Amariah.
-Amariah became the father of Ahitub.
-[8] Ahitub became the father of Zadok.
-Zadok became the father of Ahimaaz.
-[9] Ahimaaz became the father of Azariah.
-Azariah became the father of Johanan.
-[10] Johanan became the father of Azariah.
-He served as priest in the house that Solomon built in Jerusalem.
-[11] Azariah became the father of Amariah.
-Amariah became the father of Ahitub.
-[12] Ahitub became the father of Zadok.
-Zadok became the father of Shallum.
-[13] Shallum became the father of Hilkiah.
-Hilkiah became the father of Azariah.
-[14] Azariah became the father of Seraiah.
-Seraiah became the father of Jehozadak.
-[15] Jehozadak went into captivity
-when the LORD carried Judah and Jerusalem away by the hand of Nebuchadnezzar.
+[4] Eleazar was the father of Phinehas.
+Phinehas was the father of Abishua.
+[5] Abishua was the father of Bukki.
+Bukki was the father of Uzzi.
+[6] Uzzi was the father of Zerahiah.
+Zerahiah was the father of Meraioth.
+[7] Meraioth was the father of Amariah.
+Amariah was the father of Ahitub.
+[8] Ahitub was the father of Zadok.
+Zadok was the father of Ahimaaz.
+[9] Ahimaaz was the father of Azariah.
+Azariah was the father of Johanan.
+[10] Johanan was the father of Azariah.
+Azariah served as priest in the house that Solomon built in Jerusalem.
+[11] Azariah was the father of Amariah.
+Amariah was the father of Ahitub.
+[12] Ahitub was the father of Zadok.
+Zadok was the father of Shallum.
+[13] Shallum was the father of Hilkiah.
+Hilkiah was the father of Azariah.
+[14] Azariah was the father of Seraiah.
+Seraiah was the father of Jehozadak.
+[15] Jehozadak was taken away as a prisoner
+when the LORD sent the people of Judah and Jerusalem away.
+He used Nebuchadnezzar to do it.
 
 > **What does this mean?**
 > In some Bibles these verses are at the end of chapter 5 (verses 27–41). That is why the verse numbering in this whole chapter is different: verse 16 here is chapter 6, verse 1 there, and so on. Verse 81 here is verse 66 there.
@@ -50,53 +51,53 @@ when the LORD carried Judah and Jerusalem away by the hand of Nebuchadnezzar.
 
 ## The families of the Levites (Verses 16–30)
 
-[16] The sons of Levi:
+[16] The sons of Levi were
 Gershom, Kohath, and Merari.
 [17] These are the names of the sons of Gershom:
 Libni and Shimei.
 [18] The sons of Kohath were
 Amram, Izhar, Hebron, and Uzziel.
-[19] The sons of Merari:
+[19] The sons of Merari were
 Mahli and Mushi.
-These are the families of the Levites according to their fathers’ households.
-[20] Of Gershom:
-Libni his son,
-Jahath his son,
-Zimmah his son,
-[21] Joah his son,
-Iddo his son,
-Zerah his son,
-and Jeatherai his son.
-[22] The sons of Kohath:
-Amminadab his son,
-Korah his son,
-Assir his son,
-[23] Elkanah his son,
-Ebiasaph his son,
-Assir his son,
-[24] Tahath his son,
-Uriel his son,
-Uzziah his son,
-and Shaul his son.
-[25] The sons of Elkanah:
+These are the families of the Levites, listed by their fathers.
+[20] The descendants of Gershom were
+his son Libni,
+his son Jahath,
+his son Zimmah,
+[21] his son Joah,
+his son Iddo,
+his son Zerah,
+and his son Jeatherai.
+[22] The descendants of Kohath were
+his son Amminadab,
+his son Korah,
+his son Assir,
+[23] his son Elkanah,
+his son Ebiasaph,
+his son Assir,
+[24] his son Tahath,
+his son Uriel,
+his son Uzziah,
+and his son Shaul.
+[25] The sons of Elkanah were
 Amasai and Ahimoth.
-[26] As for Elkanah, the sons of Elkanah:
-Zophai his son,
-Nahath his son,
-[27] Eliab his son,
-Jeroham his son,
-and Elkanah his son.
-[28] The sons of Samuel:
-the firstborn, Joel,
-and the second, Abijah.
-[29] The sons of Merari:
+[26] The descendants of Elkanah were
+his son Zophai,
+his son Nahath,
+[27] his son Eliab,
+his son Jeroham,
+and his son Elkanah.
+[28] The sons of Samuel were
+Joel, the firstborn,
+and Abijah, the second.
+[29] The descendants of Merari were
 Mahli,
-Libni his son,
-Shimei his son,
-Uzzah his son,
-[30] Shimea his son,
-Haggiah his son,
-Asaiah his son.
+his son Libni,
+his son Shimei,
+his son Uzzah,
+[30] his son Shimea,
+his son Haggiah,
+and his son Asaiah.
 
 > **What does this mean?**
 > The Levites were divided into three large families, after the three sons of Levi: Gershom (or Gershon), Kohath and Merari. Each family had its own tasks (Numbers 3–4).
@@ -107,27 +108,27 @@ Asaiah his son.
 
 ## The singers in the temple (Verses 31–47)
 
-[31] These are the ones whom David put in charge of the singing in the LORD’s house,
-after the ark came to rest there.
-[32] They served with song before the tabernacle of the Tent of Meeting,
-until Solomon had built the LORD’s house in Jerusalem.
-They did the duties of their office according to their order.
-[33] These are those who served, and their sons.
-Of the sons of the Kohathites:
+[31] The ark came to rest in the LORD’s house.
+After that, David put these men in charge of the singing there.
+[32] They served with songs in front of the tabernacle, the Tent of Meeting,
+until Solomon built the LORD’s house in Jerusalem.
+They did their work in the order that was set for them.
+[33] These are the men who served, and their sons.
+From the Kohathites:
 Heman the singer, the son of Joel, the son of Samuel,
 [34] the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
 [35] the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 [36] the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
 [37] the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 [38] the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
-[39] His brother Asaph stood on his right hand:
-Asaph the son of Berechiah, the son of Shimea,
+[39] Heman’s relative Asaph stood at his right side.
+Asaph was the son of Berechiah, the son of Shimea,
 [40] the son of Michael, the son of Baaseiah, the son of Malchijah,
 [41] the son of Ethni, the son of Zerah, the son of Adaiah,
 [42] the son of Ethan, the son of Zimmah, the son of Shimei,
 [43] the son of Jahath, the son of Gershom, the son of Levi.
-[44] On the left hand stood their brothers, the sons of Merari:
-Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+[44] Their relatives, the descendants of Merari, stood at the left side.
+There was Ethan, the son of Kishi, the son of Abdi, the son of Malluch,
 [45] the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
 [46] the son of Amzi, the son of Bani, the son of Shemer,
 [47] the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
@@ -143,24 +144,25 @@ Ethan the son of Kishi, the son of Abdi, the son of Malluch,
 
 ## The tasks of the priests (Verses 48–53)
 
-[48] Their brothers the Levites were appointed for all the service of the tabernacle of God’s house.
+[48] Their relatives, the other Levites, were given all the other work
+at the tabernacle, God’s house.
 [49] But Aaron and his sons offered the sacrifices
-on the altar of burnt offering and on the altar of incense,
-for all the work of the most holy place,
-and to make atonement for Israel,
-just as Moses the servant of God had commanded.
-[50] These are the sons of Aaron:
-Eleazar his son,
-Phinehas his son,
-Abishua his son,
-[51] Bukki his son,
-Uzzi his son,
-Zerahiah his son,
-[52] Meraioth his son,
-Amariah his son,
-Ahitub his son,
-[53] Zadok his son,
-and Ahimaaz his son.
+on the altar of burnt offering and on the altar of incense.
+They did all the work in the most holy place.
+They made atonement for Israel.
+They did everything that Moses, the servant of God, had commanded.
+[50] These are the descendants of Aaron:
+his son Eleazar,
+his son Phinehas,
+his son Abishua,
+[51] his son Bukki,
+his son Uzzi,
+his son Zerahiah,
+[52] his son Meraioth,
+his son Amariah,
+his son Ahitub,
+[53] his son Zadok,
+and his son Ahimaaz.
 
 > **What does this mean?**
 > The work was divided: the Levites helped with the service at the sanctuary. Only the priests, the descendants of Aaron, were allowed to offer the sacrifices and go into the sanctuary.
@@ -171,67 +173,66 @@ and Ahimaaz his son.
 
 ## The cities of the Levites (Verses 54–81)
 
-[54] Now these are their dwelling places according to their camps in their borders.
-To the sons of Aaron, of the families of the Kohathites
-(for theirs was the first lot),
-[55] to them they gave Hebron in the land of Judah, with its pasture lands around it.
-[56] But the fields of the city and its villages they gave to Caleb the son of Jephunneh.
-[57] To the sons of Aaron they gave the cities of refuge:
-Hebron, Libnah also with its pasture lands,
-Jattir, Eshtemoa with its pasture lands,
-[58] Hilen with its pasture lands, Debir with its pasture lands,
-[59] Ashan with its pasture lands, and Beth Shemesh with its pasture lands.
-[60] And out of the tribe of Benjamin:
-Geba with its pasture lands, Allemeth with its pasture lands,
-and Anathoth with its pasture lands.
-All their cities throughout their families were thirteen cities.
-[61] To the rest of the sons of Kohath were given by lot,
-out of the family of the tribe, out of the half-tribe, the half of Manasseh,
-ten cities.
-[62] To the sons of Gershom, according to their families,
-out of the tribe of Issachar, out of the tribe of Asher, out of the tribe of Naphtali,
-and out of the tribe of Manasseh in Bashan:
-thirteen cities.
-[63] To the sons of Merari were given by lot, according to their families,
-out of the tribe of Reuben, out of the tribe of Gad, and out of the tribe of Zebulun:
-twelve cities.
-[64] So the children of Israel gave to the Levites the cities with their pasture lands.
-[65] They gave by lot,
-out of the tribe of the children of Judah, out of the tribe of the children of Simeon,
-and out of the tribe of the children of Benjamin,
-these cities which are mentioned by name.
-[66] Some of the families of the sons of Kohath
-had cities of their borders out of the tribe of Ephraim.
-[67] They gave them the cities of refuge:
-Shechem in the hill country of Ephraim with its pasture lands,
-and Gezer with its pasture lands,
-[68] Jokmeam with its pasture lands, Beth Horon with its pasture lands,
-[69] Aijalon with its pasture lands, Gath Rimmon with its pasture lands.
-[70] And out of the half-tribe of Manasseh:
-Aner with its pasture lands, and Bileam with its pasture lands,
-for the rest of the family of the sons of Kohath.
-[71] To the sons of Gershom were given,
-out of the family of the half-tribe of Manasseh,
-Golan in Bashan with its pasture lands, and Ashtaroth with its pasture lands;
-[72] and out of the tribe of Issachar,
-Kedesh with its pasture lands, Daberath with its pasture lands,
-[73] Ramoth with its pasture lands, and Anem with its pasture lands;
-[74] and out of the tribe of Asher,
-Mashal with its pasture lands, Abdon with its pasture lands,
-[75] Hukok with its pasture lands, and Rehob with its pasture lands;
-[76] and out of the tribe of Naphtali,
-Kedesh in Galilee with its pasture lands,
-Hammon with its pasture lands, and Kiriathaim with its pasture lands.
-[77] To the rest of the Levites, the sons of Merari, were given,
-out of the tribe of Zebulun,
-Rimmono with its pasture lands, and Tabor with its pasture lands;
-[78] and beyond the Jordan at Jericho, on the east side of the Jordan,
-they were given out of the tribe of Reuben:
-Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,
-[79] Kedemoth with its pasture lands, and Mephaath with its pasture lands;
-[80] and out of the tribe of Gad,
-Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,
-[81] Heshbon with its pasture lands, and Jazer with its pasture lands.
+[54] These are the places where they lived, the areas that were given to them.
+The descendants of Aaron from the families of the Kohathites
+were the first to be chosen by lot.
+[55] So they were given Hebron in the land of Judah,
+together with the pasture land around it.
+[56] But the fields of the city and its villages were given to Caleb, the son of Jephunneh.
+[57] The descendants of Aaron were given the cities of refuge:
+Hebron, Libnah with its pasture land,
+Jattir, Eshtemoa with its pasture land,
+[58] Hilen with its pasture land, Debir with its pasture land,
+[59] Ashan with its pasture land, and Beth Shemesh with its pasture land.
+[60] From the tribe of Benjamin they were given
+Geba with its pasture land, Allemeth with its pasture land,
+and Anathoth with its pasture land.
+Their families had 13 cities in all.
+[61] The other descendants of Kohath were given ten cities by lot.
+These cities came from the family of the tribe,
+from the half-tribe of Manasseh.
+[62] The descendants of Gershom, family by family, were given 13 cities.
+These cities came from the tribe of Issachar, the tribe of Asher, the tribe of Naphtali,
+and the tribe of Manasseh in Bashan.
+[63] The descendants of Merari, family by family, were given twelve cities by lot.
+These cities came from the tribe of Reuben, the tribe of Gad, and the tribe of Zebulun.
+[64] So the people of Israel gave the Levites these cities with their pasture land.
+[65] They gave them by lot
+from the tribe of Judah, the tribe of Simeon,
+and the tribe of Benjamin.
+These are the cities that are named here.
+[66] Some of the families of the descendants of Kohath
+were given cities from the tribe of Ephraim.
+[67] They were given the cities of refuge:
+Shechem in the hill country of Ephraim with its pasture land,
+Gezer with its pasture land,
+[68] Jokmeam with its pasture land, Beth Horon with its pasture land,
+[69] Aijalon with its pasture land, and Gath Rimmon with its pasture land.
+[70] From the half-tribe of Manasseh
+the rest of the family of the descendants of Kohath were given
+Aner with its pasture land and Bileam with its pasture land.
+[71] The descendants of Gershom were given these cities:
+from the family of the half-tribe of Manasseh,
+Golan in Bashan with its pasture land and Ashtaroth with its pasture land;
+[72] from the tribe of Issachar,
+Kedesh with its pasture land, Daberath with its pasture land,
+[73] Ramoth with its pasture land, and Anem with its pasture land;
+[74] from the tribe of Asher,
+Mashal with its pasture land, Abdon with its pasture land,
+[75] Hukok with its pasture land, and Rehob with its pasture land;
+[76] from the tribe of Naphtali,
+Kedesh in Galilee with its pasture land,
+Hammon with its pasture land, and Kiriathaim with its pasture land.
+[77] The rest of the Levites, the descendants of Merari, were given these cities:
+from the tribe of Zebulun,
+Rimmono with its pasture land and Tabor with its pasture land;
+[78] from the tribe of Reuben, on the other side of the Jordan,
+on the east side of the Jordan, across from Jericho,
+Bezer in the wilderness with its pasture land, Jahzah with its pasture land,
+[79] Kedemoth with its pasture land, and Mephaath with its pasture land;
+[80] from the tribe of Gad,
+Ramoth in Gilead with its pasture land, Mahanaim with its pasture land,
+[81] Heshbon with its pasture land, and Jazer with its pasture land.
 
 > **What does this mean?**
 > The Levites did not get their own tribal land. Instead they got cities spread over the whole country, in the lands of the other tribes (Numbers 35:1–8). So they were everywhere among the people and could teach the people God’s law.

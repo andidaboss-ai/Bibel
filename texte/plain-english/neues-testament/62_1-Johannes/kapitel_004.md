@@ -5,39 +5,31 @@
 
 ## Test the spirits (Verses 1–6)
 
-[1] Beloved,
-don’t believe every spirit.
-But test the spirits,
-whether they are from God.
-For many false prophets
-have gone out into the world.
-[2] By this you know the Spirit of God:
-Every spirit who confesses
+[1] Dear friends,
+do not believe every spirit.
+Test the spirits to see whether they come from God.
+Many false prophets have gone out into the world.
+[2] This is how you can recognize the Spirit of God:
+Every spirit that says openly
 that Jesus Christ has come as a human being of flesh and blood
-is from God.
-[3] And every spirit who doesn’t confess
-that Jesus Christ has come as a human being of flesh and blood
-is not from God.
+comes from God.
+[3] But every spirit that does not say this about Jesus
+does not come from God.
 This is the spirit of the Antichrist.
-You have heard
-that it is coming.
+You have heard that it is coming.
 And now it is already in the world.
-[4] You are from God,
-little children,
-and you have overcome them.
-For he who is in you
-is greater than he
-who is in the world.
-[5] They are of the world.
-That is why they speak as the world speaks,
-and the world listens to them.
-[6] We are from God.
-Whoever knows God
-listens to us.
-Whoever is not from God
-doesn’t listen to us.
-By this we know the spirit of truth
-and the spirit of error.
+[4] Little children, you belong to God.
+You have won against these false prophets.
+The one who is in you is greater
+than the one who is in the world.
+[5] They belong to the world.
+That is why they speak the way the world speaks.
+And the world listens to them.
+[6] We belong to God.
+Whoever knows God listens to us.
+Whoever does not belong to God does not listen to us.
+This is how we can tell the spirit of truth
+from the spirit of error.
 
 > **What does this mean?**
 > Verse 1: Not everything that sounds godly comes from God. Christians are to test and not believe everything. That applies today too, for example with preachers who frighten people or want money.
@@ -49,30 +41,24 @@ and the spirit of error.
 
 ## God is love (Verses 7–12)
 
-[7] Beloved,
-let’s love one another.
-For love is from God.
-And everyone who loves
-is born of God
+[7] Dear friends, let us love one another.
+Love comes from God.
+Everyone who loves has been born of God
 and knows God.
-[8] Whoever doesn’t love
-doesn’t know God.
-For God is love.
-[9] By this God’s love was revealed among us:
+[8] Whoever does not love does not know God,
+because God is love.
+[9] This is how God showed his love among us:
 God sent his one and only Son into the world,
-so that we might live through him.
-[10] This is love:
-not that we loved God,
-but that he loved us
-and sent his Son
-as the sacrifice that atones for our sins.
-[11] Beloved,
-if God loved us in this way,
-we also ought to love one another.
+so that we could live through him.
+[10] This is what love is:
+It is not that we loved God.
+It is that he loved us.
+He sent his Son as the sacrifice that takes away our sins.
+[11] Dear friends, God loved us this much.
+So we should also love one another.
 [12] No one has ever seen God.
-If we love one another,
-God remains in us,
-and his love has been made perfect in us.
+But if we love one another, God remains in us.
+And his love becomes complete in us.
 
 > **What does this mean?**
 > Verse 8: “God is love”: This is one of the most important sentences of the whole Bible. God doesn’t just have love sometimes. Love is his nature.
@@ -83,22 +69,17 @@ and his love has been made perfect in us.
 
 ## We remain in God (Verses 13–16)
 
-[13] By this we know
-that we remain in him
-and he in us:
-He has given us of his Spirit.
-[14] And we have seen and testify:
-The Father has sent the Son
-as the Savior of the world.
-[15] Whoever confesses
-that Jesus is the Son of God,
-God remains in him,
-and he remains in God.
-[16] We have known and believed the love
-that God has for us.
+[13] This is how we know that we remain in him and he remains in us:
+He has given us some of his Spirit.
+[14] We have seen it, and we tell others about it:
+The Father sent the Son as the Savior of the world.
+[15] Someone may say openly that Jesus is the Son of God.
+Then God remains in that person,
+and that person remains in God.
+[16] We know the love that God has for us,
+and we have believed it.
 God is love.
-And whoever remains in love
-remains in God,
+Whoever remains in love remains in God,
 and God remains in him.
 
 > **What does this mean?**
@@ -109,28 +90,22 @@ and God remains in him.
 
 ## Love drives out fear (Verses 17–21)
 
-[17] In this love has been made perfect among us:
-We can be bold on the day of judgment.
-For as he is,
-so are we also in this world.
+[17] This is how love has become complete among us:
+We can be confident on the day of judgment.
+For in this world we are just like him.
 [18] There is no fear in love.
-But perfect love drives out fear.
-For fear expects punishment.
-Whoever is afraid
-is not yet made perfect in love.
-[19] We love him
-because he first loved us.
-[20] If someone says,
-“I love God,”
-but hates his brother,
-he is a liar.
-For whoever doesn’t love his brother
-whom he sees,
-how can he love God
-whom he doesn’t see?
-[21] And this commandment we have from him:
-Whoever loves God
-should also love his brother.
+Perfect love drives out fear.
+Fear has to do with punishment.
+Whoever is afraid has not yet become perfect in love.
+[19] We love him,
+because he loved us first.
+[20] Someone may say, “I love God,”
+but he hates his brother.
+Then he is a liar.
+He does not love his brother, whom he has seen.
+So how can he love God, whom he has not seen?
+[21] And he has given us this commandment:
+Whoever loves God must also love his brother.
 
 > **What does this mean?**
 > Verse 18 is an important sentence for all who are afraid of God: God doesn’t want to frighten people. His love is stronger than the fear of punishment. Whoever talks about God mainly with threats and fear has not understood this verse.

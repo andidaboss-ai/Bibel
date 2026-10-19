@@ -101,5 +101,5 @@ and his right eye will go completely blind!”
 > After the good shepherd was rejected, a bad shepherd comes. He is the exact opposite: He cares for no one. He does not look for the lost. He does not heal the hurt. He only uses the flock for himself.
 > We do not know who this bad shepherd was. He is a picture of all leaders who misuse their power.
 > Verse 17: The judgment on him: His arm (his strength) and his eye (his understanding) will be destroyed.
-> The opposite of the good shepherd: Jesus says: “I am the good shepherd. The good shepherd lays down his life for the sheep” (John 10:11). He looks for the lost (Luke 15:4–7).
+> The opposite of the good shepherd: Jesus says: “I am the good shepherd. The good shepherd gives his life for the sheep” (John 10:11). He looks for the lost (Luke 15:4–7).
 > For today: A warning to everyone who is responsible for others, in politics, church, family, or work: Good leadership means caring for the weak.
