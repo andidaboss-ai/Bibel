@@ -85,7 +85,7 @@ says the Lord GOD.
 
 > **What does this mean?**
 > Edom was south of the Dead Sea. The Edomites were descendants of Esau, Jacob’s brother. So they were really relatives of Israel. That made it even worse that they took revenge on Judah and helped when Jerusalem was destroyed (see Obadiah 10–14; Psalm 137:7).
-> Verse 14: Here God says: “I will take my revenge on Edom through my people Israel.” This is a difficult verse. But it gives no one today the right to take revenge in God’s name or to justify violence against a nation. The Bible says clearly: “Vengeance belongs to me; I will repay” (Deuteronomy 32:35; see Romans 12:19). Revenge is God’s business, not ours.
+> Verse 14: Here God says: “I will take my revenge on Edom through my people Israel.” This is a difficult verse. But it gives no one today the right to take revenge in God’s name or to justify violence against a nation. The Bible says clearly: “Revenge belongs to me, and paying back” (Deuteronomy 32:35; see Romans 12:19). Revenge is God’s business, not ours.
 
 ---
 
