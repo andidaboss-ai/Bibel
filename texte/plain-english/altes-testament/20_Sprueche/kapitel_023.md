@@ -6,23 +6,23 @@
 ## At the table of a powerful man (Verses 1–8)
 
 [1] When you sit down to eat with a ruler,
-think carefully about what is in front of you,
-[2] and put a knife to your throat
-if you are a greedy person!
-[3] Don’t crave his fine foods,
-for they are deceiving food.
-[4] Don’t wear yourself out to get rich.
-Be wise enough to hold back!
-[5] Why do you set your eyes on something that does not last?
-For it surely grows wings like an eagle
-and flies away into the sky.
-[6] Don’t eat the food of someone who has a stingy eye,
-and don’t crave his fine foods,
-[7] for as he thinks about the cost, so he is.
-“Eat and drink!” he says to you,
-but his heart is not with you.
-[8] You will throw up the bite you have eaten,
-and you will have wasted your kind words.
+think carefully about what is in front of you.
+[2] If you are a greedy eater,
+put a knife to your throat.
+[3] Don’t long for his fine food.
+That food can fool you.
+[4] Don’t wear yourself out trying to get rich.
+Be wise and hold back.
+[5] Why do you look at something that will soon be gone?
+Riches surely grow wings like an eagle
+and fly away into the sky.
+[6] Don’t eat the food of a stingy man.
+Don’t long for his fine food.
+[7] In his heart he is always counting the cost.
+“Eat and drink!” he says to you.
+But he does not really mean it.
+[8] You will throw up the bites you have eaten.
+And your kind words will be wasted.
 
 > **What does this mean?**
 > Verses 1–3: When a powerful person invites you, be careful. Maybe he wants to bribe you with good food or get information out of you. “Putting a knife to your throat” is a strong picture for: Control yourself!
@@ -33,18 +33,18 @@ and you will have wasted your kind words.
 
 ## The strong Defender of orphans (Verses 9–14)
 
-[9] Don’t speak in the ears of a fool,
-for he will despise the wisdom of your words.
-[10] Don’t move the ancient boundary stone!
-Don’t take over the fields of the fatherless,
-[11] for their Defender is strong.
-He will plead their case against you.
-[12] Set your heart on instruction
-and your ears on the words of knowledge!
+[9] Don’t talk to a fool.
+He will look down on your wise words.
+[10] Don’t move an old boundary stone.
+Don’t take over the fields of orphans.
+[11] Their Defender is strong.
+He will take their side against you in court.
+[12] Open your heart to teaching.
+Open your ears to words of knowledge.
 [13] Don’t hold back correction from a child.
-If you punish him with the rod, he will not die.
-[14] Punish him with the rod,
-and save his life from Sheol, the world of the dead.
+If you punish him with a rod, he will not die.
+[14] Punish him with a rod,
+and you will save his life from Sheol, the world of the dead.
 
 > **What does this mean?**
 > Verses 10–11: Orphans had no one to defend them. But God himself is their strong Defender. Whoever takes something away from them will have to deal with him.
@@ -58,26 +58,26 @@ and save his life from Sheol, the world of the dead.
 
 [15] My son, if your heart is wise,
 then my heart will be glad too.
-[16] Yes, my inner being will rejoice
-when your lips speak what is right.
-[17] Don’t let your heart envy sinners,
-but fear the LORD all day long!
-[18] For surely there is a future,
-and your hope will not be cut off.
-[19] Listen, my son, and be wise,
-and keep your heart on the right path!
-[20] Don’t be among those who drink too much wine,
-or among those who stuff themselves with meat!
-[21] For the drunkard and the glutton will become poor,
-and sleepiness dresses them in rags.
-[22] Listen to your father who gave you life,
-and don’t despise your mother when she is old!
-[23] Buy the truth, and don’t sell it!
-Get wisdom, instruction, and understanding!
-[24] The father of the righteous has great joy.
-Whoever has a wise child is happy with him.
-[25] Let your father and your mother be glad!
-Let her who gave birth to you rejoice!
+[16] Deep inside I will be full of joy
+when you say what is right.
+[17] Don’t let your heart envy sinners.
+Instead, fear the LORD all day long.
+[18] Then you will surely have a future.
+Your hope will not be destroyed.
+[19] Listen, my son, and be wise.
+Keep your heart on the right path.
+[20] Don’t spend time with people who drink too much wine,
+or with people who stuff themselves with meat.
+[21] Drunkards and people who eat too much will become poor.
+Too much sleep will dress them in rags.
+[22] Listen to your father, who gave you life.
+Don’t look down on your mother when she is old.
+[23] Buy the truth, and don’t sell it.
+Get wisdom, discipline, and understanding.
+[24] The father of a righteous child is full of joy.
+A man who has a wise child is happy because of him.
+[25] Let your father and your mother be glad.
+Let your mother, who gave birth to you, be full of joy.
 
 > **What does this mean?**
 > Verses 17–18: Sometimes people who do evil seem to be doing well. Don’t envy them! Whoever trusts God has a future and a hope.
@@ -89,12 +89,12 @@ Let her who gave birth to you rejoice!
 
 ## Give me your heart (Verses 26–28)
 
-[26] My son, give me your heart,
-and let your eyes pay attention to my ways!
-[27] For a prostitute is a deep pit,
-and an unfaithful wife is a narrow well.
-[28] Yes, she lies in wait like a robber
-and increases the number of the unfaithful among men.
+[26] My son, give me your heart.
+Let your eyes follow my ways.
+[27] A prostitute is like a deep pit.
+A woman who is unfaithful to her husband is like a narrow well.
+[28] She lies in wait like a robber.
+She makes more and more men unfaithful.
 
 > **What does this mean?**
 > Verse 26: “Give me your heart”: The father does not only want obedience, but trust and love. Many people also hear the voice of God in this sentence.
@@ -104,23 +104,23 @@ and increases the number of the unfaithful among men.
 
 ## Who has woe? (Verses 29–35)
 
-[29] Who has woe? Who has sorrow?
-Who has quarrels? Who has complaints?
+[29] Who has pain? Who has sorrow?
+Who has fights? Who has complaints?
 Who has bruises for no reason?
-Who has bloodshot eyes?
-[30] Those who sit long over wine,
-those who go to try mixed wine.
+Who has red eyes?
+[30] People who sit for a long time over their wine,
+people who go to try out mixed wine.
 [31] Don’t look at the wine when it is red,
 when it sparkles in the cup,
 when it goes down smoothly.
-[32] In the end it bites like a snake
-and poisons like a viper.
-[33] Your eyes will see strange things,
-and your mind will imagine confusing things.
-[34] Yes, you will be like someone who lies down in the middle of the sea,
-or like someone who lies on top of the ship’s mast.
-[35] “They hit me, and I was not hurt!
-They beat me, and I don’t feel it!
+[32] In the end it bites like a snake.
+It poisons like a viper.
+[33] Your eyes will see strange things.
+Your mind will think up confused things.
+[34] You will be like someone who lies down in the middle of the sea,
+like someone who lies on top of a ship’s mast.
+[35] “They hit me, but I was not hurt!
+They beat me, but I don’t feel it!
 When will I wake up?
 I can do it again. I will look for more.”
 

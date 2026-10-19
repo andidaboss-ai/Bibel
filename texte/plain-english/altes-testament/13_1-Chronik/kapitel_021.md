@@ -30,7 +30,7 @@ So he punished Israel.
 > **What does this mean?**
 > David wants to know how many warriors he has. That sounds harmless, but it shows: he trusts in the number of his soldiers, not in God. He treats the people as if they belonged to him, not to God.
 > Even Joab, who is otherwise not squeamish, warns David.
-> Here it says “Satan”. The Hebrew word means “adversary” or “accuser”. In this place 2 Samuel 24:1 says: “Again the anger of the LORD burned against Israel. And he moved David against them.” Chronicles, which was written later, says it differently: not God himself, but Satan led David astray. Both texts say: behind the temptation there is a power that is greater than David. And both say: David is still responsible himself.
+> Here it says “Satan.” The Hebrew word means “adversary” or “accuser.” In this place 2 Samuel 24:1 says: “Again the anger of the LORD burned against Israel. And he moved David against them.” Chronicles, which was written later, says it differently: not God himself, but Satan led David astray. Both texts say: behind the temptation there is a power that is greater than David. And both say: David is still responsible himself.
 > The numbers are different from 2 Samuel 24:9 (there 800,000 and 500,000).
 > Levi was not counted because the Levites did not serve in war (Numbers 1:47–49).
 
@@ -156,7 +156,7 @@ He was afraid of the sword of the LORD’s angel.
 > **What does this mean?**
 > The place where the angel stops becomes the place of making peace with God. There David builds an altar.
 > Ornan wants to give David everything. But David says a famous sentence: “I will not … offer a burnt offering that costs me nothing.” True devotion to God costs something.
-> The Bible says “600 shekels of gold”. A shekel is about 0.4 ounces. 2 Samuel 24:24 says “50 shekels of silver.” Perhaps the 50 shekels were only for the threshing floor and the oxen, and the 600 shekels for the whole place.
+> The Bible says “600 shekels of gold.” A shekel is about 0.4 ounces. 2 Samuel 24:24 says “50 shekels of silver.” Perhaps the 50 shekels were only for the threshing floor and the oxen, and the 600 shekels for the whole place.
 > God answers with fire from the sky, as with Elijah on Mount Carmel. This shows: God accepts the offering.
 > Most important: later the temple is built on this place (1 Chronicles 22:1; 2 Chronicles 3:1). In 2 Chronicles 3:1 the place is called “Mount Moriah,” like the mountain on which Abraham was to sacrifice Isaac (Genesis 22:2). A place of guilt becomes a place of grace.
 > To this day this place in Jerusalem, the Temple Mount, is holy for Jews, Christians and Muslims.

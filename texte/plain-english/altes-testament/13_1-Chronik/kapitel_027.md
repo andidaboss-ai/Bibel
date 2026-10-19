@@ -56,7 +56,7 @@ His division had 24,000 men.
 > David had no large standing army. Instead, every month one division served with the king, like a kind of military service in turns. So the men could work at home the rest of the time.
 > The leaders are old friends: they are David’s mighty men from chapter 11.
 > Asahel had fallen early in the war against Abner (2 Samuel 2:23). That is why it says here: “His son Zebadiah came after him” (1 Chronicles 27:7). The division probably kept his name.
-> In verse 5 Jehoiada is called “chief priest.” The Hebrew text can also be read differently: “Benaiah, the son of Jehoiada the priest, as chief”.
+> In verse 5 Jehoiada is called “chief priest.” The Hebrew text can also be read differently: “Benaiah, the son of Jehoiada the priest, as chief.”
 
 ---
 

@@ -11,41 +11,32 @@
 
 ## Marriage goes both ways (Verses 1–9)
 
-[1] Now about the things
-you wrote to me:
-“It is good for a man
-not to touch a woman.”
-[2] But because of the danger of sexual immorality,
-let each man have his own wife,
-and let each woman have her own husband.
-[3] Let the husband give his wife
-the affection
-he owes her,
-and likewise the wife her husband.
-[4] The wife doesn’t have authority over her own body alone,
-but the husband does.
-Likewise the husband doesn’t have authority over his own body alone,
-but the wife does.
-[5] Don’t refuse one another,
-unless it is by consent for a season,
-so that you may give yourselves to fasting and prayer.
-Then come together again,
-so that Satan doesn’t tempt you
-because of your lack of self-control.
-[6] But I say this as an allowance,
-not as a command.
-[7] I wish
-that all people were like me.
-But each one has his own gift from God,
-one of this kind,
-and another of that kind.
-[8] But I say to the unmarried and to widows:
-It is good for them
-if they stay as I am.
-[9] But if they don’t have self-control,
-let them marry.
-For it is better to marry
-than to burn with passion.
+[1] Now I will answer the things you wrote to me about:
+“It is good for a man not to touch a woman.”
+[2] But there is a lot of sexual immorality.
+So each man should have his own wife.
+And each woman should have her own husband.
+[3] The husband should give his wife the affection he owes her.
+And the wife should do the same for her husband.
+[4] The wife does not have authority over her own body.
+Her husband does.
+In the same way, the husband does not have authority over his own body.
+His wife does.
+[5] Do not refuse each other.
+You may stop for a while, but only by consent for a season.
+That means: if you both agree, for a certain time.
+Then you can give yourselves to fasting and prayer.
+After that, come together again.
+Otherwise Satan may tempt you, because you lack self-control.
+[6] I say this to allow it.
+It is not a command.
+[7] I wish that all people were like me.
+But each person has his own gift from God.
+One has this gift, and another has that gift.
+[8] To the unmarried and to widows I say:
+It is good for them to stay single, as I am.
+[9] But if they cannot control themselves, they should marry.
+It is better to marry than to burn with passion.
 
 > **What does this mean?**
 > Verse 1: “It is good for a man not to touch a woman” was probably a sentence from the Corinthians’ letter. Some in Corinth thought that Christians should give up sexuality completely, even in marriage. Paul disagrees.
@@ -57,36 +48,31 @@ than to burn with passion.
 
 ## Divorce and mixed marriages (Verses 10–16)
 
-[10] But to the married I command,
-not I,
-but the Lord:
-The wife should not leave her husband.
-[11] (But if she does leave,
-let her stay unmarried
-or be reconciled to her husband.)
-And the husband should not leave his wife.
-[12] But to the rest I say,
-not the Lord:
-If any brother has an unbelieving wife,
-and she is content
-to live with him,
+[10] To those who are married I give this command.
+It is not from me, but from the Lord:
+A wife should not leave her husband.
+[11] (But if she does leave him,
+she should stay unmarried,
+or else make peace with her husband again.)
+And a husband should not leave his wife.
+[12] To the others I say this.
+It is from me, not from the Lord:
+A brother may have a wife who does not believe.
+If she is happy to live with him,
 he should not leave her.
-[13] And if a woman has an unbelieving husband,
-and he is content
-to live with her,
+[13] A woman may have a husband who does not believe.
+If he is happy to live with her,
 she should not leave her husband.
-[14] For the unbelieving husband is made holy through the wife,
-and the unbelieving wife is made holy through the husband.
+[14] The husband who does not believe is made holy through his wife.
+And the wife who does not believe is made holy through her husband.
 Otherwise your children would be unclean.
 But now they are holy.
-[15] Yet if the unbeliever leaves,
-let him leave.
-The brother or the sister is not bound in such cases.
+[15] But if the one who does not believe leaves,
+then let them separate.
+In such cases, the brother or the sister is not bound.
 God has called us to peace.
-[16] For how do you know, wife,
-whether you will save your husband?
-Or how do you know, husband,
-whether you will save your wife?
+[16] Wife, how do you know whether you will save your husband?
+Husband, how do you know whether you will save your wife?
 
 > **What does this mean?**
 > Verses 10–11: Here Paul refers to a word of Jesus (compare Mark 10:9–12). Marriage should last a lifetime.
@@ -98,40 +84,30 @@ whether you will save your wife?
 
 ## Stay as God called you (Verses 17–24)
 
-[17] Only, each one should live
-as the Lord has given to him
-and as God has called him.
-I command this in all the assemblies.
-[18] Was anyone called
-when he was already circumcised?
+[17] But each person should live the life
+that the Lord has given him,
+the life to which God has called him.
+I give this command in all the churches.
+[18] Was a man already circumcised when God called him?
 He should not try to undo his circumcision.
-Was anyone called
-when he was uncircumcised?
+Was a man uncircumcised when God called him?
 He should not be circumcised.
-[19] Circumcision is nothing,
-and uncircumcision is nothing.
-What matters is
-keeping God’s commandments.
-[20] Each one should stay in the situation
-in which he was called.
-[21] Were you called as a slave?
+Circumcision was a sign of the covenant with God for Jewish boys and men.
+[19] Being circumcised is nothing.
+Not being circumcised is nothing.
+What matters is keeping God’s commandments.
+[20] Each person should stay in the situation he was in when God called him.
+[21] Were you a slave when God called you?
 Don’t let that bother you.
-But if you get an opportunity
-to become free,
-use it.
-[22] For he who was called in the Lord as a slave
+But if you get an opportunity to become free, use it.
+[22] Someone who was a slave when the Lord called him
 is the Lord’s free man.
-Likewise he
-who was called as a free man
+In the same way, someone who was free when he was called
 is Christ’s slave.
 [23] You were bought with a price.
 Don’t become slaves of people.
-[24] Brothers,
-each one should stay with God
-in the situation
-in which he was called.
-
-*circumcision* = a sign of the covenant with God for Jewish boys and men
+[24] Brothers, each person should stay with God
+in the situation he was in when he was called.
 
 > **What does this mean?**
 > Verse 18: At that time some Jewish men tried to hide their circumcision so as not to stand out in Greek sports. Paul says: Jews should stay Jews; non-Jews should not have to become Jews.
@@ -142,64 +118,46 @@ in which he was called.
 
 ## Advice for the unmarried (Verses 25–35)
 
-[25] About virgins
-I have no command from the Lord.
-But I give my opinion
-as one
-to whom the Lord has shown mercy,
+[25] Now about virgins.
+Here “virgins” means young women who are not married.
+I have no command from the Lord about them.
+But I give my opinion.
+The Lord has shown me mercy,
 so that I can be trusted.
-[26] So I think:
-Because of the distress
-that is on us now,
-it is good for a person
-to stay
-as he is.
-[27] Are you bound to a wife?
-Then don’t seek
-to be freed.
-Are you free from a wife?
-Then don’t seek a wife.
-[28] But if you marry,
-you have not sinned.
-And if a virgin marries,
-she has not sinned.
-Yet such people will have trouble in this life,
-and I want to spare you that.
-[29] But I say this, brothers:
+[26] So this is what I think:
+Because of the distress that is on us now,
+it is good for a person to stay as he is.
+[27] Are you married to a wife?
+Then do not try to get free.
+Are you not married?
+Then do not look for a wife.
+[28] But if you do marry, you have not sinned.
+And if a virgin marries, she has not sinned.
+But people who marry will have trouble in this life.
+I want to spare you that.
+[29] Brothers, I tell you this:
 The time is short.
-From now on, those
-who have wives
-should live
-as though they had none.
-[30] And those who weep,
-as though they didn’t weep.
-And those who rejoice,
-as though they didn’t rejoice.
-And those who buy,
-as though they didn’t own anything.
-[31] And those who use the world,
-as not using it to the full.
-For the form of this world is passing away.
-[32] But I want you
-to be free from cares.
-He who is unmarried
-is concerned for the things of the Lord,
-how he may please the Lord.
-[33] But he who is married
-is concerned about the things of the world,
-how he may please his wife.
-[34] There is also a difference
-between a married woman and an unmarried one.
-The unmarried woman cares about the things of the Lord,
-so that she may be holy in body and in spirit.
-But the married woman cares about the things of the world,
-how she may please her husband.
-[35] I say this for your own good,
-not to put a noose around your neck,
-but so that you live in a fitting way
-and stay with the Lord without distraction.
-
-*virgins* = here: young women who are not married
+From now on, those who have wives should live as if they had none.
+[30] Those who cry should live as if they were not crying.
+Those who are happy should live as if they were not happy.
+Those who buy things should live as if they did not own anything.
+[31] Those who use the things of the world
+should not use them to the full.
+For this world in its present form is passing away.
+[32] I want you to be free from worries.
+A man who is not married cares about the things of the Lord.
+He wants to please the Lord.
+[33] But a man who is married cares about the things of the world.
+He wants to please his wife.
+[34] There is also a difference between a married woman and a virgin.
+The unmarried woman cares about the things of the Lord.
+She wants to be holy in body and in spirit.
+But the married woman cares about the things of the world.
+She wants to please her husband.
+[35] I say this to help you.
+I do not want to trap you.
+I want you to live in a fitting way.
+I want you to serve the Lord without distraction.
 
 > **What does this mean?**
 > Verse 25: “Virgins” here means young, unmarried women.
@@ -212,37 +170,25 @@ and stay with the Lord without distraction.
 
 ## To marry or not? (Verses 36–40)
 
-[36] But if any man thinks
-that he is not acting rightly toward his virgin,
-if she is past the flower of her age,
-and if it has to be so,
-let him do
-what he wants.
-He doesn’t sin.
-Let them marry.
-[37] But he who stands firm in his heart,
-who is under no pressure,
-but has power over his own will,
-and has decided in his heart
-to keep his own virgin,
-does well.
-[38] So then,
-he who gives his own virgin in marriage
-does well.
-And he who doesn’t give her in marriage
-does better.
-[39] A wife is bound by law
-as long as her husband lives.
+[36] A man may think that he is not treating his virgin rightly.
+Perhaps she is getting older,
+and he feels that it has to be so.
+Then he should do what he wants.
+He is not sinning.
+They should marry.
+[37] But another man may stand firm in his heart.
+No one is pressuring him.
+He has control over his own will.
+He has decided in his heart to keep his virgin as she is.
+That man does well.
+[38] So the man who lets his virgin marry does well.
+And the man who does not let her marry does better.
+[39] A wife is bound by law as long as her husband lives.
 But if her husband dies,
-she is free
-to marry
-whomever she wants,
-only in the Lord.
-[40] But she is happier
-if she stays as she is,
-in my opinion.
-And I think
-that I also have God’s Spirit.
+she is free to marry anyone she wants.
+But he must belong to the Lord.
+[40] But in my opinion, she is happier if she stays as she is.
+And I think that I also have God’s Spirit.
 
 > **What does this mean?**
 > Verses 36–38: These verses are hard to understand. The WEB understands them like this: A man (probably the father) decides whether his daughter marries. Other interpreters think: It is about an engaged couple who are thinking about whether to marry. In those days fathers often decided about their daughters’ marriages.

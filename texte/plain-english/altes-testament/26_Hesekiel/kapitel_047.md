@@ -38,7 +38,7 @@ Then he led me back to the bank of the river.
 > The measurement is 1,000 cubits each time, about 1,750 feet.
 > The amazing thing: Normally a river only gets bigger when other streams flow into it. This river grows all by itself. It comes directly from God.
 > The picture shows: Where God lives, life flows. And this life grows and becomes more and more.
-> Jesus says: “He who believes in me, as the Scripture has said, from within him will flow rivers of living water” (John 7:38). See also Psalm 46:4 (in some Bibles 46:5): “There is a river. Its streams make the city of God glad.”
+> Jesus says: “The Scriptures say this about whoever believes in me: Rivers of living water will flow from inside him” (John 7:38). See also Psalm 46:4 (in some Bibles 46:5): “There is a river. Its streams make the city of God glad.”
 
 ---
 

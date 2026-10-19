@@ -1,54 +1,35 @@
 # Acts – Chapter 3
-### “What I have, that I give you”
+### “What I have, I give you”
 
 ---
 
 ## A lame man is healed (Verses 1–10)
 
-[1] Peter and John were going up into the temple
-at the hour of prayer,
-the ninth hour.
-[2] A man was being carried there
-who had been lame from birth.
-Every day people laid him at the door of the temple
-which is called Beautiful.
-There he was to ask the people
-who went into the temple
-for gifts for the needy.
-[3] He saw Peter and John
-about to go into the temple.
+[1] One day Peter and John were going up to the temple.
+It was the hour of prayer, the ninth hour.
+[2] Some people were carrying a man there.
+He had been lame from birth.
+Every day they put him down at the temple gate called Beautiful.
+There he begged for gifts from the people going into the temple.
+[3] He saw Peter and John about to go into the temple.
 So he asked them for a gift.
-[4] Peter looked straight at him,
-together with John,
-and said,
-“Look at us.”
-[5] The man listened to them.
-He expected
-to receive something from them.
-[6] But Peter said,
-“I have no silver or gold,
-but what I have,
-that I give you.
-In the name of Jesus Christ of Nazareth,
-get up and walk!”
-[7] He took him by the right hand
-and raised him up.
-Immediately his feet and his ankle bones became strong.
-[8] He leaped up,
-stood,
-and began to walk.
-He went with them into the temple,
-walking, leaping,
-and praising God.
-[9] All the people saw him
-walking
-and praising God.
-[10] They recognized him:
-He was the man
-who used to sit at the Beautiful Gate of the temple
-begging for gifts for the needy.
-They were filled with wonder and amazement
-at what had happened to him.
+[4] Peter looked straight at him, and so did John.
+Peter said, “Look at us.”
+[5] The man looked at them.
+He expected to get something from them.
+[6] But Peter said, “I have no silver or gold.
+But what I have, I give you.
+In the name of Jesus Christ of Nazareth, get up and walk!”
+[7] Peter took him by the right hand and helped him up.
+At once the man’s feet and ankles became strong.
+[8] He jumped up and stood on his feet.
+He began to walk.
+He went with them into the temple.
+He walked and jumped and praised God.
+[9] All the people saw him walking and praising God.
+[10] They recognized him.
+He was the man who used to sit and beg at the Beautiful Gate of the temple.
+They were filled with wonder and amazement at what had happened to him.
 
 *lame* = not able to walk
 
@@ -64,81 +45,48 @@ at what had happened to him.
 
 ## Peter speaks to the people (Verses 11–26)
 
-[11] The man who was healed held on to Peter and John.
-Then all the people ran together to them
-in the porch
-that is called Solomon’s.
-They were greatly amazed.
-[12] When Peter saw it,
-he said to the people,
-“You men of Israel,
-why are you amazed at this man?
-Why do you stare at us,
-as though we had made him walk
-by our own power or godliness?
-[13] The God of Abraham, Isaac, and Jacob,
-the God of our fathers,
-has glorified his Servant Jesus.
-You handed him over
-and denied him in front of Pilate,
-when Pilate had decided
-to release him.
-[14] But you denied the Holy and Righteous One
-and asked
-for a murderer to be given to you.
+[11] The healed man held on to Peter and John.
+All the people were amazed.
+They ran together to them in the place called Solomon’s porch.
+[12] When Peter saw this, he said to the people:
+“You men of Israel, why are you amazed at this?
+Why do you stare at us?
+Do you think we made him walk by our own power or by our own goodness?
+[13] The God of Abraham, Isaac, and Jacob, the God of our fathers, has given glory to his Servant Jesus.
+You handed Jesus over.
+You rejected him in front of Pilate, even though Pilate had decided to set him free.
+[14] You rejected the Holy and Righteous One.
+You asked for a murderer to be set free for you instead.
 [15] You killed the Prince of life.
 But God raised him from the dead.
 We are witnesses of this.
-[16] By faith in his name,
-his name has made this man strong,
-whom you see and know.
-Yes, the faith
-which is through Jesus
-has given him this perfect health
-in front of you all.
-[17] Now, brothers,
-I know
-that you did this in ignorance,
-as your rulers did too.
-[18] But in this way God fulfilled
-what he had announced by the mouth of all his prophets:
-that the Christ should suffer.
-[19] So repent
-and turn again,
-so that your sins may be blotted out,
-and so that times of refreshing may come
-from the presence of the Lord,
-[20] and that he may send Christ Jesus,
-who was appointed for you before.
-[21] Heaven must receive him
-until the times
-when all things are restored.
-God spoke about this long ago
-by the mouth of his holy prophets.
-[22] For Moses said to the fathers,
-‘The Lord God will raise up a prophet for you
-from among your brothers,
-like me.
-You shall listen to him in all things
-whatever he says to you.
-[23] It will be
-that every soul
-that will not listen to that prophet
-will be utterly destroyed from among the people.’
-[24] Yes, and all the prophets
-from Samuel on and those who followed after,
-as many as have spoken,
-also told of these days.
-[25] You are the children of the prophets
-and of the covenant
-which God made with our fathers.
-He said to Abraham,
-‘All the families of the earth
-will be blessed through your offspring.’
-[26] God raised up his servant Jesus
-and sent him to you first
-to bless you,
-by turning every one of you away from your wickedness.”
+[16] You see this man, and you know him.
+Faith in the name of Jesus has made him strong.
+Yes, the faith that comes through Jesus has made him completely well.
+You all have seen it.
+[17] Now, brothers, I know that you did this in ignorance.
+Your rulers did too.
+[18] But this is how God made his word come true.
+Through all his prophets he had told ahead of time that the Christ would suffer.
+[19] So repent and turn back to God.
+Then your sins will be blotted out.
+Then times of refreshing will come from the Lord.
+[20] And he will send Christ Jesus, whom he chose for you long ago.
+[21] Jesus must stay in heaven until the time when God makes all things new again.
+God spoke about this long ago through his holy prophets.
+[22] Moses said to our fathers:
+‘The Lord God will raise up a prophet for you from among your brothers.
+He will be like me.
+You must listen to everything he tells you.
+[23] Everyone who does not listen to that prophet will be completely destroyed from among the people.’
+[24] All the prophets who have spoken also told about these days.
+That is true of Samuel and of all the prophets after him.
+[25] You are the children of the prophets, and of the covenant.
+God made this covenant with our fathers.
+He said to Abraham, ‘All the families of the earth will be blessed through your offspring.’
+[26] God raised up his servant Jesus.
+He sent him to you first, to bless you.
+He blesses you by turning each of you away from your evil ways.”
 
 *ignorance* = not knowing
 *blot out* = wipe away completely

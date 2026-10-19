@@ -5,42 +5,41 @@
 
 ## The question about divorce (Verses 1–12)
 
-[1] Jesus got up and left that place
-and came into the region of Judea
-and beyond the Jordan.
-Again crowds came together to him.
-And as he usually did,
-he taught them again.
-[2] Pharisees came to him.
-They wanted to test him
-and asked him,
-“Is it lawful for a man
+[1] Jesus got up and left that place.
+He went into the area of Judea
+and to the other side of the Jordan.
+Again crowds came together around him.
+And he taught them again, as he usually did.
+[2] Some Pharisees came to him.
+They wanted to test him.
+They asked him,
+“Is a man allowed by the law
 to divorce his wife?”
 [3] He answered,
 “What did Moses command you?”
 [4] They said,
-“Moses allowed a certificate of divorce to be written,
-and to divorce her.”
+“Moses allowed a man to write a divorce paper
+and send his wife away.”
 [5] But Jesus said to them,
-“Because your hearts are so hard,
-he wrote you this commandment.
-[6] But from the beginning of the creation,
-God made them male and female.
-[7] For this reason a man will leave his father and mother
-and will be joined to his wife,
-[8] and the two will become one flesh.
+“Moses wrote this commandment for you
+because your hearts are so hard.
+[6] But at the beginning, when God created the world,
+he made people male and female.
+[7] That is why a man will leave his father and mother
+and be joined to his wife.
+[8] And the two will become one body.
 So they are no longer two,
-but one flesh.
-[9] So what God has joined together,
-let no one separate.”
-[10] In the house his disciples asked him about this again.
+but one body.
+[9] God has joined them together.
+So no one should separate them.”
+[10] In the house the disciples asked Jesus about this again.
 [11] He said to them,
-“Whoever divorces his wife
-and marries another
-commits adultery against her.
+“If a man divorces his wife
+and marries another woman,
+he is unfaithful to his wife and breaks his marriage against her.
 [12] And if a woman divorces her husband
-and marries another,
-she commits adultery.”
+and marries another man,
+she breaks her marriage.”
 
 > **What does this mean?**
 > Moses allowed divorce and gave rules for it (Deuteronomy 24:1–4). In those days in Israel usually only the man could get a divorce. Afterward women were often poor and without protection.
@@ -55,20 +54,21 @@ she commits adultery.”
 
 ## Jesus blesses the children (Verses 13–16)
 
-[13] People were bringing little children to him,
-so that he would touch them.
-But the disciples scolded those who were bringing them.
-[14] When Jesus saw it,
-he was moved with indignation
-and said to them,
+[13] People were bringing little children to Jesus.
+They wanted him to touch them.
+But the disciples scolded the people who brought them.
+[14] Jesus saw this.
+He was moved with indignation.
+That means: He was angry.
+He said to the disciples,
 “Let the little children come to me!
-Don’t stop them!
-For God’s Kingdom belongs to such as these.
-[15] Most certainly I tell you,
-whoever does not receive God’s Kingdom like a little child
-will never enter into it.”
-[16] And he took them in his arms,
-laid his hands on them,
+Do not stop them!
+God’s Kingdom belongs to people like them.
+[15] I tell you the truth:
+Whoever does not receive God’s Kingdom like a little child
+will never get into it.”
+[16] Then he took the children in his arms.
+He put his hands on them
 and blessed them.
 
 > **What does this mean?**
@@ -81,13 +81,13 @@ and blessed them.
 
 ## The rich man (Verses 17–22)
 
-[17] As Jesus was setting out on his way,
-a man ran up to him,
-knelt down in front of him,
+[17] Jesus was setting out on his way.
+Then a man ran up to him.
+He knelt down in front of Jesus
 and asked him,
 “Good Teacher,
-what shall I do
-to inherit eternal life?”
+what must I do
+to receive eternal life?”
 [18] Jesus said to him,
 “Why do you call me good?
 No one is good except one: God.
@@ -95,23 +95,23 @@ No one is good except one: God.
 ‘Do not murder.’
 ‘Do not commit adultery.’
 ‘Do not steal.’
-‘Do not give false testimony.’
+‘Do not tell lies about others in court.’
 ‘Do not defraud.’
 ‘Honor your father and mother.’”
-[20] He said to him,
-“Teacher, I have kept all these things since I was young.”
+Adultery means: being unfaithful in marriage.
+[20] The man said to him,
+“Teacher, I have kept all these commandments since I was young.”
 [21] Jesus looked at him and loved him.
 He said to him,
-“One thing you lack.
-Go,
-sell whatever you have,
-and give to the poor.
+“You are missing one thing.
+Go and sell everything you have.
+Give the money to the poor.
 Then you will have treasure in heaven.
 And come, follow me,
 taking up the cross.”
-[22] But his face fell at that saying,
-and he went away sad.
-For he had great possessions.
+[22] When the man heard this, his face fell.
+He went away sad.
+He was very rich.
 
 > **What does this mean?**
 > Jesus names commandments from the Ten Commandments (Exodus 20:12–16). “Do not defraud” (10:19) is only in Mark. It reminds us of Deuteronomy 24:14: You must not hold back a worker’s wages. Defraud: to cheat someone out of what belongs to them.
@@ -124,43 +124,44 @@ For he had great possessions.
 
 ## Riches and God’s Kingdom (Verses 23–31)
 
-[23] Jesus looked around
-and said to his disciples,
-“How hard it is for those
+[23] Jesus looked around.
+He said to his disciples,
+“It is so hard for people
 who have riches
-to enter into God’s Kingdom!”
+to get into God’s Kingdom!”
 [24] The disciples were amazed at his words.
 But Jesus said to them again,
-“Children, how hard it is for those
+“Children, it is so hard for those
 who trust in riches
-to enter into God’s Kingdom!
-[25] It is easier for a camel to go through a needle’s eye
-than for a rich man to enter into God’s Kingdom.”
-[26] They were even more astonished
-and said to him,
+to get into God’s Kingdom!
+[25] It is easier for a camel to go through the eye of a needle
+than for a rich man to get into God’s Kingdom.”
+[26] The disciples were even more amazed.
+They said to him,
 “Then who can be saved?”
 [27] Jesus looked at them and said,
-“With people it is impossible,
-but not with God.
-For all things are possible with God.”
+“For people it is impossible,
+but not for God.
+For God, everything is possible.”
 [28] Peter began to say to him,
-“We have left everything
-and have followed you.”
+“Look, we have left everything
+and followed you.”
 [29] Jesus said,
-“Most certainly I tell you,
-there is no one who has left house,
-or brothers, or sisters,
-or father, or mother,
-or wife, or children,
-or land,
-for my sake and for the sake of the Good News,
-[30] who will not receive one hundred times more
+“I tell you the truth:
+Some have left their house
+or brothers or sisters
+or father or mother
+or wife or children
+or land
+because of me and because of the Good News.
+[30] Each one of them will receive one hundred times as much
 now in this time:
-houses, brothers, sisters, mothers, children, and land,
-with persecutions,
-and in the age to come eternal life.
+houses, brothers, sisters, mothers, children and land,
+together with persecutions.
+Persecutions means: being treated badly because of their faith.
+And in the world to come they will receive eternal life.
 [31] But many who are first will be last,
-and the last first.”
+and the last will be first.”
 
 > **What does this mean?**
 > Verse 24: Jesus tenderly calls his disciples “Children.” The words “who trust in riches” are missing in some old manuscripts.
@@ -173,23 +174,23 @@ and the last first.”
 
 ## Jesus announces his suffering for the third time (Verses 32–34)
 
-[32] They were on the way, going up to Jerusalem.
+[32] They were on the road going up to Jerusalem.
 Jesus was walking ahead of them.
-They were amazed,
-and those who followed were afraid.
-Again he took the twelve aside
-and began to tell them
+The disciples were amazed.
+And the people who followed were afraid.
+Again Jesus took the twelve aside.
+He began to tell them
 what was going to happen to him:
-[33] “We are going up to Jerusalem.
+[33] “Look, we are going up to Jerusalem.
 There the Son of Man
 will be handed over to the chief priests and the scribes.
-They will condemn him to death
-and hand him over to the Gentiles.
-[34] They will mock him,
-spit on him,
-flog him,
+They will sentence him to death.
+They will hand him over to the Gentiles.
+[34] The Gentiles will make fun of him.
+They will spit on him.
+They will whip him
 and kill him.
-And on the third day he will rise again.”
+But on the third day he will rise again.”
 
 > **What does this mean?**
 > Jesus walks ahead, bravely, even though he knows what is waiting for him. The disciples are afraid.
@@ -201,50 +202,48 @@ And on the third day he will rise again.”
 
 ## Whoever serves is great (Verses 35–45)
 
-[35] Then James and John, the sons of Zebedee, came to him
-and said,
+[35] Then James and John, the sons of Zebedee, came to Jesus.
+They said,
 “Teacher, we want you
 to do for us
 whatever we ask.”
 [36] He said to them,
 “What do you want me to do for you?”
 [37] They said to him,
-“Let us sit beside you in your glory,
-one at your right hand and one at your left hand.”
+“When you are in your glory,
+let us sit next to you,
+one at your right side and one at your left side.”
 [38] But Jesus said to them,
-“You don’t know what you are asking.
-Are you able to drink the cup
-that I drink,
-and to be baptized with the baptism
+“You do not know what you are asking.
+Can you drink the cup
+that I drink?
+Can you be baptized with the baptism
 that I am baptized with?”
 [39] They said to him,
-“We are able.”
+“We can.”
 Jesus said to them,
-“You will indeed drink the cup that I drink,
-and you will be baptized with the baptism
+“You will drink the cup that I drink.
+And you will be baptized with the baptism
 that I am baptized with.
-[40] But to sit at my right hand or at my left hand
-is not mine to give.
-It is for those
-for whom it has been prepared.”
-[41] When the other ten heard it,
-they became angry with James and John.
-[42] Jesus called them to himself
+[40] But I cannot decide who sits at my right side or at my left side.
+Those places are for the people
+for whom they have been prepared.”
+[41] The other ten disciples heard about it.
+They became angry with James and John.
+[42] Jesus called them together
 and said to them,
-“You know
-that those who are recognized as rulers over the nations
-lord it over them,
-and their great ones use their power over them.
-[43] But it shall not be so among you!
-Whoever wants to become great among you
-must be your servant.
+“You know:
+Those who are seen as rulers over the nations
+act like lords over them.
+And their great men use their power over them.
+[43] But it must not be like that among you!
+Whoever wants to become great among you must be your servant.
 [44] And whoever wants to be first among you
 must be the slave of all.
-[45] For the Son of Man also came
-not to be served,
-but to serve,
-and to give his life
-as a ransom for many.”
+[45] Even the Son of Man did not come
+to be served.
+He came to serve, and to give his life as a ransom for many.”
+A ransom is a price paid to set someone free.
 
 > **What does this mean?**
 > In Mark, James and John ask for themselves (in Matthew 20:20 it is their mother).
@@ -259,37 +258,37 @@ as a ransom for many.”
 ## Blind Bartimaeus (Verses 46–52)
 
 [46] They came to Jericho.
-As he was leaving Jericho with his disciples and a large crowd,
-Bartimaeus, the son of Timaeus,
-a blind beggar,
-was sitting by the road.
-[47] When he heard
-that it was Jesus the Nazarene,
-he began to cry out and say,
-“Jesus, you son of David,
+Then Jesus left Jericho with his disciples and a large crowd.
+A blind beggar was sitting by the road.
+His name was Bartimaeus, the son of Timaeus.
+[47] He heard
+that it was Jesus from Nazareth.
+Then he began to shout,
+“Jesus, son of David,
 have mercy on me!”
-[48] Many told him sharply
+[48] Many people told him sharply
 to be quiet.
-But he cried out even louder,
-“You son of David, have mercy on me!”
-[49] Jesus stood still
+But he shouted even louder,
+“Son of David, have mercy on me!”
+[49] Jesus stopped
 and said,
 “Call him.”
-So they called the blind man and said to him,
+So they called the blind man.
+They said to him,
 “Cheer up! Get up.
 He is calling you!”
-[50] He threw off his cloak,
-jumped up,
+[50] The blind man threw off his cloak.
+He jumped up
 and came to Jesus.
 [51] Jesus asked him,
 “What do you want me to do for you?”
 The blind man said to him,
-“Rabboni, that I may see again.”
+“Rabboni, I want to see again.”
 [52] Jesus said to him,
-“Go your way.
+“Go.
 Your faith has made you well.”
-Immediately he could see again
-and followed Jesus on the way.
+At once the man could see again.
+And he followed Jesus on the way.
 
 > **What does this mean?**
 > Jericho is in the Jordan Valley. From there the road goes up to Jerusalem.

@@ -67,4 +67,4 @@ And the LORD made all nations afraid of him.
 > “Baal Perazim” means “lord of breaking through.” God breaks through the enemies like a flood through a dam.
 > The Philistines had taken the images of their gods with them into battle. David has them burned, as the law demands (Deuteronomy 7:25). 2 Samuel 5:21 only says that David and his men took them away.
 > The sound in the treetops is a sign: God himself goes ahead of the army.
-> “Mulberry trees”: it is not certain which trees exactly are meant. Some translate “baca trees” or “balsam trees”.
+> “Mulberry trees”: it is not certain which trees exactly are meant. Some translate “baca trees” or “balsam trees.”

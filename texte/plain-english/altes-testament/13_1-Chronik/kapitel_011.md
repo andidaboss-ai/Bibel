@@ -148,7 +148,7 @@ David put him in charge of his bodyguard.
 > **What does this mean?**
 > In Hebrew verses 20 and 21 are hard to understand. Abishai was a captain, but did not belong to the first three. Perhaps he was the leader of a second group of three.
 > Later, under Solomon, Benaiah became the highest army commander (1 Kings 2:35).
-> The Bible says “five cubits”. A cubit is about 18 inches.
+> The Bible says “five cubits.” A cubit is about 18 inches.
 > A loom is a frame for weaving cloth. Its beam was a thick wooden bar. Goliath’s spear is described in the same way (1 Samuel 17:7).
 
 ---

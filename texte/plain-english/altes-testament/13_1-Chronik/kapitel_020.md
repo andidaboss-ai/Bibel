@@ -24,8 +24,8 @@ Then David and all the army went back to Jerusalem.
 > **What does this mean?**
 > “When kings go out to war”: in spring, after the rainy season.
 > “But David stayed at Jerusalem.” Anyone who knows 2 Samuel 11 knows: exactly at this time the matter with Bathsheba and Uriah happened. Chronicles does not tell it. Above all it wants to show David’s role as the founder of the temple. But this gap shows: Chronicles expects its readers to know the story.
-> The Bible says “a talent of gold”. A talent is about 75 pounds. A crown that heavy could hardly be worn. Perhaps it was put on only briefly, or it was the crown of the idol Milcom (the Hebrew word for “their king” sounds very similar).
-> Verse 3 is very hard. In 2 Samuel 12:31 the Hebrew has a similar word, which can also be understood like this: he made them work with saws, picks and axes, that is, do forced labor. Here the Hebrew says “he sawed”. Many scholars think that a letter was switched here and that “he put them to work” is really meant. If it is meant literally, it would be a cruel war crime. Nothing can justify something like that, not even David’s reputation.
+> The Bible says “a talent of gold.” A talent is about 75 pounds. A crown that heavy could hardly be worn. Perhaps it was put on only briefly, or it was the crown of the idol Milcom (the Hebrew word for “their king” sounds very similar).
+> Verse 3 is very hard. In 2 Samuel 12:31 the Hebrew has a similar word, which can also be understood like this: he made them work with saws, picks and axes, that is, do forced labor. Here the Hebrew says “he sawed.” Many scholars think that a letter was switched here and that “he put them to work” is really meant. If it is meant literally, it would be a cruel war crime. Nothing can justify something like that, not even David’s reputation.
 
 ---
 
