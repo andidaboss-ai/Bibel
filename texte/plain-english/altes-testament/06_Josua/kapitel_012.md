@@ -5,23 +5,31 @@
 
 ## The kings east of the Jordan (Verses 1–6)
 
-[1] These are the kings of the land whom the children of Israel struck,
-and whose land they took,
-beyond the Jordan toward the sunrise,
-from the valley of the Arnon to Mount Hermon, and all the Arabah to the east:
-[2] Sihon, king of the Amorites, who lived in Heshbon.
-He ruled from Aroer, which is on the edge of the valley of the Arnon,
-and from the middle of the valley, over half of Gilead, as far as the river Jabbok, the border of the children of Ammon,
-[3] and over the Arabah to the sea of Chinneroth, to the east,
-and to the sea of the Arabah, the Salt Sea, to the east, on the road to Beth Jeshimoth,
-and in the south below the slopes of Pisgah.
-[4] And the territory of Og, king of Bashan,
-one of the last of the Rephaim, who lived at Ashtaroth and at Edrei.
+[1] Here is a list of the kings of the land.
+The people of Israel defeated them and took their land.
+This land was on the other side of the Jordan, toward the east.
+It went from the valley of the Arnon to Mount Hermon,
+and it took in all the Arabah on the east side.
+[2] The first king was Sihon, king of the Amorites.
+He lived in Heshbon.
+He ruled from Aroer, at the edge of the valley of the Arnon,
+and from the middle of the valley.
+He ruled over half of Gilead, as far as the river Jabbok.
+The Jabbok is the border of the people of Ammon.
+[3] He also ruled over the Arabah, as far as the sea of Chinneroth in the east,
+and as far as the sea of the Arabah in the east.
+The sea of the Arabah is the Salt Sea.
+His land went along the road to Beth Jeshimoth,
+and in the south it went to the foot of the slopes of Pisgah.
+[4] Then there was the land of Og, king of Bashan.
+He was one of the last of the Rephaim.
+He lived at Ashtaroth and at Edrei.
 [5] He ruled over Mount Hermon, over Salecah, and over all Bashan,
-as far as the border of the Geshurites and the Maacathites,
-and over half of Gilead, to the border of Sihon king of Heshbon.
-[6] Moses, the servant of the LORD, and the children of Israel struck them.
-And Moses, the servant of the LORD, gave it as a possession to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+as far as the border of the Geshurites and the Maacathites.
+He also ruled over half of Gilead, as far as the border of Sihon, king of Heshbon.
+[6] Moses, the servant of the LORD, and the people of Israel defeated these kings.
+Moses, the servant of the LORD, gave their land to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+It became their own land.
 
 > **What does this mean?**
 > This chapter is like a list of victories. First come the two kings east of the Jordan who were already defeated at the time of Moses (Numbers 21; Deuteronomy 2–3).
@@ -30,12 +38,15 @@ And Moses, the servant of the LORD, gave it as a possession to the Reubenites, t
 
 ## The kings west of the Jordan (Verses 7–24)
 
-[7] These are the kings of the land whom Joshua and the children of Israel struck
-beyond the Jordan to the west,
-from Baal Gad in the valley of Lebanon to Mount Halak, which goes up toward Seir.
-Joshua gave it to the tribes of Israel as a possession, by their divisions,
-[8] in the hill country, in the lowland, in the Arabah, on the slopes, in the wilderness, and in the South,
-the land of the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite:
+[7] Here is a list of the kings of the land west of the Jordan.
+Joshua and the people of Israel defeated them.
+This land went from Baal Gad in the valley of Lebanon
+to Mount Halak, which rises toward Seir.
+Joshua gave this land to the tribes of Israel.
+Each tribe got its own share.
+[8] The land was in the hill country, in the lowland, in the Arabah, on the slopes, in the wilderness, and in the South.
+It was the land of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites.
+These were the kings:
 [9] the king of Jericho, one;
 the king of Ai, which is beside Bethel, one;
 [10] the king of Jerusalem, one;
@@ -67,7 +78,7 @@ the king of Jokneam in Carmel, one;
 [23] the king of Dor on the heights of Dor, one;
 the king of Goiim in Gilgal, one;
 [24] the king of Tirzah, one.
-All together: 31 kings.
+That makes 31 kings in all.
 
 > **What does this mean?**
 > The list names 31 kings. At that time, almost every larger city had its own “king,” more like a city prince. The land was divided into many small city-states.
