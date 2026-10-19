@@ -30,11 +30,11 @@ In Hebrew the book is called “Dibre ha-yamim”, which means “events of the 
 
 ## The descendants of Japheth (Verses 5–7)
 
-[5] The sons of Japheth:
+[5] The sons of Japheth were
 Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
-[6] The sons of Gomer:
+[6] The sons of Gomer were
 Ashkenaz, Diphath, and Togarmah.
-[7] The sons of Javan:
+[7] The sons of Javan were
 Elishah, Tarshish, Kittim, and Rodanim.
 
 > **What does this mean?**
@@ -47,21 +47,21 @@ Elishah, Tarshish, Kittim, and Rodanim.
 
 ## The descendants of Ham (Verses 8–16)
 
-[8] The sons of Ham:
+[8] The sons of Ham were
 Cush, Mizraim, Put, and Canaan.
-[9] The sons of Cush:
-Seba, Havilah, Sabta, Raama, Sabteca.
-The sons of Raamah:
+[9] The sons of Cush were
+Seba, Havilah, Sabta, Raama, and Sabteca.
+The sons of Raamah were
 Sheba and Dedan.
-[10] Cush became the father of Nimrod.
-He was the first to become a mighty one on the earth.
-[11] Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,
-[12] Pathrusim, Casluhim (where the Philistines came from),
-and Caphtorim.
-[13] Canaan became the father of Sidon his firstborn, and Heth,
-[14] the Jebusite, the Amorite, the Girgashite,
-[15] the Hivite, the Arkite, the Sinite,
-[16] the Arvadite, the Zemarite, and the Hamathite.
+[10] Cush was the father of Nimrod.
+Nimrod was the first mighty ruler on the earth.
+[11] Mizraim was the father of the Ludim, Anamim, Lehabim, Naphtuhim,
+[12] Pathrusim, Casluhim, and Caphtorim.
+The Philistines came from the Casluhim.
+[13] Canaan was the father of Sidon, his firstborn son, and of Heth.
+[14] He was also the father of the Jebusites, the Amorites, the Girgashites,
+[15] the Hivites, the Arkites, the Sinites,
+[16] the Arvadites, the Zemarites, and the Hamathites.
 
 > **What does this mean?**
 > As people thought back then, the descendants of Ham lived mainly in the south: in Africa and Arabia, and in Canaan.
@@ -74,14 +74,14 @@ and Caphtorim.
 
 ## The descendants of Shem (Verses 17–23)
 
-[17] The sons of Shem:
+[17] The sons of Shem were
 Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.
-[18] Arpachshad became the father of Shelah,
-and Shelah became the father of Eber.
-[19] To Eber were born two sons.
-The name of the one was Peleg, for in his days the earth was divided.
-And his brother’s name was Joktan.
-[20] Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
+[18] Arpachshad was the father of Shelah.
+Shelah was the father of Eber.
+[19] Eber had two sons.
+One was named Peleg, because in his time the earth was divided.
+His brother was named Joktan.
+[20] Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,
 [21] Hadoram, Uzal, Diklah,
 [22] Ebal, Abimael, Sheba,
 [23] Ophir, Havilah, and Jobab.
@@ -101,7 +101,7 @@ All these were the sons of Joktan.
 [24] Shem, Arpachshad, Shelah,
 [25] Eber, Peleg, Reu,
 [26] Serug, Nahor, Terah,
-[27] Abram (also called Abraham).
+[27] Abram, who is also called Abraham.
 
 > **What does this mean?**
 > Now the line becomes narrower. Of all the descendants of Shem, only one line is followed: the line to Abraham.
@@ -111,19 +111,20 @@ All these were the sons of Joktan.
 
 ## The descendants of Abraham: Ishmael and Keturah (Verses 28–33)
 
-[28] The sons of Abraham:
+[28] The sons of Abraham were
 Isaac and Ishmael.
-[29] These are their generations:
-the firstborn of Ishmael, Nebaioth;
-then Kedar, Adbeel, Mibsam,
+[29] These are their families:
+Nebaioth was Ishmael’s firstborn son.
+After him came Kedar, Adbeel, Mibsam,
 [30] Mishma, Dumah, Massa, Hadad, Tema,
 [31] Jetur, Naphish, and Kedemah.
 These are the sons of Ishmael.
-[32] The sons of Keturah, Abraham’s concubine:
-She bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
-The sons of Jokshan:
+[32] Keturah was Abraham’s concubine.
+A concubine is a wife of lower rank.
+Keturah gave birth to Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+The sons of Jokshan were
 Sheba and Dedan.
-[33] The sons of Midian:
+[33] The sons of Midian were
 Ephah, Epher, Hanoch, Abida, and Eldaah.
 All these were the sons of Keturah.
 
@@ -136,14 +137,14 @@ All these were the sons of Keturah.
 
 ## The descendants of Esau (Verses 34–37)
 
-[34] Abraham became the father of Isaac.
-The sons of Isaac:
+[34] Abraham was the father of Isaac.
+The sons of Isaac were
 Esau and Israel.
-[35] The sons of Esau:
+[35] The sons of Esau were
 Eliphaz, Reuel, Jeush, Jalam, and Korah.
-[36] The sons of Eliphaz:
+[36] The sons of Eliphaz were
 Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.
-[37] The sons of Reuel:
+[37] The sons of Reuel were
 Nahath, Zerah, Shammah, and Mizzah.
 
 > **What does this mean?**
@@ -155,22 +156,22 @@ Nahath, Zerah, Shammah, and Mizzah.
 
 ## The people of Seir (Verses 38–42)
 
-[38] The sons of Seir:
+[38] The sons of Seir were
 Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
-[39] The sons of Lotan:
+[39] The sons of Lotan were
 Hori and Homam.
-And Timna was Lotan’s sister.
-[40] The sons of Shobal:
+Lotan’s sister was Timna.
+[40] The sons of Shobal were
 Alian, Manahath, Ebal, Shephi, and Onam.
-The sons of Zibeon:
+The sons of Zibeon were
 Aiah and Anah.
-[41] The son of Anah:
+[41] The son of Anah was
 Dishon.
-The sons of Dishon:
+The sons of Dishon were
 Hamran, Eshban, Ithran, and Cheran.
-[42] The sons of Ezer:
+[42] The sons of Ezer were
 Bilhan, Zaavan, and Jaakan.
-The sons of Dishan:
+The sons of Dishan were
 Uz and Aran.
 
 > **What does this mean?**
@@ -181,28 +182,29 @@ Uz and Aran.
 
 ## The kings and chiefs of Edom (Verses 43–54)
 
-[43] Now these are the kings who reigned in the land of Edom,
-before any king reigned over the children of Israel:
-Bela the son of Beor.
-The name of his city was Dinhabah.
-[44] Bela died,
-and Jobab the son of Zerah of Bozrah reigned in his place.
-[45] Jobab died,
-and Husham of the land of the Temanites reigned in his place.
-[46] Husham died,
-and Hadad the son of Bedad reigned in his place.
-He struck Midian in the field of Moab.
-The name of his city was Avith.
-[47] Hadad died,
-and Samlah of Masrekah reigned in his place.
-[48] Samlah died,
-and Shaul of Rehoboth by the River reigned in his place.
-[49] Shaul died,
-and Baal Hanan the son of Achbor reigned in his place.
-[50] Baal Hanan died,
-and Hadad reigned in his place.
-The name of his city was Pai.
-His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
+[43] These are the kings who ruled in the land of Edom,
+before any king ruled over the people of Israel:
+Bela, the son of Beor.
+His city was called Dinhabah.
+[44] When Bela died,
+Jobab, the son of Zerah, from Bozrah, became king in his place.
+[45] When Jobab died,
+Husham, from the land of the Temanites, became king in his place.
+[46] When Husham died,
+Hadad, the son of Bedad, became king in his place.
+Hadad defeated Midian in the country of Moab.
+His city was called Avith.
+[47] When Hadad died,
+Samlah, from Masrekah, became king in his place.
+[48] When Samlah died,
+Shaul, from Rehoboth by the River, became king in his place.
+[49] When Shaul died,
+Baal Hanan, the son of Achbor, became king in his place.
+[50] When Baal Hanan died,
+Hadad became king in his place.
+His city was called Pai.
+His wife’s name was Mehetabel.
+She was the daughter of Matred, the daughter of Mezahab.
 [51] Then Hadad died.
 The chiefs of Edom were:
 chief Timna, chief Aliah, chief Jetheth,

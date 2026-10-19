@@ -63,7 +63,7 @@ because he knows that he has only a short time.”
 
 > **What does this mean?**
 > Verse 7: Michael is an archangel. He also appears in the book of Daniel as the protector of the people of Israel (Daniel 12:1).
-> Verse 9: “The old serpent” recalls the serpent in the Garden of Eden (Genesis 3). Here the devil is called the one who “leads the whole world astray.”
+> Verse 9: “The old serpent” recalls the serpent in the Garden of Eden (Genesis 3). Here the devil is also called the one who leads the whole world astray.
 > Verse 10: “Satan” means in Hebrew: accuser. He accuses people. But he has nothing more to say before God. Whoever belongs to Jesus is no longer condemned.
 > Verse 11: The victory doesn’t come through weapons, but through the Lamb and through the brave testimony of those who believe.
 > Verse 12: An important comfort: The devil is already defeated. He rages because he knows that his time will soon be over.

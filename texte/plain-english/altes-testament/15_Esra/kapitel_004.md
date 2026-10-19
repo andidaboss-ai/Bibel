@@ -5,26 +5,28 @@
 
 ## “Let us build with you” (Verses 1–5)
 
-[1] The enemies of Judah and Benjamin heard
-that the people who had come back from captivity
-were building a temple to the LORD, the God of Israel.
-[2] So they came to Zerubbabel and to the heads of the families and said to them,
-“Let us build with you,
-for we seek your God as you do.
-We have been sacrificing to him since the days of Esar Haddon king of Assyria,
-who brought us up here.”
-[3] But Zerubbabel, Jeshua, and the rest of the heads of the families of Israel said to them,
-“You have no part with us in building a house to our God.
-We ourselves together will build for the LORD, the God of Israel,
-as King Cyrus the king of Persia has commanded us.”
-[4] Then the people of the land weakened the hands of the people of Judah
-and made them afraid to build.
-[5] They hired advisers against them to block their plans
-all the days of Cyrus king of Persia,
-until the reign of Darius king of Persia.
+[1] The enemies of Judah and Benjamin heard news.
+The people who had come back from captivity
+were building a temple for the LORD, the God of Israel.
+[2] So the enemies came to Zerubbabel and to the family leaders.
+They said to them,
+“Let us build with you.
+We worship your God just as you do.
+We have been offering sacrifices to him
+since the time of Esar Haddon, king of Assyria.
+He is the one who brought us here.”
+[3] But Zerubbabel, Jeshua, and the other family leaders of Israel answered,
+“You have no part with us in building a house for our God.
+We alone will build it for the LORD, the God of Israel.
+That is what King Cyrus, the king of Persia, commanded us.”
+[4] Then the people of the land tried to discourage the people of Judah.
+They made them afraid to build.
+[5] They paid advisers to work against them and to block their plans.
+They did this the whole time Cyrus was king of Persia,
+and on until Darius became king of Persia.
 
 > **What does this mean?**
-> The “enemies” were people who lived in the area of the former northern kingdom. After 722 before Christ the Assyrians had settled foreign peoples there. These peoples worshiped the LORD, but also their own gods (2 Kings 17:24–41). Later their descendants were called “Samaritans”.
+> The “enemies” were people who lived in the area of the former northern kingdom. After 722 before Christ the Assyrians had settled foreign peoples there. These peoples worshiped the LORD, but also their own gods (2 Kings 17:24–41). Later, their descendants were called “Samaritans.”
 > Esar Haddon was king of Assyria from 681 to 669 before Christ.
 > Why did Zerubbabel and Jeshua turn down the help? They were afraid that faith in the one God would be mixed with foreign gods. That is exactly what had led to the exile. You can think about whether turning them down was right in every case. Later, in the New Testament, Jesus shows that God loves the Samaritans too (John 4; Luke 10:30–37).
 > The result: those who were turned down became opponents. They discouraged the builders and made sure that the building stood still for about 16 years (from about 536 to 520 before Christ).
@@ -33,13 +35,14 @@ until the reign of Darius king of Persia.
 
 ## Later accusations (Verses 6–7)
 
-[6] In the reign of Ahasuerus, at the beginning of his reign,
+[6] Later, Ahasuerus became king.
+At the beginning of his rule,
 they wrote an accusation against the people of Judah and Jerusalem.
-[7] In the days of Artaxerxes,
-Bishlam, Mithredath, Tabeel, and the rest of his companions
-wrote to Artaxerxes king of Persia.
-The letter was written in Syrian
-and translated into the Syrian language.
+[7] Later still, when Artaxerxes was king,
+Bishlam, Mithredath, Tabeel, and the rest of their group
+wrote a letter to Artaxerxes, king of Persia.
+The letter was written in Syrian script
+and in the Syrian language.
 
 > **What does this mean?**
 > Here the book jumps forward in time. It shows: the opposition went on later too, under the next kings.
@@ -51,72 +54,76 @@ and translated into the Syrian language.
 
 ## The letter to King Artaxerxes (Verses 8–16)
 
-[8] Rehum the chancellor and Shimshai the scribe
-wrote a letter against Jerusalem to Artaxerxes the king, as follows.
-[9] Rehum the chancellor, Shimshai the scribe,
-and the rest of their companions wrote:
+[8] Rehum the governor and Shimshai the secretary
+wrote a letter against Jerusalem to King Artaxerxes.
+It went like this.
+[9] The letter was from Rehum the governor, Shimshai the secretary,
+and the rest of their group:
 the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites,
 the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites,
-[10] and the rest of the nations whom the great and noble Osnappar brought over
-and settled in the city of Samaria
-and in the rest of the land beyond the River, and so on.
-[11] This is the copy of the letter that they sent:
+[10] and the other nations.
+The great and noble Osnappar had brought these nations here.
+He had settled them in the city of Samaria
+and in the rest of the land beyond the River.
+And so on.
+[11] This is a copy of the letter they sent:
 “To King Artaxerxes, from your servants, the people beyond the River.
-[12] The king should know that the Jews who came up from you
-have come to us to Jerusalem.
-They are building the rebellious and bad city.
+[12] We want the king to know this:
+The Jews who came up from you have come to us in Jerusalem.
+They are rebuilding that rebellious and evil city.
 They have finished the walls and repaired the foundations.
-[13] Now the king should know
-that if this city is built and the walls are finished,
-they will not pay tribute, tax, or toll,
-and in the end it will harm the kings.
-[14] Now because we eat the salt of the palace,
-and it is not right for us to see the king dishonored,
-we have sent to tell the king this,
-[15] so that a search may be made in the book of the records of your fathers.
-You will find in the book of the records and know
-that this city is a rebellious city,
-harmful to kings and provinces,
-and that people have started rebellions in it in the past.
+[13] The king should also know this:
+If this city is rebuilt and its walls are finished,
+they will not pay any more taxes or fees.
+In the end, this will harm the kings.
+[14] We are loyal to the palace.
+It is not right for us to watch the king be dishonored.
+So we are sending this message to the king.
+[15] Please have someone search the records of the kings before you.
+In these records you will find
+that this city has always rebelled.
+It has caused trouble for kings and provinces.
+People have started rebellions there in the past.
 That is why this city was destroyed.
-[16] We tell the king that if this city is built and the walls are finished,
-then you will have nothing left beyond the River.”
+[16] We tell the king:
+If this city is rebuilt and its walls are finished,
+you will have nothing left beyond the River.”
 
 > **What does this mean?**
 > The opponents list many peoples to seem important. Many of these names are uncertain. Some are probably titles of officials, not peoples. Erech (Uruk), Babylon, Susa and Elam were cities and regions in the east.
 > Osnappar is probably the Assyrian king Ashurbanipal (668–627 before Christ).
-> “Beyond the River”: this means the Euphrates. From the Persian king’s point of view the area west of the Euphrates was “beyond”. That was the province Judah belonged to.
-> “To eat the salt of the palace” means: to be in the king’s service, to be paid by him.
+> “Beyond the River”: this means the Euphrates. From the Persian king’s point of view, the area west of the Euphrates was “beyond”. That was the province Judah belonged to.
+> “We are loyal to the palace”: the English source text says “we eat the salt of the palace.” That means: we are in the king’s service and are paid by him.
 > The letter works with fear: if Jerusalem becomes strong, the king loses taxes and power. That is exaggerated. But it works.
 
 ---
 
 ## The king’s answer (Verses 17–24)
 
-[17] Then the king sent an answer
-to Rehum the chancellor, to Shimshai the scribe,
-and to the rest of their companions who live in Samaria
+[17] Then the king sent this answer
+to Rehum the governor, to Shimshai the secretary,
+and to the rest of their group who lived in Samaria
 and in the rest of the land beyond the River:
-“Peace.
-[18] The letter which you sent to us has been clearly read before me.
-[19] I gave an order, and a search has been made.
-It was found that this city has risen up against kings in the past,
-and that rebellion and revolts have been made in it.
-[20] There have also been mighty kings over Jerusalem
-who ruled over all the land beyond the River,
-and tribute, tax, and toll were paid to them.
-[21] Now give an order to make these men stop,
-so that this city will not be built until a decree is made by me.
-[22] Be careful not to be slow in doing this.
+“Peace to you.
+[18] The letter you sent us has been read to me clearly.
+[19] I gave an order, and a search was made.
+It was found that this city has risen up against kings in the past.
+There have been rebellions and revolts there.
+[20] Powerful kings have also ruled over Jerusalem.
+They ruled the whole land beyond the River.
+People paid them taxes and fees.
+[21] So now give an order to make these men stop.
+This city must not be rebuilt until a decree is made by me.
+[22] Be careful, and do this quickly.
 Why should the damage grow and harm the kings?”
-[23] When the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe,
-and their companions,
-they went in a hurry to Jerusalem to the Jews
-and made them stop by force of arms.
-[24] Then the work on God’s house in Jerusalem stopped.
-It stopped until the second year of the reign of Darius king of Persia.
+[23] A copy of King Artaxerxes’ letter was read to Rehum, Shimshai the secretary,
+and their group.
+Then they hurried to the Jews in Jerusalem.
+They made them stop with armed force.
+[24] So the work on God’s house in Jerusalem stopped.
+It stayed stopped until the second year that Darius was king of Persia.
 
 > **What does this mean?**
 > The king has a search made and finds: Jerusalem really did rise up against Babylon in the past. He also remembers the great kings David and Solomon.
-> Important in verse 21: “until a decree is made by me”. The king leaves a door open. Later the same king allows Nehemiah to build the wall (Nehemiah 2).
+> Important in verse 21: “until a decree is made by me.” The king leaves a door open. Later the same king allows Nehemiah to build the wall (Nehemiah 2).
 > Verse 24 returns to the time of the temple building. It continues verse 5: the building of the temple rested until the second year of Darius, that is 520 before Christ. Verses 6–23 were an insertion that shows how stubborn the opposition was over many decades.

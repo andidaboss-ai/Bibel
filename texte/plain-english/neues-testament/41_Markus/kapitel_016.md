@@ -141,7 +141,7 @@ Amen.
 > **Fast and lively:** Mark tells his story briefly and in a lively way. His favorite word is “immediately.” He does not begin with the birth, but right away with John the Baptizer and the baptism of Jesus (Chapter 1).
 > **Who is Jesus?** That is the big question of the whole book. The people are amazed, the opponents argue, the disciples do not understand for a long time. In the middle of the book Peter confesses: “You are the Christ” (8:29). And at the cross a Roman officer says: “Truly this man was the Son of God!” (15:39).
 > **Jesus acts:** Mark tells about many healings. Jesus touches lepers, raises up the sick, gives people back their dignity. He is moved by people’s need, for example by the father who cries out: “I believe. Help my unbelief!” (9:24).
-> **The way of serving:** Three times Jesus announces his suffering. And he says: “The Son of Man also came not to be served, but to serve, and to give his life as a ransom for many” (10:45).
+> **The way of serving:** Three times Jesus announces his suffering. And he says: “Even the Son of Man did not come to be served. He came to serve, and to give his life as a ransom for many” (10:45).
 > **Honest disciples:** The disciples often don’t understand, argue about who is the greatest, sleep in Gethsemane and flee. Peter denies Jesus. Mark tells this honestly. And yet Jesus does not give up on them (16:7).
 > **Faithful women:** The women stay at the cross, see the tomb and are the first to hear the message: “He has risen!”
 > **An important note:** The debates in Mark were arguments within Judaism. Jesus and all the disciples were Jews. A Jewish scribe hears from Jesus: “You are not far from God’s Kingdom” (12:34). These texts must never be used against Jews.

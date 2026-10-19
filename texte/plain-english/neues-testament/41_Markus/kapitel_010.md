@@ -36,10 +36,11 @@ So no one should separate them.”
 [11] He said to them,
 “If a man divorces his wife
 and marries another woman,
-he is unfaithful to his wife and breaks his marriage against her.
+he commits adultery against her.
+Adultery means: being unfaithful in marriage.
 [12] And if a woman divorces her husband
 and marries another man,
-she breaks her marriage.”
+she commits adultery.”
 
 > **What does this mean?**
 > Moses allowed divorce and gave rules for it (Deuteronomy 24:1–4). In those days in Israel usually only the man could get a divorce. Afterward women were often poor and without protection.
@@ -98,7 +99,6 @@ No one is good except one: God.
 ‘Do not tell lies about others in court.’
 ‘Do not defraud.’
 ‘Honor your father and mother.’”
-Adultery means: being unfaithful in marriage.
 [20] The man said to him,
 “Teacher, I have kept all these commandments since I was young.”
 [21] Jesus looked at him and loved him.

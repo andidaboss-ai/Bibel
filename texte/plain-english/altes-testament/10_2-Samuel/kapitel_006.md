@@ -5,21 +5,23 @@
 
 ## The new cart (Verses 1–5)
 
-[1] David again gathered all the chosen men of Israel, 30,000 men.
-[2] David got up and went with all the people who were with him from Baale Judah,
-to bring up from there the ark of God,
-which is called by the Name,
-the name of the LORD of Armies, who sits enthroned above the cherubim.
+[1] Once again David gathered the best soldiers of Israel.
+There were 30,000 men.
+[2] David set out with all his people from Baale Judah.
+They wanted to bring the ark of God up from there.
 The ark is a holy chest.
-[3] They set the ark of God on a new cart
-and brought it out of Abinadab’s house, which was on the hill.
-And Uzzah and Ahio, the sons of Abinadab, drove the new cart.
-[4] They brought it out of Abinadab’s house, which was on the hill, with the ark of God.
-And Ahio walked in front of the ark.
-[5] David and the whole house of Israel played music before the LORD
-with all kinds of instruments made of cypress wood,
-with harps, with stringed instruments, with tambourines,
-with castanets, and with cymbals.
+It is called by the Name of the LORD of Armies.
+The LORD sits on his throne above the cherubim.
+Cherubim are heavenly beings with wings.
+[3] They put the ark of God on a new cart
+and took it out of Abinadab’s house on the hill.
+Uzzah and Ahio, the sons of Abinadab, drove the new cart.
+[4] So they brought the cart with the ark of God out of Abinadab’s house on the hill.
+Ahio walked in front of the ark.
+[5] David and all the people of Israel celebrated before the LORD.
+They played all kinds of instruments made of cypress wood.
+They played harps, stringed instruments, and tambourines.
+They played castanets and cymbals.
 
 > **What does this mean?**
 > Jerusalem is now the capital. Now God is to have his place there too. David wants to bring the ark of the covenant, the sign of God’s presence.
@@ -31,21 +33,22 @@ with castanets, and with cymbals.
 
 ## Uzzah dies (Verses 6–11)
 
-[6] When they came to the threshing floor of Nacon,
-Uzzah reached out for the ark of God and took hold of it,
-for the cattle stumbled.
-[7] Then the LORD’s anger burned against Uzzah.
-And God struck him there for his error.
-And he died there beside the ark of God.
+[6] They came to the threshing floor of Nacon.
+There the oxen stumbled.
+So Uzzah reached out and took hold of the ark of God.
+[7] Then the LORD became very angry with Uzzah.
+God struck him down there because of his mistake.
+Uzzah died there beside the ark of God.
 [8] David was upset because the LORD had broken out against Uzzah.
-And he called that place Perez Uzzah, as it is called to this day.
+So he called that place Perez Uzzah.
+It is still called that today.
 [9] That day David was afraid of the LORD.
 He said,
-“How could the ark of the LORD come to me?”
-[10] So David would not move the ark of the LORD to be with him in David’s city.
-Instead, David took it aside into the house of Obed-Edom from Gath.
-[11] The ark of the LORD stayed in the house of Obed-Edom from Gath for three months.
-And the LORD blessed Obed-Edom and his whole household.
+“How can the ark of the LORD ever come to me?”
+[10] So David did not want to take the ark of the LORD to his home in the City of David.
+Instead, he took it to the house of Obed-Edom from Gath.
+[11] The ark of the LORD stayed in the house of Obed-Edom from Gath for 3 months.
+And the LORD blessed Obed-Edom and his whole family.
 
 > **What does this mean?**
 > This is a story that is hard to understand. Uzzah means well. He wants to keep the ark from falling down. And yet he dies.
@@ -58,30 +61,30 @@ And the LORD blessed Obed-Edom and his whole household.
 
 ## David dances before the LORD (Verses 12–19)
 
-[12] King David was told,
-“The LORD has blessed the house of Obed-Edom and everything that belongs to him,
+[12] Someone told King David,
+“The LORD has blessed the family of Obed-Edom and everything he has,
 because of the ark of God.”
-So David went and brought up the ark of God with joy
-from the house of Obed-Edom into David’s city.
-[13] When those who carried the ark of the LORD had gone six steps,
-he sacrificed a bull and a fattened calf.
+So David went to the house of Obed-Edom.
+With great joy he brought the ark of God up from there to the City of David.
+[13] The men carrying the ark of the LORD took six steps.
+Then David sacrificed a bull and a fattened calf.
 [14] David danced before the LORD with all his might.
-And David was dressed in a linen ephod.
+He was wearing a linen ephod.
 An ephod is a simple garment like the ones priests wore.
-[15] So David and the whole house of Israel brought up the ark of the LORD
-with shouting and with the sound of the trumpet.
-[16] As the ark of the LORD came into David’s city,
-Michal, the daughter of Saul, looked out through the window
-and saw King David leaping and dancing before the LORD.
-And she despised him in her heart.
-[17] They brought in the ark of the LORD
-and set it in its place, in the middle of the tent that David had set up for it.
-And David offered burnt offerings and peace offerings before the LORD.
-[18] When David had finished offering the burnt offerings and the peace offerings,
-he blessed the people in the name of the LORD of Armies.
-[19] He gave to all the people, to the whole crowd of Israel, to men and women,
-to each one a portion of bread, dates, and raisins.
-Then all the people went home, each one to his own house.
+[15] So David and all the people of Israel brought up the ark of the LORD.
+They shouted for joy and blew trumpets.
+[16] The ark of the LORD came into the City of David.
+Michal, the daughter of Saul, looked out of the window.
+She saw King David leaping and dancing before the LORD.
+And in her heart she despised him.
+[17] They brought in the ark of the LORD.
+They set it in its place inside the tent that David had set up for it.
+Then David offered burnt offerings and peace offerings before the LORD.
+[18] David finished offering the burnt offerings and the peace offerings.
+Then he blessed the people in the name of the LORD of Armies.
+[19] He gave food to all the people, to the whole crowd of Israel, men and women.
+Each person received bread, dates, and raisins.
+Then all the people went home.
 
 > **What does this mean?**
 > This time the ark is carried, not driven on a cart. After six steps an offering is made. Everything happens with deep respect.
@@ -95,21 +98,22 @@ Then all the people went home, each one to his own house.
 
 ## Michal and David (Verses 20–23)
 
-[20] Then David went back to bless his household.
-Michal, the daughter of Saul, came out to meet David and said,
-“How glorious the king of Israel was today,
-who uncovered himself today in front of the maids of his servants,
-as one of the worthless fellows shamelessly uncovers himself!”
+[20] Then David went home to bless his family.
+Michal, the daughter of Saul, came out to meet him.
+She said,
+“How wonderful the king of Israel looked today!
+He uncovered himself today in front of his servants’ slave girls,
+just like some worthless fool without any shame!”
 [21] David said to Michal,
-“It was before the LORD,
-who chose me above your father and above his whole house,
-to make me prince over the people of the LORD, over Israel.
+“I did it before the LORD.
+He chose me instead of your father and anyone in his family.
+He made me the leader over the LORD’s people, over Israel.
 So I will celebrate before the LORD.
-[22] I will be even less dignified than this,
-and I will be worthless in my own eyes.
-But the maids you have spoken of
+[22] I will make myself even less dignified than this.
+I will seem worthless even in my own eyes.
+But those slave girls you talked about
 will honor me.”
-[23] And Michal, the daughter of Saul, had no child to the day of her death.
+[23] And Michal, the daughter of Saul, had no children for the rest of her life.
 
 > **What does this mean?**
 > Michal makes fun of David. She thinks a king should be dignified, not dance wildly. The short linen garment probably showed a lot while he was dancing.

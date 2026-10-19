@@ -5,16 +5,16 @@
 
 ## A time for everything (Verses 1–8)
 
-[1] For everything there is a season,
-and a time for every purpose under heaven:
+[1] Everything has its season.
+There is a time for everything that happens under heaven:
 [2] a time to be born, and a time to die,
-a time to plant, and a time to pull up what is planted,
+a time to plant, and a time to pull up what was planted,
 [3] a time to kill, and a time to heal,
 a time to break down, and a time to build up,
 [4] a time to weep, and a time to laugh,
 a time to mourn, and a time to dance,
 [5] a time to throw away stones, and a time to gather stones together,
-a time to embrace, and a time to hold back from embracing,
+a time to hug, and a time not to hug,
 [6] a time to search, and a time to lose,
 a time to keep, and a time to throw away,
 [7] a time to tear, and a time to sew,
@@ -34,61 +34,62 @@ a time for war, and a time for peace.
 
 ## Eternity in the heart (Verses 9–15)
 
-[9] What does the worker gain
-from what he works so hard at?
-[10] I have seen the burden that God has given to people
-to trouble themselves with.
-[11] He has made everything beautiful in its time.
-He has also set eternity in their hearts,
-yet in such a way that people cannot find out the work that God has done
+[9] What does a worker gain
+from all his hard work?
+[10] I have seen the heavy load that God has given to people.
+They have to struggle with it.
+[11] God has made everything beautiful in its time.
+He has also set eternity in their hearts.
+But people cannot understand the work that God has done
 from the beginning to the end.
-[12] I know that there is nothing better for them
-than to rejoice and to do good as long as they live.
-[13] And also that every person eats and drinks
-and enjoys good things in all his work,
-that is the gift of God.
-[14] I know that whatever God does will last forever.
-Nothing can be added to it, and nothing can be taken from it.
-God has done it so that people would fear him.
-[15] What is has already been long ago,
-and what will be has already been long ago.
-God seeks again what has passed away.
+[12] I know that there is nothing better for people
+than to be happy and to do good as long as they live.
+[13] Every person should eat and drink
+and enjoy the good things in all his work.
+That is a gift from God.
+[14] I know that everything God does will last forever.
+Nothing can be added to it.
+Nothing can be taken away from it.
+God has done this so that people will fear him.
+[15] What is now has been long ago.
+What will be has also been long ago.
+God brings back what has passed away.
 
 > **What does this mean?**
 > Verse 11 is one of the deepest sentences of the Bible: God has “set eternity in their hearts.” That is why we are never completely satisfied with what passes away. We long for something that lasts. But we cannot fully understand God’s great plan.
 > Augustine, a great teacher of the church, said later: “Our heart is restless until it rests in you, O God.”
 > Verses 12–13: The Preacher’s answer: be glad, do good, enjoy life thankfully. It is a gift from God.
-> Verse 15: “God seeks again what has passed away”: With God, nothing is lost. He forgets nothing.
+> Verse 15: “God brings back what has passed away”: With God, nothing is lost. He forgets nothing.
 
 ---
 
 ## People and animals (Verses 16–22)
 
-[16] I also saw under the sun:
-In the place of justice, there was wickedness,
-and in the place of righteousness, there was wickedness.
-[17] I said in my heart,
-“God will judge the righteous and the wicked,
-for there is a time there for every purpose and for every work.”
-[18] I said in my heart,
-“As for people, God tests them,
-so that they may see that they themselves are like animals.
-[19] For what happens to people also happens to animals.
-Yes, the same thing happens to them.
-As the one dies, so the other dies.
-Yes, they all have one breath,
-and people have no advantage over the animals,
-for all is vanity.
-[20] All go to one place.
-All are from the dust,
-and all turn to dust again.
-[21] Who knows the spirit of a person, whether it goes upward,
-and the spirit of an animal, whether it goes down to the earth?”
-[22] So I saw that there is nothing better
-than for a person to rejoice in his works,
-for that is his share.
-For who can bring him to see
-what will be after him?
+[16] I also saw this under the sun:
+In the place where there should be justice, there was evil.
+In the place where there should be what is right, there was evil.
+[17] I thought to myself,
+“God will judge the righteous and the wicked.
+There is a time there for everything that happens and for every deed.”
+[18] I thought to myself,
+“God tests people.
+He wants them to see that they are like animals.
+[19] What happens to people also happens to animals.
+The same thing happens to both.
+As one dies, so the other dies.
+They all have the same breath.
+People have no advantage over animals.
+Everything is vanity.
+Vanity means: empty, like a breath of wind.
+[20] All go to the same place.
+All come from the dust,
+and all turn back into dust.
+[21] Who knows if the spirit of a person goes up?
+And who knows if the spirit of an animal goes down into the earth?”
+[22] So I saw that there is nothing better for a person
+than to be happy in his work.
+That is his share in life.
+Who can show him what will happen after he is gone?
 
 > **What does this mean?**
 > Verse 16: Even in the courts there is injustice. The Preacher sees this with pain.
