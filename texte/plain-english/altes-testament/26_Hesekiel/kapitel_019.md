@@ -57,7 +57,6 @@ It was full of fruit and branches
 because there was plenty of water.
 [11] It had strong branches,
 good for the scepters of rulers.
-A scepter is a staff that a king holds.
 It grew tall among the thick branches.
 People could see how tall it was
 and how many branches it had.
@@ -76,7 +75,7 @@ This is a song of mourning,
 and it will be used as a song of mourning.”
 
 > **What does this mean?**
-> Now the picture changes: The mother is a splendid vine. It had strong branches, that is, kings with scepters.
+> Now the picture changes: The mother is a splendid vine. It had strong branches, that is, kings with scepters. A scepter is a staff that a king holds.
 > Verse 10: “In your blood” is a difficult phrase. Some translate it “in your vineyard” or “like you.”
 > Verses 12–13: The vine is pulled up and planted again in the wilderness. That means: The royal family is taken into exile in Babylon.
 > Verse 14: “Fire has come out of its branches.” The disaster came from the royal family itself. The last king (Zedekiah) caused the destruction by his rebellion.

@@ -28,7 +28,7 @@ And the angel of the LORD was standing nearby.
 
 > **What does this mean?**
 > A court scene in heaven. The one on trial is Joshua, the high priest. He stands for the whole people before God.
-> In Hebrew, “Satan” means “accuser” or “enemy.” Here he is like a prosecutor who accuses Joshua (compare Job 1–2). He stands “at his right side,” where the accuser stood in court.
+> In Hebrew, “Satan” means “accuser” or “enemy.” Here he is like a prosecutor who accuses Joshua (compare Job 1–2). He stands at Joshua’s right side. That is where the accuser stood in court.
 > Verse 2: But God himself rejects the accuser! Joshua is like a burning stick that was pulled out of the fire just in time. The people barely survived the fire of the exile. God has saved them, and he will not let them fall again.
 > Verse 3: Joshua is wearing filthy clothes. This is a picture of guilt and uncleanness. Normally a priest was allowed to come before God only in clean clothes.
 > Verses 4–5: God takes the guilt away. He gives Joshua new, festive clothes and a clean turban (the turban of the high priest).
