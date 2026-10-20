@@ -13,7 +13,6 @@ into the Most Holy Place behind the curtain,
 in front of the mercy seat that is on the ark.
 Otherwise he will die.
 For I will appear in the cloud above the mercy seat.
-The ark is the holy chest with the Ten Commandments in it. The mercy seat is the golden lid on top of the ark.
 
 [3] “This is how Aaron shall come into the holy place:
 with a young bull as a sin offering and a ram as a burnt offering.
@@ -27,6 +26,7 @@ He shall bathe his body in water and then put them on.
 and one ram as a burnt offering.
 
 > **What does this mean?**
+> Verse 2: The ark is the holy chest with the Ten Commandments in it. The mercy seat is the golden lid on top of the ark.
 > This chapter is the heart of Leviticus. It describes the great Day of Atonement, in Hebrew “Yom Kippur.” To this day it is the holiest day of the Jewish year.
 > It begins by remembering Nadab and Abihu (Chapter 10). You cannot simply come close to God however you like. But now God shows a way to do it.
 > On this day the high priest does not wear his splendid clothes of gold and precious stones. He wears simple white linen clothes. He comes before God humbly, like a simple servant.
@@ -41,13 +41,13 @@ So he shall make atonement for himself and for his family.
 and set them before the LORD at the door of the Tent of Meeting.
 [8] Aaron shall cast lots for the two goats:
 one lot for the LORD and the other lot for the scapegoat.
-Casting lots is a way of choosing, a little like rolling dice.
 [9] Aaron shall bring the goat on which the lot for the LORD falls, and offer it as a sin offering.
 [10] But the goat on which the lot for the scapegoat falls
 shall be set alive before the LORD, to make atonement with it.
 He shall send it away into the wilderness as the scapegoat.
 
 > **What does this mean?**
+> Verse 8: Casting lots is a way of choosing, a little like rolling dice.
 > In Hebrew it says here “for Azazel.” We do not know for sure what this word means. Maybe it means “the goat that goes away.” That is where the English translation “scapegoat” comes from. Maybe Azazel is also the name of a place in the wilderness, or of a desert demon.
 > We still use the word “scapegoat” today. Today it means someone who is unfairly blamed for something. Here in the Bible it is different: The goat carries the guilt of the people away, so that the people become free.
 
@@ -155,7 +155,6 @@ This is for those who were born in the land and for the foreigner who lives amon
 [30] For on this day atonement will be made for you, to make you clean.
 You will be clean from all your sins before the LORD.
 [31] It is a Sabbath for you, a day of complete rest.
-The Sabbath is the holy day of rest.
 And you shall humble yourselves.
 This is a rule forever.
 
@@ -170,6 +169,7 @@ to make atonement for the people of Israel once a year because of all their sins
 And it was done as the LORD commanded Moses.
 
 > **What does this mean?**
+> Verse 31: The Sabbath is the holy day of rest.
 > The seventh month is in the fall, in September or October.
 > “Humbling yourselves” means above all: fasting. To this day, Jews fast for 25 hours on Yom Kippur. They do not eat or drink anything. They pray in the synagogue, think about their lives and ask God and other people for forgiveness.
 > “You will be clean from all your sins” – that is the great promise of this day. Once a year, everyone may start completely new.

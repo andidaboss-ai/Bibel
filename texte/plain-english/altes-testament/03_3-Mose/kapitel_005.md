@@ -39,7 +39,6 @@ then he will be guilty in one of these cases as soon as he knows about it.
 
 [5] “‘When he is guilty in one of these cases,
 he shall confess what he has sinned in.
-To confess means: to say openly what you have done wrong.
 [6] And he shall bring his trespass offering to the LORD for the sin he has done:
 a female animal from the flock, a lamb or a goat, as a sin offering.
 So the priest shall make atonement for him because of his sin.
@@ -89,13 +88,13 @@ The rest shall belong to the priest, like the meal offering.’”
 [15] “If anyone is unfaithful and sins without meaning to against the LORD’s holy things,
 he shall bring his trespass offering to the LORD:
 a ram without any fault from the flock.
-A ram is a male sheep.
 You shall set its value in shekels of silver, by the shekel of the holy place, as a trespass offering.
 [16] He shall pay back what he did wrong with the holy thing.
 He shall add a fifth to it and give it to the priest.
 So the priest shall make atonement for him with the ram of the trespass offering, and he will be forgiven.
 
 > **What does this mean?**
+> Verse 15: A ram is a male sheep.
 > The “trespass offering” is for cases where damage has been done that can be made good again. For example: Someone has eaten by mistake some of the gifts that belong to God or to the priests.
 > Then an offering is not enough. He must pay for the damage and add one fifth more, that is, 20 percent.
 > Forgiveness from God and making things good again belong together.

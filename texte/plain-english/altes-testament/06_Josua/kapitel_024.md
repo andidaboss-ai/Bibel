@@ -59,7 +59,7 @@ You eat from vineyards and olive groves that you did not plant.’
 
 ## Choose today whom you will serve (Verses 14–15)
 
-[14] So now fear the LORD and serve him honestly and faithfully.
+[14] “So now fear the LORD and serve him honestly and faithfully.
 Put away the gods that your ancestors served beyond the River and in Egypt,
 and serve the LORD.
 [15] But if you do not like to serve the LORD,

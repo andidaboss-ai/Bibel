@@ -47,7 +47,7 @@ Am I not better to you than ten sons?”
 > **What does this mean?**
 > Ramathaim Zophim is called “Ramah” for short in verse 19. It was in the hill country north of Jerusalem.
 > Elkanah has two wives. This was allowed at that time, but the Bible often shows how much quarreling and pain it brought, as with Sarah and Hagar or with Rachel and Leah.
-> “The LORD of Armies” is in Hebrew “YHWH Tsebaoth.” This name for God appears here for the first time in the Bible. It means: God is the Lord over all powers in heaven and on earth. The WEB says “Yahweh of Armies.” Other Bibles say “the LORD of hosts.”
+> “The LORD of Armies” is in Hebrew “YHWH Tsebaoth.” This name for God appears here for the first time in the Bible. It means: God is the Lord over all powers in heaven and on earth. The WEB, our English source text, says “Yahweh of Armies.”
 > At that time, the holy tent with the ark of the covenant stood in Shiloh. People went there once a year for the great feast.
 > Being childless was a great sorrow and a disgrace at that time. Many people thought God had punished the woman. Peninnah takes advantage of this and hurts Hannah, especially at the feasts.
 > Elkanah loves Hannah. But he does not fully understand her pain. He means well, but his question “Am I not better to you than ten sons?” does not comfort her.
@@ -92,7 +92,7 @@ Then the woman went her way and ate.
 And her face was no longer sad.
 
 > **What does this mean?**
-> The “temple” in Shiloh was not yet a big building like the later temple in Jerusalem, but probably a solid holy place with doors (Chapter 3:15).
+> The “temple” in Shiloh was not yet a big building like the later temple in Jerusalem, but probably a solid holy place with doors (1 Samuel 3:15).
 > Hannah takes her pain straight to God. She promises: If you give me a son, I will give him back to you. He is to serve God his whole life. “No razor” means: He is to be a Nazirite, like Samson (Judges 13:5).
 > At that time, people usually prayed out loud. Hannah prays quietly, only in her heart. Eli does not understand this and thinks she is drunk. The priest who should have helped her accuses her.
 > But Hannah stays polite and explains herself. “I have poured out my soul before the LORD” is a beautiful picture for honest prayer: You tell God everything that is in your heart.
@@ -112,7 +112,7 @@ For she said, “I have asked the LORD for him.”
 
 > **What does this mean?**
 > In the Bible, “to know” is a word for the love between a man and a woman.
-> “The LORD remembered her”: God did not forget Hannah. That is what she had asked for in her prayer (Verse 11).
+> “The LORD remembered her”: God did not forget Hannah. That is what she had asked for in her prayer (verse 11).
 > In Hebrew, the name “Samuel” sounds a bit like the word for “asked for” (sha’al). The name itself probably means “name of God” or “God has heard.” Every time Hannah calls her son, she is reminded: God has answered my prayer.
 
 ---

@@ -16,7 +16,6 @@ to give it as an offering to the LORD in front of the LORD’s tabernacle,
 then that man is guilty of blood.
 He has shed blood.
 That man shall be cut off from his people.
-Cut off means: He no longer belongs to the people of God.
 [5] This rule is there so that the people of Israel bring their sacrifices to the LORD.
 Until now they have sacrificed them out in the open field.
 Now they shall bring them to the door of the Tent of Meeting, to the priest.
@@ -35,6 +34,7 @@ might offer a burnt offering or another sacrifice.
 then that man shall be cut off from his people.
 
 > **What does this mean?**
+> Verse 4: “Cut off from his people” means: He no longer belongs to the people of God.
 > In the wilderness, everyone lived close to the holy tent. If someone wanted to kill a bull, a sheep, or a goat, he was to bring it to the holy tent as a peace offering. So every meal with meat became a meal with God.
 > Back then, many people believed in spirits in the wilderness that looked like male goats. Our English source text says “goat idols.” That means idols in the shape of a goat. Some Israelites secretly made sacrifices to these spirits. That is to stop.
 > Later, when Israel lived in the whole land, people were also allowed to kill animals at home (Deuteronomy 12:15–16). But they were still not allowed to eat the blood.
@@ -50,7 +50,6 @@ Then I will turn against that person who eats blood.
 I will cut him off from his people.
 [11] For the life of the body is in the blood.
 I have given it to you on the altar, to make atonement for your lives.
-Atonement means: the guilt is taken away, and there is peace with God again.
 For it is the blood that makes atonement, because the life is in it.
 [12] That is why I have said to the people of Israel,
 “No one among you may eat blood.
@@ -68,6 +67,7 @@ For the life of every living body is its blood.
 Whoever eats it shall be cut off.”
 
 > **What does this mean?**
+> Verse 11: Atonement means: The guilt is taken away, and there is peace with God again.
 > Verse 11 is one of the most important verses about the sacrifices: “For the life of the body is in the blood.” The blood stands for life. And life belongs to God, not to people.
 > That is why the blood is so important in the sacrifices: One life is given for another life. That is how atonement happens.
 > Even someone who hunts an animal is to honor the blood. He is to cover it with dust, almost like a burial. That shows respect for the life of the animal.

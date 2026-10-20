@@ -45,7 +45,7 @@ for you are a family redeemer.”
 > **What does this mean?**
 > Ruth does what Naomi said. But then she herself says something that Naomi had not said: She asks Boaz quite directly.
 > “Spread the corner of your garment over me” was a request for marriage. It means: Take me under your protection. Take me as your wife (compare Ezekiel 16:8).
-> The Hebrew word for “corner” is the same word as “wing.” In Chapter 2:12, Boaz had said: You have come to take refuge under the wings of the LORD. Now Ruth says: Then you be the answer to your own prayer. Spread your wings over me. God often helps through people.
+> The Hebrew word for “corner” is the same word as “wing.” In Ruth 2:12, Boaz had said: You have come to take refuge under the wings of the LORD. Now Ruth says: Then you be the answer to your own prayer. Spread your wings over me. God often helps through people.
 > “You are a family redeemer”: The Hebrew word here is “go’el.” Ruth reminds Boaz of his responsibility for the family of Elimelech.
 
 ---
@@ -71,7 +71,7 @@ Lie down until morning.”
 
 > **What does this mean?**
 > Boaz is probably much older than Ruth. He praises her: You could have married a young man. But you are thinking of the family of your dead husband and of Naomi. That is even greater kindness (chesed) than your faithfulness at the beginning.
-> “A woman of noble character” is the same expression in Hebrew as in Proverbs 31:10, which asks who can find such a woman. In the Hebrew Bible, the book of Ruth often comes right after the book of Proverbs. Ruth is like a living example of this woman. And in Chapter 2:1, Boaz was described with a similar word. The two are a good match.
+> “A woman of noble character” is the same expression in Hebrew as in Proverbs 31:10, which asks who can find such a woman. In the Hebrew Bible, the book of Ruth often comes right after the book of Proverbs. Ruth is like a living example of this woman. And in Ruth 2:1, Boaz was described with a similar word. The two are a good match.
 > Boaz is honest: There is another man who has the first right. Boaz does not want to do anything behind his back. He wants to settle everything properly and openly.
 
 ---
@@ -101,5 +101,5 @@ For the man will not rest until he has settled this today.”
 > **What does this mean?**
 > Ruth leaves in the dark, so that no false gossip about her arises. Boaz protects her good name.
 > The text does not say how big a “measure” was. It was probably an amount that a woman could still carry.
-> “Don’t go back … empty-handed”: In Chapter 1:21, Naomi had said: “The LORD has brought me home again empty.” Now the emptiness is being filled step by step. The barley is like a promise: Soon more will come.
+> “Don’t go back … empty-handed”: In Ruth 1:21, Naomi had said: “The LORD has brought me home again empty.” Now the emptiness is being filled step by step. The barley is like a promise: Soon more will come.
 > At the end, Ruth has to wait. Sometimes you yourself cannot do anything more, only trust.

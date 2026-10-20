@@ -78,7 +78,6 @@ And kill every woman who has slept with a man.
 [19] “Camp outside the camp for seven days.
 Everyone who has killed a person, and everyone who has touched someone who was killed,
 must purify himself on the third day and on the seventh day, you and your captives.
-To purify means: to make clean before God.
 [20] You must purify every piece of clothing,
 everything made of leather, everything made of goats’ hair,
 and all things made of wood.”
@@ -93,6 +92,7 @@ And everything that cannot stand the fire, you must pass through the water.
 After that you may come into the camp.”
 
 > **What does this mean?**
+> Verse 19: To purify means: to make clean before God.
 > Even someone who has killed in war becomes unclean. He may not simply go back into the camp and before God. He needs seven days and a cleansing.
 > This shows: Even a war that was thought to be necessary is not something that simply passes. Killing leaves marks. Later King David was not allowed to build the temple, because he had shed so much blood (1 Chronicles 22:8).
 > Metal is cleansed by fire, other things by water.
@@ -110,7 +110,6 @@ and one for the whole community.
 [28] From the soldiers who went into battle, collect a tax for the LORD:
 one out of every 500, from the people, from the cattle, from the donkeys and from the flocks.
 [29] Take it from their half and give it to Eleazar the priest, as a wave offering for the LORD.
-A wave offering is a gift that is lifted up before God.
 [30] From the half of the people of Israel, you must take one out of every 50,
 from the people, from the cattle, from the donkeys, from the flocks, from all the livestock.
 Give them to the Levites, who do the work at the LORD’s tabernacle.”
@@ -141,6 +140,7 @@ He gave them to the Levites, who did the work at the LORD’s tabernacle,
 as the LORD had commanded Moses.
 
 > **What does this mean?**
+> Verse 29: A wave offering is a gift that is lifted up before God.
 > The plunder is divided fairly: The 12,000 soldiers get half, and the whole people get the other half. That way, those who stayed at home also get something.
 > From both halves, a part goes to God, that is, to the priests and Levites.
 > The numbers are very exact. You can check them: 675 is exactly one five-hundredth of 337,500, and so on. The math works out.
@@ -158,7 +158,6 @@ the commanders of thousands and the commanders of hundreds, came to Moses.
 Not a single man of us is missing.
 [50] So we have brought an offering for the LORD, what each man found:
 gold jewelry, armbands, bracelets, signet rings, earrings and necklaces.
-A signet ring is a ring with a seal that is used like a signature.
 We bring it to make atonement for ourselves before the LORD.”
 Atonement means: putting things right again between God and people.
 [51] Moses and Eleazar the priest took the gold from them, all of it finely made jewelry.
@@ -171,6 +170,7 @@ They brought it into the Tent of Meeting,
 as a reminder for the people of Israel before the LORD.
 
 > **What does this mean?**
+> Verse 50: A signet ring is a ring with a seal that is used like a signature.
 > A shekel is about 0.4 ounces. So 16,750 shekels of gold weighed about 420 pounds.
 > Not a single soldier died in the war. The officers see this as a miracle and thank God with a large gift.
 > “To make atonement for ourselves”: Maybe they feel that they have taken guilt on themselves by killing. They want to be made clean again before God.

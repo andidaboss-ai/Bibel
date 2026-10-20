@@ -14,7 +14,6 @@ If the person with leprosy is healed from the disease of leprosy,
 [4] then the priest shall command them to take for the one who is to be cleansed
 two living clean birds,
 and cedar wood, scarlet cloth and hyssop.
-Scarlet is a bright red color.
 [5] The priest shall command them to kill one of the birds
 in a clay pot over running water.
 [6] He shall take the living bird,
@@ -26,6 +25,7 @@ and declare him clean.
 And he shall let the living bird fly away into the open field.
 
 > **What does this mean?**
+> Verse 4: Scarlet is a bright red color.
 > God heals. The priest only makes sure that the healing has happened. He goes out of the camp to the sick person. He does not wait until the sick person comes to him.
 > “Running water” is fresh, living water from a spring or a stream, not water that stands still.
 > Hyssop is a small plant with many branches. It was good for sprinkling. Cedar wood is a wood that does not rot. The red cloth is a reminder of blood, that is, of life.

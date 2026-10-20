@@ -9,7 +9,6 @@
 [2] “This is the rule of the law that the LORD has commanded:
 Tell the people of Israel to bring you a red young cow,
 without spot and without defect, which has never worn a yoke.
-A yoke is a wooden frame that animals wear on their necks when they pull a plow.
 [3] You shall give her to Eleazar the priest.
 He shall lead her outside the camp.
 And she shall be killed in front of him.
@@ -19,7 +18,6 @@ and sprinkle her blood seven times toward the front of the Tent of Meeting.
 her skin, her meat, and her blood, together with her dung, shall be burned.
 [6] The priest shall take cedar wood, hyssop, and red yarn
 and throw them into the middle of the fire where the cow is burning.
-Hyssop is a small plant with many thin branches.
 
 [7] “Then the priest shall wash his clothes and bathe his body in water.
 After that he may come into the camp.
@@ -37,6 +35,8 @@ This shall be a rule forever for the people of Israel
 and for the foreigner who lives among them.
 
 > **What does this mean?**
+> Verse 2: A yoke is a wooden frame that animals wear on their necks when they pull a plow.
+> Verse 6: Hyssop is a small plant with many thin branches.
 > Whoever touches a dead person becomes unclean. That happened all the time in the wilderness, because many people died there. That is why a way of cleansing is needed.
 > A red young cow without defect is burned. Her ashes are mixed with water. With this water, people who have touched a dead person are cleansed.
 > Red is the color of blood and of life. The cedar wood and the red yarn also stand for life. The remedy against death is a sign of life.

@@ -23,7 +23,6 @@ your homes, Israel!
 like gardens by the riverside,
 like aloe trees that the LORD has planted,
 like cedar trees beside the waters.
-Aloe trees and cedar trees are trees that smell sweet and grow tall.
 [7] Water will flow from his buckets.
 His seed will be in many waters.
 His king will be greater than Agag.
@@ -39,6 +38,7 @@ Everyone who blesses you is blessed.
 Everyone who curses you is cursed.”
 
 > **What does this mean?**
+> Verse 6: Aloe trees and cedar trees are trees that smell sweet and grow tall.
 > This time Balaam does not even try to achieve something with magic. He simply looks at Israel. And God’s Spirit comes on him.
 > “How beautiful are your tents, Jacob” – in Hebrew, “Mah tovu.” With these words, Jews to this day begin their morning prayer when they enter the synagogue. The words of a foreign seer who wanted to curse have become a prayer.
 > Israel is compared to a garden in bloom by the water. In the desert, water is the most precious thing. A people that God has blessed is like an oasis.
@@ -86,7 +86,6 @@ who falls down and has his eyes open:
 I see him, but not near.
 A star will come out of Jacob.
 A scepter will rise out of Israel.
-A scepter is the staff of a king.
 It will strike through the corners of Moab,
 and it will crush all the sons of Sheth.
 [18] Edom will become his property.
@@ -96,6 +95,7 @@ while Israel acts bravely.
 He will destroy those who are left from the city.”
 
 > **What does this mean?**
+> Verse 17: A scepter is the staff of a king.
 > This is a prophecy about the distant future: “I see him, but not now.”
 > A “star” and a “scepter” are signs of a king. Many people have thought of King David here. Later he defeated Moab and Edom (2 Samuel 8:2, 14).
 > Later the verse was taken to speak about the Messiah, the Savior people were waiting for. In the year 132 AD, a Jewish leader who fought against the Romans was called “Bar Kokhba.” That means “son of the star.” The name came from this verse.

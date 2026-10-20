@@ -9,7 +9,6 @@
 [2] “Speak to the people of Israel and tell them,
 ‘When any man has a discharge from his body,
 he is unclean because of his discharge.
-A discharge is a fluid that flows out of the body.
 [3] This is his uncleanness because of his discharge:
 Whether his body lets the discharge run, or his body holds it back,
 it is his uncleanness.
@@ -33,6 +32,7 @@ that person shall wash his clothes and bathe himself in water, and he will be un
 And every container made of wood shall be rinsed with water.
 
 > **What does this mean?**
+> Verse 2: A discharge is a fluid that flows out of the body.
 > This chapter is about fluids that come from the sexual organs. This is a very personal subject. The Bible speaks about it openly.
 > First it means a discharge in a man that comes from illness, for example from an infection.
 > Many of these rules protect against infection: The sick person’s bed, saddle and dishes are cleaned. Whoever touches him washes himself. And the sick person should wash his hands before he touches others (verse 11). This is a very good rule of hygiene, thousands of years before people knew about bacteria.
@@ -58,13 +58,13 @@ So the priest shall make atonement for him before the LORD because of his discha
 
 [16] “‘If a man has a release of semen,
 he shall bathe his whole body in water, and he will be unclean until the evening.
-Semen is the fluid that comes out of a man’s penis.
 [17] Every piece of clothing and every piece of leather that has semen on it
 shall be washed with water, and it will be unclean until the evening.
 [18] If a man sleeps with a woman and there is a release of semen,
 they shall both bathe themselves in water, and they will be unclean until the evening.
 
 > **What does this mean?**
+> Verse 16: Semen is the fluid that comes out of a man’s penis.
 > A release of semen is completely natural. Love between a man and a woman is good too. The Bible has a whole book that celebrates love: the Song of Songs.
 > Still, afterward a person counts as unclean until the evening. This only means: A person should not go into the holy tent right afterward. Sexuality and worship should be kept apart. Among Israel’s neighbors, there were religions in which sex played a part in the temple. That was not supposed to happen in Israel.
 > The uncleanness only lasts until the evening. You bathe, and then everything is fine again.

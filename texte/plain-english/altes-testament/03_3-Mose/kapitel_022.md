@@ -110,9 +110,9 @@ They will not be accepted for you.’”
 it shall stay with its mother for seven days.
 From the eighth day on, it will be accepted as an offering by fire to the LORD.
 [28] You shall not kill a cow or a ewe on the same day as its young.
-A ewe is a female sheep.
 
 > **What does this mean?**
+> Verse 28: A ewe is a female sheep.
 > Here the Bible shows compassion for the animals. A newborn animal is to be allowed to stay with its mother for a week. And mother and young are not to be killed on the same day.
 > Animals are also creatures of God. They are not to be treated cruelly, even when people eat them or offer them.
 

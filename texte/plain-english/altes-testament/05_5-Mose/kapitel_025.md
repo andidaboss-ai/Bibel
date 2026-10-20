@@ -3,7 +3,7 @@
 
 ---
 
-## No more than forty blows (Verses 1–3)
+## No more than 40 blows (Verses 1–3)
 
 [1] Suppose there is a quarrel between men,
 and they come to court, and the judges judge them.
@@ -13,15 +13,15 @@ and they shall declare the wicked person guilty.
 then the judge shall have him lie down,
 and he shall have him beaten while the judge watches.
 The number of blows shall match his guilt.
-[3] The judge may sentence him to no more than forty blows.
+[3] The judge may sentence him to no more than 40 blows.
 He shall not give more.
 If he gives him more blows than that,
 then your brother will be put to shame in front of you.
 
 > **What does this mean?**
 > Physical punishment was common back then. Today we reject it, because it hurts a person’s dignity.
-> But even here the Bible sets a limit: Never more than forty blows. And the judge must be there, so that no one goes too far. The reason is remarkable: The person who is punished is still “your brother.” He must not be put to shame.
-> Later, to be on the safe side, Jews gave only 39 blows, so that they would never go over the limit. Paul tells that five times he was given forty blows minus one (2 Corinthians 11:24).
+> But even here the Bible sets a limit: Never more than 40 blows. And the judge must be there, so that no one goes too far. The reason is remarkable: The person who is punished is still “your brother.” He must not be put to shame.
+> Later, to be on the safe side, Jews gave only 39 blows, so that they would never go over the limit. Paul tells that on 5 occasions he was given 40 blows minus 1 (2 Corinthians 11:24).
 
 ---
 

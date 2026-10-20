@@ -86,7 +86,7 @@ Then the LORD was deeply grieved by Israel’s misery.
 They set up camp in Gilead.
 The people of Israel also came together.
 They set up camp in Mizpah.
-[18] The people and the leaders of Gilead said to one another,
+[18] The people, the leaders of Gilead, said to one another,
 “Who will be the first to fight against the people of Ammon?
 That man will be the head over everyone who lives in Gilead.”
 

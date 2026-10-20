@@ -11,13 +11,13 @@ This book gives the answer. It explains the offerings, the work of the priests, 
 The most important sentence of the book is: “You shall be holy, because I, the LORD your God, am holy” (Leviticus 19:2).
 Here we also find the commandment that Jesus later names as one of the two most important commandments: “Love your neighbor as yourself” (Leviticus 19:18).
 Many things in this book seem strange to us today: animal offerings, blood, rules about food and illnesses. The explanations help us understand them.
-The temple in Jerusalem was destroyed in the year 70 after Christ. Since then, Jews no longer bring animal offerings. In their place have come prayer, learning the Torah and good deeds. Christians believe that Jesus, through his death, brought the last and perfect offering (Hebrews 10:10–14).
+The temple in Jerusalem was destroyed in AD 70. Since then, Jews no longer bring animal offerings. In their place have come prayer, learning the Torah and good deeds. Christians believe that Jesus, through his death, brought the last and perfect offering (Hebrews 10:10–14).
 
 ---
 
 ## The burnt offering from cattle (Verses 1–9)
 
-[1] The LORD called Moses and spoke to him from the Tent of Meeting. He said,
+[1] The LORD called to Moses and spoke to him from the Tent of Meeting. He said,
 [2] “Speak to the people of Israel and tell them,
 ‘When any of you brings an offering to the LORD,
 you shall bring your offering from the livestock, from the cattle or from the sheep and goats.
@@ -28,7 +28,6 @@ He shall bring it to the door of the Tent of Meeting,
 so that he is accepted before the LORD.
 [4] He shall lay his hand on the head of the burnt offering.
 Then it will be accepted for him, to make atonement for him.
-To make atonement means: to take away guilt, so that a person can be at peace with God again.
 [5] He shall kill the bull before the LORD.
 Aaron’s sons, the priests, shall bring the blood
 and sprinkle the blood all around on the altar that stands at the door of the Tent of Meeting.
@@ -46,6 +45,7 @@ It is a burnt offering, an offering made by fire, a pleasant smell to the LORD.
 > The burnt offering is the first offering that is described. The whole animal is burned. None of it is eaten. It is a sign: I give myself completely to God.
 > The animal must be “without any fault,” that is, healthy and without injury. You do not give God the worst. You give him the best.
 > The person who brings the offering lays his hand on the animal’s head. That means: This animal stands for me.
+> Verse 4: To make atonement means: to take away guilt, so that a person can be at peace with God again.
 > Interesting: The person who brings the offering kills the animal himself. The priest takes care of the blood and the altar.
 > “A pleasant smell to the LORD” is a picture: God is glad to accept the offering.
 
@@ -75,13 +75,13 @@ he shall bring his offering from the turtledoves or from the young pigeons.
 [15] The priest shall bring it to the altar, twist off its head and burn it on the altar.
 Its blood shall be drained out on the side of the altar.
 [16] He shall take away its crop and its feathers.
-The crop is a pouch in the bird’s throat where food is stored.
 He shall throw it beside the altar, on the east side, in the place for the ashes.
 [17] He shall tear it open by its wings, but he shall not divide it completely.
 The priest shall burn it on the altar, on the wood that is on the fire.
 It is a burnt offering, an offering made by fire, a pleasant smell to the LORD.
 
 > **What does this mean?**
+> Verse 16: The crop is a pouch in the bird’s throat where food is stored.
 > People who were very poor could bring doves. So everyone could bring an offering, no matter how much money they had.
 > Three times the end is the same: “a pleasant smell to the LORD” – for the bull, for the sheep and for the dove. To God, the small dove of a poor person is worth just as much as the bull of a rich person.
 > Mary and Joseph were poor too. When Jesus was born, they brought two doves as an offering in the temple (Luke 2:24).

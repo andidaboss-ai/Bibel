@@ -12,7 +12,6 @@ He said,
 Then the land shall keep a Sabbath for the LORD.
 [3] For six years you shall sow seed in your field.
 For six years you shall prune your vineyard and gather in its fruit.
-To prune means: to cut back the branches.
 [4] But in the seventh year the land shall have a Sabbath, a time of complete rest, a Sabbath for the LORD.
 You shall not sow your field.
 You shall not prune your vineyard.
@@ -26,6 +25,7 @@ and for the stranger who lives as a foreigner with you.
 and for the animals that live in your land.
 
 > **What does this mean?**
+> Verse 3: To prune means: to cut back the branches.
 > People rest every seventh day. In the same way, the land shall rest every seventh year. Nobody sows, and nobody harvests.
 > This is good for the soil. It can recover. Modern farmers know: If you always use a field, the soil gets worn out.
 > But it is about even more: The land belongs to God. In this year, what grows by itself belongs to everyone equally. The owner, the servant, the stranger and even the wild animals may eat from it. For one year, everyone is equal.
@@ -39,9 +39,7 @@ The time of seven Sabbath years shall be 49 years for you.
 [9] Then you shall have the loud trumpet sounded on the tenth day of the seventh month.
 On the Day of Atonement you shall sound the trumpet throughout all your land.
 [10] You shall make the fiftieth year holy.
-Holy means: It belongs to God in a special way.
 And you shall proclaim liberty throughout the land to all its inhabitants.
-That means: You shall announce freedom for all the people who live in the land.
 It shall be a jubilee for you.
 Each of you shall go back to his own property.
 And each of you shall go back to his family.
@@ -54,6 +52,8 @@ You shall eat what the field gives by itself.
 [13] In this Year of Jubilee each of you shall go back to his property.
 
 > **What does this mean?**
+> Verse 10: Holy means: It belongs to God in a special way.
+> Verse 10: “Proclaim liberty throughout the land to all its inhabitants” means: Announce freedom for all the people who live in the land.
 > After seven times seven years comes the fiftieth year, the “Year of Jubilee.” The name comes from the Hebrew word “yobel.” That is the ram’s horn that is blown on this day.
 > In the Year of Jubilee, everything goes back to how it was at the beginning. Whoever had to sell his land gets it back. Whoever had to sell himself as a servant becomes free. Every family gets a new beginning.
 > So a few rich people could not keep getting richer and buy up all the land while others stayed poor forever. Every 50 years, the inequality was balanced out again.
@@ -167,7 +167,6 @@ For it is their property forever.
 Then you shall help him.
 He shall live with you like a foreigner and a guest.
 [36] Take no interest from him and no profit.
-Interest means: extra money that someone has to pay back on top of a loan.
 But fear your God, so that your brother can live among you.
 [37] You shall not lend him your money for interest.
 And you shall not give him your food for profit.
@@ -176,6 +175,7 @@ I brought you out of the land of Egypt
 to give you the land of Canaan and to be your God.
 
 > **What does this mean?**
+> Verse 36: Interest means: extra money that someone has to pay back on top of a loan.
 > Whoever is poor and needs help shall be helped without anyone making money from it. Whoever lends money to a poor person shall not take any interest.
 > Back then, people usually did not borrow money to do business. They borrowed because they were in need and had nothing to eat. You shall not make money from someone else’s need.
 > In the Middle Ages, Christians and Jews concluded from this that interest is forbidden. Islam also forbids interest. Today this passage is mainly understood like this: Do not take advantage of other people’s need.

@@ -10,7 +10,6 @@ He said:
 [2] “Command the people of Israel to send out of the camp
 everyone who has leprosy, everyone who has a discharge,
 and everyone who has become unclean by touching a dead body.
-Leprosy here means: a serious skin disease.
 [3] You shall send out both men and women. Send them outside the camp,
 so that they do not make their camp unclean. I live in the middle of it.”
 [4] The people of Israel did this and sent them outside the camp.
@@ -19,6 +18,7 @@ As the LORD had told Moses, so the people of Israel did.
 > **What does this mean?**
 > God lives in the middle of the camp. That is why the camp shall be clean. Whoever is unclean has to stay outside for a while, until he is clean again.
 > This also protected people from diseases that spread easily. But for those who were affected, it was a hard time. The rules for skin diseases and discharges are in Leviticus 13–15.
+> Verse 2: Leprosy here means: a serious skin disease.
 
 ---
 
@@ -38,7 +38,6 @@ He shall give it to the person he has wronged.
 Then the payment for the guilt is made to the LORD.
 It belongs to the priest.
 This is in addition to the ram of atonement, with which atonement is made for the guilty person.
-Atonement means: the guilt is taken away, and there is peace with God again.
 [9] Every offering that is lifted up from all the holy gifts that the people of Israel bring to the priest shall be his.
 [10] The holy gifts of every person shall belong to the priest.
 Whatever anyone gives to the priest shall be his.’”
@@ -47,6 +46,7 @@ Whatever anyone gives to the priest shall be his.’”
 > This adds to Leviticus 6:1–7. Whoever has harmed someone else shall openly confess his guilt, pay back the damage and add 20 percent.
 > What is new here: What if the person who was harmed has died and has no relatives? Then the priest gets the money. Making things right does not stop just because the person is no longer there.
 > Whoever harms a person is also “unfaithful to the LORD.” Wrong done to people is also wrong done to God.
+> Verse 8: Atonement means: the guilt is taken away, and there is peace with God again.
 
 ---
 
@@ -69,7 +69,6 @@ and he is jealous of his wife, but she has not made herself unclean.
 And he shall bring her offering for her:
 about 2 quarts of barley flour.
 He shall not pour any oil on it or put any frankincense on it.
-Frankincense is a sweet-smelling resin that is burned.
 For it is a grain offering of jealousy,
 a grain offering of remembering that brings guilt to remembrance.
 
@@ -78,6 +77,7 @@ a grain offering of remembering that brings guilt to remembrance.
 > This is about a case that is hard for us to read today. A man suspects that his wife has cheated on him. But there is no proof and there are no witnesses.
 > Verse 14 says clearly: Maybe she really has committed adultery. But maybe the man is only jealous without a reason. Both are possible.
 > Back then, a jealous man could cause his wife a lot of suffering. He could send her away or even use violence. This procedure takes the matter out of his hands. He may not judge her himself. He must bring the woman to the priest. There, God decides.
+> Verse 15: Frankincense is a sweet-smelling resin that is burned.
 
 ---
 

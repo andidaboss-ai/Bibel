@@ -1,5 +1,5 @@
 # Deuteronomy – Chapter 27
-### The law on stones – twelve curses at Mount Ebal
+### The law on stones – 12 curses at Mount Ebal
 
 ---
 
@@ -62,12 +62,12 @@ Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
 and say to all the men of Israel:
 
 > **What does this mean?**
-> The twelve tribes divide up onto two mountains that face each other. Between them lies a valley. You can imagine the voices echoing from one mountain to the other.
+> The 12 tribes divide up onto two mountains that face each other. Between them lies a valley. You can imagine the voices echoing from one mountain to the other.
 > The tribes on the mountain of blessing come from Jacob’s wives Leah and Rachel. On the mountain of the curse stand mainly the tribes that come from the servant women Zilpah and Bilhah, along with Reuben and Zebulun.
 
 ---
 
-## The twelve curses (Verses 15–26)
+## The 12 curses (Verses 15–26)
 
 [15] ‘Cursed is the man who makes a carved or a cast idol
 and sets it up in secret.

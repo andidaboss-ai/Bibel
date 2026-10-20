@@ -11,7 +11,6 @@
 she shall be unclean for seven days.
 She shall be unclean as in the days of her monthly period.
 [3] On the eighth day, the flesh of the boy’s foreskin shall be circumcised.
-To circumcise means: to cut off the foreskin of the penis.
 [4] Then she shall stay in the blood of her cleansing for 33 more days.
 She shall not touch anything holy, and she shall not come into the holy place,
 until the days of her cleansing are over.
@@ -20,6 +19,7 @@ she shall be unclean for two weeks, as in her period.
 And then she shall stay in the blood of her cleansing for 66 more days.
 
 > **What does this mean?**
+> Verse 3: To circumcise means: to cut off the foreskin of the penis.
 > After giving birth, a woman keeps bleeding for a few weeks. In the Bible, blood stands for life. That is why a person is seen as “unclean” when blood flows out of the body.
 > Important: “Unclean” does not mean dirty or sinful. Giving birth is not a sin. Children are a blessing from God (Psalm 127:3). It only means: For a while, the woman should not go into the holy tent.
 > This was also a protection. The mother had time to recover and did not have to do any religious duties.

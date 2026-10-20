@@ -8,7 +8,7 @@
 [1] Be careful to do all the commandments that I command you today,
 so that you may live and become many,
 and go in and take as your own the land that the LORD swore to your ancestors.
-[2] Remember the whole way that the LORD your God has led you these forty years in the wilderness.
+[2] Remember the whole way that the LORD your God has led you these 40 years in the wilderness.
 He wanted to make you humble and to test you.
 He wanted to know what was in your heart:
 whether you would keep his commandments or not.
@@ -18,7 +18,7 @@ With this he wanted to teach you:
 Man does not live by bread alone.
 Man lives by every word that comes out of the LORD’s mouth.
 [4] Your clothes did not wear out on you,
-and your feet did not swell, these forty years.
+and your feet did not swell, these 40 years.
 [5] So understand in your heart:
 As a man trains and corrects his son, so the LORD your God trains and corrects you.
 [6] Keep the commandments of the LORD your God.

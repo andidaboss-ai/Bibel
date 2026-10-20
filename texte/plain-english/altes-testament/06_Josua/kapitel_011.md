@@ -29,7 +29,8 @@ They came and camped together at the waters of Merom, to fight against Israel.
 
 [6] The LORD said to Joshua,
 “Don’t be afraid of them.
-For tomorrow at this time I will give them all over to Israel, killed.
+For tomorrow at this time I will hand them all over to Israel,
+and they will all be killed.
 You must hamstring their horses and burn their chariots with fire.”
 To hamstring means: to cut a tendon in the leg, so that the horse can no longer run.
 [7] So Joshua came on them suddenly with all the warriors, at the waters of Merom, and attacked them.
@@ -69,7 +70,7 @@ He left nothing undone of all that the LORD had commanded Moses.
 
 > **What does this mean?**
 > “Cities on their hills”: Old cities were built again and again on the ruins of the earlier cities. This made hills that today are called a “tell.”
-> In Hazor, archaeologists have found a thick layer of ash from the time around 1200 before Christ. But who destroyed the city at that time is disputed.
+> In Hazor, archaeologists have found a thick layer of ash from the time around 1200 BC. But who destroyed the city at that time is disputed.
 > Here too: The reports of the destruction of whole cities are hard to bear. They belong to their time and must never justify violence.
 
 ---
@@ -114,5 +115,5 @@ Then the land had rest from war.
 > **What does this mean?**
 > The Anakim were the “giants” that the spies were so afraid of 40 years earlier (Numbers 13:33). Now they are defeated.
 > Some remained in Gath. Later, the giant Goliath, whom David defeated, came from Gath (1 Samuel 17:4).
-> “The whole land”: This is a summary. Right in Chapter 13 it says that very much land is still left. The narrator means: The great battles are over, the most important areas belong to Israel.
+> “The whole land”: This is a summary. Soon after, in Chapter 13, it says that very much land is still left. The narrator means: The great battles are over, the most important areas belong to Israel.
 > “The land had rest from war”: Peace at last. Now the land can be divided.

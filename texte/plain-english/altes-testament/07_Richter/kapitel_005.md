@@ -28,7 +28,7 @@ even Sinai, in front of the LORD, the God of Israel.
 
 ## The hard times before the victory (Verses 6–11)
 
-[6] In the days of Shamgar the son of Anath,
+[6] “In the days of Shamgar the son of Anath,
 in the days of Jael,
 the main roads were empty.
 Travelers walked on winding side paths.
@@ -58,7 +58,7 @@ Then the people of the LORD went down to the gates.
 
 ## Who came to the battle, and who did not? (Verses 12–18)
 
-[12] ‘Wake up, wake up, Deborah!
+[12] “‘Wake up, wake up, Deborah!
 Wake up, wake up, sing a song!
 Get up, Barak, and lead away your captives, you son of Abinoam!’
 [13] Then the rest of the nobles and the people came down.
@@ -91,7 +91,7 @@ and Naphtali too, on the high places of the field.
 
 ## The battle (Verses 19–23)
 
-[19] The kings came and fought.
+[19] “The kings came and fought.
 Then the kings of Canaan fought at Taanach, by the waters of Megiddo.
 But they took no silver as plunder.
 [20] From the sky the stars fought.
@@ -115,7 +115,7 @@ to help the LORD against the mighty.’
 
 ## Blessed is Jael (Verses 24–27)
 
-[24] Jael shall be blessed above women,
+[24] “Jael shall be blessed above women,
 the wife of Heber the Kenite.
 She shall be blessed above women in the tent!
 [25] He asked for water, she gave him milk.
@@ -138,7 +138,7 @@ Where he bowed, there he fell down dead.
 
 ## Sisera’s mother waits (Verses 28–30)
 
-[28] Through the window she looked out and cried,
+[28] “Through the window she looked out and cried,
 Sisera’s mother, through the lattice:
 ‘Why is his chariot so long in coming?
 Why are the wheels of his chariots so slow?’
@@ -161,7 +161,7 @@ for the necks of those who take the plunder?’
 
 ## The end (Verse 31)
 
-[31] So let all your enemies die, LORD!
+[31] “So let all your enemies die, LORD!
 But let those who love him be like the sun when it rises in its strength.”
 And the land had rest for forty years.
 

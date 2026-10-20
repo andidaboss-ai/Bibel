@@ -11,11 +11,11 @@ made from crushed olives, for the light,
 so that a lamp burns all the time.
 [3] Aaron shall keep it burning in the Tent of Meeting,
 outside the curtain in front of the Testimony, from evening to morning, before the LORD, all the time.
-The Testimony is the tablets with God’s covenant written on them.
 This is a rule forever, for all your generations.
 [4] He shall keep the lamps on the lampstand of pure gold in order before the LORD, all the time.
 
 > **What does this mean?**
+> Verse 3: The Testimony is the tablets with God’s covenant written on them.
 > This was already commanded in Exodus 27:20–21. Now it is repeated.
 > The light in the holy place is never to go out. It is a sign: God is always there, even at night. And his people are always to think of him.
 
@@ -27,7 +27,6 @@ This is a rule forever, for all your generations.
 Each loaf shall be made from about 4½ quarts of flour.
 [6] Set them in two rows, six in each row, on the table of pure gold before the LORD.
 [7] Put pure frankincense on each row.
-Frankincense is a sweet-smelling resin that is burned.
 It shall be a reminder part for the bread, an offering by fire to the LORD.
 [8] Every Sabbath day he shall set the bread in order before the LORD, all the time.
 It is a covenant forever on behalf of the people of Israel.
@@ -36,6 +35,7 @@ They shall eat it in a holy place.
 For it is most holy for him, from the LORD’s offerings by fire, as a rule forever.”
 
 > **What does this mean?**
+> Verse 7: Frankincense is a sweet-smelling resin that is burned.
 > The Bible says: two tenths of an ephah for each loaf. An ephah is about 6 gallons. These were large loaves.
 > This bread is called the “showbread.” There are twelve loaves, for the twelve tribes of Israel. They lie before God all the time. That way the whole people is always present before God.
 > Every week on the Sabbath, new bread is put there. The priests eat the old bread.

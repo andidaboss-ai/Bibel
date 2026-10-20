@@ -70,13 +70,13 @@ to you and to the foreigner who lives with you.’”
 you shall give a wave offering to the LORD.
 [20] From the first of your dough you shall give a flat loaf as a wave offering.
 You shall lift it up just like the wave offering from the threshing floor.
-A threshing floor is the place where the grain is separated from the stalks.
 [21] From the first of your dough you shall give a wave offering to the LORD, for all your generations.
 
 > **What does this mean?**
 > Every time people bake bread, they are to give a piece of the dough to God. That way, even with their daily bread, they think of the one who gives it.
 > To this day, many Jewish women take off a small piece of dough when they bake bread and burn it. This custom is called “taking challah.” That is also where the name “challah” for the Sabbath bread comes from.
 > In the Lord’s Prayer, Christians pray: “Give us today our daily bread” (Matthew 6:11).
+> Verse 20: A threshing floor is the place where the grain is separated from the stalks.
 
 ---
 

@@ -66,7 +66,7 @@ The earth swallowed them.
 ## God leads his people (Verses 13–18)
 
 [13] “In your faithful love, you have led the people that you have set free.
-In your strength you have guided them to your holy dwelling.
+In your strength you have guided them to the holy place where you live.
 [14] The peoples have heard it. They tremble.
 Pain has taken hold of the people who live in Philistia.
 [15] Then the chiefs of Edom were terrified.

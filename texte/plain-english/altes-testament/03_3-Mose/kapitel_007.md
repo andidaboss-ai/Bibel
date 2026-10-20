@@ -48,7 +48,6 @@ and cakes mixed with oil.
 [13] Together with the sacrifice of his peace offerings for thanks,
 he shall also bring cakes of bread made with yeast.
 [14] From these he shall bring one of each kind as a heave offering to the LORD.
-A heave offering is a gift that is lifted up for God.
 It shall belong to the priest who sprinkles the blood of the peace offerings.
 [15] The meat of the sacrifice of his peace offerings for thanks
 shall be eaten on the day he brings his offering.
@@ -56,7 +55,6 @@ He shall not leave any of it until the morning.
 
 [16] “‘But if the sacrifice he brings is for a vow, or is a freewill offering,
 it shall be eaten on the day he brings his sacrifice.
-A vow is a solemn promise to God.
 What is left of it may also be eaten on the next day.
 [17] But whatever is left of the meat of the sacrifice on the third day shall be burned with fire.
 [18] If any of the meat of the sacrifice of his peace offerings is eaten on the third day,
@@ -71,13 +69,15 @@ As for the other meat, everyone who is clean may eat it.
 [20] But if a person eats from the meat of the sacrifice of peace offerings that belongs to the LORD
 while he is unclean,
 that person shall be cut off from his people.
-That means: He no longer belongs to the people of God.
 [21] When anyone touches anything unclean –
 something unclean from a human being, or an unclean animal, or anything unclean and disgusting –
 and then eats some of the meat of the sacrifice of peace offerings that belongs to the LORD,
 that person shall be cut off from his people.’”
 
 > **What does this mean?**
+> Verse 14: A heave offering is a gift that is lifted up for God.
+> Verse 16: A vow is a solemn promise to God.
+> Verse 20: “Cut off from his people” means: He no longer belongs to the people of God.
 > People could bring the peace offering for three reasons: to thank God, to keep a promise they had made to God, or simply freely, out of joy.
 > With the thank offering there is a feast. The meat must be eaten on the same day. That means: You invite many guests – family, friends, poor people. You should share your joy about God’s help.
 > Interesting: Bread made with yeast is part of it here too. It is not burned on the altar. It is eaten at the feast.
@@ -116,7 +116,6 @@ shall bring his gift to the LORD from the sacrifice of his peace offerings.
 [30] He shall bring the LORD’s offerings made by fire with his own hands.
 He shall bring the fat together with the breast.
 The breast shall be waved before the LORD as a wave offering.
-That means: It is moved back and forth in front of the altar.
 [31] The priest shall burn the fat on the altar.
 But the breast shall belong to Aaron and his sons.
 [32] You shall give the right thigh to the priest as a heave offering from the sacrifices of your peace offerings.

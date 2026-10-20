@@ -213,7 +213,6 @@ The number of those counted was 45,400.
 
 [52] The LORD spoke to Moses. He said,
 [53] “The land is to be divided among these as their inheritance, by the number of names.
-An inheritance is land that a family receives and keeps for its children.
 [54] To a large tribe you must give a large inheritance.
 To a small tribe you must give a small inheritance.
 Each tribe is to receive its inheritance by the number of its people who were counted.
@@ -223,6 +222,7 @@ They will inherit by the names of the tribes of their ancestors.
 Casting lots was a way to decide something, a little like drawing straws.
 
 > **What does this mean?**
+> Verse 53: An inheritance is land that a family receives and keeps for its children.
 > At the first count, there were 603,550 men. Now there are 601,730. After 40 years in the wilderness, the people are almost the same size. God gave them children, even though the old generation died.
 > If you add up the numbers of the twelve tribes, you get exactly 601,730.
 > The land is divided in two ways: The size depends on the number of people. The lot decides which area a tribe gets. That way it is fair, and nobody can grab the best piece.

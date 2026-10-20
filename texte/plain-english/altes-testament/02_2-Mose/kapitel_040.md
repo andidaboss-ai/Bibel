@@ -57,7 +57,7 @@ as the LORD commanded Moses.
 He put the poles on the ark.
 And he put the mercy seat on top of the ark.
 [21] He brought the ark into the tabernacle.
-He hung up the veil that hides it, and so he hid the ark of the covenant,
+He hung up the veil as a screen, and so he screened off the ark of the covenant,
 as the LORD commanded Moses.
 
 [22] He put the table in the Tent of Meeting, on the north side of the tabernacle, outside the veil.

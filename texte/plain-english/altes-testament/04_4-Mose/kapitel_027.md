@@ -60,13 +60,13 @@ as the LORD commanded Moses.’”
 Look at the land that I have given to the people of Israel.
 [13] When you have seen it, you too will be gathered to your people,
 just as your brother Aaron was gathered.
-Being gathered to your people means: to die.
 [14] For when the community argued in the wilderness of Zin,
 you rebelled against my word.
 You did not honor me as holy at the waters in front of their eyes.”
 These are the waters of Meribah of Kadesh in the wilderness of Zin.
 
 > **What does this mean?**
+> Verse 13: Being gathered to your people means: to die.
 > God tells Moses that he will die. Moses may see the land, but not enter it. The reason is Moses’ mistake at the waters of Meribah (Chapter 20).
 > His death is told only at the end of the book of Deuteronomy (Chapter 34).
 

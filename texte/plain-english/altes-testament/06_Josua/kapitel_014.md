@@ -13,7 +13,7 @@ as the LORD had commanded through Moses,
 for the nine tribes and for the half-tribe.
 [3] For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan.
 But to the Levites he gave no inheritance among them.
-[4] For the children of Joseph were two tribes, Manasseh and Ephraim.
+[4] For the people of Joseph were two tribes, Manasseh and Ephraim.
 They gave the Levites no share in the land,
 except cities to live in, with their pasture lands for their livestock and for their property.
 [5] The people of Israel did as the LORD had commanded Moses, and they divided the land.
@@ -34,7 +34,7 @@ about me and about you.
 to spy out the land.
 I brought him back a report as it was in my heart.
 [8] But my brothers who went up with me made the hearts of the people melt with fear.
-But I followed the LORD my God completely.
+I, however, followed the LORD my God completely.
 [9] On that day Moses swore,
 ‘Surely the land where your foot has walked will be an inheritance for you and for your children forever,
 because you have followed the LORD my God completely.’
@@ -45,7 +45,7 @@ And now, look, I am 85 years old today.
 [11] I am still as strong today as I was on the day Moses sent me.
 As my strength was then, so is my strength now, for war, and for going out and coming in.
 [12] So now give me this hill country that the LORD spoke about on that day.
-For you heard on that day that the Anakim are there, with great, walled cities.
+For you heard on that day that the Anakim were there, with great, walled cities.
 Maybe the LORD will be with me, and I will drive them out, as the LORD said.”
 
 > **What does this mean?**

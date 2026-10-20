@@ -51,7 +51,7 @@ The LORD is his inheritance, as the LORD your God told him.)
 
 ## God listens once more (Verses 10–11)
 
-[10] I stayed on the mountain as the first time, forty days and forty nights.
+[10] I stayed on the mountain as the first time, 40 days and 40 nights.
 And the LORD listened to me that time too.
 The LORD did not want to destroy you.
 [11] The LORD said to me,
@@ -98,7 +98,7 @@ For you yourselves were foreigners in the land of Egypt.
 You shall hold on to him, and you shall swear by his name.
 [21] He is the one you praise, and he is your God,
 who has done for you these great and awesome things that your eyes have seen.
-[22] Your ancestors went down into Egypt with seventy people.
+[22] Your ancestors went down into Egypt with 70 people.
 And now the LORD your God has made you as many as the stars in the sky.
 
 > **What does this mean?**
@@ -106,4 +106,4 @@ And now the LORD your God has made you as many as the stars in the sky.
 > God cannot be bribed. With him it does not matter who is rich or powerful.
 > Verse 19 is one of the most important commandments in the Bible: “So you too shall love the foreigner.” The reason: You yourselves were foreigners. You know what it feels like. This commandment is just as important today as it was back then.
 > “Lord of lords”: In the book of Revelation, this title is used for Jesus (Revelation 19:16).
-> There were seventy people at the beginning (Genesis 46:27). Now there is a great people. God has kept his promise to Abraham.
+> There were 70 people at the beginning (Genesis 46:27). Now there is a great people. God has kept his promise to Abraham.

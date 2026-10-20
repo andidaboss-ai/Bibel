@@ -12,7 +12,6 @@ my food for my offerings made by fire, as a pleasant smell to me.’
 [3] And tell them,
 ‘This is the offering made by fire that you must bring to the LORD:
 two male lambs one year old without any defect, every day, as a regular burnt offering.
-A burnt offering is an offering that is burned completely on the altar.
 [4] You must offer one lamb in the morning,
 and you must offer the other lamb in the evening.
 [5] With it, bring about 2 quarts of fine flour as a grain offering,
@@ -21,12 +20,13 @@ mixed with about 1 quart of oil from crushed olives.
 as a pleasant smell, an offering made by fire to the LORD.
 [7] Its drink offering is to be about 1 quart for each lamb.
 In the holy place, you must pour out a drink offering of strong drink to the LORD.
-A drink offering is wine or another drink that is poured out for God.
 [8] You must offer the other lamb in the evening.
 Offer it like the grain offering of the morning and like its drink offering,
 as an offering made by fire, a pleasant smell to the LORD.
 
 > **What does this mean?**
+> Verse 3: A burnt offering is an offering that is burned completely on the altar.
+> Verse 7: A drink offering is wine or another drink that is poured out for God.
 > In the Bible the measures are given like this: one tenth of an ephah of flour, and a fourth of a hin of oil and of wine. An ephah is about 6 gallons. A hin is about 1 gallon.
 > Chapters 28 and 29 are like a calendar for worship. They say exactly which offerings are brought on which day. We already know the festivals from Leviticus 23. Here it is about the offerings for them.
 > The basis is the daily offering: one lamb in the morning, one lamb in the evening. Every day begins and ends with God.
@@ -60,9 +60,9 @@ about 2 quarts of wine for a bull, a little more than 1 quart for the ram, and a
 This is the burnt offering for every month, through all the months of the year.
 [15] Also, one male goat is to be offered to the LORD as a sin offering,
 in addition to the regular burnt offering and its drink offering.
-A sin offering is an offering that takes away guilt.
 
 > **What does this mean?**
+> Verse 15: A sin offering is an offering that takes away guilt.
 > In the Bible the measures are given like this: three tenths, two tenths and one tenth of an ephah of flour, and a half, a third and a fourth of a hin of wine.
 > The Jewish calendar follows the moon. Every month begins with the new moon. This day is called “Rosh Chodesh,” the head of the month. To this day it is a small holiday.
 
@@ -82,7 +82,6 @@ They must be without any defect.
 You must offer about 7 quarts for a bull and about 4½ quarts for the ram.
 [21] You must offer about 2 quarts for each of the seven lambs.
 [22] And bring one male goat as a sin offering, to make atonement for you.
-Atonement means: putting things right again between God and people.
 [23] You must offer these in addition to the burnt offering of the morning, which is the regular burnt offering.
 [24] In this way you must offer every day, for seven days,
 the food of the offering made by fire, a pleasant smell to the LORD.
@@ -91,6 +90,7 @@ It is to be offered in addition to the regular burnt offering and its drink offe
 You must not do any regular work.
 
 > **What does this mean?**
+> Verse 22: Atonement means: putting things right again between God and people.
 > Passover reminds people of how God set them free from Egypt. After it comes the Feast of Unleavened Bread for seven days, with large offerings every day.
 
 ---

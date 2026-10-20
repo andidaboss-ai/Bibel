@@ -83,7 +83,6 @@ Then I will not have to see my misery anymore.”
 [16] The LORD said to Moses:
 “Gather for me 70 men from the elders of Israel,
 men you know to be elders of the people and officers over them.
-Elders are older men who lead the people.
 Bring them to the Tent of Meeting. Let them stand there with you.
 [17] I will come down and speak with you there.
 I will take some of the Spirit that is on you and put it on them.
@@ -115,6 +114,7 @@ Now you will see whether my word comes true for you or not.”
 > The helpers get some of the Spirit that is on Moses. Moses does not lose anything by it. God’s Spirit is shared, but it does not become less. It is like a candle that is used to light other candles.
 > But the meat is not simply a gift. “Until it comes out of your nostrils” – God gives them what they want, far too much of it. Sometimes what we want so badly is not good for us.
 > Even Moses doubts whether God can do this. God’s answer: “Has the LORD’s hand become too short?” That means: Is anything too hard for me?
+> Verse 16: Elders are older men who lead the people.
 
 ---
 

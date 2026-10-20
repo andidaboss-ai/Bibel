@@ -8,7 +8,6 @@
 [1] The LORD spoke to Moses. He said,
 [2] “Take Aaron and his sons with him,
 and the clothes, the anointing oil, the bull for the sin offering, the two rams and the basket of bread without yeast.
-Anointing oil is special holy oil. It is poured on people or things to set them apart for God.
 [3] And gather the whole community at the door of the Tent of Meeting.”
 [4] Moses did as the LORD had commanded him.
 And the community gathered at the door of the Tent of Meeting.
@@ -16,6 +15,7 @@ And the community gathered at the door of the Tent of Meeting.
 “This is what the LORD has commanded to be done.”
 
 > **What does this mean?**
+> Verse 2: Anointing oil is special holy oil. It is poured on people or things to set them apart for God.
 > Now what God commanded in Exodus 29 happens: Aaron and his sons are made priests.
 > The whole people is there. After all, the priests serve the whole people. That is why everyone should see how they are put into their office.
 > Again and again this chapter says: “as the LORD commanded Moses.” Everything happens exactly according to God’s word.

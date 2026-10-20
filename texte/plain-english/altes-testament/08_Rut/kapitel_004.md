@@ -39,7 +39,7 @@ For I cannot redeem it.”
 > At first it is only about a piece of land. The relative would gladly buy it. Then Boaz says: Ruth comes with the land. Whoever redeems the land should also marry Ruth. A son of Ruth would then count as a descendant of the dead Mahlon and would inherit the land.
 > Behind this is an old law: If a man dies without children, his brother should marry the widow. The first son should carry on the name of the dead man (Deuteronomy 25:5–10). Boaz and the relative are not brothers of Mahlon, but the idea is applied to close relatives.
 > Now the relative does the math: I pay for the land, but later it does not belong to my own children. It is not worth it for me. He thinks of his own advantage. Boaz thinks of the family.
-> In the Hebrew text, there is a small uncertainty about how to read verse 5. The sentence can also be read like this: Boaz says that he himself is taking Ruth as his wife. Most translations read it as the WEB does.
+> In the Hebrew text, there is a small uncertainty about how to read verse 5. The sentence can also be read like this: Boaz says that he himself is taking Ruth as his wife. Most translations read it as the WEB, our English source text, does.
 
 ---
 

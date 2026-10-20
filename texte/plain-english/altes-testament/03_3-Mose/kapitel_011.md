@@ -9,7 +9,6 @@
 [2] “Speak to the people of Israel and say,
 ‘These are the living things that you may eat, of all the animals on the earth:
 [3] Any animal that has a split hoof, divided all the way through, and that chews the cud, you may eat.
-To chew the cud means: The animal brings its food back up from its stomach and chews it again.
 
 [4] “‘But of those that chew the cud or have a split hoof, you shall not eat these:
 the camel, because it chews the cud but does not have a split hoof. It is unclean to you.
@@ -20,6 +19,7 @@ the camel, because it chews the cud but does not have a split hoof. It is unclea
 They are unclean to you.
 
 > **What does this mean?**
+> Verse 3: To chew the cud means: The animal brings its food back up from its stomach and chews it again.
 > Now a big part of the book about “clean” and “unclean” begins (Chapters 11–15). First it is about food.
 > “Unclean” here does not mean dirty, disgusting or evil. It means: The Israelites should not eat these animals. All animals are created by God and are good (Genesis 1:31).
 > Land animals are allowed if they have two marks: a split hoof and chewing the cud. These include cattle, sheep, goats and deer.
@@ -124,7 +124,6 @@ And every drink in such a pot shall be unclean.
 An oven or a stove for pots shall be broken in pieces.
 They are unclean and shall be unclean to you.
 [36] But a spring or a cistern where water is gathered shall stay clean.
-A cistern is a large hole in the ground for storing water.
 But whatever touches their dead body shall be unclean.
 [37] If a part of their dead body falls on seed that is to be planted, it is clean.
 [38] But if water has been put on the seed
@@ -132,6 +131,7 @@ and a part of their dead body falls on it,
 it is unclean to you.
 
 > **What does this mean?**
+> Verse 36: A cistern is a large hole in the ground for storing water.
 > To us, these rules seem like rules for hygiene. Mice, rats and lizards often came into houses. If such an animal fell dead into a pot, everything had to be cleaned or thrown away.
 > Interesting: Flowing water in a spring or a cistern stays clean. And dry seed does too. But wet seed, or food made with water, becomes unclean. People thought that wetness passes on uncleanness.
 > Simple clay pots could not be cleaned well. That is why they had to be broken.

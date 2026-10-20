@@ -12,11 +12,11 @@ For I am the LORD your God.
 
 [2] “‘You shall keep my Sabbaths.
 And you shall honor my sanctuary.
-A sanctuary is a holy place where God is worshiped.
 I am the LORD.
 
 > **What does this mean?**
 > At the end of the many commandments in Leviticus, the most important things are said once more: serve only the one God and keep the Sabbath.
+> Verse 2: A sanctuary is a holy place where God is worshiped.
 
 ---
 
@@ -27,7 +27,6 @@ I am the LORD.
 The land will give its harvest.
 And the trees of the field will give their fruit.
 [5] Your threshing will go on until the grape harvest.
-Threshing means: beating the grain to get the seeds out.
 And the grape harvest will go on until the time for sowing.
 You will eat your bread until you are full.
 And you will live in your land in safety.
@@ -45,7 +44,6 @@ And your enemies will fall before you by the sword.
 [9] “‘I will turn to you with kindness.
 I will make you fruitful and make you many.
 And I will make my covenant with you stand firm.
-A covenant is a binding agreement.
 [10] You will eat old supplies that were stored for a long time.
 And you will have to move out the old to make room for the new.
 [11] I will set up my tent among you.
@@ -62,6 +60,8 @@ And I have made you walk upright.
 > The blessing is described beautifully: rain, good harvests, so much that you can never finish it all. Peace, safety, no fear.
 > But the greatest thing is verse 12: “I will walk among you.” This is like the Garden of Eden, where God walked in the garden (Genesis 3:8). God wants to be as close to his people as at the beginning.
 > Verse 13 is a strong picture: A yoke is a wooden beam that is put on the necks of animals that pull a plow or a cart. Whoever carries a yoke walks bent over. God has broken the yoke. Now Israel can walk upright, as a free people.
+> Verse 5: Threshing means: beating the grain to get the seeds out.
+> Verse 9: A covenant is a binding agreement.
 
 ---
 
@@ -132,7 +132,6 @@ I will also punish you seven times for your sins.
 [29] You will eat the flesh of your sons.
 And you will eat the flesh of your daughters.
 [30] I will destroy your high places and cut down your incense altars.
-High places were places on hills where people worshiped idols.
 I will throw your dead bodies on the bodies of your idols.
 And I will reject you in disgust.
 [31] I will turn your cities into ruins and make your sanctuaries empty and waste.
@@ -166,6 +165,7 @@ And they will also waste away because of the guilt of their ancestors, like them
 > Much of this really happened in the history of Israel. In the year 586 BC, the Babylonians conquered Jerusalem. They destroyed the temple and took many people away to Babylon. The prophets saw this as the fulfillment of this warning.
 > Verses 34–35 are interesting: Because Israel did not keep the Sabbath years, the land makes up for its rest while the people are in exile. Exile means: living far from home in a foreign land. This is exactly what 2 Chronicles 36:21 also says about the exile in Babylon.
 > These verses must never be used to say that the suffering of the Jewish people in history is a punishment from God. That has happened often, and it has led to terrible hatred of Jews. The Bible itself says something very different in the next section.
+> Verse 30: High places were places on hills where people worshiped idols.
 
 ---
 

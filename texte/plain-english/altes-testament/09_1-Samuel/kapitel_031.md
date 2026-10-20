@@ -12,11 +12,11 @@ Many of them were killed on Mount Gilboa.
 They killed Saul’s sons Jonathan, Abinadab, and Malchishua.
 [3] The fighting around Saul was very hard.
 The archers found him.
-Saul was badly hurt by their arrows.
+Saul was in great distress because of the archers.
 [4] Saul said to the young man who carried his weapons,
 “Pull out your sword and stab me with it.
 Otherwise these uncircumcised men will come.
-They will stab me and make fun of me!”
+They will stab me and treat me cruelly!”
 Uncircumcised means: They do not belong to God’s people.
 But the young man did not want to do it.
 He was terribly afraid.
@@ -34,7 +34,7 @@ and all his men.
 > Saul is badly wounded. He is afraid that the Philistines will catch him alive, torture him, and mock him, as they had done with Samson (Judges 16). So he asks his armor bearer to kill him. When he refuses, Saul takes his own life.
 > The Bible tells this without comment, honestly and sadly. It does not condemn Saul here, and it does not praise what he did either. It is the end of a man who had lost God and knew only fear.
 > In 2 Samuel 1 an Amalekite tells a different version of Saul’s death. We will read there what is true about it.
-> An important note: If you yourself are in great distress or are thinking about taking your own life, you are not alone. Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> An important note: If you yourself are in great distress or are thinking about taking your own life, you are not alone. Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -72,7 +72,7 @@ They took the body of Saul and the bodies of his sons down from the wall of Beth
 They brought them to Jabesh and burned them there.
 [13] Then they took their bones
 and buried them under the tamarisk tree in Jabesh.
-And they fasted for 7 days.
+And they fasted for seven days.
 That means: They did not eat, to show their sadness.
 
 > **What does this mean?**

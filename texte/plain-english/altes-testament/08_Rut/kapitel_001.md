@@ -20,7 +20,7 @@ In Judaism, the book of Ruth is read every year at the Feast of Weeks (Shavuot).
 [1] In the days when the judges judged, there was a famine in the land.
 A famine is a time when there is not enough food.
 A man from Bethlehem in Judah went away
-to live as a foreigner in the country of Moab,
+to live in the country of Moab,
 he, his wife, and his two sons.
 [2] The name of the man was Elimelech,
 and the name of his wife was Naomi.
@@ -135,7 +135,7 @@ who came back from the country of Moab.
 They came to Bethlehem at the beginning of the barley harvest.
 
 > **What does this mean?**
-> In verse 19, the WEB only says “they asked.” In Hebrew it is clearly a form for women: The women of the town ask.
+> In verse 19, the WEB, our English source text, only says “they asked.” In Hebrew it is clearly a form for women: The women of the town ask.
 > “Naomi” means “pleasant,” “Mara” means “bitter.” Naomi says: My name no longer fits my life.
 > Naomi accuses God quite openly. The Bible allows this. Whoever suffers may tell God about their pain and their anger. People speak to God like this in the Psalms and in the book of Job too.
 > “Empty” I have come back, says Naomi. But that is not quite true: Ruth is standing next to her. Naomi does not see it yet, but in Ruth she has already received a gift.

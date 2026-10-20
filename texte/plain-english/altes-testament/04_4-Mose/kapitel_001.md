@@ -18,7 +18,6 @@ It is a book about complaining and doubt, about rebellions and punishments, but 
 It was on the first day of the second month, in the second year after they had come out of the land of Egypt.
 He said:
 [2] “Take a census of the whole community of the people of Israel.
-A census means: counting all the people.
 Count them by their families and by their fathers’ houses,
 by the number of the names, every male, one by one,
 [3] from 20 years old and up, all in Israel who are able to go to war.
@@ -30,6 +29,7 @@ Each one shall be the head of his fathers’ house.
 > A little more than a year has passed since the people left Egypt. At Sinai the people received the commandments and built the sanctuary. Now they shall move on, into the promised land.
 > For this, they count how many men can fight. Israel is no longer a group of runaway slaves. It is now an orderly people.
 > “By the number of the names”: Everyone is counted with his name. For God, nobody is just a number.
+> Verse 2: A census means: counting all the people.
 
 ---
 
@@ -165,7 +165,6 @@ He had said:
 You shall not take a census of them among the people of Israel.
 [50] Instead, put the Levites in charge of the Tabernacle of the Testimony,
 over all its equipment and over everything that belongs to it.
-The Tabernacle is the holy tent where God lives among his people.
 They shall carry the Tabernacle and all its equipment.
 They shall take care of it and camp all around it.
 [51] When the Tabernacle is to move on, the Levites shall take it down.
@@ -184,3 +183,4 @@ They did everything just as the LORD had commanded Moses.
 > They camp right around the sanctuary, like a protective wall. So nobody comes too close to the holy place who is not called to do so.
 > “A stranger” here means: someone who does not belong to the tribe of Levi.
 > The sanctuary stands in the middle of the camp. God is the center of the people.
+> Verse 50: The Tabernacle is the holy tent where God lives among his people.

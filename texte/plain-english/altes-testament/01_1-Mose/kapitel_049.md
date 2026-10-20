@@ -199,6 +199,6 @@ And he was gathered to his people.
 
 > **What does this mean?**
 > Here, for the first time in the Bible, we read: “the twelve tribes of Israel.” A family has become a nation.
-> Jacob wants to be buried with Leah, not with Rachel. Leah, who fought so long for his love, lies at his side in the end – and with her, the fathers and mothers of faith.
+> Jacob wants to be buried with Leah, not with Rachel. Leah, who fought so long for his love, lies at his side in the end – and with her, the great ancestors of faith.
 > Here we also learn that Rebekah and Leah have died. The Bible had not told this before.
 > Jacob’s death is described as calm and peaceful. He has said everything he wanted to say. Then he lies down and dies.

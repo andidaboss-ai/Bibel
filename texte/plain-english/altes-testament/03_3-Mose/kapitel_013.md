@@ -89,7 +89,6 @@ then it shall be shown to the priest.
 If it looks deeper than the skin, and the hair on it has turned white,
 then the priest shall declare him unclean.
 It is the disease of leprosy. It has broken out in the boil.
-A boil is a painful, swollen sore with pus.
 [21] But if the priest examines it,
 and there are no white hairs on it,
 and it is not deeper than the skin, but it is pale,
@@ -125,6 +124,7 @@ The priest shall declare him clean.
 For it is the scar from the burn.
 
 > **What does this mean?**
+> Verse 18: A boil is a painful, swollen sore with pus.
 > The priest looks very carefully: Is this only a scar that is healing well? Or is a disease spreading? The most important sign is always: Is it spreading or not?
 
 ---
@@ -229,7 +229,6 @@ If the spot has spread,
 on the clothing, in the lengthwise threads or in the crosswise threads, or on the leather,
 whatever the leather is used for,
 then the spot is a destructive mildew. It is unclean.
-Mildew is a kind of mold.
 [52] He shall burn the clothing,
 the lengthwise threads or the crosswise threads, of wool or of linen,
 or anything of leather that has the spot on it.
@@ -265,6 +264,7 @@ in the lengthwise threads or in the crosswise threads, or on anything of leather
 to declare it clean or to declare it unclean.
 
 > **What does this mean?**
+> Verse 51: Mildew is a kind of mold.
 > The “lengthwise threads” and the “crosswise threads” are the threads that cloth is woven from. Maybe this also means yarn that has not been woven yet.
 > This is about mold or fungus on cloth and leather. For this, too, the Bible uses the same word as for leprosy.
 > Here, too, everything is checked carefully: First the thing is washed, and they wait. Only if the mildew does not go away is the clothing burned. Clothes were very valuable back then. People did not throw them away carelessly.

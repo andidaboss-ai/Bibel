@@ -107,7 +107,6 @@ If it is not bought back, then it shall be sold according to your valuation.
 
 [28] “‘But nothing that someone devotes to the LORD from everything he has may be sold or bought back,
 whether it is a person, an animal or a field that he owns.
-To devote means here: to give something to God completely and forever.
 Everything that is devoted forever is most holy to the LORD.
 [29] “‘No person who is devoted to destruction may be bought free.
 He must be put to death.
@@ -124,7 +123,6 @@ He must be put to death.
 
 [30] “‘All the tithe of the land belongs to the LORD,
 whether from the seed of the land or from the fruit of the trees.
-A tithe is a tenth part.
 It is holy to the LORD.
 [31] If someone wants to buy back some of his tithe,
 he shall add one fifth to it.

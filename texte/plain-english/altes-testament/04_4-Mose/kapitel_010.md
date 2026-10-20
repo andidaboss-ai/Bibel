@@ -14,7 +14,6 @@ You shall use them to call the community together and to let the camps set out.
 [4] If they blow only one, then the leaders shall gather to you, the heads of the thousands of Israel.
 
 [5] “When you blow the alarm, the camps that lie on the east side shall set out.
-The alarm is a special signal to set out.
 [6] When you blow the alarm a second time, the camps that lie on the south side shall set out.
 They shall blow an alarm when they are to set out.
 [7] But when the assembly is to be called together, you shall blow, but you shall not sound the alarm.
@@ -35,6 +34,7 @@ I am the LORD your God.”
 > There are different signals: a steady sound to gather and a special signal to set out, maybe short, quick notes.
 > The trumpets sound in hard times, in war, and in happy times, at feasts. Both times they say: God, remember us!
 > On the Arch of Titus in Rome you can still see today how the Romans carried away such trumpets as loot after they destroyed the temple in AD 70.
+> Verse 5: The alarm is a special signal to set out.
 
 ---
 

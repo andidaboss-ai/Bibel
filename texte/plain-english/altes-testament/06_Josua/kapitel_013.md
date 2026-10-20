@@ -22,7 +22,7 @@ as far as Aphek, to the border of the Amorites,
 from Baal Gad below Mount Hermon to the entrance of Hamath,
 [6] all the people of the hill country from Lebanon to Misrephoth Maim, all the Sidonians.
 I myself will drive them out in front of the people of Israel.
-Just divide the land to Israel by lot as an inheritance, as I have commanded you.
+Just give the land to Israel by lot as an inheritance, as I have commanded you.
 [7] So now divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”
 
 > **What does this mean?**
@@ -97,7 +97,7 @@ with the bank of the Jordan to the far end of the sea of Chinnereth, beyond the 
 [28] This is the inheritance of the people of Gad by their clans, the cities and their villages.
 
 > **What does this mean?**
-> Mahanaim is the place where Jacob met angels (Genesis 32:2). Succoth is the place where Jacob built shelters for his livestock (Genesis 33:17). The old stories of the fathers are connected with this land.
+> Mahanaim is the place where Jacob met angels (Genesis 32:2). Succoth is the place where Jacob built shelters for his livestock (Genesis 33:17). The old stories of the ancestors are connected with this land.
 
 ---
 
@@ -108,8 +108,8 @@ It was for the half-tribe of the people of Manasseh by their clans.
 [30] Their territory went from Mahanaim: all Bashan, the whole kingdom of Og, king of Bashan,
 and all the villages of Jair, which are in Bashan, sixty cities.
 [31] Half of Gilead, Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan,
-were for the children of Machir, the son of Manasseh,
-for half of the children of Machir by their clans.
+were for the people of Machir, the son of Manasseh,
+for half of the people of Machir by their clans.
 [32] These are the inheritances that Moses gave out in the plains of Moab,
 beyond the Jordan at Jericho, to the east.
 [33] But Moses gave no inheritance to the tribe of Levi.

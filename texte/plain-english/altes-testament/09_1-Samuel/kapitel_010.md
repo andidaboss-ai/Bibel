@@ -18,7 +18,7 @@ And look, your father has stopped worrying about the donkeys
 and is worried about you.
 He is saying, “What shall I do for my son?”’
 
-[3] Then you will go on from there
+[3] “Then you will go on from there
 and come to the oak of Tabor.
 Three men will meet you there
 who are going up to God at Bethel.
@@ -29,13 +29,13 @@ and one is carrying a container of wine.
 and give you two loaves of bread.
 You shall take them from their hand.
 
-[5] After that you will come to the hill of God,
+[5] “After that you will come to the hill of God,
 where the Philistine outpost is.
 And this will happen:
 When you come there to the city,
 you will meet a group of prophets
 coming down from the high place.
-In front of them are a lute, a tambourine, a flute, and a harp,
+They will have a lute, a tambourine, a flute, and a harp in front of them,
 and they will be prophesying.
 [6] Then the Spirit of the LORD will come on you with power.
 Then you will prophesy with them
@@ -55,7 +55,7 @@ and show you what you are to do.”
 > “His inheritance” means the people of Israel. It belongs to God. Saul is to lead it for God, not for himself.
 > Samuel gives Saul three signs. When they happen, Saul knows: All this really comes from God.
 > The old Greek translation has a longer text in verse 1: Samuel tells Saul clearly that he is to save the people from the hand of their enemies, and that the signs will confirm this.
-> “The hill of God” was probably Gibeah, Saul’s home town. The Philistines had a military outpost there. This shows how much the Philistines ruled the land.
+> “The hill of God” was probably Gibeah, Saul’s hometown. The Philistines had a military outpost there. This shows how much the Philistines ruled the land.
 > The prophets make music and speak about God with great excitement. This was a special kind of worship, in which people were completely taken hold of by the Spirit of God.
 > Verse 8 is important for later: Saul is to wait seven days for Samuel in Gilgal. In Chapter 13 this becomes the great test for Saul.
 
@@ -158,7 +158,8 @@ Then all the people shouted,
 He wrote them in a book and laid it before the LORD.
 Then Samuel sent all the people away, each one to his house.
 [26] Saul also went to his house in Gibeah.
-With him went the band of men whose hearts God had touched.
+The army went with him,
+the men whose hearts God had touched.
 [27] But some worthless fellows said,
 “How can this man save us?”
 They looked down on him and brought him no gift.
@@ -167,4 +168,4 @@ But he kept quiet about it.
 > **What does this mean?**
 > Samuel writes down the rules for the king. This is to make it clear: The king, too, is under God’s law. He cannot do whatever he wants. This is a very early form of what today we call a constitution.
 > Not everyone is excited. Some look down on Saul. Saul reacts wisely: He keeps quiet and does not let himself be provoked.
-> In an old manuscript from the Dead Sea there is an extra section after verse 27: Nahash, the king of the Ammonites, had already badly oppressed the tribes of Gad and Reuben and had gouged out the right eye of many men. The Jewish historian Josephus also knows this story. The WEB does not have this section.
+> In an old manuscript from the Dead Sea there is an extra section after verse 27: Nahash, the king of the Ammonites, had already badly oppressed the tribes of Gad and Reuben and had gouged out the right eye of many men. The Jewish historian Josephus also knows this story. The WEB, our English source text, does not have this section.

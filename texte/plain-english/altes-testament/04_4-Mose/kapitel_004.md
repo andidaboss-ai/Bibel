@@ -27,11 +27,9 @@ And over that they shall spread a cloth that is all blue.
 Then they shall put in its poles.
 
 [7] “Over the table of the showbread they shall spread a blue cloth.
-The showbread is the holy bread that always lies before God.
 On the cloth they shall put the dishes, the spoons, the bowls and the cups for pouring out drink offerings.
 And the bread that is always there shall stay on it.
 [8] Over them they shall spread a scarlet cloth.
-Scarlet is a bright red color.
 And they shall cover it with a covering of sealskin.
 Then they shall put in its poles.
 
@@ -72,6 +70,8 @@ of the sanctuary and its equipment.”
 > Here the WEB, our English source text, says “sealskin.” In Exodus it said “sea cow hides.” It is the same Hebrew word. Nobody knows exactly which animal is meant.
 > The ark of the covenant is covered with a blue cloth last of all. With all the other objects, the leather is on the outside. Only the ark shines blue. So everyone on the journey could see where the ark was.
 > Later the ark was once carried on a cart instead of on people’s shoulders. Uzzah touched it and died (2 Samuel 6:6–7). So these rules were taken very seriously.
+> Verse 7: The showbread is the holy bread that always lies before God.
+> Verse 8: Scarlet is a bright red color.
 
 ---
 

@@ -49,7 +49,7 @@ I show my loving kindness to thousands.
 
 > **What does this mean?**
 > God alone should be God. And you should not make an image of him, because he is greater than anything we can imagine (see Chapter 4).
-> The Hebrew says “to thousands.” Many understand this as “to a thousand generations.”
+> The Hebrew says “to thousands.” Many understand this as “to 1,000 generations.”
 > The balance is important: The results of guilt reach at most four generations. But God’s kindness reaches much further. His love is greater than his anger.
 > Later God says clearly: Children should not be punished for the guilt of their parents (Deuteronomy 24:16; Ezekiel 18:20). What is meant here is rather: Bad behavior often lives on in families when the children copy it.
 

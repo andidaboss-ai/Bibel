@@ -46,7 +46,6 @@ The burnt offering shall stay on the fireplace on the altar all night until morn
 And the fire of the altar shall be kept burning on it.
 [10] The priest shall put on his linen robe,
 and he shall put on his linen underpants on his body.
-Linen is a fine cloth made from a plant called flax.
 He shall take away the ashes that are left when the fire has burned up the burnt offering on the altar.
 And he shall put them beside the altar.
 [11] Then he shall take off his clothes and put on other clothes,
@@ -58,6 +57,7 @@ and burn the fat of the peace offerings on it.
 [13] Fire shall be kept burning on the altar all the time. It shall not go out.
 
 > **What does this mean?**
+> Verse 10: Linen is a fine cloth made from a plant called flax.
 > From here on, the instructions are for the priests: How should they handle the offerings?
 > The fire on the altar should never go out, day and night. This is said three times. It is a sign that the bond between God and his people should never be broken.
 > Even carrying away the ashes is a holy service. The priest wears special clothes for it.

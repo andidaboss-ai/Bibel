@@ -121,11 +121,11 @@ This is in addition to the regular burnt offering with its grain offering and it
 
 [39] “‘You must offer these to the LORD at your appointed festivals,
 in addition to your vows and your freewill offerings.
-A vow is a solemn promise to God.
 They are for your burnt offerings, your grain offerings, your drink offerings and your peace offerings.’”
 [40] Moses told the people of Israel everything that the LORD had commanded Moses.
 
 > **What does this mean?**
+> Verse 39: A vow is a solemn promise to God.
 > In some Bibles, verse 40 is already the first verse of Chapter 30 (30:1). Here we follow the verse numbers of the WEB, our English source text.
 > If you add everything up, more than 1,000 lambs and more than 100 bulls were offered every year as shared offerings of the people. On top of that came the many offerings of individual people.
 > The whole year is centered on God: every day, every week, every month, every festival.

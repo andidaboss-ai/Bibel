@@ -29,7 +29,6 @@ It is a Sabbath for the LORD, everywhere you live.
 which you shall announce at their fixed times:
 [5] In the first month, on the fourteenth day of the month, in the evening, is the LORD’s Passover.
 [6] On the fifteenth day of the same month is the Feast of Unleavened Bread for the LORD.
-Unleavened bread is bread made without yeast.
 For seven days you shall eat bread without yeast.
 [7] On the first day you shall have a holy gathering.
 You shall do no ordinary work.
@@ -38,6 +37,7 @@ On the seventh day is a holy gathering.
 You shall do no ordinary work.’”
 
 > **What does this mean?**
+> Verse 6: Unleavened bread is bread made without yeast.
 > Passover is a reminder of the night when Israel was set free from Egypt (Exodus 12). The first month is in the spring, in March or April.
 > To this day, Jews celebrate the Passover feast, in Hebrew “Pesach,” with a special evening meal, the Seder.
 > Jesus celebrated the Passover meal with his disciples before he died. That became the Lord’s Supper. To this day, Easter falls around the time of Passover.
@@ -125,7 +125,6 @@ And you shall bring an offering by fire to the LORD.’”
 [27] “But the tenth day of this seventh month is the Day of Atonement.
 It shall be a holy gathering for you.
 You shall humble yourselves and bring an offering by fire to the LORD.
-To humble yourself here means: to go without food and comforts.
 [28] You shall not do any kind of work on that day.
 For it is the Day of Atonement, when atonement is made for you before the LORD your God.
 [29] For whoever does not humble himself on that day shall be cut off from his people.
@@ -137,6 +136,7 @@ And you shall humble yourselves.
 You shall keep your Sabbath from the evening of the ninth day of the month, from evening to evening.”
 
 > **What does this mean?**
+> Verse 27: To humble yourself here means: to go without food and comforts.
 > The Day of Atonement, “Yom Kippur,” was already described in detail in Chapter 16.
 > “From evening to evening” – in the Jewish calendar, every day begins in the evening, when the sun goes down. It is already like this in the story of creation: “There was evening, and there was morning” (Genesis 1:5).
 
@@ -147,7 +147,6 @@ You shall keep your Sabbath from the evening of the ninth day of the month, from
 [33] The LORD spoke to Moses. He said,
 [34] “Speak to the people of Israel and say,
 ‘The fifteenth day of this seventh month is the Feast of Booths, for seven days, for the LORD.
-Booths are simple huts made of branches.
 [35] On the first day there shall be a holy gathering.
 You shall do no ordinary work.
 [36] For seven days you shall bring an offering by fire to the LORD.
@@ -180,6 +179,7 @@ I am the LORD your God.’”
 [44] So Moses told the people of Israel about the fixed feasts of the LORD.
 
 > **What does this mean?**
+> Verse 34: Booths are simple huts made of branches.
 > The Feast of Booths, in Hebrew “Sukkot,” is the great harvest festival in the fall. All the crops have been brought in.
 > For seven days, people live in simple huts made of branches. That way they remember the time in the wilderness, when Israel had no solid houses and had to trust God completely.
 > “You shall be joyful” – this is even a commandment! God wants his people to celebrate with joy.

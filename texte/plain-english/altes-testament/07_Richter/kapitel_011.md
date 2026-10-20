@@ -158,7 +158,7 @@ She went with her friends and mourned her virginity on the mountains.
 And he did with her according to his vow that he had made.
 She had never been with a man.
 And it became a custom in Israel
-[40] that the daughters of Israel go every year to celebrate the daughter of Jephthah the Gileadite, four days a year.
+[40] that the daughters of Israel went every year to celebrate the daughter of Jephthah the Gileadite, four days a year.
 
 > **What does this mean?**
 > This is one of the saddest and most terrible stories in the Bible.

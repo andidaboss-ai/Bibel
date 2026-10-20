@@ -15,9 +15,9 @@ that the right eye of every one of you is gouged out.
 That is how I will bring shame on all Israel.”
 [3] The elders of Jabesh said to him,
 “Give us seven days.
-Then we will send messengers through the whole territory of Israel.
-If there is no one to save us then,
-we will come out to you.”
+Then we can send messengers through the whole territory of Israel.
+If there is no one to save us,
+then we will come out to you.”
 [4] Then the messengers came to Gibeah, Saul’s town,
 and spoke these words in the hearing of the people.
 Then all the people cried out loud and wept.
@@ -54,7 +54,7 @@ and the men of Judah 30,000.
 ‘Tomorrow, by the time the sun is hot, you will be rescued.’”
 The messengers came and told the men of Jabesh,
 and they were glad.
-[10] So the men of Jabesh said to the Ammonites,
+[10] So the men of Jabesh said,
 “Tomorrow we will come out to you.
 Then you can do with us whatever seems good to you.”
 [11] The next day Saul divided the people into three groups.

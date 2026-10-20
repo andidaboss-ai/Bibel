@@ -55,12 +55,12 @@ you have rebelled against the LORD.
 And the LORD was so angry with you that he wanted to destroy you.
 [9] I had gone up onto the mountain to receive the stone tablets,
 the tablets of the covenant that the LORD had made with you.
-Then I stayed on the mountain for forty days and forty nights.
+Then I stayed on the mountain for 40 days and 40 nights.
 I did not eat bread, and I did not drink water.
 [10] The LORD gave me the two stone tablets, written with God’s finger.
 On them were all the words that the LORD had spoken with you on the mountain out of the middle of the fire,
 on the day of the assembly.
-[11] At the end of the forty days and forty nights,
+[11] At the end of the 40 days and 40 nights,
 the LORD gave me the two stone tablets, the tablets of the covenant.
 
 > **What does this mean?**
@@ -98,7 +98,7 @@ and broke them before your eyes.
 
 ## Moses prays for the people (Verses 18–21)
 
-[18] I fell down before the LORD, as the first time, for forty days and forty nights.
+[18] I fell down before the LORD, as the first time, for 40 days and 40 nights.
 I did not eat bread, and I did not drink water,
 because of all the sin that you had committed
 by doing what is evil in the LORD’s eyes, so that you made him angry.
@@ -135,7 +135,7 @@ You did not believe him, and you did not listen to his voice.
 
 ## Moses’ prayer (Verses 25–29)
 
-[25] So I fell down before the LORD for the forty days and forty nights that I lay there,
+[25] So I fell down before the LORD for the 40 days and 40 nights that I lay there,
 because the LORD had said that he would destroy you.
 [26] I prayed to the LORD and said,
 “Lord GOD, do not destroy your people and your inheritance,

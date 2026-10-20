@@ -10,7 +10,6 @@ He said:
 [2] “Speak to the people of Israel and tell them:
 ‘Suppose a man or a woman makes a special vow,
 the vow of a Nazirite, to set himself apart for the LORD.
-A vow is a solemn promise to God.
 [3] Then he shall stay away from wine and strong drink.
 He shall not drink vinegar made from wine or vinegar made from strong drink.
 He shall not drink any grape juice, and he shall not eat fresh or dried grapes.
@@ -35,6 +34,7 @@ For the sign that he is set apart for God is on his head.
 > 2. The hair is not cut. The long hair is a sign that everyone can see: This person belongs completely to God right now.
 > 3. No contact with the dead, not even with his own parents. In this he is even stricter than an ordinary priest, like the high priest (Leviticus 21:11).
 > Famous Nazirites in the Bible are Samson (Judges 13), Samuel (1 Samuel 1:11) and probably John the Baptist (Luke 1:15). Paul also made such a vow (Acts 18:18; 21:23–26).
+> Verse 2: A vow is a solemn promise to God.
 
 ---
 

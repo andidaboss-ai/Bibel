@@ -53,7 +53,6 @@ Then the plague among the people of Israel stopped.
 [11] “Phinehas, the son of Eleazar, the son of Aaron the priest,
 has turned my anger away from the people of Israel.
 He was jealous with my jealousy among them.
-Jealous here means: full of burning zeal for God.
 So I did not destroy the people of Israel in my jealousy.
 [12] So say this:
 ‘Look, I give him my covenant of peace.
@@ -69,6 +68,7 @@ was named Zimri, the son of Salu. He was a leader of a family among the Simeonit
 He was the head of the people of a family in Midian.
 
 > **What does this mean?**
+> Verse 11: Jealous here means: full of burning zeal for God.
 > God gives Phinehas a “covenant of peace.” After an act of violence, that sounds strange. But it means: Phinehas stopped the plague. In this way, he brought back peace between God and the people.
 > His descendants will be the high priests. Zadok, who later was high priest under King Solomon, was one of his descendants.
 > The names are given because both came from important families. It was not a small matter. It was a public scandal caused by leading people.

@@ -44,7 +44,7 @@ and because he wants to keep the oath that he swore to your ancestors.
 That is why the LORD brought you out with a mighty hand
 and set you free from the house of slavery, from the hand of Pharaoh, the king of Egypt.
 [9] So know this: The LORD your God himself is God, the faithful God.
-He keeps his covenant and his loving kindness for a thousand generations
+He keeps his covenant and his loving kindness for 1,000 generations
 with those who love him and keep his commandments.
 [10] But he pays back those who hate him to their face, to destroy them.
 He is not slow to act against the one who hates him.

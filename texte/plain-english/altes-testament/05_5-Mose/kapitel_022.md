@@ -83,7 +83,7 @@ He says, ‘I did not find the signs that your daughter was a virgin.’
 But here are the signs that my daughter was a virgin.”
 And they shall spread out the cloth in front of the elders of the town.
 [18] Then the elders of that town shall take the man and punish him.
-[19] They shall make him pay a fine of one hundred shekels of silver.
+[19] They shall make him pay a fine of 100 shekels of silver.
 They shall give it to the young woman’s father,
 because the man has given a bad name to a virgin of Israel.
 She shall stay his wife.
@@ -98,7 +98,7 @@ So you shall remove the evil from among you.
 
 > **What does this mean?**
 > Verse 14: A virgin is a woman who has never slept with a man.
-> One hundred shekels of silver are about 2.5 pounds of silver. That was a lot of money.
+> The 100 shekels of silver are about 2.5 pounds of silver. That was a lot of money.
 > Back then, the “signs that she was a virgin” were a cloth with blood from the wedding night. Today we know: Such “proofs” are not medically reliable. Many women do not bleed the first time.
 > This section protects the wife from a man who wants to get rid of her and therefore spreads lies about her. He is punished harshly and may never send her away. In this way she was provided for all her life.
 > But verses 20–21 are shocking for us: A young woman is to be killed because she was no longer a virgin before marriage. By today’s understanding that is a grave injustice. Here the Bible describes an old law that placed the honor of the family very high.
@@ -131,12 +131,12 @@ but there was no one to save her.
 [28] A man may meet a young woman who is a virgin
 and who is not promised in marriage.
 He grabs her and sleeps with her, and they are found out.
-[29] Then the man who slept with her shall give the young woman’s father fifty shekels of silver.
+[29] Then the man who slept with her shall give the young woman’s father 50 shekels of silver.
 And she shall become his wife, because he has humiliated her.
 He may never send her away as long as he lives.
 
 > **What does this mean?**
-> Fifty shekels of silver are about 1¼ pounds of silver.
+> The 50 shekels of silver are about 1¼ pounds of silver.
 > Back then, being promised in marriage counted almost like a marriage.
 > An important thought is in verses 25–27: If a man uses violence against a woman, she is innocent. The Bible compares rape with murder. And it says: We assume that the woman cried out for help, even if no one heard it. The guilt lies with the attacker alone.
 > Verses 23–24, on the other hand, are hard to understand today: Back then, people assumed that a woman in the town could have called for help. Today we know that victims of violence often freeze with fear and cannot scream. No one may blame a victim.

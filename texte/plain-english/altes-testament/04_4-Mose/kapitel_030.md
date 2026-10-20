@@ -70,7 +70,6 @@ not her vows and not her promise.
 Her husband has canceled them. The LORD will forgive her.
 [13] Every vow and every oath that binds her to humble herself,
 her husband may confirm it, or her husband may cancel it.
-Humble herself here means: to fast or to give up something.
 [14] But if her husband says nothing to her from one day to the next,
 then he confirms all her vows and all her promises that are on her.
 He has confirmed them, because he said nothing to her on the day he heard them.
@@ -82,6 +81,7 @@ between a man and his wife,
 and between a father and his daughter, while she is young and lives in her father’s house.
 
 > **What does this mean?**
+> Verse 13: Humble herself here means: to fast or to give up something.
 > These rules show how the family was organized back then. The father or the husband was responsible for the household. That is why he could cancel a vow of his daughter or his wife. For example, if she had promised to offer something valuable from the family’s property.
 > From today’s point of view, this is unequal. Men could decide for themselves, women could not always do so. Here the Bible describes the order of its own time. Today men and women have equal rights. That fits the dignity that God gives every person (Genesis 1:27; Galatians 3:28).
 > But there is also protection for the woman: The man must react right away, on the same day. He cannot cancel a vow later just as he likes. If he does it anyway, he carries the guilt, not the woman.
