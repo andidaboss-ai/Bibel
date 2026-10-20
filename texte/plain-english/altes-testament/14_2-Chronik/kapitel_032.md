@@ -37,7 +37,7 @@ but with us is the LORD our God, to help us and to fight our battles.”
 The people relied on the words of Hezekiah king of Judah.
 
 > **What does this mean?**
-> This story is told in more detail in 2 Kings 18–19 and Isaiah 36–37. Sennacherib marched against Judah in the year 701 BC. His own inscriptions report this. There he boasts that he shut Hezekiah up in Jerusalem “like a bird in a cage”. But he does not report a conquest of Jerusalem.
+> This story is told in more detail in 2 Kings 18–19 and Isaiah 36–37. Sennacherib marched against Judah in the year 701 BC. His own inscriptions report this. There he boasts that he shut Hezekiah up in Jerusalem “like a bird in a cage.” But he does not report a conquest of Jerusalem.
 > Verse 1 begins in a surprising way: “After these things and this faithfulness” comes the attack. Faithfulness to God does not protect us from all difficulties. But God is there in the difficulties.
 > Hezekiah acts wisely: he makes sure that the enemies find no water, and he builds up the walls. Faith and wise action belong together.
 > The “Millo” was a fortification in the City of David, maybe a terrace built up with earth.
@@ -62,17 +62,17 @@ when he says,
 Hasn’t he commanded Judah and Jerusalem,
 ‘You shall worship before one altar,
 and you shall burn incense on it’?
-[13] Don’t you know what I and my fathers have done
+[13] Don’t you know what I and my ancestors have done
 to all the peoples of the lands?
 Were the gods of the nations of those lands in any way able
 to save their land out of my hand?
-[14] Who among all the gods of those nations that my fathers completely destroyed
+[14] Who among all the gods of those nations that my ancestors completely destroyed
 was able to save his people out of my hand?
 How then should your God be able to save you out of my hand?
 [15] So now don’t let Hezekiah fool you or talk you into this.
 Don’t believe him.
 For no god of any nation or kingdom was able to save his people
-out of my hand and out of the hand of my fathers.
+out of my hand and out of the hand of my ancestors.
 How much less will your God save you out of my hand!”
 [16] His servants spoke even more against the LORD God
 and against his servant Hezekiah.
@@ -93,7 +93,7 @@ which are the work of human hands.
 > Sennacherib’s servants try to make the people unsure:
 > – They twist Hezekiah’s reform: he supposedly destroyed God’s altars. But he had removed the altars of idols and gathered the worship in Jerusalem.
 > – They say: no god has been able to help against us so far. Why should your God be able to?
-> – They speak “in the Jews’ language”, that is, in Hebrew, so that everyone on the wall understands it and becomes afraid.
+> – They speak “in the Jews’ language,” that is, in Hebrew, so that everyone on the wall understands it and becomes afraid.
 > Verse 19 shows their greatest mistake: they think the living God is an idol made by people.
 
 ---
@@ -103,9 +103,9 @@ which are the work of human hands.
 [20] Because of this, King Hezekiah and Isaiah the prophet, the son of Amoz,
 prayed and cried out to heaven.
 [21] The LORD sent an angel,
-who cut off all the mighty men of courage, the leaders, and the captains
+who cut off all the brave warriors, the leaders, and the captains
 in the camp of the king of Assyria.
-So he returned with a face full of shame to his own land.
+So he went back to his own land in shame.
 When he had come into the house of his god,
 those who had come out of his own body killed him there with the sword.
 [22] So the LORD saved Hezekiah and the people of Jerusalem
@@ -120,7 +120,7 @@ So from then on he was honored in the sight of all nations.
 > Hezekiah and Isaiah pray. And God steps in. Chronicles tells this very briefly. 2 Kings 19:35 says that in one night 185,000 men died in the camp of the Assyrians.
 > “Those who had come out of his own body” means: his own sons. Sennacherib was murdered by sons of his about 20 years later, in 681 BC. Babylonian and Assyrian sources report this too. Chronicles sums it up without saying how much time passed in between.
 > The irony: Sennacherib mocked that no god could save his followers. And then he is killed in the temple of his own god. His god could not protect him.
-> “He guided them”: some manuscripts have “he gave them rest”.
+> “He guided them”: some manuscripts have “he gave them rest.”
 
 ---
 
@@ -129,7 +129,7 @@ So from then on he was honored in the sight of all nations.
 [24] In those days Hezekiah became sick and was about to die.
 He prayed to the LORD,
 and the LORD spoke to him and gave him a sign.
-[25] But Hezekiah didn’t give back thanks for the good that was done for him,
+[25] But Hezekiah did not show thanks for the good that was done for him,
 because his heart was lifted up in pride.
 So anger came on him, and on Judah and Jerusalem.
 [26] But Hezekiah humbled himself for the pride of his heart,
@@ -172,8 +172,8 @@ so that he might know all that was in his heart.
 
 ## The death of Hezekiah (Verses 32–33)
 
-[32] The rest of the acts of Hezekiah and his good deeds,
-look, they are written in the vision of Isaiah the prophet, the son of Amoz,
+[32] The rest of the acts of Hezekiah and his good deeds
+are written in the vision of Isaiah the prophet, the son of Amoz,
 in the book of the kings of Judah and Israel.
 [33] Hezekiah died and joined his ancestors,
 and they buried him on the way up to the tombs of the sons of David.

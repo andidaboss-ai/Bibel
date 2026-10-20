@@ -10,7 +10,7 @@
 > **Who wrote them?** Many psalms are linked with David, the king of Israel (about 1000 BC). Others come from Asaph, the sons of Korah, Solomon, Moses and others. Many have no name. The psalms were written over many centuries.
 > **Five books:** The psalms are divided into five parts, like the five books of Moses: Psalms 1–41, 42–72, 73–89, 90–106 and 107–150. Each part ends with praise to God.
 > **What is in them?** Everything people bring to God: praise and thanks, complaint and despair, asking for help, confessing guilt, trust, anger about injustice, joy about God’s creation. The psalms show: You may talk with God about everything.
-> **Headings:** Many psalms have a heading, for example “A psalm by David” or “For the music director.” In the English text we follow (the World English Bible), the heading belongs to verse 1. Many other Bibles count the heading as a verse of its own. That is why the verse numbers there are often 1 or 2 higher.
+> **Headings:** Many psalms have a heading, for example “A psalm by David” or “For the music director.” In the WEB, our English source text, the heading belongs to verse 1. Some Bibles count the heading as a verse of its own. That is why the verse numbers there are often 1 or 2 higher.
 > **“Selah”:** This word often stands at the end of a section. No one knows exactly what it means. It is probably a sign for the music, perhaps for a pause or an interlude.
 > **Poetry:** The psalms are poems. A typical feature is “parallelism”: The second line repeats a thought in other words, or takes it further. That is why we keep the form of short lines.
 > **Until today:** Jews and Christians have prayed the psalms for thousands of years. Jesus prayed them, even on the cross (Psalm 22 and 31). The New Testament quotes no book as often as the Psalms.
@@ -52,5 +52,6 @@ but the way of the wicked will come to nothing.
 > **What does this mean?**
 > Chaff is the empty husks that come off when grain is threshed. People threw everything into the air, and the wind carried the light chaff away. The heavy grain stayed behind.
 > The tree has roots and bears fruit. The chaff has no weight and nothing to hold it.
+> Righteous means: living right before God.
 > Verse 6: “The LORD knows the way of the righteous.” In the Bible, “to know” means more than to have information. It means: to go along with, to take care of, to be close to.
 > The psalm describes how God meant things to be. Job showed that life does not always look this simple. But in the end, the psalm says, only the way with God lasts.

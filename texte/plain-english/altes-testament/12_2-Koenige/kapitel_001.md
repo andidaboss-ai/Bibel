@@ -53,7 +53,7 @@ He said,
 
 > **What does this mean?**
 > Ahaziah is the son of Ahab and Jezebel. In his house he falls through a wooden lattice, probably at a window or on the roof, and he is badly hurt.
-> Instead of asking the God of Israel, he sends messengers to a god of the Philistines in Ekron. “Baal Zebub” means “lord of the flies”. This is probably a mocking name. The real name was perhaps “Baal Zebul”, “Baal, the prince”. In the New Testament, “Beelzebul” is a name for the chief of the demons (Mark 3:22).
+> Instead of asking the God of Israel, he sends messengers to a god of the Philistines in Ekron. “Baal Zebub” means “lord of the flies.” This is probably a mocking name. The real name was perhaps “Baal Zebul,” “Baal, the prince.” In the New Testament, “Beelzebul” is a name for the chief of the demons (Mark 3:22).
 > Elijah’s question is the heart of the story: “Is there no God in Israel?” Ahaziah looks for help everywhere, only not from God.
 > “A hairy man”: this can also mean that he wore a coat made of animal hair or skin. Later John the Baptist is described in a similar way, with camel’s hair and a leather belt (Mark 1:6). Many people saw John as a new Elijah (Malachi 4:5; Matthew 11:14).
 > Moab’s rebellion is told further in Chapter 3.
@@ -63,39 +63,39 @@ He said,
 
 ## Fire from the sky (Verses 9–16)
 
-[9] Then the king sent a captain of fifty with his 50 men to him.
-He went up to him.
-And look, Elijah was sitting on the top of the hill.
+[9] Then the king sent a captain with his 50 men to Elijah.
+The captain went up to him.
+Elijah was sitting on the top of the hill.
 The captain said to him,
 “Man of God, the king has said, ‘Come down!’”
-[10] Elijah answered the captain of fifty,
+[10] Elijah answered the captain,
 “If I am a man of God,
 then let fire come down from the sky
-and burn up you and your fifty!”
+and burn up you and your 50 men!”
 Then fire came down from the sky
-and burned up him and his fifty.
-[11] Again the king sent to him another captain of fifty with his fifty.
-He said to him,
+and burned up the captain and his 50 men.
+[11] Again the king sent another captain with his 50 men to Elijah.
+The captain said to him,
 “Man of God, the king has said, ‘Come down quickly!’”
 [12] Elijah answered them,
 “If I am a man of God,
 then let fire come down from the sky
-and burn up you and your fifty!”
+and burn up you and your 50 men!”
 Then God’s fire came down from the sky
-and burned up him and his fifty.
-[13] Again the king sent a third captain of fifty with his fifty.
-The third captain of fifty went up.
+and burned up the captain and his 50 men.
+[13] Again the king sent a third captain with his 50 men.
+The third captain went up.
 He came and fell on his knees in front of Elijah.
 He begged him and said to him,
 “Man of God, please let my life and the life of these 50 men, your servants,
 be precious in your eyes.
 [14] Look, fire came down from the sky
-and burned up the first two captains of fifty with their fifties.
+and burned up the first two captains with their 50 men each.
 But now let my life be precious in your eyes.”
 [15] The LORD’s angel said to Elijah,
 “Go down with him. Don’t be afraid of him.”
-So he got up and went down with him to the king.
-[16] He said to the king,
+So Elijah got up and went down with him to the king.
+[16] Elijah said to the king,
 “The LORD says,
 ‘You have sent messengers to ask Baal Zebub, the god of Ekron.
 Is there no God in Israel whose word you can ask?
@@ -112,12 +112,12 @@ You will surely die.’”
 
 ## Ahaziah’s death (Verses 17–18)
 
-[17] So he died, just as the LORD’s word had said, the word that Elijah had spoken.
-Jehoram became king in his place,
-in the second year of Jehoram the son of Jehoshaphat, king of Judah,
-because Ahaziah had no son.
-[18] The rest of the things Ahaziah did,
-aren’t they written in the book of the chronicles of the kings of Israel?
+[17] So Ahaziah died, just as the LORD had said through Elijah.
+Ahaziah had no son.
+So Jehoram became king in his place.
+This was in the second year of Jehoram, the son of Jehoshaphat, the king of Judah.
+[18] The rest of Ahaziah’s story and everything he did
+are written in the book of the chronicles of the kings of Israel.
 
 > **What does this mean?**
 > Ahaziah had no son. That is why his brother Jehoram became king.

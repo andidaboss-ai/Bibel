@@ -5,9 +5,9 @@
 
 ## Jehoram, king of Israel (Verses 1–3)
 
-[1] Jehoram the son of Ahab became king over Israel in Samaria
-in the eighteenth year of Jehoshaphat king of Judah.
-He ruled for twelve years.
+[1] Jehoram, the son of Ahab, became king over Israel in Samaria.
+It was in the eighteenth year of Jehoshaphat, the king of Judah.
+Jehoram ruled for 12 years.
 [2] He did what was evil in the LORD’s eyes,
 but not like his father and his mother.
 For he took away the pillar of Baal that his father had made.

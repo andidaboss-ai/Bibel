@@ -27,9 +27,9 @@ Adoniram, the son of Abda, was in charge of the men who had to do forced labor.
 
 ---
 
-## Twelve officers (Verses 7–19)
+## The 12 officers (Verses 7–19)
 
-[7] Solomon had twelve officers over all Israel.
+[7] Solomon had 12 officers over all Israel.
 They supplied food for the king and his household.
 Each one had to supply the food for one month of the year.
 [8] These are their names:
@@ -57,7 +57,7 @@ This was the country of Sihon, king of the Amorites, and of Og, king of Bashan.
 He was the only officer in that land.
 
 > **What does this mean?**
-> Solomon divides the land into twelve districts. Each district has to provide food for the whole royal court for one month a year. That was a kind of tax.
+> Solomon divides the land into 12 districts. Each district has to provide food for the whole royal court for one month a year. That was a kind of tax.
 > Interesting: the districts do not follow the old borders of the tribes exactly. And Judah, Solomon’s own tribe, is not named. Maybe Judah had to pay less. Later that made the northern tribes very angry.
 > Two of the officers are married to daughters of Solomon. In this way Solomon ties important men to his family.
 > Ahimaaz may be the son of Zadok who had served David as a messenger (2 Samuel 18). And Baana the son of Hushai may be the son of David’s faithful friend.
@@ -73,7 +73,8 @@ He ruled as far as the border of Egypt.
 These kingdoms brought tribute and served Solomon as long as he lived.
 Tribute is money or goods that a defeated people must pay to the ruler.
 [22] Each day Solomon’s court needed this much food:
-30 cors of fine flour and 60 measures of meal,
+30 cors of fine flour (about 180 bushels)
+and 60 measures of meal (about 360 bushels),
 [23] 10 fattened cattle, 20 cattle from the pastures, and 100 sheep.
 There were also deer, gazelles, roebucks, and fattened birds.
 [24] He ruled over everything on this side of the River,
@@ -89,7 +90,7 @@ He had 12,000 horsemen.
 and for all who came to eat at King Solomon’s table.
 Each one did it in his month.
 They made sure that nothing was missing.
-[28] They also brought barley and straw for the horses and the fast horses.
+[28] They also brought barley and straw for the horses and the swift horses.
 They brought it to the place where the officers were.
 Each one did what he was told to do.
 
@@ -120,7 +121,8 @@ He wrote 1,005 songs.
 from the cedar in Lebanon to the hyssop that grows out of the wall.
 He also spoke about animals, birds, creeping animals, and fish.
 [34] People from all nations came to hear Solomon’s wisdom.
-All the kings of the earth had heard of his wisdom, and they sent them.
+They were sent by all the kings of the earth
+who had heard of his wisdom.
 
 > **What does this mean?**
 > Solomon’s wisdom was famous in the whole world. In those days there were famous teachers of wisdom in Egypt and in the east, in Mesopotamia. Solomon is greater than all of them.

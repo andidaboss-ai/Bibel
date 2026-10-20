@@ -34,7 +34,7 @@ He said,
 “As surely as the LORD lives, and as surely as you live,
 I will not leave you.”
 Then the two of them went on.
-[7] 50 men of the sons of the prophets went too.
+[7] Then 50 men of the sons of the prophets went too.
 They stood facing them, some distance away.
 And the two of them stood by the Jordan.
 [8] Elijah took his cloak, rolled it up, and struck the water.
@@ -134,8 +134,8 @@ just as Elisha had said.
 > **What does this mean?**
 > Elisha’s first miracle is a miracle of healing and of life. That will be typical for him: he helps people in their need.
 > The salt does not work by itself. Elisha says clearly: the LORD has healed the water.
-> The Hebrew word for “barren” can also mean “causing miscarriages”. The water made the land barren and perhaps also harmed people and animals.
-> Near Jericho there is a large spring to this day. It is called “Elisha’s Spring”.
+> The Hebrew word for “barren” can also mean “causing miscarriages.” The water made the land barren and perhaps also harmed people and animals.
+> Near Jericho there is a large spring to this day. It is called “Elisha’s Spring.”
 
 ---
 

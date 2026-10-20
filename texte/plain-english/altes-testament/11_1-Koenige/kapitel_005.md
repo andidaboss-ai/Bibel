@@ -43,11 +43,11 @@ who has given David a wise son to rule over this great people.”
 I will do everything you wish with the cedar timber and the cypress timber.
 [9] My servants will bring it down from Lebanon to the sea.
 I will make it into rafts to go by sea to the place that you name to me.
-There I will have them broken up, and you can take the timber.
+There I will have the rafts broken up, and you can take the timber.
 And you will do what I wish, by giving food for my household.”
 [10] So Hiram gave Solomon cedar timber and cypress timber, as much as he wanted.
-[11] And Solomon gave Hiram 20,000 cors of wheat as food for his household,
-and 20 cors of pure oil.
+[11] And Solomon gave Hiram 20,000 cors of wheat (about 120,000 bushels) as food for his household,
+and 20 cors of pure oil (about 1,160 gallons).
 Solomon gave this to Hiram year after year.
 [12] The LORD gave Solomon wisdom, as he had promised him.
 And there was peace between Hiram and Solomon,
@@ -67,7 +67,7 @@ and the two of them made a treaty with each other.
 [13] King Solomon drafted forced laborers out of all Israel.
 There were 30,000 men.
 [14] He sent them to Lebanon, 10,000 a month, taking turns.
-They were in Lebanon for one month and at home for two months.
+They were in Lebanon for 1 month and at home for 2 months.
 And Adoniram was over the men who had to do forced labor.
 [15] Solomon had 70,000 who carried loads
 and 80,000 who cut stone in the mountains,

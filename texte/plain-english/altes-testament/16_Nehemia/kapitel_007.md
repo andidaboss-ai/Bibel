@@ -44,7 +44,7 @@ The number of the men of the people of Israel:
 > **What does this mean?**
 > Nehemiah finds the old list of the first people who returned, almost 100 years old. It appears almost exactly the same in Ezra 2.
 > The list helps to find out which families belong where. So later it can be decided who is to move to Jerusalem.
-> Here twelve leaders are named, in Ezra 2:2 only eleven. The twelve recall the twelve tribes of Israel.
+> Here 12 leaders are named, in Ezra 2:2 only 11. The number 12 recalls the 12 tribes of Israel.
 > In this chapter some numbers and names are a little different from Ezra 2. When long lists were copied, small differences easily happened.
 
 ---
@@ -164,13 +164,13 @@ They had 245 singing men and singing women.
 [68] Their horses were 736, their mules 245,
 [69] their camels 435, their donkeys 6,720.
 [70] Some of the heads of the families gave to the work.
-The governor gave to the treasury 1,000 darics of gold, about 18 pounds,
+The governor gave to the treasury 1,000 darics of gold (about 18 pounds),
 50 basins, and 530 priests’ garments.
 [71] Some of the heads of the families gave into the treasury for the work
-20,000 darics of gold, about 370 pounds,
-and 2,200 minas of silver, about 2,750 pounds.
+20,000 darics of gold (about 370 pounds),
+and 2,200 minas of silver (about 2,750 pounds).
 [72] What the rest of the people gave was 20,000 darics of gold,
-and 2,000 minas of silver, about 2,500 pounds,
+and 2,000 minas of silver (about 2,500 pounds),
 and 67 priests’ garments.
 [73] So the priests, the Levites, the gatekeepers, the singers,
 some of the people, the temple servants, and all Israel lived in their cities.

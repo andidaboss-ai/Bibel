@@ -7,7 +7,7 @@
 
 [1] Solomon spent 20 years building the LORD’s house and his own palace.
 At the end of these 20 years,
-[2] Solomon rebuilt the cities that Huram had given him.
+[2] Solomon built the cities that Huram had given him.
 He let people of Israel live there.
 [3] Solomon went to Hamath Zobah and defeated it.
 [4] He built Tadmor in the wilderness.
@@ -21,7 +21,7 @@ in Jerusalem, in Lebanon, and in all the land he ruled.
 
 > **What does this mean?**
 > After the temple and the palace, Solomon builds cities and fortresses in the whole land.
-> In 1 Kings 9:11–13 it is the other way around: there Solomon gives Huram twenty cities. Maybe Huram gave them back later because he did not like them.
+> In 1 Kings 9:11–13 it is the other way around: there Solomon gives Huram 20 cities. Maybe Huram gave them back later because he did not like them.
 > Tadmor is the later famous oasis city of Palmyra in the Syrian desert. 1 Kings 9:18 has “Tamar” in this place. The two names look very similar in Hebrew.
 > Hamath Zobah was in the north, in the area of today’s Syria.
 
@@ -70,9 +70,9 @@ He offered them on the LORD’s altar, which he had built in front of the porch.
 as Moses had commanded.
 He offered sacrifices on the Sabbaths, at the new moons, and at the yearly feasts.
 These feasts were three times a year:
-the feast of unleavened bread,
-the feast of weeks,
-and the feast of booths.
+the Feast of Unleavened Bread,
+the Feast of Weeks,
+and the Feast of Booths.
 [14] Solomon followed the orders of his father David.
 He gave the divisions of the priests their work.
 He gave the Levites their duties.
@@ -88,7 +88,7 @@ So the LORD’s house was completed.
 
 > **What does this mean?**
 > The temple is not only a building. Now regular worship begins: every day, on the Sabbath, at the new moon and at the three great feasts.
-> The three great feasts are: the feast of unleavened bread (Passover, in the spring), the feast of weeks (Shavuot, in early summer, later “Pentecost”) and the feast of booths (Tabernacles, in the fall). To this day Jews celebrate these three feasts.
+> The three great feasts are: the Feast of Unleavened Bread (Passover, in the spring), the Feast of Weeks (Shavuot, in early summer, later “Pentecost”) and the Feast of Booths (Tabernacles, in the fall). To this day Jews celebrate these three feasts.
 > Everything happens as David had ordered. Chronicles stresses that Solomon faithfully carries on the work of his father.
 
 ---
@@ -100,11 +100,11 @@ on the coast in the land of Edom.
 [18] Huram sent him ships through his servants.
 He also sent servants who knew the sea well.
 They sailed with Solomon’s servants to Ophir.
-From there they brought about 34,000 pounds of gold
+From there they brought 450 talents of gold (about 34,000 pounds)
 to King Solomon.
 
 > **What does this mean?**
 > Ezion Geber and Eloth (Elath) are on the Gulf of Aqaba, on the Red Sea.
 > The sailors from Tyre knew about sailing, Israel did not.
 > Nobody knows for sure where Ophir was. It was famous for its gold.
-> The Bible says “450 talents of gold”. A talent is about 75 pounds. 1 Kings 9:28 has 420 talents.
+> A talent is about 75 pounds. 1 Kings 9:28 has 420 talents.

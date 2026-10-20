@@ -54,7 +54,7 @@ They will not be woken from their sleep.
 
 ## A quiet hope (Verses 13–17)
 
-[13] “Oh, if only you would hide me in Sheol, the world of the dead,
+[13] “Oh, if only you would hide me in Sheol (the world of the dead)
 and keep me hidden until your anger is over!
 If only you would set a time for me and then remember me!
 [14] If a man dies, will he live again?

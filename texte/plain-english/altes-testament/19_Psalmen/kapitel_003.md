@@ -16,7 +16,7 @@ Selah.
 > The heading names the situation: David has to run away from his own son Absalom. Absalom wants to take the throne away from him (2 Samuel 15–18). This is one of the most painful moments in David’s life.
 > The worst thing is not only the many enemies, but their mocking: God does not help him anymore. Job knew this, too.
 > “Selah”: probably a sign for a pause in the music (see Psalm 1).
-> Note: In many other Bibles, the heading is verse 1. That is why every verse there is 1 higher.
+> Note: In some Bibles, the heading is verse 1. That is why every verse there is 1 higher.
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## Manasseh, the worst king of Judah (Verses 1–9)
 
-[1] Manasseh was twelve years old when he became king,
+[1] Manasseh was 12 years old when he became king,
 and he ruled for 55 years in Jerusalem.
 His mother’s name was Hephzibah.
 [2] He did what was evil in the LORD’s eyes,
@@ -30,7 +30,7 @@ in the house about which the LORD had said to David and to his son Solomon,
 which I have chosen out of all the tribes of Israel,
 I will put my name forever.
 [8] And I will not make the feet of Israel wander away anymore from the land
-that I gave their fathers,
+that I gave their ancestors,
 if only they will be careful to do everything I have commanded them,
 and to follow the whole law that my servant Moses commanded them.”
 [9] But they did not listen.
@@ -39,7 +39,7 @@ more than the nations had done whom the LORD destroyed before the people of Isra
 
 > **What does this mean?**
 > Manasseh is the son of the good King Hezekiah. But he undoes everything his father had built up. He rules for a very long time, 55 years, longer than any other king of Judah.
-> “The stars of the sky” (the WEB says “the army of the sky”) are the stars and planets. The Assyrians worshiped them as gods. Manasseh takes over this worship, probably also to please the Assyrians. Assyrian inscriptions name “Manasseh, king of Judah” as one of the kings who had to pay tribute.
+> “The stars of the sky” (the WEB, our English source text, says “the army of the sky”) are the stars and planets. The Assyrians worshiped them as gods. Manasseh takes over this worship, probably also to please the Assyrians. Assyrian inscriptions name “Manasseh, king of Judah” as one of the kings who had to pay tribute.
 > He even puts an idol in God’s temple. That is the worst breaking of the covenant.
 > He also sacrifices his son in the fire, like his grandfather Ahaz.
 > Manasseh ruled from about 697 to 642 BC, at first together with his father.
@@ -57,7 +57,6 @@ And with his idols he has also made Judah sin.
 that both ears of everyone who hears about it will ring.
 [13] I will stretch over Jerusalem the measuring line of Samaria
 and the plumb line of Ahab’s house.
-A plumb line is a string with a weight on it, used to check whether a wall is straight.
 I will wipe Jerusalem clean as a man wipes a dish:
 he wipes it and turns it upside down.
 [14] I will throw away the remnant of my inheritance
@@ -65,7 +64,7 @@ and hand them over to their enemies.
 They will become prey and plunder for all their enemies,
 [15] because they have done what is evil in my eyes
 and have made me angry,
-from the day their fathers came out of Egypt until this day.’”
+from the day their ancestors came out of Egypt until this day.’”
 [16] Besides this, Manasseh shed very much innocent blood,
 until he had filled Jerusalem with it from one end to the other.
 This was in addition to his sin through which he made Judah sin,
@@ -74,6 +73,7 @@ so that they did what was evil in the LORD’s eyes.
 > **What does this mean?**
 > Now God announces that Jerusalem too will fall, like Samaria.
 > The pictures are strong: with a measuring line and a plumb line a builder checks whether a wall is straight. Jerusalem will be measured with the same standard as Samaria and Ahab’s house. And as you wipe out a dirty dish and turn it upside down, so Jerusalem will be emptied.
+> Verse 13: A plumb line is a string with a weight on it, used to check whether a wall is straight.
 > Manasseh also had many innocent people killed. According to an old Jewish tradition, even the prophet Isaiah is said to have been killed under Manasseh. This is not in the Bible.
 > 2 Chronicles 33:11–17 also tells that Manasseh was later taken captive to Babylon, turned back to God there, prayed to God, and was heard. Even for such an evil person there was still a way back. The “Prayer of Manasseh” is an old prayer of repentance that is printed in an appendix in some Bibles.
 
@@ -103,7 +103,7 @@ as his father Manasseh had done.
 [21] He walked in all the ways that his father had walked in.
 He served the idols that his father had served,
 and he worshiped them.
-[22] He left the LORD, the God of his fathers,
+[22] He left the LORD, the God of his ancestors,
 and did not walk in the way of the LORD.
 [23] The servants of Amon plotted against him
 and killed the king in his own house.

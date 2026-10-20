@@ -18,7 +18,7 @@ And Hezekiah wept bitterly.
 [4] Isaiah had not yet gone out into the middle part of the city
 when the LORD’s word came to him:
 [5] “Turn back and tell Hezekiah, the leader of my people,
-‘The LORD, the God of your father David, says:
+‘The LORD, the God of your ancestor David, says:
 “I have heard your prayer.
 I have seen your tears.
 Look, I will heal you.
@@ -49,13 +49,13 @@ and that I will go up to the LORD’s house on the third day?”
 [9] Isaiah said,
 “This will be the sign for you from the LORD
 that the LORD will do what he has said:
-Should the shadow go forward ten steps,
-or go back ten steps?”
+Should the shadow go forward 10 steps,
+or go back 10 steps?”
 [10] Hezekiah answered,
-“It is easy for the shadow to go forward ten steps.
-No, let the shadow go back ten steps.”
+“It is easy for the shadow to go forward 10 steps.
+No, let the shadow go back 10 steps.”
 [11] Isaiah the prophet cried out to the LORD.
-And the LORD brought the shadow back ten steps,
+And the LORD brought the shadow back 10 steps,
 on the steps it had already gone down on the sundial of Ahaz.
 
 > **What does this mean?**
@@ -91,7 +91,7 @@ There is nothing among my treasures that I have not shown them.”
 “Hear the LORD’s word:
 [17] ‘Look, the days are coming
 when everything that is in your house,
-and what your fathers have stored up until this day,
+and what your ancestors have stored up until this day,
 will be carried away to Babylon.
 Nothing will be left,’
 says the LORD.

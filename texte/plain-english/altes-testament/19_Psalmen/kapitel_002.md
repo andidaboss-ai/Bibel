@@ -23,7 +23,7 @@ Let’s throw off the ropes they tied on us.”
 
 ## God laughs at them (Verses 4–6)
 
-[4] The one who sits on his throne in heaven laughs.
+[4] The one who sits in heaven laughs.
 The Lord makes fun of them.
 [5] Then he speaks to them in his anger.
 He fills them with terror in his fury:

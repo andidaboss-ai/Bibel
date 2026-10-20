@@ -57,7 +57,7 @@ Jerusalem will not be handed over to the king of Assyria.
 [11] Look, you have heard what the kings of Assyria have done to all lands,
 how they destroyed them completely.
 And will you be saved?
-[12] Did the gods of the nations save them, the nations that my fathers destroyed:
+[12] Did the gods of the nations save them, the nations that my ancestors destroyed:
 Gozan, Haran, Rezeph, and the people of Eden who were in Telassar?
 [13] Where is the king of Hamath, the king of Arpad,
 and the king of the city of Sepharvaim, of Hena, and of Ivvah?’”
@@ -110,7 +110,7 @@ that you, LORD, are God alone.”
 ‘You have prayed to me about Sennacherib king of Assyria, and I have heard you.’
 [21] This is the word that the LORD has spoken about him:
 ‘The virgin daughter of Zion despises you and laughs at you.
-The daughter of Jerusalem shakes her head behind you.
+The daughter of Jerusalem shakes her head at you.
 [22] Whom have you mocked and insulted?
 Against whom have you raised your voice
 and lifted up your eyes in pride?
@@ -140,7 +140,6 @@ and because your pride has come up to my ears,
 I will put my hook in your nose
 and my bridle in your lips,
 and I will turn you back on the road by which you came.’
-A bridle is the set of straps by which a horse is led.
 [29] “This will be the sign for you:
 This year you will eat what grows by itself,
 and in the second year what springs up from that.
@@ -164,9 +163,10 @@ says the LORD.
 for my own sake and for the sake of my servant David.’”
 
 > **What does this mean?**
-> God answers in a poem. Jerusalem is pictured as a young woman who laughs at the mighty king and shakes her head behind him.
+> God answers in a poem. Jerusalem is pictured as a young woman who laughs at the mighty king and shakes her head at him.
 > Sennacherib boasts about his deeds. But God says: without me you could not have done anything at all. I guide history. You are only a tool.
-> “A hook in your nose and a bridle in your lips”: this is how the Assyrians themselves led away their prisoners. Now the same will happen to him, like an animal that is led away.
+> “I will put my hook in your nose and my bridle in your lips”: this is how the Assyrians themselves led away their prisoners. Now the same will happen to him, like an animal that is led away.
+> Verse 28: A bridle is the set of straps by which a horse is led.
 > The sign: because of the war, the fields cannot be properly farmed for two years. But in the third year people will sow and harvest normally again. Life goes on.
 > The “remnant” is an important idea in Isaiah: even when much is destroyed, a remnant is left from which something new can grow, like a tree that takes root again.
 
@@ -177,7 +177,7 @@ for my own sake and for the sake of my servant David.’”
 [35] That night the LORD’s angel went out
 and struck down 185,000 men in the camp of the Assyrians.
 When people got up early in the morning,
-look, they were all dead bodies.
+they saw that all of them were dead bodies.
 [36] So Sennacherib king of Assyria left,
 went home,
 and stayed in Nineveh.

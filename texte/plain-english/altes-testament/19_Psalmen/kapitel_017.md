@@ -66,7 +66,7 @@ and they save up riches for their children.
 When I wake up, I will be satisfied with seeing what you look like.
 
 > **What does this mean?**
-> Verse 14 is hard to understand in Hebrew. It can be explained in different ways. The English text we follow (the WEB) understands it like this: God provides richly for those he loves. Others translate: God fills the stomachs of the wicked with punishment.
+> Verse 14 is hard to understand in Hebrew. It can be explained in different ways. The WEB, our English source text, understands it like this: God provides richly for those he loves. Others translate: God fills the stomachs of the wicked with punishment.
 > “People of this world, whose share is in this life”: people for whom only the here and now counts.
 > Verse 15 is the high point: The person praying does not only want a full stomach. He wants to see God. That is what truly satisfies him.
 > “When I wake up”: Perhaps the next morning. Many teachers, Jewish and Christian, also see a hope beyond death here: waking up to eternal life with God.

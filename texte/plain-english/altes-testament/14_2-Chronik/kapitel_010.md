@@ -24,7 +24,7 @@ So the people left.
 > This story is almost the same in 1 Kings 12.
 > Shechem was in the north. The northern tribes did not want to simply accept Rehoboam as king. They wanted to negotiate.
 > A “yoke” is a wooden beam that is used to hitch animals to a plow. It is a picture of burden and oppression. The people suffered under Solomon’s high taxes and the forced labor.
-> Chronicles does not tell who Jeroboam was. It expects the readers to know 1 Kings 11: a prophet had announced to Jeroboam that he would become king over the ten northern tribes.
+> Chronicles does not tell who Jeroboam was. It expects the readers to know 1 Kings 11: a prophet had announced to Jeroboam that he would become king over the 10 northern tribes.
 
 ---
 
@@ -92,6 +92,6 @@ to flee to Jerusalem.
 [19] So Israel rebelled against David’s house to this day.
 
 > **What does this mean?**
-> From now on there are two kingdoms: in the north Israel with ten tribes, in the south Judah with Jerusalem. That happened around 930 BC.
+> From now on there are two kingdoms: in the north Israel with 10 tribes, in the south Judah with Jerusalem. That happened around 930 BC.
 > Of all people, Rehoboam sends the chief of the forced labor to the angry people. That was very unwise. In 1 Kings 12:18 Hadoram is called “Adoram”.
 > After this, Chronicles tells almost only about Judah. The northern kingdom only appears when it has to do with Judah. But for Chronicles the north also remains part of God’s people: “Israel”.

@@ -25,7 +25,7 @@ Not many people had celebrated it the way it is written.
 > **What does this mean?**
 > The Passover recalls the freeing from Egypt. Normally it is celebrated in the first month. But the law allows the Passover to be held in the second month if someone was unclean or far away in the first month (Numbers 9:6–13).
 > What is special: Hezekiah also invites the northern kingdom, “Ephraim and Manasseh.” The northern kingdom had just been conquered by the Assyrians (722 BC). Many had been carried away. Hezekiah invites those who were left.
-> “From Beersheba to Dan” means: from the far south to the far north. The whole people, as in the time of David and Solomon.
+> “From Beersheba to Dan” means: from the far south to the far north. The whole nation, as in the time of David and Solomon.
 
 ---
 
@@ -136,7 +136,7 @@ They sang to the LORD with loud instruments.
 They understood well how to serve the LORD.
 So the people ate the festival meals for all seven days.
 They offered peace offerings.
-And they confessed before the LORD, the God of their ancestors.
+And they confessed their sins to the LORD, the God of their ancestors.
 [23] Then the whole assembly decided to celebrate for seven more days.
 So they joyfully celebrated for another seven days.
 [24] Hezekiah, king of Judah, gave the assembly 1,000 bulls and 7,000 sheep for offerings.
@@ -157,5 +157,5 @@ Their prayer reached his holy home in heaven.
 > **What does this mean?**
 > The joy is so great that the feast is simply made longer, by another week. That was already the case at the dedication of Solomon’s temple (Chapter 7:8–9).
 > Everyone celebrates together: Judah and Israel, priests and people, and also the foreigners. God’s feast is open to all who come.
-> “Since the time of Solomon”: for the first time since the kingdom was divided, the whole people celebrates together again.
+> “Since the time of Solomon”: for the first time since the kingdom was divided, the whole nation celebrates together again.
 > The chapter ends with the blessing and with the certainty: the prayer has arrived in heaven. God has heard.

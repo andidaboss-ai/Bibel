@@ -38,7 +38,7 @@ and everything that swims along the paths of the seas.
 
 > **What does this mean?**
 > At night, David looks up at the starry sky. He feels tiny. And yet he is amazed: The great God thinks of small human beings and takes care of them!
-> Verse 5: “Only a little lower than the angels”: In Hebrew, it says “Elohim.” This can mean “God” or “heavenly beings.” Many other Bibles translate it here as “God.” Human beings have a high dignity.
+> Verse 5: “Only a little lower than the angels”: In Hebrew, it says “Elohim.” This can mean “God” or “heavenly beings.” Some Bibles translate it here as “God.” Human beings have a high dignity.
 > Verses 6–8: God has given human beings responsibility for the animals and the earth (compare Genesis 1:26–28). “To rule” here does not mean to exploit. It means to take care of things responsibly, like a good king.
 > Job had asked the same question in bitterness: What is a human being, that you make so much of him and keep testing him? (Job 7:17). Psalm 8 asks it full of wonder.
 > The New Testament relates these verses to Jesus, the “Son of Man,” to whom everything is made subject (Hebrews 2:6–9).

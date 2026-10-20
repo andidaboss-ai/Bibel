@@ -39,7 +39,7 @@ Their children dance.
 [12] They sing to the tambourine and the harp.
 They have fun at the sound of the flute.
 [13] They spend their days in good times.
-Then in an instant they go down to Sheol, the world of the dead.
+Then in an instant they go down to Sheol (the world of the dead).
 [14] They say to God, ‘Go away from us!
 We don’t want to know your ways.
 [15] Who is the Almighty, that we should serve him?

@@ -23,7 +23,7 @@ Whose spirit came out of you?
 
 [5] “The spirits of the dead tremble,
 those beneath the waters and all who live there.
-[6] Sheol lies naked before God.
+[6] Sheol (the world of the dead) lies naked before God.
 Abaddon has no cover.
 [7] He stretches out the north over empty space.
 He hangs the earth on nothing.
@@ -45,7 +45,7 @@ But the thunder of his power – who can understand it?”
 
 > **What does this mean?**
 > Job shows that he knows God’s greatness much better than Bildad. His description is magnificent:
-> – Even Sheol, the world of the dead, is open before God. Nothing is hidden from him.
+> – Even Sheol is open before God. Nothing is hidden from him.
 > – “He hangs the earth on nothing”: an amazing sentence. Many ancient peoples believed that the earth rested on pillars or on the back of an animal. Job says: The earth hangs freely in space.
 > – God wraps up water in the clouds, and they do not burst.
 > – The horizon is the boundary between light and darkness.

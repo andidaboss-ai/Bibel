@@ -22,7 +22,7 @@ They trusted in you, and they were not disappointed.
 > Psalm 22 is one of the most important psalms in the whole Bible. It begins with the most desperate cry there is: “My God, my God, why have you abandoned me?”
 > Jesus prayed this sentence on the cross, in Aramaic: “Eli, Eli, lima sabachthani?” (Matthew 27:46; Mark 15:34).
 > The person praying feels completely abandoned by God. But he still speaks to God: “My God.” He holds on to God, even when he cannot feel him.
-> Verse 2: “I do not keep silent”: I do not stop calling out, day and night. Many other Bibles translate: and I find no rest.
+> Verse 2: “I do not keep silent”: I do not stop calling out, day and night. Some Bibles translate: and I find no rest.
 > Verses 4–5: He remembers: In the past, God helped our ancestors. Why not me?
 
 ---
@@ -74,7 +74,7 @@ They throw dice for my clothing.
 > **What does this mean?**
 > The enemies are compared with wild animals: bulls, lions, dogs. Bashan was a region with especially strong, well-fed cattle.
 > The person praying describes terrible pain in his body: bones out of joint, thirst, weakness, being close to death.
-> Verse 16: “They have pierced my hands and feet.” This is what the English text we follow (the WEB) says, and the old Greek translation. In today’s Hebrew text, there is a word that can also be read as: like a lion (they are at) my hands and feet. Jewish translations mostly follow this reading. Among the Dead Sea Scrolls, there is one manuscript that seems to read a verb here.
+> Verse 16: “They have pierced my hands and feet.” This is what the WEB, our English source text, says, and the old Greek translation. In today’s Hebrew text, there is a word that can also be read as: like a lion (they are at) my hands and feet. Jewish translations mostly follow this reading. Among the Dead Sea Scrolls, there is one manuscript that seems to read a verb here.
 > Verse 18: The Gospels report that the soldiers under the cross divided up Jesus’ clothes and cast lots for his tunic (John 19:23–24).
 > That is why, for Christians, Psalm 22 is an amazing look ahead to the suffering of Jesus. For Jews, it is the prayer of a righteous person who suffers, and even of the whole suffering people of Israel. Both readings take the pain of the person praying seriously.
 

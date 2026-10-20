@@ -28,7 +28,7 @@ yes, wonders that cannot be counted.
 He moves on, but I do not notice him.
 [12] He snatches things away. Who can stop him?
 Who will say to him, ‘What are you doing?’
-[13] God does not hold back his anger.
+[13] “God does not hold back his anger.
 The helpers of Rahab bow down under him.
 
 > **What does this mean?**

@@ -31,7 +31,7 @@ In the morning they sprout like new grass.
 By evening it is withered and dry.
 
 > **What does this mean?**
-> God is eternal. He was already there before the mountains came to be. For people, he is like a home, a “dwelling place,” where they are safe.
+> God is eternal. He was already there before the mountains came to be. For people, he is like a “home” where they are safe.
 > Verse 3: “Back to dust”: The Hebrew word means something crushed, like dust. People return to the dust they were made from (Genesis 3:19).
 > Verse 4: For God, a thousand years are like a day. Peter quotes this in 2 Peter 3:8.
 > Verses 5–6: Human life is like grass: fresh in the morning, withered in the evening.

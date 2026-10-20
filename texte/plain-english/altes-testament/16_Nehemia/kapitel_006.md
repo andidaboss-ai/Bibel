@@ -66,13 +66,13 @@ For they will come to kill you.
 Yes, in the night they will come to kill you.”
 [11] I said,
 “Should a man like me run away?
-And who is there like me who could go into the temple to save his life?
+And who is there like me who would go into the temple to save his life?
 I will not go in.”
 [12] I saw clearly that God had not sent him.
 He had spoken this prophecy against me
 because Tobiah and Sanballat had hired him.
-[13] He was hired so that I would be afraid, do so, and sin.
-Then they would have something to spread an evil report,
+[13] He was hired so that I would be afraid, do what he said, and sin.
+Then they would have something for an evil report about me,
 so that they could put me to shame.
 [14] “My God, remember Tobiah and Sanballat for these deeds of theirs,
 and also the prophetess Noadiah

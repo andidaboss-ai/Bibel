@@ -32,7 +32,7 @@ than your guilt deserves.
 [7] “Can you find out the deep secrets of God?
 Can you discover the limits of the Almighty?
 [8] They are as high as heaven. What can you do?
-They are deeper than Sheol, the world of the dead. What can you know?
+They are deeper than Sheol (the world of the dead). What can you know?
 [9] They are longer than the earth
 and wider than the sea.
 [10] If he passes by, or locks someone up, or calls a court together,
@@ -40,12 +40,12 @@ who can stop him?
 [11] For he knows who is false.
 He sees wrongdoing too, even when he does not seem to pay attention to it.
 [12] An empty-headed man will become wise
-when a wild donkey’s colt is born a human being.
+when a human being is born as a wild donkey’s colt.
 
 > **What does this mean?**
 > Zophar says something true: God’s wisdom is endlessly great. No human being can fully understand it (compare Romans 11:33).
 > But he uses this truth against Job. If God’s ways are so far beyond understanding, then Zophar could not understand them either. And yet he acts as if he knew exactly why Job is suffering.
-> Verse 12 is a mocking proverb: A fool will become wise as little as a wild donkey is born a human being. So never. Zophar means Job.
+> Verse 12 is a mocking proverb: A fool will become wise just as soon as a human being is born as a wild donkey’s colt. So never. Zophar means Job.
 
 ---
 

@@ -53,7 +53,7 @@ My plans are torn apart,
 and so are the wishes of my heart.
 [12] They turn night into day.
 ‘The light is near,’ they say, when it is dark.
-[13] If I look to Sheol, the world of the dead, as my home,
+[13] If I look to Sheol (the world of the dead) as my home,
 if I have made my bed in the darkness,
 [14] if I have said to decay, ‘You are my father,’
 and to the worm, ‘My mother’ and ‘My sister,’

@@ -53,7 +53,7 @@ Evil people will not crush them anymore, as they did at first,
 I will defeat all your enemies.
 And I tell you: The LORD will build a house for you.
 [11] Your life will come to an end,
-and you will go to be with your fathers.
+and you will go to be with your ancestors.
 Then I will raise up one of your descendants after you.
 He will be one of your sons.
 And I will make his kingdom strong.
@@ -63,7 +63,7 @@ And I will make his throne firm forever.
 and he will be my son.
 I will never take my loving kindness away from him,
 as I took it away from the king who ruled before you.
-[14] I will put him over my house and my kingdom forever.
+[14] I will give him a firm place in my house and in my kingdom forever.
 His throne will stand firm forever.”’”
 [15] Nathan told David all these words.
 He told him everything he had seen in this vision.
@@ -85,8 +85,8 @@ He told him everything he had seen in this vision.
 He said,
 “Who am I, LORD God, and what is my house, that you have brought me this far?
 [17] And even this was a small thing in your eyes, God.
-You have also spoken about the future of your servant’s house,
-far into the future.
+You have also spoken about your servant’s house
+for a long time to come.
 You have looked at me as if I were a man of high degree, LORD God.
 [18] What more can I, David, say to you
 about the honor you have given your servant?

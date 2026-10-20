@@ -48,7 +48,7 @@ You will see how the wicked are paid back.
 [9] For you have made the LORD your safe place,
 and the Most High your home.
 [10] No evil will happen to you.
-No plague will come near your tent.
+No plague will come near your home.
 [11] For he will put his angels in charge of you,
 to guard you in all your ways.
 [12] They will carry you in their hands,

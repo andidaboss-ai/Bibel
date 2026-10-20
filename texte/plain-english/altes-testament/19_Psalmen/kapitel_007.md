@@ -30,7 +30,7 @@ Selah.
 
 > **What does this mean?**
 > David swears an oath, much like Job (Chapter 31): If I am guilty, let disaster strike me.
-> Verse 4: The words in parentheses are hard to understand. The English text we follow (the WEB) translates: “I have robbed the one who was my enemy for no reason.” But many other Bibles understand the Hebrew word as “to set free” or “to spare.” Then it means: Yes, I have even rescued the one who was my enemy for no reason. That would fit David, who spared Saul’s life two times (1 Samuel 24 and 26). Both readings are possible.
+> Verse 4: The words in parentheses are hard to understand. The WEB, our English source text, translates: “I have robbed the one who was my enemy for no reason.” But some Bibles understand the Hebrew word as “to set free” or “to spare.” Then it means: Yes, I have even rescued the one who was my enemy for no reason. That would fit David, who spared Saul’s life two times (1 Samuel 24 and 26). Both readings are possible.
 
 ---
 

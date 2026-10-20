@@ -36,7 +36,7 @@ He covered the house with beams and boards of cedar.
 And they rested on the house with cedar beams.
 
 > **What does this mean?**
-> The building of the temple is a high point in the history of Israel. That is why the time is given exactly: 480 years after the exodus from Egypt. 480 is twelve times forty, twelve generations of 40 years each. Maybe the number is also meant as a symbol. Scholars usually date the building of the temple to about 960 BC.
+> The building of the temple is a high point in the history of Israel. That is why the time is given exactly: 480 years after the exodus from Egypt. 480 is 12 times 40: 12 generations of 40 years each. Maybe the number is also meant as a symbol. Scholars usually date the building of the temple to about 960 BC.
 > The month of Ziv is about April to May, in spring.
 > The Bible gives the measurements in cubits. A cubit is about 18 inches. The temple was 60 cubits long, 20 wide, and 30 high. The porch was 20 by 10 cubits. The floors were 5, 6, and 7 cubits wide and each 5 cubits high.
 > The temple was not huge, about the size of a small church today. But it was very splendid. It was not meant for large gatherings. The people gathered outside in the courtyards. Inside, only the priests served.
@@ -48,8 +48,8 @@ And they rested on the house with cedar beams.
 
 [11] Then the word of the LORD came to Solomon:
 [12] “About this house that you are building:
-if you walk in my statutes
-and do my ordinances
+if you walk in my laws
+and follow my rules
 and keep all my commandments and walk in them,
 then I will fulfill with you my word that I spoke to your father David.
 [13] I will live among the people of Israel
@@ -158,4 +158,4 @@ So he spent seven years building it.
 > **What does this mean?**
 > The month of Bul is about October to November.
 > From the second month of the fourth year to the eighth month of the eleventh year is, counted exactly, seven and a half years. The Bible says it in round numbers: seven years. In the Bible the number seven often stands for completeness, like the seven days of creation.
-> In the next chapter we will read that Solomon spent thirteen years building his own palace, almost twice as long (1 Kings 7:1).
+> In the next chapter we will read that Solomon spent 13 years building his own palace, almost twice as long (1 Kings 7:1).

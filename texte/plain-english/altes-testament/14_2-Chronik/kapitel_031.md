@@ -113,7 +113,7 @@ and to everyone listed in the family records of the Levites.
 > **What does this mean?**
 > Many goods are involved. That is why honest and faithful managers are needed. Chronicles names them all. The words “faithfully” and “position of trust” appear several times.
 > The gifts were shared out fairly: “to the great as well as to the small.” Even the priests who lived far away in the country received their share. And the families, wives and children were provided for too.
-> “Three years old or older”: even the little boys of the priestly families received a share. Some experts think that it originally said “thirty years,” as in 1 Chronicles 23:3.
+> “Three years old or older”: even the little boys of the priestly families received a share. Some experts think that it originally said “30 years,” as in 1 Chronicles 23:3.
 > These verses are hard to understand in Hebrew. But the meaning is clear: no one was forgotten.
 
 ---
