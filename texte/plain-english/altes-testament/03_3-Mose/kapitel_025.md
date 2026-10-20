@@ -34,8 +34,8 @@ and for the animals that live in your land.
 
 ## The Year of Jubilee: freedom in the whole land (Verses 8–13)
 
-[8] “‘You shall count seven Sabbath years, seven times seven years.
-The time of seven Sabbath years shall be 49 years for you.
+[8] “‘You shall count 7 Sabbath years, 7 times 7 years.
+The time of 7 Sabbath years shall be 49 years for you.
 [9] Then you shall have the loud trumpet sounded on the tenth day of the seventh month.
 On the Day of Atonement you shall sound the trumpet throughout all your land.
 [10] You shall make the fiftieth year holy.

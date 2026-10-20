@@ -11,7 +11,7 @@ blessed the people of Israel before his death.
 “The LORD came from Sinai,
 and he rose like the sun over them from Seir.
 He shone out from Mount Paran.
-He came from among ten thousands of holy ones.
+He came from among tens of thousands of holy ones.
 At his right hand was a fiery law for them.
 [3] Yes, he loves the people.
 All his holy ones are in your hand.
@@ -95,7 +95,7 @@ on the top of the head of the one who was set apart from his brothers.
 His horns are the horns of the wild ox.
 With them he will push the peoples,
 all of them, to the ends of the earth.
-They are the ten thousands of Ephraim.
+They are the tens of thousands of Ephraim.
 They are the thousands of Manasseh.”
 
 > **What does this mean?**

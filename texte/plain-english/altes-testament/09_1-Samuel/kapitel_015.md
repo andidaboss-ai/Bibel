@@ -58,11 +58,11 @@ They destroyed only what was worthless and of no use.
 
 ---
 
-## God regrets making Saul king (Verses 10–16)
+## God is sorry he made Saul king (Verses 10–16)
 
 [10] Then the LORD spoke to Samuel.
 He said,
-[11] “I regret that I made Saul king.
+[11] “I am sorry that I made Saul king.
 He has turned away from following me.
 He has not done what I commanded.”
 Samuel was angry.
@@ -89,7 +89,7 @@ We have completely destroyed the rest.”
 Saul said, “Tell me.”
 
 > **What does this mean?**
-> “I regret”: God is sad about Saul. Here the Bible describes God with human feelings. God is not a cold God. It hurts him when a person turns away from him.
+> “I am sorry”: God is sad about Saul. Here the Bible describes God with human feelings. God is not a cold God. It hurts him when a person turns away from him.
 > Samuel is angry and prays all night. He loves Saul and is deeply disappointed.
 > Here Carmel is not the mountain in the north, but a town in the south of Judah. Saul sets up a monument there, for himself, not for God. This shows how proud he has become.
 > Saul greets Samuel happily: I have done everything! But the bleating of the sheep gives him away. You cannot hide the truth.
@@ -172,7 +172,7 @@ And Saul worshiped the LORD.
 > The second time we see what Saul really cares about: “Please honor me now before the elders.” He wants to look good to others.
 > The torn-off edge of the robe becomes a sign: Just as the robe is torn, the kingdom is torn away from Saul. The “neighbor” who is better is David. Later David will cut off an edge of Saul’s robe (Chapter 24:4).
 > “The Strength of Israel” is a name for God. The Hebrew word can also mean “glory” or “faithfulness.”
-> In verses 11 and 35 it says that God “regretted.” In verse 29 it says that God does not “change his mind.” In Hebrew it is the same word. Is that a contradiction? It is about two different things: God has feelings. He is sad about Saul (verses 11 and 35). But God does not change his just judgment like a person who can easily be talked into something else (verse 29). God is both caring and reliable.
+> In verses 11 and 35 it says that God was “sorry.” In verse 29 it says that God does not “change his mind.” In Hebrew it is the same word. Is that a contradiction? It is about two different things: God has feelings. He is sad about Saul (verses 11 and 35). But God does not change his just judgment like a person who can easily be talked into something else (verse 29). God is both caring and reliable.
 > In the end Samuel does go with Saul, probably so that the people are not divided.
 
 ---
@@ -192,7 +192,7 @@ Then Samuel cut Agag to pieces before the LORD in Gilgal.
 And Saul went up to his house in Gibeah of Saul.
 [35] Samuel never went to see Saul again for the rest of his life.
 But Samuel was sad and mourned for Saul.
-And the LORD regretted that he had made Saul king over Israel.
+And the LORD was sorry that he had made Saul king over Israel.
 
 > **What does this mean?**
 > Agag thinks he has been saved. But Samuel gives the reason for his death: Agag himself was a cruel warrior who had taken children from many mothers. The judgment strikes him for his own deeds.

@@ -115,7 +115,7 @@ So the priest shall make atonement for her before the LORD because of her unclea
 
 > **What does this mean?**
 > This is about an illness: bleeding that does not stop.
-> The New Testament tells about a woman who suffered from bleeding like this for twelve years. The whole time she was “unclean” and shut out. Full of trust, she touched Jesus’ clothes and was healed. Jesus did not scold her for touching him. He said lovingly to her: “Daughter, your faith has made you well. Go in peace” (Mark 5:25–34).
+> The New Testament tells about a woman who suffered from bleeding like this for 12 years. The whole time she was “unclean” and shut out. Full of trust, she touched Jesus’ clothes and was healed. Jesus did not scold her for touching him. He said lovingly to her: “Daughter, your faith has made you well. Go in peace” (Mark 5:25–34).
 
 ---
 

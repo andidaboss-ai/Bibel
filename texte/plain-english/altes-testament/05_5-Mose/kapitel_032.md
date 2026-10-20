@@ -149,8 +149,8 @@ The LORD has not done all this.’”
 There is no understanding in them.
 [29] If only they were wise and understood this!
 If only they would think about how things will end for them!
-[30] How could one man chase a thousand,
-and two put ten thousand to flight,
+[30] How could 1 man chase 1,000,
+and 2 put 10,000 to flight,
 unless their Rock had sold them,
 and the LORD had handed them over?
 [31] For their rock is not like our Rock.

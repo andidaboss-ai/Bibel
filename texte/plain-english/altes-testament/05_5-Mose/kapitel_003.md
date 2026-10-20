@@ -14,7 +14,7 @@ You shall do to him what you did to Sihon, the king of the Amorites, who lived i
 [3] So the LORD our God also gave Og, the king of Bashan, and all his people into our hand.
 We struck him down until no one was left to him.
 [4] At that time we took all his cities.
-There was not one city that we did not take from them:
+There was not a single city that we did not take from them:
 60 cities, the whole region of Argob, the kingdom of Og in Bashan.
 [5] All these were cities made strong with high walls, gates, and bars.
 And there were also very many villages without walls.
@@ -42,7 +42,7 @@ It was about 13 and a half feet long and about 6 feet wide, measured by the ordi
 
 > **What does this mean?**
 > Hermon is the highest mountain in the area, more than 9,200 feet high. There is often snow on its top.
-> The Bible says: nine cubits long and four cubits wide. A cubit is about 18 inches.
+> The Bible says: 9 cubits long and 4 cubits wide. A cubit is about 18 inches.
 > Og was the last of the “Rephaim,” an ancient people of very tall people. His huge bed could still be seen in Rabbah long afterward, like a famous sight. Rabbah is today’s city of Amman, the capital of Jordan.
 > Some interpreters think that “bed” means a coffin made of dark stone that looked like iron. That is not certain.
 

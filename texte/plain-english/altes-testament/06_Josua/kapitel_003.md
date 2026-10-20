@@ -47,7 +47,7 @@ stand still in the Jordan.’”
 and that he will surely drive out the Canaanite, the Hittite, the Hivite, the Perizzite,
 the Girgashite, the Amorite, and the Jebusite in front of you:
 [11] Look, the ark of the covenant of the Lord of all the earth is going ahead of you into the Jordan.
-[12] So now take twelve men from the tribes of Israel, one man from each tribe.
+[12] So now take 12 men from the tribes of Israel, a man from each tribe.
 [13] When the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth,
 rest in the water of the Jordan,
 the water of the Jordan will be cut off.

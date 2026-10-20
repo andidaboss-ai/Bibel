@@ -43,8 +43,8 @@ In the first row a ruby, a topaz and a beryl.
 [12] In the third row a jacinth, an agate and an amethyst.
 [13] In the fourth row a chrysolite, an onyx and a jasper.
 They were set in gold settings.
-[14] There were twelve stones, one for each name of the people of Israel.
-A name was engraved on each stone, the way a seal is engraved, for the twelve tribes.
+[14] There were 12 stones, one for each name of the people of Israel.
+A name was engraved on each stone, the way a seal is engraved, for the 12 tribes.
 
 [15] They made chains for the breastplate like braided cords of pure gold.
 [16] They made two settings of gold and two rings of gold.
@@ -64,7 +64,7 @@ as the LORD commanded Moses.
 
 > **What does this mean?**
 > The Bible gives the size as “a span.” A span is about 9 inches.
-> The twelve stones stand for the twelve tribes of Israel. The priest carries them on his heart before God.
+> The 12 stones stand for the 12 tribes of Israel. The priest carries them on his heart before God.
 
 ---
 

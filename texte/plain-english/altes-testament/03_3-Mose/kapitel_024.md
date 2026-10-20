@@ -21,9 +21,9 @@ This is a rule forever, for all your generations.
 
 ---
 
-## The twelve loaves of bread (Verses 5–9)
+## The 12 loaves of bread (Verses 5–9)
 
-[5] “Take fine flour and bake twelve loaves from it.
+[5] “Take fine flour and bake 12 loaves from it.
 Each loaf shall be made from about 4½ quarts of flour.
 [6] Set them in two rows, six in each row, on the table of pure gold before the LORD.
 [7] Put pure frankincense on each row.
@@ -37,7 +37,7 @@ For it is most holy for him, from the LORD’s offerings by fire, as a rule fore
 > **What does this mean?**
 > Verse 7: Frankincense is a sweet-smelling resin that is burned.
 > The Bible says: two tenths of an ephah for each loaf. An ephah is about 6 gallons. These were large loaves.
-> This bread is called the “showbread.” There are twelve loaves, for the twelve tribes of Israel. They lie before God all the time. That way the whole people is always present before God.
+> This bread is called the “showbread.” There are 12 loaves, for the 12 tribes of Israel. They lie before God all the time. That way the whole people is always present before God.
 > Every week on the Sabbath, new bread is put there. The priests eat the old bread.
 > In the New Testament, Jesus reminds people that David once ate from this holy bread when he was in great need (Mark 2:25–26; 1 Samuel 21). With this Jesus says: A person’s need matters more to God than a rule.
 

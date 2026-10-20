@@ -106,7 +106,7 @@ with the bank of the Jordan to the far end of the sea of Chinnereth, beyond the 
 [29] Moses gave an inheritance to the half-tribe of Manasseh.
 It was for the half-tribe of the people of Manasseh by their clans.
 [30] Their territory went from Mahanaim: all Bashan, the whole kingdom of Og, king of Bashan,
-and all the villages of Jair, which are in Bashan, sixty cities.
+and all the villages of Jair, which are in Bashan, 60 cities.
 [31] Half of Gilead, Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan,
 were for the people of Machir, the son of Manasseh,
 for half of the people of Machir by their clans.

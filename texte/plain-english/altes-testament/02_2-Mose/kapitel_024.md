@@ -27,7 +27,7 @@ All the people answered with one voice,
 [4] Moses wrote down all the LORD’s words.
 Early the next morning he got up.
 At the foot of the mountain he built an altar.
-He also set up twelve pillars, for the twelve tribes of Israel.
+He also set up 12 pillars, for the 12 tribes of Israel.
 [5] Then he sent young men of the people of Israel.
 They offered burnt offerings
 and sacrificed cattle as peace offerings to the LORD.
@@ -46,7 +46,7 @@ that the LORD has made with you, based on all these words.”
 > Now the covenant between God and Israel is solemnly made.
 > First the people hear what God says. Then they say yes – even twice.
 > Moses writes everything down. This is how the “Book of the Covenant” comes about (Chapters 20–23).
-> The twelve pillars stand for the twelve tribes. The whole people takes part.
+> The 12 pillars stand for the 12 tribes. The whole people takes part.
 > The blood connects both sides: one part goes on the altar (for God), one part on the people. Back then, a covenant was often sealed with blood. That meant: this covenant is a matter of life and death.
 > Jesus takes up these words at the Last Supper. He takes the cup and says: “This is my blood of the new covenant” (Mark 14:24). Christians believe: with Jesus a new covenant begins.
 

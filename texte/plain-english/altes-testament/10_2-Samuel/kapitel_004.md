@@ -75,6 +75,6 @@ and buried it in Abner’s grave in Hebron.
 
 > **What does this mean?**
 > David says: it was not you who saved me. The LORD has rescued me from all trouble. I do not need murderers to become king.
-> He calls Ishbosheth a “righteous man.” He was David’s enemy, but he was innocent of this crime.
+> He calls Ishbosheth a “righteous man.” Righteous means: living right before God. Ishbosheth was David’s enemy, but he was innocent of this crime.
 > David punishes the murderers harshly. Their hands and feet were cut off, because they had murdered with their hands and had run with their feet to report it. The dead bodies were hung up in public as a warning to everyone. This is a cruel punishment from a harsh time, not an example for today.
 > Once again David shows: he does not want to come to power through violence. He waits for God’s way.

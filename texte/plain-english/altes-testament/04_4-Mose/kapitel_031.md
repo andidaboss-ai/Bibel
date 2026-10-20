@@ -108,9 +108,9 @@ Do it together with Eleazar the priest and the heads of the families of the comm
 one for the soldiers who went into battle,
 and one for the whole community.
 [28] From the soldiers who went into battle, collect a tax for the LORD:
-one out of every 500, from the people, from the cattle, from the donkeys and from the flocks.
+1 out of every 500, from the people, from the cattle, from the donkeys and from the flocks.
 [29] Take it from their half and give it to Eleazar the priest, as a wave offering for the LORD.
-[30] From the half of the people of Israel, you must take one out of every 50,
+[30] From the half of the people of Israel, you must take 1 out of every 50,
 from the people, from the cattle, from the donkeys, from the flocks, from all the livestock.
 Give them to the Levites, who do the work at the LORD’s tabernacle.”
 The tabernacle is the holy tent where God lives among his people.
@@ -135,7 +135,7 @@ as the LORD had commanded Moses.
 [44] 36,000 cattle,
 [45] 30,500 donkeys
 [46] and 16,000 people –
-[47] from the half of the people of Israel, Moses took one out of every 50, people and animals.
+[47] from the half of the people of Israel, Moses took 1 out of every 50, people and animals.
 He gave them to the Levites, who did the work at the LORD’s tabernacle,
 as the LORD had commanded Moses.
 
@@ -143,7 +143,7 @@ as the LORD had commanded Moses.
 > Verse 29: A wave offering is a gift that is lifted up before God.
 > The plunder is divided fairly: The 12,000 soldiers get half, and the whole people get the other half. That way, those who stayed at home also get something.
 > From both halves, a part goes to God, that is, to the priests and Levites.
-> The numbers are very exact. You can check them: 675 is exactly one five-hundredth of 337,500, and so on. The math works out.
+> The numbers are very exact. You can check them: 337,500 divided by 500 is exactly 675, and so on. The math works out.
 > It is especially hard that people are also counted as “plunder,” the girls who were taken captive. 32 of them went to the priests, probably as servants at the holy tent. This shows a world in which people were seen as property. Today we know: No person may be the property of another.
 > Later there were rules to protect the girls. An Israelite could not simply use or sell a woman taken captive. He had to give her time to mourn and treat her like a wife (Deuteronomy 21:10–14). By today’s standards, this is still not a just situation.
 

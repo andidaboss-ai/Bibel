@@ -56,7 +56,7 @@ Then he will be clean.
 
 [10] “On the eighth day he shall take two male lambs without any fault,
 one female lamb one year old without any fault,
-about 7 quarts of fine flour mixed with oil as a meal offering,
+about seven quarts of fine flour mixed with oil as a meal offering,
 and about two-thirds of a pint of oil.
 [11] The priest who cleanses him shall set the man who is to be cleansed, and these things,
 before the LORD, at the door of the Tent of Meeting.
@@ -98,7 +98,7 @@ So the priest shall make atonement for him, and he will be clean.
 
 [21] “If he is poor and cannot afford so much,
 he shall take one male lamb as a trespass offering, to be waved, to make atonement for him,
-and about 2 quarts of fine flour mixed with oil as a meal offering,
+and about two quarts of fine flour mixed with oil as a meal offering,
 and about two-thirds of a pint of oil,
 [22] and two turtledoves or two young pigeons, whatever he can afford.
 One shall be a sin offering and the other a burnt offering.

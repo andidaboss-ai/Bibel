@@ -5,7 +5,7 @@
 
 ## The inner curtains of linen (Verses 1–6)
 
-[1] “Make the tabernacle with ten curtains.
+[1] “Make the tabernacle with 10 curtains.
 They shall be made of fine twisted linen and of blue, purple and scarlet cloth.
 Cherubim shall be woven into them by a skillful worker.
 [2] Each curtain shall be about 42 feet long and about 6 feet wide.
@@ -33,9 +33,9 @@ So the tabernacle shall be one whole.
 
 [7] “Also make curtains of goats’ hair.
 They shall be a covering over the tabernacle.
-Make eleven of these curtains.
+Make 11 of these curtains.
 [8] Each curtain shall be about 45 feet long and about 6 feet wide.
-All eleven curtains shall be the same size.
+All 11 curtains shall be the same size.
 [9] Join five curtains together into one set,
 and six curtains into another set.
 Fold the sixth curtain double at the front of the tent.

@@ -13,8 +13,8 @@ His mother’s name was Maacah, the daughter of Abishalom.
 His heart was not fully devoted to the LORD his God,
 as the heart of his father David had been.
 [4] But for David’s sake the LORD his God gave him a lamp in Jerusalem.
-That means: God let Abijam have a son who became king after him,
-and God kept Jerusalem strong.
+He did this so that Abijam’s son would be king after him,
+and so that Jerusalem would stay strong.
 [5] David had done what was right in the LORD’s eyes.
 All his life he had not turned away from anything that the LORD commanded him.
 The only exception was the matter of Uriah the Hittite.
@@ -44,8 +44,8 @@ Asa became king over Judah.
 [10] He ruled for 41 years in Jerusalem.
 His mother’s name was Maacah, the daughter of Abishalom.
 [11] Asa did what was right in the LORD’s eyes, as his father David had done.
-[12] He sent the sodomites out of the land.
-He removed all the idols that his fathers had made.
+[12] He sent the male shrine prostitutes out of the land.
+He removed all the idols that his ancestors had made.
 [13] He also removed his mother Maacah from her place as queen.
 She had made a disgusting image for Asherah.
 Asa cut down her image and burned it at the brook Kidron.
@@ -61,7 +61,7 @@ silver, gold, and other objects.
 > Asa removes her because she made an idol. That takes courage: he puts God above his own family.
 > The “high places” were altars on hills all over the land. Many of them were probably dedicated to the LORD, but according to Deuteronomy 12 people were to sacrifice only at the one place that God chooses. Asa did not do away with them. Even so, the Bible praises his honest heart.
 > The brook Kidron flows in the valley east of Jerusalem.
-> In verse 12 our English source text again says “sodomites.” See the explanation for 1 Kings 14:24.
+> In verse 12 the WEB, our English source text, again says “sodomites.” We write “male shrine prostitutes.” See the explanation for 1 Kings 14:24.
 
 ---
 
@@ -98,7 +98,7 @@ King Asa used them to build up Geba in Benjamin, and Mizpah.
 It tells about all his strength, all that he did, and the cities that he built.
 But when he was old, he got a disease in his feet.
 [24] Asa died and joined his ancestors.
-He was buried with his fathers in the city of his father David.
+He was buried with his ancestors in the city of his father David.
 His son Jehoshaphat became king in his place.
 
 > **What does this mean?**

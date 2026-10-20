@@ -1,17 +1,17 @@
 # Joshua – Chapter 4
-### Twelve stones to remember
+### 12 stones to remember
 
 ---
 
-## Twelve stones from the Jordan (Verses 1–8)
+## 12 stones from the Jordan (Verses 1–8)
 
 [1] When the whole nation had completely crossed the Jordan, the LORD spoke to Joshua. He said,
-[2] “Take twelve men from the people, one man from each tribe,
+[2] “Take 12 men from the people, a man from each tribe,
 [3] and command them:
-‘Take twelve stones from the middle of the Jordan, from the place where the priests’ feet stood firm.
+‘Take 12 stones from the middle of the Jordan, from the place where the priests’ feet stood firm.
 Carry them over with you
 and put them down in the place where you will camp tonight.’”
-[4] Then Joshua called the twelve men whom he had chosen from the people of Israel, one man from each tribe.
+[4] Then Joshua called the 12 men whom he had chosen from the people of Israel, a man from each tribe.
 [5] Joshua said to them,
 “Go ahead of the ark of the LORD your God into the middle of the Jordan.
 Each of you, pick up a stone and put it on your shoulder,
@@ -24,20 +24,20 @@ In the future, when your children ask you,
 When it crossed the Jordan, the water of the Jordan was cut off.
 These stones will be a reminder for the people of Israel forever.’”
 [8] The people of Israel did as Joshua commanded.
-They took twelve stones from the middle of the Jordan, as the LORD had told Joshua,
-one for each tribe of the people of Israel.
+They took 12 stones from the middle of the Jordan, as the LORD had told Joshua,
+a stone for each tribe of the people of Israel.
 They carried them over with them to the place where they camped, and they put them down there.
 
 > **What does this mean?**
 > People quickly forget what God has done. That is why stones are set up as a memorial. When children ask, “What do these stones mean to you?” the parents should tell the story.
-> Each tribe carries one stone. All twelve tribes belong, including those whose land lies east of the Jordan.
+> Each tribe carries one stone. All 12 tribes belong, including those whose land lies east of the Jordan.
 > This is often how faith grew: Children ask, and parents tell. We know this from the Passover feast too (Exodus 12:26; Deuteronomy 6:20).
 
 ---
 
-## Twelve stones in the Jordan too (Verses 9–14)
+## 12 stones in the Jordan too (Verses 9–14)
 
-[9] Joshua also set up twelve stones in the middle of the Jordan,
+[9] Joshua also set up 12 stones in the middle of the Jordan,
 in the place where the feet of the priests who carried the ark of the covenant had stood.
 They are there to this day.
 [10] For the priests who carried the ark stood in the middle of the Jordan
@@ -80,7 +80,7 @@ and flowed over all its banks again, as before.
 
 [19] The people came up out of the Jordan on the tenth day of the first month.
 They camped in Gilgal, on the east border of Jericho.
-[20] Joshua set up the twelve stones that they had taken out of the Jordan in Gilgal.
+[20] Joshua set up the 12 stones that they had taken out of the Jordan in Gilgal.
 [21] He said to the people of Israel,
 “In the future, when your children ask their fathers,
 ‘What do these stones mean?’

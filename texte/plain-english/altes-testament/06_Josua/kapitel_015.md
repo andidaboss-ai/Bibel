@@ -190,7 +190,7 @@ Two cities with their villages.
 > Here Debir is called “Kiriath Sannah,” in verse 15 “Kiriath Sepher.” Both were old names of this city.
 > The Carmel here is a town in the south, not the well-known Mount Carmel in the north. Nabal and Abigail later lived there (1 Samuel 25:2).
 > The Jezreel here is also a town in Judah, not the well-known plain in the north.
-> In the Greek translation of the Bible, there is another list of eleven cities after verse 59, including Bethlehem. This list is missing in the Hebrew text and in the WEB, our English source text.
+> In the Greek translation of the Bible, there is another list of 11 cities after verse 59, including Bethlehem. This list is missing in the Hebrew text and in the WEB, our English source text.
 
 ---
 

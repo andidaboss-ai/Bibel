@@ -245,7 +245,7 @@ She gave birth to Aaron and Moses for Amram, and to their sister Miriam.
 [60] Nadab and Abihu, Eleazar and Ithamar were born to Aaron.
 [61] Nadab and Abihu died when they offered strange fire before the LORD.
 Strange fire means: fire that God had not commanded.
-[62] The number of those counted was 23,000, every male one month old and older.
+[62] The number of those counted was 23,000, every male 1 month old and older.
 They were not counted among the people of Israel,
 because they were not given an inheritance among the people of Israel.
 

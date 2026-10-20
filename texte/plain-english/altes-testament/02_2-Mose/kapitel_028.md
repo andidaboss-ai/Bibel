@@ -58,7 +58,7 @@ Fasten the braided chains to the settings.
 > **What does this mean?**
 > The ephod is a kind of apron or vest. It is worn over the robe. It is held up by straps over the shoulders.
 > Verse 11: A seal is a stamp with a name on it.
-> On his shoulders, Aaron carries the names of the twelve tribes. This is a beautiful picture: The priest carries the whole people on his shoulders before God. He forgets no one.
+> On his shoulders, Aaron carries the names of the 12 tribes. This is a beautiful picture: The priest carries the whole people on his shoulders before God. He forgets no one.
 
 ---
 
@@ -76,9 +76,9 @@ In the first row a ruby, a topaz and a beryl.
 [19] In the third row a jacinth, an agate and an amethyst.
 [20] In the fourth row a chrysolite, an onyx and a jasper.
 They shall be set in gold settings.
-[21] There shall be twelve stones, one for each name of the people of Israel.
+[21] There shall be 12 stones, one for each name of the people of Israel.
 A name shall be engraved on each stone, the way a seal is engraved.
-They shall be for the twelve tribes.
+They shall be for the 12 tribes.
 
 [22] “Make chains for the breastplate like braided cords of pure gold.
 [23] Make two rings of gold for the breastplate.
@@ -106,7 +106,7 @@ So Aaron shall always carry the judgment of the people of Israel on his heart be
 > **What does this mean?**
 > The Bible gives the size as “a span.” A span is the distance from the thumb to the little finger when the hand is spread out. It is about 9 inches.
 > Today no one knows for sure which precious stones are meant. The names are translations of old Hebrew words. Different Bibles name different stones here.
-> Twelve precious stones for the twelve tribes. Each tribe is precious and special, like a jewel.
+> There are 12 precious stones for the 12 tribes. Each tribe is precious and special, like a jewel.
 > The priest carries the names of the people on his shoulders (strength) and on his heart (love). He brings the people, with everything that moves them, before God.
 > No one knows exactly what the “Urim and Thummim” were. They were probably two lots or stones. With them, people could ask what God wanted in difficult questions. The words probably mean “lights and perfections.”
 

@@ -23,7 +23,7 @@ to Pharaoh, to all his servants, and to his whole land.
 [3] Your eyes saw the great trials, the signs, and those great wonders.
 [4] But to this day the LORD has not given you a heart to understand,
 eyes to see, and ears to hear.
-[5] I have led you for forty years in the wilderness.
+[5] I have led you for 40 years in the wilderness.
 Your clothes have not worn out on you,
 and your sandals have not worn out on your feet.
 [6] You have not eaten bread,

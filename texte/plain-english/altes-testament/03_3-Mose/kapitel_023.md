@@ -68,15 +68,15 @@ This is a rule forever, for all your generations, everywhere you live.
 
 ---
 
-## The Feast of Weeks: fifty days later (Verses 15–22)
+## The Feast of Weeks: 50 days later (Verses 15–22)
 
 [15] “‘You shall count from the day after the Sabbath,
 from the day you brought the bundle as a wave offering:
 There shall be seven full weeks.
-[16] You shall count fifty days, up to the day after the seventh Sabbath.
+[16] You shall count 50 days, up to the day after the seventh Sabbath.
 Then you shall bring a new meal offering to the LORD.
 [17] From your homes you shall bring two loaves of bread as a wave offering.
-They shall be made from about 4½ quarts of fine flour.
+They shall be made from about four and a half quarts of fine flour.
 They shall be baked with yeast, as first fruits for the LORD.
 [18] With the bread you shall offer seven one-year-old lambs without defect,
 one young bull, and two rams.
@@ -115,7 +115,7 @@ And you shall bring an offering by fire to the LORD.’”
 
 > **What does this mean?**
 > The seventh month is in the fall. On the first day of this month, a horn is blown. This is the “shofar,” a horn from a ram.
-> Today Jews celebrate their New Year on this day, “Rosh Hashanah.” It is the beginning of ten days of reflection and turning back to God, up to the Day of Atonement.
+> Today Jews celebrate their New Year on this day, “Rosh Hashanah.” It is the beginning of 10 days of reflection and turning back to God, up to the Day of Atonement.
 
 ---
 

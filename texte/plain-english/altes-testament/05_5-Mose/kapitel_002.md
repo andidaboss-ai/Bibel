@@ -71,7 +71,7 @@ to destroy them from the middle of the camp, until they were all gone.
 
 > **What does this mean?**
 > When they cross the brook Zered, a new part begins. The old generation has died. Now the new generation is here.
-> 38 years: Add the roughly two years from leaving Egypt to Kadesh. Together that makes the 40 years in the wilderness.
+> 38 years: Add the roughly 2 years from leaving Egypt to Kadesh. Together that makes the 40 years in the wilderness.
 
 ---
 

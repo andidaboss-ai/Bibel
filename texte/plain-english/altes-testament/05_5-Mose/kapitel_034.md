@@ -36,7 +36,7 @@ But to this day no one knows where his grave is.
 [7] Moses was 120 years old when he died.
 His eyes had not grown weak,
 and his strength was not gone.
-[8] The people of Israel wept for Moses in the plains of Moab for thirty days.
+[8] The people of Israel wept for Moses in the plains of Moab for 30 days.
 Then the days of weeping and mourning for Moses came to an end.
 
 > **What does this mean?**

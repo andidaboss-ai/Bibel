@@ -46,7 +46,7 @@ hangings about 150 feet long, with 20 pillars and 20 sockets of bronze.
 The hooks of the pillars and their bands shall be of silver.
 
 [12] “For the width of the courtyard on the west side, there shall be hangings about 75 feet long,
-with ten pillars and ten sockets.
+with 10 pillars and 10 sockets.
 [13] On the east side, toward the sunrise, the courtyard shall also be about 75 feet wide.
 [14] On one side of the gate there shall be hangings about 22 feet 6 inches long,
 with three pillars and three sockets.

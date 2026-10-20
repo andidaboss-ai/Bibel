@@ -37,7 +37,7 @@ They were even too much.
 
 ## The inner curtains of linen (Verses 8–13)
 
-[8] All the men with a wise heart among the workers made the tabernacle with ten curtains.
+[8] All the men with a wise heart among the workers made the tabernacle with 10 curtains.
 They were made of fine twisted linen and of blue, purple and scarlet cloth.
 Cherubim were woven into them, the work of a skillful worker.
 [9] Each curtain was about 42 feet long and about 6 feet wide.
@@ -63,9 +63,9 @@ So the tabernacle became one whole.
 ## The curtains of goats’ hair and the skins (Verses 14–19)
 
 [14] He made curtains of goats’ hair as a covering over the tabernacle.
-He made eleven of these curtains.
+He made 11 of these curtains.
 [15] Each curtain was about 45 feet long and about 6 feet wide.
-The eleven curtains were all the same size.
+The 11 curtains were all the same size.
 [16] He joined five curtains together into one set,
 and six curtains into another set.
 [17] He made 50 loops on the edge of the last curtain of the first set,

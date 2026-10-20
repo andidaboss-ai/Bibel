@@ -51,7 +51,7 @@ The hooks of the pillars and their bands were of silver.
 with 20 pillars and 20 sockets of bronze.
 The hooks of the pillars and their bands were of silver.
 [12] On the west side there were hangings about 75 feet long,
-with ten pillars and ten sockets.
+with 10 pillars and 10 sockets.
 The hooks of the pillars and their bands were of silver.
 [13] On the east side, toward the sunrise, it was also about 75 feet.
 [14] The hangings for one side were about 22 feet 6 inches long,

@@ -49,44 +49,44 @@ with its grain offering, and their drink offerings.
 You must not do any regular work.
 For seven days you must celebrate a festival to the LORD.
 [13] You must bring a burnt offering, an offering made by fire, as a pleasant smell to the LORD:
-13 young bulls, 2 rams and 14 male lambs one year old, all without any defect.
+13 young bulls, 2 rams and 14 male lambs 1 year old, all without any defect.
 [14] With them, bring their grain offering, fine flour mixed with oil:
 about 7 quarts for each of the 13 bulls, about 4½ quarts for each of the 2 rams,
 [15] and about 2 quarts for each of the 14 lambs.
 [16] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[17] “‘On the second day, you must offer 12 young bulls, 2 rams and 14 male lambs one year old without any defect.
+[17] “‘On the second day, you must offer 12 young bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [18] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [19] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering with its grain offering and their drink offerings.
 
-[20] “‘On the third day: 11 bulls, 2 rams and 14 male lambs one year old without any defect.
+[20] “‘On the third day: 11 bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [21] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [22] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[23] “‘On the fourth day: 10 bulls, 2 rams and 14 male lambs one year old without any defect.
+[23] “‘On the fourth day: 10 bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [24] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [25] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[26] “‘On the fifth day: 9 bulls, 2 rams and 14 male lambs one year old without any defect.
+[26] “‘On the fifth day: 9 bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [27] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [28] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[29] “‘On the sixth day: 8 bulls, 2 rams and 14 male lambs one year old without any defect.
+[29] “‘On the sixth day: 8 bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [30] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [31] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offerings.
 
-[32] “‘On the seventh day: 7 bulls, 2 rams and 14 male lambs one year old without any defect.
+[32] “‘On the seventh day: 7 bulls, 2 rams and 14 male lambs 1 year old without any defect.
 [33] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [34] And bring one male goat as a sin offering.
@@ -94,7 +94,7 @@ This is in addition to the regular burnt offering, its grain offering and its dr
 
 > **What does this mean?**
 > The Feast of Booths is the biggest festival of the year. It is the festival of joy after the harvest. People live in simple huts made of branches during this festival.
-> The number of bulls gets smaller by one every day: 13, 12, 11, 10, 9, 8, 7. Together that makes 70 bulls.
+> The number of bulls gets smaller by 1 every day: 13, 12, 11, 10, 9, 8, 7. Together that makes 70 bulls.
 > Jewish teachers have said: The 70 bulls stand for the 70 nations of the world that are listed in Genesis 10. So at this festival, Israel also prays for all the other nations. The prophet Zechariah foretells that one day all nations will come to Jerusalem for the Feast of Booths (Zechariah 14:16).
 > Every day, 14 lambs and 2 rams are offered too. In the 7 days, that makes 98 lambs.
 
@@ -112,7 +112,7 @@ are to be by their number, as the rule says.
 This is in addition to the regular burnt offering with its grain offering and its drink offering.
 
 > **What does this mean?**
-> On the eighth day there is only one bull. After the 70 bulls for all nations, there is one bull for Israel alone.
+> On the eighth day there is only 1 bull. After the 70 bulls for all nations, there is 1 bull for Israel alone.
 > To this day, Jews celebrate this day as “Shemini Atzeret,” the closing of the festival. After it comes the festival of joy in the Torah, “Simchat Torah.” On that day, people dance with the Torah scrolls.
 
 ---

@@ -130,7 +130,7 @@ And do not leave any of the sacrifice of the Passover feast until the morning.
 
 ---
 
-## Forty days on the mountain (Verses 27–28)
+## 40 days on the mountain (Verses 27–28)
 
 [27] The LORD said to Moses,
 “Write down these words.

@@ -20,7 +20,7 @@ except cities to live in, with their pasture lands for their livestock and for t
 
 > **What does this mean?**
 > The land is divided by lot. That way no one could say that they had been treated unfairly. People believed: God himself decides through the lot.
-> There are still twelve tribes with land: Levi gets no area of its own, but Joseph counts twice, as Ephraim and Manasseh. So the number works out again.
+> There are still 12 tribes with land: Levi gets no area of its own, but Joseph counts twice, as Ephraim and Manasseh. So the number works out again.
 
 ---
 
@@ -30,7 +30,7 @@ except cities to live in, with their pasture lands for their livestock and for t
 Caleb, the son of Jephunneh the Kenizzite, said to him,
 “You know what the LORD said to Moses, the man of God, in Kadesh Barnea,
 about me and about you.
-[7] I was forty years old when Moses, the servant of the LORD, sent me from Kadesh Barnea
+[7] I was 40 years old when Moses, the servant of the LORD, sent me from Kadesh Barnea
 to spy out the land.
 I brought him back a report as it was in my heart.
 [8] But my brothers who went up with me made the hearts of the people melt with fear.

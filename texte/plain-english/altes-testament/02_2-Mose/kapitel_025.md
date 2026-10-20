@@ -107,7 +107,7 @@ Make them of pure gold.
 
 > **What does this mean?**
 > In cubits: two cubits long, one cubit wide, one and a half cubits high. A hand width is about 3 inches.
-> The “bread of the presence” (word for word: “bread of the face”) was twelve loaves, one for each tribe (Leviticus 24:5–9). They always lay before God. They show: The whole people always stands before God’s face. And it is God who gives his people bread.
+> The “bread of the presence” (word for word: “bread of the face”) was 12 loaves, one for each tribe (Leviticus 24:5–9). They always lay before God. They show: The whole people always stands before God’s face. And it is God who gives his people bread.
 
 ---
 

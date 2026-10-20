@@ -6,7 +6,7 @@
 ## Before we begin: What is the book of Joshua?
 
 The book of Joshua is named after its main person: Joshua, who came after Moses as leader. The name “Joshua” means “The LORD saves.” It is the same name as “Jesus” in its Hebrew form.
-The book tells how Israel finally comes into the promised land. The people cross the Jordan, the walls of Jericho fall, and the land is divided among the twelve tribes. What God promised to Abraham now comes true.
+The book tells how Israel finally comes into the promised land. The people cross the Jordan, the walls of Jericho fall, and the land is divided among the 12 tribes. What God promised to Abraham now comes true.
 The book also has many reports of war. Some of them are very hard to bear, because women and children are killed too. We do not leave these passages out. We explain them honestly. Many scholars also think that the conquest really happened more slowly and with less violence than the book describes in its language. One thing is clear: No one may use these reports to justify violence or war today.
 At the end of the book, Joshua lets the people choose whom they want to serve. And he says the famous sentence: “As for me and my house, we will serve the LORD” (Joshua 24:15).
 In the Jewish Bible, the book of Joshua belongs to the “Former Prophets.” In Christian Bibles, it stands at the beginning of the “History Books.”

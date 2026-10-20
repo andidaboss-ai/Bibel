@@ -28,7 +28,7 @@ had died in the wilderness along the way, after they came out of Egypt.
 [5] For all the people who came out had been circumcised.
 But all the people who were born in the wilderness along the way, after they came out of Egypt,
 had not been circumcised.
-[6] For the people of Israel walked forty years in the wilderness,
+[6] For the people of Israel walked 40 years in the wilderness,
 until the whole nation, the men of war who came out of Egypt, had died,
 because they did not listen to the voice of the LORD.
 The LORD swore to them that he would not let them see the land

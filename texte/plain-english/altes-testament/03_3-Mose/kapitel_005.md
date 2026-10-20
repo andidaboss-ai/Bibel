@@ -65,7 +65,7 @@ So the priest shall make atonement for him because of the sin he has done, and h
 
 [11] “‘But if he cannot afford two turtledoves or two young pigeons either,
 he shall bring as his offering for what he has sinned in
-about 2 quarts of fine flour as a sin offering.
+about two quarts of fine flour as a sin offering.
 He shall not pour any oil on it, and he shall not put any frankincense on it.
 For it is a sin offering.
 [12] He shall bring it to the priest.

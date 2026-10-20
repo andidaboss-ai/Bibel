@@ -58,7 +58,7 @@ He made them of pure gold.
 
 > **What does this mean?**
 > In cubits: two cubits long, one cubit wide, one and a half cubits high. A hand’s width is about 3 inches.
-> The bread of the presence lay on this table: twelve loaves for the twelve tribes.
+> The bread of the presence lay on this table: 12 loaves for the 12 tribes.
 
 ---
 

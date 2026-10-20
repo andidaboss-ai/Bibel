@@ -15,7 +15,7 @@ She shall be unclean as in the days of her monthly period.
 She shall not touch anything holy, and she shall not come into the holy place,
 until the days of her cleansing are over.
 [5] But if she gives birth to a daughter,
-she shall be unclean for two weeks, as in her period.
+she shall be unclean for 2 weeks, as in her period.
 And then she shall stay in the blood of her cleansing for 66 more days.
 
 > **What does this mean?**

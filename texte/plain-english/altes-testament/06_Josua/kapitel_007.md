@@ -14,9 +14,9 @@ He said to them, “Go up and spy out the land.”
 The men went up and spied out Ai.
 [3] They came back to Joshua and said to him,
 “Don’t let all the people go up.
-Let about two or three thousand men go up and strike Ai.
+Let about 2,000 or 3,000 men go up and strike Ai.
 Don’t make all the people work hard there, for there are only a few of them.”
-[4] So about three thousand men from the people went up there.
+[4] So about 3,000 men from the people went up there.
 But they ran away from the men of Ai.
 [5] The men of Ai killed about 36 of their men.
 They chased them from the gate to Shebarim and struck them on the way down the hill.

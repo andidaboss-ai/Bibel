@@ -110,6 +110,6 @@ They told him everything that had happened to them.
 And all the people who live in the land are melting away with fear because of us.”
 
 > **What does this mean?**
-> What a difference from the spies 40 years earlier! Back then, ten of the twelve came back full of fear (Numbers 13). Now the spies bring a message full of trust.
+> What a difference from the spies 40 years earlier! Back then, 10 of the 12 came back full of fear (Numbers 13). Now the spies bring a message full of trust.
 > Rahab is saved later (Chapter 6). She marries an Israelite. In the New Testament, she appears in the family tree of Jesus: She was the mother of Boaz, and so an ancestor of King David (Matthew 1:5). The letter to the Hebrews and the letter of James praise her for her faith (Hebrews 11:31; James 2:25).
 > God writes history with people whom others look down on.
