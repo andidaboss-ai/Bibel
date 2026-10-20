@@ -23,11 +23,11 @@ He ruled for 40 years.
 In Jerusalem he ruled over all Israel and Judah for 33 years.
 
 > **What does this mean?**
-> At last the time has come: all twelve tribes come to David. “We are your bone and your flesh” means: we are your family, we belong together.
+> At last the time has come: all 12 tribes come to David. “We are your bone and your flesh” means: we are your family, we belong together.
 > “Shepherd” is a beautiful picture for a king. David was a shepherd. Now he is to lead and protect God’s people like a shepherd, not to use them for himself. Much later Jesus calls himself “the good shepherd” (John 10:11).
 > This is the third time that David is anointed: first in secret by Samuel, then by Judah, now by all Israel.
 > The king makes a “covenant” with the people. That means: the king also has duties. He does not stand above the law.
-> The math: seven and a half years in Hebron plus 33 years in Jerusalem are about 40 years.
+> The math: 7½ years in Hebron plus 33 years in Jerusalem are about 40 years.
 
 ---
 
@@ -132,4 +132,4 @@ He defeated the Philistines all the way from Geba to Gezer.
 > “Baal Perazim” means “lord of breaking through.” God breaks through the enemies like a flood through a dam.
 > The Philistines leave their idols behind. Let us remember: earlier the Philistines had captured the ark of God (1 Samuel 4). Now it is the other way around.
 > The second time God gives a different instruction. David asks again every time. He does not rely on his experience, but on God’s guidance.
-> Our English source text says “mulberry trees.” We do not know for sure which trees are meant. The rustling in the trees is the sign: God’s army is going out ahead of David.
+> The WEB, our English source text, says “mulberry trees.” We do not know for sure which trees are meant. The rustling in the trees is the sign: God’s army is going out ahead of David.

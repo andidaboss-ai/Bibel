@@ -134,7 +134,7 @@ Boaz became the father of Obed,
 and Jesse became the father of David.
 
 > **What does this mean?**
-> The book ends with a list of 10 names, from Perez to David. Boaz is in seventh place, David in tenth. Seven and 10 were special numbers in Israel that stood for completeness.
+> The book ends with a list of 10 names, from Perez to David. Boaz is in seventh place, David in tenth. In Israel, 7 and 10 were special numbers that stood for completeness.
 > Nahshon was a leader of the tribe of Judah at the time of Moses (Numbers 1:7). The Gospel of Matthew says that Salmon was married to Rahab from Jericho (Matthew 1:5). Then Boaz himself would have had a foreign mother.
 > The list probably does not name every single generation, only important names. That was common in old family trees.
 > With the name David, the book of Ruth opens the door to the next books, the books of Samuel. They tell how David becomes king.

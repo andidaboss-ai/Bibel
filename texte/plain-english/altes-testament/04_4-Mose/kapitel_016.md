@@ -127,9 +127,9 @@ and that they do not come from my own mind:
 [29] If these men die the way all people die,
 or if what happens to all people happens to them,
 then the LORD has not sent me.
-[30] But the LORD may do something new.
-The ground may open its mouth and swallow them up with everything that belongs to them,
-and they may go down alive into Sheol.
+[30] But suppose the LORD does something new.
+The ground opens its mouth and swallows them up with everything that belongs to them,
+and they go down alive into Sheol (the world of the dead).
 Then you will understand that these men have treated the LORD with contempt.”
 
 [31] As soon as he had finished saying all these words, the ground under them split apart.
@@ -171,7 +171,7 @@ Otherwise it will happen to him as it happened to Korah and his group,
 just as the LORD had told Eleazar through Moses.
 
 > **What does this mean?**
-> In some Bibles, Chapter 17 already begins here. There, verses 36–50 are numbered 17:1–15. We follow the numbering of our English source text.
+> In some Bibles, Chapter 17 already begins here. There, verses 36–50 are numbered 17:1–15. We follow the numbering of the WEB, our English source text.
 > The fire pans are not thrown away. They are made into a covering for the altar. Everyone who sees the altar is to remember: Only those whom God calls may do this service.
 
 ---

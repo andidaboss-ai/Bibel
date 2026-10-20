@@ -64,7 +64,7 @@ for that is what young men used to do.
 [11] When the people saw him, they brought 30 companions to be with him.
 [12] Samson said to them,
 “Let me tell you a riddle now.
-If you can tell me the answer within the seven days of the feast and find it out,
+If you can tell me the answer within the 7 days of the feast and find it out,
 then I will give you 30 linen shirts and 30 changes of clothing.
 [13] But if you cannot tell me the answer,
 then you must give me 30 linen shirts and 30 changes of clothing.”

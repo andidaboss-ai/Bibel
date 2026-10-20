@@ -46,8 +46,8 @@ and invited them to the sacrifice.
 [7] But the LORD said to Samuel,
 “Don’t look at his appearance or at how tall he is,
 for I have rejected him.
-For I don’t see as man sees.
-For man looks at the outward appearance,
+I don’t see as man sees.
+Man looks at the outward appearance,
 but the LORD looks at the heart.”
 [8] Then Jesse called Abinadab
 and had him walk past Samuel.

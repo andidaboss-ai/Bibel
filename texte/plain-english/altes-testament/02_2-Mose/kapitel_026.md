@@ -75,18 +75,18 @@ They shall stand upright.
 Do this for all the boards of the tabernacle.
 [18] Make 20 boards for the tabernacle for the south side.
 [19] Make 40 sockets of silver under the 20 boards:
-two sockets under each board for its two tenons.
+2 sockets under each board for its 2 tenons.
 
 [20] “For the second side of the tabernacle, the north side, make 20 boards
 [21] and their 40 sockets of silver:
-two sockets under each board.
+2 sockets under each board.
 [22] For the back of the tabernacle, toward the west, make six boards.
 [23] And make two boards for the corners of the tabernacle at the back.
 [24] They shall be double at the bottom, and they shall be joined together at the top, up to the first ring.
 It shall be like this for both of them.
 They shall form the two corners.
-[25] So there shall be eight boards with their sockets of silver, 16 sockets:
-two sockets under each board.
+[25] So there shall be 8 boards with their sockets of silver, 16 sockets:
+2 sockets under each board.
 
 > **What does this mean?**
 > In cubits: 10 cubits long, one and a half cubits wide.

@@ -85,7 +85,7 @@ So now think about what you want to do.”
 and asked him how he was doing.
 [16] The 600 men of the people of Dan, armed with their weapons of war,
 stood at the entrance of the gate.
-[17] The five men who had gone to spy out the land went up.
+[17] The 5 men who had gone to spy out the land went up.
 They went in there and took the carved image, the ephod, the teraphim, and the cast metal image.
 And the priest stood at the entrance of the gate with the 600 men armed with weapons of war.
 [18] When these men went into Micah’s house

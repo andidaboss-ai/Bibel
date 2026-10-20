@@ -3,11 +3,11 @@
 
 ---
 
-## Twelve staffs before God (Verses 1–7)
+## 12 staffs before God (Verses 1–7)
 
 [1] The LORD spoke to Moses. He said,
 [2] “Speak to the people of Israel and get staffs from them,
-one for each family, from all their leaders, family by family: twelve staffs.
+a staff for each family, from all their leaders, family by family: 12 staffs.
 Write each man’s name on his staff.
 [3] You shall write Aaron’s name on the staff of Levi.
 For there shall be one staff for each head of their families.
@@ -16,7 +16,7 @@ For there shall be one staff for each head of their families.
 That way I will put an end to the complaints of the people of Israel, which they make against you.
 Then I will not have to hear them anymore.”
 [6] Moses spoke to the people of Israel.
-And all their leaders gave him staffs, one for each leader, family by family, twelve staffs in all.
+And all their leaders gave him staffs, a staff for each leader, family by family, 12 staffs in all.
 Aaron’s staff was among their staffs.
 [7] Moses put the staffs before the LORD in the Tent of the Testimony.
 

@@ -132,7 +132,7 @@ Only may the LORD make his word come true.”
 So the woman stayed and nursed her son until she had weaned him.
 
 [24] When she had weaned him, she took him up with her,
-with three bulls, about 6 gallons of flour, and a container of wine.
+with 3 bulls, about 6 gallons of flour, and a container of wine.
 She brought him to the house of the LORD in Shiloh.
 The child was still young.
 [25] They killed the bull
@@ -150,6 +150,6 @@ And he worshiped the LORD there.
 > To wean a child means: to stop feeding it at the breast.
 > At that time, a child was often breastfed for two to three years. Only then does Hannah bring Samuel to Shiloh. This is a great sacrifice for a mother who has waited so long for a child. But she keeps her promise.
 > The Bible says “an ephah of flour.” An ephah is about 6 gallons.
-> Verse 24 says “three bulls,” verse 25 says “the bull.” An old manuscript from the Dead Sea and the old Greek translation have in verse 24: “a three-year-old bull.” This fits verse 25 better.
+> Verse 24 says “3 bulls,” verse 25 says “the bull.” An old manuscript from the Dead Sea and the old Greek translation have in verse 24: “a three-year-old bull.” This fits verse 25 better.
 > In verses 27 and 28, Hannah plays with the Hebrew word “sha’al”: I “asked” for him, so I “give him back” (literally: “I lend him”) to the LORD.
 > “He worshiped”: This probably means Elkanah or little Samuel. Some manuscripts have “they worshiped.”

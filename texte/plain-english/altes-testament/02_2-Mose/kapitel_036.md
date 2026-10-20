@@ -88,18 +88,18 @@ And above that, he made a covering of sea cow hides.
 He made all the boards of the tabernacle this way.
 [23] He made the boards for the tabernacle: 20 boards for the south side.
 [24] He made 40 sockets of silver under the 20 boards:
-two sockets under one board for its two tenons,
+2 sockets under one board for its 2 tenons,
 and two sockets under the next board for its two tenons.
 
 [25] For the second side of the tabernacle, the north side, he made 20 boards
 [26] and their 40 sockets of silver:
-two sockets under one board and two sockets under the next board.
+2 sockets under one board and 2 sockets under the next board.
 [27] For the back of the tabernacle, toward the west, he made six boards.
 [28] And he made two boards for the corners of the tabernacle at the back.
 [29] They were double at the bottom, and in the same way they went all the way to the top, up to the first ring.
 He did this with both of them, at the two corners.
-[30] So there were eight boards with their sockets of silver, 16 sockets:
-two sockets under each board.
+[30] So there were 8 boards with their sockets of silver, 16 sockets:
+2 sockets under each board.
 
 > **What does this mean?**
 > In cubits: 10 cubits long, one and a half cubits wide.

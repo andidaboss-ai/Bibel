@@ -186,7 +186,7 @@ They chased them as far as Gidom and killed 2,000 more men of them.
 who fought with the sword.
 All of them were brave men.
 [47] But 600 men turned and fled toward the wilderness, to the rock of Rimmon.
-They stayed at the rock of Rimmon for four months.
+They stayed at the rock of Rimmon for 4 months.
 [48] The men of Israel turned against the people of Benjamin again
 and struck them with the edge of the sword,
 the whole city, the livestock, and everything they found.
