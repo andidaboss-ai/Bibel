@@ -30,8 +30,8 @@ His faithfulness is your shield and your wall.
 or of the arrow that flies by day,
 [6] or of the plague that moves around in the dark,
 or of the destruction that ruins at noon.
-[7] A thousand may fall at your side,
-and ten thousand at your right hand,
+[7] 1,000 may fall at your side,
+and 10,000 at your right hand,
 but it will not come near you.
 [8] You will only look with your eyes.
 You will see how the wicked are paid back.

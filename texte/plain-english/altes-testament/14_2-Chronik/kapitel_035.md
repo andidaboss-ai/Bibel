@@ -18,7 +18,8 @@ Now serve the LORD your God and his people Israel.
 as David king of Israel wrote down,
 and as Solomon his son wrote down.
 [5] Stand in the holy place by the divisions of the families of your brothers, the people,
-and for each part of a family of the people let there be a part of a family of the Levites.
+For each group of families of the people,
+let there be a group from a family of the Levites.
 [6] Kill the Passover lamb, make yourselves holy,
 and prepare it for your brothers,
 to do as the LORD commanded through Moses.”
@@ -26,7 +27,7 @@ to do as the LORD commanded through Moses.”
 > **What does this mean?**
 > This story is told more briefly in 2 Kings 23:21–23. The Passover took place in Josiah’s eighteenth year, in the same year in which the book of the law was found (verse 19).
 > Verse 3 is a puzzle. The ark had belonged in the temple since Solomon. Maybe it had been removed under Manasseh or Amon and was now brought back. Or Josiah means: you no longer have to carry the ark as in the wilderness. So now you have time for another service: to serve the people.
-> Here the Levites are called teachers, those “who taught all Israel”. That was an important task.
+> Here the Levites are called teachers, those “who taught all Israel.” That was an important task.
 > The Bible does not tell what later happened to the ark of the covenant. This is the last time it is mentioned in the history books.
 
 ---
@@ -78,7 +79,7 @@ because their brothers the Levites prepared food for them.
 to keep the Passover and to offer burnt offerings on the LORD’s altar,
 as King Josiah had commanded.
 [17] The people of Israel who were there kept the Passover at that time,
-and the feast of unleavened bread for seven days.
+and the Feast of Unleavened Bread for seven days.
 [18] No Passover like it had been kept in Israel since the days of Samuel the prophet.
 And none of the kings of Israel had kept such a Passover as Josiah kept,
 with the priests, the Levites, and all Judah and Israel who were there,
@@ -88,7 +89,7 @@ and the people of Jerusalem.
 > **What does this mean?**
 > Everything is well organized. Everyone has his task. The Levites make sure that everyone gets their food: the people, the priests, the singers and the gatekeepers. No one is forgotten.
 > The Passover lamb was roasted, as it says in Exodus 12:8–9. The other offerings were boiled.
-> Verse 18: no such Passover “since the days of Samuel”. Hezekiah’s Passover (Chapter 30) was great too, but it took place in the second month, and many were not clean. Josiah’s Passover was exactly according to the law.
+> Verse 18: no such Passover “since the days of Samuel.” Hezekiah’s Passover (Chapter 30) was great too, but it took place in the second month, and many were not clean. Josiah’s Passover was exactly according to the law.
 
 ---
 
@@ -103,7 +104,7 @@ I am not coming against you today,
 but against the house with which I am at war.
 God has commanded me to hurry.
 Be careful! It is God who is with me.
-Stop, so that he will not destroy you.”
+Don’t let him destroy you.”
 [22] But Josiah would not turn his face away from him.
 He disguised himself so that he could fight with him.
 He didn’t listen to the words of Neco, which came from the mouth of God.
@@ -114,16 +115,16 @@ And the king said to his servants,
 [24] So his servants took him out of the chariot
 and put him in the second chariot that he had,
 and they brought him to Jerusalem.
-He died and was buried in the tombs of his fathers.
+He died and was buried in the tombs of his ancestors.
 All Judah and Jerusalem mourned for Josiah.
 [25] Jeremiah sang a song of mourning for Josiah.
 And all the singing men and singing women have spoken of Josiah in their songs of mourning to this day.
 They made it a custom in Israel.
-Look, they are written in the Lamentations.
+They are written in the Lamentations.
 [26] The rest of the acts of Josiah,
 and his good deeds, as it is written in the LORD’s law,
 [27] and his acts, from first to last,
-look, they are written in the book of the kings of Israel and Judah.
+are written in the book of the kings of Israel and Judah.
 
 > **What does this mean?**
 > In the year 609 BC, Pharaoh Neco II marched north to help the Assyrians against the Babylonians. Josiah wanted to stop him.

@@ -38,7 +38,7 @@ and its stump may die in the ground.
 and put out branches like a young plant.
 [10] But a human being dies and lies there.
 Yes, he breathes his last. And where is he?
-[11] As water disappears from a lake,
+[11] As water disappears from the sea,
 and a river runs low and dries up,
 [12] so a human being lies down and does not rise.
 Until the heavens are no more, people will not wake up.
@@ -87,8 +87,8 @@ In the same way you destroy a human being’s hope.
 You change his face and send him away.
 [21] His sons are honored, and he does not know it.
 They are brought low, but he does not notice it.
-[22] He feels only the pain of his own body.
-His soul mourns only for himself.”
+[22] But he feels the pain in his own body.
+His soul inside him mourns.”
 
 > **What does this mean?**
 > The hope lasted only a short time. Now it grows dark again.

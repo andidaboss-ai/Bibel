@@ -157,7 +157,7 @@ Then he went back to Samaria.
 > Verse 20 explains from the point of view of Chronicles why Amaziah did not listen: his worship of idols led him into ruin.
 > The Bible says “400 cubits.” A cubit is about 18 inches.
 > “Obed-Edom”: a family of gatekeepers who guarded the treasures in the temple (1 Chronicles 26:15).
-> Verse 23: the English source text says “the son of Jehoahaz.” 2 Kings 14:13 says “the son of Ahaziah.” Jehoahaz and Ahaziah are two names for the same king (see Chapter 21:17 and 22:1).
+> Verse 23: the WEB, our English source text, says “the son of Jehoahaz.” 2 Kings 14:13 says “the son of Ahaziah.” Jehoahaz and Ahaziah are two names for the same king (see Chapter 21:17 and 22:1).
 
 ---
 

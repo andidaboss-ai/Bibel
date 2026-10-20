@@ -17,7 +17,7 @@ The tops of the mountains also belong to him.
 His hands formed the dry land.
 
 > **What does this mean?**
-> Psalm 95 is an invitation to worship. In many churches, it is prayed at the beginning of morning prayer. (In Latin, it is called “Venite”, which means “Come”.)
+> Psalm 95 is an invitation to worship. In many churches, it is prayed at the beginning of morning prayer. (In Latin, it is called “Venite,” which means “Come.”)
 > God is King over everything: the depths and the heights, the sea and the land.
 
 ---
@@ -43,7 +43,7 @@ Today, oh, if only you would listen to his voice!
 as on the day at Massah in the wilderness.
 [9] There your ancestors tempted me.
 They tested me, even though they had seen what I did.
-[10] For forty long years, I was grieved with that generation.
+[10] For 40 long years, I was grieved with that generation.
 I said: “They are a people whose hearts go the wrong way.
 They have not known my ways.”
 [11] That is why I swore in my anger:
@@ -51,5 +51,5 @@ They have not known my ways.”
 
 > **What does this mean?**
 > Now God himself speaks. He reminds them of the time in the wilderness: At Meribah (“quarrel”) and Massah (“testing”), the people complained against God because they had no water (Exodus 17:1–7).
-> For forty years, the people disobeyed in the wilderness. That is why this generation was not allowed to enter the promised land, God’s “rest” (Numbers 14).
+> For 40 years, the people disobeyed in the wilderness. That is why this generation was not allowed to enter the promised land, God’s “rest” (Numbers 14).
 > The letter to the Hebrews quotes verses 7–11 at length and calls its readers: “Today, if you hear his voice, don’t harden your hearts!” (Hebrews 3:7–4:11).

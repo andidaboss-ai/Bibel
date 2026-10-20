@@ -17,7 +17,7 @@ We are his people, and the sheep of his pasture.
 > Psalm 100 is one of the best-known psalms of praise. It was probably sung when people came to the temple with a thank offering.
 > “Serve the LORD with gladness”: Worship is not a sad duty. It is a celebration.
 > Verse 3: Three reasons for joy: The LORD is God. He made us. We belong to him, like sheep belong to their shepherd.
-> In Hebrew, verse 3 can also be read in a different way. Then it says: He made us, and we did not make ourselves. The World English Bible, which this edition follows, reads “and we are his”.
+> In Hebrew, verse 3 can also be read in a different way. Then it says: He made us, and we did not make ourselves. The WEB, our English source text, reads “and we are his.”
 
 ---
 
@@ -33,4 +33,4 @@ and his faithfulness lasts through all generations.
 > **What does this mean?**
 > The pilgrims walk through the gates into the temple, with songs of thanks on their lips.
 > Verse 5: The reason for all thanks: “The LORD is good. His loving kindness lasts forever.” This sentence appears very often in the Bible (for example, Psalm 106:1; 107:1; 136).
-> Many people know this psalm as a hymn, for example “All People That on Earth Do Dwell”.
+> Many people know this psalm as a hymn, for example “All People That on Earth Do Dwell.”

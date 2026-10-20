@@ -73,7 +73,7 @@ and changed his name to Zedekiah.
 > **What does this mean?**
 > In the year 597 BC Jerusalem is taken by the Babylonians for the first time. A Babylonian chronicle reports this too and even gives the day: in March 597 BC.
 > Jehoiachin surrenders. So at first the city is not destroyed. But the upper class, the soldiers, and the craftsmen are taken away to Babylon. Among them was the prophet Ezekiel (Ezekiel 1:1–3).
-> With this the word comes true that Isaiah had spoken to King Hezekiah (chapter 20:17).
+> With this the word comes true that Isaiah had spoken to King Hezekiah (2 Kings 20:17).
 > The numbers in verses 14 and 16 are not quite the same. Perhaps 10,000 is the total number. Jeremiah 52:28 gives a smaller number (3,023).
 > Only the poorest stay in the land. The Babylonians took the educated and skilled people with them, so that Judah could not rise up again.
 > Zedekiah too receives a new name from the foreign king.
@@ -83,7 +83,7 @@ and changed his name to Zedekiah.
 ## Zedekiah, the last king of Judah (Verses 18–20)
 
 [18] Zedekiah was 21 years old when he became king,
-and he ruled for eleven years in Jerusalem.
+and he ruled for 11 years in Jerusalem.
 His mother’s name was Hamutal the daughter of Jeremiah, from Libnah.
 [19] He did what was evil in the LORD’s eyes,
 just as Jehoiakim had done.

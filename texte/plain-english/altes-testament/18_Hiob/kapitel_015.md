@@ -62,9 +62,9 @@ a man who drinks wrongdoing like water!
 
 [17] “I will show you. Listen to me.
 I will tell you what I have seen.
-[18] Wise men have told it, as they learned it from their fathers.
+[18] Wise men have told it, as they learned it from their ancestors.
 They have not hidden it.
-[19] The land was given to their fathers alone.
+[19] The land was given to those ancestors alone.
 No foreigner moved among them.
 [20] The wicked man twists in pain all his days,
 all the years that are stored up for the oppressor.

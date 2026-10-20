@@ -39,7 +39,7 @@ They said, “The LORD is in the right.”
 Then the LORD spoke to Shemaiah.
 He said, “They have humbled themselves.
 So I will not destroy them.
-I will soon rescue them.
+I will rescue them, at least in part.
 I will not pour out my anger on Jerusalem through Shishak.
 [8] But they will have to serve him.
 Then they will learn the difference between serving me

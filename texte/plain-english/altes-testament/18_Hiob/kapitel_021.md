@@ -120,6 +120,6 @@ Nothing is left of your answers but lies.”
 > **What does this mean?**
 > Job sees through his friends: When you ask, “Where is the house of the prince now?” you mean my destroyed house.
 > He says: Just ask the travelers who have seen much of the world. They know: The evil man often even gets a beautiful funeral with an honored grave. Many follow in his funeral procession. No one holds his deeds against him while he is alive.
-> Verse 30 is not completely clear in Hebrew. The English source understands it this way: The evil man is kept for the day of disaster. Then this would be the friends’ opinion, which Job repeats here. But many other Bibles translate it the way the context suggests: The evil man is spared on the day of disaster.
+> Verse 30 is not completely clear in Hebrew. The WEB, our English source text, understands it this way: The evil man is kept for the day of disaster. Then this would be the friends’ opinion, which Job repeats here. But many other Bibles translate it the way the context suggests: The evil man is spared on the day of disaster.
 > Verse 34 is Job’s verdict on the whole second round: Your answers are lies. They do not fit reality.
 > Job does not deny that God is just. But he refuses to accept an easy explanation that is not true. That is honest faith.

@@ -23,7 +23,7 @@ for God himself is judge.
 Selah.
 
 > **What does this mean?**
-> Asaph was a musician and singer in David’s time (1 Chronicles 16:4–7). Twelve psalms carry his name (Psalm 50 and Psalms 73–83).
+> Asaph was a musician and singer in David’s time (1 Chronicles 16:4–7). His name is on 12 psalms (Psalm 50 and Psalms 73–83).
 > God appears as if at a great trial in court. Heaven and earth are the witnesses.
 > It is not about the other nations, but about God’s own people. God tests whether they take the covenant seriously.
 

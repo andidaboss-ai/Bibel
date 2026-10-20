@@ -95,5 +95,5 @@ This is the inheritance God has set for him.”
 > **What does this mean?**
 > Zophar describes God’s punishment of the wicked in harsh, vivid pictures: God’s anger rains down on him, arrows pierce him, fire burns him up.
 > “A fire that no one fanned”: A fire from God, maybe lightning. This reminds us of Job 1:16, when “the fire of God” burned up Job’s sheep. Zophar is aiming at Job again.
-> Verse 27: Heaven and earth come forward as witnesses against him. Job had said, “Even now, look, my witness is in heaven” (16:19). Zophar answers: Heaven will be a witness against you!
+> Verse 27: Heaven and earth come forward as witnesses against him. Job had said, “Even now, look, my witness is in heaven” (Job 16:19). Zophar answers: Heaven will be a witness against you!
 > This is Zophar’s last speech. In the third round, he will not speak anymore. Maybe he ran out of things to say.

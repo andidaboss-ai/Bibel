@@ -123,7 +123,7 @@ But it didn’t help him.
 
 > **What does this mean?**
 > Instead of asking God for help, Ahaz calls the most powerful ruler in the world: the king of Assyria. The prophet Isaiah had warned him (Isaiah 7:1–17): trust in God, then you will stand firm!
-> In the English source text, he is called “Tilgath-pilneser.” This is another spelling of Tiglath-pileser III. He ruled from about 745 to 727 BC. In his own inscriptions, Ahaz is named as one of the kings who paid tribute to him.
+> In the WEB, our English source text, he is called “Tilgath-pilneser.” This is another spelling of Tiglath-pileser III. He ruled from about 745 to 727 BC. In his own inscriptions, Ahaz is named as one of the kings who paid tribute to him.
 > According to 2 Kings 16:9, Tiglath-pileser helped for a short time by conquering Damascus. But in the long run, he made Judah dependent and poor. “It didn’t help him.”
 > Here Ahaz is called “king of Israel.” For Chronicles, Judah is the true Israel.
 

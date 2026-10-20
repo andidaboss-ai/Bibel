@@ -3,12 +3,12 @@
 
 ---
 
-## One in ten moves to Jerusalem (Verses 1–3)
+## Every tenth person moves to Jerusalem (Verses 1–3)
 
 [1] The leaders of the people lived in Jerusalem.
 The rest of the people cast lots.
-In this way they chose one out of every ten people to live in Jerusalem, the holy city.
-The other nine parts stayed in the other cities.
+In this way they chose one tenth of the people to live in Jerusalem, the holy city.
+The other nine tenths stayed in the other cities.
 [2] Some men offered on their own to live in Jerusalem.
 The people blessed all of them.
 [3] Here are the leaders of the province who lived in Jerusalem.
@@ -19,7 +19,7 @@ and the descendants of Solomon’s servants.
 > **What does this mean?**
 > Here the problem from Chapter 7:4 is solved: Jerusalem had a wall, but too few people living in it.
 > One tenth of the people moves to Jerusalem, like a “tithe” for God.
-> Why did not everyone want to live in Jerusalem? The city was still in ruins and dangerous. The people in the country had their fields and houses. Moving to Jerusalem meant making sacrifices.
+> Why didn’t everyone want to live in Jerusalem? The city was still in ruins and dangerous. The people in the country had their fields and houses. Moving to Jerusalem meant making sacrifices.
 > That is why the volunteers are blessed. The people honor those who put themselves out for the community.
 
 ---
@@ -75,7 +75,7 @@ Zabdiel, the son of Haggedolim, was in charge of them.
 ## The Levites, singers and gatekeepers (Verses 15–21)
 
 [15] Of the Levites:
-Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni,
+Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni.
 [16] There were also Shabbethai and Jozabad, two of the leaders of the Levites.
 They were in charge of the outside work of God’s house.
 [17] There was Mattaniah the son of Mica, the son of Zabdi, the son of Asaph.

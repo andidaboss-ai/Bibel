@@ -20,7 +20,7 @@ Strength and beauty are in his holy place.
 
 > **What does this mean?**
 > Psalm 96 is a mission song: All nations should learn about God and praise him.
-> Verse 5: The gods of the other nations are “idols”. In Hebrew, the word means “nothings”. They cannot do anything. But the LORD made the heavens.
+> Verse 5: The gods of the other nations are “idols.” In Hebrew, the word means “nothings.” They cannot do anything. But the LORD made the heavens.
 > This psalm also appears almost word for word in 1 Chronicles 16:23–33. There it is sung when the ark of the covenant is brought to Jerusalem.
 
 ---

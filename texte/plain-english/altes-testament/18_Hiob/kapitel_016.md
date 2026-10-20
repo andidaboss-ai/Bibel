@@ -74,7 +74,7 @@ The one who speaks up for me is on high.
 [20] My friends mock me.
 My eyes pour out tears to God.
 [21] I want him to defend a man’s case before God,
-as a person does for his neighbor!
+and a person’s case with his neighbor!
 [22] For in only a few years
 I will go on the road from which I will not come back.
 

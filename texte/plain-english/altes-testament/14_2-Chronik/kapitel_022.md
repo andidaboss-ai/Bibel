@@ -61,7 +61,7 @@ No one from Ahaziah’s family was left who was strong enough to rule the kingdo
 > **What does this mean?**
 > Jehu had the task of punishing Ahab’s house (2 Kings 9). Ahaziah was in the wrong place at the wrong time, because he had joined himself to Ahab’s family.
 > In 2 Kings 9:27 Ahaziah’s death is told a little differently: he flees and is fatally wounded near Megiddo. Chronicles sums it up more briefly. How exactly the two reports fit together is not quite clear.
-> Verse 9 is beautiful: Ahaziah is buried with honor because of his grandfather Jehoshaphat. The English source text says “son”, because in Hebrew “son” can also mean “grandson”. Jehoshaphat’s faithfulness to God still has an effect after his death.
+> Verse 9 is beautiful: Ahaziah is buried with honor because of his grandfather Jehoshaphat. The WEB, our English source text, says “son”, because in Hebrew “son” can also mean “grandson”. Jehoshaphat’s faithfulness to God still has an effect after his death.
 
 ---
 

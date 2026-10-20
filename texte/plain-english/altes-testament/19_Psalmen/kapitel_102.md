@@ -31,7 +31,7 @@ For you have picked me up and thrown me away.
 I have dried up like grass.
 
 > **What does this mean?**
-> Psalm 102 has a special heading: It is for every person who is “suffering” and “overwhelmed”. Anyone may use it as his or her own prayer.
+> Psalm 102 has a special heading: It is for every person who is “suffering” and “overwhelmed.” Anyone may use it as his or her own prayer.
 > It is one of the seven psalms of repentance.
 > The person praying describes deep loneliness and sickness: He forgets to eat. He is only skin and bones. He cannot sleep.
 > Verses 6–7: Three pictures for loneliness: a bird in the wilderness, an owl in the ruins, a sparrow alone on the roof.

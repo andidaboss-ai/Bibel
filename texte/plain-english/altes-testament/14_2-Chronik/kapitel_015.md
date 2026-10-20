@@ -29,7 +29,7 @@ Your work will be rewarded.”
 
 > **What does this mean?**
 > Asa has just won a great victory. Now a prophet comes and says: do not forget to whom you owe the victory!
-> Verse 2 is a key sentence of the whole of Chronicles: “If you seek him, he will let you find him.” God does not hide from those who honestly seek him. Later the prophet Jeremiah says something similar (29:13–14), and Jesus: “Seek, and you will find” (Matthew 7:7).
+> Verse 2 is a key sentence of the whole of Chronicles: “If you seek him, he will let you find him.” God does not hide from those who honestly seek him. Later the prophet Jeremiah says something similar (Jeremiah 29:13–14), and Jesus: “Seek, and you will find” (Matthew 7:7).
 > Verses 3–6 probably recall the time of the judges. Back then there was chaos and violence. But whenever the people cried out to God in their need, he helped.
 > Verse 7 is an encouragement: do not give up! Your effort is not in vain.
 
@@ -56,7 +56,7 @@ some of the animals they had taken in the war:
 > Verse 8 says “the prophecy of Oded the prophet”. But before, the prophet was called Azariah the son of Oded. Probably the words “Azariah the son of” were lost in copying. Some old translations have “Azariah the son of Oded” here.
 > The “disgusting idols” are images of idols that God detests.
 > Again people from the north come to Judah, because they see: God is with Asa. Faith that is really lived draws others.
-> The third month is the time of the feast of weeks (Shavuot, later Pentecost).
+> The third month is the time of the Feast of Weeks (Shavuot, later Pentecost).
 
 ---
 
@@ -89,7 +89,7 @@ So the LORD gave them peace on every side.
 She had made a disgusting image for the goddess Asherah.
 Asa cut down her image.
 He crushed it into dust
-and burned it in the Kidron Valley.
+and burned it at the brook Kidron.
 [17] But the high places were not removed from Israel.
 Still, Asa’s heart was completely faithful as long as he lived.
 [18] He brought into God’s house the things that he and his father had given to God:
@@ -100,4 +100,4 @@ silver, gold, and other objects.
 > Maacah was really Asa’s grandmother (the mother of Abijah, Chapter 11:20). In Hebrew, “mother” can also mean “grandmother”. The “queen mother” had great influence at the court.
 > Asa acts even against his own family when it is about God. That was brave.
 > Verse 17 seems to contradict Chapter 14:5, where Asa removed the high places. One explanation: Asa removed the high places for foreign gods. The high places where people sacrificed to the LORD remained. Or: “Israel” here means the conquered areas in the north.
-> “Asa’s heart was completely faithful”: the English source text says “perfect”. This does not mean that Asa was without mistakes, but that he was faithful to God with an undivided heart. Chapter 16 shows that Asa did make mistakes later.
+> “Asa’s heart was completely faithful”: the WEB, our English source text, says “perfect”. This does not mean that Asa was without mistakes, but that he was faithful to God with an undivided heart. Chapter 16 shows that Asa did make mistakes later.

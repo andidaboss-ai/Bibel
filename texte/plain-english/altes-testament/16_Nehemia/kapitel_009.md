@@ -53,7 +53,7 @@ And you have kept your promise, because you are righteous.
 > **What does this mean?**
 > The prayer begins at the very beginning: with creation. God has made everything and keeps everything alive. “The army of heaven” here means the angels.
 > Verse 8: A covenant is a binding agreement.
-> Then Abraham: God chose him and promised him a land. And God kept his promise. “You are righteous”: God is faithful.
+> Then Abraham: God chose him and promised him a land. And God kept his promise. “You are righteous”: God is faithful. Righteous means: always doing what is right.
 
 ---
 

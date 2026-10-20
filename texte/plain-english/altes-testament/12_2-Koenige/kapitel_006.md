@@ -121,7 +121,7 @@ And the raiding groups of Syria stopped coming into the land of Israel.
 
 ## Famine in Samaria (Verses 24–33)
 
-[24] After this, Ben Hadad king of Syria gathered his whole army.
+[24] After this, Benhadad, the king of Syria, gathered his whole army.
 He went up and laid siege to Samaria.
 A siege means: an army surrounds a city so that no one can get in or out.
 [25] There was a great famine in Samaria.

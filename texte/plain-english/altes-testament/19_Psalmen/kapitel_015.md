@@ -31,7 +31,7 @@ and does not take a bribe against an innocent person.
 Whoever does these things will never be shaken.
 
 > **What does this mean?**
-> The psalm names about ten qualities, like the Ten Commandments:
+> The psalm names about 10 qualities, like the Ten Commandments:
 > – to live honestly and do what is right,
 > – to tell the truth, also in your heart,
 > – not to speak badly about others,

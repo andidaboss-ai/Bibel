@@ -63,8 +63,8 @@ Be strong and brave.
 Do not be afraid.
 Do not lose heart.
 [14] Look, in my hardship I have prepared these things for the LORD’s house:
-100,000 talents of gold
-and 1,000,000 talents of silver.
+100,000 talents of gold (about 7.5 million pounds)
+and 1,000,000 talents of silver (about 75 million pounds).
 I have also prepared so much bronze and iron that no one can weigh it.
 There is a great amount of it.
 I have also prepared wood and stone.

@@ -12,7 +12,7 @@ He moved David to count the people of Israel.
 Then report to me.
 I want to know how many there are.”
 [3] Joab said,
-“May the LORD make his people a hundred times as many as they are now!
+“May the LORD make his people 100 times as many as they are now!
 But my lord the king, are they not all your servants?
 Why do you want to do this, my lord?
 Why do you want to bring guilt on Israel?”
@@ -55,9 +55,9 @@ Choose one of them, and I will do it to you.”’”
 [12] three years of famine,
 or three months of running from your enemies
 while their swords catch up with you,
-or three days of the sword of the LORD.
-That means: a deadly disease in the land,
-while the LORD’s angel brings death in every part of Israel.’
+or three days of the sword of the LORD:
+a deadly disease in the land,
+with the LORD’s angel bringing death in every part of Israel.’
 Now think about it.
 What answer should I give to the one who sent me?”
 [13] David said to Gad,
@@ -77,7 +77,7 @@ But do not let me fall into human hands.”
 ## The plague and the angel over Jerusalem (Verses 14–17)
 
 [14] So the LORD sent a deadly disease on Israel.
-70,000 men of Israel died.
+In Israel, 70,000 men died.
 [15] God sent an angel to Jerusalem to destroy it.
 The angel was about to destroy the city.
 But the LORD saw it, and he was sorry about the disaster.
@@ -88,7 +88,7 @@ At that moment the LORD’s angel was standing by the threshing floor of Ornan t
 A threshing floor is a flat place where grain is separated from the straw.
 [16] David looked up.
 He saw the LORD’s angel standing between the earth and the sky.
-The angel had a sword in his hand.
+The angel had pulled out his sword.
 He held it out over Jerusalem.
 Then David and the leaders fell face down to the ground.
 They were wearing rough sackcloth as a sign of sorrow.
@@ -137,7 +137,7 @@ I give it all to you.”
 “No, I will certainly buy it for the full price.
 I will not take what is yours and give it to the LORD.
 I will not offer a burnt offering that costs me nothing.”
-[25] So David paid Ornan 600 shekels of gold for the place.
+[25] So David paid Ornan 600 shekels of gold (about 15 pounds) for the place.
 [26] David built an altar to the LORD there.
 He offered burnt offerings and peace offerings.
 He called to the LORD.

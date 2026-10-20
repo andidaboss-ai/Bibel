@@ -13,7 +13,7 @@
 > **Headings:** Many psalms have a heading, for example “A psalm by David” or “For the music director.” In the WEB, our English source text, the heading belongs to verse 1. Some Bibles count the heading as a verse of its own. That is why the verse numbers there are often 1 or 2 higher.
 > **“Selah”:** This word often stands at the end of a section. No one knows exactly what it means. It is probably a sign for the music, perhaps for a pause or an interlude.
 > **Poetry:** The psalms are poems. A typical feature is “parallelism”: The second line repeats a thought in other words, or takes it further. That is why we keep the form of short lines.
-> **Until today:** Jews and Christians have prayed the psalms for thousands of years. Jesus prayed them, even on the cross (Psalm 22 and 31). The New Testament quotes no book as often as the Psalms.
+> **Until today:** Jews and Christians have prayed the psalms for thousands of years. Jesus prayed them, even on the cross (Psalms 22 and 31). The New Testament quotes no book as often as the Psalms.
 
 ---
 

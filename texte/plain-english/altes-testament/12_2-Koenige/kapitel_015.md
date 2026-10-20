@@ -73,7 +73,7 @@ And he ripped open all their women who were pregnant.
 ## Menahem and the Assyrians (Verses 17–22)
 
 [17] In the thirty-ninth year of Azariah king of Judah,
-Menahem the son of Gadi became king over Israel, for ten years in Samaria.
+Menahem the son of Gadi became king over Israel, for 10 years in Samaria.
 [18] He did what was evil in the LORD’s eyes.
 All his life he did not turn away from the sins of Jeroboam the son of Nebat,
 the sins through which that Jeroboam had made Israel sin.

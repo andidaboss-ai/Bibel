@@ -90,7 +90,7 @@ I sit on the throne of Israel, as the LORD promised.
 And I have built the house for the name of the LORD, the God of Israel.
 [21] There I have made a place for the ark.
 In it is the covenant of the LORD.
-He made it with our fathers when he brought them out of the land of Egypt.”
+He made it with our ancestors when he brought them out of the land of Egypt.”
 
 > **What does this mean?**
 > Solomon says again and again: God has kept his word. What he promised David, he has fulfilled.
@@ -119,7 +119,7 @@ and walk before me as you have walked before me.’
 [26] And now, God of Israel, please let your word come true,
 the word you spoke to your servant, my father David.
 
-[27] But will God really live on the earth?
+[27] “But will God really live on the earth?
 Look, the heavens, even the highest heavens, cannot hold you.
 So this house that I have built can hold you even less!
 [28] But LORD, my God, please turn to the prayer of your servant and to his plea.
@@ -142,7 +142,7 @@ And when you listen, forgive.
 
 ## Seven requests for the people (Verses 31–53)
 
-[31] Someone may sin against his neighbor
+[31] “Someone may sin against his neighbor
 and be made to swear an oath.
 He may come and swear in front of your altar in this house.
 [32] Then listen in heaven and act.
@@ -150,15 +150,15 @@ Judge your servants.
 Find the guilty one guilty, and let what he did come back on his own head.
 Find the one who did right innocent, and reward him for the right he has done.
 
-[33] Your people Israel may lose a battle against an enemy
+[33] “Your people Israel may lose a battle against an enemy
 because they have sinned against you.
 Then they may turn back to you and praise your name.
 They may pray and plead with you in this house.
 [34] Then listen in heaven.
 Forgive the sin of your people Israel.
-Bring them back to the land that you gave to their fathers.
+Bring them back to the land that you gave to their ancestors.
 
-[35] The sky may be shut, so that there is no rain,
+[35] “The sky may be shut, so that there is no rain,
 because the people have sinned against you.
 You may punish them.
 Then they may pray toward this place and praise your name
@@ -169,7 +169,7 @@ Teach them the good way in which they should live.
 And send rain on your land.
 You have given it to your people to own.
 
-[37] There may be famine in the land.
+[37] “There may be famine in the land.
 There may be disease, or crops may dry up or get moldy.
 There may be locusts or caterpillars.
 An enemy may surround them in their land and their cities.
@@ -182,9 +182,9 @@ Forgive and act.
 Give each person what all his ways deserve.
 You know his heart.
 You alone know the hearts of all people.
-[40] Then they will have respect for you all the days they live in the land that you gave to our fathers.
+[40] Then they will have respect for you all the days they live in the land that you gave to our ancestors.
 
-[41] A foreigner who is not one of your people Israel
+[41] “A foreigner who is not one of your people Israel
 may also come from a far country because of your name.
 [42] People will hear of your great name,
 of your strong hand and of your outstretched arm.
@@ -195,14 +195,14 @@ Then all the peoples of the earth will know your name.
 They will have respect for you, as your people Israel do.
 And they will know that this house that I have built is called by your name.
 
-[44] Your people may go out to battle against their enemy,
+[44] “Your people may go out to battle against their enemy,
 wherever you send them.
 They may pray to the LORD toward the city that you have chosen
 and toward the house that I have built for your name.
 [45] Then listen in heaven to their prayer and their plea.
 Help them win their cause.
 
-[46] They may sin against you.
+[46] “They may sin against you.
 There is no one who doesn’t sin.
 You may be angry with them and hand them over to the enemy.
 The enemy may take them away as prisoners to the enemy’s land, far away or near.
@@ -212,7 +212,7 @@ They may say,
 ‘We have sinned and done wrong. We have done evil.’
 [48] They may come back to you with all their heart and with all their soul
 in the land of their enemies who took them away.
-They may pray to you toward their land, which you gave to their fathers,
+They may pray to you toward their land, which you gave to their ancestors,
 toward the city that you have chosen,
 and toward the house that I have built for your name.
 [49] Then listen in heaven, where you live, to their prayer and their plea.
@@ -229,7 +229,7 @@ and to the plea of your people Israel.
 Listen to them whenever they cry out to you.
 [53] You set them apart from all the peoples of the earth to belong to you.
 You said this through your servant Moses
-when you brought our fathers out of Egypt, Lord GOD.”
+when you brought our ancestors out of Egypt, Lord GOD.”
 
 > **What does this mean?**
 > Solomon prays for many situations in which people in need pray to God: in a dispute in court, in a defeat in war, in a drought, in famine and sickness, and even as captives in a foreign land.
@@ -253,12 +253,12 @@ He said,
 He has given rest to his people Israel, just as he promised.
 Not one word has failed of all his good promise
 that he made through his servant Moses.
-[57] May the LORD our God be with us as he was with our fathers.
+[57] May the LORD our God be with us as he was with our ancestors.
 May he never leave us or give up on us.
 [58] May he turn our hearts to himself,
 so that we live in all his ways
 and keep his commandments, his rules, and his laws.
-He gave them to our fathers.
+He gave them to our ancestors.
 [59] I have pleaded with the LORD with these words.
 May they stay near the LORD our God day and night.
 Then he will help his servant and his people Israel win their cause,
@@ -292,7 +292,7 @@ The bronze altar before the LORD was too small for all of them.
 It was a great assembly.
 People came from the entrance of Hamath to the brook of Egypt.
 They celebrated before the LORD our God
-for seven days and seven more days, 14 days in all.
+for 7 days and 7 more days, 14 days in all.
 [66] On the eighth day he sent the people away.
 They blessed the king.
 Then they went home to their tents.
@@ -302,6 +302,6 @@ for all the good things the LORD had done for his servant David and for his peop
 > **What does this mean?**
 > The number of animals offered is huge. The meat of the peace offerings was eaten together. So it became a great feast for the whole people.
 > “From the entrance of Hamath to the brook of Egypt”: people came from the whole land, from the far north to the far south. Some Bibles call the place in the north “Lebo Hamath.”
-> The feast lasted 14 days: seven days for the dedication and seven days for the Feast of Tabernacles.
+> The feast lasted 14 days: 7 days for the dedication and 7 days for the Feast of Tabernacles.
 > “On the eighth day”: this probably means the day after the second feast. 2 Chronicles 7:9–10 tells it more exactly.
 > The people go home joyful. This is the high point of Israel’s history under the kings: God lives in the middle of his people, and everyone is thankful.

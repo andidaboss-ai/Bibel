@@ -6,7 +6,7 @@
 ## No one does good (Verses 1–3)
 
 [1] For the music director. By David.
-The fool says to himself, “There is no God.”
+The fool has said in his heart, “There is no God.”
 They are rotten. They have done disgusting things.
 There is no one who does good.
 [2] The LORD looked down from heaven on all people,
@@ -14,7 +14,7 @@ to see if there was anyone who understood,
 anyone who looked for God.
 [3] They have all turned away.
 All of them together have become rotten.
-There is no one who does good, not even one.
+There is no one who does good, no, not one.
 
 > **What does this mean?**
 > In the Bible, “the fool” is not simply a person who is not smart. It is someone who lives as if there is no God. He does not necessarily think about it like a philosopher. He simply lives as if he did not have to answer to anyone.
@@ -32,10 +32,10 @@ and they do not call on the LORD.
 [5] There they were, full of terror,
 for God is with the generation of the righteous.
 [6] You ruin the plans of the poor,
-but the LORD is his refuge.
-[7] Oh, if only the rescue of Israel would come out of Zion!
+because the LORD is his refuge.
+[7] Oh, that the salvation of Israel would come out of Zion!
 When the LORD turns things around for his people,
-then Jacob will rejoice, and Israel will be glad.
+then Jacob will be full of joy, and Israel will be glad.
 
 > **What does this mean?**
 > Verse 4: The wicked “eat up” God’s people as easily as people eat bread. They take advantage of the weak without thinking.

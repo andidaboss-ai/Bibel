@@ -86,12 +86,15 @@ just as the LORD, the God of Israel, had commanded him.
 [20] These were the other descendants of Levi:
 From the descendants of Amram: Shubael.
 From the descendants of Shubael: Jehdeiah.
-[21] From Rehabiah:
-From the sons of Rehabiah: Isshiah, the leader.
+[21] From Rehabiah and his sons:
+Isshiah, the leader.
 [22] From the Izharites: Shelomoth.
 From the sons of Shelomoth: Jahath.
 [23] The sons of Hebron:
-Jeriah, Amariah was second, Jahaziel was third, and Jekameam was fourth.
+Jeriah,
+Amariah, the second,
+Jahaziel, the third,
+and Jekameam, the fourth.
 [24] The sons of Uzziel: Micah.
 From the sons of Micah: Shamir.
 [25] Micah’s brother: Isshiah.

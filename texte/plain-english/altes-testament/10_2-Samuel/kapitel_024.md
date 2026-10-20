@@ -38,7 +38,7 @@ In Judah there were 500,000 men.
 > Why is a census a sin? The Bible does not say exactly. Probably the point was that David wanted to know how strong his army was. He wanted to rely on the number of his soldiers, not on God. It was a count for war and taxes, out of pride.
 > Even Joab, who usually has few doubts, warns David: why do you want to do this?
 > Verse 1 is very hard. It says about the LORD: “And he moved David against them.” How can God lead someone into sin? 1 Chronicles 21:1, where the same story is told, says: “Satan rose up against Israel. He moved David to count the people of Israel.” Here the Bible itself wrestles with the question of where evil comes from. The older text traces everything back to God, because God stands above everything. The later text says more exactly: the tempter was Satan, but God allowed it.
-> The count takes almost ten months. The numbers are very high. 1 Chronicles 21:5 has different numbers: 1,100,000 for Israel and 470,000 for Judah.
+> The count takes almost 10 months. The numbers are very high. 1 Chronicles 21:5 has different numbers: 1,100,000 for Israel and 470,000 for Judah.
 
 ---
 

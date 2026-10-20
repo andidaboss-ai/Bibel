@@ -116,9 +116,9 @@ and about 4 gallons of barley for a shekel,
 just as the LORD had said.
 [17] The king had put the officer on whose hand he leaned in charge of the gate.
 But the people trampled him in the gate,
-and he died,
-just as the man of God had said,
-who had spoken when the king came down to him.
+and he died.
+It happened just as the man of God had said.
+He had said it when the king came down to him.
 [18] It happened just as the man of God had told the king:
 “Tomorrow at about this time, in the gate of Samaria,
 about 4 gallons of barley will be sold for a shekel,
@@ -136,4 +136,4 @@ For the people trampled him in the gate, and he died.
 > Everything happens exactly as Elisha announced. God saved his people without a battle.
 > The officer sees the miracle with his own eyes, but he cannot enjoy any of it. The hungry crowd pushes through the gate and tramples him.
 > The text tells the story again in detail. It wants to stress: God’s word can be trusted, even when it sounds impossible. Mocking and unbelief bring nothing good.
-> In verse 16 our English source text speaks of two measures of barley. This again means two seahs, as in verse 1.
+> In verse 16 the WEB, our English source text, speaks of two measures of barley. This again means two seahs, as in verse 1.

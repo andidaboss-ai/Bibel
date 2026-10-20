@@ -22,7 +22,7 @@ before you formed the earth and the world,
 from everlasting to everlasting, you are God.
 [3] You turn people back to dust
 and say, “Return, you children of men.”
-[4] For in your eyes a thousand years
+[4] For in your eyes 1,000 years
 are like yesterday when it is past,
 like one watch in the night.
 [5] You sweep people away as they sleep.
@@ -33,7 +33,7 @@ By evening it is withered and dry.
 > **What does this mean?**
 > God is eternal. He was already there before the mountains came to be. For people, he is like a “home” where they are safe.
 > Verse 3: “Back to dust”: The Hebrew word means something crushed, like dust. People return to the dust they were made from (Genesis 3:19).
-> Verse 4: For God, a thousand years are like a day. Peter quotes this in 2 Peter 3:8.
+> Verse 4: For God, 1,000 years are like a day. Peter quotes this in 2 Peter 3:8.
 > Verses 5–6: Human life is like grass: fresh in the morning, withered in the evening.
 
 ---
@@ -46,8 +46,8 @@ We are terrified by your fury.
 our secret sins in the light of your presence.
 [9] For all our days have passed away under your anger.
 We bring our years to an end like a sigh.
-[10] The days of our years are seventy,
-or eighty if we are strong.
+[10] The days of our years are 70,
+or 80 if we are strong.
 But even their best is only hard work and sorrow,
 for it soon passes, and we fly away.
 [11] Who knows the power of your anger,

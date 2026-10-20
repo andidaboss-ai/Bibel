@@ -132,7 +132,7 @@ David put him in charge of his guard.
 
 ---
 
-## The thirty (Verses 24–39)
+## The 30 (Verses 24–39)
 
 [24] Asahel, the brother of Joab, was one of the 30.
 The 30 were:
@@ -159,7 +159,7 @@ Naharai the Beerothite, who carried the weapons of Joab the son of Zeruiah,
 There were 37 in all.
 
 > **What does this mean?**
-> This is a list of “the thirty,” David’s best fighting men. “The thirty” was probably the name of the group, even if there were sometimes more and sometimes fewer men.
+> This is a list of “the 30,” David’s best fighting men. “The 30” was probably the name of the group, even if there were sometimes more and sometimes fewer men.
 > Asahel stands at the beginning. He had died early (Chapter 2:23). The list honors the dead too.
 > Among the mighty men there are also foreigners: an Ammonite, a man from Zobah in Syria, and Uriah the Hittite.
 > Eliam, the son of Ahithophel, was probably Bathsheba’s father (Chapter 11:3).

@@ -22,7 +22,7 @@ Even the memory of the cities that you have torn down is gone.
 
 > **What does this mean?**
 > “To the tune of ‘The Death of the Son’”: This is probably the name of a well-known tune that the psalm was sung to. No one knows it today.
-> Psalm 9 and 10 belong together. In Hebrew, together they form a poem based on the alphabet (an “acrostic”): Every second verse begins with the next letter of the Hebrew alphabet. In the old Greek and Latin Bibles, they are one single psalm. That is why, from here on, the psalm number in older Catholic and in Orthodox Bibles is often 1 lower (up to Psalm 147).
+> Psalms 9 and 10 belong together. In Hebrew, together they form a poem based on the alphabet (an “acrostic”): Every second verse begins with the next letter of the Hebrew alphabet. In the old Greek and Latin Bibles, they are one single psalm. That is why, from here on, the psalm number in older Catholic and in Orthodox Bibles is often 1 lower (up to Psalm 147).
 > David thanks God with his whole heart, because God has helped him against his enemies.
 
 ---

@@ -54,7 +54,7 @@ Parosh, Pahathmoab, Elam, Zattu, Bani,
 
 > **What does this mean?**
 > We know many of these names from the lists of those who returned (Ezra 2; Nehemiah 7). They are the families who had come back.
-> In all 84 men sign: priests, Levites and heads. They stand for the whole people.
+> In all, 84 men sign: priests, Levites and heads. They stand for the whole people.
 
 ---
 
@@ -81,7 +81,7 @@ and all his rules and his statutes.
 
 ---
 
-## The single promises (Verses 30–39)
+## The individual promises (Verses 30–39)
 
 [30] We promised not to give our daughters in marriage to the peoples of the land.
 And we promised not to take their daughters as wives for our sons.
@@ -102,14 +102,14 @@ Atonement means: the guilt is taken away, and people are at peace with God again
 [34] We, the priests, the Levites, and the people, cast lots for the wood offering.
 In this way we decided which family would bring wood to the house of our God, and when.
 Each year at set times they would bring it.
-It is burned on the altar of the LORD our God, as it is written in the law.
+It would be burned on the altar of the LORD our God, as it is written in the law.
 [35] Each year we would bring the first harvest of our fields to the LORD’s house.
 We would also bring the first fruit of every kind of tree.
 [36] We would bring the firstborn of our sons and of our animals,
 as it is written in the law.
 We would bring the firstborn of our cattle and of our sheep and goats
 to the house of our God, to the priests who serve there.
-[37] We would bring the first of our dough and our offerings,
+[37] We would bring the first of our dough and our wave offerings,
 the fruit of every kind of tree, the new wine, and the oil.
 We would bring them to the priests, to the storerooms of the house of our God.
 And we would bring a tenth of the harvest of our fields to the Levites.
@@ -117,7 +117,7 @@ The Levites collect this tenth in all our farming towns.
 [38] A priest from the family of Aaron will be with the Levites when they collect the tenth.
 The Levites will take a tenth of everything they collect
 and bring it up to the house of our God, to the storerooms of the treasure house.
-[39] The people of Israel and the descendants of Levi will bring the offerings of grain, new wine, and oil
+[39] The people of Israel and the descendants of Levi will bring the wave offering of grain, new wine, and oil
 to the storerooms.
 The objects of the holy place are kept there.
 The priests who serve, the gatekeepers, and the singers are there too.

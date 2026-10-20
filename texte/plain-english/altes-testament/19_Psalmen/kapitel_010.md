@@ -20,7 +20,7 @@ They are caught in the evil plans they think up.
 ## This is how the wicked think (Verses 3–11)
 
 [3] For the wicked person boasts about what his heart craves.
-He praises the greedy and looks down on the LORD.
+He praises the greedy and speaks against the LORD.
 [4] The wicked person is so proud
 that there is no room for God in his thoughts.
 [5] Everything always goes well for him.
@@ -57,7 +57,7 @@ He hides his face. He will never see it.”
 
 [12] Get up, LORD! God, lift up your hand!
 Do not forget the helpless.
-[13] Why does the wicked person look down on God?
+[13] Why does the wicked person speak against God?
 Why does he say to himself, “God will not make me answer for it”?
 [14] But you do see trouble and grief.
 You look at it closely, to take it into your hand.
@@ -86,4 +86,4 @@ so that people who are made from the earth will not spread terror anymore.
 > At the end there is trust: The LORD is King, not the violent people.
 > God hears the humble, the children without fathers and the oppressed.
 > “People who are made from the earth”: Even the mightiest oppressor is only a human being made from dust. His power has an end.
-> Psalm 9 and 10 together show: Faith in God’s justice and the honest complaint “Why do you stand so far away, LORD?” (Psalm 10:1) belong together.
+> Psalms 9 and 10 together show: Faith in God’s justice and the honest complaint “Why do you stand so far away, LORD?” (Psalm 10:1) belong together.

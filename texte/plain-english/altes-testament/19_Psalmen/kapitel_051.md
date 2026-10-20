@@ -21,7 +21,7 @@ I have done what is evil in your eyes.
 So you are right when you speak,
 and you are fair when you judge.
 [5] Look, I was born in guilt.
-My mother was sinful when she became pregnant with me.
+My mother became pregnant with me in sin.
 
 > **What does this mean?**
 > Psalm 51 is the best-known psalm of repentance. The superscription reminds us of the worst moment in David’s life: He had committed adultery with Bathsheba and had her husband Uriah killed. The prophet Nathan confronted him with his guilt (2 Samuel 11–12).

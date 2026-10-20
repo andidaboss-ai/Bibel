@@ -8,7 +8,7 @@
 [1] So Abijah died and joined his ancestors.
 They buried him in the City of David.
 And his son Asa became king in his place.
-While Asa was king, the land had peace for ten years.
+While Asa was king, the land had peace for 10 years.
 [2] Asa did what was good and right in the eyes of the LORD his God.
 [3] He removed the altars of foreign gods and the high places.
 He broke down the stone pillars.
@@ -83,7 +83,7 @@ They took a great number of sheep and camels.
 Then they went back to Jerusalem.
 
 > **What does this mean?**
-> The English source text says “the Ethiopian”. This means a man from Cush, the area south of Egypt. It is not certain who exactly Zerah was. Maybe he was an army commander in the service of Egypt, or he led tribes from the area of Gerar in the south.
+> The WEB, our English source text, says “the Ethiopian”. This means a man from Cush, the area south of Egypt. It is not certain who exactly Zerah was. Maybe he was an army commander in the service of Egypt, or he led tribes from the area of Gerar in the south.
 > Asa’s prayer in verse 11 is one of the most beautiful prayers in Chronicles. Asa says: for you, God, it makes no difference whether someone is strong or weak. You can help. And: it is not about us, but about you. Do not let any human being be strong against you.
 > You can pray this prayer today, too, when you are facing a huge problem.
 > That the Bible tells about battles and plunder in this way belongs to that old time. It is not an example for violence today. The message is: trust in God, even if you are weak.

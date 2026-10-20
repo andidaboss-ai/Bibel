@@ -146,7 +146,7 @@ That is why this place is still called the “Valley of Beracah” today.
 > Verse 20 sounds like Isaiah 7:9: “If you will not believe, surely you will not be established.” In Hebrew this is a play on words: “believe” and “stand firm” come from the same word (aman; the word “Amen” also comes from it).
 > This is the most unusual battle order in the Bible: in front go not the soldiers, but the singers. They sing: “Give thanks to the LORD, for his loving kindness endures forever” (like Psalm 136).
 > Judah does not fight at all. The enemies quarrel with each other and destroy each other. The text does not say exactly who laid the “ambush”. What matters is: God brought it about.
-> “Beracah” means “blessing” or “praise”. The English source text says that they “blessed” the LORD there. The valley has this name because they praised God there. To this day there is a place with a similar name south of Bethlehem.
+> “Beracah” means “blessing” or “praise”. The WEB, our English source text, says that they “blessed” the LORD there. The valley has this name because they praised God there. To this day there is a place with a similar name south of Bethlehem.
 > Here, too: the Bible does not rejoice over the dead, but over the rescue. And the rescue did not come through weapons, but through trust and praise.
 
 ---

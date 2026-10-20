@@ -33,7 +33,7 @@ and took him to Babylon.
 > The siege lasts about a year and a half. The people in the city are starving.
 > Zedekiah tries to escape at night, toward the Jordan Valley. But he is caught.
 > The punishment is cruel: his sons are killed before his eyes. That is the last thing he sees. Then he is blinded. The Bible tells of this cruelty without softening it. It shows the whole suffering of war.
-> To this day Jews remember these events with days of fasting: the beginning of the siege on the 10th of Tevet and the hole in the wall in the month of Tammuz.
+> To this day Jews remember these events with days of fasting: the beginning of the siege on the tenth of Tevet and the hole in the wall in the month of Tammuz.
 > In Lachish letters written on pieces of pottery were found that come from this time. In them an officer writes that the fire signals of Azekah can no longer be seen. This fits Jeremiah 34:7.
 
 ---
@@ -41,7 +41,7 @@ and took him to Babylon.
 ## The temple burns (Verses 8–17)
 
 [8] In the fifth month, on the seventh day of the month,
-that was the 19th year of Nebuchadnezzar king of Babylon,
+that was the nineteenth year of Nebuchadnezzar king of Babylon,
 Nebuzaradan the captain of the guard, a servant of the king of Babylon, came to Jerusalem.
 [9] He burned the LORD’s house,
 the king’s house,
@@ -75,7 +75,7 @@ And the second pillar with its network was just the same.
 
 > **What does this mean?**
 > This is the saddest day in the history of ancient Israel: the temple that Solomon had built almost 400 years before is burned. This happened in the year 587 or 586 BC.
-> Jews remember this day to this day. On the fast day “Tisha B’Av” (the 9th day of the month of Av) they mourn the destruction of the first and the second temple. Then the Book of Lamentations is read, which laments this destruction.
+> Jews remember this day to this day. On the fast day “Tisha B’Av” (the ninth day of the month of Av) they mourn the destruction of the first and the second temple. Then the Book of Lamentations is read, which laments this destruction.
 > Jeremiah 52:12 has the tenth day instead of the seventh. Perhaps Nebuzaradan arrived on the seventh day and set the temple on fire on the tenth.
 > The exact description of the pillars and objects reminds us how splendid everything once was (1 Kings 7:15–22). Now it is smashed into scrap metal.
 > The Bible gives the measurements in cubits: 18 cubits and 3 cubits. A cubit is about 18 inches. In 1 Kings 7:16 the capital is 5 cubits.
@@ -123,7 +123,7 @@ they and their men.
 Stay in the land and serve the king of Babylon,
 and it will go well with you.”
 [25] But in the seventh month Ishmael the son of Nethaniah, the son of Elishama, from the royal family, came,
-and ten men with him.
+and 10 men with him.
 They struck Gedaliah so that he died,
 and also the Jews and the Chaldeans who were with him at Mizpah.
 [26] Then all the people, both small and great,
@@ -136,14 +136,14 @@ because they were afraid of the Chaldeans.
 > But Ishmael, a man from the royal family, murders him. Perhaps out of envy, or because he thought Gedaliah was a traitor.
 > Out of fear of the Babylonians’ revenge, many flee to Egypt. They take the prophet Jeremiah with them against his will (Jeremiah 40–43).
 > To this day Jews remember this murder on the “Fast of Gedaliah”, after the New Year festival.
-> In Lachish a seal impression was found with the words Gedaliah, who is over the house. Whether it is the same Gedaliah is not certain.
+> In Lachish a seal impression was found with the words “Gedaliah, who is over the house.” Whether it is the same Gedaliah is not certain.
 
 ---
 
 ## A light of hope: Jehoiachin is set free (Verses 27–30)
 
-[27] In the 37th year of the captivity of Jehoiachin king of Judah,
-in the twelfth month, on the 27th day of the month,
+[27] In the thirty-seventh year of the captivity of Jehoiachin king of Judah,
+in the twelfth month, on the twenty-seventh day of the month,
 Evilmerodach king of Babylon, in the year that he became king,
 set Jehoiachin king of Judah free from prison.
 [28] He spoke kindly to him

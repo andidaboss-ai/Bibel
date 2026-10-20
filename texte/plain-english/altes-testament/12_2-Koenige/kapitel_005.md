@@ -18,21 +18,25 @@ She served Naaman’s wife.
 “I wish that my lord were with the prophet who is in Samaria!
 Then he would heal him of his leprosy.”
 [4] Someone went in and told his lord,
-“The girl from the land of Israel said this and this.”
+“The girl from the land of Israel said this.”
 [5] The king of Syria said,
 “Go now,
 and I will send a letter to the king of Israel.”
-He set out and took with him ten talents of silver,
-6,000 pieces of gold, and ten changes of clothes.
+Naaman set out.
+He took with him 10 talents of silver (about 750 pounds),
+6,000 pieces of gold, and 10 changes of clothes.
 [6] He brought the letter to the king of Israel. It said,
 “When this letter comes to you, look:
 I have sent my servant Naaman to you,
 so that you may heal him of his leprosy.”
 [7] When the king of Israel had read the letter,
 he tore his clothes and said,
-“Am I God, that I can kill and make alive,
-that this man sends a man to me for me to heal him of his leprosy?
-Please think about it and see how he is looking for a quarrel with me!”
+“Am I God?
+Can I kill and make alive?
+This man sends someone to me,
+so that I will heal him of his leprosy!
+Please think about it.
+See how he is looking for a quarrel with me!”
 
 > **What does this mean?**
 > Naaman is a powerful man, a successful general from Syria (Aram), Israel’s enemy. But he has a disease against which all his power is no help.
@@ -40,7 +44,7 @@ Please think about it and see how he is looking for a quarrel with me!”
 > In those days “leprosy” was a name for many different skin diseases, not only for what is called leprosy today. Sick people were often pushed out of the community.
 > The real hero at the beginning is a little girl without a name. She was carried away from her home and has to serve as a slave. Even so, she wishes healing for her master. She has no bitterness, but compassion, and she trusts in God.
 > The king of Israel (probably Jehoram) becomes afraid. He thinks the letter is a trap. He does not think of the prophet Elisha.
-> The Bible says “ten talents of silver.” A talent is about 75 pounds. The “6,000 pieces of gold” probably means shekels, together about 150 pounds of gold. That was a huge fortune.
+> The Bible says “10 talents of silver.” A talent is about 75 pounds. The “6,000 pieces of gold” probably means shekels, together about 150 pounds of gold. That was a huge fortune.
 
 ---
 
@@ -81,7 +85,7 @@ and he was clean.
 > **What does this mean?**
 > Naaman arrives in grand style, with horses and chariots. But Elisha does not even come out. He only sends a messenger.
 > Naaman is offended. He had imagined an impressive healing. Instead he is to wash in a small, muddy river. His pride stands in his way.
-> Again it is servants, ordinary people, who bring the powerful man to his senses: “If it were something hard, you would do it. So why not the easy thing?”
+> Again it is servants, ordinary people, who bring the powerful man to his senses: “If the prophet had told you to do some great thing, wouldn’t you have done it?”
 > Naaman has to become humble. He goes down, quite literally, into the Jordan. And he is healed. His skin becomes like that of a little child.
 > In Nazareth Jesus reminded people of Naaman: there were many lepers in Israel, but the one who was healed was a foreigner (Luke 4:27).
 > Abanah and Pharpar are rivers near Damascus.
@@ -138,9 +142,9 @@ he got down from the chariot to meet him and said,
 My master has sent me to say,
 ‘Look, just now two young men of the sons of the prophets
 have come to me from the hill country of Ephraim.
-Please give them a talent of silver and two changes of clothes.’”
+Please give them a talent of silver (about 75 pounds) and two changes of clothes.’”
 [23] Naaman said,
-“Please take two talents.”
+“Please take two talents (about 150 pounds).”
 He urged him.
 He tied up two talents of silver in two bags,
 with two changes of clothes,

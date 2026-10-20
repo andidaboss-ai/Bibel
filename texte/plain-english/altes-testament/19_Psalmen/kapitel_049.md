@@ -8,7 +8,7 @@
 [1] For the music director. A psalm by the sons of Korah.
 Hear this, all you peoples.
 Listen, all you who live in the world,
-[2] both poor people and important people,
+[2] both ordinary people and important people,
 rich and poor together.
 [3] My mouth will speak words of wisdom.
 My heart will speak with understanding.
@@ -56,8 +56,7 @@ He is like the animals that die.
 [13] This is what happens to foolish people,
 and to those who agree with what they say.
 Selah.
-[14] Like a flock of sheep, they are headed for Sheol.
-Sheol is the place of the dead.
+[14] Like a flock of sheep, they are headed for Sheol (the world of the dead).
 Death will be their shepherd.
 In the morning, the honest will rule over them.
 Their beauty will rot away in Sheol,

@@ -42,14 +42,14 @@ You are a very large army.
 And you have the golden calves with you, which Jeroboam made to be your gods.
 [9] You drove out the LORD’s priests, the sons of Aaron, and the Levites.
 You made your own priests, like the peoples of other lands.
-Anyone who comes with a young bull and seven rams
+Anyone who comes to dedicate himself with a young bull and seven rams
 can become a priest of gods that are no gods.
 [10] “But for us, the LORD is our God.
 We have not abandoned him.
 Our priests who serve the LORD are the sons of Aaron.
 And the Levites help them in their work.
 [11] Every morning and every evening they burn burnt offerings and sweet-smelling incense to the LORD.
-They put the holy bread in rows on the pure table.
+They set out the show bread in rows on the pure table.
 They take care of the gold lampstand and its lamps, so that it burns every evening.
 We keep the commands of the LORD our God.
 But you have abandoned him.
@@ -113,4 +113,4 @@ what he did, how he lived, and what he said.
 
 > **What does this mean?**
 > The “writings of the prophet Iddo” are a book that no longer exists. Chronicles often names books of prophets as sources.
-> In the English source text the chapter ends here. In some Bibles the next verse (Abijah’s death) is still verse 23 of this chapter.
+> In the WEB, our English source text, the chapter ends here. In some Bibles the next verse (Abijah’s death) is still verse 23 of this chapter.

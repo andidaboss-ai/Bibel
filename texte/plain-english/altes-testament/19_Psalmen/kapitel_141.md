@@ -37,13 +37,13 @@ Then they will hear my words, because they are well spoken.
 [7] “As when someone plows and breaks up the ground,
 so our bones are scattered at the entrance of Sheol.”
 Sheol is the world of the dead.
-[8] For my eyes are on you, LORD, my Lord.
+[8] For my eyes are on you, LORD, the Lord.
 I look for safety in you.
 Do not leave my soul without protection!
 [9] Keep me from the trap that they have set for me,
 from the traps of those who do wrong!
 [10] Let the wicked all fall into their own nets,
-while I walk safely past.
+while I pass by.
 
 > **What does this mean?**
 > Verses 6–7 are very hard to understand in Hebrew. The translations are very different from each other. It probably means: The unjust leaders will fall. The people suffer so much that they feel like bones lying scattered at the edge of the grave.

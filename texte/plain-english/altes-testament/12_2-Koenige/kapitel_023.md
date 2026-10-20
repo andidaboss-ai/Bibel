@@ -73,7 +73,7 @@ and filled their places with human bones.
 
 > **What does this mean?**
 > Josiah cleans up thoroughly. The list is long and shows how much worship of idols had piled up, even in God’s own temple.
-> “The stars of the sky” (the WEB says “the army of the sky”): sun, moon, and stars were worshiped as gods. There were even horses and chariots for the sun god.
+> “The stars of the sky” (the WEB, our English source text, says “the army of the sky”): sun, moon, and stars were worshiped as gods. There were even horses and chariots for the sun god.
 > “Topheth” in the Valley of Hinnom was the place where children were sacrificed. Josiah puts an end to this. The Valley of Hinnom (in Hebrew “Ge-Hinnom”) later became a picture for the place of punishment. From this came the word “Gehenna”, which is used for hell in the New Testament.
 > Even Solomon’s altars for foreign gods were still standing after about 300 years (1 Kings 11:7). The “Mount of Corruption” is a mocking name for a part of the Mount of Olives.
 > Human bones made a place unclean. With this, these places could never be used for worship again.
@@ -172,7 +172,7 @@ and the house about which I said, ‘My name will be there.’”
 [28] The rest of the things Josiah did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
 [29] In his days Pharaoh Necoh king of Egypt went up
-to the king of Assyria at the Euphrates River.
+against the king of Assyria at the Euphrates River.
 King Josiah went out against him.
 But Pharaoh Necoh killed him at Megiddo when he saw him.
 [30] His servants carried him dead in a chariot from Megiddo.
@@ -194,10 +194,11 @@ anointed him, and made him king in his father’s place.
 and he ruled for three months in Jerusalem.
 His mother’s name was Hamutal the daughter of Jeremiah, from Libnah.
 [32] He did what was evil in the LORD’s eyes,
-just as his fathers had done.
+just as his ancestors had done.
 [33] Pharaoh Necoh put him in chains at Riblah in the land of Hamath,
 so that he could not rule in Jerusalem.
-And he made the land pay a tribute of 100 talents of silver and a talent of gold.
+And he made the land pay a tribute of 100 talents of silver (about 7,500 pounds)
+and a talent of gold (about 75 pounds).
 [34] Pharaoh Necoh made Eliakim the son of Josiah king in the place of his father Josiah
 and changed his name to Jehoiakim.
 But he took Jehoahaz away,
@@ -208,15 +209,15 @@ He forced the people of the land to pay the silver and the gold,
 from everyone according to what was set for him,
 to give it to Pharaoh Necoh.
 [36] Jehoiakim was 25 years old when he became king,
-and he ruled for eleven years in Jerusalem.
+and he ruled for 11 years in Jerusalem.
 His mother’s name was Zebidah the daughter of Pedaiah, from Rumah.
 [37] He did what was evil in the LORD’s eyes,
-just as his fathers had done.
+just as his ancestors had done.
 
 > **What does this mean?**
 > After Josiah’s death things go downhill quickly. Judah is now dependent on Egypt. Pharaoh removes kings and puts kings in place as he likes.
 > He even gives the new king a new name. That shows: Judah is no longer free.
 > The Jeremiah in verse 31 is not the prophet Jeremiah, but another man from Libnah.
-> The Bible says “100 talents of silver and a talent of gold.” A talent is about 75 pounds.
+> The Bible says “100 talents of silver” and “a talent of gold.” A talent is about 75 pounds.
 > Jehoiakim was a harsh king. The prophet Jeremiah accused him because he had a splendid palace built for himself without paying the workers their wages (Jeremiah 22:13–19). Jehoiakim even burned the scroll with Jeremiah’s words (Jeremiah 36).
 > Jehoiakim ruled from about 609 to 598 BC.
