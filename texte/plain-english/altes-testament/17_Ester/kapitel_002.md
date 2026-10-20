@@ -78,11 +78,11 @@ and what would happen to her.
 
 ## A year of preparation (Verses 12–14)
 
-[12] Each young woman had to go through twelve months of beauty treatment.
+[12] Each young woman had to go through 12 months of beauty treatment.
 Then her turn came to go in to King Ahasuerus.
 The treatment took this long:
-six months with oil of myrrh,
-and six months with sweet perfumes and other beauty treatments for women.
+6 months with oil of myrrh,
+and 6 months with sweet perfumes and other beauty treatments for women.
 [13] Then the young woman went to the king.
 She was given whatever she asked for
 to take with her from the women’s house to the king’s palace.

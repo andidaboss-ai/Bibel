@@ -176,5 +176,5 @@ The words of Job are ended.
 
 > **What does this mean?**
 > Finally, one last point: Job did not get his land unjustly. He paid the workers and did not drive anyone away.
-> “The land cries out”: Just as Abel’s blood cried out from the ground (Genesis 4:10), the soil would also cry out against injustice.
+> “My land cries out”: Just as Abel’s blood cried out from the ground (Genesis 4:10), the soil would also cry out against injustice.
 > “The words of Job are ended”: Job has said everything. He will only speak again after God has spoken (Job 40:3–5; 42:1–6).

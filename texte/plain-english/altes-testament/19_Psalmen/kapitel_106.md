@@ -184,7 +184,7 @@ feel sorry for them.
 and gather us from among the nations,
 so that we may give thanks to your holy name
 and celebrate as we praise you!
-[48] Blessed be the LORD, the God of Israel,
+[48] Praise the LORD, the God of Israel,
 from everlasting to everlasting!
 Let all the people say, “Amen.”
 Praise Yah!

@@ -6,9 +6,9 @@
 ## The leaders (Verses 1–2)
 
 [1] These are the people of the province
-who went up out of the captivity of those who had been carried away,
-whom Nebuchadnezzar the king of Babylon had carried away to Babylon.
-They returned to Jerusalem and Judah, each to his own city.
+who came back from captivity.
+Nebuchadnezzar the king of Babylon had carried them away to Babylon.
+Now they returned to Jerusalem and Judah, each to his own city.
 [2] They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai,
 Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 The number of the men of the people of Israel:
@@ -18,7 +18,7 @@ The number of the men of the people of Israel:
 > “The province” is Judah, now a small province in the great Persian Empire.
 > Zerubbabel was a grandson of King Jehoiachin, so a descendant of David (1 Chronicles 3:17–19). Jeshua was the high priest. Both lead the return.
 > The Nehemiah and the Mordecai in this list are probably not the same as the famous men from the books of Nehemiah and Esther. These names were common.
-> Eleven leaders are named. In Nehemiah 7:7 there are twelve, like the twelve tribes of Israel.
+> The list names 11 leaders. In Nehemiah 7:7 there are 12, like the 12 tribes of Israel.
 
 ---
 
@@ -44,7 +44,7 @@ The number of the men of the people of Israel:
 [20] The descendants of Gibbar: 95.
 
 > **What does this mean?**
-> These families are named after their ancestors. “Pahathmoab” means “governor of Moab”. Maybe an ancestor once held this office.
+> These families are named after their ancestors. “Pahathmoab” means “governor of Moab.” Maybe an ancestor once held this office.
 > The number 666 in verse 13 has no special meaning here. It is simply the number of people in this family.
 
 ---
@@ -142,8 +142,8 @@ the descendants of Pochereth Hazzebaim, the descendants of Ami.
 ## Those without proof (Verses 59–63)
 
 [59] These were the ones who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer.
-But they could not show their families and their ancestry,
-whether they were of Israel:
+But they could not prove from their family records
+that they were from Israel:
 [60] the descendants of Delaiah, the descendants of Tobiah, the descendants of Nekoda: 652.
 [61] Of the descendants of the priests:
 the descendants of Habaiah, the descendants of Hakkoz,
@@ -161,7 +161,7 @@ until a priest stood up to serve with Urim and with Thummim.
 > With the priests it was stricter: only someone who descended from Aaron was allowed to be a priest. Whoever could not prove this was not allowed to serve for the time being.
 > Barzillai the Gileadite was a friend of David who had helped him in a hard time (2 Samuel 19:31–39). A priest had married his daughter and taken her family name.
 > “Urim and Thummim” were lots with which the high priest used to ask for God’s will (Exodus 28:30). They had probably been lost. The decision was postponed until God himself would give clarity. That is a wise and fair solution.
-> The “governor” is probably Zerubbabel or Sheshbazzar. Here a Persian word is used: “Tirshatha”.
+> The “governor” is probably Zerubbabel or Sheshbazzar. Here a Persian word is used: “Tirshatha.”
 
 ---
 
@@ -177,8 +177,8 @@ And they had 200 singing men and singing women.
 when they came to the LORD’s house which is in Jerusalem,
 gave willingly for God’s house, to set it up in its place.
 [69] They gave according to their ability into the treasury for the work:
-61,000 darics of gold, more than 1,100 pounds,
-5,000 minas of silver, about 6,250 pounds,
+61,000 darics of gold (more than 1,100 pounds),
+5,000 minas of silver (about 6,250 pounds),
 and 100 priests’ garments.
 [70] So the priests and the Levites, with some of the people,
 the singers, the gatekeepers, and the temple servants, lived in their cities,
@@ -187,6 +187,6 @@ and all Israel lived in their cities.
 > **What does this mean?**
 > If you add up the single numbers of the list, you get only about 29,800. The total number is 42,360. Maybe the total number also counted women or other groups that do not appear one by one in the list. No one knows exactly.
 > So in all almost 50,000 people return. That is only a small part of the people. Most stayed in Babylon.
-> “Darics” were Persian gold coins of about 0.3 ounces. 61,000 darics are more than 1,100 pounds of gold. Silver: the Bible says “5,000 minas”. A mina is about 1¼ pounds.
+> “Darics” were Persian gold coins of about 0.3 ounces. 61,000 darics are more than 1,100 pounds of gold. Silver: the Bible says “5,000 minas.” A mina is about 1¼ pounds.
 > The people gave “according to their ability”: each one as much as he could (compare 2 Corinthians 8:12).
 > The numbers here are a little different from Nehemiah 7:70–72. When such lists were copied, small differences often happened.

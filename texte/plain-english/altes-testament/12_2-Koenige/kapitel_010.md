@@ -10,17 +10,18 @@ Jehu wrote letters and sent them to Samaria,
 to the rulers of Jezreel, the elders,
 and to those who were bringing up Ahab’s sons.
 He wrote:
-[2] “As soon as this letter comes to you
-(for your master’s sons are with you,
-and you have chariots and horses, a walled city, and weapons),
+[2] “Your master’s sons are with you.
+You have chariots and horses, a walled city, and weapons.
+As soon as this letter comes to you,
 [3] choose the best and most able of your master’s sons.
 Put him on his father’s throne,
 and fight for your master’s house.”
 [4] But they were terribly afraid and said,
 “Look, the two kings could not stand against him!
 How then can we stand?”
-[5] The man in charge of the palace, the man in charge of the city, the elders, and those who were bringing up the children
-sent a message to Jehu:
+[5] Then the man in charge of the palace and the man in charge of the city
+sent a message to Jehu.
+The elders and those who were bringing up the children sent it too:
 “We are your servants.
 We will do everything you tell us.
 We will not make anyone king.
@@ -29,7 +30,8 @@ Do what is good in your eyes.”
 “If you are on my side, and if you will listen to my voice,
 take the heads of the men, your master’s sons,
 and come to me at Jezreel by this time tomorrow.”
-The king’s sons, 70 persons, were with the great men of the city, who were bringing them up.
+The king’s sons, 70 persons, were with the great men of the city.
+These men were bringing them up.
 [7] When the letter came to them,
 they took the king’s sons and killed them, 70 persons.
 They put their heads in baskets
@@ -52,6 +54,7 @@ until he left him no one.
 > **What does this mean?**
 > This chapter is very bloody and hard to read.
 > “70 sons” probably means all of Ahab’s male descendants, including grandsons.
+> Verse 9: “Righteous” means: living right before God. Here Jehu means: you are not guilty.
 > Jehu is clever and ruthless. He has the leading men of Samaria kill the princes. Then he says to the people: I killed only one, but who killed all these? In this way he makes everyone share the guilt.
 > Jehu points to God’s word. But he goes far beyond it. He also kills friends, officials, and priests. About 100 years later the prophet Hosea condemns the blood shed at Jezreel (Hosea 1:4). God had announced a judgment on Ahab’s house. But he had not given Jehu permission for violence without limits.
 > The Bible reports these deeds honestly. They are not an example to follow. No one may point to God to justify killing people.
@@ -90,6 +93,7 @@ He greeted him and said to him,
 “Is your heart true, as my heart is with your heart?”
 Jehonadab answered,
 “It is.”
+Jehu said,
 “If it is, give me your hand.”
 He gave him his hand,
 and Jehu took him up into the chariot with him.
@@ -179,12 +183,11 @@ Hazael struck them in all the territory of Israel,
 all the land of Gilead, the Gadites, the Reubenites, and the Manassites,
 from Aroer, which is by the valley of the Arnon,
 both Gilead and Bashan.
-[34] The rest of the things Jehu did,
-all that he did, and all his power,
-aren’t they written in the book of the chronicles of the kings of Israel?
-[35] Jehu died and joined his ancestors,
-and they buried him in Samaria.
-And his son Jehoahaz became king in his place.
+[34] The rest of Jehu’s story is written in the book of the chronicles of the kings of Israel.
+It tells everything he did and how strong he was.
+[35] Jehu died and joined his ancestors.
+They buried him in Samaria.
+His son Jehoahaz became king in his place.
 [36] The time that Jehu ruled over Israel in Samaria was 28 years.
 
 > **What does this mean?**

@@ -31,9 +31,9 @@ The LORD promised this about the sons of David.
 
 ## The plan (Verses 4–10)
 
-[4] This is what you must do:
-Some of you priests and Levites start your duty on the Sabbath.
-A third of you will guard the doors.
+[4] “This is what you must do:
+You priests and Levites who start your duty on the Sabbath:
+a third of you will guard the doors.
 [5] A third of you will be at the king’s house.
 And a third of you will be at the Foundation Gate.
 All the people will stay in the courtyards of the LORD’s house.
@@ -133,8 +133,8 @@ Together they led the king down from the LORD’s house.
 They went through the Upper Gate to the king’s house.
 There they set the king on the royal throne.
 [21] All the people of the land were full of joy.
-And the city was calm,
-because they had killed Athaliah with the sword.
+And the city was calm.
+They had killed Athaliah with the sword.
 
 > **What does this mean?**
 > The most important step is the covenant in verse 16: the king and the people promise to be “the LORD’s people.”

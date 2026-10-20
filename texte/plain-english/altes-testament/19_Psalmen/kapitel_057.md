@@ -31,7 +31,7 @@ God will send out his loving kindness and his truth.
 I lie among people who breathe out fire,
 people whose teeth are spears and arrows,
 and whose tongue is a sharp sword.
-[5] God, be honored high above the heavens!
+[5] Be lifted up, God, above the heavens!
 Let your glory be over all the earth!
 [6] They have set a net for my steps.
 My soul is bowed down.
@@ -57,7 +57,7 @@ I will wake up the dawn.
 I will sing praises to you among the nations.
 [10] For your great loving kindness reaches to the heavens,
 and your truth reaches to the skies.
-[11] God, be honored high above the heavens!
+[11] Be lifted up, God, above the heavens!
 Let your glory be over all the earth!
 
 > **What does this mean?**
