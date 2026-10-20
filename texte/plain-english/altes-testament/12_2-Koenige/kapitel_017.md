@@ -59,12 +59,12 @@ about which the LORD had said to them,
 through every prophet and every seer:
 “Turn from your evil ways,
 and keep my commandments and my laws,
-following the whole law that I commanded your fathers
+following the whole law that I commanded your ancestors
 and that I sent to you through my servants the prophets.”
 [14] But they would not listen.
-They made their necks stiff, like the necks of their fathers,
+They made their necks stiff, like the necks of their ancestors,
 who did not believe in the LORD their God.
-[15] They rejected his laws and his covenant that he had made with their fathers,
+[15] They rejected his laws and his covenant that he had made with their ancestors,
 and his warnings that he had given them.
 They followed worthless things and became worthless themselves.
 They followed the nations around them,
@@ -161,19 +161,19 @@ following the customs of the nations from which they had been carried away.
 They do not fear the LORD,
 and they do not follow the laws or the rules,
 the law or the commandment
-that the LORD commanded the children of Jacob,
+that the LORD commanded the descendants of Jacob,
 whom he named Israel.
 [35] With them the LORD had made a covenant and commanded them,
 “You shall not fear other gods.
 You shall not bow down to them,
 serve them, or sacrifice to them.
-[36] But the LORD, who brought you up out of the land of Egypt with great power and with an outstretched arm,
-him you shall fear,
-to him you shall bow down,
-and to him you shall sacrifice.
-[37] The laws and the rules,
-the law and the commandment that he wrote for you,
-you shall carefully keep forever.
+[36] But you shall fear the LORD,
+who brought you up out of the land of Egypt with great power and with an outstretched arm.
+You shall bow down to him,
+and you shall sacrifice to him.
+[37] You shall carefully keep forever
+the laws and the rules,
+the law and the commandment that he wrote for you.
 You shall not fear other gods.
 [38] You shall not forget the covenant that I have made with you.
 You shall not fear other gods.
@@ -184,7 +184,7 @@ They did what they had done before.
 [41] So these nations feared the LORD,
 and they also served their carved images.
 Their children did the same, and so did their children’s children.
-They do as their fathers did, to this day.
+They do as their ancestors did, to this day.
 
 > **What does this mean?**
 > The text repeats the most important commandment: “You shall not fear other gods.” It appears three times here. It is the first of the Ten Commandments (Exodus 20:3).

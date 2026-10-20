@@ -63,27 +63,27 @@ And the mule that was under him went on.
 [11] Joab said to the man who told him,
 “Look, you saw it.
 Why didn’t you strike him to the ground there?
-I would have given you ten pieces of silver and a belt.”
+I would have given you 10 pieces of silver and a belt.”
 [12] The man said to Joab,
 “Even if I received 1,000 pieces of silver in my hand,
 I still would not stretch out my hand against the king’s son.
 For we heard the king command you, Abishai, and Ittai,
 ‘Be careful that no one touches the young man Absalom.’
-[13] Otherwise, if I had acted falsely against his life
-– and nothing is hidden from the king –,
-then you yourself would have turned against me.”
+[13] Otherwise, if I had acted falsely against his life,
+then you yourself would have turned against me.
+And nothing is hidden from the king.”
 [14] Then Joab said,
 “I’m not going to wait like this with you.”
 He took three darts in his hand
 and thrust them into Absalom’s heart while he was still alive in the middle of the oak.
-[15] Ten young men who carried Joab’s armor surrounded Absalom.
+[15] Then 10 young men who carried Joab’s armor surrounded Absalom.
 They struck him and killed him.
 
 > **What does this mean?**
 > Absalom gets caught by his head in the branches, probably by his long, thick hair that he was so proud of (Chapter 14:26). His mule, a sign of royal dignity, runs away. He hangs helplessly “between the sky and the earth.”
 > The simple soldier obeys the king. He says: I would not kill him for any money in the world. The king has forbidden it.
 > But Joab does not obey. He knows: as long as Absalom lives, there will be no peace. He kills him, even though he cannot defend himself. Joab acts out of political calculation, not by the king’s command. It is not the first time (Chapter 3:27).
-> Ten pieces of silver are about 4 ounces of silver, and 1,000 pieces of silver are about 25 pounds.
+> 10 pieces of silver are about 4 ounces of silver, and 1,000 pieces of silver are about 25 pounds.
 
 ---
 

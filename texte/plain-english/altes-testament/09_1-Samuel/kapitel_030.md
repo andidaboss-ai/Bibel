@@ -46,13 +46,13 @@ and will surely rescue everything.”
 They came to the brook Besor,
 where those who were left behind stayed.
 [10] But David kept chasing, he and 400 men.
-200 men stayed behind,
+For 200 men stayed behind,
 because they were too worn out to cross the brook Besor.
 
 > **What does this mean?**
 > In Chapter 27 David had not asked before he went to the Philistines. Now he asks God again. He is back on the right path.
 > God does not only answer with yes, but with a promise: You will get everything back.
-> The men are worn out. They had been on the road for three days from Aphek to Ziklag, and now they go on chasing right away. 200 cannot go any farther.
+> The men are worn out. They had been on the road for three days from Aphek to Ziklag, and now they go on chasing right away. Of them, 200 cannot go any farther.
 
 ---
 
@@ -162,7 +162,7 @@ to those in the towns of the Kenites,
 to those in Borashan,
 to those in Athach,
 [31] to those in Hebron,
-and to all the places where David and his men had gone around.
+and to all the places where David himself and his men used to stay.
 
 > **What does this mean?**
 > David shares his plunder with the towns in Judah that had helped him while he was on the run. That is thankfulness. And it is also wise: In this way he wins the hearts of the elders of Judah.

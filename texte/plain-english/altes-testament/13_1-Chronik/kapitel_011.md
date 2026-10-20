@@ -99,7 +99,7 @@ And a troop of Philistine soldiers was in Bethlehem.
 He said,
 “Oh, if only someone would bring me water to drink
 from the well by the gate of Bethlehem!”
-[18] So the three men broke through the camp of the Philistines.
+[18] So the three men broke through the army of the Philistines.
 They drew water from the well by the gate of Bethlehem
 and brought it to David.
 But David would not drink it.
@@ -136,7 +136,7 @@ He also went down into a pit on a snowy day and killed a lion there.
 The Egyptian was a very tall man, about 7½ feet tall.
 The Egyptian had a spear in his hand.
 It was as thick as the beam of a loom.
-Benaiah went down to him with only a club.
+Benaiah went down to him with a staff.
 He grabbed the spear out of the Egyptian’s hand
 and killed him with his own spear.
 [24] These are the things Benaiah, the son of Jehoiada, did.

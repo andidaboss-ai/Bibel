@@ -38,7 +38,7 @@ but the king did not have sexual relations with her.
 
 ## Adonijah wants to become king (Verses 5–10)
 
-[5] Then Adonijah the son of Haggith lifted himself up and said,
+[5] Then Adonijah the son of Haggith became proud and said,
 “I will be king.”
 He got himself chariots and horsemen
 and 50 men to run in front of him.
@@ -94,10 +94,11 @@ And you, my lord the king, don’t know it.
 and he has invited all the king’s sons,
 Abiathar the priest, and Joab the commander of the army.
 But he has not invited your servant Solomon.
-[20] And you, my lord the king, the eyes of all Israel are on you,
-for you to tell them who will sit on the throne of my lord the king after him.
+[20] My lord the king, the eyes of all Israel are on you.
+They are waiting for you to tell them
+who will sit on the throne of my lord the king after him.
 [21] Otherwise this will happen:
-when my lord the king sleeps with his fathers,
+when my lord the king dies and joins his ancestors,
 I and my son Solomon will be treated as criminals.”
 
 [22] While she was still talking with the king, Nathan the prophet came in.
@@ -175,7 +176,7 @@ so that the earth shook with their noise.
 > The old David wakes up once more. He acts quickly and firmly.
 > Solomon rides on David’s own mule. That is a sign for everyone: this is the king’s successor.
 > Gihon is a spring in the valley east of Jerusalem, not far from En Rogel, where Adonijah is celebrating. The two celebrations take place almost within earshot of each other.
-> Solomon is anointed, like David and Saul before him. With oil from the Tent in which the ark stood.
+> Solomon is anointed, like David and Saul before him. He is anointed with oil from the Tent in which the ark stood.
 > “Long live King Solomon!”: the people celebrate so loudly that the earth shakes.
 
 ---
@@ -185,13 +186,14 @@ so that the earth shook with their noise.
 [41] Adonijah and all the guests who were with him heard it
 just as they had finished eating.
 When Joab heard the sound of the trumpet, he said,
-“Why is there this noise of the city in an uproar?”
+“What is this noise?
+Why is the city in an uproar?”
 [42] While he was still speaking,
 Jonathan the son of Abiathar the priest came.
 Adonijah said,
 “Come in, for you are a worthy man, and you bring good news.”
 [43] Jonathan answered Adonijah,
-“Not at all! Our lord King David has made Solomon king.
+“Truly, our lord King David has made Solomon king.
 [44] The king has sent with him Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada,
 and the Cherethites and the Pelethites.
 And they have had him ride on the king’s mule.

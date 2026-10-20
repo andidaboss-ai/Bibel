@@ -108,7 +108,8 @@ They said to David,
 For this is what Ahithophel has advised against you.”
 [22] Then David got up, and all the people who were with him,
 and they crossed over the Jordan.
-By the light of morning not one of them was missing who had not crossed the Jordan.
+By the light of morning, every one of them had crossed the Jordan.
+Not one was missing.
 
 > **What does this mean?**
 > Hushai does not know for sure whether Absalom might still follow Ahithophel’s advice after all. That is why David is to flee at once.
