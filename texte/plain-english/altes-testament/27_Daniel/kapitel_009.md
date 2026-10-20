@@ -20,7 +20,7 @@ with fasting, sackcloth, and ashes.
 Sackcloth is rough cloth that people wore when they were very sad.
 
 > **What does this mean?**
-> This is the year 539/538 before Christ, right after the end of Babylon.
+> This is the year 539/538 BC, right after the end of Babylon.
 > Daniel reads in the book of the prophet Jeremiah. It says there that the exile will last 70 years (Jeremiah 25:11–12; 29:10). The exile is the time when the people had to live far away from their land. Daniel notices: The time is almost over!
 > Interesting: Daniel reads the Bible, that is, the writings of the prophets before him. He takes God’s word seriously and prays about it.
 > Instead of simply waiting, Daniel prays. He fasts and wears sackcloth and ashes, signs of sorrow and of being sorry for sins.
@@ -191,8 +191,8 @@ God’s anger will be poured out on what lies in ruins.”
 > **What does this mean?**
 > Daniel had been thinking about the 70 years in Jeremiah. Gabriel answers with “70 weeks.” This probably means “weeks of years,” that is, 7 years each. 70 times 7 = 490 years. So the time until final salvation is much longer than Daniel thought.
 > These verses are among the most discussed in the whole Bible. The Hebrew text is difficult, and there are different explanations:
-> – Many interpreters connect them with the time up to Antiochus IV: The “Anointed One” who is “killed” (verse 26) would be the rightful high priest Onias III, who was murdered in 171 before Christ. The “one who causes ruin” is Antiochus, who stopped the worship in the temple (verse 27). The end of verse 27 can be translated in different ways: The WEB says that the anger is poured out “on the desolate,” that is, on what lies in ruins. Other translations say it comes on the one who makes desolate, that is, on the one who causes ruin.
-> – Many Christians connect the verses with Jesus Christ, the “Anointed One” (Messiah), who was killed, and with the destruction of Jerusalem by the Romans in the year 70 after Christ.
+> – Many interpreters connect them with the time up to Antiochus IV: The “Anointed One” who is “killed” (verse 26) would be the rightful high priest Onias III, who was murdered in 171 BC. The “one who causes ruin” is Antiochus, who stopped the worship in the temple (verse 27). The end of verse 27 can be translated in different ways: The WEB says that the anger is poured out “on the desolate,” that is, on what lies in ruins. Other translations say it comes on the one who makes desolate, that is, on the one who causes ruin.
+> – Many Christians connect the verses with Jesus Christ, the “Anointed One” (Messiah), who was killed, and with the destruction of Jerusalem by the Romans in AD 70.
 > – In Judaism, they were also connected with the destruction of the Second Temple.
 > In verses 25–26, the WEB translates “the Anointed One” with capital letters, like a name. The Hebrew has no word for “the.” You can also translate “an anointed one.”
 > Jesus says: “So when you see the ‘abomination of desolation’ standing in the holy place, which the prophet Daniel spoke about …” (Matthew 24:15). An abomination is something disgusting to God.

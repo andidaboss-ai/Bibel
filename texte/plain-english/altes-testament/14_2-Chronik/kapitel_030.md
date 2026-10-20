@@ -24,7 +24,7 @@ Not many people had celebrated it the way it is written.
 
 > **What does this mean?**
 > The Passover recalls the freeing from Egypt. Normally it is celebrated in the first month. But the law allows the Passover to be held in the second month if someone was unclean or far away in the first month (Numbers 9:6–13).
-> What is special: Hezekiah also invites the northern kingdom, “Ephraim and Manasseh.” The northern kingdom had just been conquered by the Assyrians (722 before Christ). Many had been carried away. Hezekiah invites those who were left.
+> What is special: Hezekiah also invites the northern kingdom, “Ephraim and Manasseh.” The northern kingdom had just been conquered by the Assyrians (722 BC). Many had been carried away. Hezekiah invites those who were left.
 > “From Beersheba to Dan” means: from the far south to the far north. The whole people, as in the time of David and Solomon.
 
 ---

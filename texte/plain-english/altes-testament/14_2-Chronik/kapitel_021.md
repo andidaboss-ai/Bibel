@@ -34,7 +34,7 @@ He had promised to give him and his descendants a lamp forever.
 > Jehoram murders all six of his brothers. Two of them are called Azariah, probably with slightly different spellings in Hebrew.
 > Here Jehoshaphat is called “king of Israel”. For Chronicles, Judah is the true Israel.
 > The “lamp” is a picture: as long as a lamp burns in a house, someone still lives there. God promises: David’s family will not die out. Even with such a terrible king, God stays faithful. Christians see here a pointer to Jesus, the descendant of David.
-> Jehoram reigned from about 848 to 841 before Christ.
+> Jehoram reigned from about 848 to 841 BC.
 
 ---
 

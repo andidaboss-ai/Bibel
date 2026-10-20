@@ -6,11 +6,11 @@
 ## David’s last words (Verses 1–7)
 
 [1] These are the last words of David.
-“David, the son of Jesse, says this.
-The man who was raised up high says this.
+David, the son of Jesse, speaks.
+The man who was raised up high speaks.
 He is the anointed one of the God of Jacob.
 He is the sweet psalm singer of Israel.
-[2] The Spirit of the LORD spoke through me.
+[2] “The Spirit of the LORD spoke through me.
 His word was on my tongue.
 [3] The God of Israel spoke.
 The Rock of Israel said to me:
@@ -18,12 +18,12 @@ The Rock of Israel said to me:
 He may rule with respect for God.
 [4] Then he will be like the light of the morning when the sun comes up.
 He will be like a morning without clouds.
-He will be like the clear shine after rain,
+He will be like the clear shining after rain,
 when the young grass comes up out of the ground.’
 [5] Isn’t my house like this with God?
 He has made a covenant with me that lasts forever.
 It is in order in every way, and it is sure.
-It is my whole rescue and all that I long for.
+It is all my salvation and all that I long for.
 Won’t he make it grow?
 [6] But all the wicked are like thorns that people throw away.
 No one can pick them up by hand.
@@ -31,7 +31,7 @@ No one can pick them up by hand.
 They will be burned up completely with fire where they lie.”
 
 > **What does this mean?**
-> These are David’s last words, like a spiritual will. David looks back on his life: God has “raised up high” me, the shepherd boy.
+> These are David’s last words, like a spiritual will. David looks back on his life: God has raised him, the shepherd boy, up high.
 > “The sweet psalm singer of Israel”: that is how David is remembered to this day. Many psalms are said to be by him.
 > “The Spirit of the LORD spoke through me”: David also sees himself as a prophet.
 > The picture of the good king is wonderful: a just ruler is like a clear sunrise after rain, when everything becomes fresh and green. Good leadership brings life and growth for everyone.
@@ -79,8 +79,8 @@ The troop of the Philistines was camped in the valley of Rephaim.
 [14] At that time David was in the stronghold.
 A stronghold is a place that is easy to defend.
 At that time a group of Philistine soldiers was in Bethlehem.
-[15] David longed for home.
-He said, “Oh, if only someone would give me water to drink
+[15] David said with longing,
+“Oh, if only someone would give me water to drink
 from the well of Bethlehem, by the gate!”
 [16] So the three mighty men broke through the Philistine army.
 They drew water out of the well of Bethlehem, by the gate.
@@ -88,7 +88,7 @@ They took it and brought it to David.
 But David would not drink it.
 He poured it out on the ground for the LORD.
 [17] He said, “LORD, I would never do this!
-This is the blood of the men who risked their lives to go there!”
+Isn’t this the blood of the men who risked their lives to go there?”
 So he would not drink it.
 These are the things the three mighty men did.
 
@@ -126,8 +126,8 @@ But he did not reach the rank of the three.
 David put him in charge of his guard.
 
 > **What does this mean?**
-> In verse 18 our English source text says “of the three.” Many manuscripts have “of the thirty” here. That fits better, because Abishai “was not counted as one of the three” (verse 19).
-> Benaiah is an especially brave man. A lion in a pit, on a snowy day when it is easy to slip: that is almost impossible. And he goes against an armed giant with only a staff, as David went against Goliath with his sling.
+> In verse 18 the WEB, our English source text, says “of the three.” Many manuscripts have “of the thirty” here. That fits better, because Abishai “was not counted as one of the three” (verse 19).
+> Benaiah is an especially brave man. A lion in a pit, on a snowy day when it is easy to slip: that is almost impossible. And he goes against an armed giant with only a stick, as David went against Goliath with his sling.
 > Under Solomon, Benaiah later becomes the highest army commander, after Joab (1 Kings 2:35).
 
 ---

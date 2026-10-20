@@ -42,7 +42,7 @@ The LORD has chosen you to stand before him and to serve him.
 You are to be his servants and burn incense.”
 
 > **What does this mean?**
-> Hezekiah ruled from about 715 to 686 before Christ. He is one of the best kings of Judah. In three chapters (29–31), Chronicles tells how he renewed the worship.
+> Hezekiah ruled from about 715 to 686 BC. He is one of the best kings of Judah. In three chapters (29–31), Chronicles tells how he renewed the worship.
 > He does not wait a single day: right in the first month, he opens the temple that his father had closed.
 > Hezekiah says honestly: our ancestors were unfaithful. He does not make anything look better than it was. And he explains the distress of the people by their turning away from God.
 > A “covenant” is a solemn promise. Hezekiah wants to begin completely new with God.

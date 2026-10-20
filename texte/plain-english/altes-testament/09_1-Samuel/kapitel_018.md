@@ -123,7 +123,7 @@ since I am a poor man and not well known?”
 [25] Saul said,
 “Tell David this:
 ‘The king wants no bride price
-except one hundred foreskins of Philistines,
+except 100 foreskins of Philistines,
 to take revenge on the king’s enemies.’”
 For Saul planned to have David fall by the hand of the Philistines.
 [26] When his servants told David these words,
@@ -142,7 +142,7 @@ Then Saul gave him his daughter Michal as wife.
 > It is very rare that the Bible says clearly that a woman loves a man. With Michal it says so twice (verses 20 and 28). But her father uses her love as a trap.
 > David is humble: I am poor, I cannot pay a bride price for a king’s daughter. At that time the bridegroom had to pay a bride price to the bride’s family.
 > Saul asks for a cruel bride price: foreskins of killed Philistines. The foreskin is the skin that is removed at circumcision. This was proof that someone had really killed Philistines, because the Philistines were not circumcised. It is a custom from a brutal time of war. The Bible tells it, but it does not praise it.
-> David even brings twice as many. The old Greek translation has “one hundred” in verse 27. In 2 Samuel 3:14 David also speaks of one hundred.
+> David even brings twice as many. The old Greek translation has 100 in verse 27. In 2 Samuel 3:14 David also speaks of 100.
 
 ---
 

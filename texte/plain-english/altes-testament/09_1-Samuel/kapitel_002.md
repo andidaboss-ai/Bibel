@@ -27,7 +27,7 @@ Yes, the barren woman has had seven children.
 And she who has many children wastes away.
 
 [6] The LORD kills and makes alive.
-He brings down to Sheol and brings up again.
+He brings down to Sheol (the world of the dead) and brings up again.
 [7] The LORD makes poor and makes rich.
 He brings low, and he also lifts up.
 [8] He raises up the poor from the dust.
@@ -50,7 +50,7 @@ and exalt the horn of his anointed one.”
 > The “horn” is a picture for strength and dignity, like the horn of a strong bull. “My horn is exalted” means: I am no longer put to shame, I can hold my head up again.
 > “Rock” is a picture for God: He is firm and reliable, a safe place to hold on to.
 > “Sheol” is the Hebrew word for the world of the dead. Hannah says: God has power over life and death.
-> “The barren woman has had seven children”: Seven is a number for fullness. Later Hannah has six children in all (Verse 21).
+> “The barren woman has had seven children”: Seven is a number for fullness. Later Hannah has six children in all (verse 21).
 > At the end, Hannah speaks of a “king” and an “anointed one.” But Israel does not even have a king yet. The song looks ahead to the time of the kings, to David. The Hebrew word for “anointed one” is “Mashiach,” Messiah. Christians see in this a pointer to Jesus, the “Christ,” which is the Greek word for “anointed one.”
 > In the New Testament, Mary, the mother of Jesus, sings a song that is very much like this song (Luke 1:46–55).
 
@@ -134,7 +134,7 @@ and gained favor with the LORD and also with people.
 
 > **What does this mean?**
 > Eli’s sons also abuse the women who serve at the holy place. They take advantage of their power as priests. This is a serious crime.
-> An old manuscript from the Dead Sea and the old Greek translation do not have the sentence about the women. But it is in the Hebrew text, which the WEB follows.
+> An old manuscript from the Dead Sea and the old Greek translation do not have the sentence about the women. But it is in the Hebrew text, which the WEB, our English source text, follows.
 > Eli warns his sons. But he does nothing more. He is the high priest. He could have removed them from office, and he should have. He does not do it.
 > Verse 25 is hard: “The LORD intended to kill them.” This does not mean that God forced them to do evil. They had decided against God for a long time. Now the time was up, and the judgment was fixed. The Bible often shows: Whoever keeps hardening himself against God may at some point no longer be able to turn back.
 > Verse 26 sounds almost exactly like a sentence about Jesus as a child (Luke 2:52).

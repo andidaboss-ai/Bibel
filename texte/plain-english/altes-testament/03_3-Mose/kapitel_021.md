@@ -101,5 +101,5 @@ For I am the LORD, who makes them holy.’”
 > This is a passage that is very hard for us today. People with disabilities may not serve at the altar.
 > It must be understood from its own time: The animals for the offerings had to be “without defect” (Leviticus 22). The priests who stood at the altar were to be like that too. It was about an outward picture of God’s perfection.
 > But verse 22 is important: A priest with a disability stays a priest. He belongs to the priest family. He may eat from the most holy offerings, which is the holiest food a priest may eat. He is not thrown out. He does not lose his place with God. He only has a different task.
-> This rule applied only to serving at the altar. It says nothing about the worth of a person before God. Elsewhere the Bible says: “For man looks at the outward appearance, but the LORD looks at the heart” (1 Samuel 16:7).
+> This rule applied only to serving at the altar. It says nothing about the worth of a person before God. Elsewhere the Bible says: “Man looks at the outward appearance, but the LORD looks at the heart” (1 Samuel 16:7).
 > Jesus turned especially to the blind, the lame, and the sick. He healed them and invited them to his table (Luke 14:13, 21).

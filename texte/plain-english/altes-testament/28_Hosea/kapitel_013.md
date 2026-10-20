@@ -104,6 +104,6 @@ and their pregnant women will be ripped open.”
 > – As a promise, the way the WEB translates it: “I will set them free from death! Death, where are your plagues?”
 > The apostle Paul takes up this verse and rejoices over the resurrection of Jesus: “Death, where is your sting? Hades, where is your victory?” (1 Corinthians 15:55). For Christians, this is a promise: Death does not have the last word.
 > Verse 15: The “east wind” is a hot desert wind and is a picture of Assyria here.
-> Verse 16: This verse describes the horrible cruelty of the Assyrian war that came over Samaria in 722 before Christ. Acts of cruelty like these against children and pregnant women are terrible war crimes. The Bible does not keep quiet about them, but it does not approve of them. Violence against children and pregnant women is always wrong.
+> Verse 16: This verse describes the horrible cruelty of the Assyrian war that came over Samaria in 722 BC. Acts of cruelty like these against children and pregnant women are terrible war crimes. The Bible does not keep quiet about them, but it does not approve of them. Violence against children and pregnant women is always wrong.
 > A note on the numbering: In some Bibles, verse 16 is the first verse of Chapter 14 (14:1). That is why the verse numbers in Chapter 14 of the WEB are one lower.
 > If you carry painful experiences of war or violence: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

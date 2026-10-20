@@ -70,7 +70,7 @@ I, Darius, have given this order.
 It must be carried out carefully.”
 
 > **What does this mean?**
-> Darius I reigned from 522 to 486 before Christ.
+> Darius I reigned from 522 to 486 BC.
 > The opponents wanted to stop the building. The result is the opposite: the king orders that the building goes on, and he even pays for it out of the taxes of the province! Now the opponents have to pay for the building themselves.
 > Darius asks that people pray for him and his sons. Later too, Jews prayed for those who ruled (compare Jeremiah 29:7; 1 Timothy 2:1–2).
 > Verse 11 describes a cruel punishment that was common in the Persian Empire: the guilty person was impaled on a stake. That is how kings threatened people at that time. Here the Bible reports the wording of the royal order. It does not itself call for such violence.
@@ -91,10 +91,10 @@ and as Cyrus, Darius, and Artaxerxes, kings of Persia, had ordered.
 That was in the sixth year that Darius was king.
 
 > **What does this mean?**
-> The temple was finished in the spring of 515 before Christ, about 70 years after the destruction of the first temple. The month Adar is February/March.
+> The temple was finished in the spring of 515 BC, about 70 years after the destruction of the first temple. The month Adar is February/March.
 > Verse 14 names two reasons for the success: God’s command and the orders of the kings. God works through both.
 > Artaxerxes reigned only later. He is named here because he later supported the temple with gifts (Chapter 7:15–24).
-> This “second temple” stood for almost 600 years. Later Herod the Great made it much larger and more splendid. That was the temple in which Jesus taught. In the year 70 after Christ it was destroyed by the Romans.
+> This “second temple” stood for almost 600 years. Later Herod the Great made it much larger and more splendid. That was the temple in which Jesus taught. In AD 70 it was destroyed by the Romans.
 
 ---
 

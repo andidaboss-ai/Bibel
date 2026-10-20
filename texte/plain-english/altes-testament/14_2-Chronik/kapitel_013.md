@@ -16,7 +16,7 @@ Jeroboam lined up his army for battle against him.
 He had 800,000 of the best men, strong and brave soldiers.
 
 > **What does this mean?**
-> Abijah reigned from about 913 to 910 before Christ. In 1 Kings 15 he is called “Abijam”, and there he is judged briefly and critically: “He committed all the same sins that his father had committed before him.” Chronicles, on the other hand, tells a story in which Abijah for once trusts completely in God.
+> Abijah reigned from about 913 to 910 BC. In 1 Kings 15 he is called “Abijam”, and there he is judged briefly and critically: “He committed all the same sins that his father had committed before him.” Chronicles, on the other hand, tells a story in which Abijah for once trusts completely in God.
 > Here his mother is called Micaiah the daughter of Uriel. In Chapter 11:20 she is called Maacah. Probably it is the same woman with two forms of the name.
 > The numbers are huge. Many experts think that the Hebrew word for “thousand” can also mean “troop” or “unit” here. What matters is the message: Judah was only half as strong as Israel.
 

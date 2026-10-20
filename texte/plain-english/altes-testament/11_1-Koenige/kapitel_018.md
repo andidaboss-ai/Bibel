@@ -163,7 +163,7 @@ No one paid any attention.
 So all the people came close to him.
 The altar of the LORD had been torn down.
 Elijah repaired it.
-[31] Elijah took twelve stones.
+[31] Elijah took 12 stones.
 That was the number of the tribes of the sons of Jacob.
 The LORD had spoken to Jacob and said,
 “Your name will be Israel.”
@@ -207,7 +207,7 @@ They grabbed them.
 Elijah brought them down to the brook Kishon and killed them there.
 
 > **What does this mean?**
-> Elijah rebuilds the old altar with twelve stones, for all twelve tribes. Even though the kingdom is split, for God all of Israel belongs together.
+> Elijah rebuilds the old altar with 12 stones, for all 12 tribes. Even though the kingdom is split, for God all of Israel belongs together.
 > Then he has everything soaked with water, and that in a drought, when water is so precious! No one should be able to say it was a trick.
 > Elijah’s prayer is short and simple. He does not dance, he does not cut himself. He only asks: “Hear me, LORD, hear me! Then this people will know that you, LORD, are God.” And God answers.
 > The people cry: “The LORD, he is God!” In Hebrew: “Adonai hu ha-Elohim!” To this day, this cry is part of Jewish worship at the end of Yom Kippur, the Day of Atonement.
@@ -220,7 +220,7 @@ Elijah brought them down to the brook Kishon and killed them there.
 ## The rain comes (Verses 41–46)
 
 [41] Elijah said to Ahab,
-“Go up, eat and drink.
+“Get up, eat and drink.
 I hear the sound of heavy rain.”
 [42] So Ahab went up to eat and drink.
 But Elijah went up to the top of Mount Carmel.

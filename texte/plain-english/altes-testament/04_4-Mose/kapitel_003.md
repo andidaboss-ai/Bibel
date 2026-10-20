@@ -67,7 +67,7 @@ They shall be mine. I am the LORD.”
 [14] The LORD spoke to Moses in the wilderness of Sinai.
 He said:
 [15] “Count the descendants of Levi by their fathers’ houses and by their families.
-You shall count every male from one month old and up.”
+You shall count every male from a month old and up.”
 [16] Moses counted them by the word of the LORD, as he had been commanded.
 [17] These were the sons of Levi by their names: Gershon, Kohath and Merari.
 [18] These are the names of the sons of Gershon by their families: Libni and Shimei.
@@ -76,7 +76,7 @@ You shall count every male from one month old and up.”
 These are the families of the Levites by their fathers’ houses.
 
 > **What does this mean?**
-> The Levites are counted differently from the other tribes: not from 20 years old, but already from one month old. For this is not about soldiers. It is about a replacement for all the firstborn.
+> The Levites are counted differently from the other tribes: not from 20 years old, but already from a month old. For this is not about soldiers. It is about a replacement for all the firstborn.
 > Moses and Aaron are descendants of Amram, the son of Kohath (Exodus 6:20).
 
 ---
@@ -85,7 +85,7 @@ These are the families of the Levites by their fathers’ houses.
 
 [21] From Gershon came the family of the Libnites and the family of the Shimeites.
 These are the families of the Gershonites.
-[22] Those of them who were counted, by the number of all the males from one month old and up, were 7,500.
+[22] Those of them who were counted, by the number of all the males from a month old and up, were 7,500.
 [23] The families of the Gershonites shall camp behind the Tabernacle, on the west side.
 [24] The leader of the fathers’ house of the Gershonites shall be Eliasaph, the son of Lael.
 [25] The duty of the sons of Gershon at the Tent of Meeting shall be:
@@ -105,7 +105,7 @@ and its ropes, for all the work on it.
 [27] From Kohath came the family of the Amramites, the family of the Izharites,
 the family of the Hebronites and the family of the Uzzielites.
 These are the families of the Kohathites.
-[28] By the number of all the males from one month old and up, there were 8,600.
+[28] By the number of all the males from a month old and up, there were 8,600.
 They carried out the duties of the sanctuary.
 [29] The families of the sons of Kohath shall camp on the south side of the Tabernacle.
 [30] The leader of the fathers’ house of the families of the Kohathites shall be Elizaphan, the son of Uzziel.
@@ -125,7 +125,7 @@ He shall be in charge of those who carry out the duties of the sanctuary.
 
 [33] From Merari came the family of the Mahlites and the family of the Mushites.
 These are the families of Merari.
-[34] Those of them who were counted, by the number of all the males from one month old and up, were 6,200.
+[34] Those of them who were counted, by the number of all the males from a month old and up, were 6,200.
 [35] The leader of the fathers’ house of the families of Merari was Zuriel, the son of Abihail.
 They shall camp on the north side of the Tabernacle.
 [36] The duty of the sons of Merari shall be:
@@ -145,7 +145,7 @@ Moses, Aaron and his sons shall camp.
 They shall carry out the duties of the sanctuary, as a service for the people of Israel.
 An outsider who comes near shall be put to death.
 [39] All the Levites who were counted, whom Moses and Aaron counted at the command of the LORD,
-by their families, all the males from one month old and up, were 22,000.
+by their families, all the males from a month old and up, were 22,000.
 
 > **What does this mean?**
 > Moses and the priests camp in the east, right at the entrance of the sanctuary. They guard the most important way in.
@@ -156,13 +156,13 @@ by their families, all the males from one month old and up, were 22,000.
 ## The exchange for the firstborn (Verses 40–51)
 
 [40] The LORD said to Moses:
-“Count all the firstborn males of the people of Israel, from one month old and up,
+“Count all the firstborn males of the people of Israel, from a month old and up,
 and find out the number of their names.
 [41] You shall take the Levites for me – I am the LORD –
 instead of all the firstborn among the people of Israel.
 And take the livestock of the Levites instead of all the firstborn among the livestock of the people of Israel.”
 [42] Moses counted all the firstborn among the people of Israel, as the LORD had commanded him.
-[43] All the firstborn males, by the number of names, from one month old and up,
+[43] All the firstborn males, by the number of names, from a month old and up,
 were 22,273.
 
 [44] The LORD spoke to Moses.
@@ -172,8 +172,8 @@ and the livestock of the Levites instead of their livestock.
 The Levites shall be mine. I am the LORD.
 [46] There are 273 firstborn of the people of Israel who are more than the number of the Levites.
 They must be bought free.
-[47] For this, you shall take five shekels for each one.
-You shall take them by the shekel of the sanctuary. One shekel is 20 gerahs.
+[47] For this, you shall take 5 shekels for each one.
+You shall take them by the shekel of the sanctuary. A shekel is 20 gerahs.
 [48] And you shall give the money with which the rest of them are bought free to Aaron and to his sons.”
 [49] Moses took the money for buying them free from those who were more than the ones bought free by the Levites.
 [50] He took the money from the firstborn of the people of Israel: 1,365 shekels, by the shekel of the sanctuary.
@@ -181,6 +181,6 @@ You shall take them by the shekel of the sanctuary. One shekel is 20 gerahs.
 by the word of the LORD, as the LORD had commanded Moses.
 
 > **What does this mean?**
-> There are 22,273 firstborn, but only 22,000 Levites. For 273 firstborn there is no Levite to take their place. That is why five shekels are paid for each of them, about 2 ounces of silver. Together that is 1,365 shekels (273 × 5).
-> Five shekels is exactly the amount with which a firstborn son is still “bought free” in Judaism today. The celebration is called “Pidyon HaBen,” the redemption of the son. It takes place one month after the birth.
+> There are 22,273 firstborn, but only 22,000 Levites. For 273 firstborn there is no Levite to take their place. That is why 5 shekels are paid for each of them, about 2 ounces of silver. Together that is 1,365 shekels (273 × 5).
+> In Judaism, a firstborn son is still “bought free” today with exactly this amount of 5 shekels. The celebration is called “Pidyon HaBen,” the redemption of the son. It takes place one month after the birth.
 > So every firstborn is represented before God. Nobody is forgotten.

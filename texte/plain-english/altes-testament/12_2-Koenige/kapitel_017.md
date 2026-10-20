@@ -27,11 +27,11 @@ and in the cities of the Medes.
 
 > **What does this mean?**
 > Hoshea tries to free himself from Assyria with the help of Egypt. But Egypt does not help. Assyria attacks.
-> After a siege of three years Samaria falls, about 722 before Christ. The northern kingdom of Israel comes to an end. It had lasted about 200 years.
+> After a siege of three years Samaria falls, about 722 BC. The northern kingdom of Israel comes to an end. It had lasted about 200 years.
 > The Assyrian king Sargon II, who came after Shalmaneser, boasts in his inscriptions that he carried away more than 27,000 people from Samaria.
 > Halah, Habor, and Gozan lay in the north of Mesopotamia, in the area of today’s border between Syria and Turkey. The Medes lived in today’s Iran.
 > It is not certain who “So king of Egypt” was. At that time Egypt had broken apart into several small kingdoms.
-> Hoshea ruled from about 732 to 722 before Christ.
+> Hoshea ruled from about 732 to 722 BC.
 
 ---
 

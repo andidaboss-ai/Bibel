@@ -16,7 +16,7 @@ He did not turn away from them, to the right or to the left.
 > **What does this mean?**
 > Josiah becomes king while still a child, after his father Amon is murdered. In spite of his evil father and grandfather, he becomes one of the most faithful kings.
 > “To the right or to the left”: he stays on God’s straight path, without turning aside (compare Deuteronomy 5:32).
-> Josiah ruled from about 640 to 609 before Christ. In his time the prophet Jeremiah also began his work (Jeremiah 1:2).
+> Josiah ruled from about 640 to 609 BC. In his time the prophet Jeremiah also began his work (Jeremiah 1:2).
 
 ---
 
@@ -39,7 +39,7 @@ They are honest.”
 
 > **What does this mean?**
 > Josiah is now 26 years old. He has the temple repaired, which had been neglected under Manasseh and Amon. The method is the same as under King Joash (Chapter 12).
-> The eighteenth year of Josiah was about 622 before Christ.
+> The eighteenth year of Josiah was about 622 BC.
 > Shaphan and his family also play an important part later: his son Ahikam protected the prophet Jeremiah (Jeremiah 26:24). In Jerusalem a seal impression with the name of Gemariah son of Shaphan was found. A Gemariah son of Shaphan is mentioned in Jeremiah 36:10.
 
 ---

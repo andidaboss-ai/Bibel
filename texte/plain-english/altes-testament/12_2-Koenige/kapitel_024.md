@@ -29,7 +29,7 @@ For the king of Babylon had taken everything that belonged to the king of Egypt,
 from the Brook of Egypt to the Euphrates River.
 
 > **What does this mean?**
-> Now the new world power arrives: Babylon, in the south of today’s Iraq. The Babylonians are also called “Chaldeans”. Their king Nebuchadnezzar II ruled from 605 to 562 before Christ. In 605 before Christ he defeated the Egyptians at Carchemish.
+> Now the new world power arrives: Babylon, in the south of today’s Iraq. The Babylonians are also called “Chaldeans”. Their king Nebuchadnezzar II ruled from 605 to 562 BC. In 605 BC he defeated the Egyptians at Carchemish.
 > Jehoiakim becomes a servant of Babylon, but then he rebels. That was a big mistake. The prophet Jeremiah had warned against rebelling against Babylon.
 > Again the text says: the disaster is the result of guilt, especially the guilt of Manasseh. “Innocent blood” is a heavy guilt. God does not take it lightly when innocent people are killed.
 > “Syria” is called “Aram” in Hebrew.
@@ -71,7 +71,7 @@ the king of Babylon brought as captives to Babylon.
 and changed his name to Zedekiah.
 
 > **What does this mean?**
-> In the year 597 before Christ Jerusalem is taken by the Babylonians for the first time. A Babylonian chronicle reports this too and even gives the day: in March 597 before Christ.
+> In the year 597 BC Jerusalem is taken by the Babylonians for the first time. A Babylonian chronicle reports this too and even gives the day: in March 597 BC.
 > Jehoiachin surrenders. So at first the city is not destroyed. But the upper class, the soldiers, and the craftsmen are taken away to Babylon. Among them was the prophet Ezekiel (Ezekiel 1:1–3).
 > With this the word comes true that Isaiah had spoken to King Hezekiah (chapter 20:17).
 > The numbers in verses 14 and 16 are not quite the same. Perhaps 10,000 is the total number. Jeremiah 52:28 gives a smaller number (3,023).
@@ -94,4 +94,4 @@ And Zedekiah rebelled against the king of Babylon.
 > **What does this mean?**
 > Zedekiah is a son of Josiah, a brother of Jehoahaz and Jehoiakim.
 > He was a weak king, torn back and forth. He often secretly asked the prophet Jeremiah for advice, but he did not have the courage to follow it (Jeremiah 37–38). Jeremiah advised him to submit to Babylon to save the city. But Zedekiah rebelled.
-> Zedekiah ruled from about 597 to 587 before Christ.
+> Zedekiah ruled from about 597 to 587 BC.

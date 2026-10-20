@@ -46,7 +46,7 @@ And I brought back into them the objects of God’s house,
 with the grain offerings and the frankincense.
 
 > **What does this mean?**
-> After twelve years (433 before Christ) Nehemiah had gone back to the king. Later he came to Jerusalem a second time.
+> After twelve years (433 BC) Nehemiah had gone back to the king. Later he came to Jerusalem a second time.
 > While he was away, a lot had gone wrong. The worst thing: the high priest Eliashib had given Nehemiah’s enemy Tobiah a place to live in the temple!
 > Nehemiah acts firmly: he throws Tobiah’s furniture out. That recalls Jesus, who drove the traders out of the temple (John 2:13–17).
 > Artaxerxes is called “king of Babylon” here, because he also ruled over Babylon.

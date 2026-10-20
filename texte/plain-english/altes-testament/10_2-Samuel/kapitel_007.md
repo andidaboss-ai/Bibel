@@ -51,7 +51,7 @@ Wicked people will not oppress them anymore, as at the beginning,
 I will give you rest from all your enemies.
 And the LORD tells you that the LORD will make you a house.
 
-[12] When your days are over and you sleep with your fathers,
+[12] When your days are over and you die and join your ancestors,
 I will raise up your descendant after you,
 who will come from your own body,
 and I will make his kingdom firm.
@@ -73,7 +73,7 @@ Your throne will be made firm forever.”’”
 > This is one of the most important promises in the whole Bible. It is called the “covenant with David.”
 > The descendant who will build the temple is first of all Solomon, David’s son. He builds the temple in Jerusalem (1 Kings 6).
 > “I will be his father, and he will be my son”: the king is to have a special, close relationship with God. If he does wrong, God will punish him, but God will not leave him as he left Saul. God’s loving kindness remains.
-> “Forever”: David’s royal line lasted in Jerusalem for about 400 years. Then Jerusalem was destroyed by the Babylonians, and there was no king anymore. But the people of Israel held on to God’s promise. From this grew the hope for the Messiah, the Anointed One, a descendant of David who will rule forever (Isaiah 9:6; Psalm 89).
+> “Forever”: David’s royal line lasted in Jerusalem for about 400 years. Then Jerusalem was destroyed by the Babylonians, and there was no king anymore. But the people of Israel held on to God’s promise. From this grew the hope for the Messiah, the Anointed One, a descendant of David who will rule forever (Isaiah 9:7; Psalm 89).
 > Christians believe that this promise was fulfilled in Jesus. In the Gospel of Luke the angel says to Mary about Jesus: “The Lord God will give him the throne of his father David. … There will be no end to his Kingdom” (Luke 1:32–33). The letter to the Hebrews applies verse 14 to Jesus (Hebrews 1:5).
 
 ---
@@ -88,7 +88,7 @@ You have also spoken about your servant’s house for a long time to come.
 And this is the way of people, Lord GOD!
 [20] What more can David say to you?
 For you know your servant, Lord GOD.
-[21] For the sake of your word, and as your own heart wanted, you have done all this great thing,
+[21] For the sake of your word, and as your own heart wanted, you have done all these great things,
 to let your servant know it.
 [22] That is why you are great, LORD God.
 For there is no one like you,

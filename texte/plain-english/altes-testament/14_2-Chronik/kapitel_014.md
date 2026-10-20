@@ -20,7 +20,7 @@ And the kingdom had peace while he ruled.
 
 > **What does this mean?**
 > In some Bibles verse 1 of this chapter is still chapter 13:23. That is why the verses in chapter 14 are shifted by one there: verse 2 here is verse 1 there, and so on.
-> Asa reigned from about 910 to 869 before Christ, that is, 41 years.
+> Asa reigned from about 910 to 869 BC, that is, 41 years.
 > “Asherah poles” were wooden poles for the goddess Asherah. “Pillars” were holy stones for foreign gods. “Sun images” were probably incense altars, maybe for a sun god.
 > Asa cleans up. But he does not only take something away. He also calls the people to seek God. That is the heart of it.
 

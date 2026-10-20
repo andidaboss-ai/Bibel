@@ -35,7 +35,7 @@ didn’t they let the people go, and they left?”
 > The priests of the Philistines advise: Give the God of Israel a gift to make up for what you did. This is what people did at that time when they had offended a god.
 > Golden images of the disease and of the mice: People believed that if you make an image of the evil and send it away, the evil itself goes away too. This is not a custom of Israel, but a custom of the Philistines. Here God accepts their way of wanting to honor him.
 > The priests of the Philistines are wiser than their people. They say: Learn from the story of Pharaoh. Whoever hardens himself against the God of Israel loses in the end.
-> “Give glory to the God of Israel”: Of all people, foreign priests say this. The word for “glory” is again “kavod,” the same word as in Chapter 4:21. The glory was not lost. Now even the enemies have to admit it.
+> “Give glory to the God of Israel”: Of all people, foreign priests say this. The word for “glory” is again “kavod,” the same word as in 1 Samuel 4:21. The glory was not lost. Now even the enemies have to admit it.
 
 ---
 
@@ -122,7 +122,7 @@ Come down and take it up to your town.”
 
 > **What does this mean?**
 > The joy ends with terror. The men of Beth Shemesh look into the ark. This was strictly forbidden. Not even the Levites were allowed to look at the holy things, or they would die (Numbers 4:20).
-> The number in verse 19 is difficult. In the Hebrew text there are literally two numbers one after the other: 70 men and 50,000 men. Such a way of giving a number is very unusual in Hebrew. Beth Shemesh was a small town. 50,000 men would not have lived there. The Jewish historian Josephus and some Hebrew manuscripts give only 70 men. Many Bible teachers think this is the original number. The WEB has “fifty thousand seventy.”
+> The number in verse 19 is difficult. In the Hebrew text there are literally two numbers one after the other: 70 men and 50,000 men. Such a way of giving a number is very unusual in Hebrew. Beth Shemesh was a small town. 50,000 men would not have lived there. The Jewish historian Josephus and some Hebrew manuscripts give only 70 men. Many Bible teachers think this is the original number. The WEB, our English source text, has “fifty thousand seventy.”
 > The old Greek translation tells verse 19 differently: The sons of a man named Jeconiah did not rejoice with the others when they saw the ark. That is why they were struck.
 > This story is hard to understand. It wants to show: God is holy. You must not deal with him out of curiosity or without respect. He is not an object that you examine.
 > The question “Who is able to stand before the LORD, this holy God?” is an important question of the whole Bible. The Bible’s answer is: No one by his own strength. Only because God himself is gracious can people come near him.

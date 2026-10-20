@@ -130,7 +130,7 @@ And his son Ahaziah became king in his place.
 > Even so, God stays faithful to his promise to David. The “lamp” in Jerusalem is not to go out.
 > Edom makes itself independent. The battle in verse 21 is hard to understand. Joram was probably barely able to escape from being surrounded.
 > Libnah was a city in the west of Judah, at the border with the Philistines.
-> Jehoram of Judah ruled from about 848 to 841 before Christ.
+> Jehoram of Judah ruled from about 848 to 841 BC.
 
 ---
 

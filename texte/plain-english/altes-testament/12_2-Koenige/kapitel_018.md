@@ -35,7 +35,7 @@ from the watchtower to the walled city.
 > He is the first king to get rid of the high places. From now on God is to be worshiped only in the temple in Jerusalem, as Deuteronomy 12 says.
 > He even destroys the bronze snake that Moses had made in the wilderness (Numbers 21:8–9). Back then it was a sign of rescue. But over time it was worshiped itself, like an idol. Hezekiah shows courage: even something old and honored must go when it takes God’s place.
 > “Nehushtan” is a play on words: it sounds like “snake” and like “bronze”, so it means something like: “just a piece of bronze”.
-> Hezekiah ruled from about 715 to 686 before Christ. The dates in this chapter are hard to fit together. Perhaps at first he ruled together with his father.
+> Hezekiah ruled from about 715 to 686 BC. The dates in this chapter are hard to fit together. Perhaps at first he ruled together with his father.
 
 ---
 
@@ -77,7 +77,7 @@ and from the doorposts that Hezekiah king of Judah had covered with gold,
 and he gave it to the king of Assyria.
 
 > **What does this mean?**
-> In the year 701 before Christ the Assyrian king Sennacherib attacks Judah. He conquers many cities, among them the great fortress of Lachish.
+> In the year 701 BC the Assyrian king Sennacherib attacks Judah. He conquers many cities, among them the great fortress of Lachish.
 > These events are also well documented outside the Bible:
 > – In Sennacherib’s palace in Nineveh there were large stone carvings that show the conquest of Lachish. Today they are in the British Museum in London.
 > – On a clay prism Sennacherib boasts that he conquered 46 cities of Judah and shut Hezekiah up in Jerusalem “like a bird in a cage”. He also names 30 talents of gold as tribute, exactly as the Bible does. For the silver he gives a higher number (800 talents).

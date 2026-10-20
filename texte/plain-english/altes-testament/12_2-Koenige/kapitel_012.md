@@ -18,7 +18,7 @@ High places were places of worship on hills.
 > Jehoash (also called Joash) has a good teacher: Jehoiada the priest. As long as Jehoiada lives, Jehoash acts well.
 > “All his days in which Jehoiada the priest taught him” is a quiet hint: after Jehoiada’s death things changed. 2 Chronicles 24:17–22 tells that Joash later even had Jehoiada’s son killed.
 > In some Bibles the verse numbering in this chapter is shifted by one: verse 1 here is verse 2 there, and so on up to verse 21 here, which is verse 22 there.
-> Jehoash ruled from about 835 to 796 before Christ.
+> Jehoash ruled from about 835 to 796 BC.
 
 ---
 
@@ -26,7 +26,7 @@ High places were places of worship on hills.
 
 [4] Jehoash said to the priests,
 “All the money from the holy gifts that is brought into the LORD’s house,
-in the money that is in use:
+paid in the usual money:
 the money that each person pays according to the value set for him,
 and all the money that anyone freely decides in his heart to bring into the LORD’s house,
 [5] the priests shall take for themselves, each one from his donor.
@@ -47,7 +47,7 @@ and that they would not repair the damage to the house themselves.
 > The temple was more than 100 years old and had been neglected under Athaliah. There was a lot of damage.
 > Jehoash orders: the gifts are to be used for the repairs. But for more than 20 years nothing happens. The text does not say directly where the money went.
 > “The value set for him”: whoever had made a vow could buy himself free with a fixed amount of money (Leviticus 27:1–8).
-> The Hebrew word for “donor” and “treasurer” is unclear. It probably means “someone you know”. Perhaps it means an official who received the money from the people.
+> The Hebrew word for “donor” and “treasurer” is unclear. Word for word, it probably means “someone you know”. Perhaps it means an official who received the money from the people.
 
 ---
 
@@ -98,7 +98,7 @@ It belonged to the priests.
 fought against Gath, and captured it.
 Then Hazael made up his mind to go up to Jerusalem.
 [18] Jehoash king of Judah took all the holy gifts
-that his fathers Jehoshaphat, Jehoram, and Ahaziah, kings of Judah, had dedicated,
+that his ancestors Jehoshaphat, Jehoram, and Ahaziah, kings of Judah, had dedicated,
 and his own holy gifts,
 and all the gold that was found in the treasuries of the LORD’s house
 and of the king’s house,
@@ -114,13 +114,13 @@ Then Hazael went away from Jerusalem.
 
 ## The end of Joash (Verses 19–21)
 
-[19] The rest of the things Joash did, and all that he did,
+[19] The rest of the acts of Joash, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
 [20] His servants rose up and made a plot.
 They struck down Joash at the house of Millo, on the road that goes down to Silla.
 [21] For Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants,
 struck him, and he died.
-And they buried him with his fathers in David’s city.
+And they buried him with his ancestors in David’s city.
 And his son Amaziah became king in his place.
 
 > **What does this mean?**

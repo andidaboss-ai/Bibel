@@ -31,7 +31,7 @@ and did not let them attack Saul.
 Saul got up, left the cave, and went on his way.
 
 > **What does this mean?**
-> In the Hebrew Bible and in many German Bibles the numbering in this chapter is shifted by one verse. Verse 1 here is verse 2 there, and so on up to verse 23.
+> In the Hebrew Bible and in some Bibles the numbering in this chapter is shifted by one verse. Verse 1 here is verse 2 there, and so on up to verse 23.
 > Saul is hunting David with 3,000 elite soldiers. And then he goes into the very cave where David is hiding. He is alone, defenseless, with his back to them.
 > David’s men say: This is your chance! God has given him into your hand! A word from God like the one they quote does not appear anywhere earlier. Maybe they are simply explaining the situation this way.
 > David sneaks up to Saul. But he does not kill him. He only cuts off an edge of his robe. And even that makes him feel sorry afterward. His conscience troubles him.
@@ -114,7 +114,7 @@ Saul went home.
 But David and his men went up to the stronghold.
 
 > **What does this mean?**
-> For a moment Saul’s hard heart opens up. He weeps. He calls David “my son.” And he tells the truth: “You are more righteous than I.”
+> For a moment Saul’s hard heart opens up. He weeps. He calls David “my son.” And he tells the truth: “You are more righteous than I.” Righteous means: living right before God.
 > For the first time Saul says it openly: I know that you will be king. He asks for the same thing as Jonathan: Spare my family. David swears it.
 > But David stays careful. He does not go home with Saul, but back to the stronghold. He knows: Saul’s mood can change quickly again. And that is exactly what will happen (Chapter 26).
 > This story is a great lesson: You can answer evil with good. Love for your enemy can even touch the heart of a persecutor, at least for a moment.

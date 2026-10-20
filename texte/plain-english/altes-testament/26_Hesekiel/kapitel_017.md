@@ -53,7 +53,7 @@ It will dry up in the bed where it grew.”’”
 > **What does this mean?**
 > Ezekiel tells a riddle in pictures. The answer comes from verse 11 on. In short:
 > The first great eagle is Nebuchadnezzar, the king of Babylon.
-> The top of the cedar is King Jehoiachin. In 597 before Christ, Nebuchadnezzar took him to Babylon (the “land of trade”).
+> The top of the cedar is King Jehoiachin. In 597 BC, Nebuchadnezzar took him to Babylon (the “land of trade”).
 > The seed he plants is Zedekiah, whom Nebuchadnezzar made king in Jerusalem. He is a “low” vine, that is, a king who depends on someone else. But he could have lived well.
 > The second eagle is the Pharaoh of Egypt. Zedekiah stretches out his “roots” toward Egypt and hopes for help against Babylon.
 > Verse 10: The “east wind” is a hot desert wind that makes plants dry up. It stands for Babylon, which comes from the east.

@@ -5,7 +5,7 @@
 
 ## Before we begin: What is the book of Lamentations?
 
-Lamentations is five poems about the destruction of Jerusalem in the year 587 before Christ. They express the deep pain of the people: The city is destroyed, the temple is burned, and many people are dead or taken away.
+Lamentations is five poems about the destruction of Jerusalem in the year 587 BC. They express the deep pain of the people: The city is destroyed, the temple is burned, and many people are dead or taken away.
 An old tradition says that the prophet Jeremiah wrote them. That is why in many Bibles they come right after the book of Jeremiah. The text itself names no author.
 The first four poems are built with great skill: Each verse (or each group of verses) begins with the next letter of the Hebrew alphabet, from Aleph to Tav. In this way the pain is spoken out “from A to Z.”
 In Judaism, Lamentations is read on the day of mourning called Tisha B’Av. On that day people remember the destruction of the temples. Lamentations is also read in Christian worship services during Holy Week.

@@ -88,7 +88,7 @@ That means: They did not eat, to show their sadness.
 
 > **What does this mean?**
 > The book of 1 Samuel tells how Israel goes from the time of the judges to the time of the kings. Three people are at the center:
-> 1. Samuel (Chapters 1–7): He is the child Hannah prayed for. As a boy he hears God’s voice: “Speak, LORD, for your servant is listening.” He becomes a prophet and the last judge. He leads the people to turn back to God. Under him God helps Israel: “Thus far the LORD has helped us.”
+> 1. Samuel (Chapters 1–7): He is the child Hannah prayed for. As a boy he hears God’s voice: “Speak, LORD, for your servant is listening.” He becomes a prophet and the last judge. He leads the people to turn back to God. Under him God helps Israel: “Until now the LORD has helped us.”
 > 2. Saul (Chapters 8–15): The people want a king “like all the nations.” God gives them Saul, tall and handsome. He starts out humble and brave. But he has no patience to wait for God, and he obeys only halfway. Samuel tells him: “To obey is better than sacrifice.” God rejects Saul as king.
 > 3. David (Chapters 16–31): God chooses Jesse’s youngest son, a shepherd: “Man looks at the outward appearance, but the LORD looks at the heart.” David defeats Goliath in the name of the LORD. Jonathan becomes his faithful friend. Saul becomes jealous and hunts David for years. Twice David could kill Saul, but he does not do it. He waits until God himself acts.
 > The book also honestly shows the dark sides: Eli’s wicked sons, Saul’s hatred and his violence against the priests at Nob, but also David’s lies and his cruel raids. The Bible does not make anything look better than it was. It is not a book about heroes, but an honest book about people and God.

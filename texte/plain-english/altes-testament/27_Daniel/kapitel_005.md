@@ -184,7 +184,7 @@ He was about sixty-two years old.
 > – MENE = “counted”: Your days as king are counted.
 > – TEKEL = “weighed”: You have been weighed and found too light.
 > – PERES (the singular of “parsin”; the “u” in “upharsin” means “and”) = “divided,” and it sounds like “Paras” = Persia.
-> Verse 30: That same night, Belshazzar dies. In the year 539 before Christ, the Persians under Cyrus conquered Babylon. Greek historians report that the city was taken during a feast.
+> Verse 30: That same night, Belshazzar dies. In the year 539 BC, the Persians under Cyrus conquered Babylon. Greek historians report that the city was taken during a feast.
 > Verse 31: To this day, it is not clear who “Darius the Mede” was exactly. He is not known by this name in other sources. Some think of a governor under Cyrus (for example, Gubaru). Others think it is another name for Cyrus himself.
 > A note on the numbering: In some Bibles, verse 31 is already the first verse of Chapter 6.
 > The message: Every person, every ruler too, will one day be “weighed.” What counts in the end? Not power and wealth, but whether we have honored God and done what is right.

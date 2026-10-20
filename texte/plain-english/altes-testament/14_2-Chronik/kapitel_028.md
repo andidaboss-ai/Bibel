@@ -20,7 +20,7 @@ He did it on the hills and under every green tree.
 High places are places of worship on hills.
 
 > **What does this mean?**
-> This story is also told in 2 Kings 16. Ahaz ruled from about 735 to 715 before Christ.
+> This story is also told in 2 Kings 16. Ahaz ruled from about 735 to 715 BC.
 > Ahaz is one of the worst kings of Judah. He worships foreign gods and does the most terrible thing: he burns his own children as offerings. That is a horrible crime. God’s law clearly forbids it (Leviticus 18:21; Deuteronomy 18:10). God does not want human sacrifices. Already with Abraham and Isaac he showed: no child is to be sacrificed (Genesis 22).
 > The Valley of the Son of Hinnom is south of Jerusalem. Such child sacrifices took place there. Later, the name of the valley (“Gehenna”) became a picture for hell.
 
@@ -47,7 +47,7 @@ They also took a lot of plunder from them
 and brought it to Samaria.
 
 > **What does this mean?**
-> The king of Syria was Rezin, the king of Israel was Pekah. The two joined forces against Judah (the “Syro-Ephraimite War,” around 734 before Christ). At this time, the prophet Isaiah spoke to Ahaz (Isaiah 7).
+> The king of Syria was Rezin, the king of Israel was Pekah. The two joined forces against Judah (the “Syro-Ephraimite War,” around 734 BC). At this time, the prophet Isaiah spoke to Ahaz (Isaiah 7).
 > The numbers are very large again. What matters is: Judah suffered a terrible defeat. And worst of all: brothers lead brothers into slavery.
 
 ---
@@ -123,7 +123,7 @@ But it didn’t help him.
 
 > **What does this mean?**
 > Instead of asking God for help, Ahaz calls the most powerful ruler in the world: the king of Assyria. The prophet Isaiah had warned him (Isaiah 7:1–17): trust in God, then you will stand firm!
-> In the English source text, he is called “Tilgath-pilneser.” This is another spelling of Tiglath-pileser III. He ruled from about 745 to 727 before Christ. In his own inscriptions, Ahaz is named as one of the kings who paid tribute to him.
+> In the English source text, he is called “Tilgath-pilneser.” This is another spelling of Tiglath-pileser III. He ruled from about 745 to 727 BC. In his own inscriptions, Ahaz is named as one of the kings who paid tribute to him.
 > According to 2 Kings 16:9, Tiglath-pileser helped for a short time by conquering Damascus. But in the long run, he made Judah dependent and poor. “It didn’t help him.”
 > Here Ahaz is called “king of Israel.” For Chronicles, Judah is the true Israel.
 

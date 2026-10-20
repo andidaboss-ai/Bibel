@@ -31,7 +31,7 @@ to obey it,
 and to teach its rules and laws in Israel.
 
 > **What does this mean?**
-> Almost 60 years lie between Chapter 6 and 7. Ezra came to Jerusalem in the seventh year of Artaxerxes (Artaxerxes I), that is, 458 before Christ. The story of Esther takes place in the time between.
+> Almost 60 years lie between Chapter 6 and 7. Ezra came to Jerusalem in the seventh year of Artaxerxes (Artaxerxes I), that is, 458 BC. The story of Esther takes place in the time between.
 > The family tree shows: Ezra descends directly from Aaron, the first high priest. Seraiah was the last high priest before the destruction of Jerusalem (2 Kings 25:18). “Son” here also means “descendant.” Some generations are skipped.
 > Ezra was a “scribe”. He knew God’s law very well. In Jewish tradition he counts as a second Moses, because he put the law back at the center.
 > The journey took four months. The way from Babylon to Jerusalem is more than 600 miles long.

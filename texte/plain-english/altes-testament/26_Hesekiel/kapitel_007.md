@@ -122,7 +122,7 @@ Robbers will go into it and make it unholy.
 > Verse 14: The trumpet calls people to battle, but no one goes. The people have no courage left.
 > Verse 16: The refugees moan on the mountains like doves. To people in those days, the cooing of doves sounded like lamenting.
 > Verse 19: The people throw their money away. Silver and gold cannot save them, and they cannot be eaten. Riches were more important to them than God, and now they are worth nothing. (Compare Zephaniah 1:18.)
-> Verses 20–22: The “beautiful jewel” is probably the temple, or the gold and silver from which idols were made. God’s “hidden place” is probably the Most Holy Place in the temple. Foreigners will go into it and make it unholy. That happened in 586 before Christ, when the Babylonians destroyed the temple.
+> Verses 20–22: The “beautiful jewel” is probably the temple, or the gold and silver from which idols were made. God’s “hidden place” is probably the Most Holy Place in the temple. Foreigners will go into it and make it unholy. That happened in 586 BC, when the Babylonians destroyed the temple.
 
 ---
 

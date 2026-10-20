@@ -11,7 +11,7 @@ Amaziah the son of Joash king of Judah began to rule.
 and he ruled for 29 years in Jerusalem.
 His mother’s name was Jehoaddin, from Jerusalem.
 [3] He did what was right in the LORD’s eyes,
-but not like his father David.
+but not like his ancestor David.
 He did everything just as his father Joash had done.
 [4] But the high places were not taken away.
 The people still offered sacrifices and burned incense on the high places.
@@ -77,7 +77,7 @@ and went back to Samaria.
 
 ## The death of Jehoash and the end of Amaziah (Verses 15–22)
 
-[15] The rest of the things Jehoash did, and his power,
+[15] The rest of the acts of Jehoash, and his might,
 and how he fought against Amaziah king of Judah,
 aren’t they written in the book of the chronicles of the kings of Israel?
 [16] Jehoash died and joined his ancestors.
@@ -91,7 +91,7 @@ aren’t they written in the book of the chronicles of the kings of Judah?
 He fled to Lachish.
 But they sent men after him to Lachish and killed him there.
 [20] They brought him back on horses,
-and he was buried in Jerusalem with his fathers in David’s city.
+and he was buried in Jerusalem with his ancestors in David’s city.
 [21] All the people of Judah took Azariah, who was 16 years old,
 and made him king in the place of his father Amaziah.
 [22] He built up Elath and gave it back to Judah.
@@ -99,9 +99,9 @@ After that the king died and joined his ancestors.
 
 > **What does this mean?**
 > Amaziah is murdered too, just like his father Joash. Lachish was a large fortress city in the southwest of Judah.
-> Azariah becomes king at the age of 16. He is also called Uzziah (Chapter 15:13). Elath lies on the Red Sea, on the Gulf of Aqaba. With this, Judah has a harbor again.
+> Azariah becomes king at the age of 16. He is also called Uzziah (2 Kings 15:13). Elath lies on the Red Sea, on the Gulf of Aqaba. With this, Judah has a harbor again.
 > “The king died and joined his ancestors”: this probably means Amaziah. Azariah built up Elath after his father’s death.
-> Amaziah ruled from about 796 to 767 before Christ.
+> Amaziah ruled from about 796 to 767 BC.
 
 ---
 
@@ -136,4 +136,4 @@ And his son Zechariah became king in his place.
 > Verses 26–27 show God’s mercy: he saw the need and helped, even though the king was not faithful to him.
 > “The sea of the Arabah” is the Dead Sea. “The entrance of Hamath” is also called Lebo Hamath. It means the far north.
 > Verse 28 is hard to understand: Damascus and Hamath had once belonged to the kingdom of David and Solomon. That is probably why it says “which had belonged to Judah” here.
-> Jeroboam II ruled from about 793 to 753 before Christ. The years overlap with those of his father, because he probably ruled together with him for some years.
+> Jeroboam II ruled from about 793 to 753 BC. The years overlap with those of his father, because he probably ruled together with him for some years.

@@ -68,7 +68,7 @@ And the two sons of Eli, Hophni and Phinehas, were killed.
 > **What does this mean?**
 > This is a disaster. The ark, the holiest thing in Israel, falls into the hands of the enemies.
 > The message is clear: God cannot be forced. The ark is not a magic tool. Without obedience and without real trust, even the holiest object does not help.
-> Hophni and Phinehas die on the same day, just as the prophet had announced (Chapter 2:34).
+> Hophni and Phinehas die on the same day, just as the prophet had announced (1 Samuel 2:34).
 > Later the Psalms and the prophets remember this day: God left his dwelling place in Shiloh (Psalm 78:60–61; Jeremiah 7:12).
 
 ---
@@ -105,7 +105,7 @@ He had judged Israel for 40 years.
 > **What does this mean?**
 > Torn clothes and dirt on the head were signs of mourning at that time. Everyone saw right away: This man is bringing bad news.
 > Eli is more worried about the ark than about his sons. When he hears that his sons are dead, he is still alive. Only when he hears that the ark is lost does he fall over. This shows: With all his faults, Eli loved God and his holy place.
-> “He was heavy”: The Hebrew word for “heavy” is related to the word for “glory” or “honor” (“kavod”). In Chapter 2:29 God had said: “you make yourselves fat with the best of all the offerings.” And verses 21 and 22 play with the same word: The “glory” is gone.
+> “He was heavy”: The Hebrew word for “heavy” is related to the word for “glory” or “honor” (“kavod”). In 1 Samuel 2:29 God had said: “you make yourselves fat with the best of all the offerings.” And verses 21 and 22 play with the same word: The “glory” is gone.
 > The old Greek translation says that Eli judged Israel for 20 years.
 
 ---
@@ -122,7 +122,7 @@ For her labor pains came on her suddenly.
 But she did not answer or pay attention to it.
 [21] She named the child Ichabod and said,
 “The glory has departed from Israel!”
-Because the ark of God had been captured,
+She said this because the ark of God had been captured,
 and because of her father-in-law and her husband.
 [22] She said,
 “The glory has departed from Israel,

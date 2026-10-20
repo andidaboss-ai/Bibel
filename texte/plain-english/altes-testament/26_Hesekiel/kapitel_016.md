@@ -228,7 +228,7 @@ says the Lord GOD.
 on top of all your other disgusting deeds.
 
 > **What does this mean?**
-> These verses are especially hard. In pictures, they describe what really happened to Jerusalem in 586 before Christ: The former “lovers,” that is, the great powers, turn against the city. The Babylonians loot it, tear down the walls, burn the houses, and kill many people (2 Kings 25:8–10).
+> These verses are especially hard. In pictures, they describe what really happened to Jerusalem in 586 BC: The former “lovers,” that is, the great powers, turn against the city. The Babylonians loot it, tear down the walls, burn the houses, and kill many people (2 Kings 25:8–10).
 > For this, Ezekiel uses the language of the punishments that were given for adultery and murder in those days. It is a picture from a world ruled by men, and the violence in it is shocking.
 > Very important: This text is not an instruction and not a permission. It never justifies one person hitting, exposing, humiliating, or killing another person, not in marriage, and not because of unfaithfulness. Violence is wrong. Jesus clearly stood up for a woman who was about to be stoned (John 8:1–11).
 > If you are experiencing violence in your relationship or family, it is not your fault, and you are not alone. Help is available for free, without giving your name, day and night: Domestic violence, US: 1-800-799-7233. In the US: RAINN 1-800-656-4673. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).

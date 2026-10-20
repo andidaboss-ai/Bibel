@@ -5,10 +5,10 @@
 
 ## Before we begin: What is the book of 2 Kings?
 
-The book of 2 Kings continues the book of 1 Kings. In the beginning, both were one single book. It tells about 300 years of history, from about 850 to 560 before Christ.
+The book of 2 Kings continues the book of 1 Kings. In the beginning, both were one single book. It tells about 300 years of history, from about 850 to 560 BC.
 At the beginning are the prophets Elijah and Elisha. Elijah is taken up into heaven. Elisha becomes the one who follows him, and he does many miracles. He helps poor people, sick people, and even enemies.
-Then the book goes on telling about the two kingdoms: Israel in the north and Judah in the south. In the north many kings follow one after another who are not faithful to God. In the year 722 before Christ the Assyrians conquer the northern kingdom. Many people are carried away. The northern kingdom comes to an end.
-Judah in the south lasts about 135 years longer. There are good kings there, like Hezekiah and Josiah, who want to lead the people back to God. But in the end the Babylonians conquer Jerusalem. In the year 587 before Christ the temple is destroyed, and many people are carried away to Babylon.
+Then the book goes on telling about the two kingdoms: Israel in the north and Judah in the south. In the north many kings follow one after another who are not faithful to God. In the year 722 BC the Assyrians conquer the northern kingdom. Many people are carried away. The northern kingdom comes to an end.
+Judah in the south lasts about 135 years longer. There are good kings there, like Hezekiah and Josiah, who want to lead the people back to God. But in the end the Babylonians conquer Jerusalem. In the year 587 BC the temple is destroyed, and many people are carried away to Babylon.
 The book asks: why did this happen? The answer is: because the people and their kings left God again and again, even though the prophets warned them.
 But the book does not end without hope: in the last section King Jehoiachin is set free from prison in Babylon. That is a small sign: God has not forgotten David’s family.
 

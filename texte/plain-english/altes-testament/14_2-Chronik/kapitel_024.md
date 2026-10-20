@@ -15,7 +15,7 @@ all the days of Jehoiada the priest.
 Joash had sons and daughters.
 
 > **What does this mean?**
-> Joash ruled from about 835 to 796 before Christ.
+> Joash ruled from about 835 to 796 BC.
 > Verse 2 is important: “all the days of Jehoiada the priest.” As long as his teacher and protector lived, Joash was good. This is a warning: faith must not depend only on another person. Everyone needs a relationship with God of their own.
 > It was important that Jehoiada chose wives for Joash: David’s family, which had almost been wiped out, was to grow again.
 

@@ -192,4 +192,4 @@ And his son Jehoahaz became king in his place.
 > But Jehu goes only halfway. He leaves Jeroboam’s golden calves standing. He probably cared more about power than about God. He was zealous against others, but not with his whole heart for God.
 > At the same time, under Jehu, Israel loses all the land east of the Jordan to Hazael of Syria.
 > On the “Black Obelisk” of the Assyrian king Shalmaneser III (today in the British Museum in London) there is a picture of a man bowing down to the ground before the Assyrian king. The inscription calls him “Jehu, son of Omri” (or a messenger of Jehu). It is the oldest known picture of an Israelite king. Jehu had to pay tribute to the Assyrians.
-> Jehu ruled from about 841 to 814 before Christ.
+> Jehu ruled from about 841 to 814 BC.

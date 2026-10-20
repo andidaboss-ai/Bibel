@@ -45,7 +45,7 @@ The lot fell on the twelfth month, the month Adar.
 > **What does this mean?**
 > “Pur” is an old word for “lot”. Haman has the lot cast to find a “lucky” day for the destruction. The name of the feast of Purim comes from the word “Pur” (plural “Purim”) (Chapter 9:26).
 > The lot falls on a day eleven months later. So Haman has to wait a long time. This time will be decisive for the rescue. The Bible says: “The lot is thrown into the lap, but every decision comes from the LORD” (Proverbs 16:33).
-> The twelfth year of the king is about 474 before Christ. Esther has already been queen for five years.
+> The twelfth year of the king is about 474 BC. Esther has already been queen for five years.
 
 ---
 

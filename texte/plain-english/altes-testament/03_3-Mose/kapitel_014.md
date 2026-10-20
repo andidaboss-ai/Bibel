@@ -56,18 +56,18 @@ Then he will be clean.
 
 [10] “On the eighth day he shall take two male lambs without any fault,
 one female lamb one year old without any fault,
-about seven quarts of fine flour mixed with oil as a meal offering,
+about seven quarts of fine flour mixed with oil as a grain offering,
 and about two-thirds of a pint of oil.
 [11] The priest who cleanses him shall set the man who is to be cleansed, and these things,
 before the LORD, at the door of the Tent of Meeting.
 
 [12] “The priest shall take one of the male lambs
-and bring it as a trespass offering, together with the oil.
+and bring it as a guilt offering, together with the oil.
 He shall wave them before the LORD as a wave offering.
 [13] He shall kill the male lamb in the place where they kill the sin offering and the burnt offering, in the holy place.
-For just as the sin offering belongs to the priest, so does the trespass offering.
+For just as the sin offering belongs to the priest, so does the guilt offering.
 It is most holy.
-[14] The priest shall take some of the blood of the trespass offering.
+[14] The priest shall take some of the blood of the guilt offering.
 The priest shall put it on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot.
 
@@ -78,14 +78,14 @@ And with his finger he shall sprinkle some of the oil seven times before the LOR
 [17] From the rest of the oil in his hand, the priest shall put some
 on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot,
-on top of the blood of the trespass offering.
+on top of the blood of the guilt offering.
 [18] The rest of the oil in the priest’s hand he shall put on the head of the one who is to be cleansed.
 So the priest shall make atonement for him before the LORD.
 
 [19] “The priest shall bring the sin offering
 and make atonement for the one who is to be cleansed from his uncleanness.
 After that he shall kill the burnt offering.
-[20] Then the priest shall bring the burnt offering and the meal offering on the altar.
+[20] Then the priest shall bring the burnt offering and the grain offering on the altar.
 So the priest shall make atonement for him, and he will be clean.
 
 > **What does this mean?**
@@ -97,18 +97,18 @@ So the priest shall make atonement for him, and he will be clean.
 ## When the healed person is poor (Verses 21–32)
 
 [21] “If he is poor and cannot afford so much,
-he shall take one male lamb as a trespass offering, to be waved, to make atonement for him,
-and about two quarts of fine flour mixed with oil as a meal offering,
+he shall take one male lamb as a guilt offering, to be waved, to make atonement for him,
+and about two quarts of fine flour mixed with oil as a grain offering,
 and about two-thirds of a pint of oil,
 [22] and two turtledoves or two young pigeons, whatever he can afford.
 One shall be a sin offering and the other a burnt offering.
 
 [23] “On the eighth day he shall bring them for his cleansing to the priest,
 to the door of the Tent of Meeting, before the LORD.
-[24] The priest shall take the lamb of the trespass offering and the oil.
+[24] The priest shall take the lamb of the guilt offering and the oil.
 And the priest shall wave them before the LORD as a wave offering.
-[25] He shall kill the lamb of the trespass offering.
-The priest shall take some of the blood of the trespass offering
+[25] He shall kill the lamb of the guilt offering.
+The priest shall take some of the blood of the guilt offering
 and put it on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot.
 [26] The priest shall pour some of the oil into the palm of his own left hand.
@@ -117,12 +117,12 @@ seven times before the LORD.
 [28] Then the priest shall put some of the oil that is in his hand
 on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot,
-on the place where the blood of the trespass offering is.
+on the place where the blood of the guilt offering is.
 [29] The rest of the oil in the priest’s hand he shall put on the head of the one who is to be cleansed,
 to make atonement for him before the LORD.
 [30] He shall bring one of the turtledoves or of the young pigeons, whichever he can afford,
 [31] of the kind he can afford:
-the one as a sin offering and the other as a burnt offering, together with the meal offering.
+the one as a sin offering and the other as a burnt offering, together with the grain offering.
 So the priest shall make atonement before the LORD for the one who is to be cleansed.”
 [32] This is the law for the person who had the disease of leprosy
 and who cannot afford the offering for his cleansing.

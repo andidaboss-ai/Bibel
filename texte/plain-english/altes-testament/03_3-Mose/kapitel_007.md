@@ -3,17 +3,17 @@
 
 ---
 
-## The law for the trespass offering (Verses 1–6)
+## The law for the guilt offering (Verses 1–6)
 
-[1] “‘This is the law for the trespass offering: It is most holy.
-[2] In the place where they kill the burnt offering, he shall also kill the trespass offering.
+[1] “‘This is the law for the guilt offering: It is most holy.
+[2] In the place where they kill the burnt offering, he shall also kill the guilt offering.
 And he shall sprinkle its blood all around on the altar.
 [3] He shall bring all its fat:
 the fat tail and the fat that covers the inner parts,
 [4] and he shall take away the two kidneys and the fat on them, which is by the lower back,
 and the covering on the liver, together with the kidneys.
 [5] The priest shall burn them on the altar as an offering made by fire to the LORD.
-It is a trespass offering.
+It is a guilt offering.
 [6] Every male among the priests may eat from it.
 It shall be eaten in a holy place. It is most holy.
 
@@ -21,15 +21,15 @@ It shall be eaten in a holy place. It is most holy.
 
 ## What belongs to the priests (Verses 7–10)
 
-[7] “‘The trespass offering is like the sin offering.
+[7] “‘The guilt offering is like the sin offering.
 There is one law for both.
 It belongs to the priest who makes atonement with it.
 [8] When a priest brings someone’s burnt offering,
 the skin of the burnt offering that he has brought belongs to him.
-[9] Every meal offering that is baked in the oven,
+[9] Every grain offering that is baked in the oven,
 and everything that is prepared in a pan or on a griddle,
 belongs to the priest who brings it.
-[10] Every meal offering, whether mixed with oil or dry,
+[10] Every grain offering, whether mixed with oil or dry,
 belongs to all the sons of Aaron, to one as much as to another.
 
 > **What does this mean?**
@@ -141,10 +141,10 @@ It is their share forever, for all their generations.
 
 ## Summary (Verses 37–38)
 
-[37] This is the law for the burnt offering, the meal offering, the sin offering, the trespass offering, the consecration offering, and the sacrifice of peace offerings,
+[37] This is the law for the burnt offering, the grain offering, the sin offering, the guilt offering, the consecration offering, and the sacrifice of peace offerings,
 [38] which the LORD commanded Moses on Mount Sinai,
 on the day when he commanded the people of Israel to bring their offerings to the LORD, in the wilderness of Sinai.
 The consecration offering is the offering when the priests are set apart for their service.
 
 > **What does this mean?**
-> Here the laws for the offerings end (Chapters 1–7). There are five kinds of offerings: the burnt offering, the meal offering, the sin offering, the trespass offering and the peace offering. In addition, there is the “consecration offering” when the priests are set apart. The next chapter tells about that.
+> Here the laws for the offerings end (Chapters 1–7). There are five kinds of offerings: the burnt offering, the grain offering, the sin offering, the guilt offering and the peace offering. In addition, there is the “consecration offering” when the priests are set apart. The next chapter tells about that.

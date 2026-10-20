@@ -13,7 +13,7 @@ the sins through which Jeroboam had made Israel sin.
 He did not turn away from them.
 [3] The LORD’s anger burned against Israel.
 Again and again he handed them over to Hazael king of Syria
-and to Ben Hadad the son of Hazael.
+and to Benhadad the son of Hazael.
 [4] Jehoahaz begged the LORD,
 and the LORD listened to him,
 because he saw how Israel was oppressed,
@@ -28,7 +28,7 @@ but they kept living in them.
 And the Asherah also remained in Samaria.)
 An Asherah was a wooden pole or image of a goddess.
 [7] For the king of Syria had not left Jehoahaz any more of the army
-than 50 horsemen, ten chariots, and 10,000 foot soldiers.
+than 50 horsemen, 10 chariots, and 10,000 foot soldiers.
 For the king of Syria had destroyed them
 and made them like the dust at threshing time.
 [8] The rest of the things Jehoahaz did,
@@ -39,11 +39,11 @@ and they buried him in Samaria.
 And his son Joash became king in his place.
 
 > **What does this mean?**
-> Under Jehu’s son Jehoahaz, Israel is almost destroyed by Syria. Only ten chariots are left of the army. For comparison: Ahab still had 2,000 chariots.
+> Under Jehu’s son Jehoahaz, Israel is almost destroyed by Syria. Only 10 chariots are left of the army. For comparison: Ahab still had 2,000 chariots.
 > Jehoahaz prays in his need, and God listens to him, even though he is not a good king. God’s mercy is greater than what we deserve.
 > The text does not say who the “savior” was. Perhaps it means the later King Jeroboam II. Or the Assyrian king, who attacked Syria and so gave Israel room to breathe.
 > Verses 5–6 are in parentheses: they are an insertion in the middle of the report.
-> Jehoahaz ruled from about 814 to 798 before Christ.
+> Jehoahaz ruled from about 814 to 798 BC.
 
 ---
 
@@ -65,7 +65,7 @@ Joash was buried in Samaria with the kings of Israel.
 > **What does this mean?**
 > Again the names are confusing: at the same time, the king of Judah was called Joash, and so was the king of Israel. Both are sometimes also called “Jehoash”.
 > Here the end of Joash is already told. After that the text goes back once more and tells a story from his time.
-> Joash of Israel ruled from about 798 to 782 before Christ.
+> Joash of Israel ruled from about 798 to 782 BC.
 
 ---
 
@@ -105,7 +105,7 @@ Then you would have struck Syria until you had destroyed it.
 But now you will strike Syria only three times.”
 
 > **What does this mean?**
-> Elisha is old and dying. The king weeps and says the same words that Elisha once cried out when Elijah was taken from him (Chapter 2:12). Elisha was Israel’s true strength.
+> Elisha is old and dying. The king weeps and says the same words that Elisha once cried out when Elijah was taken from him (2 Kings 2:12). Elisha was Israel’s true strength.
 > Elisha’s last prophecy is an action that is a sign. He lays his hands on the king’s hands: victory comes from God, not from one’s own strength.
 > The arrow flies toward the east, in the direction of Syria.
 > Then the king is to strike the ground with the arrows. But he strikes only three times, half-heartedly. Elisha is disappointed. The lesson: whoever trusts only timidly also receives only a part. God invites us to believe and to act with our whole heart.
@@ -115,9 +115,9 @@ But now you will strike Syria only three times.”
 ## Elisha’s death and his bones (Verses 20–21)
 
 [20] Elisha died, and they buried him.
-Raiding groups of Moabites came into the land every year when the year began.
+Raiding groups of Moabites would come into the land when the year began.
 [21] Once, as people were burying a man,
-look, they saw a raiding group.
+suddenly they saw a raiding group.
 So they threw the man into Elisha’s tomb.
 As soon as the man touched Elisha’s bones,
 he came back to life and stood up on his feet.
@@ -140,9 +140,9 @@ because of his covenant with Abraham, Isaac, and Jacob.
 He would not destroy them,
 and up to that time he did not throw them away from his presence.
 [24] Hazael king of Syria died,
-and his son Ben Hadad became king in his place.
-[25] Jehoash the son of Jehoahaz took back from Ben Hadad the son of Hazael
-the cities that Ben Hadad had taken from his father Jehoahaz in war.
+and his son Benhadad became king in his place.
+[25] Jehoash the son of Jehoahaz took back from Benhadad the son of Hazael
+the cities that Benhadad had taken from his father Jehoahaz in war.
 Joash struck him three times
 and won back the cities of Israel.
 

@@ -20,7 +20,7 @@ Will you judge them?
 Make them see the disgusting things their fathers did.
 
 > **What does this mean?**
-> This is in the year 591 before Christ, about five years before the destruction of Jerusalem.
+> This is in the year 591 BC, about five years before the destruction of Jerusalem.
 > The elders want an answer from God. But God says: No. He will not let himself be asked by people who only want to use him but do not want to turn back.
 > Instead, they get a long look back at their history. It shows: From the beginning, the people turned away from God again and again, and yet God stayed faithful again and again.
 

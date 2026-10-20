@@ -17,7 +17,7 @@ He did not turn away from them.
 
 > **What does this mean?**
 > Jehoram is another son of Ahab and Jezebel. He is not quite as bad as his parents. He takes away a sign of the worship of Baal. But he stays with Jeroboam’s golden calves.
-> Jehoram ruled from about 852 to 841 before Christ.
+> Jehoram ruled from about 852 to 841 BC.
 
 ---
 

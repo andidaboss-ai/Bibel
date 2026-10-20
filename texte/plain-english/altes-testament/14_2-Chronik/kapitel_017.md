@@ -23,7 +23,7 @@ He had great riches and honor.
 He also removed the high places and the Asherah poles from Judah.
 
 > **What does this mean?**
-> Jehoshaphat reigned from about 872 to 848 before Christ. Chronicles tells much more about him than the books of Kings.
+> Jehoshaphat reigned from about 872 to 848 BC. Chronicles tells much more about him than the books of Kings.
 > “The way his ancestor David had lived in his first years”: this means David’s good years. The English source text calls David his “father”, because in Hebrew “father” can also mean “ancestor”.
 > “Baals” are the different forms of the god Baal, who was worshiped in the northern kingdom under Ahab.
 > “His heart was full of courage”: literally it says “his heart was lifted up”. Usually this means “to become proud”. Here it is meant in a good way: he became full of courage for God’s ways.

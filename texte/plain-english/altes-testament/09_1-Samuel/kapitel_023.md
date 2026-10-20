@@ -86,7 +86,7 @@ but God did not give him into his hand.
 David was in the wilderness of Ziph, in the woods.
 [16] Then Jonathan, Saul’s son, got up
 and went to David in the woods.
-He strengthened his hand in God.
+He gave David new courage in God.
 [17] He said to him,
 “Don’t be afraid.
 For the hand of my father Saul will not find you.
@@ -152,4 +152,4 @@ and lived in the strongholds of En Gedi.
 > Was that an accident? Not for the storyteller. God rescues David at the last moment, even through Israel’s enemies.
 > “Sela Hammahlekoth” probably means “rock of separation,” because Saul and David separated here.
 > En Gedi is an oasis by the Dead Sea, with a spring and caves in the rocks. Wild mountain goats still live there today.
-> In the Hebrew Bible and in many German Bibles, verse 29 is already Chapter 24, verse 1.
+> In the Hebrew Bible and in some Bibles, verse 29 is already Chapter 24, verse 1.

@@ -5,26 +5,28 @@
 
 ## The word against Baasha (Verses 1–7)
 
-[1] The word of the LORD came to Jehu the son of Hanani against Baasha:
-[2] “I lifted you up out of the dust
-and made you prince over my people Israel.
-But you have walked in the way of Jeroboam
-and have made my people Israel sin,
-so that they make me angry with their sins.
-[3] So I will sweep away Baasha and his house completely.
-I will make your house like the house of Jeroboam the son of Nebat.
-[4] Whoever belongs to Baasha and dies in the city, the dogs will eat.
-And whoever of his dies in the field, the birds of the sky will eat.”
-[5] The rest of the acts of Baasha, what he did, and his strength,
-aren’t they written in the book of the chronicles of the kings of Israel?
-[6] Baasha died and joined his ancestors and was buried in Tirzah.
-And his son Elah became king in his place.
-[7] The word of the LORD also came through the prophet Jehu the son of Hanani
-against Baasha and against his house,
-because of all the evil that he did in the LORD’s sight,
-making him angry with the work of his hands,
-because he was like the house of Jeroboam,
-and also because he had struck it down.
+[1] The word of the LORD came to Jehu, the son of Hanani.
+It was a message against Baasha:
+[2] “I lifted you up out of the dust.
+I made you leader over my people Israel.
+But you have lived the way Jeroboam lived.
+You have made my people Israel sin.
+With their sins they make me angry.
+[3] So I will sweep away Baasha and his family completely.
+I will make your family like the family of Jeroboam, the son of Nebat.
+[4] Anyone from Baasha’s family who dies in the city will be eaten by the dogs.
+Anyone from his family who dies in the open country will be eaten by the birds of the sky.”
+[5] The rest of Baasha’s story is written in the book of the chronicles of the kings of Israel.
+It tells what he did and how strong he was.
+[6] Baasha died and joined his ancestors.
+He was buried in Tirzah.
+His son Elah became king in his place.
+[7] The word of the LORD also came through the prophet Jehu, the son of Hanani.
+It was against Baasha and his family.
+It came because of all the evil that Baasha did in the LORD’s eyes.
+With what he did, he made the LORD angry.
+He was like the family of Jeroboam.
+And he had also killed Jeroboam’s family.
 
 > **What does this mean?**
 > Baasha receives the same judgment as Jeroboam. God had lifted him up “out of the dust,” that is, from a simple background. But he made nothing of it.
@@ -35,41 +37,48 @@ and also because he had struck it down.
 
 ## Elah and Zimri (Verses 8–20)
 
-[8] In the 26th year of Asa king of Judah,
-Elah the son of Baasha became king over Israel in Tirzah, for two years.
-[9] His servant Zimri, commander of half his chariots, plotted against him.
-Elah was in Tirzah, drinking himself drunk
-in the house of Arza, who was over the household in Tirzah.
-[10] Then Zimri came in, struck him, and killed him,
-in the 27th year of Asa king of Judah.
-And he became king in his place.
-[11] When he became king, as soon as he sat on his throne,
-he struck down the whole house of Baasha.
-He did not leave him a single one who urinates on a wall,
-neither of his relatives nor of his friends.
-[12] So Zimri destroyed the whole house of Baasha,
-according to the word of the LORD that he had spoken against Baasha through Jehu the prophet,
-[13] because of all the sins of Baasha and the sins of his son Elah,
-which they committed and with which they made Israel sin,
-making the LORD, the God of Israel, angry with their worthless idols.
-[14] The rest of the acts of Elah and all that he did,
-aren’t they written in the book of the chronicles of the kings of Israel?
-[15] In the 27th year of Asa king of Judah, Zimri ruled seven days in Tirzah.
-The people were camped against Gibbethon, which belonged to the Philistines.
-[16] The people in the camp heard:
-“Zimri has plotted and has even killed the king.”
-So that day in the camp all Israel made Omri, the commander of the army, king over Israel.
-[17] Omri went up from Gibbethon, and all Israel with him,
-and they surrounded Tirzah.
-[18] When Zimri saw that the city was taken,
-he went into the fortified part of the king’s house
-and burned the king’s house over himself with fire, and he died,
-[19] because of the sins that he had committed
-by doing what was evil in the LORD’s sight,
-by walking in the way of Jeroboam
-and in his sin with which he had made Israel sin.
-[20] The rest of the acts of Zimri and the plot that he carried out,
-aren’t they written in the book of the chronicles of the kings of Israel?
+[8] In the 26th year of Asa, the king of Judah,
+Elah, the son of Baasha, became king over Israel.
+He ruled in Tirzah for two years.
+[9] His servant Zimri made a plot against him.
+Zimri was the commander of half of his chariots.
+Elah was in Tirzah.
+He was getting drunk in the house of Arza.
+Arza was in charge of the king’s household in Tirzah.
+[10] Zimri came in, attacked Elah, and killed him.
+This was in the 27th year of Asa, the king of Judah.
+Then Zimri became king in his place.
+[11] As soon as Zimri sat on the throne as king,
+he attacked Baasha’s whole family.
+He did not leave alive a single one who urinates on a wall.
+He killed Baasha’s male relatives and his friends.
+[12] So Zimri destroyed Baasha’s whole family.
+This was what the LORD had said against Baasha through Jehu the prophet.
+[13] It happened because of all the sins of Baasha and of his son Elah.
+They sinned, and they made Israel sin.
+With their worthless idols they made the LORD, the God of Israel, angry.
+[14] The rest of Elah’s story and everything he did
+are written in the book of the chronicles of the kings of Israel.
+[15] In the 27th year of Asa, the king of Judah,
+Zimri ruled in Tirzah for seven days.
+At that time the army was camped near Gibbethon to attack it.
+Gibbethon belonged to the Philistines.
+[16] The soldiers in the camp heard the news:
+Zimri had made a plot and had even killed the king.
+So that same day in the camp, all Israel made Omri king over Israel.
+Omri was the commander of the army.
+[17] Omri and all Israel with him left Gibbethon.
+They went and surrounded Tirzah.
+[18] Zimri saw that the city was taken.
+Then he went into the strongest part of the king’s house.
+He set the king’s house on fire over himself,
+and he died.
+[19] This happened because of the sins that he had committed.
+He did what was evil in the LORD’s eyes.
+He lived the way Jeroboam had lived.
+He committed the same sin that Jeroboam had made Israel commit.
+[20] The rest of Zimri’s story and the plot that he made
+are written in the book of the chronicles of the kings of Israel.
 
 > **What does this mean?**
 > Another murder of a king. Elah is drunk when his own officer kills him.
@@ -81,30 +90,35 @@ aren’t they written in the book of the chronicles of the kings of Israel?
 
 ## Omri and the new capital, Samaria (Verses 21–28)
 
-[21] At that time the people of Israel split into two parts.
-Half of the people followed Tibni the son of Ginath, to make him king,
-and the other half followed Omri.
-[22] But the people who followed Omri were stronger than the people who followed Tibni the son of Ginath.
+[21] Then the people of Israel split into two groups.
+Half of the people followed Tibni, the son of Ginath.
+They wanted to make him king.
+The other half followed Omri.
+[22] But the people who followed Omri were stronger
+than the people who followed Tibni, the son of Ginath.
 So Tibni died, and Omri became king.
-[23] In the 31st year of Asa king of Judah,
-Omri became king over Israel, for twelve years.
-He ruled six years in Tirzah.
-[24] He bought the hill of Samaria from Shemer for two talents of silver.
-He built a city on the hill
-and named the city that he built Samaria,
-after the name of Shemer, the owner of the hill.
-[25] Omri did what was evil in the LORD’s sight
-and acted more wickedly than all who were before him.
-[26] For he walked in all the way of Jeroboam the son of Nebat
-and in his sins with which he had made Israel sin,
-making the LORD, the God of Israel, angry with their worthless idols.
-[27] The rest of the acts of Omri, what he did, and the strength that he showed,
-aren’t they written in the book of the chronicles of the kings of Israel?
-[28] Omri died and joined his ancestors and was buried in Samaria.
-And his son Ahab became king in his place.
+[23] In the 31st year of Asa, the king of Judah,
+Omri became king over Israel.
+He ruled for 12 years.
+Six of these years he ruled in Tirzah.
+[24] He bought the hill of Samaria from Shemer
+for two talents of silver (about 150 pounds).
+He built a city on the hill.
+He named the city Samaria,
+after Shemer, the owner of the hill.
+[25] Omri did what was evil in the LORD’s eyes.
+He did more evil than all the kings before him.
+[26] He lived the way Jeroboam, the son of Nebat, had lived.
+He committed all the same sins that Jeroboam had made Israel commit.
+With their worthless idols they made the LORD, the God of Israel, angry.
+[27] The rest of Omri’s story is written in the book of the chronicles of the kings of Israel.
+It tells what he did and how strong he was.
+[28] Omri died and joined his ancestors.
+He was buried in Samaria.
+His son Ahab became king in his place.
 
 > **What does this mean?**
-> The Bible says “two talents of silver.” A talent is about 75 pounds.
+> The Bible says “two talents of silver.” A talent is about 75 pounds. So two talents are about 150 pounds.
 > Omri founds the city of Samaria. For almost 150 years it will be the capital of the northern kingdom. Later the name was also used for the whole region. That is also where the “Samaritans” of the New Testament come from.
 > The Bible tells only a little about Omri. But outside the Bible he was very well known: Omri is named on the Mesha Stone, an inscription of the king of Moab. And long after that, the Assyrians still called Israel “the house of Omri.”
 > But for the Bible, what counts is not political power, but faithfulness to God. That is why the judgment is short and harsh.
@@ -114,22 +128,24 @@ And his son Ahab became king in his place.
 
 ## Ahab and Jezebel (Verses 29–34)
 
-[29] In the 38th year of Asa king of Judah,
-Ahab the son of Omri became king over Israel.
-Ahab the son of Omri ruled over Israel in Samaria for 22 years.
-[30] Ahab the son of Omri did what was evil in the LORD’s sight,
-more than all who were before him.
-[31] As if it were a small thing for him to walk in the sins of Jeroboam the son of Nebat,
-he took as his wife Jezebel the daughter of Ethbaal king of the Sidonians.
-And he went and served Baal and worshiped him.
-[32] He set up an altar for Baal in the house of Baal that he had built in Samaria.
-[33] Ahab also made the Asherah.
+[29] In the 38th year of Asa, the king of Judah,
+Ahab, the son of Omri, became king over Israel.
+Ahab, the son of Omri, ruled over Israel in Samaria for 22 years.
+[30] Ahab, the son of Omri, did what was evil in the LORD’s eyes.
+He did more evil than all the kings before him.
+[31] To live in the sins of Jeroboam, the son of Nebat, was not enough for him.
+He married Jezebel.
+She was the daughter of Ethbaal, the king of the Sidonians.
+Ahab went and served Baal and worshiped him.
+[32] Ahab had built a temple for Baal in Samaria.
+In this temple of Baal he set up an altar for Baal.
+[33] Ahab also made the Asherah pole.
 Ahab did more to make the LORD, the God of Israel, angry
-than all the kings of Israel who were before him.
-[34] In his days Hiel the Bethelite built Jericho again.
-He laid its foundation at the cost of Abiram his firstborn,
-and he set up its gates at the cost of his youngest son Segub,
-according to the word of the LORD that he had spoken through Joshua the son of Nun.
+than all the kings of Israel before him.
+[34] In Ahab’s time, Hiel from Bethel built Jericho again.
+When he laid its foundation, it cost him Abiram, his firstborn son.
+When he set up its gates, it cost him Segub, his youngest son.
+This was what the LORD had said through Joshua, the son of Nun.
 
 > **What does this mean?**
 > Now a new, dark time begins. Ahab marries Jezebel, a princess from Sidon in Phoenicia (in what is Lebanon today). With her the worship of Baal comes to Israel, and officially, with a temple in the capital.

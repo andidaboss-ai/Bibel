@@ -34,7 +34,7 @@ These things are driving me far away from my holy place.
 But you will see even more terrible, disgusting things.”
 
 > **What does this mean?**
-> Verse 1: This is in the year 592 before Christ, a little more than a year after Ezekiel was called. The elders of the exiles are sitting with him, maybe to ask for advice.
+> Verse 1: This is in the year 592 BC, a little more than a year after Ezekiel was called. The elders of the exiles are sitting with him, maybe to ask for advice.
 > Verse 3: In a vision, Ezekiel is brought to Jerusalem. His body stays in Babylon, but in the Spirit he sees what is happening in the temple.
 > The “idol of jealousy” is an idol right at the temple. It makes God jealous. God does not want his people to serve other gods, just as a loving partner does not want unfaithfulness (compare Exodus 20:5).
 > Verse 6: Because of these disgusting things, God has to go far away from his holy place. That is the great message of Chapters 8–11: God’s glory leaves the temple.

@@ -31,7 +31,7 @@ He cut down all the incense altars in the whole land of Israel.
 Then he went back to Jerusalem.
 
 > **What does this mean?**
-> This story is also told in 2 Kings 22–23. Josiah ruled from about 640 to 609 before Christ.
+> This story is also told in 2 Kings 22–23. Josiah ruled from about 640 to 609 BC.
 > At 16 years old (in the eighth year of his rule), Josiah begins to seek God. At 20 years old (in the twelfth year), he begins to clean the land of idols. His grandfather Manasseh and his father Amon had filled the land with idols.
 > He “didn’t turn away to the right or to the left”: he went straight ahead on God’s way (compare Deuteronomy 5:32).
 > Josiah also cleans the area of the former northern kingdom. The Assyrian empire was becoming weaker at that time. So Josiah could act there too.

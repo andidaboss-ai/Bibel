@@ -18,16 +18,16 @@ I will talk with my father about you.
 If I find out anything, I will tell you.”
 [4] Jonathan spoke well of David to his father Saul.
 He said to him,
-“The king should not do wrong to his servant David.
-David has not done anything wrong to you.
+“The king should not sin against his servant David.
+David has not sinned against you.
 Everything he has done has been very good for you.
 [5] He risked his life and killed the Philistine.
 And the LORD gave a great victory to all Israel.
 You saw it, and you were glad.
-So why do you want to do wrong and kill an innocent man?
+So why do you want to sin against an innocent man?
 Why do you want to kill David for no reason?”
 [6] Saul listened to Jonathan.
-Saul made a promise.
+Saul swore an oath.
 He said, “As surely as the LORD lives, David will not be put to death.”
 [7] Then Jonathan called David
 and told him everything.
@@ -35,7 +35,7 @@ Jonathan brought David to Saul,
 and David served Saul as before.
 
 > **What does this mean?**
-> Now Saul openly orders that David be killed. Even to his own son.
+> Now Saul openly orders that David be killed. He even gives this order to his own son.
 > Jonathan stands between his father and his friend. He chooses the way of justice: He talks with his father and reminds him of the truth. David is innocent. He has saved Israel.
 > Jonathan is brave. It was dangerous to disagree with an angry king.
 > For a moment Saul listens to him and even swears by God. But will he keep his word?

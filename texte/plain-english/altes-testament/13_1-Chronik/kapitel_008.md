@@ -43,7 +43,7 @@ They were heads of families.
 [11] With Hushim he had the sons Abitub and Elpaal.
 [12] The sons of Elpaal were
 Eber, Misham, and Shemed.
-He built Ono and Lod with its towns.
+Shemed built Ono and Lod with its towns.
 [13] Then there were Beriah and Shema.
 They were heads of the families who lived in Aijalon.
 They chased away the people who lived in Gath.
@@ -58,7 +58,7 @@ They chased away the people who lived in Gath.
 [22] Ishpan, Eber, Eliel,
 [23] Abdon, Zichri, Hanan,
 [24] Hananiah, Elam, Anthothijah,
-[25] Iphdeiah, and Penuel were the sons of Shashak.
+[25] Iphdeiah and Penuel were the sons of Shashak.
 [26] Shamsherai, Shehariah, Athaliah,
 [27] Jaareshiah, Elijah, and Zichri were the sons of Jeroham.
 [28] These were heads of families in their time.
@@ -114,4 +114,4 @@ All these were descendants of Benjamin.
 > Here is the family tree of King Saul. Saul is the first king of Israel, and Chronicles tells about his death in the next chapter. His family lived on, over many generations.
 > In 2 Samuel 2:8 “Eshbaal” is called “Ishbosheth”, and “Merib-baal” is called “Mephibosheth” there (2 Samuel 4:4). At first “Baal” simply meant “lord” and could also be used for the God of Israel. Later, when “Baal” only reminded people of the idol, scribes often replaced it with “bosheth”, which means “shame”.
 > Mephibosheth was Jonathan’s lame son whom David took care of (2 Samuel 9).
-> In verse 29 the name of the “father of Gibeon” is missing in Hebrew. In 1 Chronicles 9:35 he is called Jeiel. There Ner is also named among his sons. In verse 29 the WEB follows the Hebrew text.
+> In verse 29 the name of the “father of Gibeon” is missing in Hebrew. In 1 Chronicles 9:35 he is called Jeiel. There Ner is also named among his sons. In verse 29 the WEB, our English source text, follows the Hebrew text.

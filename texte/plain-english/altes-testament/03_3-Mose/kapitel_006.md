@@ -23,8 +23,8 @@ or the lost thing that he found,
 [5] or anything about which he swore falsely.
 He shall pay it back in full and add a fifth more to it.
 He shall give it back to the one it belongs to, on the day he is found guilty.
-[6] And he shall bring his trespass offering to the LORD:
-a ram without any fault from the flock, by your estimate, as a trespass offering to the priest.
+[6] And he shall bring his guilt offering to the LORD:
+a ram without any fault from the flock, by your estimate, as a guilt offering to the priest.
 [7] So the priest shall make atonement for him before the LORD.
 And he will be forgiven for whatever he did that made him guilty.”
 
@@ -65,43 +65,43 @@ and burn the fat of the peace offerings on it.
 
 ---
 
-## The law for the meal offering (Verses 14–18)
+## The law for the grain offering (Verses 14–18)
 
-[14] “‘This is the law for the meal offering:
+[14] “‘This is the law for the grain offering:
 The sons of Aaron shall bring it before the LORD, in front of the altar.
-[15] He shall take from it a handful of the fine flour of the meal offering and of its oil,
-and all the frankincense that is on the meal offering.
+[15] He shall take from it a handful of the fine flour of the grain offering and of its oil,
+and all the frankincense that is on the grain offering.
 He shall burn it on the altar as a pleasant smell, as its memorial part for the LORD.
 [16] Aaron and his sons shall eat what is left of it.
 It shall be eaten without yeast in a holy place.
 They shall eat it in the courtyard of the Tent of Meeting.
 [17] It shall not be baked with yeast.
 I have given it to them as their share of my offerings made by fire.
-It is most holy, like the sin offering and the trespass offering.
+It is most holy, like the sin offering and the guilt offering.
 [18] Every male among the descendants of Aaron shall eat from it.
 This is their share forever, for all your generations, from the LORD’s offerings made by fire.
 Whoever touches them shall be holy.’”
 
 ---
 
-## The meal offering of the priests (Verses 19–23)
+## The grain offering of the priests (Verses 19–23)
 
 [19] The LORD spoke to Moses. He said,
 [20] “This is the offering of Aaron and his sons,
 which they shall bring to the LORD on the day when he is anointed:
-about 2 quarts of fine flour as a meal offering that is always given,
+about 2 quarts of fine flour as a grain offering that is always given,
 half of it in the morning and half of it in the evening.
 [21] It shall be made with oil on a griddle.
 When it is soaked through, you shall bring it in.
-You shall bring the meal offering in baked pieces, as a pleasant smell to the LORD.
+You shall bring the grain offering in baked pieces, as a pleasant smell to the LORD.
 [22] The anointed priest from among his sons who takes his place shall bring it.
 It is a rule forever. It shall be burned completely for the LORD.
-[23] Every meal offering of a priest shall be burned completely.
+[23] Every grain offering of a priest shall be burned completely.
 It shall not be eaten.”
 
 > **What does this mean?**
 > The Bible says: a tenth of an ephah of flour, that is, about 2 quarts.
-> When an ordinary person brings a meal offering, the priests eat the rest. But when a priest brings a meal offering himself, he may not eat any of it. Otherwise he would be giving a present to himself.
+> When an ordinary person brings a grain offering, the priests eat the rest. But when a priest brings a grain offering himself, he may not eat any of it. Otherwise he would be giving a present to himself.
 
 ---
 

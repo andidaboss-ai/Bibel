@@ -26,10 +26,10 @@ They did this the whole time Cyrus was king of Persia,
 and on until Darius became king of Persia.
 
 > **What does this mean?**
-> The “enemies” were people who lived in the area of the former northern kingdom. After 722 before Christ the Assyrians had settled foreign peoples there. These peoples worshiped the LORD, but also their own gods (2 Kings 17:24–41). Later, their descendants were called “Samaritans.”
-> Esar Haddon was king of Assyria from 681 to 669 before Christ.
+> The “enemies” were people who lived in the area of the former northern kingdom. After 722 BC the Assyrians had settled foreign peoples there. These peoples worshiped the LORD, but also their own gods (2 Kings 17:24–41). Later, their descendants were called “Samaritans.”
+> Esar Haddon was king of Assyria from 681 to 669 BC.
 > Why did Zerubbabel and Jeshua turn down the help? They were afraid that faith in the one God would be mixed with foreign gods. That is exactly what had led to the exile. You can think about whether turning them down was right in every case. Later, in the New Testament, Jesus shows that God loves the Samaritans too (John 4; Luke 10:30–37).
-> The result: those who were turned down became opponents. They discouraged the builders and made sure that the building stood still for about 16 years (from about 536 to 520 before Christ).
+> The result: those who were turned down became opponents. They discouraged the builders and made sure that the building stood still for about 16 years (from about 536 to 520 BC).
 
 ---
 
@@ -46,7 +46,7 @@ and in the Syrian language.
 
 > **What does this mean?**
 > Here the book jumps forward in time. It shows: the opposition went on later too, under the next kings.
-> Ahasuerus is Xerxes I (486–465 before Christ). He is also the king from the book of Esther. Artaxerxes is Artaxerxes I (465–424 before Christ).
+> Ahasuerus is Xerxes I (486–465 BC). He is also the king from the book of Esther. Artaxerxes is Artaxerxes I (465–424 BC).
 > These later letters are no longer about the temple, but about building the city wall (verse 12).
 > “Syrian” here means Aramaic. That was the official language of the Persian Empire. From verse 8 on, the book of Ezra itself is also written in Aramaic, up to Chapter 6:18.
 
@@ -91,7 +91,7 @@ you will have nothing left beyond the River.”
 
 > **What does this mean?**
 > The opponents list many peoples to seem important. Many of these names are uncertain. Some are probably titles of officials, not peoples. Erech (Uruk), Babylon, Susa and Elam were cities and regions in the east.
-> Osnappar is probably the Assyrian king Ashurbanipal (668–627 before Christ).
+> Osnappar is probably the Assyrian king Ashurbanipal (668–627 BC).
 > “Beyond the River”: this means the Euphrates. From the Persian king’s point of view, the area west of the Euphrates was “beyond”. That was the province Judah belonged to.
 > “We are loyal to the palace”: the English source text says “we eat the salt of the palace.” That means: we are in the king’s service and are paid by him.
 > The letter works with fear: if Jerusalem becomes strong, the king loses taxes and power. That is exaggerated. But it works.
@@ -126,4 +126,4 @@ It stayed stopped until the second year that Darius was king of Persia.
 > **What does this mean?**
 > The king has a search made and finds: Jerusalem really did rise up against Babylon in the past. He also remembers the great kings David and Solomon.
 > Important in verse 21: “until a decree is made by me.” The king leaves a door open. Later the same king allows Nehemiah to build the wall (Nehemiah 2).
-> Verse 24 returns to the time of the temple building. It continues verse 5: the building of the temple rested until the second year of Darius, that is 520 before Christ. Verses 6–23 were an insertion that shows how stubborn the opposition was over many decades.
+> Verse 24 returns to the time of the temple building. It continues verse 5: the building of the temple rested until the second year of Darius, that is 520 BC. Verses 6–23 were an insertion that shows how stubborn the opposition was over many decades.

@@ -28,7 +28,7 @@ because there was no rain in the land.
 > “Before whom I stand” means: whom I serve.
 > God takes care of Elijah in an unusual way: ravens bring him food. Ravens were seen as unclean birds. God can also provide through helpers you would not expect.
 > It is not certain where Tishbe was. Gilead is the hill country east of the Jordan.
-> Our English source text says “before the Jordan.” This probably means “east of the Jordan,” because Elijah is to “turn east.”
+> The WEB, our English source text, says “before the Jordan.” This probably means “east of the Jordan,” because Elijah is to “turn east.”
 
 ---
 
@@ -43,7 +43,7 @@ a widow was there gathering sticks.
 He called to her and said,
 “Please get me a little water in a jar, so that I may drink.”
 [11] As she was going to get it, he called to her and said,
-“Please also bring me a piece of bread in your hand.”
+“Please also bring me a piece of bread.”
 [12] She said,
 “As the LORD your God lives,
 I don’t have anything baked,
@@ -107,7 +107,7 @@ and that the word of the LORD in your mouth is truth.”
 
 > **What does this mean?**
 > The mother is in despair. She thinks: my child is dying because of my guilt. Many people have this thought when something terrible happens. The Bible shows: sickness and death are not a punishment for the mother. God gives the child his life back.
-> Elijah, too, honestly complains to God: “Why have you done this?” We are allowed to complain to God and to ask him questions.
+> Elijah, too, honestly complains to God: “Have you also brought disaster on the widow I am staying with, by killing her son?” We are allowed to complain to God and to ask him questions.
 > This is the first time in the Bible that a dead person is raised to life. Elijah’s successor Elisha later does something similar (2 Kings 4). And Jesus also raised the son of a widow, in Nain (Luke 7:11–17).
 > In Hebrew, the word “soul” here means the life force of a person.
 > At the end the foreign woman confesses: the word of the LORD is truth.

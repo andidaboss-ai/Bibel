@@ -1,5 +1,5 @@
 # Leviticus – Chapter 5
-### Sin offerings for special cases – the trespass offering
+### Sin offerings for special cases – the guilt offering
 
 ---
 
@@ -39,7 +39,7 @@ then he will be guilty in one of these cases as soon as he knows about it.
 
 [5] “‘When he is guilty in one of these cases,
 he shall confess what he has sinned in.
-[6] And he shall bring his trespass offering to the LORD for the sin he has done:
+[6] And he shall bring his guilt offering to the LORD for the sin he has done:
 a female animal from the flock, a lamb or a goat, as a sin offering.
 So the priest shall make atonement for him because of his sin.
 
@@ -52,7 +52,7 @@ So the priest shall make atonement for him because of his sin.
 ## For those who are poor (Verses 7–13)
 
 [7] “‘If he cannot afford a lamb,
-he shall bring two turtledoves or two young pigeons to the LORD as his trespass offering for what he has sinned in:
+he shall bring two turtledoves or two young pigeons to the LORD as his guilt offering for what he has sinned in:
 one as a sin offering and the other as a burnt offering.
 [8] He shall bring them to the priest.
 The priest shall first bring the bird for the sin offering.
@@ -73,7 +73,7 @@ The priest shall take a handful of it as the memorial part
 and burn it on the altar, on top of the LORD’s offerings made by fire.
 It is a sin offering.
 [13] So the priest shall make atonement for him because of the sin he has done in any of these cases, and he will be forgiven.
-The rest shall belong to the priest, like the meal offering.’”
+The rest shall belong to the priest, like the grain offering.’”
 
 > **What does this mean?**
 > The Bible says: a tenth of an ephah of flour. An ephah is about 6 gallons.
@@ -82,20 +82,20 @@ The rest shall belong to the priest, like the meal offering.’”
 
 ---
 
-## The trespass offering: when you owe God something (Verses 14–16)
+## The guilt offering: when you owe God something (Verses 14–16)
 
 [14] The LORD spoke to Moses. He said,
 [15] “If anyone is unfaithful and sins without meaning to against the LORD’s holy things,
-he shall bring his trespass offering to the LORD:
+he shall bring his guilt offering to the LORD:
 a ram without any fault from the flock.
-You shall set its value in shekels of silver, by the shekel of the holy place, as a trespass offering.
+You shall set its value in shekels of silver, by the shekel of the holy place, as a guilt offering.
 [16] He shall pay back what he did wrong with the holy thing.
 He shall add a fifth to it and give it to the priest.
-So the priest shall make atonement for him with the ram of the trespass offering, and he will be forgiven.
+So the priest shall make atonement for him with the ram of the guilt offering, and he will be forgiven.
 
 > **What does this mean?**
 > Verse 15: A ram is a male sheep.
-> The “trespass offering” is for cases where damage has been done that can be made good again. For example: Someone has eaten by mistake some of the gifts that belong to God or to the priests.
+> The “guilt offering” is for cases where damage has been done that can be made good again. For example: Someone has eaten by mistake some of the gifts that belong to God or to the priests.
 > Then an offering is not enough. He must pay for the damage and add one fifth more, that is, 20 percent.
 > Forgiveness from God and making things good again belong together.
 > A shekel is about 0.4 ounces of silver.
@@ -107,9 +107,9 @@ So the priest shall make atonement for him with the ram of the trespass offering
 [17] “If anyone sins and does any of the things that the LORD has commanded not to be done,
 even if he did not know it,
 he is still guilty and shall carry his guilt.
-[18] He shall bring a ram without any fault from the flock, by your estimate, to the priest as a trespass offering.
+[18] He shall bring a ram without any fault from the flock, by your estimate, to the priest as a guilt offering.
 So the priest shall make atonement for him because of what he did wrong without knowing it, and he will be forgiven.
-[19] It is a trespass offering. He is truly guilty before the LORD.”
+[19] It is a guilt offering. He is truly guilty before the LORD.”
 
 > **What does this mean?**
 > Even if you did not know something, you can do damage. We know this today too: If you damage someone else’s car by accident, you still have to pay for it.

@@ -13,7 +13,7 @@ and bring them before the LORD.
 ‘Take a male goat as a sin offering,
 and a calf and a lamb, both one year old and without any fault, as a burnt offering,
 [4] and a bull and a ram as peace offerings, to sacrifice before the LORD,
-and a meal offering mixed with oil.
+and a grain offering mixed with oil.
 For today the LORD appears to you.’”
 
 [5] They brought what Moses had commanded in front of the Tent of Meeting.
@@ -60,7 +60,7 @@ He burned them on the altar.
 He took the goat for the sin offering, which was for the people, and killed it,
 and offered it for sin, like the first one.
 [16] He brought the burnt offering and offered it as the rule says.
-[17] He brought the meal offering.
+[17] He brought the grain offering.
 He filled his hand with some of it and burned it on the altar,
 in addition to the burnt offering of the morning.
 
@@ -74,8 +74,8 @@ And he burned the fat on the altar.
 as Moses commanded.
 
 > **What does this mean?**
-> Now all the kinds of offerings come together: the sin offering, the burnt offering, the meal offering and the peace offering.
-> The order has a meaning: First the guilt is forgiven (sin offering). Then you give yourself completely to God (burnt offering). Then you give thanks (meal offering). And last, you celebrate fellowship with God (peace offering).
+> Now all the kinds of offerings come together: the sin offering, the burnt offering, the grain offering and the peace offering.
+> The order has a meaning: First the guilt is forgiven (sin offering). Then you give yourself completely to God (burnt offering). Then you give thanks (grain offering). And last, you celebrate fellowship with God (peace offering).
 
 ---
 

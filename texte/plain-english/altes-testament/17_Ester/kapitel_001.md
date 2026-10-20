@@ -6,7 +6,7 @@
 ## Before we begin: What is the book of Esther?
 
 The book of Esther tells an exciting story at the court of the Persian king in Susa.
-It takes place around 480 before Christ, between the dedication of the temple (Ezra 6) and Ezra’s arrival in Jerusalem (Ezra 7). At that time many Jews did not live in Jerusalem, but scattered over the whole Persian Empire.
+It takes place around 480 BC, between the dedication of the temple (Ezra 6) and Ezra’s arrival in Jerusalem (Ezra 7). At that time many Jews did not live in Jerusalem, but scattered over the whole Persian Empire.
 The main characters:
 – Esther, a young Jewish woman who becomes queen.
 – Mordecai, her cousin, who brought her up.
@@ -49,9 +49,9 @@ to let each man do as he pleased.
 in the royal house which belonged to King Ahasuerus.
 
 > **What does this mean?**
-> Ahasuerus is the Hebrew name for the Persian king Xerxes I (486–465 before Christ). His empire was huge: from India in the east to Cush (south of Egypt) in the west.
+> Ahasuerus is the Hebrew name for the Persian king Xerxes I (486–465 BC). His empire was huge: from India in the east to Cush (south of Egypt) in the west.
 > The text says “Ethiopia”. In Hebrew it is “Cush”, which means the area of Cush.
-> The “third year” is about 483 before Christ. Maybe at this feast the king was planning the great war against Greece, which he then lost.
+> The “third year” is about 483 BC. Maybe at this feast the king was planning the great war against Greece, which he then lost.
 > A feast of 180 days! And then another week for the whole city. The king wants to show how rich and powerful he is.
 > The description of the palace is very detailed. Archaeologists have dug up the palace in Susa. It really was very splendid.
 > “Not compulsory”: no one had to drink more than he wanted. At Persian feasts it was sometimes the custom that everyone had to drink along when the king drank.

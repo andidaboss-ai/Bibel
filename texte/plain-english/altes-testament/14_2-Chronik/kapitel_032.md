@@ -37,7 +37,7 @@ but with us is the LORD our God, to help us and to fight our battles.”
 The people relied on the words of Hezekiah king of Judah.
 
 > **What does this mean?**
-> This story is told in more detail in 2 Kings 18–19 and Isaiah 36–37. Sennacherib marched against Judah in the year 701 before Christ. His own inscriptions report this. There he boasts that he shut Hezekiah up in Jerusalem “like a bird in a cage”. But he does not report a conquest of Jerusalem.
+> This story is told in more detail in 2 Kings 18–19 and Isaiah 36–37. Sennacherib marched against Judah in the year 701 BC. His own inscriptions report this. There he boasts that he shut Hezekiah up in Jerusalem “like a bird in a cage”. But he does not report a conquest of Jerusalem.
 > Verse 1 begins in a surprising way: “After these things and this faithfulness” comes the attack. Faithfulness to God does not protect us from all difficulties. But God is there in the difficulties.
 > Hezekiah acts wisely: he makes sure that the enemies find no water, and he builds up the walls. Faith and wise action belong together.
 > The “Millo” was a fortification in the City of David, maybe a terrace built up with earth.
@@ -118,7 +118,7 @@ So from then on he was honored in the sight of all nations.
 
 > **What does this mean?**
 > Hezekiah and Isaiah pray. And God steps in. Chronicles tells this very briefly. 2 Kings 19:35 says that in one night 185,000 men died in the camp of the Assyrians.
-> “Those who had come out of his own body” means: his own sons. Sennacherib was murdered by sons of his about 20 years later, in 681 before Christ. Babylonian and Assyrian sources report this too. Chronicles sums it up without saying how much time passed in between.
+> “Those who had come out of his own body” means: his own sons. Sennacherib was murdered by sons of his about 20 years later, in 681 BC. Babylonian and Assyrian sources report this too. Chronicles sums it up without saying how much time passed in between.
 > The irony: Sennacherib mocked that no god could save his followers. And then he is killed in the temple of his own god. His god could not protect him.
 > “He guided them”: some manuscripts have “he gave them rest”.
 

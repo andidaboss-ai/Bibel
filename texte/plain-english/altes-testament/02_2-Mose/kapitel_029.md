@@ -191,7 +191,7 @@ and offer the other lamb in the evening.
 [40] With the one lamb, offer about 2 quarts of fine flour mixed with about 1 quart of oil from beaten olives,
 and about 1 quart of wine as a drink offering.
 [41] Offer the other lamb in the evening.
-Do the same with it as with the meal offering and the drink offering of the morning.
+Do the same with it as with the grain offering and the drink offering of the morning.
 It is a pleasant smell, an offering made by fire to the LORD.
 [42] It shall be a burnt offering all the time, through all your generations,
 at the door of the Tent of Meeting before the LORD.

@@ -6,7 +6,7 @@
 ## Before we begin: The twelve Minor Prophets and Hosea
 
 Now the twelve “Minor Prophets” begin: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi. They are called “minor” (small) because their books are shorter than those of Isaiah, Jeremiah, and Ezekiel, not because they are less important. In Judaism, they form one single book together, the “Book of the Twelve.”
-Hosea lived in the 8th century before Christ in the northern kingdom of Israel, at about the same time as Amos, Isaiah, and Micah. It was a time when many people were doing well. But the people mixed the God of Israel with Baal, a god of fertility. Shortly afterward, in the year 722 before Christ, the northern kingdom was destroyed by the Assyrians.
+Hosea lived in the 8th century BC in the northern kingdom of Israel, at about the same time as Amos, Isaiah, and Micah. It was a time when many people were doing well. But the people mixed the God of Israel with Baal, a god of fertility. Shortly afterward, in the year 722 BC, the northern kingdom was destroyed by the Assyrians.
 His name means “The LORD saves,” very similar to “Joshua” and “Jesus.”
 What is special about Hosea: He feels God’s pain in his own life. His own marriage to an unfaithful wife becomes a picture of God’s relationship with his unfaithful people.
 A word first: Hosea uses the picture of an unfaithful wife for the people. This picture comes from a time when men had all the power. It is a picture of unfaithfulness toward God, not a statement about women. And it never excuses violence in a marriage.

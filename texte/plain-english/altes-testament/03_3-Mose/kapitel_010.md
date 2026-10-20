@@ -63,7 +63,7 @@ that the LORD has spoken to them through Moses.”
 ## What the priests shall eat (Verses 12–15)
 
 [12] Moses spoke to Aaron and to Eleazar and Ithamar, his sons who were left. He said,
-“Take the meal offering that is left over from the LORD’s offerings made by fire,
+“Take the grain offering that is left over from the LORD’s offerings made by fire,
 and eat it without yeast beside the altar.
 For it is most holy.
 [13] You shall eat it in a holy place.

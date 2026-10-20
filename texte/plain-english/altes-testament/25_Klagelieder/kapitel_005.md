@@ -78,7 +78,7 @@ You are very angry with us.
 ## Looking back: What have we read in Lamentations?
 
 > **What does this mean?**
-> **Five poems about a disaster:** Lamentations mourns for Jerusalem, which was destroyed in the year 587 before Christ. The poems describe hunger, death, people taken away, and the burned temple.
+> **Five poems about a disaster:** Lamentations mourns for Jerusalem, which was destroyed in the year 587 BC. The poems describe hunger, death, people taken away, and the burned temple.
 > **Grief from A to Z:** The first four poems are built on the Hebrew alphabet. The pain is spoken out completely. Nothing is left out.
 > **Honest lament:** The poems say openly: “The Lord has become like an enemy” (2:5). The Bible allows us to tell God everything, even anger and despair.
 > **No one comforts:** “She has no comforter” (Chapter 1). The suffering is also a deep loneliness.

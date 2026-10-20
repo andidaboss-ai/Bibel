@@ -31,11 +31,11 @@ that had been taken from before the LORD,
 to be replaced with warm bread on the day it was taken away.
 
 > **What does this mean?**
-> In the Hebrew Bible and in many German Bibles this chapter is shifted by one verse. Verse 1 here is verse 2 there, and so on up to verse 16.
+> In the Hebrew Bible and in some Bibles this chapter is shifted by one verse. Verse 1 here is verse 2 there, and so on up to verse 16.
 > Nob was a town of the priests, near Jerusalem. After Shiloh was destroyed, the priests from Eli’s family lived there. Ahimelech was a great-grandson of Eli.
 > Ahimelech trembles. Why does Saul’s famous army commander come all alone? That is strange.
 > David lies to the priest. He says he is on a mission for the king. This lie will have terrible results (Chapter 22).
-> The “show bread” was twelve loaves of bread that were set out fresh before God in the sanctuary every week. Only the priests were allowed to eat the old loaves (Leviticus 24:5–9).
+> The “show bread” was 12 loaves of bread that were set out fresh before God in the sanctuary every week. Only the priests were allowed to eat the old loaves (Leviticus 24:5–9).
 > The priest makes an exception because David and his men are in need. He only asks whether they are clean. At that time the rule was: Whoever had recently slept with a woman was unclean for holy things for a while (Exodus 19:15). The Hebrew literally says “vessels.” This probably means their bodies or their equipment.
 > Later Jesus referred to this story: A person’s need is more important than a religious rule (Mark 2:25–27).
 
@@ -99,9 +99,9 @@ that you have brought this fellow to act like a madman in front of me?
 Should this fellow come into my house?”
 
 > **What does this mean?**
-> David is so desperate that he flees to the Philistines, of all people. And to Gath of all places, the home town of Goliath. And he has Goliath’s sword with him!
+> David is so desperate that he flees to the Philistines, of all people. And to Gath of all places, the hometown of Goliath. And he has Goliath’s sword with him!
 > The Philistines recognize him right away. They even call him “the king of the land.” They know more than Saul suspects.
 > David becomes afraid and saves himself with a trick: He acts crazy. At that time people were afraid to harm someone who was insane.
 > Achish makes fun of it: I already have enough madmen around me.
 > The great hero who defeated Goliath now has to drool and scribble to survive. That is how low David has fallen. But God does not let him fall.
-> According to its title, Psalm 34 is a song of David from this time. It says that the LORD is near to those who have a broken heart (Psalm 34:18; in many German Bibles 34:19). In the title of the psalm the king is called “Abimelech.” This was probably a title of the Philistine kings.
+> According to its title, Psalm 34 is a song of David from this time. It says that the LORD is near to those who have a broken heart (Psalm 34:18; in some Bibles 34:19). In the title of the psalm the king is called “Abimelech.” This was probably a title of the Philistine kings.

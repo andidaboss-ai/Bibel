@@ -133,4 +133,4 @@ And his son Rehoboam became king in his place.
 > **What does this mean?**
 > Chronicles names books of prophets as sources. Today they are lost.
 > Ahijah of Shiloh was the prophet who announced to Jeroboam that he would become king over the ten northern tribes (1 Kings 11:29–39).
-> Solomon reigned from about 970 to 930 before Christ.
+> Solomon reigned from about 970 to 930 BC.

@@ -24,10 +24,10 @@ For his kingdom will be pulled up by the roots,
 and it will go to others besides these.
 
 > **What does this mean?**
-> Chapter 11 is the most detailed picture of the future in the Bible. It describes the history from about 530 to 165 before Christ in coded language, but amazingly exactly.
-> Verse 2: The Persian kings. The rich fourth king is probably Xerxes I, who went to war against Greece in 480 before Christ.
+> Chapter 11 is the most detailed picture of the future in the Bible. It describes the history from about 530 to 165 BC in coded language, but amazingly exactly.
+> Verse 2: The Persian kings. The rich fourth king is probably Xerxes I, who went to war against Greece in 480 BC.
 > Verses 3–4: The mighty king is Alexander the Great. After his early death, his empire was divided among his generals, not given to his sons.
-> Some scholars date the book to the 2nd century before Christ. For them, Chapter 11 is history looking back, written in the style of a prophecy. For readers who date it to the 6th century, it is an exact prediction. Both views are held.
+> Some scholars date the book to the 2nd century BC. For them, Chapter 11 is history looking back, written in the style of a prophecy. For readers who date it to the 6th century, it is an exact prediction. Both views are held.
 
 ---
 
@@ -116,8 +116,8 @@ not in anger and not in battle.
 > – the “king of the north”: the Seleucids in Syria.
 > Israel lay right between them, in the “glorious land” (verse 16), and it became the battlefield of their wars again and again.
 > Many details fit known events, for example:
-> Verse 6: Around 250 before Christ, the Egyptian princess Berenice married the Syrian king Antiochus II. The alliance failed, and she was murdered.
-> Verses 15–16: Around 200 before Christ, Antiochus III took the land of Israel from the Egyptians.
+> Verse 6: Around 250 BC, the Egyptian princess Berenice married the Syrian king Antiochus II. The alliance failed, and she was murdered.
+> Verses 15–16: Around 200 BC, Antiochus III took the land of Israel from the Egyptians.
 > Verse 17: Antiochus III gave his daughter Cleopatra I to the Egyptian king as his wife, to gain influence. But she stood by her husband and by Egypt.
 > Verse 18: A Roman commander stopped Antiochus III.
 > Verse 20: Seleucus IV sent an official (Heliodorus) to take the temple treasure in Jerusalem. Seleucus was murdered later.
@@ -195,10 +195,10 @@ until the time of the end.
 For the end will still come at the set time.
 
 > **What does this mean?**
-> Now comes the “despised man,” who comes to power by flattery. Almost all interpreters see in him Antiochus IV Epiphanes (175–164 before Christ), the “little horn” from Chapters 7 and 8.
+> Now comes the “despised man,” who comes to power by flattery. Almost all interpreters see in him Antiochus IV Epiphanes (175–164 BC), the “little horn” from Chapters 7 and 8.
 > Verse 22: The “prince of the covenant” is probably the high priest Onias III, who was removed from office and later murdered.
-> Verse 30: The “ships of Kittim” are the Romans. In the year 168 before Christ, a Roman messenger forced Antiochus to leave Egypt. The humbled king took out his anger on Jerusalem.
-> Verse 31: He made the temple unclean, stopped the daily offering, and set up the “disgusting thing that causes ruin,” an altar for the god Zeus (167 before Christ).
+> Verse 30: The “ships of Kittim” are the Romans. In the year 168 BC, a Roman messenger forced Antiochus to leave Egypt. The humbled king took out his anger on Jerusalem.
+> Verse 31: He made the temple unclean, stopped the daily offering, and set up the “disgusting thing that causes ruin,” an altar for the god Zeus (167 BC).
 > Verse 32: But: “The people who know their God will be strong.” Many Jews stayed faithful, even when their lives were in danger.
 > Verses 33–35: The “wise” teach the people, even when they suffer and die for it. Their suffering is not meaningless. The Bible says that it “refines” the community. Refining means: making pure, like metal in a fire. This does not mean that God wants suffering. But in God’s eyes it has meaning.
 > Verse 34: “A little help” – many interpreters think of the uprising of the Maccabees.
@@ -253,5 +253,5 @@ and no one will help him.
 > Verse 37: “The god that women love” probably means a god that women especially worshiped (maybe Tammuz or Adonis, compare Ezekiel 8:14). In the WEB, the words are: the desire of women.
 > Verse 38: The “god of fortresses” – maybe Zeus, or simply: He worships only power and war.
 > Verse 43: “Ethiopians” – this means the people of Cush, south of Egypt.
-> Verses 40–45: These verses no longer fit exactly with what is known about Antiochus IV. He died of an illness in Persia in 164 before Christ. That is why many interpreters connect these verses with a time of the end that is still to come. Others see in them a general announcement of his downfall.
+> Verses 40–45: These verses no longer fit exactly with what is known about Antiochus IV. He died of an illness in Persia in 164 BC. That is why many interpreters connect these verses with a time of the end that is still to come. Others see in them a general announcement of his downfall.
 > The message is clear: Even the most powerful and cruel ruler “will come to his end, and no one will help him.”

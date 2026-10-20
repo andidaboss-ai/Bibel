@@ -49,7 +49,7 @@ Then they lived in their tents in the whole land east of Gilead.
 
 > **What does this mean?**
 > We are not told how Joel is connected with Reuben.
-> Tilgath Pilneser is another spelling of Tiglath Pileser. He was the Assyrian king who carried away the tribes east of the Jordan around 733 before Christ (2 Kings 15:29).
+> Tilgath Pilneser is another spelling of Tiglath Pileser. He was the Assyrian king who carried away the tribes east of the Jordan around 733 BC (2 Kings 15:29).
 > Aroer, Nebo and Baal Meon were east of the Dead Sea. These places are also named on the Mesha Stone.
 > The Hagrites were probably an Arab tribe. Their name reminds us of Hagar, the mother of Ishmael.
 
@@ -78,7 +78,7 @@ and Jeroboam was king of Israel.
 > **What does this mean?**
 > Gad lived east of the Jordan, in Gilead and Bashan. That was good pasture for herds of cattle.
 > “Sharon” here is probably not the well-known coastal plain, but an area east of the Jordan.
-> The family records were written down under King Jotham of Judah and King Jeroboam II of Israel, so around 750 before Christ.
+> The family records were written down under King Jotham of Judah and King Jeroboam II of Israel, so around 750 BC.
 
 ---
 
@@ -133,5 +133,5 @@ They are still there to this day.
 > The half-tribe of Manasseh lived in the north, as far as Mount Hermon. Hermon is the highest mountain of the region. “Senir” is another name for it.
 > Chronicles explains briefly: They lost their land because they became unfaithful to God. “They acted like prostitutes”: this is a picture for worshiping idols: being unfaithful to God like being unfaithful in marriage.
 > “Pul” and “Tilgath Pilneser” are probably two names for the same king (2 Kings 15:19, 29). Chronicles names them here side by side.
-> This was the first deportation of Israelites, around 733 before Christ.
+> This was the first deportation of Israelites, around 733 BC.
 > In some Bibles chapter 5 goes on to verse 41. Verses 1–15 of the next chapter are there chapter 5, verses 27–41.

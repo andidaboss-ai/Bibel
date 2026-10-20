@@ -66,7 +66,7 @@ And the two of them went out into the field.
 [12] Jonathan said to David,
 “By the LORD, the God of Israel:
 When I have found out what my father thinks, about this time tomorrow or the day after,
-and look, if things are good for David,
+if things look good for David,
 won’t I send word to you and tell you?
 [13] May the LORD do so to Jonathan and even more,
 if my father wants to harm you
@@ -211,4 +211,4 @@ And Jonathan went into the town.
 > Really Jonathan would not have needed the sign. But the two want to see each other at least one more time.
 > They kiss and weep. At that time it was normal for men to show their friendship and their pain at saying goodbye in this way.
 > This is one of the saddest farewells in the Bible. The two see each other only one more time (Chapter 23:16–18).
-> In the Hebrew Bible and in many German Bibles the numbering is different here: The last sentence (“He got up and left. And Jonathan went into the town.”) is Chapter 21, verse 1 there.
+> In the Hebrew Bible and in some Bibles the numbering is different here: The last sentence (“He got up and left. And Jonathan went into the town.”) is Chapter 21, verse 1 there.

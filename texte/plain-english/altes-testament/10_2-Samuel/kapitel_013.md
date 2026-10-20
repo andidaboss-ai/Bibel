@@ -81,7 +81,7 @@ He forced her and raped her.
 > Tamar defends herself with all the words she has. She says clearly: No. She calls it force and a shameful thing. She thinks about her future and even about his. She looks for a way out. She is wise and brave. But he does not listen. He uses his strength.
 > Here the Bible clearly takes the side of the victim. Tamar is not to blame in any way.
 > “He will not keep me from you”: maybe Tamar hopes to gain time. Later the law forbade marriage between half-brother and half-sister (Leviticus 18:9).
-> If you yourself have experienced violence: it is not your fault. You may look for help. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Domestic violence, US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> If you yourself have experienced violence: it is not your fault. You may look for help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233.
 
 ---
 

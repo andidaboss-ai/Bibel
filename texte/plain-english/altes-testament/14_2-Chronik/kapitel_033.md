@@ -44,7 +44,7 @@ that the LORD had destroyed before the people of Israel.
 but they did not listen.
 
 > **What does this mean?**
-> These verses are almost the same in 2 Kings 21. Manasseh ruled from about 697 to 642 before Christ, longer than any other king of Judah.
+> These verses are almost the same in 2 Kings 21. Manasseh ruled from about 697 to 642 BC, longer than any other king of Judah.
 > Manasseh undoes everything that his father Hezekiah had built up. He does everything that God had forbidden: worship of idols in the temple, worship of the stars (“the army of the sky” is the sun, the moon and the stars), child sacrifices and magic.
 > “Made his children pass through the fire” very probably means that he burned them as offerings. That is a horrible crime. God does not want human sacrifices (Deuteronomy 18:10).
 > He even puts an idol in the temple, in the place where God’s name is to live.
@@ -141,5 +141,5 @@ Then the people of the land made his son Josiah king after him.
 
 > **What does this mean?**
 > Amon copied the evil deeds of his father, but not his turning back. That is sad: children often learn more from the mistakes of their parents than from their turning back.
-> Amon ruled from about 642 to 640 before Christ.
+> Amon ruled from about 642 to 640 BC.
 > His son Josiah will become one of the best kings of Judah.

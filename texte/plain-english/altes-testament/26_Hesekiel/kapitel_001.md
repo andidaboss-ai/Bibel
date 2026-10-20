@@ -5,8 +5,8 @@
 
 ## Before we begin: Who was Ezekiel?
 
-Ezekiel was a priest from Jerusalem. In the year 597 before Christ, he was taken away to Babylon together with King Jehoiachin and many others. There he lived with other exiles by the river Chebar.
-Five years later, around 593 before Christ, God called him to be a prophet. So Ezekiel worked at the same time as Jeremiah, but not in Jerusalem. He worked in Babylon.
+Ezekiel was a priest from Jerusalem. In the year 597 BC, he was taken away to Babylon together with King Jehoiachin and many others. There he lived with other exiles by the river Chebar.
+Five years later, around 593 BC, God called him to be a prophet. So Ezekiel worked at the same time as Jeremiah, but not in Jerusalem. He worked in Babylon.
 His name means “God makes strong.”
 Ezekiel had powerful visions: He saw God’s glory on a throne chariot. He saw God’s glory leave the temple. And he saw a field full of dry bones that come to life again. He did many unusual sign actions to make his message visible.
 The book has 48 chapters and three parts:

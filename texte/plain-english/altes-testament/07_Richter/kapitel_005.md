@@ -20,7 +20,7 @@ yes, the clouds poured down water.
 even Sinai, in front of the LORD, the God of Israel.
 
 > **What does this mean?**
-> This song is one of the oldest texts in the whole Bible. Many scholars think it was written soon after the events, maybe in the 12th century before Christ. The language is old-fashioned and hard to understand in some places.
+> This song is one of the oldest texts in the whole Bible. Many scholars think it was written soon after the events, maybe in the 12th century BC. The language is old-fashioned and hard to understand in some places.
 > Deborah and Barak celebrate the victory with a song, just as Moses and Miriam did after crossing the sea (Exodus 15).
 > God comes from the south, from Sinai and from Edom, with earthquake and thunderstorm. The storm may explain why Sisera’s chariots were defeated: The rain turned the plain into a swamp.
 

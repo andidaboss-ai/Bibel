@@ -19,7 +19,7 @@ And he came as far as Jerusalem.
 
 > **What does this mean?**
 > A well-known pattern: when things go well for Rehoboam and he is strong, he forgets God. Success can be dangerous.
-> Shishak is Pharaoh Shoshenq I. His war campaign around 925 before Christ is also known outside the Bible: in the temple of Karnak in Egypt there is a large inscription with the names of many places that he conquered in Palestine.
+> Shishak is Pharaoh Shoshenq I. His war campaign around 925 BC is also known outside the Bible: in the temple of Karnak in Egypt there is a large inscription with the names of many places that he conquered in Palestine.
 > The fortresses that Rehoboam had built did not help.
 > The “Sukkiim” were probably a people from the Libyan desert. The “Ethiopians” came from the area south of Egypt. The Hebrew calls them “Cushites”.
 
@@ -95,5 +95,5 @@ And his son Abijah became king in his place.
 
 > **What does this mean?**
 > Verse 14 is the verdict on Rehoboam: “He did not set his heart to seek the LORD.” For Chronicles this is the deciding measure. Not one single mistake, but a heart that does not seek God.
-> Rehoboam reigned from about 930 to 913 before Christ.
+> Rehoboam reigned from about 930 to 913 BC.
 > In 1 Kings 15:1 Abijah is called “Abijam”.

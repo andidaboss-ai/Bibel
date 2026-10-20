@@ -27,7 +27,7 @@ When he takes care of the lamps, he shall burn it.
 [8] And when Aaron lights the lamps in the evening, he shall burn it too.
 So there shall always be incense before the LORD, through all your generations.
 [9] Do not offer any strange incense on it,
-no burnt offering and no meal offering.
+no burnt offering and no grain offering.
 And do not pour any drink offering on it.
 [10] Once a year, Aaron shall make atonement on its horns.
 With the blood of the sin offering of atonement, he shall make atonement for it once a year, through all your generations.

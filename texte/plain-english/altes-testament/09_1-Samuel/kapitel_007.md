@@ -39,7 +39,7 @@ And Samuel judged the people of Israel at Mizpah.
 > **What does this mean?**
 > For 20 years we hear nothing about Samuel. Now he steps forward and says clearly: Real turning back does not only mean mourning. Real turning back means: putting away everything that stands between you and God.
 > Baal was a god of rain and fertility. Ashtoreth was a goddess of love and war. The plural forms “Baals” and “Ashtaroth” mean their many images and places of worship.
-> Pouring out water is a sign that does not appear like this anywhere else in the Bible. Maybe it means: We pour out our hearts before God, as Hannah did (Chapter 1:15). Or: Our life is before you like water poured out.
+> Pouring out water is a sign that does not appear like this anywhere else in the Bible. Maybe it means: We pour out our hearts before God, as Hannah did (1 Samuel 1:15). Or: Our life is before you like water poured out.
 > The people say honestly: “We have sinned.” That is the most important sentence when people turn back.
 
 ---
@@ -67,17 +67,17 @@ and struck them down as far as below Beth Kar.
 > **What does this mean?**
 > This time everything is different from Chapter 4. Then Israel brought the ark like a lucky charm. Now it prays. Then it relied on a thing. Now it relies on God.
 > The people are afraid, but they do not run away. They ask Samuel to pray for them.
-> God answers with thunder. In her song Hannah had said: “He will thunder against them in the sky” (Chapter 2:10). This comes true here.
+> God answers with thunder. In her song Hannah had said: “He will thunder against them in the sky” (1 Samuel 2:10). This comes true here.
 > Today no one knows exactly where Beth Kar was.
 
 ---
 
-## Ebenezer: Thus far the LORD has helped (Verses 12–14)
+## Ebenezer: Until now the LORD has helped (Verses 12–14)
 
 [12] Then Samuel took a stone
 and set it up between Mizpah and Shen.
 He named it Ebenezer and said,
-“Thus far the LORD has helped us.”
+“Until now the LORD has helped us.”
 [13] So the Philistines were brought down.
 They did not come into the territory of Israel anymore.
 The hand of the LORD was against the Philistines as long as Samuel lived.
@@ -88,8 +88,8 @@ And there was peace between Israel and the Amorites.
 
 > **What does this mean?**
 > “Ebenezer” means “stone of help.” It was at a place with this very name that Israel had lost the ark in Chapter 4. Now the name gets a new meaning: God has helped.
-> “Thus far” can be understood in two ways: Up to this place God has helped us. And: Up to this time God has helped us. Both are true. The stone is meant to remind them: God has not left us until today. So we can trust him for tomorrow too.
-> To this day, many Christians say “Ebenezer” or “Thus far the LORD has helped us” when they look back on their lives. A well-known English hymn says: “Here I raise my Ebenezer.”
+> In Hebrew, “until now” can be understood in two ways: Up to this place God has helped us. And: Up to this time God has helped us. Both are true. The stone is meant to remind them: God has not left us until today. So we can trust him for tomorrow too.
+> To this day, many Christians say “Ebenezer” or “Until now the LORD has helped us” when they look back on their lives. A well-known English hymn says: “Here I raise my Ebenezer.”
 > “Amorites” here stands for the peoples of Canaan who still lived in the land.
 
 ---

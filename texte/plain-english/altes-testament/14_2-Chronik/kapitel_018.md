@@ -170,4 +170,4 @@ And at about sunset he died.
 > Ahab tries to escape the prophecy. He disguises himself and lets Jehoshaphat fight as the only king in royal clothes. That was dangerous and unfair to Jehoshaphat.
 > But you cannot trick God. An arrow shot “at random” hits Ahab exactly at the weak spot of the armor.
 > Chronicles adds something that is not in 1 Kings 22: “The LORD helped him. And God moved them to go away from him” (2 Chronicles 18:31). Jehoshaphat cries out to God, and God saves him, even though he had gotten involved with Ahab. God’s grace is greater than our mistakes.
-> Ahab reigned from about 874 to 853 before Christ.
+> Ahab reigned from about 874 to 853 BC.

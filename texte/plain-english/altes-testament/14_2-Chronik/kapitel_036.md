@@ -39,8 +39,8 @@ It is written in the book of the kings of Israel and Judah.
 His son Jehoiachin became king after him.
 
 > **What does this mean?**
-> Jehoiakim ruled from about 609 to 598 before Christ. The prophet Jeremiah criticized him sharply. Jehoiakim even burned a scroll with Jeremiah’s words (Jeremiah 36).
-> Nebuchadnezzar II was the most powerful king of his time. He ruled from about 605 to 562 before Christ. He had defeated the Egyptians at Carchemish (605 before Christ).
+> Jehoiakim ruled from about 609 to 598 BC. The prophet Jeremiah criticized him sharply. Jehoiakim even burned a scroll with Jeremiah’s words (Jeremiah 36).
+> Nebuchadnezzar II was the most powerful king of his time. He ruled from about 605 to 562 BC. He had defeated the Egyptians at Carchemish (605 BC).
 > The text does not say exactly whether Jehoiakim was really taken to Babylon. According to 2 Kings 24:6, he died in Jerusalem. Maybe he was only threatened, or he was set free again.
 > The objects of the temple come back later (Ezra 1:7–11). They also play a role in the book of Daniel (Daniel 5).
 
@@ -58,7 +58,7 @@ He made Jehoiachin’s brother Zedekiah king over Judah and Jerusalem.
 
 > **What does this mean?**
 > 2 Kings 24:8 says “18 years.” That fits better, because he already had wives (2 Kings 24:15). Probably the “ten” was lost here in copying.
-> Jehoiachin was taken to Babylon in 597 before Christ. Many people were carried away with him, among them the prophet Ezekiel.
+> Jehoiachin was taken to Babylon in 597 BC. Many people were carried away with him, among them the prophet Ezekiel.
 > Zedekiah was really his uncle, a son of Josiah (2 Kings 24:17). In Hebrew, “brother” can also mean “relative.”
 > In Babylon, clay tablets were found on which food rations for “Jehoiachin, the king of Judah” and his sons are written down.
 
@@ -88,7 +88,7 @@ In the end, the LORD’s anger rose up against his people.
 And there was no remedy anymore.
 
 > **What does this mean?**
-> Zedekiah ruled from about 597 to 586 before Christ. He was weak and could not make up his mind. Jeremiah warned him again and again, but he did not listen.
+> Zedekiah ruled from about 597 to 586 BC. He was weak and could not make up his mind. Jeremiah warned him again and again, but he did not listen.
 > He also broke his oath to Nebuchadnezzar, which he had sworn by God (compare Ezekiel 17:13–19).
 > Verse 15 is one of the most moving verses of the Bible: God sent his messengers “again and again,” “because he had compassion on his people.” God did not punish quickly. For hundreds of years, he waited and warned.
 > But the people mocked the prophets. In the end, there was “no remedy.” The judgment was not God’s first wish, but the result of the people rejecting every help.
@@ -120,7 +120,7 @@ As long as it lay empty, it had its Sabbath rest,
 until 70 years were complete.
 
 > **What does this mean?**
-> In the year 586 before Christ, the Babylonians (“Chaldeans”) conquered Jerusalem. They burned the temple that Solomon had built. That was the greatest disaster in the history of ancient Israel.
+> In the year 586 BC, the Babylonians (“Chaldeans”) conquered Jerusalem. They burned the temple that Solomon had built. That was the greatest disaster in the history of ancient Israel.
 > Verse 17 describes terrible suffering: young and old, men and women are killed. The Bible does not keep quiet about the suffering. The book of Lamentations and Psalm 137 show how deep the pain was.
 > Verse 21 explains the time of the exile in a special way: according to the law, the land was to have a year of rest every seven years, a “Sabbath year” (Leviticus 25:1–7). The people had not kept this. Now the land gets its rest back (compare Leviticus 26:34–35).
 > Jeremiah had announced 70 years (Jeremiah 25:11–12; 29:10). The number 70 is a round number for a long time, about one human life.
@@ -143,7 +143,7 @@ may the LORD his God be with him.
 Let him go up.’”
 
 > **What does this mean?**
-> In the year 539 before Christ, the Persian king Cyrus conquered Babylon. One year later, he allowed the peoples who had been carried away to return to their homelands and to build their temples again. On the so-called “Cyrus Cylinder,” a clay cylinder in the British Museum, Cyrus himself reports about this policy.
+> In the year 539 BC, the Persian king Cyrus conquered Babylon. One year later, he allowed the peoples who had been carried away to return to their homelands and to build their temples again. On the so-called “Cyrus Cylinder,” a clay cylinder in the British Museum, Cyrus himself reports about this policy.
 > The book does not end with the destruction, but with a new beginning. The last words are: “Let him go up!” In Hebrew, this is one single word: “veya’al.”
 > In the Hebrew Bible, Chronicles is the last book. So the whole Hebrew Bible ends with this sentence: an invitation to return home and to begin new with God.
 > The same words are at the beginning of the book of Ezra (Ezra 1:1–3). The story continues there.

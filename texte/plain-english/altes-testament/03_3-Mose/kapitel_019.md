@@ -127,9 +127,9 @@ She is promised in marriage to another man,
 but she has not yet been bought free or given her freedom.
 Then they shall be punished.
 But they shall not be put to death, because she was not free.
-[21] He shall bring his trespass offering to the LORD, to the door of the Tent of Meeting.
-It shall be a ram as a trespass offering.
-[22] With the ram of the trespass offering, the priest shall make atonement for him before the LORD
+[21] He shall bring his guilt offering to the LORD, to the door of the Tent of Meeting.
+It shall be a ram as a guilt offering.
+[22] With the ram of the guilt offering, the priest shall make atonement for him before the LORD
 for the sin he has committed.
 Then the sin he has committed will be forgiven him.
 

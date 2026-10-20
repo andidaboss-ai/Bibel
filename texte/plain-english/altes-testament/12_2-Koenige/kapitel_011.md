@@ -21,7 +21,7 @@ while Athaliah ruled over the land.
 > Athaliah is the daughter of Ahab and Jezebel. After the death of her son she wants to rule herself. For this she kills her own grandchildren. That is a horrible crime.
 > With this, David’s family is in the greatest danger. God had promised David that his “lamp” would not go out. Now everything depends on one single baby.
 > A brave woman, Jehosheba, saves the child at the risk of her own life. She is the boy’s aunt. According to 2 Chronicles 22:11 she was married to the priest Jehoiada. That is why she could hide the child in the temple.
-> Athaliah is the only woman who ruled over Judah as queen. She ruled from about 841 to 835 before Christ.
+> Athaliah is the only woman who ruled over Judah as queen. She ruled from about 841 to 835 BC.
 
 ---
 
@@ -30,7 +30,7 @@ while Athaliah ruled over the land.
 [4] In the seventh year Jehoiada sent for the captains over hundreds of the Carites and of the guard.
 He had them come to him into the LORD’s house.
 He made a covenant with them.
-He made them swear an oath in the LORD’s house,
+He made a covenant with them in the LORD’s house,
 and he showed them the king’s son.
 [5] He commanded them,
 “This is what you must do:
@@ -74,8 +74,7 @@ They clapped their hands and shouted,
 
 [13] When Athaliah heard the noise of the guards and of the people,
 she came to the people in the LORD’s house.
-[14] She looked, and look,
-the king was standing by the pillar, as was the custom,
+[14] She looked and saw the king standing by the pillar, as was the custom,
 and the captains and the trumpeters were by the king.
 And all the people of the land were rejoicing and blowing trumpets.
 Then Athaliah tore her clothes and cried out,
@@ -116,5 +115,5 @@ They had killed Athaliah with the sword at the king’s house.
 
 > **What does this mean?**
 > The covenant is renewed: God, king, and people belong together. And there is also a covenant between king and people. The king has duties toward the people.
-> The temple of Baal in Jerusalem is destroyed. Unlike with Jehu, only the priest of Baal is killed here. The city stays quiet.
-> In some Bibles verse 21 here is already Chapter 12, verse 1. That is why the verse numbering in the next chapter is shifted by one.
+> The temple of Baal in Jerusalem is destroyed. Unlike in Jehu’s time, only the priest of Baal is killed here. The city stays quiet.
+> In some Bibles, verse 21 is already Chapter 12, verse 1. That is why the verse numbering in the next chapter is shifted by one.

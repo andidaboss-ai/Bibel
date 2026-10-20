@@ -191,6 +191,6 @@ And his son Esar Haddon became king in his place.
 > No one knows exactly what happened. Many think of a deadly disease that broke out in the camp. The Greek historian Herodotus tells a similar story: in one night, mice attacked Sennacherib’s army. Mice can spread diseases.
 > Remarkable: in his own inscriptions Sennacherib does not say that he conquered Jerusalem. He only says that he shut Hezekiah up “like a bird in a cage”. An Assyrian king would surely have mentioned a conquest.
 > The number 185,000 is very large. As with other numbers in ancient war reports, it is hard to say how it is meant.
-> About 20 years later, in 681 before Christ, Sennacherib was murdered by one or more of his sons. Babylonian sources also report this. His son Esar Haddon became king.
+> About 20 years later, in 681 BC, Sennacherib was murdered by one or more of his sons. Babylonian sources also report this. His son Esar Haddon became king.
 > Ararat is the area of today’s Armenia.
 > The god Nisroch is not known otherwise.

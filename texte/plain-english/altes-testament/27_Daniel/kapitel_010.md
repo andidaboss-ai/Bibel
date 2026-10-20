@@ -21,7 +21,7 @@ until the three whole weeks were over.
 
 > **What does this mean?**
 > Chapters 10–12 belong together. They are Daniel’s last and longest vision.
-> The third year of Cyrus is about 536 before Christ. By then, many Jews had returned to Jerusalem. But Daniel, now very old, stayed in Babylon.
+> The third year of Cyrus is about 536 BC. By then, many Jews had returned to Jerusalem. But Daniel, now very old, stayed in Babylon.
 > Why does Daniel mourn? The text does not say exactly. Maybe because of the difficulties with rebuilding Jerusalem (compare Ezra 4). He fasts in part: no tasty food, no meat, no wine, no oil to care for his body.
 
 ---

@@ -52,7 +52,7 @@ after they came out of Egypt.
 
 > **What does this mean?**
 > Only the two stone tablets with the Ten Commandments lay in the ark. At the heart of the temple is God’s word.
-> “To this day”: this sentence comes from the source that Chronicles used (1 Kings 8:8). At the time of Chronicles the ark had not existed for a long time. It was lost when Jerusalem was destroyed in 587 before Christ.
+> “To this day”: this sentence comes from the source that Chronicles used (1 Kings 8:8). At the time of Chronicles the ark had not existed for a long time. It was lost when Jerusalem was destroyed in 587 BC.
 
 ---
 

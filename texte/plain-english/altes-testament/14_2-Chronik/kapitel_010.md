@@ -92,6 +92,6 @@ to flee to Jerusalem.
 [19] So Israel rebelled against David’s house to this day.
 
 > **What does this mean?**
-> From now on there are two kingdoms: in the north Israel with ten tribes, in the south Judah with Jerusalem. That happened around 930 before Christ.
+> From now on there are two kingdoms: in the north Israel with ten tribes, in the south Judah with Jerusalem. That happened around 930 BC.
 > Of all people, Rehoboam sends the chief of the forced labor to the angry people. That was very unwise. In 1 Kings 12:18 Hadoram is called “Adoram”.
 > After this, Chronicles tells almost only about Judah. The northern kingdom only appears when it has to do with Judah. But for Chronicles the north also remains part of God’s people: “Israel”.

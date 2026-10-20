@@ -134,7 +134,7 @@ They will get to know the land that you have rejected.
 They will carry the results of your unfaithfulness, which was like prostitution,
 until your dead bodies have all come to an end in the wilderness.
 [34] You explored the land for 40 days.
-For each day there will be one year.
+For each day there will be a year.
 So you will carry your guilt for 40 years.
 And you will know what it means when I turn away from you.’
 [35] I, the LORD, have spoken.

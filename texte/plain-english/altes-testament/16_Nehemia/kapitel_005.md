@@ -106,7 +106,7 @@ because the burden on this people was heavy.
 for all the good that I have done for this people.
 
 > **What does this mean?**
-> Here Nehemiah looks back on his whole time in office: twelve years, from 445 to 433 before Christ.
+> Here Nehemiah looks back on his whole time in office: twelve years, from 445 to 433 BC.
 > As governor he would have been allowed to demand payments from the people. But he did not do it, because the people were already suffering enough. He paid for everything out of his own pocket, even the guests at his table.
 > The Bible says “40 shekels of silver”. A shekel is about 0.4 ounces.
 > “We didn’t buy any land”: he did not use his position to buy land cheaply from poor people in debt.

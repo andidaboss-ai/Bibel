@@ -21,7 +21,7 @@ on the hills, and under every green tree.
 > **What does this mean?**
 > Ahaz is one of the worst kings of Judah.
 > “Made his son pass through the fire” very probably means: he burned his child as a sacrifice to a foreign god. That is a horrible crime. God’s law clearly forbids it (Leviticus 18:21; Deuteronomy 18:10). God does not want human sacrifices. Already with Abraham and Isaac he showed: no child is to be sacrificed (Genesis 22).
-> Ahaz ruled from about 735 to 715 before Christ.
+> Ahaz ruled from about 735 to 715 BC.
 
 ---
 
@@ -50,7 +50,7 @@ and he killed Rezin.
 > Syria and Israel want to force Judah to fight with them against Assyria. They lay siege to Jerusalem.
 > In this time of need the prophet Isaiah said to Ahaz: “Be careful, and stay calm! Don’t be afraid” (Isaiah 7:4). And he gave him the famous sign: “Look, the virgin will become pregnant and give birth to a son, and she will call him Immanuel” (Isaiah 7:14). Immanuel means: God with us. Later, Christians apply this word to Jesus (Matthew 1:23).
 > But Ahaz does not trust in God. Instead he buys the help of the Assyrians. He calls himself their “servant and son”. With this he makes Judah dependent on cruel Assyria.
-> In 732 before Christ the Assyrians conquer Damascus. The kingdom of the Arameans comes to an end.
+> In 732 BC the Assyrians conquer Damascus. The kingdom of the Arameans comes to an end.
 > In verse 6 some Hebrew manuscripts have “Edom” instead of “Aram” (Syria). In Hebrew the two words look almost the same. Many scholars think that the Edomites were meant originally.
 
 ---

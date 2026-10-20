@@ -35,7 +35,7 @@ Eliashib became the father of Joiada,
 and Jonathan became the father of Jaddua.
 
 > **What does this mean?**
-> This is the list of the high priests over six generations, from about 538 to after 400 before Christ.
+> This is the list of the high priests over six generations, from about 538 to after 400 BC.
 > Eliashib was high priest in the time of Nehemiah (Chapter 3:1; 13:4). “Jonathan” is called “Johanan” in verse 22. His name is also found in a letter from Elephantine in Egypt.
 
 ---
@@ -80,7 +80,7 @@ They also served in the days of Nehemiah the governor
 and of Ezra the priest and scribe.
 
 > **What does this mean?**
-> “Darius the Persian” is probably Darius II (423–404 before Christ). So this note was added somewhat later.
+> “Darius the Persian” is probably Darius II (423–404 BC). So this note was added somewhat later.
 > “Section next to section”: the choirs stood next to each other or opposite each other and sang in turns, as David had ordered (1 Chronicles 25).
 
 ---

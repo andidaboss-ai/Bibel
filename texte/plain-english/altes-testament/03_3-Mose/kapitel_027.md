@@ -15,7 +15,7 @@ by the shekel of the sanctuary.
 [4] If it is a woman, the value shall be 30 shekels.
 [5] If the person is from 5 to 20 years old,
 the value shall be 20 shekels for a male and 10 shekels for a female.
-[6] If the person is from one month to 5 years old,
+[6] If the person is from a month to 5 years old,
 the value shall be 5 shekels of silver for a male and 3 shekels of silver for a female.
 [7] If the person is 60 years old or older,
 the value shall be 15 shekels for a man and 10 shekels for a woman.
@@ -86,7 +86,7 @@ which is not part of the field he owns as family land.
 And he shall pay that value on the same day, as a holy gift to the LORD.
 [24] In the Year of Jubilee the field shall go back to the man he bought it from,
 to the man who owns the land as family land.
-[25] All your valuations shall be by the shekel of the sanctuary: 20 gerahs make one shekel.
+[25] All your valuations shall be by the shekel of the sanctuary: 20 gerahs make a shekel.
 
 > **What does this mean?**
 > A “homer” is a large measure for grain, about 58 gallons. It means a field for which you need that much seed.

@@ -99,7 +99,7 @@ and they lost their confidence.
 For they saw that this work had been done by our God.
 
 > **What does this mean?**
-> Only 52 days! In spite of mockery, threats, exhaustion and traps. The month Elul is August/September. So the wall was finished in the fall of 445 before Christ.
+> Only 52 days! In spite of mockery, threats, exhaustion and traps. The month Elul is August/September. So the wall was finished in the fall of 445 BC.
 > The enemies who wanted to frighten others now become afraid themselves. For they see: this cannot only be the work of people. God has worked here.
 > The Jewish historian Josephus later writes of two years and four months. Maybe he meant the whole construction with towers and gates.
 

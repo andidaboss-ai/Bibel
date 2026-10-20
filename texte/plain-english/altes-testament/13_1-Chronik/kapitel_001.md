@@ -6,7 +6,7 @@
 ## Before we begin: What is the first book of Chronicles?
 
 The books of Chronicles tell the history of Israel once more, from Adam to the end of the exile in Babylon. In the beginning, 1 and 2 Chronicles were one single book.
-We already know much of it from the books of Samuel and Kings. But Chronicles tells it from a different point of view. It was probably written after the return from Babylon, around 400 to 300 before Christ. At that time people asked: Who are we? Do we still belong to God’s people? Has God forgotten us?
+We already know much of it from the books of Samuel and Kings. But Chronicles tells it from a different point of view. It was probably written after the return from Babylon, around 400 to 300 BC. At that time people asked: Who are we? Do we still belong to God’s people? Has God forgotten us?
 The answer of Chronicles is: You belong. You stand in a long line that goes back to Adam. God has never given up his people.
 That is why the book begins with long lists of names (Chapters 1–9). For us today this is unusual. But for the people back then every name was important: here stood their family, their origin, their place in God’s people. That is why we do not leave out a single name here either.
 After that, the first book of Chronicles tells mainly about King David (Chapters 10–29). Especially important are the temple, the priests, the Levites and the music in worship.

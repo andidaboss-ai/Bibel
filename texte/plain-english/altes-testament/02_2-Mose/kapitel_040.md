@@ -72,7 +72,7 @@ as the LORD commanded Moses.
 [28] He hung up the screen at the door of the tabernacle.
 
 [29] He put the altar of burnt offering at the door of the tabernacle, the Tent of Meeting.
-And he offered the burnt offering and the meal offering on it,
+And he offered the burnt offering and the grain offering on it,
 as the LORD commanded Moses.
 [30] He put the basin between the Tent of Meeting and the altar.
 And he put water in it for washing.

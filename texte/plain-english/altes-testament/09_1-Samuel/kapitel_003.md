@@ -64,7 +64,7 @@ not by sacrifice and not by offering.”
 
 > **What does this mean?**
 > The first message that young Samuel receives from God is a hard message. And it is about Eli, of all people, his teacher, who is like a father to him.
-> “Ears will ring” means: It will be so terrible that people will be shocked when they hear about it.
+> “Make both ears of everyone who hears it ring” means: It will be so terrible that people will be shocked when they hear about it.
 > God says why Eli is guilty: He knew what his sons were doing, and he did not stop them. Whoever has responsibility and lets wrong happen shares in the guilt.
 > “His sons brought a curse on themselves”: This is what the Hebrew text says. The old Greek translation and many Bible teachers read: “His sons cursed God.” Jewish scribes sometimes changed such places, so that it would not be written that someone cursed God.
 > The sons misused the sacrifices. That is why no sacrifice can help them anymore.

@@ -152,7 +152,7 @@ Some of them also had children with these wives.
 
 > **What does this mean?**
 > **The return home (Chapters 1–2):** God keeps his promise. The Persian king Cyrus allows the Jews to return to Jerusalem. Almost 50,000 people set out. Every name is written down.
-> **The temple (Chapters 3–6):** First they build the altar, then the foundation. The young shout for joy, the old weep. Neighbors bring the building to a standstill for many years. But the prophets Haggai and Zechariah give them courage. In the year 515 before Christ the new temple is dedicated.
+> **The temple (Chapters 3–6):** First they build the altar, then the foundation. The young shout for joy, the old weep. Neighbors bring the building to a standstill for many years. But the prophets Haggai and Zechariah give them courage. In the year 515 BC the new temple is dedicated.
 > **Ezra (Chapters 7–10):** Almost 60 years later Ezra comes, a priest and teacher of the law. He wants to study God’s word, live by it and teach it. He trusts in God’s protection and prays for the people. At the end comes the hard decision about the mixed marriages.
 > **God’s hand:** One sentence runs through the whole book: “The good hand of our God was on us.” God also works through foreign kings. He opens doors where people see none.
 > **What we learn:** God gives a new beginning after failure. But a new beginning needs endurance, courage against opposition and a heart that takes God’s word seriously.

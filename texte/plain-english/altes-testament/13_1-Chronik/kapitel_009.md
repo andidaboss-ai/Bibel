@@ -62,7 +62,7 @@ They were very able men.
 They did the work of serving in God’s house.
 
 > **What does this mean?**
-> The priests come back too. Jedaiah and Jehoiarib are names of groups of priests (1 Chronicles 24:7). The Maccabees, a famous Jewish family in the 2nd century before Christ, came from the group of Jehoiarib.
+> The priests come back too. Jedaiah and Jehoiarib are names of groups of priests (1 Chronicles 24:7). The Maccabees, a famous Jewish family in the 2nd century BC, came from the group of Jehoiarib.
 > “The ruler of God’s house”: that was a high office in the temple, perhaps the high priest or his deputy.
 
 ---

@@ -11,7 +11,7 @@ The book has 12 chapters and two parts:
 – Chapters 1–6: Stories about Daniel and his three friends. They stay faithful to God, even when that is dangerous: in the fiery furnace, in the lions’ den.
 – Chapters 7–12: Visions about the kingdoms of the world and the coming kingdom of God.
 A special feature: Part of the book (Daniel 2:4 to 7:28) is not written in Hebrew but in Aramaic. Aramaic was the international language of that time.
-When was the book written? According to tradition, Daniel himself wrote it, in the 6th century before Christ. Many scholars think that it got its present form only in the 2nd century before Christ. At that time, King Antiochus IV persecuted the Jews and wanted to forbid their faith. Then the stories of Daniel gave courage to the people who were persecuted. Believers hold both views.
+When was the book written? According to tradition, Daniel himself wrote it, in the 6th century BC. Many scholars think that it got its present form only in the 2nd century BC. At that time, King Antiochus IV persecuted the Jews and wanted to forbid their faith. Then the stories of Daniel gave courage to the people who were persecuted. Believers hold both views.
 In the Jewish Bible, Daniel is not among the Prophets but among the “Writings.” In Christian Bibles, it is among the Prophets. Jesus calls Daniel a prophet (Matthew 24:15). And he calls himself the “Son of Man,” after Daniel 7:13.
 The basic message: The powerful people of the world may seem great and threatening. But God is the true Lord of history. His kingdom will last.
 
@@ -53,7 +53,7 @@ and Azariah he called Abednego.
 
 > **What does this mean?**
 > Verses 1–2: Nebuchadnezzar conquers Jerusalem and takes objects from the temple with him. He puts them in the temple of his own god. That was meant to show: The god of Babylon is stronger. But the text says: “The Lord handed Jehoiakim, the king of Judah, over to him.” God is in control, even in defeat.
-> The “third year of Jehoiakim” would be about 606/605 before Christ. Scholars disagree about the exact date of this first deportation.
+> The “third year of Jehoiakim” would be about 606/605 BC. Scholars disagree about the exact date of this first deportation.
 > “Shinar” is an old name for Babylonia (compare Genesis 11:2, the tower of Babel).
 > Verses 3–5: The young men from noble families are to be retrained as Babylonian officials: a new language, a new education, new food. The WEB calls Ashpenaz the “master of his eunuchs.” Eunuchs were court officials. Often they had been castrated. The text does not say whether Daniel and his friends were also made eunuchs.
 > Verse 7: Even their names are changed. Their Hebrew names reminded people of God (for example, “Daniel” = “God is my judge,” “Hananiah” = “The LORD is gracious”). The new names remind people of Babylonian gods. Someone wanted to wipe out who they were.
@@ -126,4 +126,4 @@ Enchanters are people who try to use magic words.
 > **What does this mean?**
 > The four learn all the knowledge of Babylon, and they are excellent at it. They do not refuse the foreign culture. They learn and work along with others, but they do not give up their faith.
 > Verse 20: “Ten times better” – God gives them wisdom that is greater than the wisdom of the Babylonian magicians.
-> Verse 21: Daniel lives longer than the whole Babylonian Empire. He is still there when the Persian king Cyrus conquers Babylon (539 before Christ) and allows the Jews to return home. Kings come and go, but God’s faithful servant remains.
+> Verse 21: Daniel lives longer than the whole Babylonian Empire. He is still there when the Persian king Cyrus conquers Babylon (539 BC) and allows the Jews to return home. Kings come and go, but God’s faithful servant remains.

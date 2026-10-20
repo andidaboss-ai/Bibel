@@ -242,10 +242,10 @@ All the silver of the dishes weighed 2,400 shekels (about 60 pounds), by the she
 [86] The 12 gold dishes, full of incense, weighed 10 shekels (about 4 ounces) each, by the shekel of the sanctuary.
 All the gold of the dishes weighed 120 shekels (about 3 pounds).
 [87] All the cattle for the burnt offering were 12 bulls,
-with 12 rams and 12 male lambs one year old, and their grain offering,
+with 12 rams and 12 male lambs a year old, and their grain offering,
 and 12 male goats as a sin offering.
 [88] And all the cattle for the peace offering were 24 bulls,
-with 60 rams, 60 male goats and 60 male lambs one year old.
+with 60 rams, 60 male goats and 60 male lambs a year old.
 This was the gift for the dedication of the altar, after it had been anointed.
 
 > **What does this mean?**

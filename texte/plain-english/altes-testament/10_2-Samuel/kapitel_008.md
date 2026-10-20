@@ -93,4 +93,4 @@ And David’s sons were chief ministers.
 > Zadok is mentioned here for the first time. Later he becomes the most important priest under Solomon.
 > In 1 Samuel 22:20 Abiathar was the son of Ahimelech. Here it is the other way around. Maybe Abiathar’s son had the same name as his grandfather, or the names were switched when the text was copied.
 > The “Cherethites and Pelethites” were David’s bodyguard, soldiers from other countries who were paid to serve, probably from Crete and from the people of the Philistines.
-> “Chief ministers”: that is what our English source text says. The Hebrew text literally says “priests.” That is unusual, because priests were supposed to come from the tribe of Levi. 1 Chronicles 18:17 says: “chief officials serving the king.”
+> “Chief ministers”: that is what the WEB, our English source text, says. The Hebrew text literally says “priests.” That is unusual, because priests were supposed to come from the tribe of Levi. 1 Chronicles 18:17 says: “chief officials serving the king.”

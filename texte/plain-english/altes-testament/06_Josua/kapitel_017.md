@@ -95,4 +95,4 @@ For you will drive out the Canaanites, even though they have chariots of iron an
 > The people of Joseph complain: We are so many, we need more land! Joshua answers wisely: If you are so many and so strong, then work! Clear the forest.
 > They are afraid of the iron chariots in the plain. But Joshua gives them courage: You are strong enough.
 > Joshua himself came from the tribe of Ephraim. Still, he does not favor his own tribe. He does not give it land as a gift. He challenges it.
-> The hill country was still thickly wooded at that time. Archaeologists have found that around 1200 before Christ many new small villages came into being in the hill country. Many scholars see this as the beginnings of Israel.
+> The hill country was still thickly wooded at that time. Archaeologists have found that around 1200 BC many new small villages came into being in the hill country. Many scholars see this as the beginnings of Israel.

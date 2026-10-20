@@ -114,5 +114,5 @@ And they will be wanderers among the nations.
 > Verse 15: In Gilgal, Israel had once made Saul its first king (1 Samuel 11:15), even though God himself wanted to be their king. Later there was also idol worship there.
 > “I will not love them anymore.” That is a terrible sentence. But you have to read the whole book: In Chapters 11 and 14, God says exactly the opposite: “How can I give you up?” and “I will love them freely” (14:4). God’s anger is real, but his love has the last word.
 > Verse 16: A play on words: “Ephraim” sounds like “fruitful.” But now Ephraim will bear no more fruit.
-> Verse 17: “Wanderers among the nations.” That came true: After 722 before Christ, the Israelites of the northern kingdom were taken away by the Assyrians and scattered among the nations.
+> Verse 17: “Wanderers among the nations.” That came true: After 722 BC, the Israelites of the northern kingdom were taken away by the Assyrians and scattered among the nations.
 > This verse is not permission for violence against children either. In the Bible, children always deserve protection (compare Mark 10:14: “Let the little children come to me!”).

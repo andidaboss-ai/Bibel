@@ -178,7 +178,7 @@ and it will be named after me.”
 [29] So David gathered the whole army and went to Rabbah.
 He fought against the city and captured it.
 [30] He took the crown off the head of their king.
-It was made of about 75 pounds of gold,
+It weighed a talent of gold (about 75 pounds),
 and it had precious stones in it.
 They put it on David’s head.
 David took a great amount of plunder out of the city.
@@ -192,5 +192,5 @@ Then David and his whole army went back to Jerusalem.
 > Rabbah is today’s Amman, the capital of Jordan. The “city of waters” was probably the part of the city with the water supply. After that, the city could not hold out much longer.
 > Joab leaves the glory of the victory to David. He does not want the city to be named after him.
 > The Bible says “a talent of gold.” A talent was about 75 pounds. A crown that heavy could hardly be worn. Maybe it was put on only briefly at a ceremony. Some interpreters think the crown belonged to a statue of a god: the Hebrew word for “their king” (malkam) sounds like “Milcom,” the god of the Ammonites.
-> Verse 31: the defeated Ammonites had to do forced labor. Older translations understood the verse to mean that David killed them cruelly with saws and axes. Our English source text and many new translations understand it as forced labor.
+> Verse 31: the defeated Ammonites had to do forced labor. Older translations understood the verse to mean that David killed them cruelly with saws and axes. The WEB, our English source text, and many new translations understand it as forced labor.
 > The chapter ends with a victory. But after what happened before, this victory tastes bitter. From now on David’s family will not get rid of the sword.

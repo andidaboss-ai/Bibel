@@ -65,8 +65,8 @@ and Hushim, and the sons of Aher.
 ## Naphtali (Verse 13)
 
 [13] The sons of Naphtali were
-Jahziel, Guni, Jezer, and Shallum,
-the sons of Bilhah.
+Jahziel, Guni, Jezer, Shallum,
+and the sons of Bilhah.
 
 > **What does this mean?**
 > Naphtali gets only one single verse. Bilhah was the mother of Naphtali and Dan, a servant of Rachel (Genesis 30:4–8).
@@ -146,7 +146,7 @@ and Dor and its towns.
 The descendants of Joseph, the son of Israel, lived in these places.
 
 > **What does this mean?**
-> A sad little story: sons of Ephraim are killed during a cattle raid. Their father Ephraim mourns for a long time. His brothers come and comfort him. Then a new son is born to him. He names him Beriah, “in trouble”. The name reminds of the pain, but the child is also a new beginning.
+> A sad little story: sons of Ephraim are killed during a cattle raid. Their father Ephraim mourns for a long time. His brothers come and comfort him. Then a new son is born to him. He names him Beriah, “in trouble”. The name reminds us of the pain, but the child is also a new beginning.
 > A woman as a builder of towns: Sheerah, the daughter of Ephraim, built three places. That is something special in the Bible.
 > At the end of the line stands Joshua the son of Nun, the successor of Moses. He came from Ephraim.
 > A city’s “towns” are the smaller places that belonged to a city.

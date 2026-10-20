@@ -105,7 +105,7 @@ following the census with which David his father had counted them.
 They found 153,600.
 [18] He set 70,000 of them to carry loads,
 80,000 to cut stone in the mountains,
-and 3,600 as overseers to drive the people to their work.
+and 3,600 as overseers to give the people their work.
 
 > **What does this mean?**
 > The foreigners, that is, people from the earlier peoples of Canaan, had to do forced labor for the building. For them this was a hard fate. The Bible tells it honestly.

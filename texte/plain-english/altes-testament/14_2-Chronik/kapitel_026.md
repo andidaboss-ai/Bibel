@@ -24,7 +24,7 @@ God made things go well for him.
 
 > **What does this mean?**
 > In 2 Kings 14–15, Uzziah is usually called “Azariah.” Both names mean almost the same. Uzziah means: The LORD is my strength. Azariah means: The LORD helps.
-> Uzziah ruled from about 792 to 740 before Christ, that is, for a very long time. Part of this was probably a shared rule with his father and later with his son.
+> Uzziah ruled from about 792 to 740 BC, that is, for a very long time. Part of this was probably a shared rule with his father and later with his son.
 > Eloth (also Elath) is the port on the Red Sea, near today’s Eilat. “The king” in verse 2 is probably his father Amaziah. The Hebrew can be understood like this: Uzziah built up Eloth after his father had died.
 > Zechariah was probably a teacher or prophet who advised Uzziah. He is not the same as the prophet Zechariah, after whom a book of the Bible is named. A “vision” is a message from God. Some old manuscripts have “in the fear of God.”
 > “As long as he sought the LORD”: these few words already hint that it will not stay this way.

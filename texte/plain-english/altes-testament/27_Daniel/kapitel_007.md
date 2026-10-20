@@ -175,6 +175,6 @@ But I kept the matter in my heart.”
 > Verse 25: The proud ruler (the little horn) persecutes the believers. He plans “to change the times and the law.” That means: He wants to get rid of God’s feasts and commandments.
 > “A time, and times, and half a time” is probably three and a half years (1 + 2 + ½), a limited time of suffering. The persecution has an end.
 > Who is the little horn?
-> – Many interpreters think of King Antiochus IV Epiphanes (175–164 before Christ). He forbade the Jews to keep the Sabbath and to circumcise their sons, and he made the temple in Jerusalem unclean. After about three and a half years, the temple was dedicated to God again (Jews still celebrate this today at the feast of Hanukkah).
+> – Many interpreters think of King Antiochus IV Epiphanes (175–164 BC). He forbade the Jews to keep the Sabbath and to circumcise their sons, and he made the temple in Jerusalem unclean. After about three and a half years, the temple was dedicated to God again (Jews still celebrate this today at the feast of Hanukkah).
 > – Others, especially in the Christian tradition, take the fourth animal as Rome and the little horn as an enemy of God at the end of time.
 > Important: Again and again, people have tried to apply these pictures to persons or countries of their own time, often with wrong results. The main message is clear and comforting: Even the worst tyrants have only a limited time. God’s kingdom will come and will last.

@@ -7,7 +7,7 @@
 
 The Revelation is the last book of the Bible.
 A man named John wrote it down. He was on the island of Patmos, probably as an exile. According to old tradition, he is the apostle John. Many scholars think it was another Christian prophet with the name John.
-The book was probably written around the year 95 after Christ. At that time the Roman Empire ruled. Christians were put under pressure to worship the emperor like a god. Some were persecuted.
+The book was probably written around AD 95. At that time the Roman Empire ruled. Christians were put under pressure to worship the emperor like a god. Some were persecuted.
 The Revelation is full of pictures and signs: animals, angels, numbers, colors, dragons, trumpets. Books like this are called “apocalypse.” The Greek word means: unveiling. God shows what is behind things.
 The pictures are not a map and not a timetable for the end of the world. They are like a coded message to people in need. The message is: God has the last word. Evil will not win. Jesus, the Lamb, has already won.
 Many pictures come from the Hebrew Bible, especially from the books of Daniel, Ezekiel, Isaiah and Zechariah.

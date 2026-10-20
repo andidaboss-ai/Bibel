@@ -42,7 +42,7 @@ more than the nations had done whom the LORD destroyed before the people of Isra
 > “The stars of the sky” (the WEB says “the army of the sky”) are the stars and planets. The Assyrians worshiped them as gods. Manasseh takes over this worship, probably also to please the Assyrians. Assyrian inscriptions name “Manasseh, king of Judah” as one of the kings who had to pay tribute.
 > He even puts an idol in God’s temple. That is the worst breaking of the covenant.
 > He also sacrifices his son in the fire, like his grandfather Ahaz.
-> Manasseh ruled from about 697 to 642 before Christ, at first together with his father.
+> Manasseh ruled from about 697 to 642 BC, at first together with his father.
 
 ---
 
@@ -118,4 +118,4 @@ And his son Josiah became king in his place.
 > Amon continues on his father’s way. After only two years he is murdered.
 > “The people of the land” were probably the free men of Judah who owned land. They punish the murderers and make sure that David’s family stays on the throne.
 > The new king is a child of eight years: Josiah. He will become one of the best kings of Judah. 300 years before, a prophet had already named him (1 Kings 13:2).
-> Amon ruled from about 642 to 640 before Christ.
+> Amon ruled from about 642 to 640 BC.

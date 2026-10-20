@@ -59,7 +59,7 @@ Libni and Shimei.
 Amram, Izhar, Hebron, and Uzziel.
 [19] The sons of Merari were
 Mahli and Mushi.
-These are the families of the Levites, listed by their fathers.
+These are the families of the Levites, listed by their ancestors’ families.
 [20] The descendants of Gershom were
 his son Libni,
 his son Jahath,
@@ -102,7 +102,7 @@ and his son Asaiah.
 > **What does this mean?**
 > The Levites were divided into three large families, after the three sons of Levi: Gershom (or Gershon), Kohath and Merari. Each family had its own tasks (Numbers 3–4).
 > Interesting: the prophet Samuel is also counted among the Levites here. In 1 Samuel 1:1 his family is connected with Ephraim. Probably he was a Levite who lived in the land of Ephraim.
-> Samuel’s sons are called Joel and Abijah (1 Samuel 8:2). In the Hebrew text of verse 28 the name Joel is missing. The WEB adds it from verse 33.
+> Samuel’s sons are called Joel and Abijah (1 Samuel 8:2). In the Hebrew text of verse 28 the name Joel is missing. The WEB, our English source text, adds it from verse 33.
 
 ---
 
@@ -188,13 +188,13 @@ Jattir, Eshtemoa with its pasture land,
 Geba with its pasture land, Allemeth with its pasture land,
 and Anathoth with its pasture land.
 Their families had 13 cities in all.
-[61] The other descendants of Kohath were given ten cities by lot.
+[61] The other descendants of Kohath were given 10 cities by lot.
 These cities came from the family of the tribe,
 from the half-tribe of Manasseh.
 [62] The descendants of Gershom, family by family, were given 13 cities.
 These cities came from the tribe of Issachar, the tribe of Asher, the tribe of Naphtali,
 and the tribe of Manasseh in Bashan.
-[63] The descendants of Merari, family by family, were given twelve cities by lot.
+[63] The descendants of Merari, family by family, were given 12 cities by lot.
 These cities came from the tribe of Reuben, the tribe of Gad, and the tribe of Zebulun.
 [64] So the people of Israel gave the Levites these cities with their pasture land.
 [65] They gave them by lot

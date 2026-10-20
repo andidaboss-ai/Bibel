@@ -29,7 +29,7 @@ The woman was wise and had a beautiful face.
 But the man was rude and evil in what he did.
 He was from the family of Caleb.
 [4] In the wilderness David heard that Nabal was shearing his sheep.
-[5] So David sent ten young men.
+[5] So David sent 10 young men.
 David said to the young men,
 “Go up to Carmel, go to Nabal,
 and greet him in my name.
@@ -90,10 +90,10 @@ For disaster has been decided against our master and against his whole house.
 And he is such a worthless fellow that no one can talk to him.”
 
 [18] Then Abigail hurried.
-She took 200 loaves of bread, two containers of wine,
-five sheep ready to cook,
+She took 200 loaves of bread, 2 containers of wine,
+5 sheep ready to cook,
 about 10 gallons of roasted grain,
-one hundred clusters of raisins and two hundred cakes of figs,
+100 clusters of raisins, and 200 cakes of figs,
 and loaded them on donkeys.
 [19] She said to her young men,
 “Go on ahead of me.
@@ -204,12 +204,12 @@ So she told him nothing until morning light.
 [37] In the morning, when the wine had gone out of Nabal,
 his wife told him these things.
 Then his heart died within him, and he became like a stone.
-[38] About ten days later the LORD struck Nabal, so that he died.
+[38] About 10 days later the LORD struck Nabal, so that he died.
 
 > **What does this mean?**
 > Nabal celebrates “like the feast of a king.” He acts as if he were the king, while the true future king lives in the wilderness.
 > When he is sober in the morning and hears how close he came to death, he is so shocked that “his heart died within him.” Maybe it was a stroke or a heart attack.
-> Ten days later he dies. The Bible says: The LORD struck him. David did not have to take revenge. God judged him himself.
+> After 10 days he dies. The Bible says: The LORD struck him. David did not have to take revenge. God judged him himself.
 
 ---
 

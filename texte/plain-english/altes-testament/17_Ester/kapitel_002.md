@@ -45,7 +45,7 @@ Mordecai took her as his own daughter.
 
 > **What does this mean?**
 > Mordecai comes from the tribe of Benjamin, like King Saul, whose father was also called Kish. That becomes important later (Chapter 3:1).
-> Verse 6 probably means: his family (maybe his great-grandfather Kish) had been carried away in 597 before Christ with King Jeconiah (Jehoiachin). Otherwise Mordecai himself would have been more than 100 years old.
+> Verse 6 probably means: his family (maybe his great-grandfather Kish) had been carried away in 597 BC with King Jeconiah (Jehoiachin). Otherwise Mordecai himself would have been more than 100 years old.
 > Esther has two names: Hadassah is Hebrew and means “myrtle”. Esther is Persian and probably means “star”.
 > Esther is an orphan. Her cousin Mordecai has brought her up like a daughter. He is a loving foster father.
 
@@ -122,7 +122,7 @@ He gave gifts, as generously as a king can.
 
 > **What does this mean?**
 > Esther is modest. She asks for nothing special, but listens to Hegai’s advice.
-> The month Tebeth is December/January. The seventh year of the king is about 479 before Christ. So four years lay between Chapter 1 and Chapter 2. In this time Xerxes fought his war against Greece.
+> The month Tebeth is December/January. The seventh year of the king is about 479 BC. So four years lay between Chapter 1 and Chapter 2. In this time Xerxes fought his war against Greece.
 > Esther becomes queen. A Jewish orphan now sits on the throne of the greatest empire in the world. No one knows yet why this is so important.
 > “Holiday”: the Hebrew word can also mean “tax relief”. It means a release from work or from taxes.
 
@@ -153,4 +153,4 @@ All this was written in the book of the chronicles while the king watched.
 > Esther is queen now, but she still listens to her foster father. She is faithful to him.
 > Mordecai saves the king’s life. But he gets no reward. The matter is only written in a book and seems forgotten. But in Chapter 6 exactly this book will play a big role. In the story of Esther nothing happens by chance.
 > “Gallows”: word for word it says “wood” or “stake”. Among the Persians, condemned people were often impaled on a stake or hanged on it.
-> Xerxes really was murdered later, in the year 465 before Christ, by court officials.
+> Xerxes really was murdered later, in the year 465 BC, by court officials.

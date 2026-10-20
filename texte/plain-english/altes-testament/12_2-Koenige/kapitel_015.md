@@ -30,7 +30,7 @@ And his son Jotham became king in his place.
 > Because he was a leper, he had to live apart. His son Jotham ruled for him.
 > In the year that King Uzziah died, the prophet Isaiah had his great vision in the temple, in which God called him (Isaiah 6:1).
 > In Jerusalem a stone tablet was found that was made much later. It says in Aramaic that the bones of Uzziah, king of Judah, were brought here. Today it is in the Israel Museum.
-> Azariah (Uzziah) ruled from about 792 to 740 before Christ, partly together with his father and his son.
+> Azariah (Uzziah) ruled from about 792 to 740 BC, partly together with his father and his son.
 
 ---
 
@@ -93,7 +93,7 @@ and his son Pekahiah became king in his place.
 
 > **What does this mean?**
 > Now a new great power appears: Assyria, in the area of today’s Iraq. The Assyrians were feared for their cruelty.
-> “Pul” is another name for Tiglath Pileser III, who ruled from 745 to 727 before Christ. He is known from many Assyrian inscriptions. They also mention that “Menahem of Samaria” paid him tribute.
+> “Pul” is another name for Tiglath Pileser III, who ruled from 745 to 727 BC. He is known from many Assyrian inscriptions. They also mention that “Menahem of Samaria” paid him tribute.
 > The Bible says “1,000 talents of silver” (a talent is about 75 pounds) and “50 shekels” for each man (a shekel is about 0.4 ounces). If you do the math, about 60,000 wealthy men had to pay.
 > Menahem buys himself protection. With this, Israel becomes dependent on Assyria.
 
@@ -131,7 +131,7 @@ look, they are written in the book of the chronicles of the kings of Israel.
 
 > **What does this mean?**
 > One murder of a king follows the next.
-> Under Pekah the Assyrians conquer the whole north of Israel, Galilee, and the land east of the Jordan. For the first time many Israelites are carried away to Assyria. That was about 733/732 before Christ.
+> Under Pekah the Assyrians conquer the whole north of Israel, Galilee, and the land east of the Jordan. For the first time many Israelites are carried away to Assyria. That was about 733/732 BC.
 > The northern kingdom gets smaller and smaller. Almost only the area around the capital city Samaria is left.
 > In this time the prophet Isaiah speaks of “the land of Zebulun and the land of Naphtali”: “The people who walked in darkness have seen a great light” (Isaiah 9:1–2). Matthew applies this word to Jesus, who began his work in Galilee (Matthew 4:13–16).
 > Pekah’s 20 years are hard to fit in. Perhaps he had already ruled earlier in the east of the land, alongside other kings.
@@ -163,4 +163,4 @@ And his son Ahaz became king in his place.
 > Jotham was a good king, like his father Uzziah.
 > Syria and Israel join together against Judah. They want to force Judah to fight with them against Assyria. That is told in the next chapter.
 > Compared with the northern kingdom, Judah is more stable: there the sons follow their fathers, from David’s family. In the north, on the other hand, there were six kings in only about 20 years, and four of them were murdered.
-> Jotham ruled from about 750 to 735 before Christ, at first for his sick father.
+> Jotham ruled from about 750 to 735 BC, at first for his sick father.

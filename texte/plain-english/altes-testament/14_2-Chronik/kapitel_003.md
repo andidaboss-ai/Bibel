@@ -8,7 +8,7 @@
 [1] Then Solomon began to build the LORD’s house in Jerusalem
 on Mount Moriah,
 where the LORD had appeared to David his father,
-in the place that David had chosen,
+in the place that David had prepared and chosen,
 on the threshing floor of Ornan the Jebusite.
 [2] He began to build on the second day of the second month,
 in the fourth year of his reign.
@@ -22,7 +22,7 @@ He covered it inside with pure gold.
 > **What does this mean?**
 > The temple is built exactly where the angel stopped and David built the altar (1 Chronicles 21).
 > Mount Moriah is the place where Abraham was to sacrifice his son Isaac and where God stopped him (Genesis 22:2). Only here in 2 Chronicles 3:1 does the Bible call the Temple Mount by this name. In this way two great stories of the Bible are connected: Abraham and Isaac, David and the angel. Both are stories in which God keeps life safe.
-> That was around the year 966 before Christ.
+> That was around the year 966 BC.
 > The Bible says “60 cubits long and 20 cubits wide”. A cubit is about 18 inches. “By the old measure” means: by the old, longer cubit.
 > The height of the porch, “120” cubits (about 180 feet), is very high, much higher than the temple itself (30 cubits, 1 Kings 6:2). Some old manuscripts have “20 cubits” here. Maybe the larger number is a copying mistake.
 
@@ -30,7 +30,7 @@ He covered it inside with pure gold.
 
 ## Gold and precious stones (Verses 5–9)
 
-[5] He covered the larger room with cypress wood
+[5] He gave the larger room a ceiling of cypress wood
 and covered it with fine gold.
 He decorated it with palm trees and chains.
 [6] He decorated the house with precious stones, for beauty.
@@ -40,8 +40,8 @@ and he carved cherubim on the walls.
 [8] He made the most holy place.
 Its length, the same as the width of the house, was about 30 feet,
 and its width was about 30 feet.
-He covered it with fine gold, about 45,000 pounds.
-[9] The weight of the nails was about 1¼ pounds of gold.
+He covered it with fine gold, 600 talents (about 45,000 pounds).
+[9] The weight of the nails was 50 shekels of gold (about 1¼ pounds).
 He also covered the upper rooms with gold.
 
 > **What does this mean?**
@@ -49,7 +49,7 @@ He also covered the upper rooms with gold.
 > Palm trees and cherubim remind us of the Garden of Eden. There cherubim guarded the entrance to the garden (Genesis 3:24). The temple was like a picture of paradise, the place where God and people are together.
 > Nobody knows where “Parvaim” was. It was known for its gold.
 > The most holy place was a cube: 20 cubits long, wide and high (compare 1 Kings 6:20). A cubit is about 18 inches.
-> The Bible says “600 talents” of gold (a talent is about 75 pounds) and “50 shekels” for the nails (a shekel is about 0.4 ounces).
+> A talent is about 75 pounds. A shekel is about 0.4 ounces.
 
 ---
 

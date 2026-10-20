@@ -6,9 +6,9 @@
 ## Before we begin: What is the book of Ezra?
 
 The book of Ezra tells how the Jews return to their homeland after the exile in Babylon.
-In the year 586 before Christ the Babylonians had destroyed Jerusalem and the temple. Many people were carried away to Babylon. About 50 years later the Persian king Cyrus conquered Babylon. He allowed the Jews to return home and to build their temple again.
+In the year 586 BC the Babylonians had destroyed Jerusalem and the temple. Many people were carried away to Babylon. About 50 years later the Persian king Cyrus conquered Babylon. He allowed the Jews to return home and to build their temple again.
 The book has two parts:
-– Chapters 1–6: The first group returns, led by Zerubbabel and the priest Jeshua. They build the temple again, in spite of much opposition. In the year 515 before Christ the new temple is dedicated.
+– Chapters 1–6: The first group returns, led by Zerubbabel and the priest Jeshua. They build the temple again, in spite of much opposition. In the year 515 BC the new temple is dedicated.
 – Chapters 7–10: About 60 years later Ezra comes to Jerusalem. He is a priest and a scribe, a teacher of the law. He teaches the people God’s law and calls them to renewal.
 The book shows: God keeps his promises. He has not forgotten his people. He can even use foreign kings to help his people.
 Part of the book (Chapter 4:8 to 6:18 and 7:12–26) is not written in Hebrew, but in Aramaic. That was the official language of the Persian Empire at that time. That is why the letters and decrees of the kings are copied word for word there.
@@ -38,7 +38,7 @@ in addition to the freewill offering for God’s house which is in Jerusalem.’
 
 > **What does this mean?**
 > The book begins with exactly the words with which Chronicles ends (2 Chronicles 36:22–23). The story continues without a break.
-> The “first year of Cyrus” is the first year of his rule over Babylon, that is 538 before Christ.
+> The “first year of Cyrus” is the first year of his rule over Babylon, that is 538 BC.
 > Jeremiah had announced that the exile would end after about 70 years (Jeremiah 25:11–12; 29:10). And the prophet Isaiah had even called Cyrus by name (Isaiah 44:28; 45:1).
 > “The LORD stirred up the spirit of Cyrus”: God also works through a king who does not know him.
 > Cyrus himself worshiped many gods. On the “Cyrus Cylinder” he thanks the Babylonian god Marduk. In his decree he probably used, for each people, the name of that people’s god.

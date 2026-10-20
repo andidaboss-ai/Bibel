@@ -81,7 +81,7 @@ Then they will know that I am the LORD.’”
 
 > **What does this mean?**
 > Verse 10: “Burden”: The Hebrew word “massa” means both “burden” and “message” (of a prophecy). Ezekiel carries a real burden on his shoulder, and at the same time it is a message. (Compare Jeremiah 23:33–40.)
-> The “prince” is King Zedekiah, the last king of Judah. That is exactly what happened: When Jerusalem fell in 586 before Christ, Zedekiah ran away at night through an opening in the wall. He was caught, and his eyes were put out. Then he was taken to Babylon (2 Kings 25:4–7; Jeremiah 39:4–7).
+> The “prince” is King Zedekiah, the last king of Judah. That is exactly what happened: When Jerusalem fell in 586 BC, Zedekiah ran away at night through an opening in the wall. He was caught, and his eyes were put out. Then he was taken to Babylon (2 Kings 25:4–7; Jeremiah 39:4–7).
 > Verse 13: “I will bring him to Babylon, to the land of the Chaldeans. But he will not see it, even though he will die there.” That sounds like a riddle, but it came true word for word: Zedekiah was blind when he came to Babylon.
 > Verse 16: A few survivors will tell the other nations what happened and why.
 

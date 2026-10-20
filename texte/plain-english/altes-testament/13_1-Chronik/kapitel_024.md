@@ -75,7 +75,7 @@ just as the LORD, the God of Israel, had commanded him.
 > **What does this mean?**
 > These 24 divisions of priests still existed at the time of Jesus.
 > The eighth division, Abijah, is especially well known: the priest Zacharias, the father of John the Baptist, belonged to it. When he was serving in the temple, the angel Gabriel appeared to him (Luke 1:5–13).
-> The first division, Jehoiarib, was the family of the Maccabees, who in the 2nd century before Christ freed the temple from foreign gods. The festival of lights, Hanukkah, remembers this.
+> The first division, Jehoiarib, was the family of the Maccabees, who in the 2nd century BC freed the temple from foreign gods. The festival of lights, Hanukkah, remembers this.
 > In Caesarea in Israel, pieces of a stone inscription were found on which the 24 divisions of priests are listed, with the places in Galilee where they lived after the temple was destroyed.
 > In some Bibles “Hakkoz” is called “Koz.” The “ha” is the Hebrew article.
 

@@ -137,6 +137,8 @@ Use these renderings everywhere, in the Bible text and in the boxes:
 | righteous / righteousness | keep where needed; explain once per book (“Righteous means: living right before God.”) |
 | Sheol | keep, with “(the world of the dead)” the first time in a chapter |
 | Selah | keep as it is |
+| meal offering / trespass offering | grain offering / guilt offering (peace offering, wave offering, heave offering stay) |
+| before Christ / after Christ | BC / AD (1000 BC, AD 70, the 8th century BC) |
 
 - Numbers: from 10 up always digits (40 days, 100 shekels, 24,000); one to nine may be words. Never mixed within one list or verse.
 - Talents and shekels: “100 talents of silver (about 7,500 pounds)”: the old unit stays, the weight follows in brackets. One talent = about 75 pounds; one shekel = about 0.4 ounces.

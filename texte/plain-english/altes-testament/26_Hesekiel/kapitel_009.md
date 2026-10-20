@@ -73,7 +73,7 @@ He said,
 “I have done what you commanded me.”
 
 > **What does this mean?**
-> This text is very hard to read. In a vision, it describes the destruction of Jerusalem that really happened in the year 586 before Christ through the Babylonians. Children, women, and old people also died then. The Bible does not keep quiet about this horror.
+> This text is very hard to read. In a vision, it describes the destruction of Jerusalem that really happened in the year 586 BC through the Babylonians. Children, women, and old people also died then. The Bible does not keep quiet about this horror.
 > Very important: This text is not an order for people to follow. No one may use it as an excuse to do violence to others. Judgment belongs to God alone (compare Romans 12:19). Violence against children and defenseless people is always wrong.
 > Verse 6: “Begin at my holy place.” The judgment begins with those who should have known best: with the elders at the temple. Compare 1 Peter 4:17: “For the time has come for judgment to begin with the household of God.”
 > Verse 8: Ezekiel throws himself down and cries out: “Will you destroy everyone who is left in Israel?” He speaks up for his people, as Abraham did for Sodom (Genesis 18) and Moses did for Israel (Exodus 32). A prophet is not cold. He suffers along with the people.

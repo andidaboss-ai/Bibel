@@ -74,7 +74,7 @@ with network and pomegranates all around it, all of bronze.
 And the second pillar with its network was just the same.
 
 > **What does this mean?**
-> This is the saddest day in the history of ancient Israel: the temple that Solomon had built almost 400 years before is burned. This happened in the year 587 or 586 before Christ.
+> This is the saddest day in the history of ancient Israel: the temple that Solomon had built almost 400 years before is burned. This happened in the year 587 or 586 BC.
 > Jews remember this day to this day. On the fast day “Tisha B’Av” (the 9th day of the month of Av) they mourn the destruction of the first and the second temple. Then the Book of Lamentations is read, which laments this destruction.
 > Jeremiah 52:12 has the tenth day instead of the seventh. Perhaps Nebuzaradan arrived on the seventh day and set the temple on fire on the tenth.
 > The exact description of the pillars and objects reminds us how splendid everything once was (1 Kings 7:15–22). Now it is smashed into scrap metal.
@@ -154,10 +154,10 @@ Jehoiachin always ate at the king’s table for the rest of his life.
 a portion every day, for the rest of his life.
 
 > **What does this mean?**
-> After so much darkness the book ends with a small light. In about 560 before Christ King Jehoiachin is set free from prison in Babylon. He may eat at the king’s table and is honored.
+> After so much darkness the book ends with a small light. In about 560 BC King Jehoiachin is set free from prison in Babylon. He may eat at the king’s table and is honored.
 > This is a sign of hope: David’s family still lives. God has not forgotten his promise to David. The “lamp” has not gone out completely.
 > In Babylon clay tablets were found on which the oil rations for Jehoiachin, king of Judah, and his sons are written down. Today they are in a museum in Berlin.
-> Evilmerodach (in Babylonian Amel-Marduk) was the son of Nebuchadnezzar. He ruled only briefly, from 562 to 560 before Christ.
+> Evilmerodach (in Babylonian Amel-Marduk) was the son of Nebuchadnezzar. He ruled only briefly, from 562 to 560 BC.
 > A descendant of Jehoiachin was Zerubbabel, who later led the return to Jerusalem (Ezra 3:2). In the Gospel of Matthew Jehoiachin (there called Jechoniah) is in the family tree of Jesus (Matthew 1:12).
 
 ---
@@ -165,11 +165,11 @@ a portion every day, for the rest of his life.
 ## Looking back: What have we read in 2 Kings?
 
 > **What does this mean?**
-> The Second Book of Kings tells almost 300 years of history, from about 850 to 560 before Christ.
+> The Second Book of Kings tells almost 300 years of history, from about 850 to 560 BC.
 > **The prophets:** At the beginning are Elijah and Elisha. Elijah goes up to heaven in a chariot of fire. Elisha does many miracles: he helps poor widows, heals the sick, and gives food to the hungry. He even heals the enemy general Naaman and lets captured enemies go free. Later Jonah, Amos, Hosea, Isaiah, Jeremiah, and the prophetess Huldah warn the people.
-> **The fall of the northern kingdom:** In the north many kings follow one another, most of them unfaithful to God, many of them murdered. In 722 before Christ the Assyrians conquer Samaria. The Bible asks: Why? And it answers: because they did not listen to God’s prophets.
+> **The fall of the northern kingdom:** In the north many kings follow one another, most of them unfaithful to God, many of them murdered. In 722 BC the Assyrians conquer Samaria. The Bible asks: Why? And it answers: because they did not listen to God’s prophets.
 > **Judah:** In the south there are good and evil kings. Hezekiah trusts God and sees Jerusalem rescued from the Assyrians. Josiah finds the forgotten book of the law and renews the covenant. But the guilt, especially under Manasseh, weighs too heavily.
-> **The fall of Jerusalem:** In 587 before Christ the Babylonians destroy Jerusalem and the temple. The people are taken away to Babylon.
+> **The fall of Jerusalem:** In 587 BC the Babylonians destroy Jerusalem and the temple. The people are taken away to Babylon.
 > **The hope:** The book does not end with death, but with a king set free who may eat at the king’s table. God has not forgotten his people and his promises.
 > **The lesson of the book:** God is patient. He warns again and again. But whoever leaves him for good loses what he has received from God. At the same time the book shows: even after the greatest disaster, God’s faithfulness has not come to an end.
 > **What comes next?** The books of Chronicles tell the same story once more, from a different point of view. The books of Ezra and Nehemiah tell of the return from Babylon and the rebuilding of Jerusalem.

@@ -22,7 +22,7 @@ Each person must die for their own sin.”
 
 > **What does this mean?**
 > This story is also told in 2 Kings 14.
-> Amaziah ruled from about 796 to 767 before Christ.
+> Amaziah ruled from about 796 to 767 BC.
 > Verse 2 sums up his life: he did what was right, “but not with a perfect heart.” He was only half in it. This will show itself in the course of the chapter.
 > Verse 4 quotes Deuteronomy 24:16. Back then, this was a great step forward: it was usual to kill the whole family of a traitor. God’s law says: each person is responsible only for their own guilt (compare Ezekiel 18:20).
 

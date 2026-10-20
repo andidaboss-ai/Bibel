@@ -181,7 +181,7 @@ And the people of the land took Jehoahaz the son of Josiah,
 anointed him, and made him king in his father’s place.
 
 > **What does this mean?**
-> In the year 609 before Christ the Egyptian Pharaoh Necoh II marches north. He wants to help the Assyrians, who are fighting against the Babylonians. Josiah stands in his way and is killed at Megiddo. He is only 39 years old.
+> In the year 609 BC the Egyptian Pharaoh Necoh II marches north. He wants to help the Assyrians, who are fighting against the Babylonians. Josiah stands in his way and is killed at Megiddo. He is only 39 years old.
 > The Bible does not say exactly why Josiah went out against Necoh. Perhaps he wanted to keep Assyria, the old enemy, from being rescued.
 > His early death was a great shock. Jeremiah wrote a lament about him (2 Chronicles 35:25).
 > Megiddo was an important place for battles. From it comes the name “Armageddon” (mountain of Megiddo) in Revelation 16:16.
@@ -219,4 +219,4 @@ just as his fathers had done.
 > The Jeremiah in verse 31 is not the prophet Jeremiah, but another man from Libnah.
 > The Bible says “100 talents of silver and a talent of gold.” A talent is about 75 pounds.
 > Jehoiakim was a harsh king. The prophet Jeremiah accused him because he had a splendid palace built for himself without paying the workers their wages (Jeremiah 22:13–19). Jehoiakim even burned the scroll with Jeremiah’s words (Jeremiah 36).
-> Jehoiakim ruled from about 609 to 598 before Christ.
+> Jehoiakim ruled from about 609 to 598 BC.

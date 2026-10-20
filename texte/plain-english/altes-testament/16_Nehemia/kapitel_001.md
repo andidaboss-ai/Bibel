@@ -7,7 +7,7 @@
 
 The book of Nehemiah continues the book of Ezra. Originally both were one single book.
 Nehemiah was a Jew who lived at the Persian royal court. He was cupbearer to King Artaxerxes (Artaxerxes I). That was a position of trust.
-In the year 445 before Christ Nehemiah hears that the walls of Jerusalem still lie in ruins. He asks the king to let him go to Jerusalem to build them again.
+In the year 445 BC Nehemiah hears that the walls of Jerusalem still lie in ruins. He asks the king to let him go to Jerusalem to build them again.
 The book tells:
 – Chapters 1–7: Nehemiah and the people build the wall again in only 52 days, in spite of mockery, threats and opposition.
 – Chapters 8–10: Ezra reads the law to the people. The people confess their guilt and make a covenant with God.
@@ -36,7 +36,7 @@ I sat down and wept, and mourned for several days.
 And I fasted and prayed before the God of heaven.
 
 > **What does this mean?**
-> The month Chislev is November/December. The “twentieth year” is the twentieth year of the reign of King Artaxerxes, that is 445 before Christ (Chapter 2:1).
+> The month Chislev is November/December. The “twentieth year” is the twentieth year of the reign of King Artaxerxes, that is 445 BC (Chapter 2:1).
 > Susa was one of the capitals of the Persian Empire, in today’s Iran. The story of Esther also takes place there.
 > Hanani was maybe really Nehemiah’s own brother (compare Chapter 7:2).
 > The wall had already been destroyed by the Babylonians more than 140 years before. Maybe a later attempt to build it again had failed (Ezra 4:23). At that time a city without a wall was without protection and was seen as a disgrace.

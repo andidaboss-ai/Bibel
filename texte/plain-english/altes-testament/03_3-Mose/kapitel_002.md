@@ -1,23 +1,23 @@
 # Leviticus – Chapter 2
-### The meal offering
+### The grain offering
 
 ---
 
-## The meal offering of flour (Verses 1–3)
+## The grain offering of flour (Verses 1–3)
 
-[1] “‘When anyone brings a meal offering to the LORD as an offering,
+[1] “‘When anyone brings a grain offering to the LORD as an offering,
 his offering shall be of fine flour.
 He shall pour oil on it and put frankincense on it.
 [2] He shall bring it to Aaron’s sons, the priests.
 He shall take a handful of its fine flour and of its oil, with all its frankincense.
 And the priest shall burn this memorial part on the altar,
 as an offering made by fire, a pleasant smell to the LORD.
-[3] What is left of the meal offering belongs to Aaron and his sons.
+[3] What is left of the grain offering belongs to Aaron and his sons.
 It is a most holy part of the LORD’s offerings made by fire.
 
 > **What does this mean?**
-> Verse 1: A meal offering is an offering of flour or grain. Frankincense is a sweet-smelling resin from a tree. It gives off a pleasant smoke when it burns.
-> The meal offering is an offering without an animal. People bring flour, oil and frankincense – things that come from work in the fields. It is a thank-you to God for our daily bread.
+> Verse 1: A grain offering is an offering of flour or grain. Frankincense is a sweet-smelling resin from a tree. It gives off a pleasant smoke when it burns.
+> The grain offering is an offering without an animal. People bring flour, oil and frankincense – things that come from work in the fields. It is a thank-you to God for our daily bread.
 > Only a handful is burned. This is called the “memorial part.” It stands for the whole offering. It is meant to remind God of the person who brings it.
 > The rest is food for the priests. The priests had no land of their own. This is how God cared for them.
 
@@ -25,20 +25,20 @@ It is a most holy part of the LORD’s offerings made by fire.
 
 ## Baked, on a griddle or in a pan (Verses 4–10)
 
-[4] “‘When you bring a meal offering that is baked in the oven,
+[4] “‘When you bring a grain offering that is baked in the oven,
 it shall be cakes of fine flour without yeast, mixed with oil,
 or thin wafers without yeast, spread with oil.
-[5] If your offering is a meal offering made on a griddle,
+[5] If your offering is a grain offering made on a griddle,
 it shall be of fine flour without yeast, mixed with oil.
-[6] Cut it in pieces and pour oil on it. It is a meal offering.
-[7] If your offering is a meal offering made in a pan,
+[6] Cut it in pieces and pour oil on it. It is a grain offering.
+[7] If your offering is a grain offering made in a pan,
 it shall be made of fine flour with oil.
 
-[8] “‘Bring the meal offering that is made of these things to the LORD.
+[8] “‘Bring the grain offering that is made of these things to the LORD.
 It shall be given to the priest, and he shall bring it to the altar.
-[9] The priest shall take the memorial part from the meal offering and burn it on the altar,
+[9] The priest shall take the memorial part from the grain offering and burn it on the altar,
 as an offering made by fire, a pleasant smell to the LORD.
-[10] What is left of the meal offering belongs to Aaron and his sons.
+[10] What is left of the grain offering belongs to Aaron and his sons.
 It is a most holy part of the LORD’s offerings made by fire.
 
 > **What does this mean?**
@@ -49,12 +49,12 @@ It is a most holy part of the LORD’s offerings made by fire.
 
 ## No yeast, no honey – but always salt (Verses 11–13)
 
-[11] “‘No meal offering that you bring to the LORD may be made with yeast.
+[11] “‘No grain offering that you bring to the LORD may be made with yeast.
 For you may not burn any yeast or any honey as an offering made by fire to the LORD.
 [12] You may bring them to the LORD as an offering of first fruits.
 But they shall not go up on the altar as a pleasant smell.
-[13] You shall season every offering of your meal offering with salt.
-Do not let the salt of the covenant of your God be missing from your meal offering.
+[13] You shall season every offering of your grain offering with salt.
+Do not let the salt of the covenant of your God be missing from your grain offering.
 You shall bring salt with all your offerings.
 
 > **What does this mean?**
@@ -65,12 +65,12 @@ You shall bring salt with all your offerings.
 
 ---
 
-## The meal offering of first fruits (Verses 14–16)
+## The grain offering of first fruits (Verses 14–16)
 
-[14] “‘If you bring the LORD a meal offering of first fruits,
-you shall bring fresh heads of grain as the meal offering of your first fruits,
+[14] “‘If you bring the LORD a grain offering of first fruits,
+you shall bring fresh heads of grain as the grain offering of your first fruits,
 roasted in the fire and crushed.
-[15] Put oil on it and lay frankincense on it. It is a meal offering.
+[15] Put oil on it and lay frankincense on it. It is a grain offering.
 [16] The priest shall burn some of the crushed grain and some of the oil as its memorial part,
 together with all its frankincense.
 It is an offering made by fire to the LORD.

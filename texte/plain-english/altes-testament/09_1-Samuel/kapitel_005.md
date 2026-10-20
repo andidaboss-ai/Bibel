@@ -74,5 +74,5 @@ And the cry of the city went up to heaven.
 
 > **What does this mean?**
 > Gath and Ekron were other cities of the Philistines. No city wants to have the ark. Wherever it goes, the disease breaks out.
-> This is almost like a repeat of the plagues in Egypt. The Philistines had reminded themselves of them (Chapter 4:8). Now they experience it themselves.
+> This is almost like a repeat of the plagues in Egypt. The Philistines had reminded themselves of them (1 Samuel 4:8). Now they experience it themselves.
 > The ark, which the Israelites had lost like spoils of war, becomes a burden for the Philistines that no one can bear. God does not need an army to defend himself.

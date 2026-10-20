@@ -49,8 +49,8 @@ They pointed toward the four winds of the sky.
 > From Chapter 8 on, the book is written in Hebrew again.
 > In a vision, Daniel sees himself in Susa, which later became the capital of the Persian Empire (in today’s Iran).
 > Here, the meaning is given in the text itself (verses 20–21): The ram with two horns is the kingdom of the Medes and Persians. The longer horn that grew later is Persia, which became stronger than Media.
-> The male goat from the west is Greece. He is so fast that he does not touch the ground. The great horn is the first king: Alexander the Great. He conquered the huge Persian Empire in only a few years (334–331 before Christ).
-> Verse 8: At the height of his power, “the great horn was broken”: Alexander died when he was only 32 years old (323 before Christ). His empire was divided among his generals, into four parts.
+> The male goat from the west is Greece. He is so fast that he does not touch the ground. The great horn is the first king: Alexander the Great. He conquered the huge Persian Empire in only a few years (334–331 BC).
+> Verse 8: At the height of his power, “the great horn was broken”: Alexander died when he was only 32 years old (323 BC). His empire was divided among his generals, into four parts.
 
 ---
 
@@ -85,9 +85,9 @@ Then the holy place will be made clean again.”
 
 > **What does this mean?**
 > Out of one of the four kingdoms grows a little horn that becomes very powerful. It attacks the “glorious land” (Israel), stops the daily offering in the temple, and makes the holy place unclean.
-> Most interpreters, Jewish and Christian, see in it King Antiochus IV Epiphanes from the kingdom of the Seleucids (one of the four kingdoms that came after Alexander). In the year 167 before Christ, he forbade the Jewish worship of God and set up an altar for the Greek god Zeus in the temple.
+> Most interpreters, Jewish and Christian, see in it King Antiochus IV Epiphanes from the kingdom of the Seleucids (one of the four kingdoms that came after Alexander). In the year 167 BC, he forbade the Jewish worship of God and set up an altar for the Greek god Zeus in the temple.
 > Verse 10: He even attacks “the stars,” that is, he rises up against God himself. A picture of pride without limits.
-> Verse 14: 2,300 “evenings and mornings” – that is either 2,300 days (a little more than six years) or, if you count the evening and morning offerings separately, 1,150 days (a little more than three years). After that, the holy place is cleansed. In the year 164 before Christ, the Maccabees won back the temple and dedicated it again. The Jewish feast of Hanukkah remembers this.
+> Verse 14: 2,300 “evenings and mornings” – that is either 2,300 days (a little more than six years) or, if you count the evening and morning offerings separately, 1,150 days (a little more than three years). After that, the holy place is cleansed. In the year 164 BC, the Maccabees won back the temple and dedicated it again. The Jewish feast of Hanukkah remembers this.
 
 ---
 
@@ -152,5 +152,5 @@ but no one understood it.
 > Verse 16: Here, for the first time in the Bible, an angel is called by name: Gabriel. His name means “God is strong” or “man of God.” In the New Testament, it is Gabriel who tells Mary that Jesus will be born (Luke 1:26–38).
 > Verse 17: Gabriel calls Daniel “son of man,” just as God called Ezekiel.
 > Verses 23–25: The king with “a fierce face” is again the cruel ruler (Antiochus IV). He is clever, deceitful, and violent. He even attacks God (“the Prince of princes”).
-> Verse 25: “He will be broken, and not by any human hand.” Antiochus IV died of an illness in the year 164 before Christ, not in battle.
+> Verse 25: “He will be broken, and not by any human hand.” Antiochus IV died of an illness in the year 164 BC, not in battle.
 > Verse 27: The vision is so heavy that Daniel becomes sick. But then he gets up and goes back to his work. Faith also means to keep doing your daily work faithfully, even when you have heavy thoughts.

@@ -141,8 +141,10 @@ and did not see the king’s face.
 From the sole of his foot to the top of his head there was no flaw in him.
 [26] When he had the hair of his head cut,
 he weighed it.
-He cut it at the end of every year, because it became too heavy for him. That is why he cut it.
-His hair weighed 200 shekels by the king’s weight, that is about 5 pounds.
+He cut it at the end of every year,
+because it became too heavy for him.
+That is why he cut it.
+His hair weighed 200 shekels (about 5 pounds) by the king’s weight.
 [27] Three sons were born to Absalom, and one daughter, whose name was Tamar.
 She was a woman with a beautiful face.
 

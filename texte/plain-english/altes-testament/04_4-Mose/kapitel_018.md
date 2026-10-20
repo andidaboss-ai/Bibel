@@ -66,7 +66,7 @@ Everyone in your house who is clean may eat it.
 of all living beings that they bring to the LORD, both people and animals, shall be yours.
 But you must surely let the firstborn sons of people be bought back.
 And you shall also let the firstborn of unclean animals be bought back.
-[16] Those who must be bought back you shall buy back from the age of one month,
+[16] Those who must be bought back you shall buy back from the age of a month,
 at the price you set: 5 shekels of silver, by the shekel of the holy place, which weighs 20 gerahs.
 
 [17] “But you shall not let the firstborn of a cow, a sheep, or a goat be bought back.
@@ -109,7 +109,7 @@ That is why I have said to them, ‘They shall have no inheritance among the peo
 > All the other tribes receive their own area in the promised land. The priests and Levites receive no land.
 > God says: “I am your share and your inheritance.” That is a beautiful sentence. They have no land, but they have God himself. And God provides for them through the gifts of the people.
 > Psalm 16:5 says something similar: The LORD has given me my share and my cup. He keeps my future safe.
-> Verse 21: This tenth part is called the tithe.
+> Verse 21: The tenth part is called the tithe.
 
 ---
 
