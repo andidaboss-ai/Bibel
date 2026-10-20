@@ -24,8 +24,8 @@ and a great amount of marble.
 [3] And I love the house of my God very much.
 So I am also giving my own treasure of gold and silver to the house of my God.
 This is on top of everything I have gathered for the holy house.
-[4] I give 3,000 talents of gold, gold from Ophir,
-and 7,000 talents of refined silver.
+[4] I give 3,000 talents of gold (about 225,000 pounds), gold from Ophir,
+and 7,000 talents of refined silver (about 525,000 pounds).
 They are to cover the walls of the buildings.
 [5] The gold is for the things of gold, and the silver is for the things of silver.
 It is for every kind of work that the craftsmen will make.
@@ -47,10 +47,10 @@ the leaders of the tribes of Israel,
 the commanders of thousands and of hundreds,
 and the officials in charge of the king’s work.
 [7] They gave this for the service of God’s house:
-5,000 talents and 10,000 darics of gold,
-10,000 talents of silver,
-18,000 talents of bronze,
-and 100,000 talents of iron.
+5,000 talents (about 375,000 pounds) and 10,000 darics of gold,
+10,000 talents of silver (about 750,000 pounds),
+18,000 talents of bronze (about 1.35 million pounds),
+and 100,000 talents of iron (about 7.5 million pounds).
 [8] Everyone who had precious stones gave them to the treasury of the LORD’s house.
 Jehiel the Gershonite was in charge of it.
 [9] The people were full of joy, because they had given willingly.
@@ -173,9 +173,9 @@ They tell about the events that happened to him, to Israel, and to all the kingd
 ## Looking back: What have we read in 1 Chronicles?
 
 > **What does this mean?**
-> **The family trees (Chapters 1–9):** The book begins with Adam and leads through Abraham and the twelve tribes to the people who came back to Jerusalem after the exile. The message to the first readers: you belong. You stand in a long story with God. No one is forgotten, every name counts.
+> **The family trees (Chapters 1–9):** The book begins with Adam and leads through Abraham and the 12 tribes to the people who came back to Jerusalem after the exile. The message to the first readers: you belong. You stand in a long story with God. No one is forgotten, every name counts.
 > **David (Chapters 10–29):** After Saul’s death David becomes king over all Israel. All the tribes come to him. He conquers Jerusalem and brings the ark into the city with joy and music.
-> **God’s promise:** God says to David: “The LORD will build you a house.” David’s family is to last forever. That is why Jews expect the Messiah from David’s family, and Christians see the promise fulfilled in Jesus.
+> **God’s promise:** God says to David: “The LORD will build a house for you.” David’s family is to last forever. That is why Jews expect the Messiah from David’s family, and Christians see the promise fulfilled in Jesus.
 > **The temple:** David is not allowed to build the temple himself, because he has shed much blood. But he prepares everything: the place, the material, the building plan, the priests, the Levites, the singers and the gatekeepers. Everything is in order and fairly shared out by lot.
 > **The heart:** Again and again it is about the heart: “Serve him with your whole heart.” “If you seek him, he will let you find him.” The people give willingly and with joy.
 > **The lesson of the book:** The most important thing in the life of a people and of a person is worship, that is, the relationship with God. David’s prayer sums it up: “Everything comes from you. We have only given you what is already yours.”

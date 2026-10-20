@@ -7,12 +7,11 @@
 
 [1] For the music director. To the tune of “Mahalath.” A contemplation by David.
 The fool has said in his heart, “There is no God.”
-They are rotten.
-They have done disgusting evil.
+They are rotten. They have done disgusting evil.
 There is no one who does good.
 [2] God looks down from heaven on all people,
 to see if there is anyone who understands,
-anyone who seeks God.
+anyone who looks for God.
 [3] Every one of them has turned away.
 They have all become filthy together.
 There is no one who does good, no, not one.
@@ -26,7 +25,7 @@ There is no one who does good, no, not one.
 
 ## They were afraid where there was nothing to fear (Verses 4–6)
 
-[4] Do those who do evil know nothing?
+[4] Do those who do evil have no understanding?
 They eat up my people the way people eat bread.
 They do not call on God.
 [5] There they were filled with great fear,

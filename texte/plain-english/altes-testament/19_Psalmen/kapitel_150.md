@@ -20,7 +20,7 @@ Praise him with ringing cymbals!
 Praise Yah!
 
 > **What does this mean?**
-> The last psalm is one single shout of joy. In six verses, the word “praise” appears thirteen times.
+> The last psalm is one single shout of joy. In six verses, the word “praise” appears 13 times.
 > Verses 1–2: Where should we praise God? Everywhere, in the temple and in heaven. Why? Because he has done great things and because he is great.
 > Verses 3–5: With what? With all the instruments: trumpets, harps, drums, flutes, cymbals. And with dancing. The whole orchestra plays.
 > Verse 6: Who should praise? Everything that breathes. Not only Israel, not only people, but all life. Every breath is a gift from God and can be praise for him.

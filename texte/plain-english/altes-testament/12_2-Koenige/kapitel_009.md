@@ -31,14 +31,14 @@ He said,
 The young man poured the oil on his head and said to him,
 “The LORD, the God of Israel, says,
 ‘I have anointed you king over the LORD’s people, over Israel.
-[7] You must strike the house of your master Ahab,
-so that I may take revenge on Jezebel for the blood of my servants the prophets
+[7] You must strike the family of your master Ahab.
+Then I will take revenge on Jezebel for the blood of my servants the prophets
 and for the blood of all the LORD’s servants.
-[8] For the whole house of Ahab will perish.
-I will cut off from Ahab everyone who urinates against a wall,
-both the one who is shut up and the one who is left at large in Israel.
-[9] I will make Ahab’s house like the house of Jeroboam the son of Nebat,
-and like the house of Baasha the son of Ahijah.
+[8] The whole family of Ahab will die.
+I will cut off from Ahab everyone who urinates against a wall in Israel,
+the one who is shut up and the one who is free.
+[9] I will make Ahab’s family like the family of Jeroboam, the son of Nebat,
+and like the family of Baasha, the son of Ahijah.
 [10] The dogs will eat Jezebel on the piece of ground at Jezreel,
 and there will be no one to bury her.’”
 Then he opened the door and ran away.
@@ -50,7 +50,7 @@ He said to them,
 [12] They said,
 “That’s a lie. Tell us now.”
 He said,
-“He said this and this to me:
+“He said to me,
 ‘The LORD says, I have anointed you king over Israel.’”
 [13] Then they hurried.
 Each man took his cloak and put it under him on the top of the stairs.
@@ -60,7 +60,7 @@ They blew the trumpet and said,
 > **What does this mean?**
 > Now what God had told Elijah at Horeb comes true: Jehu is to become king (1 Kings 19:16).
 > Jehu is an army commander. A young prophet anoints him in secret and then runs away at once, because this is life-threatening: it is a revolt against the king.
-> The soldiers call the prophet a “madman”. Prophets often seemed strange to other people.
+> The soldiers call the prophet a “madman.” Prophets often seemed strange to other people.
 > The officers lay their cloaks under Jehu’s feet. That is a way of honoring a king. In a similar way, people spread their clothes on the road when Jesus rode into Jerusalem (Matthew 21:8).
 > God’s command to Jehu is very harsh. The Bible tells it because Ahab and Jezebel had killed many innocent people, among them prophets and Naboth. But you need to know: later Jehu goes far beyond the command. A later prophet, Hosea, condemns the blood that Jehu shed at Jezreel (Hosea 1:4). God’s judgment is no permission for human cruelty.
 
@@ -148,12 +148,12 @@ Jehu chased him and said,
 They struck him at the slope going up to Gur, which is near Ibleam.
 He fled to Megiddo and died there.
 [28] His servants carried him in a chariot to Jerusalem.
-They buried him in his tomb with his fathers in David’s city.
+They buried him in his tomb with his ancestors in David’s city.
 [29] Ahaziah had become king over Judah in the eleventh year of Joram the son of Ahab.
 
 > **What does this mean?**
 > The king of Judah also loses his life, because he was connected with Ahab’s house.
-> Interesting: in 1993 and 1994 an inscription was found at Tel Dan in the north of Israel. In it a king of Damascus, probably Hazael, boasts that he killed Joram the king of Israel and Ahaziah of the “house of David”. The Bible says it was Jehu. Perhaps Hazael saw himself as the winner because Jehu worked together with him, or he was simply boasting. This inscription is famous because it mentions the “house of David”. It is one of the oldest pieces of evidence outside the Bible for David’s royal family.
+> Interesting: in 1993 and 1994 an inscription was found at Tel Dan in the north of Israel. In it a king of Damascus, probably Hazael, boasts that he killed Joram the king of Israel and Ahaziah of the “house of David.” The Bible says it was Jehu. Perhaps Hazael saw himself as the winner because Jehu worked together with him, or he was simply boasting. This inscription is famous because it mentions the “house of David”. It is one of the oldest pieces of evidence outside the Bible for David’s royal family.
 > Verse 29 gives a different year than Chapter 8:25 (the eleventh instead of the twelfth year). The years were probably counted in different ways.
 
 ---

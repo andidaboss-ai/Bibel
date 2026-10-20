@@ -49,7 +49,7 @@ who had appeared to him twice
 But he did not keep what the LORD commanded.
 [11] So the LORD said to Solomon,
 “Because you have done this
-and have not kept my covenant and my statutes, which I commanded you,
+and have not kept my covenant and my laws, which I commanded you,
 I will surely tear the kingdom away from you and give it to your servant.
 [12] But I will not do it in your lifetime, for the sake of your father David.
 I will tear it out of your son’s hand.
@@ -100,7 +100,7 @@ He answered,
 > **What does this mean?**
 > Here a dark side of David’s wars is told: Joab killed all the men in Edom that he could find (compare 2 Samuel 8:13–14). Little Hadad survived and fled to Egypt.
 > The Bible tells it honestly: violence creates new hatred. The boy who fled back then later becomes an enemy of Israel.
-> “To sleep with his fathers” means: to die.
+> “Died and joined his ancestors” is an old way of saying that someone died.
 > Midian and Paran are desert areas in the south, between Edom and Egypt.
 
 ---
@@ -140,12 +140,12 @@ the prophet Ahijah the Shilonite met him on the way.
 Ahijah had put on a new cloak.
 And the two of them were alone in the field.
 [30] Ahijah took the new cloak that he was wearing
-and tore it into twelve pieces.
+and tore it into 12 pieces.
 [31] He said to Jeroboam,
-“Take ten pieces for yourself.
+“Take 10 pieces for yourself.
 For the LORD, the God of Israel, says:
 ‘I will tear the kingdom out of the hand of Solomon
-and will give ten tribes to you
+and will give 10 tribes to you
 [32] – but he will keep one tribe,
 for the sake of my servant David
 and for the sake of Jerusalem, the city that I have chosen out of all the tribes of Israel –
@@ -154,13 +154,13 @@ and have worshiped Ashtoreth the goddess of the Sidonians, Chemosh the god of Mo
 and Milcom the god of the people of Ammon.
 They have not walked in my ways,
 to do what is right in my eyes,
-and to keep my statutes and my ordinances, as his father David did.
+and to keep my laws and my rules, as his father David did.
 [34] But I will not take the whole kingdom out of his hand.
 I will make him prince all the days of his life,
 for the sake of my servant David, whom I chose,
-who kept my commandments and my statutes.
+who kept my commandments and my laws.
 [35] But I will take the kingdom out of his son’s hand
-and will give it to you, ten tribes.
+and will give it to you, 10 tribes.
 [36] I will give one tribe to his son,
 so that my servant David may always have a lamp before me in Jerusalem,
 the city that I have chosen for myself to put my name there.
@@ -170,7 +170,7 @@ and you will be king over Israel.
 [38] If you listen to everything that I command you,
 and walk in my ways,
 and do what is right in my eyes,
-and keep my statutes and my commandments, as my servant David did,
+and keep my laws and my commandments, as my servant David did,
 then I will be with you
 and build you a lasting house, as I built for David,
 and I will give Israel to you.
@@ -182,8 +182,8 @@ And he stayed in Egypt until Solomon died.
 
 > **What does this mean?**
 > Jeroboam was a gifted overseer of the workers from the “house of Joseph,” that is, from the tribes of Ephraim and Manasseh in the north. He saw for himself how heavy the burdens on the people were.
-> The prophet Ahijah does an action that is a sign: he tears a new cloak into twelve pieces, for the twelve tribes. Jeroboam gets ten. The picture is strong: something new and whole is torn apart.
-> Ten and one together are only eleven. The twelfth tribe, Levi, had no land of its own. Or Benjamin is counted here as part of Judah. The Bible does not explain the numbers exactly.
+> The prophet Ahijah does an action that is a sign: he tears a new cloak into 12 pieces, for the 12 tribes. Jeroboam gets 10. The picture is strong: something new and whole is torn apart.
+> 10 and 1 together are only 11. The 12th tribe, Levi, had no land of its own. Or Benjamin is counted here as part of Judah. The Bible does not explain the numbers exactly.
 > “A lamp in Jerusalem”: David’s family is not to die out. From it come the kings of Judah. Christians believe that Jesus later came from this family line. Jews expect the Messiah from the house of David.
 > God makes Jeroboam a great offer: the same as David, if he stays faithful. The next chapter shows whether he accepts it.
 > “But not forever” (verse 39): in the middle of the punishment there is already hope.

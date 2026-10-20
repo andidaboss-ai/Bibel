@@ -13,7 +13,7 @@ The main characters:
 – Haman, a powerful official who wants to kill all the Jews.
 – King Ahasuerus (Xerxes I).
 What is special: in the Hebrew book of Esther the name of God does not appear a single time. And yet you notice that God guides everything in the background. Many “coincidences” lead to the rescue of the people.
-There is also a Greek version of the book with additional parts, in which people pray and God is named. These additions are in Catholic Bibles, and in Protestant Bibles among the Apocrypha. This version follows the Hebrew text.
+There is also a Greek version of the book with additional parts, in which people pray and God is named. These additions are in Catholic Bibles, and in Protestant Bibles among the Apocrypha. This edition follows the Hebrew text.
 The book explains the origin of the Jewish feast of Purim, which is still celebrated joyfully today.
 Some parts of the story are told in an exaggerated way, almost like a satire. The mighty king often appears vain and easy to influence. That is part of the style of the book.
 
@@ -42,7 +42,7 @@ The couches were of gold and silver,
 on a floor of red, white, yellow, and black marble.
 [7] They served drinks in golden cups of different kinds,
 and royal wine in great amounts, as the king could well afford.
-[8] According to the law, the drinking was not compulsory.
+[8] According to the law, no one was forced to drink.
 For the king had told all the officials of his house
 to let each man do as he pleased.
 [9] Queen Vashti also gave a feast for the women
@@ -54,7 +54,7 @@ in the royal house which belonged to King Ahasuerus.
 > The “third year” is about 483 BC. Maybe at this feast the king was planning the great war against Greece, which he then lost.
 > A feast of 180 days! And then another week for the whole city. The king wants to show how rich and powerful he is.
 > The description of the palace is very detailed. Archaeologists have dug up the palace in Susa. It really was very splendid.
-> “Not compulsory”: no one had to drink more than he wanted. At Persian feasts it was sometimes the custom that everyone had to drink along when the king drank.
+> “No one was forced to drink”: no one had to drink more than he wanted. At Persian feasts it was sometimes the custom that everyone had to drink along when the king drank.
 
 ---
 

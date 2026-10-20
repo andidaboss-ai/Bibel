@@ -91,7 +91,7 @@ My bow stays new in my hand.’
 [21] “People listened to me and waited.
 They kept quiet to hear my advice.
 [22] After I had spoken, no one spoke again.
-My words fell on them like drops.
+My words fell on them.
 [23] They waited for me as people wait for the rain.
 They opened their mouths as if to drink the spring rain.
 [24] I smiled at them when they had lost their confidence.

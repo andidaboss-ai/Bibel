@@ -123,7 +123,7 @@ and his son Mishma.
 his son Hammuel,
 his son Zaccur,
 and his son Shimei.
-[27] Shimei had 16 sons and six daughters.
+[27] Shimei had 16 sons and 6 daughters.
 But his brothers did not have many children.
 Their whole family did not grow as large as the tribe of Judah.
 [28] They lived in Beersheba, Moladah, Hazarshual,
@@ -162,7 +162,7 @@ They attacked the tents of the people there and the Meunim they found there.
 They destroyed them completely, and they are gone to this day.
 Then they lived there in their place,
 because there was pasture there for their flocks.
-[42] 500 of them, of the descendants of Simeon, went to Mount Seir.
+[42] Some of them, 500 men of the descendants of Simeon, went to Mount Seir.
 Their leaders were Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.
 [43] They killed the rest of the Amalekites who had escaped.
 They have lived there to this day.

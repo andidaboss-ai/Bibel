@@ -80,11 +80,11 @@ and to those who remember to obey his commands.
 
 [19] The LORD has set up his throne in heaven.
 His kingdom rules over everything.
-[20] Praise the LORD, you his angels,
+[20] Praise the LORD, you angels of his,
 you mighty and strong ones who carry out his word
 and obey the voice of his word!
 [21] Praise the LORD, all his armies,
-you his servants who do what he wants!
+you servants of his who do what he wants!
 [22] Praise the LORD, all his works,
 in all the places where he rules!
 Praise the LORD, my soul!

@@ -60,8 +60,7 @@ my companion and my close friend.
 [14] We enjoyed sweet friendship together.
 We walked with the crowd in God’s house.
 [15] Let death come on them suddenly.
-Let them go down alive into Sheol.
-Sheol is the place of the dead.
+Let them go down alive into Sheol (the world of the dead).
 For evil is among them, in their homes.
 
 > **What does this mean?**

@@ -158,7 +158,7 @@ The Syrians had wounded him at Ramah,
 when he fought against Hazael, the king of Syria.
 Ahaziah, the son of Jehoram, the king of Judah,
 went down to Jezreel to see Joram, the son of Ahab,
-because Joram was wounded.
+because Joram was sick.
 
 > **What does this mean?**
 > Another Ahaziah: this one is king of Judah, a grandson of Ahab.

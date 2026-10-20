@@ -13,7 +13,7 @@ so far from the words of my groaning?
 I cry out at night, and I do not keep silent.
 [3] But you are holy.
 You are enthroned on the praises of Israel.
-[4] Our fathers trusted in you.
+[4] Our ancestors trusted in you.
 They trusted, and you rescued them.
 [5] They cried out to you, and they were rescued.
 They trusted in you, and they were not disappointed.
@@ -69,7 +69,8 @@ They have pierced my hands and feet.
 [17] I can count all my bones.
 They look at me and stare.
 [18] They divide my clothes among themselves.
-They throw dice for my clothing.
+They cast lots for my clothing.
+That means: They let chance decide who gets it.
 
 > **What does this mean?**
 > The enemies are compared with wild animals: bulls, lions, dogs. Bashan was a region with especially strong, well-fed cattle.

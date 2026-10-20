@@ -3,7 +3,7 @@
 
 ---
 
-## The twelve divisions of the army (Verses 1–15)
+## The 12 divisions of the army (Verses 1–15)
 
 [1] This is the list of the Israelites who served the king.
 They were heads of families,
@@ -85,7 +85,7 @@ God’s anger came on Israel because of this counting.
 So the number was not written in the official records of King David.
 
 > **What does this mean?**
-> Each tribe had a leader. Gad and Asher are missing in this list, but Levi and Aaron are named separately. So the number again comes to twelve, if you count the half-tribes.
+> Each tribe had a leader. Gad and Asher are missing in this list, but Levi and Aaron are named separately. So the number again comes to 12, if you count the half-tribes.
 > Elihu is probably Eliab, David’s oldest brother (1 Samuel 16:6).
 > Jaasiel was a son of Abner, Saul’s former army commander. Saul’s people also got responsibility.
 > Verses 23–24 remind us of the census (Chapter 21). God had promised Abraham to make his people as many as the stars (Genesis 15:5). People should not count again what God has promised.

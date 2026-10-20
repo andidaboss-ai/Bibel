@@ -33,7 +33,7 @@ who was pleased with you and set you on the throne of Israel.
 Because the LORD loves Israel forever,
 he has made you king,
 to do justice and righteousness.”
-[10] She gave the king about 4½ tons of gold,
+[10] She gave the king 120 talents of gold (about 9,000 pounds),
 a very great amount of spices, and precious stones.
 Never again was there such a great amount of spices
 as the queen of Sheba gave to King Solomon.
@@ -60,13 +60,14 @@ Then she turned and went back to her own land, she and her servants.
 
 ## Solomon’s gold (Verses 14–22)
 
-[14] The gold that came to Solomon in one year weighed about 25 tons.
+[14] The gold that came to Solomon in one year weighed 666 talents
+(about 50,000 pounds).
 [15] Besides that, there was what the traders brought, the business of the merchants,
 and of all the kings of the mixed peoples and of the governors of the land.
 [16] King Solomon made 200 large shields of beaten gold.
-He used about 15 pounds of gold for each shield.
+He used 600 shekels of gold (about 15 pounds) for each shield.
 [17] And he made 300 small shields of beaten gold.
-He used almost 4 pounds of gold for each shield.
+He used 3 minas of gold (almost 4 pounds) for each shield.
 The king put them in the House of the Forest of Lebanon.
 [18] The king also made a great throne of ivory
 and covered it with the finest gold.
@@ -74,7 +75,8 @@ and covered it with the finest gold.
 The top of the throne was round at the back.
 There were armrests on both sides of the seat,
 and two lions stood beside the armrests.
-[20] Twelve lions stood there on the six steps, on one side and on the other.
+[20] There were 12 lions standing on the 6 steps,
+on one side and on the other.
 Nothing like it was made in any kingdom.
 [21] All of King Solomon’s drinking cups were made of gold,
 and all the things in the House of the Forest of Lebanon were made of pure gold.
@@ -85,7 +87,7 @@ and brought gold, silver, ivory, apes, and peacocks.
 
 > **What does this mean?**
 > The numbers are huge. The Bible says “666 talents of gold.” A talent is about 75 pounds.
-> For the shields the Bible says “600 shekels” (a shekel is about 0.4 ounces) and “three minas” (a mina is about 1¼ pounds). The gold shields were not for fighting. They were for showing off, for feasts and parades.
+> For the shields the Bible says “600 shekels” (a shekel is about 0.4 ounces) and “3 minas” (a mina is about 1¼ pounds). The gold shields were not for fighting. They were for showing off, for feasts and parades.
 > The House of the Forest of Lebanon was a large hall in Solomon’s palace (1 Kings 7:2).
 > “Ships of Tarshish” were large ships for long journeys across the sea. It is not certain where Tarshish was, maybe in Spain. The translation “peacocks” is not certain. Some translate “baboons.”
 > This description shows Solomon’s splendor. But there is a catch: Deuteronomy 17:16–17 says that a king should not pile up many horses, many wives, and a lot of silver and gold. That is exactly what Solomon does. The next chapter shows where this leads.
@@ -106,8 +108,8 @@ He kept them in the chariot cities and with the king in Jerusalem.
 and cedars as common as the sycamore trees in the lowland.
 [28] The horses that Solomon had were brought from Egypt.
 The king’s merchants got them in herds, each herd at a price.
-[29] A chariot was brought from Egypt for 600 shekels of silver,
-and a horse for 150 shekels.
+[29] A chariot was brought from Egypt for 600 shekels of silver (about 15 pounds),
+and a horse for 150 shekels (almost 4 pounds).
 And in the same way they sold them to all the kings of the Hittites and to the kings of Syria.
 
 > **What does this mean?**

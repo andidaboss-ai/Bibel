@@ -119,7 +119,7 @@ They became many, from Bashan to Baal Hermon, Senir, and Mount Hermon.
 [24] These were the heads of their families:
 Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel.
 They were brave soldiers, famous men, and heads of their families.
-[25] But they were unfaithful to the God of their fathers.
+[25] But they were unfaithful to the God of their ancestors.
 They acted like prostitutes
 and ran after the gods of the peoples of the land.
 God had destroyed these peoples before them.
@@ -134,4 +134,4 @@ They are still there to this day.
 > Chronicles explains briefly: They lost their land because they became unfaithful to God. “They acted like prostitutes”: this is a picture for worshiping idols: being unfaithful to God like being unfaithful in marriage.
 > “Pul” and “Tilgath Pilneser” are probably two names for the same king (2 Kings 15:19, 29). Chronicles names them here side by side.
 > This was the first deportation of Israelites, around 733 BC.
-> In some Bibles chapter 5 goes on to verse 41. Verses 1–15 of the next chapter are there chapter 5, verses 27–41.
+> In some Bibles, Chapter 5 goes on to verse 41. There, verses 1–15 of the next chapter are 5:27–41.

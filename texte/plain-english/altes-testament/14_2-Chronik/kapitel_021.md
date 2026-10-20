@@ -74,7 +74,7 @@ just as Ahab’s family did.
 You have also killed your own brothers, your father’s sons.
 They were better than you.
 [14] So now the LORD will strike your people with a terrible disaster.
-He will strike your sons, your wives, and everything you own.
+He will strike your children, your wives, and everything you own.
 [15] And you yourself will become very sick with a disease of your intestines.
 Day after day the disease will get worse,
 until your intestines come out.’”

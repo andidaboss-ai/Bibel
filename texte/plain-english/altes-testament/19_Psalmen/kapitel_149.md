@@ -38,7 +38,7 @@ Praise Yah!
 
 > **What does this mean?**
 > These verses are difficult. After joy and dancing, there is suddenly talk of a sword and revenge.
-> This psalm comes from a time when Israel was oppressed by great empires. It expresses the hope: God will judge the unjust rulers. What is meant is “the judgment that is written”, that is, God’s judgment, not people’s own plans for revenge.
+> This psalm comes from a time when Israel was oppressed by great empires. It expresses the hope: God will judge the unjust rulers. What is meant is “the judgment that is written,” that is, God’s judgment, not people’s own plans for revenge.
 > Sadly, in the course of history, these verses have been misused to justify war and violence in the name of God. That is wrong.
 > Many Jews and Christians today understand the sword in a picture sense. The letter to the Hebrews says that God’s word is “sharper than any two-edged sword” (Hebrews 4:12). Paul speaks of “the sword of the Spirit. That is the word of God” (Ephesians 6:17).
 > Jesus says: “Put your sword back into its place! For all those who take the sword will die by the sword” (Matthew 26:52). Violence in the name of God is not a way.

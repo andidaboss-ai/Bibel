@@ -51,6 +51,6 @@ Praise Yah!
 > **What does this mean?**
 > Now it is the earth’s turn: sea creatures, weather, mountains, trees, animals, and last of all people, all people: kings and ordinary people, young and old, men and women, children.
 > All of creation forms one choir. Each creature praises God in its own way, simply by being there.
-> Francis of Assisi was inspired by this psalm when he wrote his “Canticle of the Sun”.
+> Francis of Assisi was inspired by this psalm when he wrote his “Canticle of the Sun.”
 > This psalm also reminds us: Creation belongs to God. We humans are to treat it well.
 > Verse 14: “He has lifted up the horn of his people”: God has given his people new strength and dignity.

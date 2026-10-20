@@ -29,8 +29,8 @@ And he has commanded me to build him a house in Jerusalem, which is in Judah.
 [3] Whoever there is among you of all his people,
 may his God be with him.
 Let him go up to Jerusalem, which is in Judah,
-and build the house of the LORD, the God of Israel.
-He is God, who is in Jerusalem.
+and build the house of the LORD, the God of Israel, in Jerusalem.
+He is God.
 [4] Whoever is left, in any place where he lives,
 let the men of his place help him
 with silver, with gold, with goods, and with animals,
@@ -52,7 +52,7 @@ in addition to the freewill offering for God’s house which is in Jerusalem.’
 the priests and the Levites,
 all whose spirit God had stirred to go up,
 rose up to build the LORD’s house which is in Jerusalem.
-[6] All those who were around them strengthened their hands
+[6] All the people around them helped them
 with objects of silver, with gold, with goods, with animals, and with precious things,
 in addition to all that was given willingly.
 

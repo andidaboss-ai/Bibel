@@ -31,7 +31,7 @@ and who was related to Tobiah,
 Before that, they had stored there the grain offerings, the frankincense, the objects,
 and the tithes of the grain, the new wine, and the oil,
 which were given by command to the Levites, the singers, and the gatekeepers,
-and the offerings for the priests.
+and the wave offerings for the priests.
 [6] But during all this I was not in Jerusalem.
 For in the thirty-second year of Artaxerxes king of Babylon
 I had gone to the king.
@@ -39,14 +39,14 @@ After some time I asked the king for permission to leave,
 [7] and I came to Jerusalem.
 Then I understood the evil that Eliashib had done for Tobiah,
 by preparing a room for him in the courts of God’s house.
-[8] It made me very angry.
+[8] It upset me very much.
 So I threw all of Tobiah’s household goods out of the room.
 [9] Then I gave orders, and they cleansed the rooms.
 And I brought back into them the objects of God’s house,
 with the grain offerings and the frankincense.
 
 > **What does this mean?**
-> After twelve years (433 BC) Nehemiah had gone back to the king. Later he came to Jerusalem a second time.
+> After 12 years (433 BC) Nehemiah had gone back to the king. Later he came to Jerusalem a second time.
 > While he was away, a lot had gone wrong. The worst thing: the high priest Eliashib had given Nehemiah’s enemy Tobiah a place to live in the temple!
 > Nehemiah acts firmly: he throws Tobiah’s furniture out. That recalls Jesus, who drove the traders out of the temple (John 2:13–17).
 > Artaxerxes is called “king of Babylon” here, because he also ruled over Babylon.
@@ -92,7 +92,7 @@ and sold them on the Sabbath to the people of Judah, and in Jerusalem.
 [17] Then I argued with the nobles of Judah and said to them,
 “What is this evil thing that you are doing?
 You are making the Sabbath day unholy!
-[18] Didn’t your fathers do the same?
+[18] Didn’t your ancestors do the same?
 And didn’t our God bring all this disaster on us and on this city?
 Yet you are bringing more anger on Israel by making the Sabbath unholy.”
 [19] When it began to get dark at the gates of Jerusalem before the Sabbath,
@@ -123,7 +123,7 @@ and spare me according to the greatness of your loving kindness.
 ## The mixed marriages (Verses 23–29)
 
 [23] In those days I also saw Jews who had married women of Ashdod, of Ammon, and of Moab.
-[24] Half of their children spoke the language of Ashdod,
+[24] Their children spoke half in the language of Ashdod,
 and could not speak the Jews’ language,
 but only the language of one people or another.
 [25] I argued with them, cursed them,

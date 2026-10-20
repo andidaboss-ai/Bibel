@@ -138,9 +138,9 @@ They found a great amount of riches,
 and dead bodies with precious jewels on them.
 They took these things off the dead for themselves, more than they could carry.
 There was so much that it took them three days to collect it all.
-[26] On the fourth day they gathered in the Valley of Beracah.
+[26] On the fourth day they gathered in Beracah Valley.
 There they praised the LORD.
-That is why this place is still called the “Valley of Beracah” today.
+That is why this place is still called “Beracah Valley” today.
 
 > **What does this mean?**
 > Verse 20 sounds like Isaiah 7:9: “If you will not believe, surely you will not be established.” In Hebrew this is a play on words: “believe” and “stand firm” come from the same word (aman; the word “Amen” also comes from it).
@@ -189,7 +189,7 @@ They built the ships in Ezion Geber.
 [37] Then Eliezer, the son of Dodavahu, from Mareshah, spoke as a prophet against Jehoshaphat.
 He said,
 “You have joined with Ahaziah.
-So the LORD will destroy what you have made.”
+So the LORD has destroyed what you have made.”
 And the ships were wrecked.
 They were never able to sail to Tarshish.
 
