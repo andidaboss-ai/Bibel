@@ -224,7 +224,7 @@ Casting lots was a way to decide something, a little like drawing straws.
 > **What does this mean?**
 > Verse 53: An inheritance is land that a family receives and keeps for its children.
 > At the first count, there were 603,550 men. Now there are 601,730. After 40 years in the wilderness, the people are almost the same size. God gave them children, even though the old generation died.
-> If you add up the numbers of the twelve tribes, you get exactly 601,730.
+> If you add up the numbers of the 12 tribes, you get exactly 601,730.
 > The land is divided in two ways: The size depends on the number of people. The lot decides which area a tribe gets. That way it is fair, and nobody can grab the best piece.
 
 ---

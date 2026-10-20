@@ -39,7 +39,7 @@ Othniel the son of Kenaz, Caleb’s younger brother.
 [10] The Spirit of the LORD came on him, and he judged Israel.
 He went out to war, and the LORD gave Cushan Rishathaim, the king of Mesopotamia, into his hand.
 His hand grew strong against Cushan Rishathaim.
-[11] And the land had rest for forty years.
+[11] And the land had rest for 40 years.
 Then Othniel the son of Kenaz died.
 
 > **What does this mean?**
@@ -47,7 +47,7 @@ Then Othniel the son of Kenaz died.
 > “Cushan Rishathaim” means something like “Cushan, the doubly wicked.” It sounds like a mocking name.
 > We already know Othniel: He took Debir and married Achsah (Chapter 1). He comes from the family of Caleb, the faithful spy.
 > “The Spirit of the LORD came on him”: The judges were not strong by their own power. God’s Spirit gave them courage and strength for their task.
-> In the Bible, “forty years” often means a whole generation, a long time.
+> In the Bible, “40 years” often means a whole generation, a long time.
 
 ---
 
@@ -58,7 +58,7 @@ So the LORD made Eglon, the king of Moab, strong against Israel,
 because they had done what was evil in the eyes of the LORD.
 [13] He gathered the people of Ammon and Amalek to himself.
 He went and struck Israel, and they took the city of palm trees.
-[14] The people of Israel served Eglon, the king of Moab, for eighteen years.
+[14] The people of Israel served Eglon, the king of Moab, for 18 years.
 [15] Then the people of Israel cried out to the LORD.
 And the LORD raised up a savior for them:
 Ehud the son of Gera, the Benjamite, a left-handed man.
@@ -98,7 +98,7 @@ He had gone past the stone idols and escaped to Seirah.
 
 > **What does this mean?**
 > The Bible says: a cubit long. A cubit is about 18 inches.
-> Moab, Ammon, and Amalek attack together. They take Jericho, the “city of palm trees.” For eighteen years, Israel has to pay tribute, which means payments to the foreign king.
+> Moab, Ammon, and Amalek attack together. They take Jericho, the “city of palm trees.” For 18 years, Israel has to pay tribute, which means payments to the foreign king.
 > Ehud was left-handed. This is important for the story: The guards probably looked for a sword on the left side, where right-handed men wear it. That is why they did not find it. By the way, the name “Benjamin” means “son of the right hand.” A left-handed man from the tribe of the “right hand” is a little joke in the story.
 > The story is told very vividly, almost like a crime story, and with rough humor: The king is so fat that the fat swallows the sword. The servants think he is sitting on the toilet. “Covering his feet” is a polite way of saying this. That is why they wait so long, “until they were ashamed.”
 > Ehud uses a trick and kills a king. Today we would call this an assassination. The Bible tells it as freedom from oppression. But it is not a call to murder rulers.
@@ -116,19 +116,19 @@ And they did not let anyone cross over.
 [29] At that time they struck about 10,000 men of Moab, all strong and brave men.
 No one escaped.
 [30] So that day Moab was brought down under the hand of Israel.
-And the land had rest for eighty years.
+And the land had rest for 80 years.
 
 > **What does this mean?**
 > The Moabites wanted to flee across the Jordan to their home. But Israel took the fords.
 > Fords are the shallow places where you can walk across a river.
-> Eighty years of rest: That is two generations, the longest time of peace in the whole book.
+> 80 years of rest: That is two generations, the longest time of peace in the whole book.
 
 ---
 
 ## Shamgar (Verse 31)
 
 [31] After him came Shamgar the son of Anath.
-He struck six hundred men of the Philistines with an ox goad.
+He struck 600 men of the Philistines with an ox goad.
 He also saved Israel.
 
 > **What does this mean?**

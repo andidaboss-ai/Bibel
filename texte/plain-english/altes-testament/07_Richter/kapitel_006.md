@@ -126,7 +126,7 @@ and cut down the Asherah pole that is next to it.
 [26] Then build an altar to the LORD your God on top of this stronghold, carefully laid out.
 And take the second bull and offer it as a burnt offering,
 with the wood of the Asherah pole that you cut down.”
-[27] So Gideon took ten men from his servants
+[27] So Gideon took 10 men from his servants
 and did as the LORD had told him.
 Because he was afraid of his father’s family and of the men of the city,
 he could not do it by day, so he did it at night.

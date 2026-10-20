@@ -163,8 +163,8 @@ for the necks of those who take the plunder?’
 
 [31] “So let all your enemies die, LORD!
 But let those who love him be like the sun when it rises in its strength.”
-And the land had rest for forty years.
+And the land had rest for 40 years.
 
 > **What does this mean?**
 > The song ends with a beautiful picture: Those who love God are to shine like the rising sun.
-> After the victory come forty years of peace.
+> After the victory come 40 years of peace.

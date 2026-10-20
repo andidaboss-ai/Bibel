@@ -18,9 +18,9 @@ and against the king of Bela – that is Zoar.
 [3] These five joined together in the valley of Siddim.
 That is the Salt Sea.
 
-[4] For twelve years they had served Chedorlaomer.
-In the thirteenth year they rebelled against him.
-[5] In the fourteenth year, Chedorlaomer and the kings who were with him came.
+[4] For 12 years they had served Chedorlaomer.
+In the 13th year they rebelled against him.
+[5] In the 14th year, Chedorlaomer and the kings who were with him came.
 They defeated
 the Rephaim in Ashteroth Karnaim,
 the Zuzim in Ham,
@@ -99,7 +99,7 @@ And Abram gave him a tenth of everything.
 > **What does this mean?**
 > Melchizedek is a mysterious figure. He suddenly appears and disappears again. His name means “king of righteousness.” “Salem” means “peace.” Salem is probably the city that is later called Jerusalem.
 > A priest is a person who stands between God and people: He prays for others and brings offerings to God. Melchizedek does not belong to Abram’s family – and still he knows the one true God.
-> “A tenth” is one part out of ten. Abram gives a tenth of what he won in battle as thanks to God. Later, this became the custom of giving part of what you own to God.
+> “A tenth” is one part out of 10. Abram gives a tenth of what he won in battle as thanks to God. Later, this became the custom of giving part of what you own to God.
 > Bread and wine: Christians think of the Lord’s Supper. In the New Testament (Hebrews 7), Jesus is compared with Melchizedek.
 
 ---

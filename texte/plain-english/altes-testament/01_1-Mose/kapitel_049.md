@@ -1,5 +1,5 @@
 # Genesis – Chapter 49
-### Jacob’s blessing for his twelve sons – Jacob dies
+### Jacob’s blessing for his 12 sons – Jacob dies
 
 ---
 
@@ -178,7 +178,7 @@ And in the evening he divides what he has captured.”
 
 ## Jacob dies (Verses 28–33)
 
-[28] These are the twelve tribes of Israel.
+[28] These are the 12 tribes of Israel.
 And this is what their father said to them when he blessed them.
 He blessed each one with the blessing that was meant for him.
 
@@ -198,7 +198,7 @@ He breathed his last.
 And he was gathered to his people.
 
 > **What does this mean?**
-> Here, for the first time in the Bible, we read: “the twelve tribes of Israel.” A family has become a nation.
+> Here, for the first time in the Bible, we read: “the 12 tribes of Israel.” A family has become a nation.
 > Jacob wants to be buried with Leah, not with Rachel. Leah, who fought so long for his love, lies at his side in the end – and with her, the great ancestors of faith.
 > Here we also learn that Rebekah and Leah have died. The Bible had not told this before.
 > Jacob’s death is described as calm and peaceful. He has said everything he wanted to say. Then he lies down and dies.

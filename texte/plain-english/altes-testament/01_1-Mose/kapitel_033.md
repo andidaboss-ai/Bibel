@@ -7,7 +7,7 @@
 
 [1] Jacob looked up.
 Look! Esau was coming, and 400 men were with him.
-Jacob divided the children among Leah, Rachel and the two female servants.
+Jacob divided the children among Leah, Rachel and the 2 female servants.
 [2] He put the servants and their children in front.
 Behind them he put Leah and her children.
 And at the very back he put Rachel and Joseph.

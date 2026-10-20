@@ -137,7 +137,7 @@ or anything that belongs to your neighbor.”
 > **What does this mean?**
 > “To covet” means: to badly want to have something that belongs to someone else. Envy and greed.
 > This commandment goes deeper than all the others. It is not only against actions, but against what happens in the heart. For envy and greed in the heart later lead to stealing, adultery and even murder.
-> Catholics and Lutherans divide this verse into two commandments: the 9th and the 10th commandment. In this way, they also get to ten.
+> Catholics and Lutherans divide this verse into two commandments: the 9th and the 10th commandment. In this way, they also get to 10.
 
 ---
 

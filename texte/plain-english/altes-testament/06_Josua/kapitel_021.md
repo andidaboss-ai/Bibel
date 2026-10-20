@@ -64,7 +64,7 @@ That makes 4 cities.
 > **What does this mean?**
 > Hebron now belongs to both the priests and Caleb. The priests get the city to live in, and Caleb gets the fields and villages around it. That is how it is shared.
 > Anathoth later was the hometown of the prophet Jeremiah. He came from a family of priests (Jeremiah 1:1).
-> Nine and four make thirteen. The count is right.
+> Nine and four make 13. The count is right.
 
 ---
 
@@ -87,7 +87,7 @@ That makes 2 cities.
 
 > **What does this mean?**
 > Gath Rimmon is named twice, with Dan and with Manasseh. The second time, maybe a different place is meant. In 1 Chronicles 6:70 there is a different name at this place.
-> Four, four, and two make ten.
+> Four, four, and two make 10.
 
 ---
 
@@ -111,7 +111,7 @@ That makes 3 cities.
 [33] So the Gershonites and their clans received 13 cities in all, with their pasture lands.
 
 > **What does this mean?**
-> Two, four, four, and three make thirteen.
+> Two, four, four, and three make 13.
 > The Gershonites lived in the north, in Galilee and in Bashan.
 
 ---
@@ -135,8 +135,8 @@ They were the rest of the clans of the Levites.
 By lot they received 12 cities.
 
 > **What does this mean?**
-> Four, four, and four make twelve.
-> Many Hebrew manuscripts do not have verses 36 and 37 about the cities of Reuben. Other manuscripts and the WEB do have them. Without them, the number twelve would not be right.
+> Four, four, and four make 12.
+> Many Hebrew manuscripts do not have verses 36 and 37 about the cities of Reuben. Other manuscripts and the WEB do have them. Without them, the number 12 would not be right.
 
 ---
 

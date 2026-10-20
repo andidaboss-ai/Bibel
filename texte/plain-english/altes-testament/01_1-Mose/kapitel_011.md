@@ -93,7 +93,7 @@ He had more sons and daughters.
 Then he had Abram, Nahor and Haran.
 
 > **What does this mean?**
-> This list leads in ten generations from Shem to Abram – just as the list in Chapter 5 led in ten generations from Adam to Noah.
+> This list leads in 10 generations from Shem to Abram – just as the list in Chapter 5 led in 10 generations from Adam to Noah.
 > People no longer live as long as before. Shem still lives to be 600 years old, Nahor only 148. The ancient time is coming to an end.
 > After the confusion of Babel, the Bible turns its eyes to **one** family. With this family, God wants to begin a new path for all of humanity.
 

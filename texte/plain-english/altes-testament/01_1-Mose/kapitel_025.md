@@ -59,7 +59,7 @@ The firstborn of Ishmael was Nebaioth, then came Kedar, Adbeel, Mibsam,
 [15] Hadad, Tema, Jetur, Naphish and Kedemah.
 [16] These are the sons of Ishmael, and these are their names.
 Their villages and their camps are named after them.
-They are twelve princes, each with his own people.
+They are 12 princes, each with his own people.
 
 [17] Ishmael lived to be 137 years old.
 Then he breathed his last and died.
@@ -69,7 +69,7 @@ Shur is near Egypt, on the way toward Assyria.
 Ishmael lived opposite all his relatives.
 
 > **What does this mean?**
-> God keeps his promise to Hagar and Abraham: Ishmael becomes a great people. “He will become the father of twelve princes” (Genesis 17:20).
+> God keeps his promise to Hagar and Abraham: Ishmael becomes a great people. “He will become the father of 12 princes” (Genesis 17:20).
 > Kedar and Nebaioth later were well-known Arab tribes in the desert.
 > “Opposite all his relatives” reminds us of the angel’s words to Hagar (Genesis 16:12). Ishmael’s descendants live on their own, apart from the others.
 

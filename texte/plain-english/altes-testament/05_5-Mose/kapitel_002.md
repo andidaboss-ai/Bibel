@@ -23,7 +23,7 @@ For I have given Mount Seir to Esau as his own.
 You shall also buy water from them with money, so that you can drink.’”
 [7] For the LORD your God has blessed you in all the work of your hands.
 He has known how you walked through this great wilderness.
-For these forty years the LORD your God has been with you.
+For these 40 years the LORD your God has been with you.
 You have not lacked anything.
 [8] So we passed by our brothers, the people of Esau, who live in Seir.
 We went away from the road through the Arabah, from Elath and from Ezion Geber.
@@ -58,12 +58,12 @@ just as Israel did to the land that it owns, which the LORD gave to them.)
 
 ---
 
-## Thirty-eight years (Verses 13–15)
+## 38 years (Verses 13–15)
 
 [13] “Now get up and cross over the brook Zered.”
 And we crossed over the brook Zered.
 [14] The time from when we left Kadesh Barnea until we crossed the brook Zered
-was thirty-eight years.
+was 38 years.
 In that time the whole generation of the men of war had died out from the camp,
 as the LORD had sworn to them.
 [15] And the LORD’s hand was against them,

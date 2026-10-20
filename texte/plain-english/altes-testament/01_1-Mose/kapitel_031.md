@@ -30,7 +30,7 @@ He called them to the field where his flock was.
 But the God of my father has been with me.
 [6] You know that I have worked for your father with all my strength.
 [7] But your father has tricked me.
-He has changed my pay ten times.
+He has changed my pay 10 times.
 But God did not let him hurt me.
 [8] If he said, ‘The speckled animals will be your pay,’
 then the whole flock gave birth to speckled young.
@@ -64,7 +64,7 @@ So now do whatever God has told you.”
 
 > **What does this mean?**
 > Jacob tells his wives the whole truth: It was not his sticks that made him rich. It was God. God saw how unfair Laban is, and he made sure that justice was done.
-> “Changed my pay ten times” means: again and again, very often.
+> “Changed my pay 10 times” means: again and again, very often.
 > For the first time, Rachel and Leah agree! Both are disappointed in their father. He treated them like goods. He kept the bride price – Jacob’s 14 years of work – for himself, instead of giving some of it to his daughters, as was the custom.
 
 ---
@@ -183,9 +183,9 @@ In the day, the heat wore me out, and at night, the frost.
 And I could not sleep.
 
 [41] I have been in your house for 20 years now.
-I worked for you 14 years for your two daughters
-and six years for your flock.
-And you have changed my pay ten times.
+I worked for you 14 years for your 2 daughters
+and 6 years for your flock.
+And you have changed my pay 10 times.
 [42] If the God of my father had not been with me,
 the God of Abraham, whom Isaac fears,
 then you would surely have sent me away now with empty hands.

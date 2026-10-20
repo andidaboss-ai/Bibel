@@ -33,7 +33,7 @@ They struck the Canaanites and the Perizzites.
 They chased him, caught him,
 and cut off his thumbs and his big toes.
 [7] Adoni-Bezek said,
-“Seventy kings with their thumbs and big toes cut off
+“70 kings with their thumbs and big toes cut off
 have looked for scraps of food under my table.
 As I have done, so God has paid me back.”
 They brought him to Jerusalem, and he died there.
@@ -41,7 +41,7 @@ They brought him to Jerusalem, and he died there.
 > **What does this mean?**
 > After Joshua’s death, there is no single leader anymore. The tribes ask God himself. Judah, the largest tribe, is to begin.
 > “Adoni-Bezek” means “lord of Bezek.”
-> The punishment is cruel: Without thumbs, you cannot hold a sword. Without big toes, you cannot run well. This was how warriors were made unable to fight. Adoni-Bezek himself had done this to seventy kings. He realizes: What I did to others has now happened to me.
+> The punishment is cruel: Without thumbs, you cannot hold a sword. Without big toes, you cannot run well. This was how warriors were made unable to fight. Adoni-Bezek himself had done this to 70 kings. He realizes: What I did to others has now happened to me.
 > This is not a call to cut off parts of people’s bodies. The Bible is telling how cruel the time was.
 
 ---

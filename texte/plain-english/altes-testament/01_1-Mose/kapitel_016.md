@@ -16,7 +16,7 @@ And Abram listened to Sarai.
 
 [3] So Sarai, Abram’s wife, took her Egyptian servant Hagar
 and gave her to her husband Abram to be his wife.
-That was after Abram had lived in the land of Canaan for ten years.
+That was after Abram had lived in the land of Canaan for 10 years.
 [4] Abram slept with Hagar, and she became pregnant.
 When Hagar saw that she was pregnant, she looked down on her mistress.
 Her mistress was the woman she served.
@@ -34,7 +34,7 @@ Then Sarai treated her harshly.
 And Hagar ran away from her.
 
 > **What does this mean?**
-> Abram and Sarai have been waiting for ten years. God’s promise is not coming true. So Sarai takes matters into her own hands.
+> Abram and Sarai have been waiting for 10 years. God’s promise is not coming true. So Sarai takes matters into her own hands.
 > Back then, it was common: If a woman could not have children, she could give her servant to her husband. The servant’s child then counted as her own child. For us today, that is hard to understand. Hagar is not asked. She is a slave.
 > Their own plan only brings conflict: Hagar becomes proud, Sarai becomes jealous and harsh, and Abram avoids his responsibility.
 > The Bible tells this honestly. It shows: When we try to force God’s promises with our own means, suffering often follows.

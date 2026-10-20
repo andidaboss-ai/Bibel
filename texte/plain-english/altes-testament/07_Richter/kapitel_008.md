@@ -24,7 +24,7 @@ When he had said this, their anger against him calmed down.
 ## Succoth and Penuel refuse to help (Verses 4–9)
 
 [4] Gideon came to the Jordan and crossed over,
-he and the three hundred men who were with him.
+he and the 300 men who were with him.
 They were worn out, but they kept chasing the enemies.
 [5] He said to the men of Succoth,
 “Please give loaves of bread to the people who follow me.
@@ -132,21 +132,21 @@ And all Israel was unfaithful to God with it there, like a prostitute.
 And it became a trap for Gideon and his family.
 [28] So Midian was brought down in front of the people of Israel,
 and they did not lift up their heads anymore.
-And the land had rest for forty years in the days of Gideon.
+And the land had rest for 40 years in the days of Gideon.
 
 > **What does this mean?**
 > A shekel is a little under half an ounce. So 1,700 shekels are about 42 pounds.
 > Here the Midianites are called “Ishmaelites.” Both peoples were nomads from the desert. Sometimes the Bible uses both names for the same people (see Genesis 37:25–28).
 > An “ephod” was a piece of clothing worn by the high priest. It was used to ask for God’s will (Exodus 28). Gideon made himself his own ephod out of gold. Maybe he wanted to honor God. But it became an idol. People worshiped it instead of God.
 > This is Gideon’s tragedy: He said, “The LORD shall rule over you,” but he himself made something that led people away from God. Meaning well is not always the same as doing well.
-> Still: forty years of peace. God really did save Israel through Gideon.
+> Still: 40 years of peace. God really did save Israel through Gideon.
 
 ---
 
 ## Gideon’s death (Verses 29–35)
 
 [29] Jerubbaal the son of Joash went and lived in his own house.
-[30] Gideon had seventy sons of his own, for he had many wives.
+[30] Gideon had 70 sons of his own, for he had many wives.
 [31] His concubine, who lived in Shechem, also had a son by him.
 And he named him Abimelech.
 [32] Gideon the son of Joash died at a good old age.
@@ -160,7 +160,7 @@ who had rescued them from the hand of all their enemies around them.
 for all the good he had done for Israel.
 
 > **What does this mean?**
-> Gideon refused the crown, but he lived like a king: many wives, seventy sons, great wealth. And he named a son “Abimelech,” which means “my father is king.” What a name!
+> Gideon refused the crown, but he lived like a king: many wives, 70 sons, great wealth. And he named a son “Abimelech,” which means “my father is king.” What a name!
 > A “concubine” was a woman who lived with a man but had fewer rights than a wife.
 > As soon as Gideon is dead, the cycle starts all over again. “Baal Berith” means “lord of the covenant.” The people make a covenant with a false god instead of with the true God.
 > The next chapter tells what becomes of Abimelech.

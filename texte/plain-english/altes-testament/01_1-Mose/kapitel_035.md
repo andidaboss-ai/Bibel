@@ -108,7 +108,7 @@ It is the pillar of Rachel’s grave to this day.
 
 ---
 
-## Reuben and the twelve sons of Jacob (Verses 21–26)
+## Reuben and the 12 sons of Jacob (Verses 21–26)
 
 [21] Israel traveled on.
 He set up his tent beyond the tower of Eder.
@@ -116,7 +116,7 @@ He set up his tent beyond the tower of Eder.
 A concubine is a wife of lower rank.
 And Israel heard about it.
 
-Jacob had twelve sons.
+Jacob had 12 sons.
 [23] The sons of Leah were:
 Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar and Zebulun.
 [24] The sons of Rachel were:
@@ -131,7 +131,7 @@ These are the sons of Jacob who were born to him in Paddan Aram.
 > “Tower of Eder” means “tower of the flock.”
 > Reuben sleeps with Bilhah, his father’s concubine. That is a serious wrong. Back then, such a thing also meant: I want to take over my father’s power. Because of this, Reuben later loses his rights as the firstborn (Genesis 49:3–4).
 > Jacob hears about it – and keeps silent again. Just as he kept silent about Dinah.
-> The list of the twelve sons is very important: The twelve tribes of Israel come from them.
+> The list of the 12 sons is very important: The 12 tribes of Israel come from them.
 > Actually, Benjamin was not born in Paddan Aram, but near Bethlehem. The list simply counts them all together.
 
 ---

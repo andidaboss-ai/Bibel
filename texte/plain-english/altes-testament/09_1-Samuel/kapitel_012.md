@@ -45,8 +45,8 @@ They said, “He is a witness.”
 [6] Samuel said to the people,
 “The LORD chose Moses and Aaron.
 He brought your ancestors out of the land of Egypt.
-[7] So now stand here in front of the LORD.
-I will speak to you openly.
+[7] So now stand still.
+I will argue my case with you in front of the LORD.
 I will remind you of all the good and right things the LORD has done
 for you and for your ancestors.
 [8] Jacob went to Egypt.
@@ -89,10 +89,10 @@ Now the LORD has given you a king.
 
 ## If you obey God (Verses 14–15)
 
-[14] You must have respect for the LORD and serve him.
-You must listen to what he says.
-You must not go against the LORD’s commands.
-Then both you and the king who rules over you
+[14] “If you have respect for the LORD and serve him,
+if you listen to what he says
+and do not go against the LORD’s commands,
+then both you and the king who rules over you
 will follow the LORD your God.
 [15] But maybe you will not listen to what the LORD says.
 Maybe you will go against the LORD’s commands.
@@ -107,7 +107,7 @@ just as he turned against your ancestors.
 
 ## Thunder at the wheat harvest (Verses 16–19)
 
-[16] So now stand here and watch.
+[16] “So now stand still and watch.
 The LORD will do a great thing right in front of you.
 [17] It is time for the wheat harvest now, isn’t it?
 I will call to the LORD.
@@ -121,8 +121,7 @@ Then all the people were very afraid of the LORD and of Samuel.
 [19] All the people said to Samuel,
 “Pray for your servants to the LORD your God.
 Pray that we will not die.
-We have sinned many times.
-And now we have added this evil to all our sins:
+We have added this evil to all our sins:
 we have asked for a king.”
 
 > **What does this mean?**
@@ -145,7 +144,7 @@ because they are empty.
 for his great name’s sake.
 It has pleased the LORD to make you his own people.
 [23] And I will never sin against the LORD
-by stopping to pray for you.
+by no longer praying for you.
 I will go on teaching you the way that is good and right.
 [24] Only have respect for the LORD.
 Serve him faithfully with all your heart.

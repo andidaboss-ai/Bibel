@@ -9,12 +9,12 @@
 [2] So the LORD sold them into the hand of Jabin, the king of Canaan, who ruled in Hazor.
 The commander of his army was Sisera, who lived in Harosheth of the Gentiles.
 [3] Then the people of Israel cried out to the LORD.
-For he had nine hundred chariots of iron,
-and he cruelly oppressed the people of Israel for twenty years.
+For he had 900 chariots of iron,
+and he cruelly oppressed the people of Israel for 20 years.
 
 > **What does this mean?**
 > Again the cycle: Ehud dies, Israel falls away, an enemy comes.
-> Nine hundred chariots of iron were a huge army at that time. Israel had no such weapons.
+> 900 chariots of iron were a huge army at that time. Israel had no such weapons.
 > In Hebrew, “Harosheth of the Gentiles” is called “Harosheth Haggoyim.” “Gentiles” means peoples who did not belong to Israel.
 
 ---
@@ -66,7 +66,7 @@ He had set up his tent as far away as the oak in Zaanannim, which is near Kedesh
 ## The victory at the river Kishon (Verses 12–16)
 
 [12] Sisera was told that Barak the son of Abinoam had gone up to Mount Tabor.
-[13] So Sisera gathered all his chariots, nine hundred chariots of iron,
+[13] So Sisera gathered all his chariots, 900 chariots of iron,
 and all the people who were with him, from Harosheth of the Gentiles to the river Kishon.
 [14] Deborah said to Barak,
 “Go! For this is the day on which the LORD has given Sisera into your hand.

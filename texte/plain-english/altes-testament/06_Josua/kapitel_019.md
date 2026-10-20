@@ -27,7 +27,7 @@ So the people of Simeon received their land in the middle of Judah’s land.
 > Simeon gets no area of its own, but cities in the middle of Judah. This fulfills what Jacob said before he died: Simeon will be scattered in Israel (Genesis 49:7).
 > Later, the tribe of Simeon became completely part of the tribe of Judah. That is why it is no longer mentioned in the blessing of Moses in Deuteronomy 33.
 > Judah had too much land. It shares with its smaller brother tribe.
-> If you count “Sheba” as its own place, there are fourteen names in verses 2–6. But “Beersheba (or Sheba)” probably means the same place. Then the number 13 is right.
+> If you count “Sheba” as its own place, there are 14 names in verses 2–6. But “Beersheba (or Sheba)” probably means the same place. Then the number 13 is right.
 
 ---
 

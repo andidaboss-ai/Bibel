@@ -111,4 +111,4 @@ from the river of Egypt to the great river, the Euphrates River:
 > The smoking fire pot and the torch are signs of God himself. In the Bible, God often shows himself in fire and smoke, for example later at Mount Sinai.
 > What is special: Only God passes between the halves of the animals. Abram is asleep. God alone binds himself. In this way he says: I stand behind this promise with my own life. Abram does not have to add anything.
 > The “river of Egypt” is probably a stream at the border between Canaan and Egypt. The Euphrates flows through what is now Syria and Iraq. That is a huge area.
-> The list of ten peoples shows: The land is already inhabited. God’s promise will only come true in the distant future.
+> The list of 10 peoples shows: The land is already inhabited. God’s promise will only come true in the distant future.

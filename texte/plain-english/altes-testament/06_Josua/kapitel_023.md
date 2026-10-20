@@ -33,7 +33,7 @@ Do not serve them, and do not bow down to them.
 [8] But hold on to the LORD your God, as you have done to this day.
 [9] For the LORD has driven out great and strong nations in front of you.
 And no one has been able to stand against you to this day.
-[10] One man of you will chase a thousand,
+[10] One man of you will chase 1,000,
 for it is the LORD your God who fights for you, as he told you.
 [11] So be very careful with yourselves, that you love the LORD your God.
 

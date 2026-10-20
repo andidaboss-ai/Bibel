@@ -91,7 +91,7 @@ So we also will take everything that the LORD our God has driven out in front of
 Did he ever quarrel with Israel, or did he ever fight against them?
 [26] Israel has lived in Heshbon and its towns,
 in Aroer and its towns,
-and in all the cities along the Arnon for three hundred years!
+and in all the cities along the Arnon for 300 years!
 Why didn’t you take them back during that time?
 [27] I have not sinned against you.
 But you are doing me wrong by making war against me.
@@ -120,7 +120,7 @@ shall belong to the LORD,
 and I will offer it up as a burnt offering.”
 [32] So Jephthah went over to the people of Ammon to fight against them.
 And the LORD gave them into his hand.
-[33] He struck them from Aroer to Minnith, twenty cities, and as far as Abelcheramim,
+[33] He struck them from Aroer to Minnith, 20 cities, and as far as Abelcheramim,
 with a very great slaughter.
 So the people of Ammon were brought down in front of the people of Israel.
 

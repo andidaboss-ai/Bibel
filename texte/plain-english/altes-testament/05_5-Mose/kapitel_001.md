@@ -19,7 +19,7 @@ In this book, Moses usually calls Mount Sinai “Horeb.” It is the same mounta
 [1] These are the words that Moses spoke to all Israel
 beyond the Jordan, in the wilderness, in the Arabah, opposite Suf,
 between Paran, Tophel, Laban, Hazeroth, and Dizahab.
-[2] From Horeb by the way of Mount Seir to Kadesh Barnea is a journey of eleven days.
+[2] From Horeb by the way of Mount Seir to Kadesh Barnea is a journey of 11 days.
 [3] In the fortieth year, in the eleventh month, on the first day of the month,
 Moses spoke to the people of Israel.
 He told them everything that the LORD had commanded him to tell them.
@@ -30,7 +30,7 @@ and Og, the king of Bashan, who lived in Ashtaroth, at Edrei.
 > **What does this mean?**
 > “Beyond the Jordan” means here: east of the Jordan, where the people are camping right now.
 > The “Arabah” is the deep valley that reaches from the Sea of Galilee past the Dead Sea down to the Red Sea.
-> Verse 2 is a quiet complaint: The way from Horeb to Kadesh takes only eleven days. But the people needed 40 years, because they did not trust God.
+> Verse 2 is a quiet complaint: The way from Horeb to Kadesh takes only 11 days. But the people needed 40 years, because they did not trust God.
 > Moses begins “to explain this law.” He does not give a completely new law. He explains it, so that the new generation understands it.
 
 ---
@@ -61,7 +61,7 @@ that he would give it to them and to their descendants after them.’”
 “I cannot carry you all by myself.
 [10] The LORD your God has made you many.
 Look! Today you are as many as the stars in the sky.
-[11] May the LORD, the God of your ancestors, make you a thousand times as many as you are now.
+[11] May the LORD, the God of your ancestors, make you 1,000 times as many as you are now.
 And may he bless you, as he has promised you!
 [12] How can I alone carry your problems, your burdens, and your quarrels?
 [13] Choose wise men who have understanding and who are respected in your tribes.
@@ -110,7 +110,7 @@ They should explore the land for us.
 They should tell us which way we should go up,
 and which cities we will come to.”
 [23] I liked the idea very much.
-I took twelve of your men, one man from each tribe.
+I took 12 of your men, one man from each tribe.
 [24] They turned and went up into the hill country.
 They came to the valley of Eshcol and spied it out.
 [25] They took some of the fruit of the land in their hands and brought it down to us.

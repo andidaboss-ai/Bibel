@@ -64,7 +64,7 @@ to go to war against them.
 
 [13] The people of Israel sent Phinehas, the son of Eleazar the priest,
 to the people of Reuben, the people of Gad, and the half-tribe of Manasseh, in the land of Gilead.
-[14] With him were ten leaders, one leader of a family for each tribe of Israel.
+[14] With him were 10 leaders, one leader of a family for each tribe of Israel.
 Each of them was the head of his family among the thousands of Israel.
 [15] They came to the people of Reuben, the people of Gad, and the half-tribe of Manasseh, in the land of Gilead,
 and spoke with them. They said,

@@ -98,5 +98,5 @@ to divide the inheritance among the people of Israel in the land of Canaan.
 
 > **What does this mean?**
 > The land is to be divided fairly. That is why every tribe gets a representative. No tribe is to be treated unfairly.
-> Only ten tribes are named. Reuben and Gad are missing, because they already have their land. Manasseh still gets a representative, because the other half of the tribe will still receive land west of the Jordan.
+> Only 10 tribes are named. Reuben and Gad are missing, because they already have their land. Manasseh still gets a representative, because the other half of the tribe will still receive land west of the Jordan.
 > Caleb is the only well-known name. He was one of the two faithful spies. Now, after 40 years, he may help divide the land that he explored back then.

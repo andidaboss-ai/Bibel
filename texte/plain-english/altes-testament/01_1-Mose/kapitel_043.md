@@ -162,7 +162,7 @@ But Benjamin’s portion was five times as big as anyone else’s.
 They drank with him and had a good time.
 
 > **What does this mean?**
-> Once again the brothers bow down before Joseph – this time all eleven. Now the second dream has come true as well.
+> Once again the brothers bow down before Joseph – this time all 11. Now the second dream has come true as well.
 > When Joseph sees his little brother Benjamin, the only other son of his mother, he cannot hold back the tears. Benjamin was a small child when Joseph was sold.
 > The Egyptians did not eat with foreigners. They thought they were better. That is why there are three separate tables.
 > The brothers are seated exactly in the order of their age. How does this Egyptian know that? They are amazed.

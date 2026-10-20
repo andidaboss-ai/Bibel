@@ -20,7 +20,7 @@ about 3,000 feet on the west side
 and about 3,000 feet on the north side.
 The city will be in the middle.
 This will be the pasture land of their cities.
-[6] “Among the cities that you give to the Levites will be the six cities of refuge.
+[6] “Among the cities that you give to the Levites will be the 6 cities of refuge.
 You must give them so that someone who has killed a person can flee there.
 Besides them, you must give 42 cities.
 [7] All the cities that you give to the Levites will be 48 cities together, with their pasture land.

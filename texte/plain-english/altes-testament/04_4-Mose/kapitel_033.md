@@ -33,7 +33,7 @@ And they camped across from Migdol.
 [8] They set out from Hahiroth and went through the middle of the sea into the wilderness.
 They traveled three days in the wilderness of Etham and camped in Marah.
 [9] They set out from Marah and came to Elim.
-In Elim there were twelve springs of water and seventy palm trees. They camped there.
+In Elim there were 12 springs of water and 70 palm trees. They camped there.
 [10] They set out from Elim and camped by the Red Sea.
 [11] They set out from the Red Sea and camped in the wilderness of Sin.
 [12] They set out from the wilderness of Sin and camped in Dophkah.

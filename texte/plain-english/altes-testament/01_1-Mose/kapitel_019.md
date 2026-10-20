@@ -164,7 +164,7 @@ when he destroyed the cities where Lot had lived.
 > **What does this mean?**
 > Sodom and Gomorrah were probably in the area south of the Dead Sea. To this day, there is a lot of salt, sulfur and tar there. Some researchers think there was an earthquake or a natural disaster. The Bible says: It was God’s judgment.
 > Lot’s wife looks back, even though this was forbidden. In her heart, she still clings to Sodom. Later, Jesus reminds people: Remember Lot’s wife! (Luke 17:32). This means: Whoever is saved should not hold on to the old, evil life.
-> Abraham stands at the same place where he prayed for Sodom. He only sees smoke. There were not even ten righteous people.
+> Abraham stands at the same place where he prayed for Sodom. He only sees smoke. There were not even 10 righteous people.
 > But verse 29 says: “God remembered Abraham.” Abraham’s prayer was not in vain. Lot was saved.
 
 ---

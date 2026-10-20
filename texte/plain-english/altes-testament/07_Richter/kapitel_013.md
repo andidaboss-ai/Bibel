@@ -6,7 +6,7 @@
 ## The Philistines rule over Israel (Verse 1)
 
 [1] The people of Israel again did what was evil in the eyes of the LORD.
-And the LORD gave them into the hand of the Philistines for forty years.
+And the LORD gave them into the hand of the Philistines for 40 years.
 
 > **What does this mean?**
 > Again the story begins as it so often does in the book of Judges: Israel turns away from God, and a foreign people rules over the land.

@@ -55,7 +55,7 @@ he will leave the people in the wilderness again.
 And you will destroy this whole people.”
 
 > **What does this mean?**
-> Moses is afraid: It could become like it was 38 years ago. Back then, ten spies took away the people’s courage (Chapters 13 and 14). That is why the people had to stay in the wilderness for 40 years.
+> Moses is afraid: It could become like it was 38 years ago. Back then, 10 spies took away the people’s courage (Chapters 13 and 14). That is why the people had to stay in the wilderness for 40 years.
 > If two tribes now say, “We are staying here,” then the others might think, “Then why should we fight?” Moses sees the danger: The unity of the people could break apart.
 > Moses says it very harshly: You are like your fathers. You are putting the whole people in danger.
 

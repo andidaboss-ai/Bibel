@@ -121,7 +121,7 @@ But he himself stayed in the camp that night.
 ## The fight at night (Verses 22–32)
 
 [22] That same night, Jacob got up.
-He took his two wives, his two female servants and his eleven sons.
+He took his 2 wives, his 2 female servants and his 11 sons.
 He crossed the river Jabbok at a shallow place.
 [23] He took them and sent them across the stream.
 He also sent across everything he had.

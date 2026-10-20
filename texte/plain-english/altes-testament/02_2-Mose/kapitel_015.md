@@ -145,4 +145,4 @@ They camped there by the water.
 > In the Bible, “to complain” here means: to grumble and be unhappy.
 > Moses does the right thing: He brings the need to God.
 > “I am the LORD who heals you” – a beautiful name for God. God wants to heal, not to make people sick.
-> After the bitter water comes Elim: an oasis with 12 springs and 70 palm trees. Twelve like the twelve tribes, 70 like the 70 descendants of Jacob. God provides enough for everyone.
+> After the bitter water comes Elim: an oasis with 12 springs and 70 palm trees. 12 like the 12 tribes, 70 like the 70 descendants of Jacob. God provides enough for everyone.

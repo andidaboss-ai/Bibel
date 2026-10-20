@@ -126,7 +126,7 @@ So I will kill your son, your firstborn.’”
 > Moses is respectful. He asks his father-in-law for permission.
 > The shepherd’s staff is now called “God’s staff.” Through God’s task, a simple object has become something special.
 > “I will make his heart hard” – for many readers this is a difficult passage. Does it mean that Pharaoh has no choice? In the next chapters, it often also says: Pharaoh made his heart hard **himself**. Many interpreters understand it like this: Pharaoh decides against God again and again. And God lets him stay with his decision and confirms it.
-> “Israel is my son, my firstborn” – God loves his people the way a father loves his child. Pharaoh will not set God’s son free. So he will lose his own son. That is the last and worst of the ten plagues (Chapter 12).
+> “Israel is my son, my firstborn” – God loves his people the way a father loves his child. Pharaoh will not set God’s son free. So he will lose his own son. That is the last and worst of the 10 plagues (Chapter 12).
 
 ---
 

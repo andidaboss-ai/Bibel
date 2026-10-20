@@ -111,7 +111,7 @@ For they could not drink the water of the river.
 [25] Seven days went by after the LORD had struck the river.
 
 > **What does this mean?**
-> Now the ten plagues begin. A plague is a great disaster that comes over a land.
+> Now the 10 plagues begin. A plague is a great disaster that comes over a land.
 > The river is the Nile. The Nile was the heart of Egypt. The Egyptians worshiped it as a god. God shows: The Nile is not a god. I am the Lord over it.
 > Remember: Pharaoh had ordered the Hebrew babies to be thrown into the Nile (Exodus 1:22). Now the Nile itself turns into blood.
 > Pharaoh simply goes home. He has enough to drink after all. He does not care about the suffering of his people.

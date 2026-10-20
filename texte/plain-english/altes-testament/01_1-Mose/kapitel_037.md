@@ -46,7 +46,7 @@ And they hated him even more because of his dreams and because of his words.
 He told this one to his brothers too.
 He said,
 “Look, I have had another dream:
-Look, the sun and the moon and eleven stars bowed down to me.”
+Look, the sun and the moon and 11 stars bowed down to me.”
 [10] He told it to his father and to his brothers.
 His father scolded him.
 He said to him,
@@ -60,7 +60,7 @@ But his father kept these words in mind.
 > Sheaves are bundles of grain stalks that are tied together at harvest time.
 > Joseph’s dreams say: One day the whole family will bow down before him. That will really happen – but very differently from what everyone thinks.
 > Joseph is young and tells his dreams without thinking of others. He does not notice how much he hurts his brothers with them.
-> The sun and the moon stand for father and mother, the eleven stars for the eleven brothers. Actually, Rachel has already died. Maybe Leah is meant here, or the dream simply speaks of “the parents.”
+> The sun and the moon stand for father and mother, the 11 stars for the 11 brothers. Actually, Rachel has already died. Maybe Leah is meant here, or the dream simply speaks of “the parents.”
 > Jacob scolds him, but he does not forget the dreams. He suspects: Maybe God is behind them.
 
 ---

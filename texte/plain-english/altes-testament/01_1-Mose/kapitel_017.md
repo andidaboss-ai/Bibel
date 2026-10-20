@@ -103,7 +103,7 @@ I will make my covenant with him, as an everlasting covenant for his descendants
 [20] And about Ishmael, I have heard you.
 Look: I have blessed him.
 I will make him fruitful and very, very many.
-He will become the father of twelve princes.
+He will become the father of 12 princes.
 And I will make him into a great nation.
 [21] But I will make my covenant with Isaac.
 Sarah will give birth to him for you at this time next year.”

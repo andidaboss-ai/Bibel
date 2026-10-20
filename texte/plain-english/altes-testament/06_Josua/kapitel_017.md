@@ -27,14 +27,14 @@ These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 [4] They came to Eleazar the priest, to Joshua the son of Nun, and to the leaders and said,
 “The LORD commanded Moses to give us an inheritance among our brothers.”
 So, as the LORD had commanded, he gave them an inheritance among their father’s brothers.
-[5] So ten shares fell to Manasseh,
+[5] So 10 shares fell to Manasseh,
 in addition to the land of Gilead and Bashan, which is beyond the Jordan.
 [6] For the daughters of Manasseh received an inheritance among his sons.
 And the land of Gilead belonged to the rest of the sons of Manasseh.
 
 > **What does this mean?**
 > We know the five sisters from Numbers 27 and 36. Moses had promised them an inheritance. Now, years later, they confidently remind the leaders of it. And the promise is kept.
-> The ten shares: five for the clans of the sons (without Hepher) and five for the daughters of Zelophehad. The women receive land just like the men.
+> The 10 shares: five for the clans of the sons (without Hepher) and five for the daughters of Zelophehad. The women receive land just like the men.
 
 ---
 

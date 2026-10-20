@@ -13,7 +13,7 @@ So Jacob said to his sons,
 Go down there and buy grain for us from there.
 Then we will live and not die.”
 
-[3] So Joseph’s ten brothers went down to buy grain from Egypt.
+[3] So Joseph’s 10 brothers went down to buy grain from Egypt.
 [4] But Jacob did not send Benjamin, Joseph’s brother, with his brothers.
 For he said, “Something bad might happen to him.”
 [5] So the sons of Israel came to buy grain, together with the others who came.
@@ -66,7 +66,7 @@ Your servants are not spies.”
 You have come to find out where the land is weak and unprotected!”
 
 [13] They said,
-“We, your servants, are twelve brothers,
+“We, your servants, are 12 brothers,
 the sons of one man in the land of Canaan.
 Look: The youngest is with our father today.
 And one is no more.”
@@ -161,7 +161,7 @@ They said,
 He thought we were spies who wanted to explore the country.
 [31] We said to him,
 ‘We are honest men. We are not spies.
-[32] We are twelve brothers, sons of our father.
+[32] We are 12 brothers, sons of our father.
 One is no more.
 And the youngest is with our father today in the land of Canaan.’
 [33] Then the man, the lord of the land, said to us,
@@ -196,6 +196,6 @@ then you will bring my gray hairs down to Sheol (the world of the dead) in sorro
 
 > **What does this mean?**
 > Jacob is bitter. He blames his sons – more than he knows. For in fact, they did take Joseph away from him.
-> “He is the only one left” – for Jacob, only Rachel’s sons count. The other ten sons have to listen to that. That hurts.
+> “He is the only one left” – for Jacob, only Rachel’s sons count. The other 10 sons have to listen to that. That hurts.
 > Reuben’s offer is well meant, but not thought through: What good would it do Jacob to kill his own grandsons?
 > “Sheol” is the world of the dead again, as in Chapter 37. “Bring my gray hairs down to Sheol” means: You will make me, an old man, die of grief.

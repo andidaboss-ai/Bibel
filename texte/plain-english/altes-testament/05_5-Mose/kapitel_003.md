@@ -15,7 +15,7 @@ You shall do to him what you did to Sihon, the king of the Amorites, who lived i
 We struck him down until no one was left to him.
 [4] At that time we took all his cities.
 There was not one city that we did not take from them:
-sixty cities, the whole region of Argob, the kingdom of Og in Bashan.
+60 cities, the whole region of Argob, the kingdom of Og in Bashan.
 [5] All these were cities made strong with high walls, gates, and bars.
 And there were also very many villages without walls.
 [6] We completely destroyed them, as we had done to Sihon, the king of Heshbon.

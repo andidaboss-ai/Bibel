@@ -9,16 +9,16 @@
 He spoke with them and with the whole family of his mother’s father and said,
 [2] “Please say to all the men of Shechem:
 ‘Which is better for you:
-that seventy men, all the sons of Jerubbaal, rule over you,
+that 70 men, all the sons of Jerubbaal, rule over you,
 or that one man rules over you?’
 Remember also that I am your own flesh and blood.”
 [3] His mother’s brothers said all these words about him to all the men of Shechem.
 Their hearts turned toward Abimelech,
 for they said, “He is our brother.”
-[4] They gave him seventy pieces of silver from the temple of Baal Berith.
+[4] They gave him 70 pieces of silver from the temple of Baal Berith.
 With it Abimelech hired worthless and reckless men, who followed him.
 [5] He went to his father’s house at Ophrah
-and killed his brothers, the sons of Jerubbaal, seventy men, on one stone.
+and killed his brothers, the sons of Jerubbaal, 70 men, on one stone.
 Only Jotham, the youngest son of Jerubbaal, was left, because he had hidden himself.
 [6] Then all the men of Shechem and all the house of Millo gathered together.
 They went and made Abimelech king by the oak of the pillar in Shechem.
@@ -27,7 +27,7 @@ They went and made Abimelech king by the oak of the pillar in Shechem.
 > Abimelech was the son of Gideon’s concubine from Shechem. He wants to become king, even though his father had refused the crown.
 > He plays with where he comes from: I am one of you. The people in Shechem support him because he is “our brother.”
 > The money comes from the temple of a false god. And with it he pays a gang of thugs.
-> Then a terrible crime happens: He murders seventy of his own brothers “on one stone,” as at an execution. Only the youngest, Jotham, is able to hide.
+> Then a terrible crime happens: He murders 70 of his own brothers “on one stone,” as at an execution. Only the youngest, Jotham, is able to hide.
 > The Bible tells this story as a warning: This is what power looks like when it does not come from God but is built on violence and lies.
 > “The house of Millo” was probably a fortress or a part of the city of Shechem.
 
@@ -71,7 +71,7 @@ and have you done to him what his deeds deserved?
 [17] (For my father fought for you, he risked his life,
 and he rescued you from the hand of Midian.
 [18] But today you have risen up against my father’s family
-and killed his sons, seventy men, on one stone.
+and killed his sons, 70 men, on one stone.
 And you have made Abimelech, the son of his female servant, king over the men of Shechem,
 because he is your brother.)
 [19] If you have acted honestly and sincerely with Jerubbaal and his family today,
@@ -94,7 +94,7 @@ He went to Beer and lived there, because he was afraid of his brother Abimelech.
 [22] Abimelech ruled over Israel for three years.
 [23] Then God sent an evil spirit between Abimelech and the men of Shechem.
 And the men of Shechem betrayed Abimelech.
-[24] This happened so that the violence done to the seventy sons of Jerubbaal would be paid back,
+[24] This happened so that the violence done to the 70 sons of Jerubbaal would be paid back,
 and their blood would come on their brother Abimelech, who had killed them,
 and on the men of Shechem, who had helped him kill his brothers.
 [25] The men of Shechem set an ambush for him on the tops of the mountains.
@@ -182,11 +182,11 @@ And he said to the people who were with him,
 “What you have seen me do, hurry and do just as I have done!”
 [49] So all the people each cut down a branch and followed Abimelech.
 They put the branches against the stronghold and set the stronghold on fire over them.
-So all the people of the tower of Shechem died too, about a thousand men and women.
+So all the people of the tower of Shechem died too, about 1,000 men and women.
 
 > **What does this mean?**
 > Abimelech destroys the city that made him king. He scatters salt over the ruins so that nothing will grow there anymore. This was a sign: This city is to be cursed forever.
-> Then he burns a thousand people, men and women, who had hidden in the temple. This is a terrible massacre.
+> Then he burns 1,000 people, men and women, who had hidden in the temple. This is a terrible massacre.
 > Jotham’s curse comes true: Fire has come out from Abimelech and burned up the men of Shechem. Just like the bramble in the fable.
 > “Elberith” means “god of the covenant,” probably the same god as “Baal Berith” (Verse 4). Of all places, the temple that gave the money for the murder of the brothers becomes a death trap.
 
@@ -209,7 +209,7 @@ So his young man stabbed him, and he died.
 [55] When the men of Israel saw that Abimelech was dead,
 they all went home, each to his own place.
 [56] So God paid Abimelech back for the evil he had done to his father
-by killing his seventy brothers.
+by killing his 70 brothers.
 [57] And God made all the evil of the men of Shechem fall back on their own heads.
 And the curse of Jotham the son of Jerubbaal came on them.
 

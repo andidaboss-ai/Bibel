@@ -43,7 +43,7 @@ and swore to him about this matter.
 
 ## The prayer at the well (Verses 10–14)
 
-[10] The servant took ten of his master’s camels.
+[10] The servant took 10 of his master’s camels.
 He also took many valuable gifts from his master with him.
 Then he set out for Mesopotamia, to the city of Nahor.
 
@@ -65,7 +65,7 @@ By this I will know that you have shown kindness to my master.”
 > **What does this mean?**
 > Mesopotamia is the land between the Euphrates and Tigris rivers, in what is now Syria and Iraq. The journey there was many hundreds of miles long.
 > The servant prays. He does not leave the important decision to chance. He leaves it to God.
-> His sign is wisely chosen: After a long journey, a camel can drink up to about 25 gallons of water. Giving water to ten camels is hard work. A woman who offers to do that on her own is helpful, hardworking and generous.
+> His sign is wisely chosen: After a long journey, a camel can drink up to about 25 gallons of water. Giving water to 10 camels is hard work. A woman who offers to do that on her own is helpful, hardworking and generous.
 
 ---
 
@@ -95,7 +95,7 @@ He wanted to know whether the LORD had made his journey successful or not.
 [22] When the camels had finished drinking, the man took a gold ring.
 It weighed half a shekel (about 0.2 ounces).
 And he took two gold bracelets for her arms.
-They weighed ten shekels (about 4 ounces).
+They weighed 10 shekels (about 4 ounces).
 [23] He said,
 “Whose daughter are you? Please tell me.
 Is there room in your father’s house for us to spend the night?”
@@ -113,7 +113,7 @@ As for me, the LORD has led me on the way to the house of my master’s relative
 
 > **What does this mean?**
 > God answers even before the servant has finished praying.
-> Rebekah does exactly what the servant said in his prayer – and even more. She runs and draws water until all ten camels have had enough.
+> Rebekah does exactly what the servant said in his prayer – and even more. She runs and draws water until all 10 camels have had enough.
 > And she belongs to exactly the family from which Isaac’s wife is to come: She is the granddaughter of Abraham’s brother Nahor (see Chapter 22).
 > A shekel is a weight of about 0.4 ounces.
 > The servant does not forget to thank God. He praises God for “his loving kindness and his faithfulness” – that means: God means well and keeps what he promises.
@@ -229,7 +229,7 @@ They stayed overnight.
 In the morning they got up, and he said,
 “Send me back to my master.”
 [55] Her brother and her mother said,
-“Let the young woman stay with us a few days, at least ten.
+“Let the young woman stay with us a few days, at least 10.
 After that she may go.”
 [56] But he said to them,
 “Do not hold me back!

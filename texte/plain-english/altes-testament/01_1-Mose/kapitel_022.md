@@ -141,4 +141,4 @@ She gave birth to Tebah, Gaham, Tahash and Maacah.
 > **What does this mean?**
 > After the dramatic story comes another list of names. It seems unimportant, but one name is very important: **Rebekah**. She will later become Isaac’s wife (Chapter 24).
 > Back then, a “concubine” was a woman who lived with a man and had children by him, but had fewer rights than the main wife.
-> Nahor has twelve sons – just like Ishmael and Jacob later. In the Bible, the number twelve often stands for a complete people.
+> Nahor has 12 sons – just like Ishmael and Jacob later. In the Bible, the number 12 often stands for a complete people.

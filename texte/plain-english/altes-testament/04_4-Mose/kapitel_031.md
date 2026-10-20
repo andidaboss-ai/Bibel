@@ -3,7 +3,7 @@
 
 ---
 
-## Twelve thousand men go to war (Verses 1–6)
+## 12,000 men go to war (Verses 1–6)
 
 [1] The LORD spoke to Moses. He said,
 [2] “Take revenge for the people of Israel on the Midianites.

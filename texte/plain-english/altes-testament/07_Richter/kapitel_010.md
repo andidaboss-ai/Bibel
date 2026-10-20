@@ -21,7 +21,7 @@ These cities are still called Havvoth Jair today.
 
 > **What does this mean?**
 > Only a little is told about Tola and Jair. They are called the “minor judges.” They led Israel in calmer times.
-> Thirty sons on thirty donkeys: This shows that Jair was rich and powerful. Whoever rode on a donkey was an important man.
+> 30 sons on 30 donkeys: This shows that Jair was rich and powerful. Whoever rode on a donkey was an important man.
 > “Havvoth Jair” means “tent villages of Jair” (see also Numbers 32:41).
 
 ---

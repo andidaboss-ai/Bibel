@@ -154,4 +154,4 @@ He starts again with a single family: with Abraham and Sarah.
 He promises them land, many descendants and blessing for all nations.
 Through four generations – Abraham, Isaac, Jacob and Joseph – God keeps his promise,
 even through mistakes, lies, quarrels and suffering.
-In the end, a family has become a nation of twelve tribes: Israel.
+In the end, a family has become a nation of 12 tribes: Israel.

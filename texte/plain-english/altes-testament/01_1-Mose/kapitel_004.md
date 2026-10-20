@@ -128,13 +128,13 @@ You wives of Lamech, listen to what I say:
 I have killed a man because he wounded me.
 I have killed a young man because he bruised me.
 [24] If Cain will be avenged seven times,
-then Lamech seventy-seven times!”
+then Lamech 77 times!”
 To be avenged means: Someone pays back the harm that was done to you.
 
 > **What does this mean?**
 > People become inventive: They build cities, move around with herds, make music and forge tools. This is how culture begins.
 > But at the same time, violence grows. Lamech boasts: For a small wound, he killed a person.
-> God wanted to protect Cain with the number seven. Lamech turns it into a threat: Seventy-seven!
+> God wanted to protect Cain with the number seven. Lamech turns it into a threat: 77!
 > Many centuries later, Jesus turns this saying around. He says: Do not take revenge again and again. Instead, **forgive** again and again – seventy times seven times (Matthew 18:22).
 
 ---

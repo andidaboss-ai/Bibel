@@ -1,5 +1,5 @@
 # Judges – Chapter 7
-### Gideon’s three hundred men
+### Gideon’s 300 men
 
 ---
 
@@ -23,15 +23,15 @@ And when I tell you, ‘This one shall not go with you,’ he shall not go.”
 And the LORD said to Gideon,
 “Everyone who laps the water with his tongue, as a dog laps, put him by himself.
 Do the same with everyone who gets down on his knees to drink.”
-[6] The number of those who lapped, putting their hand to their mouth, was three hundred men.
+[6] The number of those who lapped, putting their hand to their mouth, was 300 men.
 But all the rest of the people got down on their knees to drink water.
 [7] The LORD said to Gideon,
-“With the three hundred men who lapped I will save you
+“With the 300 men who lapped I will save you
 and give Midian into your hand.
 Let all the other people go, each to his own place.”
 [8] So the people took food in their hands, and their trumpets.
 And he sent all the other men of Israel to their tents.
-He kept only the three hundred men with him.
+He kept only the 300 men with him.
 And the camp of Midian lay below him in the valley.
 
 > **What does this mean?**
@@ -76,7 +76,7 @@ Then he went back to the camp of Israel and said,
 
 ## Jars, torches, and trumpets (Verses 16–22)
 
-[16] He divided the three hundred men into three groups.
+[16] He divided the 300 men into three groups.
 He put trumpets into all their hands, and empty jars with torches inside the jars.
 [17] He said to them,
 “Watch me and do the same.
@@ -93,13 +93,13 @@ And they shouted, “The sword of the LORD and of Gideon!”
 [21] Each man stood in his place around the camp.
 Then the whole army ran around in confusion.
 They cried out and fled.
-[22] The three hundred blew their trumpets.
+[22] The 300 blew their trumpets.
 And the LORD turned every man’s sword against his friend, throughout the whole army.
 And the army fled as far as Beth Shittah toward Zererah, as far as the border of Abel Meholah, near Tabbath.
 
 > **What does this mean?**
 > What strange weapons: trumpets, jars, and torches. Not a single sword is mentioned!
-> The plan: In the middle of the night, just as the guards had changed, the men smash the jars. Suddenly three hundred torches light up all around. Three hundred trumpets sound. Normally only one leader had a trumpet, for a hundred soldiers. So the enemies thought: There is a huge army!
+> The plan: In the middle of the night, just as the guards had changed, the men smash the jars. Suddenly 300 torches light up all around. 300 trumpets sound. Normally only one leader had a trumpet, for 100 soldiers. So the enemies thought: There is a huge army!
 > In the darkness and panic, the enemies fight against each other. God confuses them, and they flee.
 > The “middle watch” was around midnight. At that time, the night was divided into three watches.
 > Many Christians see a beautiful picture in this: Only when the jar breaks can the light shine (see also 2 Corinthians 4:6–7).

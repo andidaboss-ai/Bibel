@@ -158,9 +158,9 @@ He said,
 
 [32] Abraham said,
 “Please do not let the Lord be angry, and I will speak just once more.
-Maybe ten will be found there.”
+Maybe 10 will be found there.”
 He said,
-“I will not destroy it, for the sake of the ten.”
+“I will not destroy it, for the sake of the 10.”
 
 [33] When the LORD had finished speaking with Abraham, he went on his way.
 And Abraham went back to his place.
@@ -168,5 +168,5 @@ And Abraham went back to his place.
 > **What does this mean?**
 > This is one of the most amazing prayers in the Bible. Abraham does not pray for himself, but for a foreign, wicked city. But his nephew Lot also lives there.
 > Abraham is brave. He reminds God of his own justice: “Shouldn’t the Judge of all the earth do what is right?” And yet he stays humble: “I am only dust and ashes.”
-> God does not get angry. Each time, he agrees to Abraham’s request. God wants to save, not to destroy. Even for the sake of ten righteous people, he would spare a whole city.
+> God does not get angry. Each time, he agrees to Abraham’s request. God wants to save, not to destroy. Even for the sake of 10 righteous people, he would spare a whole city.
 > The story shows: We may wrestle with God, bargain with him and pray for others. Prayer changes things.

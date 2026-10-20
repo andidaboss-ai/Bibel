@@ -15,8 +15,8 @@ And the rain from the sky stopped.
 After 150 days, the water had gone down.
 [4] In the seventh month, on the 17th day of the month, the ship came to rest
 on the mountains of Ararat.
-[5] The water kept going down until the tenth month.
-On the first day of the tenth month, the tops of the mountains could be seen.
+[5] The water kept going down until the 10th month.
+On the first day of the 10th month, the tops of the mountains could be seen.
 
 > **What does this mean?**
 > “God remembered Noah.” This sentence is the turning point of the whole story. God has not forgotten Noah – and not the animals either.
