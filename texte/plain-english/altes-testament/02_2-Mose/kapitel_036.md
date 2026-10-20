@@ -89,7 +89,7 @@ He made all the boards of the tabernacle this way.
 [23] He made the boards for the tabernacle: 20 boards for the south side.
 [24] He made 40 sockets of silver under the 20 boards:
 2 sockets under one board for its 2 tenons,
-and two sockets under the next board for its two tenons.
+and 2 sockets under the next board for its 2 tenons.
 
 [25] For the second side of the tabernacle, the north side, he made 20 boards
 [26] and their 40 sockets of silver:

@@ -20,11 +20,11 @@ His name was Goliath of Gath.
 He was about nine and a half feet tall.
 [5] He had a bronze helmet on his head
 and wore a coat of armor made of scales.
-The coat weighed about 125 pounds of bronze.
+The coat weighed 5,000 shekels of bronze (about 125 pounds).
 [6] He had bronze armor on his shins
 and a bronze javelin between his shoulders.
 [7] The shaft of his spear was like a weaver’s beam.
-And the head of his spear weighed about 15 pounds of iron.
+And the head of his spear weighed 600 shekels of iron (about 15 pounds).
 His shield bearer went in front of him.
 [8] He stood and shouted to the ranks of Israel,
 “Why have you come out to line up for battle?
@@ -65,13 +65,13 @@ And the three oldest had followed Saul.
 [15] But David went back and forth from Saul
 to take care of his father’s sheep at Bethlehem.
 [16] The Philistine came forward morning and evening
-and took his stand, for forty days.
+and took his stand, for 40 days.
 
 [17] Jesse said to his son David,
 “Take for your brothers about 6 gallons of this roasted grain
-and these ten loaves of bread,
+and these 10 loaves of bread,
 and bring them quickly to the camp to your brothers.
-[18] And bring these ten cheeses to the commander of their thousand.
+[18] And bring these 10 cheeses to the commander of their thousand.
 See how your brothers are doing,
 and bring back news from them.”
 [19] Saul and they and all the men of Israel were in the valley of Elah,
@@ -97,7 +97,7 @@ they fled from him and were terrified.
 > **What does this mean?**
 > Here David is introduced once more, as if we had not heard of him yet. This is probably because different stories about David were put together here. The old Greek translation has a shorter text: Verses 12–31 and 55–58 are missing there.
 > Here Jesse has eight sons. In 1 Chronicles 2:13–15 only seven are named, and there David is the seventh. Maybe one son died young.
-> For forty days Goliath mocks Israel, and no one dares to fight. In the Bible, forty is often a number for a time of testing.
+> For 40 days Goliath mocks Israel, and no one dares to fight. In the Bible, the number 40 often stands for a time of testing.
 > The Bible says “an ephah.” An ephah is about 6 gallons.
 > David does not come as a fighter, but as a messenger with food. He is the little brother who brings bread and cheese to his big brothers.
 
@@ -212,7 +212,7 @@ I will strike you down and cut off your head.
 And today I will give the dead bodies of the Philistine army
 to the birds of the sky and to the wild animals of the earth.
 Then all the earth will know that there is a God in Israel.
-[47] And all this crowd will know
+[47] And everyone gathered here will know
 that the LORD does not save with sword and spear.
 For the battle is the LORD’s,
 and he will give you into our hand.”
@@ -252,7 +252,7 @@ as far as Gath and Ekron.
 [53] The people of Israel came back from chasing the Philistines
 and plundered their camp.
 [54] David took the head of the Philistine and brought it to Jerusalem.
-But he put his weapons in his tent.
+But he put Goliath’s armor in his tent.
 
 > **What does this mean?**
 > A single stone decides the fight. Goliath had heavy armor, but his forehead was uncovered.
@@ -260,7 +260,7 @@ But he put his weapons in his tent.
 > This story has become famous all over the world. To this day people say “David against Goliath” when someone small goes up against an opponent who seems far too strong.
 > Here the Bible tells about a war with a lot of violence. The message is not: Violence is good. The message is: Whoever trusts God does not need to be afraid of enemies who seem far too strong.
 > At that time Jerusalem still belonged to the Jebusites. David conquers the city only later (2 Samuel 5). Maybe he brought the head there later, or the storyteller is already naming the later capital.
-> The Hebrew text of 2 Samuel 21:19 says that a man named Elhanan killed Goliath of Gath. The WEB has “the brother of Goliath the Gittite” there. 1 Chronicles 20:5 says that Elhanan killed a brother of Goliath. Bible teachers explain these passages in different ways.
+> The Hebrew text of 2 Samuel 21:19 says that a man named Elhanan killed Goliath of Gath. The WEB, our English source text, has “the brother of Goliath the Gittite” there. 1 Chronicles 20:5 says that Elhanan killed a brother of Goliath. Bible teachers explain these passages in different ways.
 
 ---
 

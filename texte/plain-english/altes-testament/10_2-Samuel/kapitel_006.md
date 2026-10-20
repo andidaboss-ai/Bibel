@@ -11,7 +11,7 @@ There were 30,000 men.
 They wanted to bring the ark of God up from there.
 The ark is a holy chest.
 It is called by the Name of the LORD of Armies.
-The LORD sits on his throne above the cherubim.
+The LORD sits above the cherubim.
 Cherubim are heavenly beings with wings.
 [3] They put the ark of God on a new cart
 and took it out of Abinadab’s house on the hill.
@@ -67,7 +67,7 @@ because of the ark of God.”
 So David went to the house of Obed-Edom.
 With great joy he brought the ark of God up from there to the City of David.
 [13] The men carrying the ark of the LORD took six steps.
-Then David sacrificed a bull and a fattened calf.
+Then David sacrificed an ox and a fattened calf.
 [14] David danced before the LORD with all his might.
 He was wearing a linen ephod.
 An ephod is a simple garment like the ones priests wore.
@@ -102,7 +102,7 @@ Then all the people went home.
 Michal, the daughter of Saul, came out to meet him.
 She said,
 “How wonderful the king of Israel looked today!
-He uncovered himself today in front of his servants’ slave girls,
+He uncovered himself today in front of his servants’ maids,
 just like some worthless fool without any shame!”
 [21] David said to Michal,
 “I did it before the LORD.
@@ -111,7 +111,7 @@ He made me the leader over the LORD’s people, over Israel.
 So I will celebrate before the LORD.
 [22] I will make myself even less dignified than this.
 I will seem worthless even in my own eyes.
-But those slave girls you talked about
+But those maids you talked about
 will honor me.”
 [23] And Michal, the daughter of Saul, had no children for the rest of her life.
 

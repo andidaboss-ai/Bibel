@@ -40,7 +40,7 @@ Any outsider who comes near shall be put to death.”
 ## What belongs to the priests (Verses 8–19)
 
 [8] The LORD spoke to Aaron,
-“Look, I myself have put you in charge of my special offerings,
+“Look, I myself have put you in charge of my wave offerings,
 all the holy gifts of the people of Israel.
 I have given them to you and your sons because you were anointed, as your share forever.
 [9] Of the most holy gifts, the parts that are not burned shall be yours:
@@ -67,14 +67,14 @@ of all living beings that they bring to the LORD, both people and animals, shall
 But you must surely let the firstborn sons of people be bought back.
 And you shall also let the firstborn of unclean animals be bought back.
 [16] Those who must be bought back you shall buy back from the age of one month,
-at the price you set: five shekels of silver, by the weight of the holy place. A shekel is 20 gerahs.
+at the price you set: 5 shekels of silver, by the shekel of the holy place, which weighs 20 gerahs.
 
 [17] “But you shall not let the firstborn of a cow, a sheep, or a goat be bought back.
 They are holy.
 You shall sprinkle their blood on the altar
 and burn their fat as an offering by fire, a pleasant smell for the LORD.
 [18] Their meat shall be yours, just as the breast of the wave offering and the right thigh are yours.
-[19] All the special offerings from the holy gifts that the people of Israel bring to the LORD,
+[19] All the wave offerings from the holy gifts that the people of Israel bring to the LORD,
 I have given to you, to your sons, and to your daughters with you, as your share forever.
 It is a covenant of salt forever before the LORD, for you and for your descendants with you.”
 
@@ -82,7 +82,7 @@ It is a covenant of salt forever before the LORD, for you and for your descendan
 > The priests live from the gifts of the people. They receive parts of the offerings, the best of the oil, wine, and grain, and the first fruits.
 > Some things only the priests themselves may eat (“most holy”). Other things the whole family may eat, including the daughters.
 > A “covenant of salt” is a covenant that lasts forever. Salt does not spoil. Back then, people who ate bread and salt together were firmly bound to each other.
-> Five shekels are about 2 ounces of silver.
+> The 5 shekels are about 2 ounces of silver.
 
 ---
 
@@ -94,7 +94,6 @@ and you shall have no share among them.
 I am your share and your inheritance among the people of Israel.
 
 [21] “Look, I have given the descendants of Levi the whole tenth part of everything in Israel as their inheritance.
-This tenth part is called the tithe.
 It is their pay for the work they do, the work at the Tent of Meeting.
 [22] From now on, the people of Israel shall not come near the Tent of Meeting,
 so that they do not carry sin and die.
@@ -103,13 +102,14 @@ And they shall carry the guilt for it.
 This is a rule forever, for all your generations.
 They shall have no inheritance among the people of Israel.
 [24] For I have given the Levites the tithe of the people of Israel as their inheritance,
-which the people give to the LORD as a special offering.
+which the people give to the LORD as a wave offering.
 That is why I have said to them, ‘They shall have no inheritance among the people of Israel.’”
 
 > **What does this mean?**
 > All the other tribes receive their own area in the promised land. The priests and Levites receive no land.
 > God says: “I am your share and your inheritance.” That is a beautiful sentence. They have no land, but they have God himself. And God provides for them through the gifts of the people.
 > Psalm 16:5 says something similar: The LORD has given me my share and my cup. He keeps my future safe.
+> Verse 21: This tenth part is called the tithe.
 
 ---
 
@@ -118,13 +118,13 @@ That is why I have said to them, ‘They shall have no inheritance among the peo
 [25] The LORD spoke to Moses. He said,
 [26] “Also speak to the Levites and tell them,
 ‘You will receive from the people of Israel the tithe that I have given you from them as your inheritance.
-Then you shall give a special offering from it to the LORD, a tenth of the tithe.
-[27] Your special offering will count for you
+Then you shall give a wave offering from it to the LORD, a tenth of the tithe.
+[27] Your wave offering will count for you
 as if it were grain from the threshing floor and wine from the full winepress.
-[28] So you too shall give a special offering to the LORD from all your tithes
+[28] So you too shall give a wave offering to the LORD from all your tithes
 that you receive from the people of Israel.
-And from it you shall give the LORD’s special offering to Aaron the priest.
-[29] From all your gifts you shall give every special offering to the LORD,
+And from it you shall give the LORD’s wave offering to Aaron the priest.
+[29] From all your gifts you shall give every wave offering to the LORD,
 from the best of everything, the holy part of it.’
 
 [30] “So you shall tell them,
