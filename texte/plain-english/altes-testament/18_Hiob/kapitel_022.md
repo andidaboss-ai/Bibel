@@ -5,7 +5,7 @@
 
 ## Does God gain anything if you are righteous? (Verses 1–4)
 
-[1] Then Eliphaz the Temanite answered:
+[1] Then Eliphaz the Temanite answered,
 [2] “Can a person be useful to God?
 No, a wise person is only useful to himself.
 [3] Does it give the Almighty any joy that you are righteous?

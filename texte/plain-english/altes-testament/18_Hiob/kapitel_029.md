@@ -5,7 +5,7 @@
 
 ## When God was my friend (Verses 1–6)
 
-[1] Job went on with his speech and said:
+[1] Job went on with his speech and said,
 [2] “Oh, if only I were as I was in the months long ago,
 as in the days when God watched over me,
 [3] when his lamp shone over my head,

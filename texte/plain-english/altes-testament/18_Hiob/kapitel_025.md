@@ -5,7 +5,7 @@
 
 ## How can a human being be righteous? (Verses 1–6)
 
-[1] Then Bildad the Shuhite answered:
+[1] Then Bildad the Shuhite answered,
 [2] “Power to rule and fear belong to him.
 He makes peace in his high places.
 [3] Can anyone count his armies?

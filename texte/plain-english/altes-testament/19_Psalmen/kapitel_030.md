@@ -10,10 +10,9 @@ I will praise you highly, LORD, for you have lifted me up.
 You have not let my enemies rejoice over me.
 [2] LORD my God, I cried out to you,
 and you have healed me.
-[3] LORD, you have brought my soul up from Sheol.
+[3] LORD, you have brought my soul up from Sheol (the world of the dead).
 You have kept me alive,
 so that I did not go down into the pit.
-Sheol is the place of the dead.
 
 > **What does this mean?**
 > The heading speaks of the “dedication of the temple.” In Hebrew, it simply says “of the house.” It can mean the temple or David’s palace. To this day, Jews pray this psalm at the festival of lights, Hanukkah. Hanukkah remembers how the temple was dedicated again.

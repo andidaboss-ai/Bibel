@@ -46,9 +46,8 @@ Because he is at my right side, nothing will shake me.
 
 [9] That is why my heart is glad, and my tongue rejoices.
 My body will also live in safety.
-[10] For you will not leave my soul in Sheol.
+[10] For you will not leave my soul in Sheol (the world of the dead).
 You will not let your holy one see decay.
-Sheol is the place of the dead.
 [11] You will show me the path of life.
 When I am with you, my joy is full.
 At your right hand there is delight forever.

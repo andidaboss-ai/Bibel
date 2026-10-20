@@ -28,9 +28,8 @@ and I am saved from my enemies.
 
 [4] The ropes of death wrapped around me.
 Floods of wickedness frightened me.
-[5] The ropes of Sheol were all around me.
+[5] The ropes of Sheol (the world of the dead) were all around me.
 The traps of death came upon me.
-Sheol is the place of the dead.
 [6] In my trouble I called on the LORD.
 I cried out to my God.
 He heard my voice from his temple.

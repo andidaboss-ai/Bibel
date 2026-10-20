@@ -5,7 +5,7 @@
 
 ## I am looking for God (Verses 1–7)
 
-[1] Then Job answered:
+[1] Then Job answered,
 [2] “Even today my complaint is rebellious.
 His hand is heavy on me, even though I groan.
 [3] Oh, if only I knew where I could find him!

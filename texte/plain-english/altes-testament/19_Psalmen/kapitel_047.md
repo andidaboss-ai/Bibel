@@ -41,6 +41,6 @@ He is highly honored!
 
 > **What does this mean?**
 > Verse 5: “God has gone up”: like a king who goes up to his throne with shouts of joy and the sound of trumpets. Maybe the ark of the covenant was carried up to the temple in a procession.
-> Christians read this psalm on Ascension Day, because Jesus “went up” to God.
+> Christians read this psalm on Ascension Day, because Jesus also went up to God.
 > Verse 9 is astonishing: The leaders of all peoples gather as “the people of the God of Abraham.” God had promised Abraham: “Through you, all the families of the earth will be blessed” (Genesis 12:3). Here it becomes reality.
 > “The shields of the earth”: the powerful people and rulers of the world. They too belong to God.

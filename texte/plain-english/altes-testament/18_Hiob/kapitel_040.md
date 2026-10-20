@@ -5,10 +5,10 @@
 
 ## Job puts his hand over his mouth (Verses 1–5)
 
-[1] The LORD went on and answered Job:
+[1] The LORD went on and answered Job,
 [2] “Will the one who argues fight with the Almighty?
 Whoever argues with God, let him answer!”
-[3] Then Job answered the LORD:
+[3] Then Job answered the LORD,
 [4] “Look, I am too small.
 What can I answer you?
 I put my hand over my mouth.
@@ -25,7 +25,7 @@ Yes, I have spoken twice, but I will not say anything more.”
 
 ## Will you set aside my justice? (Verses 6–14)
 
-[6] Then the LORD answered Job out of the whirlwind:
+[6] Then the LORD answered Job out of the whirlwind,
 [7] “Now get ready like a man!
 I will ask you questions, and you will answer me.
 [8] Will you even set aside my judgment?

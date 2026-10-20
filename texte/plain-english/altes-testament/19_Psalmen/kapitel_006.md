@@ -15,15 +15,14 @@ But you, LORD—how long?
 [4] Come back, LORD. Rescue my soul.
 Save me because of your loving kindness.
 [5] For in death, no one remembers you.
-Who will thank you in Sheol?
-Sheol is the place of the dead.
+Who will thank you in Sheol (the world of the dead)?
 
 > **What does this mean?**
 > Psalm 6 is the first of the seven “psalms of repentance” (6, 32, 38, 51, 102, 130, 143). Christians pray them especially when they ask God for forgiveness.
 > The person praying is sick in body and soul. “My bones are shaking”: The whole body is suffering.
 > “How long?”: The sentence breaks off. The person praying has no more words. We hear this question often in the psalms.
 > “Because of your loving kindness”: The person praying does not point to his own good deeds. He points to God’s faithful love.
-> Verse 5: In the Old Testament, people imagined the place of the dead (“Sheol”) as a quiet, dark place. The hope of rising from the dead became clearer only later (compare Daniel 12:2).
+> Verse 5: In the Old Testament, people imagined the world of the dead (“Sheol”) as a quiet, dark place. The hope of rising from the dead became clearer only later (compare Daniel 12:2).
 
 ---
 

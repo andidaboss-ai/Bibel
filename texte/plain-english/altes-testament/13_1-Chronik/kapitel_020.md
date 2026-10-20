@@ -5,14 +5,14 @@
 
 ## The conquest of Rabbah (Verses 1–3)
 
-[1] A year later, at the time when kings go out to war,
+[1] In the spring, at the time when kings go out to war,
 Joab led the army out.
 He destroyed the land of the Ammonites.
 Then he came to Rabbah and surrounded the city.
 But David stayed at Jerusalem.
 Joab attacked Rabbah and destroyed it.
 [2] David took the crown from the head of their king.
-He found that it weighed about 75 pounds of gold.
+He found that it weighed a talent of gold (about 75 pounds).
 There were precious stones in it.
 It was placed on David’s head.
 David also took a great amount of plunder from the city.
@@ -36,7 +36,7 @@ There Sibbecai the Hushathite killed Sippai.
 Sippai was one of the descendants of the giant.
 So the Philistines were defeated.
 [5] There was war with the Philistines again.
-Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite.
+Elhanan, the son of Jair, killed Lahmi, the brother of Goliath the Gittite.
 The shaft of Lahmi’s spear was as thick as the beam of a loom.
 [6] There was war at Gath again.
 There was a very tall man there.

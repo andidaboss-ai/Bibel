@@ -138,8 +138,8 @@ Didn’t I say, ‘Don’t deceive me’?”
 > The mother tells no one anything. She only says: “It is well.” With all her strength she holds back her pain until she is with the man of God. Only there does it break out of her.
 > Elisha does not know what is wrong. Even a prophet does not know everything. But he lets the desperate woman come close to him.
 > Her accusation is honest: “Did I ask you for a son, my lord?” Whoever loses something that was a gift suffers twice. The Bible allows such laments.
-> “New moon and Sabbath” were holy days on which people went to a prophet.
-> In Hebrew, verses 22 and 24 probably say “female donkey”. In those days people liked to ride female donkeys.
+> “New moon” and “Sabbath” were holy days on which people went to a prophet.
+> In Hebrew, verses 22 and 24 probably say “female donkey.” In those days people liked to ride female donkeys.
 > Anyone who has lost a child can find help, for example, in support groups for bereaved parents, or here: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
@@ -244,5 +244,5 @@ just as the LORD had said.
 
 > **What does this mean?**
 > The first part of the harvest really belonged to God and to the priests. Because there were no rightful priests in the northern kingdom, the man brings it to the prophet.
-> 20 small loaves of barley bread for 100 men is far too little. But God makes sure that everyone has enough to eat and that some is even left over.
+> Only 20 small loaves of barley bread for 100 men is far too little. But God makes sure that everyone has enough to eat and that some is even left over.
 > This story is very much like Jesus feeding the 5,000. There too there were barley loaves, the disciples doubted, everyone had enough to eat, and some was left over (John 6:9–13).

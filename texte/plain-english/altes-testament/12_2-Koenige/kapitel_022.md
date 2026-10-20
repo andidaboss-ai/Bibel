@@ -10,7 +10,7 @@ He ruled for 31 years in Jerusalem.
 His mother’s name was Jedidah.
 She was the daughter of Adaiah, from Bozkath.
 [2] Josiah did what was right in the LORD’s eyes.
-He lived in all the ways of his father David.
+He lived in all the ways of his ancestor David.
 He did not turn away from them, to the right or to the left.
 
 > **What does this mean?**
@@ -68,7 +68,7 @@ He said,
 Ask for me, for the people, and for all Judah.
 The LORD is very angry with us.
 His anger burns against us,
-because our fathers did not listen to the words of this book.
+because our ancestors did not listen to the words of this book.
 They did not do what is written in it for us.”
 
 > **What does this mean?**
@@ -108,7 +108,7 @@ You humbled yourself before the LORD.
 You tore your clothes and cried before me.
 So I have heard you,’
 says the LORD.
-[20] ‘That is why I will let you die and join your fathers.
+[20] ‘That is why I will let you die and join your ancestors.
 You will go to your grave in peace.
 Your eyes will not see all the disaster
 that I will bring on this place.’”’”
@@ -119,5 +119,5 @@ So the men brought this message back to the king.
 > In Jerusalem, the “Huldah Gates” on the south side of the Temple Mount still remind people of her today.
 > Huldah’s message has two parts: the disaster on Jerusalem can no longer be stopped. But Josiah himself will not live to see it, because he humbled himself.
 > “Your heart was tender”: God pays attention to a heart that lets itself be moved.
-> “You will go to your grave in peace”: it is true that Josiah later dies in war (Chapter 23:29). But he dies before Jerusalem is destroyed. He does not have to see its fall.
+> “You will go to your grave in peace”: it is true that Josiah later dies in war (2 Kings 23:29). But he dies before Jerusalem is destroyed. He does not have to see its fall.
 > The “Second Quarter” was probably a newer part of Jerusalem that had been added under Hezekiah.

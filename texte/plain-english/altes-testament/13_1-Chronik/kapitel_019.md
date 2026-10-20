@@ -37,8 +37,8 @@ Then come home.”
 
 ## Ammon looks for allies (Verses 6–9)
 
-[6] The Ammonites saw that David now hated them.
-So Hanun and the Ammonites sent 1,000 talents of silver
+[6] The Ammonites saw that they had made David hate them.
+So Hanun and the Ammonites sent 1,000 talents of silver (about 75,000 pounds)
 to hire chariots and horsemen from Mesopotamia, from Aram-maacah, and from Zobah.
 [7] They hired 32,000 chariots.
 They also hired the king of Maacah and his army.

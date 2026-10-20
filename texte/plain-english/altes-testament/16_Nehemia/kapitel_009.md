@@ -10,7 +10,7 @@ They were fasting.
 They wore sackcloth and had dirt on their heads.
 Sackcloth is rough cloth that people wore when they mourned.
 [2] The descendants of Israel separated themselves from all foreigners.
-They stood and confessed their sins and the sins of their fathers.
+They stood and confessed their sins and the sins of their ancestors.
 [3] They stood up in their places.
 For a fourth part of the day they read from the book of the law of the LORD their God.
 For another fourth part of the day they confessed their sins and worshiped the LORD their God.
@@ -46,24 +46,24 @@ You brought him out of Ur of the Chaldees.
 You gave him the name Abraham.
 [8] You saw that his heart was faithful to you.
 You made a covenant with him.
-A covenant is a binding agreement.
 You promised to give his offspring the land of the Canaanite, the Hittite, the Amorite,
 the Perizzite, the Jebusite, and the Girgashite.
 And you have kept your promise, because you are righteous.
 
 > **What does this mean?**
 > The prayer begins at the very beginning: with creation. God has made everything and keeps everything alive. “The army of heaven” here means the angels.
+> Verse 8: A covenant is a binding agreement.
 > Then Abraham: God chose him and promised him a land. And God kept his promise. “You are righteous”: God is faithful.
 
 ---
 
 ## God saves from Egypt (Verses 9–15)
 
-[9] “You saw how our fathers suffered in Egypt.
+[9] “You saw how our ancestors suffered in Egypt.
 You heard them cry out at the Red Sea.
 [10] You did signs and wonders against Pharaoh,
 against all his servants, and against all the people of his land.
-You knew how proudly they treated our fathers.
+You knew how proudly they treated our ancestors.
 So you made a name for yourself that lasts until today.
 [11] You divided the sea in front of them.
 They went through the middle of the sea on dry land.
@@ -92,7 +92,7 @@ You had promised with an oath to give it to them.
 
 ## Unfaithfulness in the wilderness and God’s patience (Verses 16–21)
 
-[16] “But they, our fathers, became proud.
+[16] “But they and our ancestors became proud.
 They were stubborn
 and did not listen to your commandments.
 [17] They refused to obey.
@@ -135,7 +135,7 @@ So they took the land of Sihon, the king of Heshbon,
 and the land of Og, the king of Bashan.
 [23] You made their children as many as the stars in the sky.
 You brought them into the land.
-You had told their fathers that they would go in and take it.
+You had told their ancestors that they would go in and take it.
 [24] “So the children went in and took the land.
 You defeated the people who lived in the land, the Canaanites, in front of them.
 You gave them into their hands,
@@ -210,12 +210,12 @@ You are a gracious and merciful God.
 [32] Now, our God, you are the great, mighty, and awesome God.
 You keep your covenant and your loving kindness.
 So much hardship has come on us,
-on our kings, our princes, our priests, our prophets, our fathers, and all your people.
+on our kings, our princes, our priests, our prophets, our ancestors, and all your people.
 It started in the time of the kings of Assyria, and it goes on until today.
 Please don’t think that all this hardship is a small thing.
 [33] You have been fair in everything that has happened to us.
 You have been faithful, but we have done evil.
-[34] Our kings, our princes, our priests, and our fathers did not keep your law.
+[34] Our kings, our princes, our priests, and our ancestors did not keep your law.
 They did not pay attention to your commandments.
 They did not listen when you warned them.
 [35] They had their own kingdom.
@@ -224,7 +224,7 @@ You gave them a large and rich land.
 But even then they did not serve you.
 They did not turn away from their evil deeds.
 [36] “Look, today we are slaves.
-You gave this land to our fathers so they could eat its fruit and its good things.
+You gave this land to our ancestors so they could eat its fruit and its good things.
 But look, we are slaves in it.
 [37] The land produces a big harvest.
 But the harvest goes to the kings you have put over us because of our sins.

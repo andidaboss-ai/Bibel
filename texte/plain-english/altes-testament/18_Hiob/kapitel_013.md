@@ -60,7 +60,7 @@ If someone could, I would be quiet and die.
 > **What does this mean?**
 > Job is ready to risk everything. He wants to come before God, even if it costs him his life.
 > “Take my flesh in my teeth” and “put my life in my hand” are sayings. They mean: I am risking everything.
-> Verse 15 is very well known, but it is hard to understand in Hebrew. The English source follows the written Hebrew text: “He will kill me. I have no hope.” At this place, the Jewish tradition reads one word differently. Then it says: “Even if he kills me, I will hope in him.” That is how many Bibles have it. Both readings show: Job does not give up on God. He wants to face him.
+> Verse 15 is very well known, but it is hard to understand in Hebrew. The WEB, our English source text, follows the written Hebrew text: “He will kill me. I have no hope.” At this place, the Jewish tradition reads one word differently. Then it says: “Even if he kills me, I will hope in him.” That is how many Bibles have it. Both readings show: Job does not give up on God. He wants to face him.
 > Verse 16: Job is sure that a godless person would not dare to come before God. That he dares to do it shows that he is innocent.
 
 ---

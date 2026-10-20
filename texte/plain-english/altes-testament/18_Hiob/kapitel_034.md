@@ -5,7 +5,7 @@
 
 ## Test my words (Verses 1–4)
 
-[1] Elihu went on and said:
+[1] Elihu went on and said,
 [2] “Hear my words, you wise men!
 Listen to me, you who have knowledge!
 [3] For the ear tests words,

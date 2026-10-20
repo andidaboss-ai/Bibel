@@ -5,7 +5,7 @@
 
 ## I speak for God (Verses 1–4)
 
-[1] Elihu went on and said:
+[1] Elihu went on and said,
 [2] “Be patient with me a little longer, and I will show you.
 For I still have something to say for God.
 [3] I will bring my knowledge from far away.

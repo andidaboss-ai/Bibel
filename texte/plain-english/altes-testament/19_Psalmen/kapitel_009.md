@@ -73,9 +73,8 @@ Meditation. Selah.
 
 ## The poor will not be forgotten (Verses 17–20)
 
-[17] The wicked will be sent back to Sheol,
+[17] The wicked will be sent back to Sheol (the world of the dead),
 all the nations that forget God.
-Sheol is the place of the dead.
 [18] For the needy will not always be forgotten.
 The hope of the poor will not be lost forever.
 [19] Get up, LORD! Do not let human beings win.

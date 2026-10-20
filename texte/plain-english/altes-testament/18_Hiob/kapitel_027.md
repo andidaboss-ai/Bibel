@@ -5,7 +5,7 @@
 
 ## Job’s oath (Verses 1–6)
 
-[1] Job went on with his speech and said:
+[1] Job went on with his speech and said,
 [2] “As surely as God lives, who has taken away my right,
 the Almighty, who has made my soul bitter
 [3] (for as long as there is still life in me,

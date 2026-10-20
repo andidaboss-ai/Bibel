@@ -6,7 +6,7 @@
 ## God speaks (Verses 1–3)
 
 [1] Then the LORD answered Job out of the whirlwind.
-He said:
+He said,
 [2] “Who is this who makes my plan dark
 with words without knowledge?
 [3] Get ready like a man!

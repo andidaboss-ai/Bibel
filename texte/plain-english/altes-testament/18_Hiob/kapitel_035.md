@@ -5,7 +5,7 @@
 
 ## What does our behavior do for God? (Verses 1–8)
 
-[1] Elihu went on and said:
+[1] Elihu went on and said,
 [2] “Do you think this is your right?
 Do you say, ‘My righteousness is greater than God’s’?
 [3] For you ask, ‘What good will it do you?

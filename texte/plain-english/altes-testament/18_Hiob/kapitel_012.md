@@ -16,7 +16,7 @@ I, who called on God, and he answered me.
 The righteous, blameless man has become a joke.
 [5] A person who lives at ease looks down on misfortune.
 It is waiting for those whose feet slip.
-[6] The tents of robbers are at peace.
+[6] The tents of robbers do well.
 Those who provoke God are safe,
 those who carry their god in their hands.
 

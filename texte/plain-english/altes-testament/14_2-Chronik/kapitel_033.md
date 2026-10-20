@@ -56,7 +56,7 @@ but they did not listen.
 
 [11] So the LORD sent the commanders of the army of the king of Assyria against them.
 They captured Manasseh in chains.
-They tied him up with bronze chains
+They put him in shackles
 and took him to Babylon.
 [12] Manasseh was in deep trouble.
 Then he begged the LORD his God for help.
@@ -114,7 +114,7 @@ And so are the places where he built high places
 and set up Asherah poles and carved idols before he humbled himself.
 All this is written in the history of Hozai.
 [20] Then Manasseh died and joined his ancestors.
-They buried him at his own palace.
+They buried him at his own house.
 His son Amon became king after him.
 
 > **What does this mean?**

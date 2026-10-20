@@ -32,7 +32,7 @@ he became very angry.
 
 ## Wisdom does not come only with age (Verses 6–10)
 
-[6] Elihu the son of Barachel the Buzite answered:
+[6] Elihu the son of Barachel the Buzite answered,
 “I am young, and you are very old.
 That is why I held back.
 I did not dare to tell you what I think.

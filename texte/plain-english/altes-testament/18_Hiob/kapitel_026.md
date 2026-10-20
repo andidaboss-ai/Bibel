@@ -5,7 +5,7 @@
 
 ## How well you have helped! (Verses 1–4)
 
-[1] Then Job answered:
+[1] Then Job answered,
 [2] “How well you have helped the one who has no power!
 How well you have saved the arm that has no strength!
 [3] How well you have advised the one who has no wisdom!

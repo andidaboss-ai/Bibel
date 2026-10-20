@@ -22,7 +22,7 @@ The nations fall under you.
 Your arrows are in the heart of the king’s enemies.
 
 > **What does this mean?**
-> Psalm 45 is unique: a song for the wedding of a king. The WEB calls it a “wedding song.” Word for word, it says “song of love.”
+> Psalm 45 is unique: a song for the wedding of a king. The WEB, our English source text, calls it a “wedding song.” Word for word, it says “song of love.”
 > The poet is full of excitement. He describes the king: handsome, good with words, blessed by God.
 > Verse 4: The king does not fight for power, but “for truth, humility and righteousness.” That is the ideal of a good ruler.
 

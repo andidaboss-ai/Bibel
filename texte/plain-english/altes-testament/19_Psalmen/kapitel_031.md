@@ -86,8 +86,7 @@ Save me, because of your loving kindness.
 [17] LORD, do not let me be put to shame,
 for I have called to you.
 Let the wicked be put to shame.
-Let them be silent in Sheol.
-Sheol is the place of the dead.
+Let them be silent in Sheol (the world of the dead).
 [18] Let the lying lips be silenced
 that speak against the righteous
 in a rude way, with pride and scorn.
