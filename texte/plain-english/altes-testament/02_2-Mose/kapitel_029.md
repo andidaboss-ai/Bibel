@@ -7,10 +7,9 @@
 
 [1] “This is what you shall do to them to make them holy, so that they can serve me as priests:
 Take one young bull and two rams without any defect.
-[2] Also take unleavened bread,
-unleavened cakes mixed with oil,
-and unleavened wafers spread with oil.
-Unleavened means: made without yeast.
+[2] Also take bread without yeast,
+cakes without yeast mixed with oil,
+and wafers without yeast spread with oil.
 Make them of fine wheat flour.
 [3] Put them into one basket.
 Bring them in the basket, together with the bull and the two rams.
@@ -33,7 +32,7 @@ And put the holy crown on the turban.
 [7] Then take the anointing oil.
 Pour it on his head and anoint him.
 
-[8] Bring his sons too.
+[8] “Bring his sons too.
 Put tunics on them.
 [9] Tie belts around them, around Aaron and his sons.
 And tie headbands on them.
@@ -103,13 +102,13 @@ Sprinkle it on Aaron and on his clothes,
 and on his sons and on his sons’ clothes with him.
 Then he and his clothes, and his sons and his sons’ clothes with him, will be holy.
 
-[22] Also take some of the ram’s fat:
+[22] “Also take some of the ram’s fat:
 the fat tail, the fat that covers the inner organs,
 the cover of the liver, the two kidneys and the fat on them,
 and the right thigh.
 For it is a ram of consecration.
 [23] Also take one loaf of bread, one cake of bread made with oil and one wafer
-out of the basket of unleavened bread that stands before the LORD.
+out of the basket of bread without yeast that stands before the LORD.
 [24] Put all of this into Aaron’s hands and into his sons’ hands.
 Wave them before the LORD as a wave offering.
 [25] Then take them from their hands.

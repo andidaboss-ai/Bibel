@@ -24,7 +24,7 @@ and set it down in front of the altar of the LORD your God.
 
 ---
 
-## “My father was a Syrian close to ruin” (Verses 5–11)
+## “My father was a Syrian who was close to ruin” (Verses 5–11)
 
 [5] Then you shall speak up before the LORD your God and say,
 “My father was a Syrian who was close to ruin.
@@ -84,7 +84,7 @@ as you swore to our ancestors,
 a land flowing with milk and honey.”
 
 > **What does this mean?**
-> Every third year the tithe belongs to the poor (see 14:28–29). Afterward, people should declare before God: I really did pass it on.
+> Every third year the tithe belongs to the poor (see Chapter 14:28–29). Afterward, people should declare before God: I really did pass it on.
 > “For the dead”: Among some nations, people put food in the grave with the dead or made sacrifices for them. Israel should not do that with the holy tithe.
 > At the end there is a beautiful prayer: “Look down … from heaven, and bless your people Israel.” Whoever shares with the poor may ask for God’s blessing.
 
@@ -98,8 +98,8 @@ So keep them and do them with all your heart and with all your soul.
 You have declared that you will walk in his ways,
 keep his rules, his commandments, and his laws,
 and listen to his voice.
-[18] And today the LORD has declared that you are his own people,
-his treasured possession, as he promised you,
+[18] And today the LORD has declared that you are his very own people,
+as he promised you,
 and that you shall keep all his commandments.
 [19] He will set you high above all the nations that he has made,
 to bring praise, fame, and honor.
@@ -108,5 +108,5 @@ as he has said.
 
 > **What does this mean?**
 > This is where the large part with the individual commandments ends (Chapters 12–26).
-> It is like a wedding: Both sides make a declaration. The people say: “The LORD is our God.” And God says: “You are my people.” That is the heart of the covenant.
+> It is like a wedding: Both sides make a declaration. The people say: The LORD is our God. And God says: You are my people. That is the heart of the covenant.
 > “High above all the nations”: This does not mean that Israel should rule over others. It should be a people in whom you can see God’s goodness, “to bring praise, fame, and honor” to God.

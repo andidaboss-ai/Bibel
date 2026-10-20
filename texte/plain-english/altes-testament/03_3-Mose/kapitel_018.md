@@ -100,7 +100,7 @@ You shall not do any of these disgusting things.
 This is true for those born in Israel and for the foreigners who live among you.
 [27] For the people of the land who were there before you did all these disgusting things,
 and the land became unclean.
-[28] Otherwise the land will vomit you out too when you make it unclean,
+[28] Keep my rules, so that the land does not vomit you out too when you make it unclean,
 just as it vomited out the nation that was there before you.
 
 [29] “‘For whoever does any of these disgusting things

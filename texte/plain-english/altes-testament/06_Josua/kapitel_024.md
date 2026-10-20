@@ -173,7 +173,7 @@ which had been given to him in the hill country of Ephraim.
 > The book of Joshua tells how God’s promise to Abraham is fulfilled: Israel receives the land.
 > 1. Entering the land (Chapters 1–5): God tells Joshua: “Be strong and courageous!” Rahab saves the spies. The people cross the Jordan.
 > 2. The conquest (Chapters 6–12): The walls of Jericho fall. Achan’s guilt brings trouble. The Gibeonites make peace. The sun stands still.
-> 3. The dividing of the land (Chapters 13–21): Every tribe receives its land. Caleb, the daughters of Zelophehad, and the Levites receive their inheritance. “Not one of all the good things that the LORD had promised to the house of Israel failed.”
+> 3. The dividing of the land (Chapters 13–21): Every tribe receives its land. Caleb, the daughters of Zelophehad, and the Levites receive their inheritance. God keeps his promises: “Not one of these good things failed. Everything came true.”
 > 4. The farewell (Chapters 22–24): A war between brothers is avoided. Joshua calls for a decision: “As for me and my house, we will serve the LORD.”
 > The book has many harsh war reports. We have not left them out, but we have said honestly: They belong to a distant time, they often exaggerate in the language of their time, and they must never be used to justify violence or war.
 > And the book also shows: People from foreign nations like Rahab and the Gibeonites find a place in God’s people. Caleb, whose family came from outside, becomes an example of faithfulness.

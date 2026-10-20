@@ -28,12 +28,12 @@ No bread made with yeast may be eaten.
 [4] Today you are going out, in the month of Abib.
 
 [5] “The LORD will bring you into the land of the Canaanite, the Hittite, the Amorite, the Hivite, and the Jebusite.
-He swore to your fathers that he would give it to you,
+He swore to your ancestors that he would give it to you,
 a land flowing with milk and honey.
 Then you must keep this service in this month.
-[6] For seven days you must eat unleavened bread.
+[6] For seven days you must eat bread without yeast.
 And on the seventh day there will be a festival for the LORD.
-[7] Unleavened bread must be eaten for all seven days.
+[7] You must eat bread without yeast for all seven days.
 No bread made with yeast may be seen among you.
 No yeast may be seen among you anywhere in your land.
 
@@ -55,7 +55,7 @@ For the LORD brought you out of Egypt with a strong hand.
 ## The firstborn are bought back (Verses 11–16)
 
 [11] “The LORD will bring you into the land of the Canaanite,
-as he swore to you and to your fathers.
+as he swore to you and to your ancestors.
 He will give it to you.
 [12] Then you must set apart for the LORD everything that comes first out of its mother’s womb.
 Every firstborn of your animals that is male belongs to the LORD.

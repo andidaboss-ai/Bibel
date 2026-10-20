@@ -135,7 +135,7 @@ Then the waters will come back over the Egyptians, over their chariots, and over
 [27] Moses reached out his hand over the sea.
 When morning came, the sea went back to its full strength.
 The Egyptians fled right into it.
-So the LORD threw the Egyptians into the middle of the sea.
+The LORD threw the Egyptians down in the middle of the sea.
 [28] The waters came back and covered the chariots and the horsemen,
 the whole army of Pharaoh that had gone in after them into the sea.
 Not one of them was left.

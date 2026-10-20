@@ -13,7 +13,7 @@ So Jacob said to his sons,
 Go down there and buy grain for us from there.
 Then we will live and not die.”
 
-[3] So ten of Joseph’s brothers went down to buy grain from Egypt.
+[3] So Joseph’s ten brothers went down to buy grain from Egypt.
 [4] But Jacob did not send Benjamin, Joseph’s brother, with his brothers.
 For he said, “Something bad might happen to him.”
 [5] So the sons of Israel came to buy grain, together with the others who came.
@@ -115,7 +115,6 @@ Now we must pay for his blood.”
 
 [23] They did not know that Joseph understood them.
 For there was an interpreter between them.
-An interpreter puts the words of one language into another language.
 [24] Joseph turned away from them and cried.
 Then he came back to them and talked with them.
 He took Simeon from among them and tied him up in front of their eyes.
@@ -193,10 +192,10 @@ I will bring him back to you.”
 “My son will not go down with you.
 For his brother is dead, and he is the only one left.
 If something bad happens to him on the way you are going,
-then you will bring my gray hairs down to Sheol in sorrow.”
+then you will bring my gray hairs down to Sheol (the world of the dead) in sorrow.”
 
 > **What does this mean?**
 > Jacob is bitter. He blames his sons – more than he knows. For in fact, they did take Joseph away from him.
 > “He is the only one left” – for Jacob, only Rachel’s sons count. The other ten sons have to listen to that. That hurts.
 > Reuben’s offer is well meant, but not thought through: What good would it do Jacob to kill his own grandsons?
-> “Sheol” is the place of the dead again, as in Chapter 37. “Bring my gray hairs down to Sheol” means: You will make me, an old man, die of grief.
+> “Sheol” is the world of the dead again, as in Chapter 37. “Bring my gray hairs down to Sheol” means: You will make me, an old man, die of grief.

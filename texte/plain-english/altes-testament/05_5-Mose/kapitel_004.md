@@ -7,7 +7,7 @@
 
 [1] And now, Israel, listen to the rules and the laws that I am teaching you.
 Do them, so that you may live, and go in, and take the land as your own,
-which the LORD, the God of your fathers, is giving you.
+which the LORD, the God of your ancestors, is giving you.
 [2] You shall not add anything to the word that I command you,
 and you shall not take anything away from it.
 In this way you shall keep the commandments of the LORD your God, which I command you.
@@ -127,7 +127,7 @@ And you will find him when you look for him with all your heart and with all you
 then in the later days you will return to the LORD your God and listen to his voice.
 [31] For the LORD your God is a merciful God.
 He will not let you down, and he will not destroy you.
-And he will not forget the covenant with your fathers, which he swore to them.
+And he will not forget the covenant with your ancestors, which he swore to them.
 
 > **What does this mean?**
 > Moses sees ahead: Israel will later be unfaithful. Then it will lose the land and be scattered among the peoples. That really happened later, when the Assyrians and the Babylonians came (about 722 and 586 BC).
@@ -154,7 +154,7 @@ There is no one else besides him.
 [36] From heaven he let you hear his voice, to teach you.
 And on earth he let you see his great fire.
 And you heard his words out of the middle of the fire.
-[37] Because he loved your fathers, he chose their descendants after them.
+[37] Because he loved your ancestors, he chose their descendants after them.
 And he brought you out of Egypt with his presence, with his great power,
 [38] to drive out nations before you that are greater and mightier than you,
 to bring you in and to give you their land as an inheritance, as it is today.

@@ -12,7 +12,7 @@ And for many days we went around Mount Seir.
 [3] “You have gone around this mountain long enough.
 Turn toward the north.
 [4] Command the people:
-‘You will pass through the land of your brothers, the children of Esau, who live in Seir.
+‘You will pass through the land of your brothers, the people of Esau, who live in Seir.
 They will be afraid of you.
 So be very careful.
 [5] Do not start a quarrel with them.
@@ -25,7 +25,7 @@ You shall also buy water from them with money, so that you can drink.’”
 He has known how you walked through this great wilderness.
 For these forty years the LORD your God has been with you.
 You have not lacked anything.
-[8] So we passed by our brothers, the children of Esau, who live in Seir.
+[8] So we passed by our brothers, the people of Esau, who live in Seir.
 We went away from the road through the Arabah, from Elath and from Ezion Geber.
 We turned and went on along the way of the wilderness of Moab.
 
@@ -41,12 +41,12 @@ We turned and went on along the way of the wilderness of Moab.
 [9] The LORD said to me,
 “Do not trouble Moab, and do not start a war with them.
 For I will not give you any of his land as your own.
-For I have given Ar to the children of Lot as their own.”
+For I have given Ar to the people of Lot as their own.”
 [10] (The Emim lived there before. They were a great people, with many people, and as tall as the Anakim.
 [11] They are also counted as Rephaim, like the Anakim.
 But the Moabites call them Emim.
 [12] The Horites also lived in Seir in the past.
-But the children of Esau drove them out.
+But the people of Esau drove them out.
 They destroyed them and lived in their place,
 just as Israel did to the land that it owns, which the LORD gave to them.)
 
@@ -83,14 +83,14 @@ to destroy them from the middle of the camp, until they were all gone.
 [19] When you come near the people of Ammon,
 do not trouble them, and do not start a quarrel with them.
 For I will not give you any of the land of the people of Ammon as your own.
-For I have given it to the children of Lot as their own.”
+For I have given it to the people of Lot as their own.”
 [20] (That land is also counted as a land of Rephaim.
 Rephaim lived there in the past.
 But the Ammonites call them Zamzummim.
 [21] They were a great people, with many people, and as tall as the Anakim.
 But the LORD destroyed them before Israel.
 And they drove them out and lived in their place.
-[22] He had done the same for the children of Esau, who live in Seir,
+[22] He had done the same for the people of Esau, who live in Seir,
 when he destroyed the Horites before them.
 They drove them out and lived in their place, until this day.
 [23] And the Avvim, who lived in villages as far as Gaza:
@@ -128,7 +128,7 @@ I will not turn to the right or to the left.
 [28] Sell me food for money, so that I can eat.
 And give me water for money, so that I can drink.
 Just let me pass through on foot,
-[29] as the children of Esau, who live in Seir, did for me,
+[29] as the people of Esau, who live in Seir, did for me,
 and the Moabites, who live in Ar,
 until I cross the Jordan into the land that the LORD our God is giving us.”
 [30] But Sihon, the king of Heshbon, would not let us pass through his land.

@@ -98,7 +98,7 @@ They spoke to him at the door of the house.
 “Please, my lord!
 We really did come down the first time to buy food.
 [21] When we got to the place where we stayed for the night, we opened our sacks.
-Look: each man’s money was in the top of his sack.
+Look: Each man’s money was in the top of his sack.
 It was our money, the full weight.
 We have brought it back with us.
 [22] We have also brought other money with us to buy food.

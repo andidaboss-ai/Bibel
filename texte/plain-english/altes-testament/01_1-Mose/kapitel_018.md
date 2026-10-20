@@ -26,7 +26,7 @@ They answered,
 
 [6] Abraham hurried into the tent to Sarah.
 He said,
-“Quick! Take three big measures of fine flour.
+“Quick! Take about 6 gallons of fine flour.
 Knead the dough and bake flat loaves of bread!”
 [7] Then Abraham ran to the herd.
 He got a tender, good calf and gave it to the servant.
@@ -38,7 +38,7 @@ He himself stood by them under the tree while they ate.
 > **What does this mean?**
 > It is the heat of midday. No one likes to travel then. Still, old Abraham runs to meet the strangers. In the desert, hospitality was vital for life – and in the Middle East, it is still a great honor today.
 > Abraham modestly says: “a piece of bread.” Then he serves a feast: fresh bread, a calf, butter and milk.
-> “Three big measures” – the Bible says “three seahs.” That is about 5 gallons of flour. It is enough for very many people.
+> “About 6 gallons” of flour – the Bible says “three seahs.” A seah is about 2 gallons. That is enough for very many people.
 > At first, Abraham may not know whom he is serving. The New Testament says: Do not forget to welcome strangers, for in this way some have welcomed angels without knowing it (Hebrews 13:2). This refers to this story.
 
 ---
@@ -58,7 +58,7 @@ Sarah was listening at the entrance of the tent, which was behind him.
 Sarah had long been past the age when women can have children.
 [12] So Sarah laughed quietly to herself.
 She thought,
-“Now that I am old and worn out, will I still have the joy of love?
+“Now that I am old, will I still have the joy of love?
 And my lord is old too!”
 
 [13] Then the LORD said to Abraham,
@@ -91,23 +91,23 @@ Abraham went with them to walk with them part of the way.
 “Should I hide from Abraham what I am about to do?
 [18] Abraham will surely become a great and mighty nation.
 And all the nations of the earth will be blessed through him.
-[19] For I have chosen him.
+[19] For I know him.
 He is to command his children and his household after him
 to keep the way of the LORD
 and to do what is right and just.
 Then the LORD can bring about for Abraham what he has promised him.”
 
 [20] And the LORD said,
-“The cry against Sodom and Gomorrah is loud.
+“The cry of Sodom and Gomorrah is loud.
 And their sin is very serious.
 [21] I will go down now and see
-whether what they have done is as bad as the cry that has come to me.
+whether what they have done is as bad as the reports that have come to me.
 If not, I will know.”
 
 > **What does this mean?**
 > God treats Abraham like a friend. He tells him what he is planning. Later in the Bible, Abraham is called “God’s friend” (Isaiah 41:8; James 2:23).
 > “To do what is right and just” – that is the task for Abraham’s family. It is to be an example for the whole world.
-> The “cry” against Sodom is the crying of the victims. Great wrongs are happening in Sodom. The weak cry for help – and God hears it.
+> The “cry” of Sodom is the crying of the victims. Great wrongs are happening in Sodom. The weak cry for help – and God hears it.
 > God does not judge too quickly: “I will go down now and see.” He checks carefully before he judges.
 
 ---
