@@ -83,7 +83,7 @@ They struck him and killed him.
 > Absalom gets caught by his head in the branches, probably by his long, thick hair that he was so proud of (Chapter 14:26). His mule, a sign of royal dignity, runs away. He hangs helplessly “between the sky and the earth.”
 > The simple soldier obeys the king. He says: I would not kill him for any money in the world. The king has forbidden it.
 > But Joab does not obey. He knows: as long as Absalom lives, there will be no peace. He kills him, even though he cannot defend himself. Joab acts out of political calculation, not by the king’s command. It is not the first time (Chapter 3:27).
-> 10 pieces of silver are about 4 ounces of silver, and 1,000 pieces of silver are about 25 pounds.
+> The 10 pieces of silver are about 4 ounces of silver, and the 1,000 pieces of silver are about 25 pounds.
 
 ---
 

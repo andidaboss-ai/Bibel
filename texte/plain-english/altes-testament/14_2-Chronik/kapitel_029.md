@@ -33,7 +33,7 @@ They stopped offering burnt offerings there.
 He has let them be tossed back and forth.
 People are shocked when they see them, and they hiss at them.
 You can see it with your own eyes.
-[9] Our fathers have been killed with the sword.
+[9] Our ancestors have been killed with the sword.
 Our sons, our daughters, and our wives have been taken captive because of this.
 [10] Now I want to make a covenant with the LORD, the God of Israel.
 Then his fierce anger will turn away from us.
@@ -45,7 +45,7 @@ You are to be his servants and burn incense.”
 > Hezekiah ruled from about 715 to 686 BC. He is one of the best kings of Judah. In three chapters (29–31), Chronicles tells how he renewed the worship.
 > He does not wait a single day: right in the first month, he opens the temple that his father had closed.
 > Hezekiah says honestly: our ancestors were unfaithful. He does not make anything look better than it was. And he explains the distress of the people by their turning away from God.
-> A “covenant” is a solemn promise. Hezekiah wants to begin completely new with God.
+> A “covenant” is a solemn promise. Hezekiah wants to make a completely new start with God.
 > Lovingly, he calls the Levites “my sons.”
 
 ---
@@ -138,7 +138,7 @@ The singers sang,
 and the trumpet players blew their trumpets.
 All this went on until the burnt offering was finished.
 [29] When the offering was finished,
-the king and everyone with him knelt down and worshiped.
+the king and everyone with him bowed down and worshiped.
 [30] King Hezekiah and the leaders told the Levites
 to praise the LORD with the words of David and of Asaph the seer.
 So they sang praises with joy.
@@ -147,7 +147,7 @@ They bowed their heads and worshiped.
 > **What does this mean?**
 > The music in the temple was not only David’s idea. Verse 25 says: it came from God through prophets.
 > When the offering begins, the singing begins too. Forgiveness and joy belong together.
-> “With the words of David and of Asaph”: these are psalms. Many psalms carry the name of David or Asaph (for example, Psalm 50 and 73–83 by Asaph).
+> “With the words of David and of Asaph”: these are psalms. Many psalms carry the name of David or Asaph (for example, Psalms 50 and 73–83 by Asaph).
 
 ---
 
@@ -164,7 +164,7 @@ All of these were burnt offerings for the LORD.
 [34] But there were not enough priests
 to skin all the burnt offerings.
 So their relatives, the Levites, helped them until the work was done.
-They helped until more priests had made themselves holy.
+They helped until the priests had made themselves holy.
 The Levites had been more careful than the priests to make themselves holy.
 [35] There were also very many burnt offerings.
 And there was the fat of the peace offerings,

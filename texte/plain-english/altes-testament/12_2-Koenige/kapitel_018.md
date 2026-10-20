@@ -11,7 +11,7 @@ Hezekiah the son of Ahaz, king of Judah, began to rule.
 and he ruled for 29 years in Jerusalem.
 His mother’s name was Abi, the daughter of Zechariah.
 [3] He did what was right in the LORD’s eyes,
-just as his father David had done.
+just as his ancestor David had done.
 [4] He removed the high places,
 broke the stone pillars,
 and cut down the Asherah pole.
@@ -69,7 +69,8 @@ and captured them.
 “I have done wrong. Go away from me.
 Whatever you put on me, I will carry.”
 The king of Assyria demanded from Hezekiah king of Judah
-300 talents of silver and 30 talents of gold.
+300 talents of silver (about 22,500 pounds)
+and 30 talents of gold (about 2,250 pounds).
 [15] Hezekiah gave him all the silver that was found in the LORD’s house
 and in the treasuries of the king’s house.
 [16] At that time Hezekiah cut off the gold from the doors of the LORD’s temple
@@ -83,7 +84,7 @@ and he gave it to the king of Assyria.
 > – On a clay prism Sennacherib boasts that he conquered 46 cities of Judah and shut Hezekiah up in Jerusalem “like a bird in a cage”. He also names 30 talents of gold as tribute, exactly as the Bible does. For the silver he gives a higher number (800 talents).
 > – In Lachish archaeologists have found the siege ramp of the Assyrians.
 > Hezekiah gives in and pays a huge tribute. He even has to take the gold off the temple doors.
-> The Bible says “300 talents of silver and 30 talents of gold.” A talent is about 75 pounds.
+> The Bible says “300 talents of silver” and “30 talents of gold.” A talent is about 75 pounds.
 
 ---
 
@@ -187,7 +188,7 @@ and they told him Rabshakeh’s words.
 > “The Syrian language” is Aramaic. In those days it was the language used between nations. The officials of Judah understood it, the ordinary people did not. “The Jews’ language” is the Hebrew that was spoken in Judah.
 > But Rabshakeh wants the people to listen. He speaks in the people’s language and paints a crude picture of the hunger of a siege.
 > Then he makes a tempting offer: surrender, and you will be fine. To be honest, he also says that afterward he will carry them away, only to a “land like your own land”.
-> His biggest mistake: he puts the God of Israel on the same level as the gods of other peoples. “None of them could save their land, so your God cannot either.” With this he challenges God himself.
+> His biggest mistake: he puts the God of Israel on the same level as the gods of other peoples. In other words: none of them could save their land, so your God cannot either. With this he challenges God himself.
 > The people stay quiet, as the king commanded. Sometimes silence is the strongest answer to mocking.
 > Hamath and Arpad were cities in Syria that the Assyrians had conquered.
 > The story is also told in the book of Isaiah (Isaiah 36–37), almost in the same words.

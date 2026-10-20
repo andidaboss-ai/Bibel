@@ -54,8 +54,8 @@ Elzabad was ninth.
 [13] Jeremiah was tenth.
 Machbannai was eleventh.
 [14] These men from Gad were commanders in the army.
-The one who was least was equal to one hundred,
-and the greatest to one thousand.
+The one who was least was equal to 100,
+and the greatest to 1,000.
 [15] They crossed the Jordan in the first month of the year.
 At that time the river was flooding over all its banks.
 They chased away everyone who lived in the valleys,
@@ -64,7 +64,7 @@ to the east and to the west.
 > **What does this mean?**
 > The Gadites came from the other side of the Jordan. They crossed the river in spring, when it floods because the snow melts on Mount Hermon. That shows their courage and their determination.
 > “Like lions and gazelles”: strong and fast.
-> “The one who was least was equal to one hundred” can also mean: the least was captain over a hundred, the greatest over a thousand.
+> “The one who was least was equal to 100” can also mean: the least was captain over a hundred, the greatest over a thousand.
 
 ---
 
@@ -75,9 +75,9 @@ to the east and to the west.
 He said to them,
 “Have you come to me in peace to help me?
 Then my heart will be one with yours.
-But maybe you have come to hand me over to my enemies.
 I have done nothing wrong.
-Then may the God of our fathers see it and punish it.”
+But maybe you have come to hand me over to my enemies.
+Then may the God of our ancestors see it and punish it.”
 [18] Then the Spirit came on Amasai, the leader of the thirty.
 He said,
 “We are yours, David.
@@ -171,7 +171,7 @@ from Reuben, Gad, and the half-tribe of Manasseh:
 120,000 men with all kinds of weapons for battle.
 
 > **What does this mean?**
-> All twelve tribes come to Hebron to make David king. The Levites come too. For Chronicles this is a high point: all Israel is one.
+> All 12 tribes come to Hebron to make David king. The Levites come too. For Chronicles this is a high point: all Israel is one.
 > The men from Issachar “understood the times”: they had a good sense for the right moment and for what needed to be done. A gift that is valuable today as well.
 > Zebulun “did not have a double heart”: they stood with David fully and honestly.
 > Interesting: the fewest men come from Judah, David’s own tribe. Most come from the tribes that are far away. Perhaps because Judah had already stood with David before.
@@ -190,7 +190,7 @@ to make David king.
 [39] They stayed there with David for three days.
 They ate and drank.
 Their relatives had prepared food for them.
-[40] Even people from far away, as far as Issachar, Zebulun, and Naphtali,
+[40] Also their neighbors, as far away as Issachar, Zebulun, and Naphtali,
 brought food on donkeys, camels, mules, and oxen.
 They brought plenty of flour, fig cakes, bunches of raisins, wine, oil, cattle, and sheep.
 For there was joy in Israel.

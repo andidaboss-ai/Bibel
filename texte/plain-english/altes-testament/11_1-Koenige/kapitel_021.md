@@ -6,39 +6,44 @@
 ## Ahab wants the vineyard (Verses 1–7)
 
 [1] After these things, this happened:
-Naboth the Jezreelite had a vineyard in Jezreel,
-next to the palace of Ahab king of Samaria.
-[2] Ahab spoke to Naboth and said,
-“Give me your vineyard,
-so that I can have it for a vegetable garden,
+Naboth from Jezreel had a vineyard in Jezreel.
+It was next to the palace of Ahab, the king of Samaria.
+[2] Ahab spoke to Naboth.
+He said,
+“Give me your vineyard.
+I want to use it for a vegetable garden,
 because it is near my house.
 I will give you a better vineyard for it.
 Or, if you like, I will give you what it is worth in money.”
 [3] Naboth said to Ahab,
-“May the LORD keep me from
-giving you the inheritance of my fathers!”
-[4] Ahab went into his house sullen and angry
-because of what Naboth the Jezreelite had said to him.
-For he had said,
-“I will not give you the inheritance of my fathers.”
-He lay down on his bed,
-turned his face away,
-and would not eat any bread.
-[5] But his wife Jezebel came to him and said to him,
-“Why is your spirit so sad that you won’t eat any bread?”
+“May the LORD keep me from doing that!
+I will not give you the inheritance of my ancestors.”
+[4] Ahab went into his house sullen and angry,
+because of what Naboth from Jezreel had said to him.
+Naboth had said,
+“I will not give you the inheritance of my ancestors.”
+Ahab lay down on his bed.
+He turned his face away.
+He would not eat any food.
+[5] But his wife Jezebel came to him.
+She said to him,
+“Why are you so sad?
+Why won’t you eat any food?”
 [6] He said to her,
-“Because I spoke to Naboth the Jezreelite and said to him,
-‘Give me your vineyard for money.
+“I spoke to Naboth from Jezreel.
+I said to him,
+‘Sell me your vineyard for money.
 Or, if you like, I will give you another vineyard for it.’
 But he answered,
 ‘I will not give you my vineyard.’”
 [7] His wife Jezebel said to him,
-“Do you rule the kingdom of Israel now, or not?
-Get up, eat some bread, and let your heart be happy.
-I will give you the vineyard of Naboth the Jezreelite.”
+“Are you the king of Israel or not?
+Get up and eat some food.
+Be happy.
+I will give you the vineyard of Naboth from Jezreel.”
 
 > **What does this mean?**
-> Ahab’s offer seems fair. But for Naboth it is not about money. The land was the “inheritance of his fathers.” According to God’s law the land was to stay in the family, because it really belonged to God (Leviticus 25:23). Naboth acts faithfully according to God’s commandment.
+> Ahab’s offer seems fair. But for Naboth it is not about money. The land was “the inheritance of my ancestors,” as Naboth says. According to God’s law the land was to stay in the family, because it really belonged to God (Leviticus 25:23). Naboth acts faithfully according to God’s commandment.
 > Ahab behaves like a sulking child: he goes to bed, turns his face away, and eats nothing.
 > Jezebel thinks differently. In her homeland, Phoenicia, the king could take whatever he wanted. In Israel even the king was meant to stand under God’s law.
 
@@ -46,37 +51,38 @@ I will give you the vineyard of Naboth the Jezreelite.”
 
 ## Jezebel’s evil plan (Verses 8–16)
 
-[8] So she wrote letters in Ahab’s name,
-sealed them with his seal,
-and sent the letters to the elders and the nobles in his city,
-who lived there with Naboth.
+[8] So Jezebel wrote letters in Ahab’s name.
+She sealed them with his seal.
+She sent the letters to the elders and the nobles in Naboth’s city.
+They lived in the same city as Naboth.
 [9] In the letters she wrote:
-“Announce a fast,
-and seat Naboth in a place of honor among the people.
-[10] Seat two men, wicked fellows, across from him.
+“Announce a day of fasting.
+Give Naboth a seat of honor among the people.
+[10] Seat two wicked men across from him.
 Let them testify against him:
 ‘You cursed God and the king!’
 Then take him out and stone him to death.”
-[11] The men of his city, the elders and the nobles who lived in his city,
-did as Jezebel had told them,
-as it was written in the letters that she had sent them.
-[12] They announced a fast
-and seated Naboth in a place of honor among the people.
-[13] The two men, the wicked fellows, came in and sat across from him.
-And the wicked fellows testified against him, against Naboth, in front of the people:
+[11] The men of Naboth’s city did what Jezebel had told them.
+They were the elders and the nobles who lived in his city.
+They did what was written in the letters that she had sent them.
+[12] They announced a day of fasting.
+They gave Naboth a seat of honor among the people.
+[13] The two wicked men came in and sat across from him.
+In front of the people, the wicked men testified against Naboth:
 “Naboth cursed God and the king!”
-Then they took him out of the city
-and stoned him to death with stones.
-[14] Then they sent word to Jezebel:
-“Naboth has been stoned and is dead.”
-[15] When Jezebel heard that Naboth had been stoned and was dead,
-Jezebel said to Ahab,
-“Get up, take over the vineyard of Naboth the Jezreelite,
-which he refused to give you for money.
-For Naboth is not alive anymore. He is dead.”
-[16] When Ahab heard that Naboth was dead,
-Ahab got up
-to go down to the vineyard of Naboth the Jezreelite and take it over.
+Then the people took Naboth out of the city.
+They threw stones at him until he was dead.
+[14] Then they sent a message to Jezebel:
+“Naboth has been stoned. He is dead.”
+[15] Jezebel heard that Naboth had been stoned and was dead.
+Then she said to Ahab,
+“Get up and take the vineyard of Naboth from Jezreel.
+He refused to sell it to you for money.
+But Naboth is not alive anymore.
+He is dead.”
+[16] Ahab heard that Naboth was dead.
+Then Ahab got up.
+He went down to the vineyard of Naboth from Jezreel to take it.
 
 > **What does this mean?**
 > This is murder carried out through the courts. Jezebel uses the king’s name, a religious fast, and a trial with false witnesses to kill an innocent man.
@@ -90,40 +96,41 @@ to go down to the vineyard of Naboth the Jezreelite and take it over.
 ## Elijah confronts Ahab (Verses 17–26)
 
 [17] Then the word of the LORD came to Elijah the Tishbite:
-[18] “Get up, go down to meet Ahab king of Israel, who lives in Samaria.
-He is in Naboth’s vineyard.
-He has gone down there to take it over.
-[19] Say to him:
+[18] “Get up and go down to meet Ahab, the king of Israel.
+He lives in Samaria.
+Right now he is in Naboth’s vineyard.
+He has gone down there to take it.
+[19] Say to him,
 ‘The LORD says:
-Have you killed and also taken possession?’
-And say to him:
+“Have you killed and also taken possession?”’
+And say to him,
 ‘The LORD says:
-In the place where dogs licked the blood of Naboth,
-dogs will lick your blood, yes, yours.’”
+“In the place where dogs licked up the blood of Naboth,
+dogs will lick up your blood, yes, yours.”’”
 [20] Ahab said to Elijah,
 “Have you found me, my enemy?”
-He answered,
-“I have found you,
-because you have sold yourself to do what is evil in the LORD’s sight.
-[21] I will bring disaster on you
-and sweep you away completely,
-and I will cut off from Ahab everyone who urinates against a wall,
-both the one who is shut up and the one who is left at large in Israel.
-[22] I will make your house like the house of Jeroboam the son of Nebat
-and like the house of Baasha the son of Ahijah,
-because you have made me angry
-and have made Israel sin.”
+Elijah answered,
+“Yes, I have found you.
+You have sold yourself to do what is evil in the LORD’s eyes.
+[21] I will bring disaster on you.
+I will sweep you away completely.
+I will cut off from Ahab everyone who urinates against a wall in Israel,
+the one who is shut up and the one who is free.
+[22] I will make your family like the family of Jeroboam, the son of Nebat,
+and like the family of Baasha, the son of Ahijah.
+You have made me angry,
+and you have made Israel sin.”
 [23] The LORD also spoke about Jezebel:
 “The dogs will eat Jezebel by the wall of Jezreel.
-[24] Whoever of Ahab’s family dies in the city, the dogs will eat.
-And whoever dies in the field, the birds of the sky will eat.”
-[25] Truly, there was no one like Ahab,
-who sold himself to do what was evil in the LORD’s sight,
-because his wife Jezebel stirred him up.
-[26] He acted in a very disgusting way
-by following idols,
-just as the Amorites had done,
-whom the LORD drove out before the people of Israel.
+[24] Anyone from Ahab’s family who dies in the city will be eaten by the dogs.
+Anyone who dies in the open country will be eaten by the birds of the sky.”
+[25] There was really no one like Ahab.
+He sold himself to do what was evil in the LORD’s eyes.
+His wife Jezebel stirred him up to do it.
+[26] He did very disgusting things.
+He followed idols,
+just as the Amorites had done.
+The LORD had driven the Amorites out before the people of Israel.
 
 > **What does this mean?**
 > God sees what happens in secret. No human court helped Naboth. But God sends Elijah.
@@ -139,16 +146,17 @@ whom the LORD drove out before the people of Israel.
 
 ## Ahab humbles himself (Verses 27–29)
 
-[27] When Ahab heard these words,
-he tore his clothes,
-put sackcloth on his body,
+[27] Ahab heard these words.
+Then he tore his clothes.
+He put sackcloth on his body
 and fasted.
-He slept in sackcloth and went about with his head bowed low.
+He slept in sackcloth.
+He walked around with his head bowed low.
 [28] Then the word of the LORD came to Elijah the Tishbite:
 [29] “Do you see how Ahab humbles himself before me?
-Because he humbles himself before me,
-I will not bring the disaster in his lifetime.
-I will bring the disaster on his house in his son’s days.”
+He humbles himself before me.
+So I will not bring the disaster while he is alive.
+I will bring the disaster on his family in his son’s time.”
 
 > **What does this mean?**
 > This is surprising: of all people, Ahab, the worst king, is sorry. He shows signs of grief and repentance.

@@ -16,7 +16,7 @@ and followed Sheba the son of Bichri.
 But the men of Judah stayed with their king,
 from the Jordan all the way to Jerusalem.
 [3] David came to his house in Jerusalem.
-The king took the ten women, his concubines,
+The king took the 10 women, his concubines,
 whom he had left to take care of the house,
 and put them in a house under guard.
 He provided food for them, but he did not go in to them anymore.
@@ -25,7 +25,7 @@ living like widows.
 
 > **What does this mean?**
 > The quarrel from Chapter 19 leads at once to a new rebellion. Sheba is a Benjamite, like Saul. His cry will come up again later when the kingdom splits (1 Kings 12:16).
-> The ten concubines: they were not guilty. Absalom had abused them against their will (Chapter 16:22). Now they are locked away for the rest of their lives and live like widows. David provides for them, but they no longer have a life of their own. Once again women have to bear the consequences of what men have done. The Bible tells it without approving of it.
+> The 10 concubines: they were not guilty. Absalom had abused them against their will (Chapter 16:22). Now they are locked away for the rest of their lives and live like widows. David provides for them, but they no longer have a life of their own. Once again women have to bear the consequences of what men have done. The Bible tells it without approving of it.
 
 ---
 

@@ -218,13 +218,13 @@ So why are you angry about this?
 Have we eaten anything at the king’s cost?
 Or has he given us any gift?”
 [43] The men of Israel answered the men of Judah and said,
-“We have ten shares in the king,
+“We have 10 shares in the king,
 and we also have more claim to David than you do.
 So why did you despise us?
 Weren’t we the first to speak of bringing back our king?”
 But the words of the men of Judah were harsher than the words of the men of Israel.
 
 > **What does this mean?**
-> The war is hardly over when a new quarrel begins. The ten northern tribes feel left out. Judah has brought the king back on its own.
-> “Ten shares”: the northern tribes are ten tribes, Judah is one. They say: there are more of us.
+> The war is hardly over when a new quarrel begins. The 10 northern tribes feel left out. Judah has brought the king back on its own.
+> “10 shares”: the northern tribes are 10 tribes, Judah is one. They say: there are more of us.
 > Judah answers harshly and arrogantly. In the next chapter this quarrel between north and south leads to a new rebellion. And much later the kingdom will split along exactly this line (1 Kings 12).

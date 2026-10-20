@@ -80,7 +80,7 @@ and strike the city with the edge of the sword.”
 [15] The king’s servants said to the king,
 “Look, your servants are ready to do whatever my lord the king chooses.”
 [16] The king went out, and his whole household after him.
-The king left ten women behind, who were concubines, to take care of the house.
+The king left 10 women behind, who were concubines, to take care of the house.
 [17] The king went out, and all the people after him.
 And they stopped at Beth Merhak.
 [18] All his servants passed by beside him,
@@ -91,7 +91,7 @@ passed by in front of the king.
 > **What does this mean?**
 > David flees at once. He does not want Jerusalem to be destroyed in a battle. He wants no bloodshed in the city.
 > The great king who conquered Jerusalem now has to flee from his own son.
-> He leaves ten concubines behind to take care of the palace. That will have terrible consequences (Chapter 16:21–22).
+> He leaves 10 concubines behind to take care of the palace. That will have terrible consequences (Chapter 16:21–22).
 > “Beth Merhak” means “the distant house.” It probably means the last house at the edge of the city.
 > David’s most faithful people are his foreign soldiers: Cherethites, Pelethites, and men from Gath.
 

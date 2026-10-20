@@ -127,6 +127,6 @@ and now Absalom did too.
 
 > **What does this mean?**
 > Ahithophel gives cruel but politically clever advice. If Absalom sleeps with his father’s wives in public, he shows: I am now the king. And there is no way back. Reconciliation with David is impossible. So all his followers know that they can rely completely on Absalom.
-> For the ten women it is a terrible wrong. They are abused in public, as a tool in the power struggle. No one asks about them.
+> For the 10 women it is a terrible wrong. They are abused in public, as a tool in the power struggle. No one asks about them.
 > Here Nathan’s announcement comes true exactly: “I will take your wives while you watch. I will give them to another man who is close to you. He will sleep with your wives in broad daylight” (Chapter 12:11). And it happens on the same roof from which David had seen Bathsheba (Chapter 11:2).
 > Ahithophel’s advice was thought to be as sure as a word from God. That is why he was so dangerous for David.

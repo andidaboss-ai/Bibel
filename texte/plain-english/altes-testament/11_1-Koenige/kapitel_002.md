@@ -10,7 +10,8 @@ he gave instructions to his son Solomon and said,
 [2] “I am going the way of all the earth.
 So be strong, and show yourself a man.
 [3] Keep the instructions of the LORD your God.
-Walk in his ways, and keep his statutes, his commandments, his ordinances, and his testimonies,
+Walk in his ways.
+Keep his laws, his commandments, his rules, and his teachings,
 as it is written in the law of Moses,
 so that you may do well in all that you do and wherever you turn.
 [4] Then the LORD will keep his word that he spoke about me:
@@ -18,20 +19,19 @@ so that you may do well in all that you do and wherever you turn.
 and walk before me in truth, with all their heart and with all their soul,
 you will never be without a man on the throne of Israel.’
 
-[5] You also know what Joab the son of Zeruiah did to me,
+[5] “You also know what Joab the son of Zeruiah did to me,
 what he did to the two commanders of the armies of Israel,
 to Abner the son of Ner and to Amasa the son of Jether.
 He killed them and shed the blood of war in a time of peace.
 He put the blood of war on the belt around his waist
 and on the sandals on his feet.
 [6] So act according to your wisdom,
-and don’t let his gray head go down to Sheol in peace.
-Sheol is the place of the dead.
+and don’t let his gray head go down to Sheol (the world of the dead) in peace.
 [7] But show kindness to the sons of Barzillai the Gileadite.
 Let them be among those who eat at your table.
 For they came to help me in this way when I fled from your brother Absalom.
 
-[8] And there is Shimei the son of Gera with you, the Benjamite from Bahurim.
+[8] “And there is Shimei the son of Gera with you, the Benjamite from Bahurim.
 He cursed me with a terrible curse
 on the day when I went to Mahanaim.
 But he came down to meet me at the Jordan,
@@ -126,7 +126,7 @@ He struck him down, so that he died.
 > Bathsheba does not notice it, or she notices it and lets Adonijah walk into the trap. The text does not say.
 > Solomon shows his mother great honor: he stands up, bows, and has a throne set up for her at his right hand. The king’s mother had an important position at the royal court.
 > Once again Abishag is not asked. She is only a tool in the men’s struggle for power.
-> Solomon has his brother killed. In this way he does not directly break his promise from chapter 1 (1 Kings 1:52), because he sees “wickedness” in Adonijah’s request.
+> Solomon has his brother killed. In this way he does not directly break his promise in 1 Kings 1:52, because he sees “wickedness” in Adonijah’s request.
 
 ---
 
@@ -182,6 +182,7 @@ And the king put Zadok the priest in the place of Abiathar.
 > Abiathar had served David faithfully, when he was fleeing from Saul and from Absalom. That is why Solomon spares his life. But he loses his office as priest.
 > In this way an old word comes true: Eli’s family had been told that they would lose the office of priest (1 Samuel 2:30–35). Abiathar was the last priest from Eli’s family.
 > Anathoth was a village north of Jerusalem. Later the prophet Jeremiah came from a family of priests in Anathoth (Jeremiah 1:1).
+> “More righteous” (verse 32): righteous means living right before God.
 > Joab flees to the altar like Adonijah. But the protection of the altar was not for murderers (Exodus 21:14). Joab had murdered Abner and Amasa.
 > So ends the life of the man who brought David many victories, but who also shed so much blood. He dies the way he lived: by the sword.
 > Benaiah becomes the new commander of the army, Zadok becomes the chief priest. His descendants remain priests until much later times.
