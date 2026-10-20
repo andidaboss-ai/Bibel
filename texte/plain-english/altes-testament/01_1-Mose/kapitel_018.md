@@ -134,8 +134,8 @@ then I will spare the whole place for their sake.”
 [27] Abraham answered,
 “Look, I have dared to speak to the Lord,
 although I am only dust and ashes.
-[28] Maybe five of the 50 righteous people are missing.
-Will you destroy the whole city because five are missing?”
+[28] Maybe 5 of the 50 righteous people are missing.
+Will you destroy the whole city because 5 are missing?”
 He said,
 “I will not destroy it if I find 45 there.”
 

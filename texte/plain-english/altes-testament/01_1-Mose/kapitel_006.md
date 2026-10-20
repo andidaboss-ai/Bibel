@@ -94,7 +94,7 @@ And build it with three levels: a lower, a middle and an upper level.”
 
 > **What does this mean?**
 > Verse 14: This ship is often called the ark. It is a huge ship shaped like a box.
-> In the Bible, the measurements are in cubits: 300 cubits long, 50 cubits wide, 30 cubits high, plus one cubit for the opening under the roof. A cubit is the length from the elbow to the tip of the middle finger, about 18 inches.
+> In the Bible, the measurements are in cubits: 300 cubits long, 50 cubits wide, 30 cubits high, plus 1 cubit for the opening under the roof. A cubit is the length from the elbow to the tip of the middle finger, about 18 inches.
 > The ark is huge: as long as one and a half football fields. It is not a sailboat. It is a floating box.
 > Today no one knows exactly what “gopher wood” is. Maybe it was cypress wood.
 > Pitch is a black, sticky substance. It makes wood waterproof.

@@ -50,7 +50,7 @@ For your descendants will be named through Isaac.
 because he is your child.”
 
 > **What does this mean?**
-> Back then, children were not weaned until they were about two or three years old. A feast for it was common, because many children died young.
+> Back then, children were not weaned until they were about 2 or 3 years old. A feast for it was common, because many children died young.
 > Ishmael is now a teenager, about 16 years old. He is “mocking” – in Hebrew, this sounds like “playing Isaac,” a play on the name Isaac. It is not quite clear what exactly he does. Sarah feels it is a threat to her son.
 > Abraham loves Ishmael. It breaks his heart.
 > God comforts Abraham: I will take care of Ishmael too. He is your child too, and I will not forget him.

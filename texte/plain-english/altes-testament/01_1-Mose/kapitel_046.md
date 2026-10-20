@@ -106,15 +106,15 @@ She gave birth to these for Jacob, all together 7 people.
 
 ---
 
-## Seventy people (Verses 26–27)
+## 70 people (Verses 26–27)
 
 [26] All the people who came to Egypt with Jacob and were his own descendants
 were 66 – not counting the wives of Jacob’s sons.
-[27] Then there were the two sons of Joseph, who were born to him in Egypt.
+[27] Then there were the 2 sons of Joseph, who were born to him in Egypt.
 So all the people of Jacob’s family who came to Egypt were 70.
 
 > **What does this mean?**
-> This long list is important: it names the families that later become the twelve tribes of Israel.
+> This long list is important: it names the families that later become the 12 tribes of Israel.
 > The numbers are counted in a somewhat complicated way. For example, Jacob himself is counted among the 33 people of Leah, but Er and Onan are not. Joseph and his sons are counted among the 70, even though they were already in Egypt.
 > The number 70 is important. It reminds us of the 70 nations in Chapter 10. Jacob’s family is like a small world of its own. In Egypt, these 70 people will grow into a great nation.
 > Women are named too: Dinah, and Serah, the daughter of Asher.

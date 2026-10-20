@@ -5,10 +5,10 @@
 
 ## Saul and Jonathan against the Philistines (Verses 1–7)
 
-[1] Saul was thirty years old when he became king,
-and he ruled over Israel for forty-two years.
+[1] Saul was 30 years old when he became king,
+and he ruled over Israel for 42 years.
 [2] Saul chose 3,000 men of Israel for himself.
-2,000 of them were with Saul in Michmash and in the hill country of Bethel,
+Of them, 2,000 were with Saul in Michmash and in the hill country of Bethel,
 and 1,000 were with Jonathan in Gibeah of Benjamin.
 He sent the rest of the people home, each one to his own tent.
 [3] Jonathan struck down the Philistine outpost that was in Geba.
@@ -32,7 +32,7 @@ But Saul was still in Gilgal,
 and all the people followed him trembling.
 
 > **What does this mean?**
-> Verse 1 is damaged in the Hebrew text. According to the Hebrew text, Saul was one year old when he became king. And he ruled for two years. Numbers are obviously missing. The WEB has put in the numbers 30 and 42, like some other translations. The New Testament says that Saul ruled for 40 years (Acts 13:21). We do not know for sure how old he really was and exactly how long he ruled.
+> Verse 1 is damaged in the Hebrew text. According to the Hebrew text, Saul was one year old when he became king. And he ruled for two years. Numbers are obviously missing. The WEB, our English source text, has put in the numbers 30 and 42, like some other translations. The New Testament says that Saul ruled for 40 years (Acts 13:21). We do not know for sure how old he really was and exactly how long he ruled.
 > Jonathan is Saul’s son. He is named here for the first time. He is brave and attacks a Philistine outpost. But Saul has it announced: “Saul has struck down.” He takes the honor for himself.
 > Now the Philistines come with a huge army. The number 30,000 chariots is very high. Some old translations have 3,000. That fits better with the 6,000 horsemen.
 > The Israelites panic. They hide everywhere or flee over the Jordan.
@@ -82,7 +82,7 @@ because you have not kept what the LORD commanded you.”
 
 ## Without weapons against the Philistines (Verses 15–23)
 
-[15] Samuel got up and went from Gilgal up to Gibeah of Benjamin.
+[15] Samuel got up and went from Gilgal to Gibeah of Benjamin.
 Saul counted the people who were with him, about 600 men.
 [16] Saul and his son Jonathan and the people who were with them
 stayed in Geba of Benjamin.
@@ -108,6 +108,6 @@ Only Saul and his son Jonathan had them.
 > **What does this mean?**
 > Of the many soldiers, only 600 are left. The Philistines send out groups that rob the land.
 > The Philistines have full control over iron. They do not let the Israelites have any blacksmiths, so that they cannot make weapons. Whoever wants to have a tool sharpened has to go to the Philistines and pay.
-> A “payim” was a small weight. Archaeologists have found small stone weights with the word “pim” on them. A pim was about two thirds of a shekel, around a quarter of an ounce of silver. Before these finds, no one knew what this word meant.
+> A “payim” was a small weight. Archaeologists have found small stone weights with the word “pim” on them. A pim was about two-thirds of a shekel, around a quarter of an ounce of silver. Before these finds, no one knew what this word meant.
 > Verse 21 is hard to understand in Hebrew. “Goads” were sticks with a point that people used to drive cattle.
 > Israel’s situation is hopeless: few soldiers, no weapons, a huge army against them. If rescue comes now, it can only come from God.

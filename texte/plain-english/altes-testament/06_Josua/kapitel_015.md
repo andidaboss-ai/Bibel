@@ -117,7 +117,7 @@ Kabzeel, Eder, Jagur,
 [22] Kinah, Dimonah, Adadah,
 [23] Kedesh, Hazor, Ithnan,
 [24] Ziph, Telem, Bealoth,
-[25] Hazor Hadattah, Kerioth Hezron – that is Hazor –,
+[25] Hazor Hadattah, Kerioth Hezron (also called Hazor),
 [26] Amam, Shema, Moladah,
 [27] Hazar Gaddah, Heshmon, Beth Pelet,
 [28] Hazar Shual, Beersheba, Biziothiah,
@@ -140,13 +140,13 @@ Eshtaol, Zorah, Ashnah,
 [34] Zanoah, En Gannim, Tappuah, Enam,
 [35] Jarmuth, Adullam, Socoh, Azekah,
 [36] Shaaraim, Adithaim, and Gederah (or Gederothaim).
-Fourteen cities with their villages.
+14 cities with their villages.
 [37] Zenan, Hadashah, Migdal Gad,
 [38] Dilean, Mizpah, Joktheel,
 [39] Lachish, Bozkath, Eglon,
 [40] Cabbon, Lahmam, Chitlish,
 [41] Gederoth, Beth Dagon, Naamah, and Makkedah.
-Sixteen cities with their villages.
+16 cities with their villages.
 [42] Libnah, Ether, Ashan,
 [43] Iphtah, Ashnah, Nezib,
 [44] Keilah, Achzib, and Mareshah.
@@ -168,29 +168,29 @@ as far as the brook of Egypt and the coast of the great sea.
 
 [48] In the hill country:
 Shamir, Jattir, Socoh,
-[49] Dannah, Kiriath Sannah – that is Debir –,
+[49] Dannah, Kiriath Sannah (which is Debir),
 [50] Anab, Eshtemoh, Anim,
 [51] Goshen, Holon, and Giloh.
-Eleven cities with their villages.
+11 cities with their villages.
 [52] Arab, Dumah, Eshan,
 [53] Janim, Beth Tappuah, Aphekah,
-[54] Humtah, Kiriath Arba – that is Hebron –, and Zior.
+[54] Humtah, Kiriath Arba (also called Hebron), and Zior.
 Nine cities with their villages.
 [55] Maon, Carmel, Ziph, Jutah,
 [56] Jezreel, Jokdeam, Zanoah,
 [57] Kain, Gibeah, and Timnah.
-Ten cities with their villages.
+10 cities with their villages.
 [58] Halhul, Beth Zur, Gedor,
 [59] Maarath, Beth Anoth, and Eltekon.
 Six cities with their villages.
-[60] Kiriath Baal – that is Kiriath Jearim – and Rabbah.
+[60] Kiriath Baal (also called Kiriath Jearim) and Rabbah.
 Two cities with their villages.
 
 > **What does this mean?**
 > Here Debir is called “Kiriath Sannah,” in verse 15 “Kiriath Sepher.” Both were old names of this city.
 > The Carmel here is a town in the south, not the well-known Mount Carmel in the north. Nabal and Abigail later lived there (1 Samuel 25:2).
 > The Jezreel here is also a town in Judah, not the well-known plain in the north.
-> In the Greek translation of the Bible, there is another list of eleven cities after verse 59, including Bethlehem. This list is missing in the Hebrew text and in the WEB.
+> In the Greek translation of the Bible, there is another list of eleven cities after verse 59, including Bethlehem. This list is missing in the Hebrew text and in the WEB, our English source text.
 
 ---
 

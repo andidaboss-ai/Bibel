@@ -96,7 +96,7 @@ This is in addition to the regular burnt offering, its grain offering and its dr
 > The Feast of Booths is the biggest festival of the year. It is the festival of joy after the harvest. People live in simple huts made of branches during this festival.
 > The number of bulls gets smaller by one every day: 13, 12, 11, 10, 9, 8, 7. Together that makes 70 bulls.
 > Jewish teachers have said: The 70 bulls stand for the 70 nations of the world that are listed in Genesis 10. So at this festival, Israel also prays for all the other nations. The prophet Zechariah foretells that one day all nations will come to Jerusalem for the Feast of Booths (Zechariah 14:16).
-> Every day, 14 lambs and 2 rams are offered too. In the seven days, that makes 98 lambs.
+> Every day, 14 lambs and 2 rams are offered too. In the 7 days, that makes 98 lambs.
 
 ---
 

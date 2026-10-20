@@ -57,7 +57,7 @@ And from there the LORD scattered them over the face of all the earth.
 ## From Shem to Terah (Verses 10–26)
 
 [10] This is the family history of Shem.
-Shem was 100 years old when he had Arpachshad. That was two years after the flood.
+Shem was 100 years old when he had Arpachshad. That was 2 years after the flood.
 [11] After Arpachshad was born, Shem lived another 500 years.
 He had more sons and daughters.
 

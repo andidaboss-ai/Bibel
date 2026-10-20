@@ -76,7 +76,7 @@ Then he went back to the camp of Israel and said,
 
 ## Jars, torches, and trumpets (Verses 16–22)
 
-[16] He divided the 300 men into three groups.
+[16] He divided the 300 men into 3 groups.
 He put trumpets into all their hands, and empty jars with torches inside the jars.
 [17] He said to them,
 “Watch me and do the same.

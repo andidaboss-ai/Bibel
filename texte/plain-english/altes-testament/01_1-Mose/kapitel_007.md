@@ -12,7 +12,7 @@ For I have seen: Among the people of this time, you are righteous before me.
 And of the animals that are not clean, take two, the male and his female.
 [3] Also of the birds of the sky, take seven pairs, male and female.
 That way, their young will stay alive on the whole earth.
-[4] For in seven days, I will make it rain on the earth
+[4] For in 7 days, I will make it rain on the earth
 for 40 days and 40 nights.
 Then I will wipe out from the face of the ground every living thing that I have made.”
 

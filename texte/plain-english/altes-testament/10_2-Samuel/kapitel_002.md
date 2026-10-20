@@ -12,7 +12,7 @@ David asked, “Where should I go?”
 The LORD answered, “To Hebron.”
 [2] So David went up to Hebron
 with his two wives.
-They were Ahinoam from Jezreel and Abigail, the widow of Nabal from Carmel.
+They were Ahinoam from Jezreel and Abigail, who had been the wife of Nabal from Carmel.
 [3] David also brought the men who were with him,
 and each man brought his family.
 They lived in the towns around Hebron.
@@ -113,7 +113,7 @@ But Asahel would not stop chasing him.
 I don’t want to kill you.
 How could I look your brother Joab in the face then?”
 [23] But Asahel would not turn away.
-So Abner stabbed him in the belly with the back end of his spear.
+So Abner stabbed him in the body with the back end of his spear.
 The spear came out of his back.
 Asahel fell down and died right there.
 Everyone who came to the place where Asahel lay dead stopped and stood still.
@@ -122,7 +122,7 @@ Everyone who came to the place where Asahel lay dead stopped and stood still.
 > Asahel is young, fast, and ambitious. He wants to defeat the famous Abner.
 > Abner does not want to kill him. He warns him twice. He knows: if I kill Joab’s brother, Joab will take revenge. In those days that was the duty of the “avenger of blood.”
 > In the end Abner does kill Asahel, with the blunt end of the spear, maybe because he really only wanted to hold him off. But the blow is deadly.
-> Here a blood feud begins that has terrible consequences (Chapter 3:27).
+> Here a blood feud begins that has terrible consequences (3:27).
 
 ---
 
@@ -155,7 +155,7 @@ went through the whole area of Bithron,
 and came to Mahanaim.
 [30] Joab came back from chasing Abner.
 He gathered all his men together.
-19 of David’s men were missing, and Asahel too.
+Of David’s men, 19 were missing, and Asahel too.
 [31] But David’s servants had killed 360 men from Benjamin and from Abner’s army.
 [32] They took Asahel’s body and buried him in his father’s tomb in Bethlehem.
 Then Joab and his men marched all night.

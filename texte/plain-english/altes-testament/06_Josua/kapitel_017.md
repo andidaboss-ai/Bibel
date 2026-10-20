@@ -34,7 +34,7 @@ And the land of Gilead belonged to the rest of the sons of Manasseh.
 
 > **What does this mean?**
 > We know the five sisters from Numbers 27 and 36. Moses had promised them an inheritance. Now, years later, they confidently remind the leaders of it. And the promise is kept.
-> The 10 shares: five for the clans of the sons (without Hepher) and five for the daughters of Zelophehad. The women receive land just like the men.
+> The 10 shares: 5 for the clans of the sons (without Hepher) and 5 for the daughters of Zelophehad. The women receive land just like the men.
 
 ---
 

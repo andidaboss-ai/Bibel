@@ -8,7 +8,6 @@
 [1] “‘If his offering is a sacrifice of peace offerings,
 and he brings it from the cattle, a male or a female animal,
 he shall bring it before the LORD without any fault.
-A sacrifice is an animal that is killed and given to God as an offering.
 [2] He shall lay his hand on the head of his offering
 and kill it at the door of the Tent of Meeting.
 Aaron’s sons, the priests, shall sprinkle the blood all around on the altar.
@@ -22,6 +21,7 @@ that is on the wood over the fire.
 It is an offering made by fire, a pleasant smell to the LORD.
 
 > **What does this mean?**
+> Verse 1: A sacrifice is an animal that is killed and given to God as an offering.
 > The peace offering is also called the “fellowship offering.” In Hebrew, its name contains the word “shalom”: peace, well-being, being whole.
 > In this offering, only the fat and a few inner parts are burned. The people eat most of the meat themselves – at a feast with family and friends (Leviticus 7:15). One part belongs to the priests.
 > It is like a shared meal with God. People celebrate that they live in peace with God and with one another. People brought it, for example, to thank God, or when they had kept a promise.
