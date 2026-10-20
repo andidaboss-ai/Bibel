@@ -71,7 +71,7 @@ the water of the Jordan went back to its place
 and flowed over all its banks again, as before.
 
 > **What does this mean?**
-> In verse 16, the Hebrew text calls it the ark of the testimony. The WEB calls it the ark of the covenant. It is another name for the same ark. The word testimony means the stone tablets with the Ten Commandments that lay inside the ark.
+> In verse 16, the Hebrew text calls it the ark of the testimony. The WEB, our English source text, calls it the ark of the covenant. It is another name for the same ark. The word testimony means the stone tablets with the Ten Commandments that lay inside the ark.
 > As soon as the ark is out, the river flows again. This shows: It was not chance. The water was gone only as long as God wanted.
 
 ---
@@ -93,7 +93,7 @@ which he dried up in front of us until we had crossed over,
 and so that you may fear the LORD your God forever.’”
 
 > **What does this mean?**
-> The tenth day of the first month is exactly the day when the Passover lambs were chosen in Egypt (Exodus 12:3). Four days later, Israel celebrates the first Passover in the land (Chapter 5:10). 40 years after leaving Egypt, the circle closes.
+> The tenth day of the first month is exactly the day when the Passover lambs were chosen in Egypt (Exodus 12:3). Four days later, Israel celebrates the first Passover in the land (5:10). 40 years after leaving Egypt, the circle closes.
 > “Gilgal” became Israel’s first permanent camp in the land. The name sounds like the Hebrew word for “circle” or “circle of stones.”
 > In verse 23, the WEB says “Red Sea.” The Hebrew says “Sea of Reeds.”
 > The goal comes at the end: “so that all the peoples of the earth may know.” God’s deeds for Israel are meant to show the whole world who God is.

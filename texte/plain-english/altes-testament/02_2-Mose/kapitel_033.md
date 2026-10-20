@@ -11,7 +11,7 @@ you and the people that you brought up out of the land of Egypt.
 Go to the land that I promised to Abraham, to Isaac and to Jacob with an oath.
 I said, ‘I will give it to your descendants.’
 [2] I will send an angel in front of you.
-And I will drive out the Canaanites, the Amorites, the Hittites, the Perizzites, the Hivites and the Jebusites.
+And I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite and the Jebusite.
 [3] Go to a land flowing with milk and honey.
 But I will not go up among you myself,
 because you are a stiff-necked people.

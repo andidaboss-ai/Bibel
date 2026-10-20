@@ -19,7 +19,7 @@ Make them on its two sides, across from each other.
 They shall hold the poles for carrying it.
 [5] Make the poles of acacia wood and cover them with gold.
 
-[6] Put the altar in front of the veil that is by the ark of the covenant,
+[6] “Put the altar in front of the veil that is by the ark of the covenant,
 in front of the mercy seat that is over the covenant.
 There I will meet with you.
 [7] Aaron shall burn sweet-smelling incense on it every morning.
@@ -47,13 +47,11 @@ It is most holy to the LORD.”
 
 [11] The LORD spoke to Moses.
 He said,
-[12] “You will take a census of the people of Israel.
-A census means: counting the people.
-When you count them, each man shall give the LORD a ransom for his life.
-A ransom is a price paid to set a life free.
+[12] “When you take a census of the people of Israel and count them,
+each man shall give the LORD a ransom for his life.
 Then no plague will come on them when you count them.
 [13] Everyone who passes over to those who are counted shall give this:
-half a shekel, by the weight of the shekel of the sanctuary.
+half a shekel (about 0.2 ounces), by the weight of the shekel of the sanctuary.
 A shekel is 20 gerahs.
 Half a shekel shall be an offering to the LORD.
 [14] Everyone who passes over to those who are counted, who is 20 years old or older, shall give the offering to the LORD.
@@ -65,6 +63,7 @@ It shall be a reminder of the people of Israel before the LORD,
 to make atonement for your lives.”
 
 > **What does this mean?**
+> A census means: counting the people. A ransom is a price paid to set a life free.
 > Half a shekel is about one fifth of an ounce of silver. A “gerah” is an even smaller weight, about one fiftieth of an ounce.
 > The men who were counted were 20 years old or older. They were the men who could go to war. Whoever was counted “passed over” to those who had already been counted.
 > Back then, people believed: Counting a people is dangerous. Life belongs to God, not to the king or the leader. That is why everyone shall give a small gift – as a sign: My life belongs to God. Later, the Bible tells how King David counts the people, and a plague comes because of it (2 Samuel 24).
@@ -99,16 +98,16 @@ for Aaron and for his descendants, through all their generations.”
 [22] The LORD also spoke to Moses.
 He said,
 [23] “Also take the finest spices:
-liquid myrrh, about 12 pounds;
-sweet-smelling cinnamon, half as much, about 6 pounds;
-and sweet-smelling cane, about 6 pounds;
-[24] and cassia, about 12 pounds, by the weight of the shekel of the sanctuary.
+liquid myrrh, 500 shekels (about 12 pounds);
+sweet-smelling cinnamon, half as much, 250 shekels (about 6 pounds);
+and sweet-smelling cane, 250 shekels (about 6 pounds);
+[24] and cassia, 500 shekels (about 12 pounds), by the weight of the shekel of the sanctuary.
 Also take about 1 gallon of olive oil.
 [25] Make it into a holy anointing oil,
 a perfume mixed with the skill of a perfume maker.
 It shall be a holy anointing oil.
 
-[26] Use it to anoint
+[26] “Use it to anoint
 the Tent of Meeting, the ark of the covenant,
 [27] the table and all its things, the lamp stand and its tools, the altar of incense,
 [28] the altar of burnt offering with all its tools, and the basin with its base.
@@ -117,7 +116,7 @@ Whatever touches them will be holy.
 [30] Anoint Aaron and his sons too, and make them holy,
 so that they can serve me as priests.
 
-[31] Speak to the people of Israel.
+[31] “Speak to the people of Israel.
 Say, ‘This shall be a holy anointing oil for me, through all your generations.
 [32] It shall not be poured on the body of an ordinary person.
 And do not make any oil like it with the same mixture.

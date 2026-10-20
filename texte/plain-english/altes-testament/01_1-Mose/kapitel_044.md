@@ -131,7 +131,7 @@ For we cannot see the man’s face unless our youngest brother is with us.’
 And I said, “He must have been torn to pieces.”
 I have not seen him since.
 [29] If you take this one from me too, and something bad happens to him,
-you will bring my gray hairs down to Sheol in sorrow.’
+you will bring my gray hairs down to Sheol (the world of the dead) in sorrow.’
 
 [30] So now, when I come to your servant, my father,
 and the boy is not with us –

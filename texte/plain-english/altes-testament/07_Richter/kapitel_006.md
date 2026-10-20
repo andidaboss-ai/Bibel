@@ -84,7 +84,7 @@ And you will strike the Midianites as if they were one man.”
 
 [17] He said to him,
 “If I have found favor in your eyes,
-then give me a sign that it is really you who is talking with me.
+then give me a sign that it is really you who are talking with me.
 [18] Please don’t go away from here until I come to you
 and bring out my gift and set it in front of you.”
 He said, “I will wait until you come back.”
@@ -150,6 +150,7 @@ because someone has torn down his altar!”
 because people said, “Let Baal fight against him, because he has torn down his altar.”
 
 > **What does this mean?**
+> An Asherah pole was a wooden pole that stood for the goddess Asherah.
 > Before Gideon fights against the Midianites, he has to clean up at home. His own father had an altar for Baal. The worship of idols was right in the middle of Israel, even in Gideon’s family.
 > Gideon obeys, but at night, because he is afraid. God accepts him anyway. You do not have to be fearless to obey God.
 > The men of the city want to kill Gideon because he has insulted Baal. This shows how far Israel had moved away from God. But Gideon’s father defends him with a wise sentence: If Baal is a god, let him defend himself. A god who has to be protected is not a god.

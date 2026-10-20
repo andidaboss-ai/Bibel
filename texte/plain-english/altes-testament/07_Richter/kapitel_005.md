@@ -45,8 +45,8 @@ Praise the LORD!
 you who sit on rich carpets,
 and you who walk along the road!
 [11] Far from the noise of the archers, at the places where water is drawn,
-there they will tell of the righteous acts of the LORD,
-the righteous acts of his rule in Israel.
+there they will tell of the right and good deeds of the LORD,
+the right and good deeds of his rule in Israel.
 Then the people of the LORD went down to the gates.
 
 > **What does this mean?**
@@ -61,7 +61,7 @@ Then the people of the LORD went down to the gates.
 [12] ‘Wake up, wake up, Deborah!
 Wake up, wake up, sing a song!
 Get up, Barak, and lead away your captives, you son of Abinoam!’
-[13] Then a remnant of the nobles and the people came down.
+[13] Then the rest of the nobles and the people came down.
 The LORD came down for me against the mighty.
 [14] Those whose root is in Amalek came out of Ephraim,
 after you, Benjamin, among your peoples.

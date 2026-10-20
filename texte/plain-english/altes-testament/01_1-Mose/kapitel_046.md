@@ -154,7 +154,7 @@ They have brought their flocks, their herds and everything they have.’
 [33] When Pharaoh calls you and asks,
 ‘What is your work?’
 [34] then you are to say,
-‘Your servants have kept livestock from our youth until now, both we and our fathers.’
+‘Your servants have kept livestock from our youth until now, both we and our ancestors.’
 Then you will be allowed to live in the land of Goshen.
 For the Egyptians find all shepherds disgusting.”
 

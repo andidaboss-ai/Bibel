@@ -77,12 +77,12 @@ He crossed his hands on purpose,
 for Manasseh was the firstborn.
 
 [15] He blessed Joseph and said,
-“The God whom my fathers Abraham and Isaac followed,
+“The God whom my ancestors Abraham and Isaac followed,
 the God who has fed me all my life long to this day,
 [16] the angel who has rescued me from all harm –
 may he bless the boys.
 May my name live on in them,
-and the name of my fathers Abraham and Isaac.
+and the name of my ancestors Abraham and Isaac.
 May they grow into a great crowd on the earth.”
 
 [17] Joseph saw that his father laid his right hand on Ephraim’s head.
@@ -120,7 +120,7 @@ So he put Ephraim ahead of Manasseh.
 [21] Then Israel said to Joseph,
 “Look, I am dying.
 But God will be with you.
-He will bring you back to the land of your fathers.
+He will bring you back to the land of your ancestors.
 [22] And I give you one portion of land more than your brothers.
 I took it from the Amorite with my sword and with my bow.”
 

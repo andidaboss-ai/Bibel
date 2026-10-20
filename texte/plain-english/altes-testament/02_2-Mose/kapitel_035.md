@@ -44,7 +44,7 @@ spices for the anointing oil and for the sweet incense,
 
 [10] “‘Let every man among you who has a wise heart come
 and make everything that the LORD has commanded:
-[11] the tabernacle, its tent and its covering,
+[11] the tabernacle, its outer covering, its roof,
 its clasps, its boards, its bars, its pillars and its sockets,
 [12] the ark and its poles, the mercy seat, and the veil that hides it,
 [13] the table with its poles and all its things, and the bread of the presence,
@@ -76,7 +76,7 @@ They brought the LORD’s offering
 for the work on the Tent of Meeting, for all its service and for the holy clothes.
 [22] They came, men and women, all who had a willing heart.
 They brought brooches, earrings, signet rings and armbands, all kinds of gold jewelry.
-Every man brought the LORD an offering of gold.
+Everyone who gave the LORD an offering of gold brought it.
 
 [23] Everyone who had blue, purple or scarlet cloth,
 fine linen, goats’ hair, rams’ skins dyed red or sea cow hides brought them.

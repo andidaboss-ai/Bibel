@@ -12,16 +12,16 @@ They shall not dishonor my holy name.
 I am the LORD.
 [3] Tell them,
 ‘One of all your descendants, in all your generations,
-may come near the holy gifts that the people of Israel set apart for the LORD
+might come near the holy gifts that the people of Israel set apart for the LORD
 while he is unclean.
 Then that person shall be cut off from my presence.
 I am the LORD.
 
-[4] “‘One of the descendants of Aaron may have leprosy or a discharge from his body.
+[4] “‘One of the descendants of Aaron might have leprosy or a discharge from his body.
 He shall not eat from the holy gifts until he is clean.
-Someone may touch anything that has become unclean through a dead person,
-or a man may have an emission of semen,
-[5] or someone may touch a small creeping animal that makes him unclean,
+Someone might touch anything that has become unclean through a dead person,
+or a man might have an emission of semen,
+[5] or someone might touch a small creeping animal that makes him unclean,
 or a person who makes him unclean, whatever kind of uncleanness it is.
 [6] Whoever touches anything like this is unclean until the evening.
 He shall not eat from the holy gifts unless he has bathed his body in water.
@@ -47,9 +47,9 @@ A foreigner who lives with a priest, or a hired worker, shall not eat from the h
 [11] But if a priest buys a slave with his money, the slave may eat from them.
 And those who are born in his house may eat from his food.
 [12] If a priest’s daughter marries a man who is not a priest,
-she shall not eat from the special offering of the holy gifts.
-[13] But a priest’s daughter may become a widow or be divorced and have no child.
-She may return to her father’s house, as when she was young.
+she shall not eat from the heave offering of the holy gifts.
+[13] But a priest’s daughter might become a widow or be divorced and have no child.
+She might return to her father’s house, as when she was young.
 Then she may eat from her father’s food.
 But no outsider shall eat any of it.
 
@@ -71,7 +71,7 @@ For I am the LORD, who makes them holy.’”
 
 [17] The LORD spoke to Moses. He said,
 [18] “Speak to Aaron, to his sons, and to all the people of Israel, and tell them,
-‘Someone from the house of Israel, or one of the foreigners in Israel, may bring his offering.
+‘Someone from the house of Israel, or one of the foreigners in Israel, might bring his offering.
 It may be because he made a promise to God, or it may be a free-will gift.
 He brings it to the LORD as a burnt offering.
 [19] So that you are accepted, you shall bring a male animal without defect,
@@ -79,7 +79,7 @@ from the bulls, the sheep, or the goats.
 [20] But you shall not offer anything that has a defect.
 For it will not be accepted for you.
 
-[21] “‘Someone may bring a peace offering to the LORD to keep a promise,
+[21] “‘Someone might bring a peace offering to the LORD to keep a promise,
 or as a free-will gift from the cattle or from the sheep and goats.
 Then it must be perfect to be accepted.
 It shall have no defect.
@@ -98,7 +98,7 @@ They will not be accepted for you.’”
 
 > **What does this mean?**
 > You are to give God the best, not what you no longer need yourself. Offering a sick or injured animal would be like a gift from the trash.
-> Later the prophet Malachi complained that people offered blind and sick animals. He asked: Try offering it to your governor! Would he be pleased with you? (Malachi 1:8).
+> Later the prophet Malachi complained that people offered blind and sick animals. He asked: “Try giving it to your governor! Will he be pleased with you?” (Malachi 1:8).
 > Foreigners may also bring offerings. God’s altar is open to everyone.
 
 ---

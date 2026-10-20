@@ -11,7 +11,6 @@
 into the land that the LORD your God gives you,
 you shall set up large stones for yourself
 and cover them with plaster.
-Plaster is a white paste that becomes hard.
 [3] When you have crossed over,
 you shall write on them all the words of this law.
 Then you will go into the land that the LORD your God gives you,
@@ -32,7 +31,7 @@ And you shall be glad before the LORD your God.
 very clearly.”
 
 > **What does this mean?**
-> Right after entering the land, the law is to be written down in public, on large stones, where everyone can see it. The white layer of plaster made the writing easy to read.
+> Right after entering the land, the law is to be written down in public, on large stones, where everyone can see it. Plaster is a white paste that becomes hard. The white layer of plaster made the writing easy to read.
 > “Very clearly”: God’s word should be understandable for everyone. That is also the goal of this Bible in plain language.
 > Joshua did this later (Joshua 8:30–35).
 > The altar is to be made of uncut stones, just as God created them (see Exodus 20:25).
@@ -100,7 +99,7 @@ And all the people shall say, ‘Amen.’
 And all the people shall say, ‘Amen.’”
 
 > **What does this mean?**
-> “He dishonors his father’s bed”: That is what the WEB, our English source text, says. The Hebrew has the same picture as in 22:30: “uncover the edge of his father’s robe.”
+> “He dishonors his father’s bed”: That is what the WEB, our English source text, says. The Hebrew has the same picture as in Chapter 22:30: “uncover the edge of his father’s robe.”
 > “Amen” means “That is so” or “Let it be so.” All the people agree. With it, everyone says: I know what is right, and I want to keep to it.
 > Something stands out: Almost all these sins happen in secret: setting up an idol “in secret,” killing “in secret,” leading a blind person the wrong way, who cannot see it. A human court would often never find out about them. But God sees it.
 > Again it is about protecting the weak: the blind, foreigners, orphans, and widows.

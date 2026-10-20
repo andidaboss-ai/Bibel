@@ -86,7 +86,7 @@ For I am the LORD your God.’”
 
 > **What does this mean?**
 > The punishment for cursing God is very harsh. Back then, the name of God was seen as the holiest thing of all. Whoever cursed it attacked the whole people and its covenant with God.
-> Out of deep respect, Jews still do not say the name YHWH aloud today. Instead they say “Adonai” (the Lord) or “HaShem” (the Name). That is why many English Bibles often have “the LORD” in capital letters.
+> Out of deep respect, Jews still do not say the name YHWH aloud today. Instead they say “Adonai” (the Lord) or “HaShem” (the Name). That is why many Bibles, this one too, have “the LORD” in capital letters.
 > “An eye for an eye, a tooth for a tooth” sounds cruel. But back then it was a step forward: The punishment must not be greater than the harm. It was about limiting revenge. In Judaism, it was understood very early as payment in money for the harm: Whoever injures an eye pays as much as an eye is worth.
 > Jesus went even further. He said: “You have heard that it was said: ‘An eye for an eye, and a tooth for a tooth.’ But I tell you: Do not resist the person who does evil to you” and “Love your enemies” (Matthew 5:38–44).
 > Verse 22 is very important: The same law applies to foreigners and to those born in the land. No one is to be treated unfairly in court because he is a foreigner.

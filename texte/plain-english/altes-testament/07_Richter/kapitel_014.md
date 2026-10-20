@@ -33,7 +33,7 @@ At that time the Philistines ruled over Israel.
 
 [5] Then Samson went down to Timnah with his father and his mother.
 They came to the vineyards of Timnah.
-Suddenly a young lion came roaring toward him.
+Suddenly a young lion roared at him.
 [6] Then the Spirit of the LORD came on him with power.
 He tore the lion apart with his bare hands,
 as you would tear apart a young goat.
@@ -78,7 +78,7 @@ For three days they could not solve the riddle.
 > **What does this mean?**
 > At that time, a wedding was celebrated for seven days. In Hebrew, the word for “feast” actually means “drinking party.” The text does not say whether Samson, as a Nazirite, drank wine there.
 > The thirty companions are Philistines. They are supposed to keep Samson company, but maybe also to watch him.
-> A “change of clothing” (this is what the WEB says) was a set of fine festive clothes. Clothing was very expensive at that time. So the bet was about a lot.
+> A “change of clothing” (the words in the WEB, our English source text) was a set of fine festive clothes. Clothing was very expensive at that time. So the bet was about a lot.
 > The riddle is actually unfair. No one could know the answer, because no one had seen what happened with the lion.
 
 ---

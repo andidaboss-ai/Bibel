@@ -38,7 +38,7 @@ The armed men must go ahead of the ark of the LORD.”
 the seven priests carrying the seven trumpets of rams’ horns in front of the LORD went forward and blew the trumpets.
 And the ark of the covenant of the LORD followed them.
 [9] The armed men went ahead of the priests who blew the trumpets,
-and the rear guard went after the ark.
+and the ark went after them.
 The trumpets sounded as they went.
 [10] Joshua had commanded the people,
 “Do not shout, and do not let your voice be heard.
@@ -69,7 +69,6 @@ Only on this day did they march around the city seven times.
 [16] The seventh time, when the priests blew the trumpets, Joshua said to the people,
 “Shout, for the LORD has given you the city!
 [17] The city and everything in it must be devoted to the LORD.
-That means: It belongs completely to God and must be destroyed.
 Only Rahab the prostitute will live,
 she and everyone who is with her in the house,
 because she hid the messengers that we sent.
@@ -78,6 +77,7 @@ Otherwise, after you have devoted it, you may take some of the devoted things.
 Then you would make the camp of Israel cursed and bring trouble on it.
 [19] But all the silver and gold, and all the things made of bronze and iron, are holy to the LORD.
 They must go into the LORD’s treasury.”
+Devoted to the LORD means: It belongs completely to God and must be destroyed.
 [20] So the people shouted, and the priests blew the trumpets.
 When the people heard the sound of the trumpet, the people shouted with a great shout.
 Then the wall fell down flat.

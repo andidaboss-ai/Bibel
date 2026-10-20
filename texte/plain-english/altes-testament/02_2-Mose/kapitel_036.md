@@ -62,7 +62,7 @@ So the tabernacle became one whole.
 
 ## The curtains of goats’ hair and the skins (Verses 14–19)
 
-[14] He made curtains of goats’ hair as a covering over the tabernacle, like a tent roof.
+[14] He made curtains of goats’ hair as a covering over the tabernacle.
 He made eleven of these curtains.
 [15] Each curtain was about 45 feet long and about 6 feet wide.
 The eleven curtains were all the same size.

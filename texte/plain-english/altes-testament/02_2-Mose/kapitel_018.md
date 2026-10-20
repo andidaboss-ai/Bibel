@@ -20,7 +20,7 @@ He saved me from Pharaoh’s sword.”
 
 [5] Jethro, Moses’ father-in-law, came to Moses in the wilderness with Moses’ sons and his wife.
 Moses was camped at the mountain of God.
-[6] Jethro sent word to Moses,
+[6] Jethro said to Moses,
 “I, your father-in-law Jethro, have come to you,
 with your wife and her two sons.”
 
@@ -101,7 +101,7 @@ Show them the way they must walk and the work they must do.
 
 [21] “But choose capable men from all the people.
 They must fear God.
-They must be honest men who hate taking bribes.
+They must be honest men who hate dishonest gain.
 Put them over the people as leaders:
 leaders of thousands, leaders of hundreds, leaders of fifties, and leaders of tens.
 [22] Let them judge the people at all times.

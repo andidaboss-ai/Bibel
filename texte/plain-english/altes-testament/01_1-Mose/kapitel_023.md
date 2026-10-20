@@ -79,7 +79,7 @@ Bury your dead.”
 
 [16] Abraham agreed with Ephron.
 He weighed out for Ephron the silver he had named in front of the people of Heth:
-400 shekels of silver, by the weight the traders used.
+400 shekels of silver (about 10 pounds), by the weight the traders used.
 
 > **What does this mean?**
 > This is how people bargained in the Middle East back then: First the seller acts as if he wants to give everything away. Then he mentions a price “by the way.” And it is high.
@@ -90,14 +90,14 @@ He weighed out for Ephron the silver he had named in front of the people of Heth
 
 ## The first piece of the promised land (Verses 17–20)
 
-[17] So the field of Ephron in Machpelah, east of Mamre, became Abraham’s:
+[17] So the field of Ephron in Machpelah, near Mamre, became Abraham’s:
 the field, the cave in it
 and all the trees in the field, all around, as far as its borders.
 [18] It became Abraham’s own in front of the people of Heth,
 in front of all who had come to the gate of his city.
 
 [19] After this, Abraham buried his wife Sarah in the cave of the field of Machpelah,
-east of Mamre – that is Hebron – in the land of Canaan.
+near Mamre – that is Hebron – in the land of Canaan.
 [20] So the field and the cave in it were given over to Abraham by the people of Heth as a burial place of his own.
 
 > **What does this mean?**

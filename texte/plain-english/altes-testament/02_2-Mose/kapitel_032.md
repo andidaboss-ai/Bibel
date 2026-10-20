@@ -51,7 +51,7 @@ Let my anger burn hot against them, so that I can destroy them.
 But I will make you into a great nation.”
 
 [11] But Moses begged the LORD his God. He said,
-“LORD, why should your anger burn hot against your people?
+“LORD, why does your anger burn hot against your people?
 You brought them out of the land of Egypt with great power and with a mighty hand.
 [12] Why should the Egyptians say,
 ‘He brought them out to do them harm.
@@ -133,9 +133,9 @@ For Aaron had let them lose control, so that their enemies could laugh at them.
 And all the sons of Levi gathered around him.
 [27] He said to them,
 “The LORD, the God of Israel, says,
-‘Every man, put his sword on his side.
+‘Every man is to put his sword at his side.
 Go back and forth from gate to gate through the camp.
-And every man, kill his brother, every man his friend, and every man his neighbor.’”
+Every man is to kill his brother, his friend and his neighbor.’”
 [28] The sons of Levi did what Moses said.
 That day about 3,000 men of the people died.
 [29] Moses said,

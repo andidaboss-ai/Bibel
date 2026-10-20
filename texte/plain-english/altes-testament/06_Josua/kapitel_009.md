@@ -19,7 +19,7 @@ the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebu
 
 [3] But the people of Gibeon heard what Joshua had done to Jericho and to Ai.
 [4] So they also used a trick.
-They went and pretended to be messengers from a far country.
+They went and pretended to be messengers.
 They put old sacks on their donkeys,
 and old wineskins that were torn and tied up,
 [5] and old, patched sandals on their feet,

@@ -10,7 +10,7 @@ They said,
 “I will sing to the LORD,
 for he has won a glorious victory.
 He has thrown the horse and its rider into the sea.
-[2] The LORD is my strength and my song.
+[2] Yah is my strength and my song.
 He has become my salvation.
 This is my God, and I will praise him.
 He is my father’s God, and I will honor him.
@@ -124,7 +124,7 @@ They said,
 “What are we supposed to drink?”
 
 [25] Moses cried out to the LORD.
-The LORD showed him a piece of wood.
+The LORD showed him a tree.
 Moses threw it into the water.
 Then the water became sweet.
 There the LORD gave them a rule and a law.

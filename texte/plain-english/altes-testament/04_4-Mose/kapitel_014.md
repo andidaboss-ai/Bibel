@@ -55,7 +55,7 @@ Then the glory of the LORD appeared at the Tent of Meeting to all the people of 
 “How long will these people treat me with contempt?
 How long will they not believe in me,
 in spite of all the signs I have done among them?
-[12] I will strike them with a deadly disease and reject them.
+[12] I will strike them with a deadly disease and take away their inheritance.
 And I will make you into a nation that is greater and stronger than they are.”
 
 [13] Moses said to the LORD,
@@ -95,7 +95,7 @@ just as you have forgiven these people from Egypt until now.”
 which I did in Egypt and in the wilderness.
 And yet they have tested me these ten times
 and have not listened to my voice.
-[23] So they will surely not see the land that I promised their fathers with an oath.
+[23] So they will surely not see the land that I promised their ancestors with an oath.
 None of those who treated me with contempt will see it.
 [24] But my servant Caleb has a different spirit in him,
 and he has followed me completely.
@@ -108,7 +108,7 @@ So tomorrow turn around and go into the wilderness, on the road to the Red Sea.�
 > God forgives. The people are not destroyed. But forgiveness does not mean that there are no consequences. Whoever does not trust God cannot go into a land that can only be won with trust.
 > “Ten times” means: again and again. The number ten stands for completeness.
 > Caleb has “a different spirit.” He sees the same things as the others, but he has trust instead of fear.
-> “Red Sea”: That is what our English source text says. In Hebrew it says “Sea of Reeds.” Here it probably means the Gulf of Aqaba.
+> “Red Sea”: That is what the WEB, our English source text, says. In Hebrew it says “Sea of Reeds.” Here it probably means the Gulf of Aqaba.
 
 ---
 
@@ -184,7 +184,7 @@ And you will be killed by the sword.
 Because you have turned away from following the LORD,
 the LORD will not be with you.”
 [44] But they dared to go up to the top of the mountain anyway.
-But the ark of the LORD’s covenant and Moses did not leave the camp.
+Yet the ark of the LORD’s covenant and Moses did not leave the camp.
 [45] Then the Amalekites and the Canaanites who lived on that mountain came down.
 They attacked them and beat them, all the way to Hormah.
 

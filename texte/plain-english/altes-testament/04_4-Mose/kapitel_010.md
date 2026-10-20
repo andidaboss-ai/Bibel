@@ -34,14 +34,14 @@ I am the LORD your God.”
 > With so many people, you need signals that everyone can hear. The trumpets are like a bell or a siren.
 > There are different signals: a steady sound to gather and a special signal to set out, maybe short, quick notes.
 > The trumpets sound in hard times, in war, and in happy times, at feasts. Both times they say: God, remember us!
-> On the Arch of Titus in Rome you can still see today how the Romans carried away such trumpets as loot after they destroyed the temple in the year 70.
+> On the Arch of Titus in Rome you can still see today how the Romans carried away such trumpets as loot after they destroyed the temple in AD 70.
 
 ---
 
 ## Setting out from Mount Sinai (Verses 11–13)
 
 [11] In the second year, in the second month, on the twentieth day of the month,
-the cloud rose up from over the Tabernacle of the Testimony.
+the cloud rose up from over the Tabernacle of the covenant.
 [12] And the people of Israel set out from the wilderness of Sinai, one stage after another.
 And the cloud stopped in the wilderness of Paran.
 [13] So they set out for the first time, at the command of the LORD through Moses.

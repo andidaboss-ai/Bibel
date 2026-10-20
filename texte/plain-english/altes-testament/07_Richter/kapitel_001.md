@@ -65,7 +65,7 @@ So Caleb gave him his daughter Achsah as his wife.
 She got off her donkey, and Caleb asked her, “What would you like?”
 [15] She said to him,
 “Give me a blessing.
-Since you have given me land in the dry South, give me springs of water too.”
+Since you have given me land in the South, give me springs of water too.”
 So Caleb gave her the upper springs and the lower springs.
 
 > **What does this mean?**

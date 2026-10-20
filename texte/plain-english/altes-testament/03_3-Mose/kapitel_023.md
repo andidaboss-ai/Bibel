@@ -30,7 +30,7 @@ which you shall announce at their fixed times:
 [5] In the first month, on the fourteenth day of the month, in the evening, is the LORD’s Passover.
 [6] On the fifteenth day of the same month is the Feast of Unleavened Bread for the LORD.
 Unleavened bread is bread made without yeast.
-For seven days you shall eat unleavened bread.
+For seven days you shall eat bread without yeast.
 [7] On the first day you shall have a holy gathering.
 You shall do no ordinary work.
 [8] For seven days you shall bring an offering by fire to the LORD.
@@ -54,7 +54,7 @@ Then you shall bring the first bundle of grain from your harvest to the priest.
 The priest shall wave it on the day after the Sabbath.
 [12] On the day you wave the bundle,
 you shall offer a one-year-old male lamb without defect as a burnt offering to the LORD.
-[13] The grain offering with it shall be about 4½ quarts of fine flour mixed with oil.
+[13] The meal offering with it shall be about 4½ quarts of fine flour mixed with oil.
 It is an offering by fire to the LORD, a pleasant smell.
 And the drink offering with it shall be about 1 quart of wine.
 [14] You shall not eat bread, roasted grain, or fresh grain
@@ -74,13 +74,13 @@ This is a rule forever, for all your generations, everywhere you live.
 from the day you brought the bundle as a wave offering:
 There shall be seven full weeks.
 [16] You shall count fifty days, up to the day after the seventh Sabbath.
-Then you shall bring a new grain offering to the LORD.
+Then you shall bring a new meal offering to the LORD.
 [17] From your homes you shall bring two loaves of bread as a wave offering.
 They shall be made from about 4½ quarts of fine flour.
 They shall be baked with yeast, as first fruits for the LORD.
 [18] With the bread you shall offer seven one-year-old lambs without defect,
 one young bull, and two rams.
-They shall be a burnt offering to the LORD, with their grain offering and their drink offerings.
+They shall be a burnt offering to the LORD, with their meal offering and their drink offerings.
 It is an offering by fire, a pleasant smell for the LORD.
 [19] You shall offer one male goat as a sin offering,
 and two one-year-old male lambs as a peace offering.
@@ -157,7 +157,7 @@ It is a solemn gathering. You shall do no ordinary work.
 
 [37] “‘These are the fixed feasts of the LORD, which you shall announce as holy gatherings,
 to bring offerings by fire to the LORD:
-burnt offerings, grain offerings, sacrifices, and drink offerings, each on its own day.
+burnt offerings, meal offerings, sacrifices, and drink offerings, each on its own day.
 [38] These are in addition to the Sabbaths of the LORD,
 and in addition to your gifts, to all your promises,
 and to all your free-will gifts that you give to the LORD.

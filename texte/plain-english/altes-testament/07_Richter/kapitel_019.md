@@ -20,7 +20,7 @@ When the young woman’s father saw him, he was glad to meet him.
 > **What does this mean?**
 > Now the darkest story in the whole book of Judges begins. It tells of terrible violence against a woman and of a civil war in Israel. It is hard to read. The Bible does not tell it so that people will copy it, but so that people see how deeply human beings can fall when they forget God.
 > A “concubine” was a woman who was married to a man but had fewer rights than a main wife.
-> Verse 2: This is what the WEB and the Hebrew text say. But the old Greek translation says instead: She became angry with him. Many Bible teachers think this fits better: A woman who had broken her marriage would hardly have gone to her father. She probably left her husband after a quarrel.
+> Verse 2: This is what the WEB, our English source text, and the Hebrew text say. But the old Greek translation says instead: She became angry with him. Many Bible teachers think this fits better: A woman who had broken her marriage would hardly have gone to her father. She probably left her husband after a quarrel.
 > The man wants to “speak kindly to her,” literally “speak to her heart.” At first, this sounds good.
 
 ---
@@ -36,7 +36,7 @@ The young woman’s father said to his son-in-law,
 After that you can go.”
 [6] So the two of them sat down and ate and drank together.
 Then the young woman’s father said to the man,
-“Please be willing to stay overnight, and let your heart be happy.”
+“Please be willing to stay overnight. Let your heart be happy.”
 [7] The man got up to leave.
 But his father-in-law urged him, and so he stayed there again that night.
 [8] On the fifth day he got up early in the morning to leave.
@@ -80,7 +80,7 @@ He went in and sat down in the town square.
 For no one took them into his house for the night.
 
 [16] Then an old man came in the evening from his work in the field.
-The man was from the hill country of Ephraim and lived in Gibeah as a foreigner.
+The man was from the hill country of Ephraim and he lived in Gibeah.
 But the men of the place were Benjamites.
 [17] He looked up and saw the traveler in the town square.
 The old man said, “Where are you going? Where do you come from?”

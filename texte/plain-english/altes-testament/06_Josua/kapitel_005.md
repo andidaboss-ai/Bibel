@@ -32,7 +32,7 @@ had not been circumcised.
 until the whole nation, the men of war who came out of Egypt, had died,
 because they did not listen to the voice of the LORD.
 The LORD swore to them that he would not let them see the land
-that the LORD swore to their fathers to give us,
+that the LORD swore to their ancestors to give us,
 a land flowing with milk and honey.
 [7] Joshua circumcised their sons, whom the LORD raised up in their place.
 For they were not circumcised, because no one had circumcised them on the way.

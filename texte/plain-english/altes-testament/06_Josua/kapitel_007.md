@@ -100,12 +100,12 @@ Tell me now what you have done. Don’t hide it from me!”
 “It is true. I have sinned against the LORD, the God of Israel.
 This is what I did:
 [21] Among the things we took, I saw a beautiful robe from Babylon,
-200 shekels of silver, about 5 pounds, and a bar of gold that weighed 50 shekels, about 1¼ pounds.
+200 shekels of silver (about 5 pounds), and a bar of gold that weighed 50 shekels (about 1¼ pounds).
 I wanted them so much that I took them.
 Look, they are hidden in the ground in the middle of my tent, with the silver underneath.”
 
 > **What does this mean?**
-> The Bible says 200 shekels of silver and 50 shekels of gold. A shekel weighed a little less than half an ounce.
+> The Bible says 200 shekels of silver and 50 shekels of gold. One shekel is about 0.4 ounces.
 > Step by step the truth comes to light: from the tribe to the clan to the single man. Achan could have stepped forward the whole time. He did not.
 > Joshua speaks to him kindly: “My son.” He asks him to tell the truth.
 > Achan’s confession shows how sin often happens: He saw something. He wanted it. He took it. He hid it. It was the same with Eve in the Garden of Eden (Genesis 3:6). The tenth commandment forbids wanting to have something that belongs to someone else (Exodus 20:17). Such greed stands at the beginning of many sins.

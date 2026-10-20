@@ -37,7 +37,7 @@ And you shall take another young bull as a sin offering.
 And you shall gather the whole community of the people of Israel.
 [10] You shall bring the Levites before the LORD.
 The people of Israel shall lay their hands on the Levites.
-[11] And Aaron shall offer the Levites before the LORD as a wave offering from the people of Israel.
+[11] And Aaron shall offer the Levites before the LORD as a wave offering on behalf of the people of Israel.
 So they shall do the work of the LORD.
 
 [12] “The Levites shall lay their hands on the heads of the bulls.
@@ -50,7 +50,7 @@ And the Levites shall be mine.
 
 > **What does this mean?**
 > The Levites are not anointed like the priests. They are made clean: with water, by shaving and by washing. That is a sign of a new beginning.
-> Verse 10 is special: The whole people lays their hands on the Levites. The Levites stand before God in the place of the whole people. They serve in the place of the firstborn of all the families.
+> Verse 10 is special: All the people lay their hands on the Levites. The Levites stand before God in the place of the whole people. They serve in the place of the firstborn of all the families.
 > The Levites are “offered as a wave offering.” With animals and bread, the gift was waved back and forth in front of the altar. With the Levites, it is probably a solemn gesture by which they are handed over to God. They are like a living gift of the people to God.
 > Later Paul writes: Give your bodies to God as a living sacrifice, holy and acceptable to God (Romans 12:1). Acceptable means: God is pleased with it.
 

@@ -26,7 +26,7 @@ Do you want to kill us, our children, and our livestock with thirst?”
 They are almost ready to throw stones at me!”
 [5] The LORD said to Moses,
 “Walk on ahead of the people.
-Take some of the elders of Israel with you.
+Take the elders of Israel with you.
 Also take in your hand the staff that you struck the Nile with, and go.
 [6] Look, I will stand before you there on the rock at Horeb.
 Strike the rock.

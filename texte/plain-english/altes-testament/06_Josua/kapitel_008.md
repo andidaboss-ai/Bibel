@@ -70,9 +70,9 @@ They chased Joshua and were drawn away from the city.
 They left the city open and chased Israel.
 [18] The LORD said to Joshua,
 “Stretch out the javelin in your hand toward Ai.
-A javelin is a short spear.
 For I will give it into your hand.”
 So Joshua stretched out the javelin in his hand toward the city.
+A javelin is a short spear.
 [19] As soon as he stretched out his hand, the men in the ambush quickly rose up from their place.
 They ran, entered the city, and took it.
 They quickly set the city on fire.

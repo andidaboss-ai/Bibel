@@ -15,7 +15,7 @@ He presented them to Pharaoh.
 [3] Pharaoh asked his brothers,
 “What is your work?”
 They said to Pharaoh,
-“Your servants are shepherds, both we and our fathers.”
+“Your servants are shepherds, both we and our ancestors.”
 [4] They also said to Pharaoh,
 “We have come to live as foreigners in the land.
 For there is no pasture for your servants’ flocks.
@@ -45,14 +45,14 @@ And Jacob blessed Pharaoh.
 [9] Jacob said to Pharaoh,
 “The years of my journey through life are 130 years.
 The years of my life have been few and hard.
-They have not reached the years of my fathers’ lives during their journeys.”
+They have not reached the years of my ancestors’ lives during their journeys.”
 [10] Jacob blessed Pharaoh and went out from his presence.
 
 [11] Joseph gave his father and his brothers a place to live.
 He gave them land of their own in Egypt, in the best part of the land, in the land of Rameses.
 That is what Pharaoh had ordered.
 [12] Joseph supplied his father, his brothers and his father’s whole household with bread,
-as much as each family needed, according to the number of their children.
+as much as each family needed, according to its size.
 
 > **What does this mean?**
 > An amazing scene: an old shepherd blesses the most powerful king in the world. Normally the greater person blesses the lesser one. But Jacob carries God’s blessing. And so through Abraham’s family, Egypt is blessed too.
@@ -144,7 +144,7 @@ He said to him,
 “If I have found favor with you, please put your hand under my thigh.
 Show me kindness and faithfulness:
 please do not bury me in Egypt.
-[30] When I lie down to rest with my fathers,
+[30] When I die and join my ancestors,
 carry me out of Egypt
 and bury me in their grave.”
 Joseph said,
@@ -153,7 +153,7 @@ Joseph said,
 [31] Israel said,
 “Swear it to me!”
 And Joseph swore it to him.
-Then Israel bowed down in worship at the head of his bed.
+Then Israel bowed down at the head of his bed.
 
 > **What does this mean?**
 > In Egypt, God’s promise comes true: the family becomes large and numerous.

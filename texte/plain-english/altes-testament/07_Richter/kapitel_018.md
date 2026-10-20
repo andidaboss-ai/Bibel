@@ -102,7 +102,7 @@ and went with the people.
 
 > **What does this mean?**
 > Six hundred warriors set out with their families. This was probably only a part of the tribe of Dan.
-> “Mahaneh Dan” means “camp of Dan.” This place was already mentioned in the story of Samson (Chapter 13:25).
+> “Mahaneh Dan” means “camp of Dan.” This place was already mentioned in the story of Samson (Judges 13:25).
 > The Danites steal the idols. Micah had paid for them with stolen silver, and now they themselves are stolen. No one asks: Does God even want such images?
 > The Levite is not loyal. For a better job, he leaves Micah right away, who had taken him in like a son. He is even “glad.” He cares about honor and advantage, not about God.
 
@@ -148,7 +148,7 @@ and they had nothing to do with anyone else.
 It was in the valley near Beth Rehob.
 The Danites rebuilt the city and lived in it.
 [29] They named the city Dan,
-after the name of their forefather Dan, who was born to Israel.
+after the name of their ancestor Dan, who was born to Israel.
 But the city used to be called Laish.
 
 [30] The people of Dan set up the carved image for themselves.
@@ -163,6 +163,6 @@ It stayed there the whole time that the house of God was in Shiloh.
 > “Israel” in verse 29 is another name for Jacob. Dan was one of his twelve sons.
 > The city of Dan later became the northernmost city of Israel. People spoke of the land from Dan to Beersheba and meant the whole land from north to south. Later King Jeroboam set up a golden calf there (1 Kings 12:29). Dan remained a place of false worship.
 > Now we learn the Levite’s name: Jonathan, a grandson of Moses. It is shocking: Even the grandson of the great Moses serves idols.
-> In the Hebrew text, a small letter “n” is written above the line here. This turns the name “Moses” into “Manasseh.” Jewish Bible teachers have said: This was done to protect the honor of Moses. The WEB has “Moses.”
+> In the Hebrew text, a small letter “n” is written above the line here. This turns the name “Moses” into “Manasseh.” Jewish Bible teachers have said: This was done to protect the honor of Moses. The WEB, our English source text, has “Moses.”
 > “The captivity of the land” probably means the time when the Assyrians conquered the north of Israel and took people away (2 Kings 15:29; 17:6).
 > Shiloh was the place where God’s tent stood, the proper place of worship (Joshua 18:1). So the Danites had their own worship, separate from the house of God.

@@ -56,7 +56,6 @@ For the LORD will not let anyone go unpunished who misuses his name.
 [8] Remember the Sabbath day and keep it holy.
 [9] You are to work for six days and do all your work.
 [10] But the seventh day is a Sabbath for the LORD your God.
-A Sabbath is a day of rest.
 On that day you must not do any work:
 not you, not your son, not your daughter,
 not your male servant, not your female servant, not your livestock,
@@ -66,7 +65,7 @@ And on the seventh day he rested.
 That is why the LORD blessed the Sabbath day and made it holy.
 
 > **What does this mean?**
-> The Sabbath is a gift: a free day every week.
+> A Sabbath is a day of rest. The Sabbath is a gift: a free day every week.
 > What is special: it is for **everyone**. Not only for the head of the house, but also for children, servants, foreigners and even for the animals. No one may be exploited.
 > For people who had just been slaves and had to toil every day, this was revolutionary.
 > For Jews, the Sabbath is Saturday. Most Christians celebrate Sunday as their day of rest, because Jesus rose from the dead on a Sunday.
@@ -85,7 +84,7 @@ Then you will live a long time in the land that the LORD your God is giving you.
 
 ---
 
-## Do not kill (Verse 13)
+## Do not murder (Verse 13)
 
 [13] You must not murder.
 
@@ -99,9 +98,9 @@ Then you will live a long time in the land that the LORD your God is giving you.
 ## Do not break your marriage (Verse 14)
 
 [14] You must not commit adultery.
-That means: you must not have sex with someone else’s husband or wife, or be unfaithful to your own.
 
 > **What does this mean?**
+> To commit adultery means: to have sex with someone else’s husband or wife, or to be unfaithful to your own husband or wife.
 > Marriage is a covenant of faithfulness between husband and wife. Whoever breaks the marriage destroys this trust.
 > This commandment protects marriage, the family and the children.
 

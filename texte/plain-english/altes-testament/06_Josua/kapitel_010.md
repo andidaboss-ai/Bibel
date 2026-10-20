@@ -43,8 +43,8 @@ For all the kings of the Amorites who live in the hill country have gathered tog
 Not one of them will stand against you.”
 [9] Joshua came on them suddenly. He had marched up from Gilgal all night.
 [10] The LORD threw them into confusion in front of Israel.
-Israel struck them in a great battle at Gibeon
-and chased them on the road up to Beth Horon
+He struck them down in a great battle at Gibeon.
+He chased them on the road up to Beth Horon
 and struck them as far as Azekah and Makkedah.
 [11] As they ran away from Israel, while they were on the slope going down from Beth Horon,
 the LORD threw down great stones from the sky on them, as far as Azekah, and they died.
@@ -188,5 +188,5 @@ because the LORD, the God of Israel, fought for Israel.
 
 > **What does this mean?**
 > The “country of Goshen” here is not the Goshen in Egypt. It is an area in the south of the land of Canaan with the same name.
-> “At one time” probably means: in a single campaign. But Chapter 11:18 says that Joshua made war for a long time. The report sums up many things.
+> “At one time” probably means: in a single campaign. But 11:18 says that Joshua made war for a long time. The report sums up many things.
 > For the narrator, the most important sentence is: “The LORD, the God of Israel, fought for Israel.” Not their own strength won, but God. But we know from Chapter 5: God is not simply on one side. People must stand on his side.

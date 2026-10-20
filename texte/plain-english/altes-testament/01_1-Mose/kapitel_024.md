@@ -93,9 +93,9 @@ She drew water for all his camels.
 He wanted to know whether the LORD had made his journey successful or not.
 
 [22] When the camels had finished drinking, the man took a gold ring.
-It weighed half a shekel.
+It weighed half a shekel (about 0.2 ounces).
 And he took two gold bracelets for her arms.
-They weighed ten shekels.
+They weighed ten shekels (about 4 ounces).
 [23] He said,
 “Whose daughter are you? Please tell me.
 Is there room in your father’s house for us to spend the night?”
@@ -115,7 +115,7 @@ As for me, the LORD has led me on the way to the house of my master’s relative
 > God answers even before the servant has finished praying.
 > Rebekah does exactly what the servant said in his prayer – and even more. She runs and draws water until all ten camels have had enough.
 > And she belongs to exactly the family from which Isaac’s wife is to come: She is the granddaughter of Abraham’s brother Nahor (see Chapter 22).
-> A half shekel is about 0.2 ounces. Ten shekels are about 4 ounces.
+> A shekel is a weight of about 0.4 ounces.
 > The servant does not forget to thank God. He praises God for “his loving kindness and his faithfulness” – that means: God means well and keeps what he promises.
 
 ---
@@ -196,7 +196,7 @@ She said,
 Then I put the ring in her nose and the bracelets on her arms.
 [48] I bowed my head and worshiped the LORD.
 I praised the LORD, the God of my master Abraham.
-He has led me on the right way to get the daughter of my master’s relative for his son.
+He has led me on the right way to get my master’s brother’s daughter for his son.
 
 [49] “Now tell me:
 Will you show kindness and faithfulness to my master?

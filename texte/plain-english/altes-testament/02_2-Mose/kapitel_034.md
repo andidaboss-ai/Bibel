@@ -64,12 +64,12 @@ such as have never been done in all the earth or in any nation.
 All the people among whom you live shall see the work of the LORD.
 For what I will do with you is an awesome thing.
 
-[11] Keep what I command you today.
-Look, I will drive out the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites and the Jebusites in front of you.
+[11] “Keep what I command you today.
+Look, I will drive out the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite and the Jebusite in front of you.
 [12] Be careful not to make a covenant with the people who live in the land where you are going.
 Otherwise it will become a trap among you.
 [13] Instead, you shall break down their altars,
-smash their holy stone pillars
+smash their sacred pillars
 and cut down their Asherah poles.
 [14] For you shall worship no other god.
 For the LORD, whose name is ‘Jealous,’ is a jealous God.
@@ -94,8 +94,8 @@ and they will make your sons give themselves to their gods like prostitutes too.
 
 ## The feasts and the gifts (Verses 18–26)
 
-[18] “Keep the feast of unleavened bread.
-For seven days you shall eat unleavened bread, as I commanded you,
+[18] “Keep the Festival of Unleavened Bread.
+For seven days you shall eat bread without yeast, as I commanded you,
 at the set time in the month of Abib.
 For in the month of Abib you came out of Egypt.
 
@@ -109,15 +109,15 @@ No one shall come before me with empty hands.
 [21] “You shall work for six days, but on the seventh day you shall rest.
 Even in the time of plowing and in the time of harvest you shall rest.
 
-[22] “Keep the feast of weeks, with the first fruits of the wheat harvest.
-And keep the feast of harvest at the end of the year.
+[22] “Keep the Festival of Weeks, with the first fruits of the wheat harvest.
+And keep the Festival of Harvest at the end of the year.
 [23] Three times a year all your men shall come before the Lord GOD, the God of Israel.
 [24] For I will drive out nations in front of you and make your land larger.
 No one will want to take your land
 when you go up three times a year to come before the LORD your God.
 
 [25] “Do not offer the blood of my sacrifice together with bread made with yeast.
-And do not leave any of the sacrifice of the feast of the Passover until the morning.
+And do not leave any of the sacrifice of the Passover feast until the morning.
 [26] “Bring the very first of the first fruits of your fields to the house of the LORD your God.
 “Do not boil a young goat in its mother’s milk.”
 

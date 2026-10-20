@@ -9,14 +9,14 @@
 [2] “Also tell the people of Israel,
 ‘Someone from the people of Israel,
 or one of the foreigners who live in Israel,
-may give one of his children to Molech.
+might give one of his children to Molech.
 Then he must be put to death.
 The people of the land shall stone him with stones.
 [3] And I myself will turn against that person
 and cut him off from his people.
 For he has given one of his children to Molech.
 So he has made my holy place unclean and dishonored my holy name.
-[4] But the people of the land may close their eyes to that person
+[4] But the people of the land might close their eyes to that person
 when he gives one of his children to Molech,
 and not put him to death.
 [5] Then I will turn against that man and against his family.
@@ -24,7 +24,7 @@ I will cut him off from his people.
 I will also cut off all who follow him
 and are unfaithful to me with Molech, like a prostitute.
 
-[6] “‘Someone may turn to people who call up the dead, and to fortune-tellers,
+[6] “‘Someone might turn to people who call up the dead, and to fortune-tellers,
 and be unfaithful to me with them, like a prostitute.
 I will turn against that person
 and cut him off from his people.
@@ -54,11 +54,11 @@ I am the LORD, who makes you holy.
 He has cursed his father or his mother.
 His blood shall be on himself.
 
-[10] “‘A man may commit adultery with another man’s wife,
+[10] “‘A man might commit adultery with another man’s wife,
 with the wife of his neighbor.
 Then the man and the woman who committed adultery must be put to death.
 
-[11] “‘A man may sleep with his father’s wife.
+[11] “‘A man might sleep with his father’s wife.
 Then he has dishonored his father.
 Both of them must be put to death.
 Their blood shall be on themselves.
@@ -79,18 +79,18 @@ you shall kill the woman and the animal.
 They must be put to death.
 Their blood shall be on them.
 
-[17] “‘A man may take his sister, his father’s daughter or his mother’s daughter.
+[17] “‘A man might take his sister, his father’s daughter or his mother’s daughter.
 He sees her naked, and she sees him naked.
 That is a shameful thing.
 They shall be cut off in front of the people of their nation.
 He has had sex with his sister.
 He shall carry his guilt.
-[18] “‘A man may sleep with a woman during her monthly period and have sex with her.
+[18] “‘A man might sleep with a woman during her monthly period and have sex with her.
 Then he has uncovered the source of her blood,
 and she has uncovered the source of her blood.
 Both of them shall be cut off from their people.
 [19] “‘You shall not have sex with your mother’s sister or your father’s sister.
-For whoever does that has uncovered his close relative.
+For whoever does that has exposed the body of his close relative.
 They shall carry their guilt.
 [20] “‘If a man sleeps with his uncle’s wife,
 he has dishonored his uncle.

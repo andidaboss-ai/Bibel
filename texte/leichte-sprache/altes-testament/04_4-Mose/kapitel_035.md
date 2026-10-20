@@ -112,7 +112,7 @@ für alle Generationen, überall, wo ihr wohnt.
 > **Was bedeutet das?**
 > Wer einen anderen aus Versehen getötet hat, ist kein Mörder. Aber er ist auch nicht einfach frei. Er muss in der Zufluchtsstadt bleiben. Dort ist er geschützt, aber er kann nicht nach Hause. Das zeigt: Auch ein Unfall ist etwas Ernstes. Ein Leben ist verloren gegangen.
 > Er darf erst nach Hause, wenn der Hohepriester stirbt. Mit dem Tod des Hohenpriesters beginnt eine neue Zeit. Jüdische Ausleger haben gesagt: Der Tod des Hohenpriesters schafft eine Art Versöhnung.
-> Christen sehen darin ein Bild für Jesus. Im Hebräerbrief wird Jesus der große Hohepriester genannt (Hebräer 4,14). Durch seinen Tod werden Menschen frei. Und Gott selbst wird im Hebräerbrief eine Zuflucht genannt (Hebräer 6,18).
+> Christen sehen darin ein Bild für Jesus. Im Hebräerbrief wird Jesus der große Hohepriester genannt (Hebräer 4,14). Durch seinen Tod werden Menschen frei. Und der Hebräerbrief spricht von Menschen, die bei Gott Zuflucht suchen und sich an der Hoffnung festhalten, die er schenkt (Hebräer 6,18).
 
 ---
 

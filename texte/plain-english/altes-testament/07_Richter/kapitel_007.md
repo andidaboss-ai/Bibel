@@ -123,4 +123,4 @@ And they brought the heads of Oreb and Zeeb to Gideon on the other side of the J
 > **What does this mean?**
 > Now many men do join in after all, to chase the fleeing enemies. But the real victory had already been given.
 > “Oreb” means “raven,” and “Zeeb” means “wolf.” Later the places were named after them.
-> Cutting off the heads is cruel. At that time it was proof of victory. Later the prophet Isaiah remembers this day as a great example of God’s rescue (Isaiah 9:3; 10:26).
+> Cutting off the heads is cruel. At that time it was proof of victory. Later the prophet Isaiah remembers this day as a great example of God’s rescue (Isaiah 9:4; 10:26).

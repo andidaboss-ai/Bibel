@@ -60,7 +60,7 @@ that you put the burden of this whole people on me?
 [12] Did I conceive this whole people?
 Did I give birth to them,
 that you tell me: ‘Carry them in your arms, as a nurse carries a baby,
-to the land that you swore to give to their fathers’?
+to the land that you swore to give to their ancestors’?
 [13] Where can I get meat to give to this whole people?
 For they cry to me and say: ‘Give us meat to eat!’
 [14] I cannot carry this whole people alone.

@@ -58,7 +58,6 @@ And Moses told the LORD what the people had said.
 [10] The LORD said to Moses,
 “Go to the people.
 Make them holy today and tomorrow.
-That means: get them ready to meet me.
 They are to wash their clothes.
 [11] They are to be ready on the third day.
 For on the third day the LORD will come down on Mount Sinai in front of all the people.

@@ -111,7 +111,7 @@ The LORD said,
 “Go up. For tomorrow I will give him into your hand.”
 
 > **What does this mean?**
-> The question in verse 18 reminds us of the beginning of the book. There, Israel asked: Who should fight first against the Canaanites? And God said: Judah (Chapter 1:1–2). Now Judah does not fight against foreign enemies, but against its brother tribe. The book ends where it began, but everything is turned upside down.
+> The question in verse 18 reminds us of the beginning of the book. There, Israel asked: Who should fight first against the Canaanites? And God said: Judah (Judges 1:1–2). Now Judah does not fight against foreign enemies, but against its brother tribe. The book ends where it began, but everything is turned upside down.
 > Israel first asks God who should fight first, not whether they should fight at all. They have already made up their minds.
 > Twice Israel loses, even though God says: Go up. This is hard to understand. Many Bible teachers think: In this way God was also making Israel humble. Only the third time do they weep, fast, and offer sacrifices. Only now do they ask: Or shall I stop? And only now does God promise victory.
 > At that time, the ark of the covenant was in Bethel. Phinehas, Aaron’s grandson, was priest. He was already alive in the time of Moses (Numbers 25). This shows: This story takes place at the beginning of the time of the judges, not at the end, even though it is told last in the book.

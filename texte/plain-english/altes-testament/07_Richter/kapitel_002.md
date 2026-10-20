@@ -15,7 +15,7 @@ But you have not listened to my voice.
 Why have you done this?
 [3] So I have also said,
 ‘I will not drive them out in front of you.
-They will be like thorns in your sides,
+They will be like a pain in your sides,
 and their gods will be a trap for you.’”
 [4] When the angel of the LORD said these words to all the people of Israel,
 the people cried out loud and wept.

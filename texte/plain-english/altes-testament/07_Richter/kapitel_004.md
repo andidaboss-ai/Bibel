@@ -41,7 +41,7 @@ But the honor on this journey you are taking will not be yours.
 For the LORD will sell Sisera into the hand of a woman.”
 Then Deborah got up and went with Barak to Kedesh.
 [10] Barak called Zebulun and Naphtali together to Kedesh.
-Ten thousand men followed him.
+And 10,000 men followed him.
 And Deborah went up with him.
 
 > **What does this mean?**
@@ -74,7 +74,7 @@ Hasn’t the LORD gone out ahead of you?”
 So Barak went down from Mount Tabor, with 10,000 men behind him.
 [15] And the LORD threw Sisera, all his chariots, and all his army into confusion
 in front of Barak with the edge of the sword.
-Sisera got down from his chariot and ran away on foot.
+Sisera left his chariot and ran away on foot.
 [16] Barak chased the chariots and the army as far as Harosheth of the Gentiles.
 And the whole army of Sisera fell by the edge of the sword.
 Not one man was left.

@@ -7,7 +7,7 @@
 
 [1] The LORD spoke to Moses. He said,
 [2] “Send out men to explore the land of Canaan, which I am giving to the people of Israel.
-From each tribe of their fathers you shall send one man. Each one shall be a leader among them.”
+From each tribe of their ancestors you shall send one man. Each one shall be a leader among them.”
 [3] Moses sent them out from the wilderness of Paran, as the LORD had commanded.
 All of them were men who were heads among the people of Israel.
 [4] These were their names:

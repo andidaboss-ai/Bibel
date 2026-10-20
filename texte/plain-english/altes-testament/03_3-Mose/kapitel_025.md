@@ -6,8 +6,8 @@
 ## The land shall rest (Verses 1–7)
 
 [1] The LORD spoke to Moses on Mount Sinai.
-He said:
-[2] “Speak to the people of Israel and tell them:
+He said,
+[2] “Speak to the people of Israel and tell them,
 ‘You will come into the land that I give you.
 Then the land shall keep a Sabbath for the LORD.
 [3] For six years you shall sow seed in your field.
@@ -39,7 +39,7 @@ The time of seven Sabbath years shall be 49 years for you.
 [9] Then you shall have the loud trumpet sounded on the tenth day of the seventh month.
 On the Day of Atonement you shall sound the trumpet throughout all your land.
 [10] You shall make the fiftieth year holy.
-Holy means: it belongs to God in a special way.
+Holy means: It belongs to God in a special way.
 And you shall proclaim liberty throughout the land to all its inhabitants.
 That means: You shall announce freedom for all the people who live in the land.
 It shall be a jubilee for you.
@@ -59,7 +59,7 @@ You shall eat what the field gives by itself.
 > So a few rich people could not keep getting richer and buy up all the land while others stayed poor forever. Every 50 years, the inequality was balanced out again.
 > The Year of Jubilee begins on the Day of Atonement. First the guilt before God is forgiven. Then the debts between people are also canceled.
 > The words “proclaim liberty throughout the land to all its inhabitants” are written on the famous Liberty Bell in America.
-> Jesus spoke about this year. He said that God had sent him to announce freedom to the prisoners … and to announce a year of the Lord’s favor (Luke 4:18–19).
+> Jesus spoke about this year. He said that God had sent him “to tell the prisoners that they will be free … to announce the year when the Lord shows his favor” (Luke 4:18–19).
 > In the Catholic Church there is still a “Holy Year” or “Jubilee Year” today. In the year 2000 there was a worldwide movement called “Jubilee 2000.” It asked that poor countries have their debts canceled.
 
 ---
@@ -85,8 +85,8 @@ For I am the LORD your God.
 
 ## God provides for the Sabbath year (Verses 18–22)
 
-[18] “‘So you shall do my statutes.
-You shall keep my rules and do them.
+[18] “‘So you shall follow my rules.
+You shall keep my laws and do them.
 Then you will live in the land in safety.
 [19] The land will give its fruit.
 You will eat until you are full and live in it in safety.
@@ -102,7 +102,7 @@ Until its new harvest comes in, you will eat from the old harvest.
 > **What does this mean?**
 > The question is understandable: What shall we live on if we harvest nothing for a whole year? God answers: Trust me. In the sixth year I will give you so much that it is enough for three years.
 > This is like the manna in the desert. On the sixth day there was twice as much, so that nobody had to gather it on the Sabbath (Exodus 16:22–30).
-> The Sabbath year is a practice in trust. Jesus says: Do not worry and say, ‘What will we eat?’ … Your Father in heaven knows that you need all these things (Matthew 6:31–32).
+> The Sabbath year is a practice in trust. Jesus says: “So don’t worry, saying, ‘What will we eat?’ … Your heavenly Father knows that you need all these things” (Matthew 6:31–32).
 
 ---
 
@@ -113,7 +113,7 @@ For the land is mine.
 You are only strangers and foreigners living with me.
 [24] In all the land that you own, you shall allow the land to be bought back.
 
-[25] “‘Your brother may become poor and sell some of his property.
+[25] “‘Your brother might become poor and sell some of his property.
 Then his closest relative shall come and buy back what his brother has sold.
 [26] But maybe a man has nobody to buy it back.
 And then he himself has money again and has enough to buy it back.
@@ -163,7 +163,7 @@ For it is their property forever.
 
 ## Do not take interest from the poor (Verses 35–38)
 
-[35] “‘Your brother may become poor and no longer be able to support himself among you.
+[35] “‘Your brother might become poor and no longer be able to support himself among you.
 Then you shall help him.
 He shall live with you like a foreigner and a guest.
 [36] Take no interest from him and no profit.
@@ -184,12 +184,12 @@ to give you the land of Canaan and to be your God.
 
 ## An Israelite shall not serve as a slave (Verses 39–43)
 
-[39] “‘Your brother may become poor among you and sell himself to you.
+[39] “‘Your brother might become poor among you and sell himself to you.
 Then you shall not make him work like a slave.
 [40] He shall be with you like a hired worker and like a guest.
 He shall work for you until the Year of Jubilee.
 [41] Then he shall leave you, he and his children with him.
-He shall go back to his own family and to the property of his fathers.
+He shall go back to his own family and to the property of his ancestors.
 [42] For they are my servants.
 I brought them out of the land of Egypt.
 They shall not be sold as slaves.
@@ -217,15 +217,15 @@ But over your brothers, the people of Israel, you shall not rule harshly, one ov
 > These verses are very hard for us to read today. They allow people to buy people from other nations as slaves and to pass them on to their children.
 > We have to say it honestly: Back then there was slavery in all the countries of the world. Here the Bible describes that world. It did not end slavery. But it made rules to limit it. In other places it also protects foreign slaves: Whoever injures his slave must set him free (Exodus 21:26–27). And a slave who runs away may not be sent back (Deuteronomy 23:15–16).
 > Sadly, people in the 18th and 19th centuries used these verses to defend the slavery of Africans in America. That was a terrible misuse of the Bible.
-> Other Christians fought against slavery precisely because of the Bible. For the Bible also teaches: Every person is created in God’s image (Genesis 1:27). And the New Testament says: There is no longer slave or free … for you are all one in Christ Jesus (Galatians 3:28).
+> Other Christians fought against slavery precisely because of the Bible. For the Bible also teaches: Every person is created in God’s image (Genesis 1:27). And the New Testament says: “There is neither slave nor free … For you are all one in Christ Jesus” (Galatians 3:28).
 > Today Jews and Christians agree: Slavery is wrong.
 
 ---
 
 ## When an Israelite sells himself to a foreigner (Verses 47–55)
 
-[47] “‘A foreigner or a guest living with you may become rich.
-And your brother beside him may become poor.
+[47] “‘A foreigner or a guest living with you might become rich.
+And your brother beside him might become poor.
 He sells himself to the foreigner or guest living among you,
 or to a member of the foreigner’s family.
 [48] After he is sold, he may be bought back.

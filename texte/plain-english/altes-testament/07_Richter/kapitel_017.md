@@ -41,7 +41,7 @@ Everyone did what was right in his own eyes.
 ## A Levite becomes Micah’s priest (Verses 7–13)
 
 [7] There was a young man from Bethlehem in Judah, from the family of Judah.
-He was a Levite and lived there as a foreigner.
+He was a Levite, and he lived there.
 [8] The man left the city, Bethlehem in Judah,
 to live wherever he could find a place.
 On his journey he came to the hill country of Ephraim, to Micah’s house.
@@ -50,11 +50,11 @@ He said to him,
 “I am a Levite from Bethlehem in Judah.
 I am looking for a place to live.”
 [10] Micah said to him,
-“Stay with me.
+“Live with me.
 Be a father and a priest to me.
 I will give you ten pieces of silver a year, a set of clothes, and your food.”
 So the Levite went in.
-[11] The Levite was willing to stay with the man.
+[11] The Levite was happy to live with the man.
 And the young man was like one of his sons to him.
 [12] Micah dedicated the Levite.
 The young man became his priest and lived in Micah’s house.

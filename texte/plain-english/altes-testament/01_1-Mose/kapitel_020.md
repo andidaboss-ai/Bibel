@@ -91,9 +91,9 @@ And he gave his wife Sarah back to him.
 Live wherever you like.”
 [16] And to Sarah he said,
 “Look, I have given your brother 1,000 pieces of silver.
-Look, it is a covering of the eyes for all who are with you.
+It is a covering of the eyes for all who are with you.”
 That means: Everyone is to look away and forget the matter.
-So in front of everyone, your honor is restored.”
+“So in front of everyone, your honor is restored.”
 
 [17] Abraham prayed to God.
 Then God healed Abimelech, and his wife and his female servants too.

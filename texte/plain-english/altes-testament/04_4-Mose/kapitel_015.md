@@ -22,7 +22,7 @@ with the burnt offering or with the sacrifice, for each lamb.
 about 4½ quarts of fine flour mixed with a little more than 1 quart of oil.
 [7] And as a drink offering you shall bring a little more than 1 quart of wine,
 as a pleasant smell for the LORD.
-[8] You may prepare a young bull as a burnt offering or as a sacrifice,
+[8] When you prepare a young bull as a burnt offering or as a sacrifice,
 to keep a promise, or as a peace offering for the LORD.
 [9] Then with the bull a grain offering shall be brought:
 about 7 quarts of fine flour mixed with about 2 quarts of oil.
@@ -44,8 +44,8 @@ you shall do this for each one of them, according to their number.
 
 [13] “‘Everyone born in Israel shall do these things in this way
 when they bring an offering by fire, a pleasant smell for the LORD.
-[14] A foreigner may live with you,
-or someone else may be among you in your generations.
+[14] Suppose a foreigner lives with you,
+or someone else is among you in your generations.
 If he wants to bring an offering by fire, a pleasant smell for the LORD,
 he shall do it just as you do.
 [15] For the assembly there shall be one rule,
@@ -67,11 +67,11 @@ to you and to the foreigner who lives with you.’”
 [18] “Speak to the people of Israel and tell them,
 ‘You will come into the land where I am bringing you.
 [19] When you eat from the bread of the land,
-you shall give a special offering to the LORD.
-[20] From the first of your dough you shall give a flat loaf as a special offering.
-You shall give it just like the special offering from the threshing floor.
+you shall give a wave offering to the LORD.
+[20] From the first of your dough you shall give a flat loaf as a wave offering.
+You shall lift it up just like the wave offering from the threshing floor.
 A threshing floor is the place where the grain is separated from the stalks.
-[21] From the first of your dough you shall give a special offering to the LORD, for all your generations.
+[21] From the first of your dough you shall give a wave offering to the LORD, for all your generations.
 
 > **What does this mean?**
 > Every time people bake bread, they are to give a piece of the dough to God. That way, even with their daily bread, they think of the one who gives it.
@@ -82,8 +82,8 @@ A threshing floor is the place where the grain is separated from the stalks.
 
 ## When the community sins without meaning to (Verses 22–26)
 
-[22] “‘You may make a mistake
-and not keep all these commandments that the LORD has spoken to Moses,
+[22] “‘Suppose you make a mistake
+and do not keep all these commandments that the LORD has spoken to Moses,
 [23] everything the LORD has commanded you through Moses,
 from the day the LORD gave the commandments and on through all your generations.
 [24] If it happened without meaning to, without the community knowing about it,
@@ -119,7 +119,7 @@ for the one born among the people of Israel and for the foreigner who lives amon
 
 ## Whoever sins with a raised hand (Verses 30–31)
 
-[30] “‘But someone may do something with a raised hand,
+[30] “‘But suppose someone does something with a raised hand,
 whether he was born in Israel or is a foreigner.
 He insults the LORD.
 That person shall be cut off from his people.

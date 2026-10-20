@@ -25,7 +25,7 @@ And you will take their land, as the LORD your God told you.
 
 ## Hold on to the LORD (Verses 6–11)
 
-[6] So be very brave. Keep and do everything that is written in the book of the law of Moses.
+[6] So be very courageous. Keep and do everything that is written in the book of the law of Moses.
 Do not turn away from it to the right or to the left.
 [7] Do not mix with these nations that are still left among you.
 Do not mention the names of their gods, and do not swear by them.

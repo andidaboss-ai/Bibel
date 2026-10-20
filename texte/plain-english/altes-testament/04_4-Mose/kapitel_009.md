@@ -36,21 +36,21 @@ Why may we not bring the offering of the LORD at its appointed time with the peo
 [9] The LORD spoke to Moses.
 He said:
 [10] “Tell the people of Israel:
-‘Someone among you or your descendants may be unclean because he touched a dead body.
-Or he may be on a long journey far away.
+‘Suppose someone among you or your descendants is unclean because he touched a dead body.
+Or suppose he is on a long journey far away.
 He shall still keep the Passover for the LORD.
 [11] They shall keep it in the second month, on the fourteenth day, in the evening.
 They shall eat it with bread made without yeast and with bitter herbs.
 [12] They shall leave none of it until the morning.
 And they shall not break any of its bones.
 They shall keep it by all the statutes of the Passover.
-[13] But a man may be clean and not on a journey
-and still fail to keep the Passover.
+[13] But suppose a man is clean and not on a journey,
+and he still fails to keep the Passover.
 That person shall be cut off from his people.
 Because he did not bring the offering of the LORD at its appointed time,
 that man shall carry his sin.
 
-[14] “‘A foreigner may live among you and want to keep the Passover for the LORD.
+[14] “‘Suppose a foreigner lives among you and wants to keep the Passover for the LORD.
 Then he shall keep it by the statute of the Passover and by its rules.
 You shall have one and the same statute for the foreigner and for the one who was born in the land.’”
 

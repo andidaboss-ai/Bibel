@@ -81,7 +81,7 @@ He woke up from his sleep
 and pulled out the pin of the loom and the cloth.
 
 > **What does this mean?**
-> The WEB says “green cords.” This probably means fresh, damp cords, for example made from animal gut. When they dry, they become hard.
+> The WEB, our English source text, says “green cords.” This probably means fresh, damp cords, for example made from animal gut. When they dry, they become hard.
 > A loom is a frame for weaving cloth.
 > Delilah asks quite openly: What can you be tied up with, so that someone can torment you? Each time, Samson notices that she wants to betray him. Still, he stays with her. He is playing with danger.
 > With each answer he comes closer to his real secret: The third answer is already about his hair.

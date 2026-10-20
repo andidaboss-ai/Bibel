@@ -19,13 +19,13 @@ They said,
 [3] But Lot urged them strongly.
 So they went with him and came into his house.
 He made them a feast.
-He baked unleavened bread, and they ate.
+He baked bread without yeast, and they ate.
 
 > **What does this mean?**
 > Two of the three men from Chapter 18 come to Sodom. Now it is said clearly: They are angels, that is, messengers of God.
 > Back then, the city gate was the most important place in a city. The respected men met there and settled legal cases. Lot sits there – so he has become a respected man in Sodom.
 > Lot is hospitable like Abraham. He urges the strangers not to stay outside. He probably knows how dangerous the night in Sodom is for strangers.
-> “Unleavened bread” is bread made without yeast. It is quick to bake.
+> Bread without yeast does not have to rise. It is quick to bake.
 
 ---
 
@@ -43,8 +43,7 @@ We want to have sex with them.”
 He shut the door behind him.
 [7] He said,
 “Please, my brothers, do not do such an evil thing!
-[8] Listen: I have two daughters who are virgins.
-A virgin is someone who has never slept with a man.
+[8] Listen: I have two daughters who have never slept with a man.
 Let me bring them out to you.
 Do with them whatever you like.
 Only do nothing to these men.
@@ -178,7 +177,7 @@ He lived in a cave with his two daughters.
 
 [31] The older daughter said to the younger one,
 “Our father is old.
-And there is no man left in the land to sleep with us, as is the custom all over the earth.
+And there is no man left on the earth to sleep with us, as is the custom all over the earth.
 [32] Come, let’s give our father wine to drink.
 Then we will sleep with him.
 That way we can keep our father’s family line alive.”

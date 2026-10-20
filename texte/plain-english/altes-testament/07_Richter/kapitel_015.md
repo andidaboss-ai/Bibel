@@ -43,7 +43,7 @@ and burned her and her father with fire.
 > **What does this mean?**
 > The word for “foxes” can also mean jackals. Jackals live in packs and are easier to catch in large numbers.
 > At harvest time the grain was dry. A fire destroyed the food for a whole year. This was a heavy blow for the Philistines.
-> Then something terrible happens: The Philistines burn the woman and her father. This is exactly what they had threatened her with (Chapter 14:15). The woman had given away Samson’s secret so that she would not be burned. Now she is burned anyway. She is the innocent victim of the violence between the men.
+> Then something terrible happens: The Philistines burn the woman and her father. This is exactly what they had threatened her with (Judges 14:15). The woman had given away Samson’s secret so that she would not be burned. Now she is burned anyway. She is the innocent victim of the violence between the men.
 
 ---
 

@@ -30,7 +30,7 @@ As I was with Moses, so I will be with you.
 I will not fail you, and I will not leave you.
 [6] Be strong and courageous!
 For you will lead this people to receive the land as their inheritance,
-the land that I swore to their fathers to give them.
+the land that I swore to their ancestors to give them.
 [7] Only be strong and very courageous!
 Be careful to do everything the law says that Moses my servant commanded you.
 Do not turn from it to the right or to the left,
@@ -38,7 +38,7 @@ so that you may have success wherever you go.
 [8] This book of the law must not leave your mouth.
 You must think about it day and night,
 so that you are careful to do everything that is written in it.
-For then you will make your way go well,
+For then everything you do will go well,
 and then you will have success.
 [9] Haven’t I commanded you? Be strong and courageous!
 Don’t be afraid. Don’t lose heart,

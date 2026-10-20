@@ -79,7 +79,6 @@ After that, you can go on your way.”
 “We will be free from this oath that you made us swear, unless you do this:
 [18] Look, when we come into the land,
 tie this cord of scarlet thread in the window that you let us down through.
-Scarlet means bright red.
 And gather your father, your mother, your brothers, and your father’s whole family into your house.
 [19] If anyone goes out of the door of your house into the street,
 his blood will be on his own head, and we will not be guilty.
@@ -90,6 +89,7 @@ then we will be free from the oath that you made us swear.”
 [21] She said, “Let it be as you have said.”
 She sent them away, and they left.
 Then she tied the scarlet cord in the window.
+Scarlet means bright red.
 
 > **What does this mean?**
 > Rahab’s house was part of the city wall. That is why she could let the men out directly to the outside.
