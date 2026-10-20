@@ -47,7 +47,6 @@ You shall do no work.
 [9] You shall count seven weeks for yourselves.
 Begin to count the seven weeks
 from the day you first put the sickle to the grain in the field.
-A sickle is a curved knife for cutting grain.
 [10] Then you shall keep the Feast of Weeks for the LORD your God.
 Bring a gift from your hand that you give freely.
 Give as much as the LORD your God blesses you.
@@ -62,6 +61,7 @@ to let his name live there.
 Be careful to keep these rules and do them.
 
 > **What does this mean?**
+> Verse 9: A sickle is a curved knife for cutting grain.
 > The Feast of Weeks is the harvest feast for the wheat, seven weeks after the barley harvest begins. In Hebrew it is called “Shavuot.” In Christianity it became Pentecost.
 > The joy should be shared with everyone. Again and again the laws about the feasts name the same groups: children, male and female servants, Levites, foreigners, orphans, and widows. At God’s feast no one should be left alone.
 > “Remember that you were a slave in Egypt”: Whoever knows what it is like to be poor and oppressed should be generous.

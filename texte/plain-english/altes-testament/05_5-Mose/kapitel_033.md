@@ -56,7 +56,6 @@ and they keep your covenant.
 and Israel your teaching.
 They will put incense before you,
 and whole burnt offerings on your altar.
-Incense is something that gives off a sweet smell when it burns.
 [11] LORD, bless his skills.
 Accept the work of his hands.
 Crush the hips of those who rise up against him,
@@ -67,6 +66,7 @@ so that they do not rise again.”
 > Reuben was Jacob’s firstborn, but he had lost his first place through a serious sin (Genesis 49:3–4). Moses asks: Let him live anyway, and do not let his tribe die out.
 > Judah: From this tribe later comes King David. And according to the New Testament, Jesus too.
 > Simeon is not named. This tribe later became part of the tribe of Judah.
+> Verse 10: Incense is something that gives off a sweet smell when it burns.
 > Levi: The “Urim and Thummim” were holy lots of the high priest, used to ask what God wanted (Exodus 28:30).
 > Verse 9 reminds us of the story of the golden calf: The Levites took God’s side, even against their own relatives (Exodus 32:26–29). Being faithful to God mattered more to them than family.
 > The task of the Levites: to teach the people and to lead worship.

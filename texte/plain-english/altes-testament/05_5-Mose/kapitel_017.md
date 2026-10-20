@@ -20,7 +20,6 @@ For the LORD your God hates that.
 in one of your towns that the LORD your God gives you,
 who does what is evil in the eyes of the LORD your God
 and breaks his covenant.
-A covenant is a binding agreement.
 [3] This person has gone and served other gods and worshiped them,
 or the sun, or the moon, or any of the stars of the sky.
 I have not commanded that.
@@ -39,6 +38,7 @@ After that, the hands of all the people shall be against him.
 So you shall remove the evil from among you.
 
 > **What does this mean?**
+> Verse 2: A covenant is a binding agreement.
 > Again it is about turning away from God, and again the death penalty applied back then (see Chapter 13). That is very hard for us. Here too: No one may use this passage to persecute people because of their faith.
 > But the rules of protection are important: The matter must be looked into carefully. One witness alone is not enough. There must be at least two. And the witnesses themselves must act first. So whoever gives false testimony carries a heavy responsibility. This was meant to prevent false accusations.
 > Jesus took up the rule about two or three witnesses (Matthew 18:16). It is still an important principle of law today.

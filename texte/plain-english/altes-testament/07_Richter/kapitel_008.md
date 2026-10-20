@@ -52,7 +52,7 @@ And the men of Penuel answered him just as the men of Succoth had answered.
 [10] Zebah and Zalmunna were in Karkor, and their armies with them,
 about 15,000 men, all who were left of the whole army of the people of the east.
 For 120,000 men who carried swords had fallen.
-[11] Gideon went up by the road of the tent dwellers, east of Nobah and Jogbehah,
+[11] Gideon went up by the road of the people who lived in tents, east of Nobah and Jogbehah,
 and struck the army while it felt safe.
 [12] Zebah and Zalmunna fled, and he chased them.
 He captured the two kings of Midian, Zebah and Zalmunna,
@@ -124,7 +124,7 @@ Each of you, give me the earrings from his plunder.”
 [25] They answered, “We will gladly give them.”
 They spread out a garment,
 and each man threw the earrings from his plunder onto it.
-[26] The weight of the golden earrings that he asked for was about 42 pounds of gold.
+[26] The weight of the golden earrings that he asked for was 1,700 shekels of gold (about 42 pounds).
 Besides this, there were the crescents, the pendants, and the purple clothes that the kings of Midian had worn,
 and also the chains on the necks of their camels.
 [27] Gideon made an ephod out of it and set it up in his city, Ophrah.
@@ -135,7 +135,7 @@ and they did not lift up their heads anymore.
 And the land had rest for forty years in the days of Gideon.
 
 > **What does this mean?**
-> The Bible says: 1,700 shekels of gold. A shekel is a little under half an ounce.
+> A shekel is a little under half an ounce. So 1,700 shekels are about 42 pounds.
 > Here the Midianites are called “Ishmaelites.” Both peoples were nomads from the desert. Sometimes the Bible uses both names for the same people (see Genesis 37:25–28).
 > An “ephod” was a piece of clothing worn by the high priest. It was used to ask for God’s will (Exodus 28). Gideon made himself his own ephod out of gold. Maybe he wanted to honor God. But it became an idol. People worshiped it instead of God.
 > This is Gideon’s tragedy: He said, “The LORD shall rule over you,” but he himself made something that led people away from God. Meaning well is not always the same as doing well.

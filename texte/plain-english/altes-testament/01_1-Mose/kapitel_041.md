@@ -116,7 +116,7 @@ The famine will use up the land.
 [31] No one will notice the plenty in the land anymore, because of the famine that follows.
 For it will be very severe.
 [32] Pharaoh had the dream twice.
-That means: God has firmly decided it.
+This is because God has firmly decided it.
 And God will soon make it happen.”
 A famine is a time when there is not enough food.
 

@@ -24,7 +24,7 @@ Then the one who killed may return
 and come to his own city and his own house, to the city he ran away from.’”
 
 > **What does this mean?**
-> A refuge is a safe place. The avenger of blood is the relative who wants to take revenge for the dead person.
+> Verses 2–3: A refuge is a safe place. The avenger of blood is the relative who wants to take revenge for the dead person.
 > The cities of refuge were announced in Numbers 35 and Deuteronomy 19. Now, in the land, they are really set up. God’s promises are carried out step by step.
 > What is new here: The person running away must explain his case at the city gate. The elders listen to him and take him in. At that time, the gate was the place where court was held.
 > This arrangement protects against people taking the law into their own hands. Revenge should not decide, but a fair trial.

@@ -119,9 +119,9 @@ so that he would keep us alive, as we are today.
 [25] And it will be righteousness for us
 if we are careful to do all these commandments before the LORD our God,
 as he has commanded us.”
-Righteousness means: living in the right way before God.
 
 > **What does this mean?**
+> Verse 25: Righteousness means: living in the right way before God.
 > Children ask questions. That is good! The answer should not be a list of rules, but a story: “We were Pharaoh’s slaves in Egypt,” and God set us free.
 > Whoever wants to understand God’s commandments must first know what God has done. The commandments are the answer to God’s love.
 > This passage has become part of the Jewish Passover celebration. At the Passover meal, the children ask, and the parents tell the story of how they were set free.

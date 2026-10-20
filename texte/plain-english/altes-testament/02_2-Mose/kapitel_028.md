@@ -57,7 +57,7 @@ Fasten the braided chains to the settings.
 
 > **What does this mean?**
 > The ephod is a kind of apron or vest. It is worn over the robe. It is held up by straps over the shoulders.
-> A seal is a stamp with a name on it.
+> Verse 11: A seal is a stamp with a name on it.
 > On his shoulders, Aaron carries the names of the twelve tribes. This is a beautiful picture: The priest carries the whole people on his shoulders before God. He forgets no one.
 
 ---

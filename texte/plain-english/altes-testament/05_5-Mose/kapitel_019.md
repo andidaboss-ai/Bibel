@@ -29,7 +29,6 @@ He might catch him because the road is long,
 and he might kill him,
 even though the man did not deserve to die,
 because he did not hate his neighbor before.
-The avenger of blood is the relative who has the duty to punish the killer.
 [7] That is why I command you:
 Set apart three cities for yourselves.
 [8] The LORD your God may make your land larger,
@@ -45,6 +44,7 @@ in your land that the LORD your God gives you as an inheritance.
 Otherwise you would be guilty of that blood.
 
 > **What does this mean?**
+> Verse 6: The avenger of blood is the relative who has the duty to punish the killer.
 > We know the cities of refuge from Numbers 35. Here a clear example of an accident is given: While someone is chopping wood, the head of the ax flies off the handle and kills someone.
 > The roads to the cities should be good. No one should be caught on the way only because the road is too long or too bad. Jewish teachers say: People even put up signs that said “Refuge.”
 > God also protects the person who has become guilty without being at fault.

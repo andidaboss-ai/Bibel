@@ -57,7 +57,6 @@ from the one who chops your wood to the one who carries your water.
 [12] You are standing here to enter into the covenant of the LORD your God
 and into his oath,
 which the LORD your God is making with you today.
-An oath is a solemn promise.
 [13] So today he will make you his people,
 and he will be your God,
 as he told you,
@@ -68,6 +67,7 @@ before the LORD our God,
 and also with those who are not here with us today.
 
 > **What does this mean?**
+> Verse 12: An oath is a solemn promise.
 > Everyone belongs: leaders and ordinary people, men, women, and children, even the foreigners who do the simplest work, chopping wood and carrying water. Before God everyone is equal.
 > Verse 15 is especially beautiful: The covenant also applies to “those who are not here with us today.” This means the future generations. Jewish teachers say: Every Jewish person who will ever live was there on that day. The covenant still applies today.
 

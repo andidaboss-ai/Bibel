@@ -72,7 +72,6 @@ and he gives her a bad name.
 He says, “I married this woman.
 But when I came near her,
 I did not find the signs that she was a virgin.”
-A virgin is a woman who has never slept with a man.
 [15] Then the father and the mother of the young woman
 shall take the signs that the young woman was a virgin.
 They shall bring them to the elders of the town at the gate.
@@ -98,6 +97,7 @@ She acted like a prostitute in her father’s house.
 So you shall remove the evil from among you.
 
 > **What does this mean?**
+> Verse 14: A virgin is a woman who has never slept with a man.
 > One hundred shekels of silver are about 2.5 pounds of silver. That was a lot of money.
 > Back then, the “signs that she was a virgin” were a cloth with blood from the wedding night. Today we know: Such “proofs” are not medically reliable. Many women do not bleed the first time.
 > This section protects the wife from a man who wants to get rid of her and therefore spreads lies about her. He is punished harshly and may never send her away. In this way she was provided for all her life.

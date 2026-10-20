@@ -65,7 +65,7 @@ and burn up the cedars of Lebanon.’
 > The bramble offers shade. But a bramble has no shade at all! And it threatens: Whoever does not obey, I will burn. Thorns catch fire easily and can set a whole forest on fire.
 > The message: Good people often do not want power. It is the useless and dangerous ones who push their way to the top. And whoever follows them gets burned. This fable is one of the earliest criticisms of false power in world literature.
 
-[16] So now: Have you acted honestly and sincerely in making Abimelech king?
+[16] “So now: Have you acted honestly and sincerely in making Abimelech king?
 Have you treated Jerubbaal and his family well,
 and have you done to him what his deeds deserved?
 [17] (For my father fought for you, he risked his life,

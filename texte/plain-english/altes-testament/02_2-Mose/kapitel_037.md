@@ -53,7 +53,7 @@ He put the rings at the four corners, on its four legs.
 The poles for carrying the table went through them.
 [15] He made the poles of acacia wood and covered them with gold, to carry the table.
 [16] He also made the things that belonged on the table:
-its dishes, its spoons, its bowls and its pitchers for pouring out drink offerings.
+its dishes, its spoons, its bowls and its pitchers for pouring.
 He made them of pure gold.
 
 > **What does this mean?**
@@ -82,7 +82,7 @@ It was like this for the six branches that went out from it.
 The whole thing was one piece of hammered, pure gold.
 [23] He made its seven lamps,
 and its snuffers and its snuff dishes, of pure gold.
-[24] He made the lamp stand and all its tools from a talent of pure gold.
+[24] He made the lamp stand and all its tools from a talent of pure gold (about 75 pounds).
 
 > **What does this mean?**
 > A talent is about 75 pounds. That much gold went into the lamp stand and its tools.

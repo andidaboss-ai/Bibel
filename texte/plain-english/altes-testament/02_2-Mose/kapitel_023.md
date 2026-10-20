@@ -48,7 +48,7 @@ for you yourselves were foreigners in the land of Egypt.
 
 > **What does this mean?**
 > The poor must not be favored (verse 3) – but they must not be treated unfairly either (verse 6). Equal justice for all.
-> Righteous means: living right before God.
+> Verse 7: Righteous means: living right before God.
 > A bribe makes people blind. Anyone who receives money no longer sees the truth. This is still true today in politics, business and the courts.
 > Once again the foreigner is protected: “You know how a foreigner feels.” Literally it says: you know the heart of a foreigner. Anyone who was once a foreigner should have compassion.
 

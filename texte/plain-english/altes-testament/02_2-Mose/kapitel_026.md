@@ -90,7 +90,7 @@ two sockets under each board.
 
 > **What does this mean?**
 > In cubits: 10 cubits long, one and a half cubits wide.
-> A tenon is a peg at the end of a board that fits into a hole.
+> Verse 17: A tenon is a peg at the end of a board that fits into a hole.
 > The boards form the walls of the sanctuary: 20 on the south side and 20 on the north side, 6 boards and 2 corner boards on the west side. The east side is open. The entrance is there.
 > The silver sockets stand on the ground. The tenons of the boards are put into them. So everything stands firm and can still be taken down quickly.
 > The sanctuary was about 45 feet long and about 15 feet wide.
@@ -132,7 +132,8 @@ And put the lamp stand across from the table, on the south side of the tabernacl
 Put the table on the north side.
 
 > **What does this mean?**
-> The sanctuary has two rooms: the “Holy Place” and the “Most Holy Place.” A precious veil hangs between them. A veil is a large curtain.
+> The sanctuary has two rooms: the “Holy Place” and the “Most Holy Place.” A precious veil hangs between them.
+> Verse 31: A veil is a large curtain.
 > Only the ark of the covenant stands in the Most Holy Place. God is present there in a special way. Only the high priest may go in, once a year (Leviticus 16).
 > In the Holy Place in front of it stand the table with the bread, the lamp stand and, later, the altar of incense.
 > The New Testament tells: When Jesus died on the cross, the veil in the temple was torn in two from top to bottom (Matthew 27:51). Christians understand it this way: Through Jesus, the way to God is open for everyone.
@@ -149,6 +150,6 @@ Their hooks shall be of gold.
 And cast five sockets of bronze for them.
 
 > **What does this mean?**
-> A screen is a hanging curtain. An embroiderer sews colorful patterns into cloth.
+> Verse 36: A screen is a hanging curtain. An embroiderer sews colorful patterns into cloth.
 > The entrance is on the east side. It also has a colorful curtain, but without cherubim.
 > The closer you come to the Most Holy Place, the more precious the materials become: outside bronze, inside silver and gold. So the way it is built shows: The closer to God, the holier.

@@ -92,10 +92,10 @@ and none of the sons of Israel shall be a male shrine prostitute.
 [18] You shall not bring the pay of a female prostitute
 or the pay of a male prostitute
 into the house of the LORD your God for any vow.
-A vow is a promise made to God.
 For the LORD your God hates both of these.
 
 > **What does this mean?**
+> Verse 18: A vow is a promise made to God.
 > “Male shrine prostitute”: Here the WEB, our English source text, uses the old word “sodomite.” The Hebrew has “kadesh,” which literally means “someone set apart.” It means a man who worked as a prostitute in the service of a foreign god. For women the Hebrew has the word “kedeshah.”
 > Among the Canaanites there were temples where prostitution was part of worship. That should not happen in Israel. People should not do business with worship and sexuality.
 > “The pay of a male prostitute”: That is what the WEB, our English source text, says. The Hebrew literally says “the pay of a dog.” Back then, “dog” was an insult for such a man.
@@ -108,13 +108,13 @@ For the LORD your God hates both of these.
 [19] You shall not lend anything to your brother for interest:
 no interest on money, no interest on food,
 no interest on anything that is lent for interest.
-Interest is extra money that the borrower must pay back.
 [20] You may charge interest to a foreigner.
 But you shall not charge interest to your brother.
 Then the LORD your God will bless you in everything you do
 in the land that you are going into to take over.
 
 > **What does this mean?**
+> Verse 19: Interest is extra money that the borrower must pay back.
 > Back then, whoever borrowed money was usually in need. Interest would have pushed him even deeper into misery. That is why you should help a poor Israelite without interest.
 > Foreigners were mostly traveling traders who borrowed money for business. From them you could take interest, as in a normal business deal.
 > In the Middle Ages, Christians forbade interest completely. Because Jews were allowed to take interest from Christians, they were pushed into the money trade. Later this gave rise to evil prejudices against Jews. These prejudices are false and have caused endless suffering.

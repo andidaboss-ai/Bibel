@@ -34,7 +34,6 @@ You shall look for the place where he lives, and you shall go there.
 your tithes and the wave offering of your hand,
 your vows and your freewill offerings,
 and the firstborn of your herd and of your flock.
-A tithe is a tenth of what you harvest or earn. A vow is a promise to God.
 [7] There you shall eat before the LORD your God.
 And you shall be glad about everything you have worked for with your hands,
 you and your households, because the LORD your God has blessed you in it.
@@ -55,6 +54,7 @@ and the Levite who lives within your gates,
 because he has no share and no inheritance with you.
 
 > **What does this mean?**
+> Verse 6: A tithe is a tenth of what you harvest or earn. A vow is a promise to God.
 > God will choose a place where he “lets his name live.” The central holy place is to be there. The place is not named here yet. Later it was first Shiloh and then Jerusalem with the temple.
 > “To let his name live there”: God himself is everywhere and cannot be shut up in a house. But at this place, people can reach him in a special way.
 > “The wave offering of your hand” is a gift that was waved back and forth before God.

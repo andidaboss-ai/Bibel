@@ -14,7 +14,6 @@ They shall measure the distance to the towns around the dead man.
 shall take a young cow from the herd.
 It must be a cow that has never been worked
 and has never pulled with a yoke.
-A yoke is a wooden bar that is put on animals so that they can pull a load.
 [4] The elders of that town shall lead the young cow down to a valley with flowing water,
 a valley that is not plowed and not sown.
 There in the valley they shall break the young cow’s neck.
@@ -35,6 +34,7 @@ Then the guilt for the blood will be forgiven them.
 when you do what is right in the eyes of the LORD.
 
 > **What does this mean?**
+> Verse 3: A yoke is a wooden bar that is put on animals so that they can pull a load.
 > A person was murdered, but no one knows who did it. What now? Such a death must not simply be forgotten. Every human life counts.
 > The nearest town takes responsibility. Its elders solemnly declare: We did not do it, and we did not see anything. And they ask God to forgive the whole people.
 > Washing the hands is a sign of innocence. From this comes the saying that someone “washes their hands” of something. Pilate washed his hands when Jesus was sentenced (Matthew 27:24).

@@ -27,7 +27,6 @@ the ox, the sheep, the goat,
 the ibex, the antelope, and the chamois.
 [6] Among the animals, you may eat every animal that has a split hoof,
 split completely in two, and that chews the cud.
-To chew the cud means: to bring food back up from the stomach and chew it again, like a cow.
 [7] But among those that chew the cud or have a split hoof, you shall not eat these:
 the camel, the hare, and the rabbit.
 For they chew the cud, but they do not have a split hoof.
@@ -37,6 +36,7 @@ So it is unclean for you.
 You shall not eat their meat, and you shall not touch their dead bodies.
 
 > **What does this mean?**
+> Verse 6: To chew the cud means: to bring food back up from the stomach and chew it again, like a cow.
 > We already know these food laws from Leviticus 11. Here they are repeated for the new generation.
 > “Rabbit”: That is what the WEB, our English source text, says. The Hebrew says “shaphan.” That is probably the rock hyrax, a small animal that lives among rocks. The hare and the rock hyrax chew all the time, and when they do, it looks as if they are chewing the cud.
 > Why exactly these rules? The Bible does not say. What is important: Israel should show even in eating that it belongs to God. To this day, many Jews keep these rules. This is called “kosher.”
@@ -97,7 +97,6 @@ You shall not boil a young goat in its mother’s milk.
 
 [22] You shall surely give a tithe of everything your seed brings in,
 of what grows in your field year by year.
-A tithe is a tenth.
 [23] And you shall eat before the LORD your God,
 at the place that he chooses to let his name live there:
 the tithe of your grain, of your new wine, and of your oil,

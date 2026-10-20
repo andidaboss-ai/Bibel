@@ -62,7 +62,6 @@ you, and the Levite, and the foreigner who lives among you.
 ## The tithe in the third year (Verses 12–15)
 
 [12] Every third year is the year of the tithe.
-A tithe is a tenth part.
 When you have finished setting apart the whole tithe of your harvest in that year,
 you shall give it to the Levite, to the foreigner, to the orphan, and to the widow.
 Then they can eat in your towns and be full.
@@ -84,6 +83,7 @@ as you swore to our ancestors,
 a land flowing with milk and honey.”
 
 > **What does this mean?**
+> Verse 12: A tithe is a tenth part.
 > Every third year the tithe belongs to the poor (see Chapter 14:28–29). Afterward, people should declare before God: I really did pass it on.
 > “For the dead”: Among some nations, people put food in the grave with the dead or made sacrifices for them. Israel should not do that with the holy tithe.
 > At the end there is a beautiful prayer: “Look down … from heaven, and bless your people Israel.” Whoever shares with the poor may ask for God’s blessing.

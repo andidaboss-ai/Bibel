@@ -206,14 +206,13 @@ from the heads of the enemy’s leaders.”
 For he will avenge the blood of his servants.
 He will take revenge on his enemies,
 and he will make atonement for his land and for his people.
-Atonement means: He takes away the guilt and makes peace again.
 
 > **What does this mean?**
 > The turning point: When the people are at the very end, without strength and without hope, God has mercy. The false gods did not help. But the true God helps.
 > “I kill, and I make alive. I wound, and I heal”: Everything lies in God’s hand, life and death. But the goal is life and healing.
 > The pictures in verses 41–42 are very harsh: God as a warrior with sword and arrows. These are pictures from the language of that time. They say: God will not let evil go unpunished. He stands on the side of the oppressed. But these pictures are no call for people to use violence. Revenge remains God’s business alone (verse 35).
 > At the end there is a surprising call: “Rejoice, you nations, with his people!” The other nations too should share in the joy. Paul quotes this verse as a sign that God’s rescue is for all nations (Romans 15:10).
-> The last word of the song is “atonement,” that is, making peace again.
+> The last word of the song is “atonement.” Atonement means: God takes away the guilt and makes peace again.
 
 ---
 

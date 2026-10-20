@@ -31,7 +31,8 @@ And you shall be glad before the LORD your God.
 very clearly.”
 
 > **What does this mean?**
-> Right after entering the land, the law is to be written down in public, on large stones, where everyone can see it. Plaster is a white paste that becomes hard. The white layer of plaster made the writing easy to read.
+> Right after entering the land, the law is to be written down in public, on large stones, where everyone can see it. The white layer of plaster made the writing easy to read.
+> Verse 2: Plaster is a white paste that becomes hard.
 > “Very clearly”: God’s word should be understandable for everyone. That is also the goal of this Bible in plain language.
 > Joshua did this later (Joshua 8:30–35).
 > The altar is to be made of uncut stones, just as God created them (see Exodus 20:25).

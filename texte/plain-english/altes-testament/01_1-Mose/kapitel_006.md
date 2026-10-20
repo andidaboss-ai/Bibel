@@ -82,10 +82,8 @@ Look: I will destroy them, together with the earth.”
 
 ## Build a ship! (Verses 14–16)
 
-[14] “Make yourself a ship out of gopher wood.”
-This ship is often called the ark.
-It is a huge ship shaped like a box.
-“Make rooms in the ship.
+[14] “Make yourself a ship out of gopher wood.
+Make rooms in the ship.
 And cover it with pitch inside and outside.
 [15] This is how you are to make it:
 about 450 feet long, about 75 feet wide and about 45 feet high.
@@ -95,6 +93,7 @@ Put the door of the ship in its side.
 And build it with three levels: a lower, a middle and an upper level.”
 
 > **What does this mean?**
+> Verse 14: This ship is often called the ark. It is a huge ship shaped like a box.
 > In the Bible, the measurements are in cubits: 300 cubits long, 50 cubits wide, 30 cubits high, plus one cubit for the opening under the roof. A cubit is the length from the elbow to the tip of the middle finger, about 18 inches.
 > The ark is huge: as long as one and a half football fields. It is not a sailboat. It is a floating box.
 > Today no one knows exactly what “gopher wood” is. Maybe it was cypress wood.
@@ -108,9 +107,8 @@ And build it with three levels: a lower, a middle and an upper level.”
 I will destroy all life under the sky, everything that has the breath of life.
 Everything that is on the earth will die.
 
-[18] “But I will make my covenant with you.”
-A covenant is a firm promise.
-“You are to go into the ship:
+[18] “But I will make my covenant with you.
+You are to go into the ship:
 you, your sons, your wife and your sons’ wives with you.
 
 [19] “And of every living thing, of all living beings,
@@ -129,6 +127,7 @@ It will be food for you and for the animals.”
 He did everything exactly as God commanded him.
 
 > **What does this mean?**
+> Verse 18: A covenant is a firm promise.
 > Here the word “covenant” appears for the first time in the Bible. God binds himself. He promises Noah: I will save you.
 > God does not want to end all life. He wants to start again with Noah, his family and the animals.
 > Noah does not ask questions. He trusts and does what God says. To the neighbors, it must have looked very strange: a huge ship in the middle of dry land.

@@ -159,7 +159,6 @@ among all the peoples where the LORD will lead you away.
 [38] You will carry much seed out into the field,
 but you will gather in little,
 because the locusts will eat it up.
-Locusts are large insects that come in huge swarms.
 [39] You will plant vineyards and take care of them,
 but you will not drink the wine or gather the grapes,
 because worms will eat them.
@@ -193,6 +192,7 @@ He will put an iron yoke on your neck
 until he has destroyed you.
 
 > **What does this mean?**
+> Verse 38: Locusts are large insects that come in huge swarms.
 > Verse 47 is especially remarkable: The reason for the disaster is not only disobedience, but that the people did not serve God “with joy,” even though they had plenty of everything. God does not only want obedience, but a thankful, joyful heart.
 > A “yoke” is a wooden bar that is put on the necks of cattle so that they can pull. An “iron yoke” is a picture for very harsh oppression.
 

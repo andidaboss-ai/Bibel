@@ -63,7 +63,7 @@ It shall be a reminder of the people of Israel before the LORD,
 to make atonement for your lives.”
 
 > **What does this mean?**
-> A census means: counting the people. A ransom is a price paid to set a life free.
+> Verse 12: A census means: counting the people. A ransom is a price paid to set a life free.
 > Half a shekel is about one fifth of an ounce of silver. A “gerah” is an even smaller weight, about one fiftieth of an ounce.
 > The men who were counted were 20 years old or older. They were the men who could go to war. Whoever was counted “passed over” to those who had already been counted.
 > Back then, people believed: Counting a people is dangerous. Life belongs to God, not to the king or the leader. That is why everyone shall give a small gift – as a sign: My life belongs to God. Later, the Bible tells how King David counts the people, and a plague comes because of it (2 Samuel 24).

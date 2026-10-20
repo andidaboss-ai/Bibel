@@ -116,9 +116,8 @@ He will be the lowest servant of his brothers.”
 [26] And he said,
 “Praise be to the LORD, the God of Shem!
 Let Canaan be his servant.
-[27] May God enlarge Japheth.”
-That means: May God give him much room.
-“Let him live in the tents of Shem.
+[27] May God enlarge Japheth.
+Let him live in the tents of Shem.
 And let Canaan be his servant.”
 
 [28] After the flood, Noah lived another 350 years.
@@ -128,5 +127,6 @@ Then he died.
 > **What does this mean?**
 > Even Noah, the righteous man, makes mistakes. The Bible tells the truth about its heroes – with all their weaknesses.
 > Ham sees his father in an embarrassing situation. Instead of protecting him, he tells others about it. Shem and Japheth act differently: They protect their father’s dignity and cover him without looking. This is how we should deal with the weaknesses of others.
+> Verse 27: “Enlarge” means: give him much room.
 > In Hebrew, “Japheth” sounds like “to make room.” That is why the blessing says: “May God enlarge Japheth.”
 > **Important:** This curse was terribly misused in history. Some people used it to justify the slavery of people from Africa. That is **wrong**. The text does not curse Ham, and it certainly does not curse people with a certain skin color. It speaks about Canaan, the people who later lived in the land of Canaan. And the whole Bible says: Every person is an image of God.

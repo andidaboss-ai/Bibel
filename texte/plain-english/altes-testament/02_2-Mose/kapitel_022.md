@@ -93,7 +93,7 @@ Then he must pay the bride price for her and marry her.
 he must still pay as much money as the bride price for a virgin.
 
 > **What does this mean?**
-> A bride price is money that the groom gives to the bride’s family.
+> Verse 16: A bride price is money that the groom gives to the bride’s family.
 > Back then, it was very hard for a woman who was no longer a virgin to find a husband. Without a husband, she had hardly any future in that society.
 > This law protects the young woman: the man may not simply leave her. He has to take responsibility.
 > But the father can also forbid the marriage, for example if the man is a bad person. Then the man still has to pay.

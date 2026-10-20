@@ -112,7 +112,8 @@ so that your days may be long and so that it may go well with you in the land th
 > **What does this mean?**
 > These four short commandments protect how people live together:
 > The life of every person is holy. No one may murder another person.
-> Marriage should be protected. Faithfulness is important. Adultery means: A married person sleeps with someone who is not their husband or wife.
+> Marriage should be protected. Faithfulness is important.
+> Verse 18: Adultery means: A married person sleeps with someone who is not their husband or wife.
 > You should not take away what belongs to another person.
 > In court and everywhere, you should tell the truth. A lie can bring disaster on an innocent person.
 
@@ -127,7 +128,7 @@ or his ox, or his donkey,
 or anything that belongs to your neighbor.”
 
 > **What does this mean?**
-> To covet means: to badly want something that belongs to someone else.
+> Verse 21: To covet means: to badly want something that belongs to someone else.
 > The last commandment goes deeper than all the others. It is not about deeds, but about wishes in the heart. Envy and greed are often the beginning of stealing, adultery, and even murder.
 > A small difference from Exodus 20: There the house comes first, here the wife. And here the field is also named, because the people will soon own fields in the land.
 > Because of this verse, Catholics and Lutherans count two commandments here: the ninth (the wife) and the tenth (the property). Others count it as one commandment.

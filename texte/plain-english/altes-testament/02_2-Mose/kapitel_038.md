@@ -92,18 +92,18 @@ He was an engraver and a skillful worker,
 and an embroiderer in blue, purple and scarlet thread and in fine linen.
 
 [24] All the gold that was used for the work on the whole sanctuary, the gold of the offering,
-was about 2,200 pounds, by the weight of the shekel of the sanctuary.
+was 29 talents and 730 shekels (about 2,200 pounds), by the weight of the shekel of the sanctuary.
 
-[25] The silver from those of the community who were counted was about 7,540 pounds, by the weight of the shekel of the sanctuary.
+[25] The silver from those of the community who were counted was 100 talents and 1,775 shekels (about 7,540 pounds), by the weight of the shekel of the sanctuary.
 [26] That was a beka for each person, that is, half a shekel by the weight of the shekel of the sanctuary,
 from everyone who passed over to those who were counted, 20 years old or older.
 There were 603,550 men.
-[27] With about 7,500 pounds of silver, they cast the sockets of the sanctuary and the sockets of the veil:
-100 sockets from this amount of silver, each socket about 75 pounds.
-[28] From the other silver, about 43 pounds, he made the hooks for the pillars.
+[27] The 100 talents of silver (about 7,500 pounds) were used to cast the sockets of the sanctuary and the sockets of the veil:
+100 sockets from the 100 talents, one talent (about 75 pounds) for each socket.
+[28] From the 1,775 shekels (about 44 pounds), he made the hooks for the pillars.
 He covered their capitals and made bands for them.
 
-[29] The bronze of the offering was about 5,300 pounds.
+[29] The bronze of the offering was 70 talents and 2,400 shekels (about 5,300 pounds).
 [30] With it he made the sockets for the door of the Tent of Meeting,
 the bronze altar, the bronze grating for it and all the tools of the altar,
 [31] the sockets around the courtyard, the sockets of the gate of the courtyard,
