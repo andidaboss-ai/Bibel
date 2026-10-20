@@ -16,14 +16,14 @@ I will ask you questions, and you will answer me.’
 [5] I had heard of you with my ears,
 but now my eye sees you.
 [6] That is why I hate myself,
-and I turn away from what I said, in dust and ashes.”
+and I am sorry, in dust and ashes.”
 
 > **What does this mean?**
 > This is Job’s last answer. He sees: God can do everything. God’s plans go far beyond what I understand.
 > In verses 3 and 4, Job quotes God’s own words (Job 38:2–3). He admits: I have talked about things that were too big for me.
 > Verse 5 is one of the most important sentences in the whole book: “I had heard of you with my ears, but now my eye sees you.” Before, Job knew God from what others said. Now he has met God himself. That changes everything.
 > Verse 6 can be understood in different ways in Hebrew:
-> – “I hate myself” (as the WEB says), or
+> – “I hate myself” (as the WEB, our English source text, says), or
 > – “I take back (my words),” or
 > – “I give up my complaint and let myself be comforted, even though I am in dust and ashes.”
 > What is clear: Job does not confess that he suffered because of a sin. He takes back his accusations against God. And he finds peace without knowing the answer to the question “Why?”
@@ -41,13 +41,13 @@ as my servant Job has.
 Go to my servant Job,
 and offer up a burnt offering for yourselves.
 My servant Job will pray for you,
-for I will accept his prayer.
+for I will accept him.
 Then I will not deal with you as your foolishness deserves.
 For you have not spoken of me what is right,
 as my servant Job has.”
 [9] So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite went
 and did what the LORD had commanded them.
-And the LORD accepted Job’s prayer.
+And the LORD accepted Job.
 
 > **What does this mean?**
 > This is the big surprise at the end: God is angry with the friends, not with Job!

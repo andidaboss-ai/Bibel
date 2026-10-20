@@ -13,7 +13,7 @@ and the wall around Jerusalem.
 [2] But the people sacrificed at the high places,
 because no house had been built yet for the LORD’s name.
 [3] Solomon loved the LORD
-and lived by the statutes of his father David.
+and followed the laws of his father David.
 Only, he also sacrificed and burned incense at the high places.
 [4] The king went to Gibeon to sacrifice there,
 for that was the great high place.
@@ -75,7 +75,7 @@ and no one like you will arise after you.
 both riches and honor,
 so that there will be no one like you among the kings for all your days.
 [14] And if you walk in my ways
-and keep my statutes and my commandments,
+and keep my laws and my commandments,
 as your father David walked,
 then I will give you a long life.”
 [15] Solomon woke up, and it was a dream.

@@ -32,7 +32,7 @@ your future will be very great.
 ## Ask the generations of the past (Verses 8–10)
 
 [8] “Please ask the generations of the past.
-Find out what their fathers learned.
+Find out what their ancestors learned.
 [9] (For we were only born yesterday, and we know nothing.
 Our days on earth are a shadow.)
 [10] Won’t they teach you and tell you?
@@ -76,7 +76,7 @@ Others will spring up out of the ground.
 ## God does not reject a blameless man (Verses 20–22)
 
 [20] “God will not reject a blameless man.
-He will not take the hand of evildoers.
+He will not support evildoers.
 [21] He will yet fill your mouth with laughter,
 and your lips with shouts of joy.
 [22] Those who hate you will be clothed with shame.

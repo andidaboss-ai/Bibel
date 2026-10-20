@@ -111,7 +111,8 @@ Go and do it.’
 The LORD has decided to bring disaster on you.”
 [24] Then Zedekiah, the son of Chenaanah, came up to Micaiah.
 He slapped Micaiah on the cheek and said,
-“How did the Spirit of the LORD leave me to speak to you?”
+“Which way did the Spirit of the LORD go
+when he left me to speak to you?”
 [25] Micaiah said,
 “You will find out on the day
 when you go into an inner room to hide.”
@@ -209,7 +210,7 @@ The people still offered sacrifices and burned incense on the high places.
 [44] Jehoshaphat made peace with the king of Israel.
 [45] The rest of Jehoshaphat’s story is written in the book of the chronicles of the kings of Judah.
 It tells about the strength he showed and how he fought.
-[46] There were still some sodomites left from the days of his father Asa.
+[46] There were still some male shrine prostitutes left from the days of his father Asa.
 Jehoshaphat sent them out of the land.
 [47] At that time there was no king in Edom.
 A governor ruled there.
@@ -221,14 +222,14 @@ The ships were wrecked at Ezion Geber.
 “Let my servants sail with your servants in the ships.”
 But Jehoshaphat did not want that.
 [50] Jehoshaphat died and joined his ancestors.
-He was buried with his fathers in the city of his father David.
+He was buried with his ancestors in the city of his father David.
 His son Jehoram became king in his place.
 
 > **What does this mean?**
 > Jehoshaphat was a good king, like his father Asa. 2 Chronicles 17–20 tells much more about him.
 > He made peace with Israel. After many years of war between north and south, that was good. But the close ties with the house of Ahab later brought great disaster to Judah.
 > Like Solomon, Jehoshaphat wanted to send ships to Ophir. But the ships were broken even before they set out.
-> In verse 46 our English source text again says “sodomites” (see the explanation for 1 Kings 14:24).
+> In verse 46 the WEB, our English source text, again says “sodomites.” We write “male shrine prostitutes” (see the explanation for 1 Kings 14:24).
 > At that time Edom was under the rule of Judah. That is why Jehoshaphat could use the port of Ezion Geber.
 > In some Bibles the verse numbers from here on are shifted by one: the second part of verse 43 is verse 44 there. Verse 44 here is verse 45 there, and so on up to verse 53 here, which is verse 54 there.
 > Jehoshaphat ruled from about 870 to 848 BC.

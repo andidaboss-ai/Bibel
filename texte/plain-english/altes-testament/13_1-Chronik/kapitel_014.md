@@ -50,7 +50,7 @@ David gave an order, and the gods were burned.
 [13] The Philistines attacked the valley again.
 [14] So David asked God again.
 God answered him,
-“Do not go straight up after them.
+“Do not go up after them.
 Go around them.
 Attack them in front of the mulberry trees.
 [15] You will hear the sound of marching in the tops of the mulberry trees.

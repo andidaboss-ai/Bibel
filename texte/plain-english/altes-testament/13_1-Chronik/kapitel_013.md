@@ -53,7 +53,8 @@ He struck him down, because Uzza had put his hand on the ark.
 Uzza died there before God.
 [11] David was upset,
 because the LORD had broken out against Uzza.
-So that place is called Perez Uzza to this day.
+He called that place Perez Uzza.
+It still has that name today.
 [12] That day David was afraid of God.
 He said,
 “How can I ever bring God’s ark home to me?”

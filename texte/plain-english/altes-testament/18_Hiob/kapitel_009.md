@@ -20,7 +20,7 @@ Its pillars tremble.
 He seals up the stars.
 [8] He alone stretches out the heavens.
 He walks on the waves of the sea.
-[9] He made the Bear, Orion, and the Pleiades,
+[9] He makes the Bear, Orion, and the Pleiades,
 and the rooms of the south.
 [10] He does great things that no one can understand,
 yes, wonders that cannot be counted.
@@ -28,7 +28,7 @@ yes, wonders that cannot be counted.
 He moves on, but I do not notice him.
 [12] He snatches things away. Who can stop him?
 Who will say to him, ‘What are you doing?’
-[13] “God does not hold back his anger.
+[13] God does not hold back his anger.
 The helpers of Rahab bow down under him.
 
 > **What does this mean?**

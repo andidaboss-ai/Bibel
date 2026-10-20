@@ -44,7 +44,7 @@ It could not hold all the burnt offerings, the grain offerings, and the fat.
 [8] So at that time Solomon held the feast for seven days.
 All Israel was with him.
 It was a very large crowd.
-They came from all the land between Lebo Hamath and the Brook of Egypt.
+They came from all the land, from the entrance of Hamath to the brook of Egypt.
 [9] On the eighth day they held a special holy meeting.
 They had celebrated the dedication of the altar for seven days,
 and the feast for seven days.
@@ -57,7 +57,7 @@ the LORD had done for David, for Solomon, and for his people Israel.
 > **What does this mean?**
 > The number of animals for sacrifice is huge. The meat of the peace offerings was eaten together. So it became a great feast meal for the whole people.
 > The feast lasted two weeks: seven days for the dedication of the altar and seven days for the Feast of Tabernacles (Booths). Then came one more closing day.
-> The Hebrew words for “Lebo Hamath” can also be read as “the entrance of Hamath”. This place lies in the far north. The “brook of Egypt” is the southern border. People from the whole land had come.
+> “The entrance of Hamath” lies in the far north. Some read the Hebrew words as the name of a town: Lebo Hamath. The “brook of Egypt” is the southern border. People from the whole land had come.
 > At the end everyone goes home “joyful and glad of heart”.
 
 ---

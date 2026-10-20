@@ -19,7 +19,7 @@ from the Jordan all the way to Jerusalem.
 The king took the 10 women, his concubines,
 whom he had left to take care of the house,
 and put them in a house under guard.
-He provided food for them, but he did not go in to them anymore.
+He provided food for them, but he did not sleep with them anymore.
 So they were shut up until the day of their death,
 living like widows.
 
@@ -135,7 +135,7 @@ Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites.
 Jehoshaphat the son of Ahilud was the recorder.
 [25] Sheva was scribe.
 Zadok and Abiathar were priests.
-[26] And Ira the Jairite was also chief minister to David.
+[26] And Ira the Jairite was chief minister to David.
 
 > **What does this mean?**
 > At the end there is again a list of David’s officials, as in Chapter 8:16–18. Joab is at the top again. No one punishes him for the murder of Amasa.

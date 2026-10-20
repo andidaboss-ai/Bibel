@@ -70,10 +70,10 @@ And the people did as they had promised.
 
 > **What does this mean?**
 > Nehemiah becomes angry, and rightly so. Injustice against the poor makes God angry too.
-> But he does not act without thinking. “I thought it over”, before he acted.
+> But he does not act without thinking. He “thought it over” before he acted.
 > The law forbade taking interest from poor brothers (Exodus 22:25; Leviticus 25:35–37; Deuteronomy 23:19).
 > Nehemiah’s argument is strong: we have spent money to buy our brothers free from slavery among foreign peoples. And you make them slaves again!
-> “The hundredth part” was probably an interest of one percent a month, that is twelve percent a year.
+> “The hundredth part” was probably an interest of one percent a month, that is 12 percent a year.
 > Nehemiah admits: he and his people have also lent money. He includes himself: “Please let us stop.”
 > Shaking out the robe was a sign: whoever breaks the promise is to lose everything.
 > This story shows: social justice matters to God. A community cannot be strong when the rich exploit the poor. That is still important today.
@@ -84,12 +84,12 @@ And the people did as they had promised.
 
 [14] From the time that I was appointed to be their governor in the land of Judah,
 from the twentieth year to the thirty-second year of Artaxerxes the king,
-that is, twelve years,
+that is, 12 years,
 I and my brothers have not eaten the food that belonged to the governor.
 [15] But the earlier governors who were before me
 were supported by the people.
 They took bread and wine from them,
-and also 40 shekels of silver, about 1 pound.
+and also 40 shekels of silver (about 1 pound).
 Even their servants ruled over the people.
 But I didn’t do so, because of the fear of God.
 [16] I also kept on with the work on this wall.
@@ -99,16 +99,16 @@ All my servants were gathered there for the work.
 besides those who came to us from the nations around us.
 [18] What was prepared for one day was one ox and six choice sheep.
 Birds were also prepared for me,
-and once every ten days a supply of all kinds of wine.
+and once every 10 days a supply of all kinds of wine.
 Yet for all this I didn’t ask for the governor’s pay,
 because the burden on this people was heavy.
 [19] Remember me, my God,
 for all the good that I have done for this people.
 
 > **What does this mean?**
-> Here Nehemiah looks back on his whole time in office: twelve years, from 445 to 433 BC.
+> Here Nehemiah looks back on his whole time in office: 12 years, from 445 to 433 BC.
 > As governor he would have been allowed to demand payments from the people. But he did not do it, because the people were already suffering enough. He paid for everything out of his own pocket, even the guests at his table.
-> The Bible says “40 shekels of silver”. A shekel is about 0.4 ounces.
+> Verse 15 says “40 shekels of silver”. A shekel is about 0.4 ounces.
 > “We didn’t buy any land”: he did not use his position to buy land cheaply from poor people in debt.
 > Verse 19 is a prayer that Nehemiah speaks several times (Chapter 13:14, 22, 31). He asks God to remember the good he has done. He does not seek praise from people, but from God.
 > Nehemiah is an example of leadership: he serves the people, instead of letting them serve him. Jesus later says: “Whoever wants to become great among you must be your servant” (Mark 10:43).
