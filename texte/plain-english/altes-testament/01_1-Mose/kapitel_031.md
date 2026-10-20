@@ -12,7 +12,7 @@ He has become rich from what belonged to our father.”
 He saw: Laban was not as friendly toward him as before.
 
 [3] Then the LORD said to Jacob,
-“Go back to the land of your fathers, to your relatives.
+“Go back to the land of your ancestors, to your relatives.
 I will be with you.”
 
 > **What does this mean?**
@@ -137,7 +137,7 @@ But why have you stolen my gods?”
 [31] Jacob answered Laban,
 “I was afraid.
 I thought you would take your daughters away from me by force.
-[32] But whoever has your gods will not stay alive.
+[32] Whoever you find your gods with will not stay alive.
 Here, in front of our relatives, look for whatever of yours is with me, and take it.”
 For Jacob did not know that Rachel had stolen them.
 
@@ -156,7 +156,7 @@ He searched, but he did not find the teraphim.
 
 > **What does this mean?**
 > Jacob has no idea that Rachel has the gods. With his oath, he puts her life in danger.
-> Rachel is as sly as her father and her husband. She sits on the gods and says she is having her monthly bleeding. Back then, a woman in this time counted as “unclean.” No one wanted to touch her then.
+> Rachel is as sly as her father and her husband. She sits on the gods and says she is having her monthly bleeding. Back then, a woman counted as “unclean” during this time. Then no one wanted to touch her.
 > The scene is also meant to mock: What kind of gods are these, when a woman sits on them and they cannot help themselves? Here the Bible makes fun of the dead idols.
 
 ---
@@ -195,7 +195,7 @@ And last night he scolded you.”
 > **What does this mean?**
 > Now everything that has built up in Jacob for 20 years bursts out of him.
 > He was a faithful, honest shepherd. Normally, a shepherd did not have to pay for animals that were torn apart, if he could prove that a wild animal had killed them. Laban still made him pay.
-> “The God whom Isaac fears” (literally: “the fear of Isaac”) is a special, old name for God. Maybe it reminds us of how Isaac experienced God’s power on the mountain in Moriah (Chapter 22).
+> “The God whom Isaac fears” (literally: “the fear of Isaac”) is a special, old name for God. Maybe it reminds us of how Isaac experienced God’s power on a mountain in the land of Moriah (Chapter 22).
 
 ---
 
@@ -230,7 +230,7 @@ even if no one is with us: Look, God is a witness between me and you.”
 
 [51] Laban said to Jacob,
 “Look at this heap, and look at the pillar that I have set up between me and you.
-[52] This heap is a witness, and the pillar is a witness:
+[52] May this heap be a witness, and may the pillar be a witness:
 I will not go past this heap to you,
 and you will not go past this heap and this pillar to me,
 to do harm.

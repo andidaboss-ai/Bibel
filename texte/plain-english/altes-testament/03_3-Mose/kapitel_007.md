@@ -44,7 +44,7 @@ belongs to all the sons of Aaron, to one as much as to another.
 [12] If he brings it to give thanks,
 then together with the sacrifice of thanks he shall bring cakes without yeast, mixed with oil,
 thin wafers without yeast, spread with oil,
-and cakes of fine flour mixed with oil.
+and cakes mixed with oil.
 [13] Together with the sacrifice of his peace offerings for thanks,
 he shall also bring cakes of bread made with yeast.
 [14] From these he shall bring one of each kind as a heave offering to the LORD.
@@ -129,9 +129,9 @@ as their share forever from the people of Israel.’”
 
 [35] This is the holy share of Aaron and the holy share of his sons
 from the LORD’s offerings made by fire,
-from the day when he brought them near to serve the LORD as priests.
+on the day when he brought them near to serve the LORD as priests.
 [36] The LORD commanded that the people of Israel give this to them,
-from the day that he anointed them.
+on the day that he anointed them.
 It is their share forever, for all their generations.
 
 > **What does this mean?**
