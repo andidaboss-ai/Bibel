@@ -29,7 +29,7 @@ They did just as the LORD had commanded them.
 > **What does this mean?**
 > A prophet is someone who passes on God’s words to others. Here Moses passes on God’s words to Aaron, and Aaron tells them to Pharaoh.
 > Pharaoh thinks he himself is a god. Now an old shepherd stands before him and speaks with the power of the true God.
-> Again and again it says: The Egyptians will “know that I am the LORD.” Remember: Pharaoh had said, “I do not know the LORD” (Chapter 5:2). Now he will get to know him.
+> Again and again it says: The Egyptians will “know that I am the LORD.” Remember: Pharaoh had said, “I do not know the LORD” (Exodus 5:2). Now he will get to know him.
 > Moses is 80 years old! For God, it is never too late to use someone.
 
 ---
@@ -113,6 +113,6 @@ For they could not drink the water of the river.
 > **What does this mean?**
 > Now the ten plagues begin. A plague is a great disaster that comes over a land.
 > The river is the Nile. The Nile was the heart of Egypt. The Egyptians worshiped it as a god. God shows: The Nile is not a god. I am the Lord over it.
-> Remember: Pharaoh had ordered the Hebrew babies to be thrown into the Nile (Chapter 1:22). Now the Nile itself turns into blood.
+> Remember: Pharaoh had ordered the Hebrew babies to be thrown into the Nile (Exodus 1:22). Now the Nile itself turns into blood.
 > Pharaoh simply goes home. He has enough to drink after all. He does not care about the suffering of his people.
 > Some researchers try to explain the plagues by natural events, for example red algae in the Nile. The Bible tells them as acts of God. What matters is not how it happened, but what it shows: God is mightier than Pharaoh and his gods.

@@ -87,10 +87,10 @@ Then he came down, after he had brought the sin offering, the burnt offering and
 Then they came out and blessed the people.
 And the LORD’s glory appeared to all the people.
 [24] Fire came out from before the LORD and burned up the burnt offering and the fat on the altar.
-When all the people saw it, they shouted for joy and fell down on their faces.
+When all the people saw it, they shouted and fell down on their faces.
 
 > **What does this mean?**
 > This is a great high point. God accepts the offerings. Fire comes from God and burns up the offering. This is the sign: God is here, and he is at peace with his people.
-> Aaron lifts his hands and blesses the people. Numbers 6:24–26 shows how this blessing later sounds. It begins: May the LORD bless you and keep you … These words are still spoken today in synagogues and churches.
+> Aaron lifts his hands and blesses the people. Numbers 6:24–26 shows how this blessing later sounds. It begins: “The LORD bless you and keep you …” (Numbers 6:24). These words are still spoken today in synagogues and churches.
 > The people shout for joy and fall down. Joy and deep respect belong together.
 > But in the very next chapter, something terrible happens.

@@ -49,7 +49,7 @@ as the LORD commanded Moses.
 
 > **What does this mean?**
 > The clothes and objects were described in Exodus 28.
-> Oil is poured over Aaron. Psalm 133:2 talks about this: It is like the precious oil on the head that runs down on the beard, on Aaron’s beard. There it is a picture of the joy when people live together in peace.
+> Oil is poured over Aaron. Psalm 133:2 talks about this: “It is like the precious oil on the head, that ran down on the beard, Aaron’s beard” (Psalm 133:2). There it is a picture of the joy when people live together in peace.
 
 ---
 
@@ -94,11 +94,11 @@ Consecration means: setting someone apart for God’s service.
 Aaron and his sons laid their hands on the head of the ram.
 [23] He killed it.
 Moses took some of its blood and put it
-on the bottom of Aaron’s right ear,
+on the tip of Aaron’s right ear,
 on the thumb of his right hand
 and on the big toe of his right foot.
 [24] He brought Aaron’s sons.
-Moses put some of the blood on the bottom of their right ear,
+Moses put some of the blood on the tip of their right ear,
 on the thumb of their right hand and on the big toe of their right foot.
 And Moses sprinkled the rest of the blood all around on the altar.
 

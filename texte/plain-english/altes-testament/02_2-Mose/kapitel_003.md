@@ -33,7 +33,7 @@ Then Moses hid his face.
 For he was afraid to look at God.
 
 > **What does this mean?**
-> Moses is now a simple shepherd in the desert. He is about 80 years old (see Chapter 7:7). He probably did not expect anything great to happen in his life anymore.
+> Moses is now a simple shepherd in the desert. He is about 80 years old (see Exodus 7:7). He probably did not expect anything great to happen in his life anymore.
 > Horeb is another name for Mount Sinai.
 > A fire that burns but does not burn up – a sign that God is present. God is like a fire: full of power, but he does not destroy.
 > Moses is curious. God calls him by his name, twice – just as with Abraham and Jacob.
@@ -87,7 +87,7 @@ you will serve God on this mountain.”
 
 [13] Moses said to God,
 “Look, I will come to the people of Israel and tell them,
-‘The God of your fathers has sent me to you.’
+‘The God of your ancestors has sent me to you.’
 Then they will ask me, ‘What is his name?’
 What should I tell them?”
 
@@ -99,7 +99,7 @@ And he said,
 
 [15] God also said to Moses,
 “Tell the people of Israel this:
-‘The LORD, the God of your fathers,
+‘The LORD, the God of your ancestors,
 the God of Abraham, the God of Isaac, and the God of Jacob,
 has sent me to you.’
 This is my name forever.
@@ -118,7 +118,7 @@ By this name I am to be remembered in all generations.
 
 [16] “Go and gather the elders of Israel.
 Tell them,
-‘The LORD, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me.
+‘The LORD, the God of your ancestors, the God of Abraham, of Isaac, and of Jacob, has appeared to me.
 He said,
 “I have surely come to look after you.
 I have seen what is being done to you in Egypt.
@@ -142,7 +142,7 @@ After that he will let you go.
 
 [21] “I will make the Egyptians kind toward this people.
 When you go, you will not go with empty hands.
-[22] Every woman will ask her neighbor, and the woman who stays in her house,
+[22] Every woman will ask her neighbor, and the woman who visits her house,
 for jewelry of silver, jewelry of gold, and clothing.
 You will put them on your sons and on your daughters.
 So you will take the riches of the Egyptians.”

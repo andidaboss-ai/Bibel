@@ -151,7 +151,7 @@ And they believed in the LORD and in his servant Moses.
 > **What does this mean?**
 > Back then, the night was divided into watches. The last watch of the night was just before sunrise.
 > Now even the Egyptians say: “The LORD is fighting for them.” At last they see who the true God is – but too late.
-> Pharaoh wanted to drown the Israelites’ babies in the water (Chapter 1:22). Now his own army drowns in the water.
+> Pharaoh wanted to drown the Israelites’ babies in the water (Exodus 1:22). Now his own army drowns in the water.
 > The freedom is complete. The slaves are free. The oppressors can never chase them again.
 > The people see and believe. To this day, this crossing of the sea is the great sign for Israel that God saves.
 > Christians also see in it a picture of baptism: through the water into new life (1 Corinthians 10:1–2).

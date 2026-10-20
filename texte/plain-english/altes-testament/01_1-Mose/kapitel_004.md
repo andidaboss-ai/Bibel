@@ -40,7 +40,7 @@ It wants to have you.
 But you are to rule over it.”
 
 > **What does this mean?**
-> The Bible does not say exactly why God accepts Abel’s offering and not Cain’s offering. There is a hint in the words: Abel brings “the firstborn” and “their fat,” that means, the best. For Cain, it only says “some.” Maybe what matters is the heart with which a person gives.
+> The Bible does not say exactly why God accepts Abel’s offering and not Cain’s offering. There is a hint in the words: Abel brings “firstborn animals” and “their fat,” that means, the best he has. For Cain, it does not say that he brought the first or the best. Maybe what matters is the heart with which a person gives.
 > “Sin” is what separates us from God and from other people.
 > God speaks with Cain like a father with his son. He warns him: Your anger is like a wild animal in front of your door. Be careful! But you can control it.
 > Cain has a choice. He is not helpless against sin.
@@ -61,9 +61,8 @@ A keeper is someone who watches over another.
 [10] The LORD said,
 “What have you done?
 Listen: Your brother’s blood is crying out to me from the ground!
-[11] So now you are cursed.
-You are cut off from the ground,
-which opened its mouth to take your brother’s blood from your hand.
+[11] So now you are cursed because of the ground.
+The ground opened its mouth to take your brother’s blood from your hand.
 [12] From now on, when you work the ground, it will not give you its strength.
 You will be a fugitive and a wanderer on the earth.”
 A fugitive is someone who has to run away.
@@ -87,7 +86,7 @@ I will be a fugitive and a wanderer on the earth.
 And whoever finds me will kill me.”
 
 [15] The LORD said to him,
-“No! Whoever kills Cain will be paid back seven times.”
+“So whoever kills Cain will be punished seven times over.”
 And the LORD put a sign on Cain,
 so that no one who found him would strike him down.
 
@@ -128,8 +127,9 @@ Tubal Cain’s sister was Naamah.
 You wives of Lamech, listen to what I say:
 I have killed a man because he wounded me.
 I have killed a young man because he bruised me.
-[24] If Cain will be paid back seven times,
+[24] If Cain will be avenged seven times,
 then Lamech seventy-seven times!”
+To be avenged means: Someone pays back the harm that was done to you.
 
 > **What does this mean?**
 > People become inventive: They build cities, move around with herds, make music and forge tools. This is how culture begins.

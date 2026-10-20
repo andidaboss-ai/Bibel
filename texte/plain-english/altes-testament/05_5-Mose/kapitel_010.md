@@ -104,6 +104,6 @@ And now the LORD your God has made you as many as the stars in the sky.
 > **What does this mean?**
 > The greatest and mightiest God cares for the weakest: for orphans, widows and foreigners. Back then these people had no protection.
 > God cannot be bribed. With him it does not matter who is rich or powerful.
-> Verse 19 is one of the most important commandments in the Bible: “Love the foreigner!” The reason: You yourselves were foreigners. You know what it feels like. This commandment is just as important today as it was back then.
+> Verse 19 is one of the most important commandments in the Bible: “So you too shall love the foreigner.” The reason: You yourselves were foreigners. You know what it feels like. This commandment is just as important today as it was back then.
 > “Lord of lords”: In the book of Revelation, this title is used for Jesus (Revelation 19:16).
 > There were seventy people at the beginning (Genesis 46:27). Now there is a great people. God has kept his promise to Abraham.

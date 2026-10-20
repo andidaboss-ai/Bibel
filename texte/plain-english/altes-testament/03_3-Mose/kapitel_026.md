@@ -144,7 +144,7 @@ And I will draw the sword and chase you.
 Your land will be a wasteland, and your cities will be ruins.
 
 [34] “‘Then the land will enjoy its Sabbaths
-as long as it lies empty and you are in your enemies’ land.
+as long as it lies empty and you are in the land of your enemies.
 Then the land will rest and enjoy its Sabbaths.
 [35] As long as it lies empty, it will rest.
 It gets the rest that it did not have in your Sabbaths when you lived on it.
@@ -158,7 +158,7 @@ And they will fall even when nobody is chasing them.
 You will have no power to stand against your enemies.
 [38] You will die among the nations.
 The land of your enemies will eat you up.
-[39] Those of you who are left will waste away because of their guilt in your enemies’ lands.
+[39] Those of you who are left will waste away because of their guilt in the lands of your enemies.
 And they will also waste away because of the guilt of their ancestors, like them.
 
 > **What does this mean?**

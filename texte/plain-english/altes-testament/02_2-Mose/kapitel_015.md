@@ -25,7 +25,7 @@ They went down into the depths like a stone.
 > After being saved, the people sing. This is one of the oldest songs in the Bible. In Hebrew it is written as poetry.
 > Whoever has been saved wants to give thanks and celebrate. Faith and music belong together.
 > In verse 2, the short form “Yah” stands for God. It is also in the word “Hallelujah” – that means: “Praise Yah! Praise the LORD!”
-> “The LORD is a warrior” means here: He fought for his people when they could not defend themselves (Chapter 14:14).
+> “The LORD is a warrior” means here: He fought for his people when they could not defend themselves (Exodus 14:14).
 
 ---
 
@@ -104,7 +104,7 @@ for he has won a glorious victory.
 He has thrown the horse and its rider into the sea.”
 
 > **What does this mean?**
-> Miriam is the sister who once watched over her little brother by the Nile (Chapter 2:4). Now she is an old woman – and she dances.
+> Miriam is the sister who once watched over her little brother by the Nile (Exodus 2:4). Now she is an old woman – and she dances.
 > She is called a “prophetess.” She is one of the first women in the Bible with this title. God speaks through women too.
 > The women celebrate with drums and dancing. People may show their joy about God’s rescue with their whole body.
 

@@ -61,7 +61,7 @@ For I crossed this Jordan with only my walking stick.
 And now I have become two groups.
 [11] Please save me from the hand of my brother, from the hand of Esau!
 For I am afraid of him.
-He might come and kill me, and the mothers together with the children.
+He might come and attack me, and the mothers together with the children.
 [12] You said,
 ‘I will surely do good to you.
 I will make your descendants as many as the sand of the sea,
@@ -90,7 +90,7 @@ He said to his servants,
 “Go on ahead of me.
 Leave a space between one herd and the next.”
 [17] He gave a command to the first servant:
-“My brother Esau will meet you and ask you,
+“When my brother Esau meets you and asks you,
 ‘Whose servant are you? Where are you going? And whose animals are these in front of you?’
 [18] Then you must say,
 ‘They belong to your servant Jacob.
@@ -157,8 +157,9 @@ and yet my life was spared.”
 
 [31] The sun rose on him as he passed Peniel.
 He was limping because of his hip.
-[32] That is why the people of Israel do not eat the muscle at the hip, which lies on the hip socket, to this very day.
-For the man struck Jacob’s hip socket at this muscle.
+[32] That is why the people of Israel do not eat the sinew of the hip, which lies on the hip socket, to this very day.
+For the man struck Jacob’s hip socket at this sinew.
+A sinew is a tough cord in the body.
 
 > **What does this mean?**
 > This is one of the most mysterious stories in the Bible. Jacob is alone at night, full of fear of the next day. Suddenly a stranger wrestles with him.
@@ -169,4 +170,4 @@ For the man struck Jacob’s hip socket at this muscle.
 > Then he gets a new name: **Israel**. That means “God fights” or “He fought with God.” From now on, the whole people is named after him: Israel.
 > “Peniel” (also Penuel) means “face of God.” People believed: Whoever sees God must die. Jacob is amazed that he is alive.
 > Jacob comes out of the fight as the winner, but he limps. Whoever truly meets God does not stay the same. His strength no longer lies in his tricks, but in God’s blessing.
-> To this day, many Jews do not eat this muscle (the sciatic nerve) of cattle or sheep. This reminds them of this fight.
+> To this day, many Jews do not eat this sinew (the sciatic nerve) of cattle or sheep. This reminds them of this fight.

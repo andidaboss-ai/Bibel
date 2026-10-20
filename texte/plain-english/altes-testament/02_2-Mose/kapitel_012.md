@@ -51,7 +51,7 @@ It is the LORD’s Passover.
 > Every family is to join the celebration. Small and poor families too: They join together with their neighbors.
 > The blood on the door is a sign of protection.
 > Unleavened bread is bread without sourdough or yeast. It is flat and quick to make. There is no time to wait for the dough to rise.
-> The bitter herbs are a reminder of the bitter life in slavery (Chapter 1:14).
+> The bitter herbs are a reminder of the bitter life in slavery (Exodus 1:14).
 > People eat dressed and ready to travel, with shoes on their feet. Very soon they will set out into freedom.
 
 ---

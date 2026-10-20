@@ -218,7 +218,7 @@ An inheritance is land that a family receives and keeps for its children.
 To a small tribe you must give a small inheritance.
 Each tribe is to receive its inheritance by the number of its people who were counted.
 [55] But the land is to be divided by lot.
-They will inherit by the names of the tribes of their fathers.
+They will inherit by the names of the tribes of their ancestors.
 [56] By the lot, their inheritance is to be divided between the large and the small tribes.”
 Casting lots was a way to decide something, a little like drawing straws.
 

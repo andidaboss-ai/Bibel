@@ -44,7 +44,7 @@ Then Moses went out from Pharaoh, burning with anger.
 
 > **What does this mean?**
 > This is the most terrible plague. Many readers ask: How can God do something like this?
-> The Bible tells it like this: Pharaoh was the first to have the Hebrew babies killed (Chapter 1). God warned him: “Israel is my son, my firstborn. … So I will kill your son, your firstborn” (Chapter 4:22–23). Pharaoh had the chance to turn around nine times. He did not use it.
+> The Bible tells it like this: Pharaoh was the first to have the Hebrew babies killed (Chapter 1). God warned him: “Israel is my son, my firstborn. … So I will kill your son, your firstborn” (Exodus 4:22–23). Pharaoh had the chance to turn around nine times. He did not use it.
 > The plague strikes everyone, from the king’s family to the poorest slave woman at the mill. Through his stubbornness, Pharaoh brings endless suffering on his own people.
 > The Bible does not make this look nice. It shows: Whoever refuses God again and again and oppresses others brings death on himself and on others.
 > To this day, at the Passover festival, many Jews let a drop of wine fall from their cup for each plague as they tell the story. This shows: We are glad about our freedom – but we also grieve over the suffering of the Egyptians.
