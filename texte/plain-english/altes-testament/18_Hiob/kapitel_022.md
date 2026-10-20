@@ -23,7 +23,7 @@ Is that why he takes you to court?
 
 ## The concrete accusations (Verses 5–11)
 
-[5] Isn’t your evil great?
+[5] “Isn’t your evil great?
 Your guilt has no end.
 [6] For you took things from your brothers as security for a debt, for no reason.
 You took the clothes off people and left them naked.

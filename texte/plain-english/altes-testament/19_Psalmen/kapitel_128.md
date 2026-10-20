@@ -26,4 +26,4 @@ May there be peace on Israel!
 > A picture of happiness in everyday life: work that pays off, a family at the table, grandchildren.
 > Verse 3: The grapevine and the olive tree were the most important plants in the land. They stand for life, joy and new growth. Young olive shoots grow all around the old tree, just as children sit around the table.
 > This psalm is often prayed at weddings. Blessing does not only show itself in big things, but also in quite ordinary life at home.
-> People who live alone or who have no family are not shut out from the blessing. God’s blessing comes “from Zion”, that is, from God himself, not from the circumstances of life.
+> People who live alone or who have no family are not shut out from the blessing. God’s blessing comes “from Zion,” that is, from God himself, not from the circumstances of life.

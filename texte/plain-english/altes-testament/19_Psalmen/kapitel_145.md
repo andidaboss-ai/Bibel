@@ -23,7 +23,7 @@ and they will sing about your righteousness.
 
 > **What does this mean?**
 > Psalm 145 is the last alphabet poem in the book of Psalms: In Hebrew, each verse begins with the next letter of the alphabet.
-> It is the only psalm that is called a “psalm of praise” (in Hebrew “tehillah”) in its heading. The Hebrew name of the whole book of Psalms comes from this word: “Tehillim”, songs of praise.
+> It is the only psalm that is called a “psalm of praise” (in Hebrew “tehillah”) in its heading. The Hebrew name of the whole book of Psalms comes from this word: “Tehillim,” songs of praise.
 > In Judaism, Psalm 145 is prayed three times a day. The Talmud says: Whoever prays it every day belongs to the world to come.
 > Verse 4: Faith is passed on from generation to generation: from parents to children, from grandparents to grandchildren.
 
@@ -49,7 +49,7 @@ and loving in all his deeds.
 > **What does this mean?**
 > Verse 8 is the great statement that God himself said to Moses (Exodus 34:6). It comes up again and again in the Bible.
 > Verse 9: “Good to all”: God’s goodness is not only for one people, but for all people and for all of creation.
-> Verse 13: In the standard Hebrew text, the verse with the letter “Nun” is missing. It has been kept in an old handwritten copy from Qumran and in the Greek translation: “The LORD is faithful in all his words …” The World English Bible, which this book is based on, includes it in verse 13. So the alphabet is complete.
+> Verse 13: In the standard Hebrew text, the verse with the letter “Nun” is missing. It has been kept in an old handwritten copy from Qumran and in the Greek translation: “The LORD is faithful in all his words …” The WEB, our English source text, includes it in verse 13. So the alphabet is complete.
 
 ---
 

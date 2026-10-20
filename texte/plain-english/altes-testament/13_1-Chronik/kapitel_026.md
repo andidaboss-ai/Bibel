@@ -69,7 +69,7 @@ His lot was the north gate.
 His sons got the storehouse.
 [16] Shuppim and Hosah got the west gate.
 It was by the Shallecheth Gate, on the road that goes up.
-The guards stood side by side.
+Guard stood across from guard.
 [17] On the east side there were six Levites each day.
 On the north side there were four each day.
 On the south side there were four each day.

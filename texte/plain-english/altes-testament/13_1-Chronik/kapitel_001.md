@@ -129,7 +129,7 @@ Ephah, Epher, Hanoch, Abida, and Eldaah.
 All these were the sons of Keturah.
 
 > **What does this mean?**
-> Ishmael, the older son of Abraham, also had twelve sons, just as God had promised (Genesis 17:20). Many Arabs and Muslims see Ishmael as their ancestor.
+> Ishmael, the older son of Abraham, also had 12 sons, just as God had promised (Genesis 17:20). Many Arabs and Muslims see Ishmael as their ancestor.
 > Keturah was another wife of Abraham after Sarah’s death (Genesis 25:1–4). From her son Midian come the Midianites. Moses’ wife Zipporah was a Midianite.
 > Chronicles does not forget Abraham’s other sons. God had promised Abraham that all nations would be blessed through him.
 

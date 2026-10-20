@@ -44,6 +44,6 @@ I will hope in your name, for it is good,
 in front of those who are faithful to you.
 
 > **What does this mean?**
-> The evil man will be “pulled up by the roots” (verse 5). But the righteous person is like an olive tree that is firmly rooted in the ground and stays green.
-> Olive trees grow very old, some more than a thousand years. They are a picture of lasting strength and blessing.
+> The evil man will be pulled up “by the roots” (verse 5). But the righteous person is like an olive tree that is firmly rooted in the ground and stays green.
+> Olive trees grow very old, some more than 1,000 years. They are a picture of lasting strength and blessing.
 > “In God’s house”: Trees may have grown in the temple area. Whoever lives close to God stays alive and bears fruit (compare Psalm 1:3).

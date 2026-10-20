@@ -49,7 +49,7 @@ Do not harm my prophets!”
 > **What does this mean?**
 > God promised Abraham, Isaac and Jacob that he would give the land of Canaan to their descendants (Genesis 12:7; 26:3; 28:13).
 > When the family was still small and moved around as foreigners, God protected them. He even warned kings, for example Pharaoh and Abimelech (Genesis 12:17; 20:3).
-> “My anointed ones” and “my prophets”: This means Abraham, Isaac and Jacob. In Genesis 20:7, Abraham is called a “prophet”.
+> “My anointed ones” and “my prophets”: This means Abraham, Isaac and Jacob. In Genesis 20:7, Abraham is called a “prophet.”
 
 ---
 

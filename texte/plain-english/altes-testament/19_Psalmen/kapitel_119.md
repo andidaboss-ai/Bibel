@@ -26,7 +26,7 @@ Do not leave me all alone!
 > **What does this mean?**
 > Psalm 119 is the longest psalm and the longest chapter in the Bible: 176 verses.
 > It is a skillfully made alphabet poem. It has 22 sections, as many as there are letters in the Hebrew alphabet. In each section, all eight verses begin with the same letter: in the first section with Aleph, in the second with Beth, and so on. The headings name these letters.
-> Almost every verse speaks about God’s word. In Hebrew, eight different words are used for it. In this book, they appear as words like law (in Hebrew “Torah”, which means teaching), rules, teachings, instructions, commandments, rulings, word and promise. They all mean the same thing: what God has told us so that we can live well.
+> Almost every verse speaks about God’s word. In Hebrew, eight different words are used for it. In this book, they appear as words like law (in Hebrew “Torah,” which means teaching), rules, teachings, instructions, commandments, rulings, word and promise. They all mean the same thing: what God has told us so that we can live well.
 > This psalm is not a dry law book. It is a love song to God’s word and to God himself. The person praying is happy about God’s word. He longs for it. He looks for comfort in it, even in suffering and persecution.
 > Verses 1–3 remind us of Psalm 1: Happy is the person who lives by God’s teaching.
 
@@ -78,7 +78,7 @@ your servant will think deeply about your rules.
 They are my advisers.
 
 > **What does this mean?**
-> Verse 18: A beautiful prayer before reading the Bible: “Open my eyes”. We need God’s help to understand the depth of his word.
+> Verse 18: A beautiful prayer before reading the Bible: “Open my eyes.” We need God’s help to understand the depth of his word.
 > Verse 19: “I am a stranger on the earth”: Life is like a journey in a foreign country. God’s commandments are like a map.
 > Verse 24: God’s words are like good advisers.
 
@@ -155,7 +155,7 @@ because I love them.
 I will think deeply about your rules.
 
 > **What does this mean?**
-> Verse 45: “I will walk in freedom”: In Hebrew, it says “in a wide space”. God’s commandments do not lead into a narrow place, but into freedom.
+> Verse 45: “I will walk in freedom”: In Hebrew, it says “in a wide space.” God’s commandments do not lead into a narrow place, but into freedom.
 > Verse 46: The person praying has the courage to speak about God even in front of powerful people.
 
 ---
@@ -543,7 +543,7 @@ I love them very much.
 because you see all my ways.
 
 > **What does this mean?**
-> In the World English Bible, this section is called “Sin and Shin”, because the Hebrew letter has two ways of being pronounced.
+> In the World English Bible, this section is called “Sin and Shin,” because the Hebrew letter has two ways of being pronounced.
 > Verse 162: Discovering God’s word is like finding a treasure.
 > Verse 164: “Seven times a day”: again and again, all the time. The seven prayer times in many monasteries are based on this.
 > Verse 165: “Those who love your law have great peace”: a beautiful promise.
@@ -572,6 +572,6 @@ because I do not forget your commandments.
 
 > **What does this mean?**
 > The last section sums everything up: crying out, asking for help, praising, singing.
-> Verse 176 is an amazing ending. After 175 verses full of love for God’s word, the person praying admits: “I have wandered like a lost sheep. Look for your servant”.
+> Verse 176 is an amazing ending. After 175 verses full of love for God’s word, the person praying admits: “I have wandered like a lost sheep. Look for your servant.”
 > This shows: Even someone who loves God’s word is not perfect. In the end, all of us depend on God looking for us and finding us.
 > Jesus tells the parable of the good shepherd who looks for the lost sheep until he finds it (Luke 15:4–7).

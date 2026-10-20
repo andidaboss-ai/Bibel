@@ -35,7 +35,7 @@ than to trust in people.
 than to trust in princes.
 
 > **What does this mean?**
-> Verse 5: “Set me free”: In Hebrew, it says: “into a wide place”. God leads us out of the narrow place of trouble into a wide, open space.
+> Verse 5: “Set me free”: In Hebrew, it says: “into a wide place.” God leads us out of the narrow place of trouble into a wide, open space.
 > Verse 6: “The LORD is on my side. I will not be afraid”: compare Hebrews 13:6.
 > Verses 8–9: People, even powerful ones, can let us down. God is more reliable.
 

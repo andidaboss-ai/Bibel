@@ -10,8 +10,8 @@ They made him king in Jerusalem in place of his father.
 [2] Joahaz was 23 years old when he became king.
 He ruled for three months in Jerusalem.
 [3] Then the king of Egypt removed him from power in Jerusalem.
-He made the land pay 100 talents of silver and a talent of gold.
-That is about 7,500 pounds of silver and 75 pounds of gold.
+He made the land pay 100 talents of silver (about 7,500 pounds)
+and a talent of gold (about 75 pounds).
 [4] The king of Egypt made Eliakim, the brother of Joahaz, king over Judah and Jerusalem.
 He changed Eliakim’s name to Jehoiakim.
 Neco took Joahaz, Eliakim’s brother, to Egypt.
@@ -26,10 +26,10 @@ Neco took Joahaz, Eliakim’s brother, to Egypt.
 ## Jehoiakim (Verses 5–8)
 
 [5] Jehoiakim was 25 years old when he became king.
-He ruled for eleven years in Jerusalem.
+He ruled for 11 years in Jerusalem.
 He did what was evil in the eyes of the LORD his God.
 [6] Nebuchadnezzar, king of Babylon, attacked him.
-He tied him up with bronze chains to take him to Babylon.
+He put him in shackles to take him to Babylon.
 [7] Nebuchadnezzar also took some of the objects from the LORD’s house to Babylon.
 He put them in his temple in Babylon.
 [8] There is more to tell about Jehoiakim,
@@ -49,7 +49,7 @@ His son Jehoiachin became king after him.
 ## Jehoiachin (Verses 9–10)
 
 [9] Jehoiachin was eight years old when he became king.
-He ruled for three months and ten days in Jerusalem.
+He ruled for 3 months and 10 days in Jerusalem.
 He did what was evil in the LORD’s eyes.
 [10] When the new year came,
 King Nebuchadnezzar sent for him and had him brought to Babylon.
@@ -67,7 +67,7 @@ He made Jehoiachin’s brother Zedekiah king over Judah and Jerusalem.
 ## Zedekiah and the guilt of the people (Verses 11–16)
 
 [11] Zedekiah was 21 years old when he became king.
-He ruled for eleven years in Jerusalem.
+He ruled for 11 years in Jerusalem.
 [12] He did what was evil in the eyes of the LORD his God.
 Jeremiah the prophet spoke to him the words that came from the LORD’s mouth.
 But Zedekiah did not humble himself before him.
@@ -129,23 +129,22 @@ until 70 years were complete.
 
 ## The decree of Cyrus: a new beginning (Verses 22–23)
 
-[22] It was the first year of Cyrus, king of Persia.
-The LORD wanted the word he had spoken through Jeremiah to come true.
-So the LORD moved the heart of Cyrus, king of Persia.
-Cyrus sent out an announcement in his whole kingdom.
-He also put it in writing.
-It said:
-[23] “Cyrus, king of Persia, says this:
+[22] In the first year of Cyrus king of Persia,
+so that the LORD’s word through Jeremiah’s mouth would come true,
+the LORD stirred up the spirit of Cyrus king of Persia,
+so that he made an announcement throughout all his kingdom,
+and also put it in writing:
+[23] “Cyrus king of Persia says,
 ‘The LORD, the God of heaven, has given me all the kingdoms of the earth.
-He has commanded me to build a house for him in Jerusalem, in Judah.
-Whoever among you belongs to his people,
+And he has commanded me to build him a house in Jerusalem, which is in Judah.
+Whoever there is among you of all his people,
 may the LORD his God be with him.
 Let him go up.’”
 
 > **What does this mean?**
 > In the year 539 BC, the Persian king Cyrus conquered Babylon. One year later, he allowed the peoples who had been carried away to return to their homelands and to build their temples again. On the so-called “Cyrus Cylinder,” a clay cylinder in the British Museum, Cyrus himself reports about this policy.
-> The book does not end with the destruction, but with a new beginning. The last words are: “Let him go up!” In Hebrew, this is one single word: “veya’al.”
-> In the Hebrew Bible, Chronicles is the last book. So the whole Hebrew Bible ends with this sentence: an invitation to return home and to begin new with God.
+> The book does not end with the destruction, but with a new beginning. The last words are: “Let him go up.” In Hebrew, this is one single word: “veya’al.”
+> In the Hebrew Bible, Chronicles is the last book. So the whole Hebrew Bible ends with this sentence: an invitation to return home and to make a new start with God.
 > The same words are at the beginning of the book of Ezra (Ezra 1:1–3). The story continues there.
 
 ---
@@ -160,6 +159,6 @@ Let him go up.’”
 > – **Bad kings** like Ahaz and Manasseh serve foreign gods. But even Manasseh, the worst of all, may turn back, and God forgives him.
 > **The prophets:** God sends messengers again and again: Shemaiah, Azariah, Hanani, Micaiah, Jahaziel, Elijah, Zechariah, Oded, Isaiah, Huldah, Jeremiah and many others. God warns before he punishes, because he “had compassion on his people” (Chapter 36:15).
 > **Prayer and praise:** The kings pray in great need, and God helps. Under Jehoshaphat the singers go in front of the army and praise God, and God saves. “The battle is not yours, but God’s” (Chapter 20:15).
-> **The end and the new beginning:** Because the people mock the prophets, Jerusalem is destroyed. But the book ends with hope: the Persian king Cyrus allows the return and the building of a new temple. The last words are: “Let him go up!”
-> **The lesson of the book:** God looks at the heart. It does not matter how strong an army is or how rich a king, but whether you seek God “with all your heart”. And it is never too late to turn back.
+> **The end and the new beginning:** Because the people mock the prophets, Jerusalem is destroyed. But the book ends with hope: the Persian king Cyrus allows the return and the building of a new temple. The last words are: “Let him go up.”
+> **The lesson of the book:** God looks at the heart. It does not matter how strong an army is or how rich a king, but whether you seek God “with all your heart.” And it is never too late to turn back.
 > **What comes next?** The book of Ezra tells how the exiles return to Jerusalem and build the temple again.

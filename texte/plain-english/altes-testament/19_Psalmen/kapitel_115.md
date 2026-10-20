@@ -60,7 +60,7 @@ who made heaven and earth.
 
 > **What does this mean?**
 > Three groups are called: the whole people of Israel, the priests (the family of Aaron), and all who fear God. The third group may also include people from other nations who have joined themselves to the God of Israel.
-> Verse 13: God blesses everyone, “both small and great”. No one is too unimportant for God.
+> Verse 13: God blesses everyone, “both small and great.” No one is too unimportant for God.
 
 ---
 
@@ -77,4 +77,4 @@ Praise Yah!
 
 > **What does this mean?**
 > Verse 16: God has trusted people with the earth. That is a gift and a responsibility (compare Genesis 1:28; 2:15).
-> Verses 17–18: As long as we live, we want to praise God, and to do so “forever”.
+> Verses 17–18: As long as we live, we want to praise God, and to do so “forever.”

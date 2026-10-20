@@ -34,7 +34,7 @@ They will say,
 ‘Why has the LORD done this to this land and to this house?’
 [9] And people will answer,
 ‘Because they left the LORD their God.
-He brought their fathers out of the land of Egypt.
+He brought their ancestors out of the land of Egypt.
 But they held on to other gods.
 They worshiped them and served them.
 That is why the LORD has brought all this disaster on them.’”
@@ -49,22 +49,22 @@ That is why the LORD has brought all this disaster on them.’”
 
 ## Solomon and Hiram (Verses 10–14)
 
-[10] Solomon spent twenty years building the two houses,
+[10] Solomon spent 20 years building the two houses,
 the LORD’s house and the king’s house.
 [11] Hiram, the king of Tyre, had given Solomon cedar wood and cypress wood
 and gold, as much as he wanted.
-After the twenty years, King Solomon gave Hiram twenty cities in the land of Galilee.
+After the 20 years, King Solomon gave Hiram 20 cities in the land of Galilee.
 [12] Hiram came out of Tyre to see the cities that Solomon had given him.
 But he did not like them.
 [13] He said,
 “My brother, what kind of cities are these that you have given me?”
 He called them the land of Cabul.
 They still have that name today.
-[14] Hiram sent the king about 4½ tons of gold.
+[14] Hiram sent the king 120 talents of gold (about 9,000 pounds).
 
 > **What does this mean?**
-> Twenty years of building: seven years for the temple and thirteen for the palace.
-> Solomon pays Hiram with twenty cities. That is worth noticing: he gives away land of Israel. The land was really God’s inheritance for his people.
+> 20 years of building: 7 years for the temple and 13 for the palace.
+> Solomon pays Hiram with 20 cities. That is worth noticing: he gives away land of Israel. The land was really God’s inheritance for his people.
 > Hiram is disappointed. In Hebrew “Cabul” sounds like “as good as nothing.”
 > The Bible says “120 talents of gold.” A talent is about 75 pounds. It is not fully clear whether Hiram paid the gold for the cities or had given it earlier as a loan.
 > 2 Chronicles 8:2 tells it differently: there Hiram gives cities to Solomon.
@@ -121,7 +121,7 @@ It is near Eloth, on the shore of the Red Sea, in the land of Edom.
 [27] Hiram sent his servants with the ships.
 They were sailors who knew the sea.
 They sailed together with Solomon’s servants.
-[28] They came to Ophir and got about 16 tons of gold there.
+[28] They came to Ophir and got 420 talents of gold there (about 31,500 pounds).
 They brought it to King Solomon.
 
 > **What does this mean?**

@@ -27,4 +27,4 @@ carrying his bundles of grain.
 > The psalm remembers the return home from exile in Babylon. It was so unbelievably wonderful that it felt like a dream.
 > Verse 4: The Negev is a desert in the south. The stream beds there are dry most of the time. But when rain comes, they suddenly fill with water, and everything turns green. In the same way, God should bring life again.
 > Verses 5–6 are a great comfort: Whoever cries now will laugh again. Tears are like seeds. The harvest will come.
-> The composer Johannes Brahms set these verses to music in his “German Requiem”.
+> The composer Johannes Brahms set these verses to music in his “German Requiem.”

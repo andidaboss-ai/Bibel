@@ -55,13 +55,12 @@ With him there is no favoring of anyone, and no taking of bribes.”
 [8] In Jerusalem, too, Jehoshaphat appointed some Levites, priests,
 and heads of the families of Israel.
 They were to judge for the LORD and settle quarrels.
-They lived in Jerusalem.
+They returned to Jerusalem.
 [9] He gave them this order:
 “Do this with respect and fear for the LORD.
 Be faithful, and serve with your whole heart.
 [10] Your brothers who live in their cities will bring cases to you.
 It may be a case of blood and blood.
-That means: a case where someone was killed.
 Or it may be a question about the law, a commandment, rules, or laws.
 In every case you must warn them,
 so that they do not become guilty before the LORD.
@@ -76,6 +75,6 @@ May the LORD be with the good!”
 
 > **What does this mean?**
 > In Jerusalem there is now a highest court for difficult cases (compare Deuteronomy 17:8–13).
-> “Blood and blood” means cases of killing or murder: was it on purpose or an accident?
+> Verse 10: “Blood and blood” means a case where someone was killed: was it on purpose or an accident?
 > It is remarkable that there are two areas. The chief priest is responsible for religious questions, a prince for matters of the state. This is an early form of the separation of powers.
 > “May the LORD be with the good!”: God is on the side of those who judge fairly.

@@ -102,6 +102,6 @@ He, his sons, and his relatives were 12.
 
 > **What does this mean?**
 > Again the lot decides, as with the priests. “The teacher as well as the student”: all are equal, whether experienced or new.
-> Each group had twelve singers. So there were always enough musicians for worship.
+> Each group had 12 singers. So there were always enough musicians for worship.
 > Some names are spelled a little differently than in verses 2–4: Izri is Zeri, Jesharelah is Asharelah, Azarel is Uzziel, Shubael is Shebuel, Jeremoth is Jerimoth.
-> For the first group (Joseph) the word “twelve” is missing. It was probably lost when the text was copied.
+> For the first group (Joseph) the number 12 is missing. It was probably lost when the text was copied.

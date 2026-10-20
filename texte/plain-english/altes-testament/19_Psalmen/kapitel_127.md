@@ -28,5 +28,5 @@ when they speak with their enemies in the gate.
 > This psalm is linked with Solomon, the king who built the temple.
 > Verses 1–2: People can wear themselves out from morning to night. But without God’s blessing, all the work brings nothing. This is not a call to be lazy, but a call to be calm. God gives rest and sleep.
 > Verse 2 also says: Sleep is a gift from God. Whoever allows themselves no rest because of so many worries and so much work may hear this.
-> Verses 3–5: Children are a gift from God, not a possession. Back then, many children gave a family security. Arguments and court cases were settled in the “gate”. Grown children could support their parents there.
+> Verses 3–5: Children are a gift from God, not a possession. Back then, many children gave a family security. Arguments and court cases were settled in the “gate.” Grown children could support their parents there.
 > People who have no children, or who cannot have children, are not less blessed by God because of it. The Bible tells about many people without children whom God loves.

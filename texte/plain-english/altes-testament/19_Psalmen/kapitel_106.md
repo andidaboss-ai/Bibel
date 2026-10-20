@@ -87,7 +87,7 @@ to turn his anger away, so that he would not destroy them.
 
 > **What does this mean?**
 > At Mount Horeb (Sinai), they made the golden calf (Exodus 32).
-> Verse 20: How foolish: They traded the living God, their “glory”, for the image of an animal that eats grass!
+> Verse 20: How foolish: They traded the living God, their “glory,” for the image of an animal that eats grass!
 > Verse 23: Moses stood up for the people, like a soldier who stands in a gap in the wall. It is a picture for praying for others (Exodus 32:11–14).
 
 ---
@@ -112,7 +112,7 @@ for all generations to come.
 
 > **What does this mean?**
 > Verses 24–27: The people refused to go into the promised land because they were afraid (Numbers 13–14). That is why they had to stay in the wilderness for 40 years.
-> Verse 28: The people of Israel “ate the sacrifices offered to the dead”. This means sacrifices to dead idols, or sacrifices in rituals for the dead. This happened at Baal Peor. There, people of Israel worshiped a foreign god (Numbers 25).
+> Verse 28: The people of Israel “ate the sacrifices offered to the dead.” This means sacrifices to dead idols, or sacrifices in rituals for the dead. This happened at Baal Peor. There, people of Israel worshiped a foreign god (Numbers 25).
 > Verses 30–31: Phinehas, a priest, stepped in with violence at that time (Numbers 25:7–13). The Bible tells this as a judgment in the time of Moses. It does not allow anyone today to use violence in the name of God. Jesus clearly rejected violence in the name of God (Luke 9:54–55; Matthew 26:52).
 
 ---
@@ -191,5 +191,5 @@ Praise Yah!
 
 > **What does this mean?**
 > Verse 47: A prayer from the exile: Gather us again! Bring us home!
-> Verse 48 is the end of the fourth book of Psalms (Psalm 90–106). Here all the people are called to answer with “Amen”.
+> Verse 48 is the end of the fourth book of Psalms (Psalm 90–106). Here all the people are called to answer with “Amen.”
 > With Psalm 107, the fifth and last book of Psalms begins.

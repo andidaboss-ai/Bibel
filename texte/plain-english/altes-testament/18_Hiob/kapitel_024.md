@@ -24,7 +24,7 @@ The poor of the land all have to hide.
 
 ## How the poor live (Verses 5–12)
 
-[5] Look, like wild donkeys in the desert,
+[5] “Look, like wild donkeys in the desert,
 they go out to their work.
 They search hard for food.
 The wilderness gives them bread for their children.

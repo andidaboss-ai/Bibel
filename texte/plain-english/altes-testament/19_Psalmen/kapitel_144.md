@@ -40,7 +40,7 @@ and whose right hand is a hand that lies.
 [9] I will sing a new song to you, God.
 I will sing praises to you on a lyre with ten strings.
 A lyre is a small harp.
-[10] You are the one who gives victory to kings,
+[10] You are the one who saves kings,
 who rescues David, his servant, from the deadly sword.
 [11] Rescue me and save me out of the hands of foreigners,
 whose mouths speak lies,

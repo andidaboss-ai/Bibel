@@ -131,8 +131,8 @@ by the tower of Hananel and the tower of Hammeah, as far as the Sheep Gate.
 They stopped at the Gate of the Guard.
 [40] Then both choirs of those who gave thanks took their places in God’s house.
 I did the same, and so did half of the leaders who were with me.
-[41] and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets,
-[42] and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer.
+[41] The priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah were there with trumpets,
+[42] and also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer.
 The singers sang loudly.
 Jezrahiah was their leader.
 
@@ -160,7 +160,7 @@ The joy in Jerusalem could be heard far away.
 ## Providing for the temple service (Verses 44–47)
 
 [44] On that day men were put in charge of the storerooms.
-The treasures, the offerings, the first fruits, and the tithes were kept there.
+The treasures, the wave offerings, the first fruits, and the tithes were kept there.
 A tithe is a tenth of the harvest.
 The law set a share for the priests and the Levites.
 The men were to gather these shares from the fields around the cities and bring them into the storerooms.

@@ -42,7 +42,7 @@ and all the harvest of the field from the day she left the land until now.”
 ## Hazael becomes king of Syria (Verses 7–15)
 
 [7] Elisha came to Damascus.
-Ben Hadad the king of Syria was sick.
+Benhadad, the king of Syria, was sick.
 He was told,
 “The man of God has come here.”
 [8] The king said to Hazael,
@@ -54,8 +54,8 @@ and ask the LORD through him,
 He took a gift with him, of every good thing from Damascus,
 as much as 40 camels could carry.
 He came, stood in front of him, and said,
-“Your son Ben Hadad king of Syria has sent me to you
-to ask,
+“Your son Benhadad, the king of Syria, has sent me to you.
+He asks,
 ‘Will I get well from this sickness?’”
 [10] Elisha said to him,
 “Go and tell him, ‘You will surely get well.’
@@ -86,43 +86,46 @@ so that he died.
 And Hazael became king in his place.
 
 > **What does this mean?**
-> Elisha is known and respected even in the land of the enemies. The king of Syria calls himself “your son”.
-> Elisha’s answer sounds contradictory: the sickness itself will not kill Ben Hadad. But he will die anyway, by murder.
+> Elisha is known and respected even in the land of the enemies. The king of Syria calls himself “your son.”
+> Elisha’s answer sounds contradictory: the sickness itself will not kill Benhadad. But he will die anyway, by murder.
 > Then Elisha looks at Hazael for a long time and weeps. He sees ahead how much suffering this man will bring on Israel. The prophet is not glad about the coming disaster. He weeps over the victims.
 > The cruel acts in verse 12 were sadly common in war in those days. The Bible describes them as evil, not as something good. Today such acts are war crimes.
 > Hazael pretends to be too small and unimportant (“only a dog”). But the very next day he murders his king. In truth he wanted power.
 > At Horeb, God had told Elijah that Hazael was to become king (1 Kings 19:15). That now comes true, but through Hazael’s own evil deed.
-> Hazael is also known outside the Bible. An Assyrian inscription calls him a “son of a nobody”, that is, a man without royal family who grabbed the throne for himself.
+> Hazael is also known outside the Bible. An Assyrian inscription calls him a “son of a nobody,” that is, a man without royal family who grabbed the throne for himself.
 
 ---
 
 ## Jehoram, king of Judah (Verses 16–24)
 
-[16] In the fifth year of Joram the son of Ahab, king of Israel,
-while Jehoshaphat was still king of Judah,
-Jehoram the son of Jehoshaphat, king of Judah, began to rule.
-[17] He was 32 years old when he became king,
-and he ruled for eight years in Jerusalem.
-[18] He walked in the way of the kings of Israel,
-as Ahab’s house did,
-because he had married Ahab’s daughter.
+[16] Joram, the son of Ahab, was king of Israel.
+In the fifth year of his rule, Jehoram became king of Judah.
+Jehoram was the son of Jehoshaphat, the king of Judah.
+At that time Jehoshaphat was still king of Judah.
+[17] Jehoram was 32 years old when he became king.
+He ruled for eight years in Jerusalem.
+[18] He lived the way the kings of Israel lived,
+just as Ahab’s family did.
+He had married Ahab’s daughter.
 He did what was evil in the LORD’s eyes.
-[19] But the LORD would not destroy Judah,
-for the sake of his servant David,
-as he had promised to give him a lamp for his children always.
-[20] In his days Edom rebelled against the rule of Judah
-and made a king over themselves.
-[21] Then Joram crossed over to Zair, and all his chariots with him.
-He got up by night
-and struck the Edomites who had surrounded him, and the captains of the chariots.
+[19] But the LORD did not want to destroy Judah,
+for the sake of his servant David.
+He had promised David to give him a lamp for his children forever.
+[20] In Jehoram’s time, Edom rebelled against the rule of Judah.
+The Edomites made a king for themselves.
+[21] Then Joram crossed over to Zair with all his chariots.
+He got up by night.
+The Edomites had surrounded him and the commanders of his chariots.
+He attacked them.
 And the people fled to their tents.
-[22] So Edom rebelled against the rule of Judah, and it stays that way to this day.
-Libnah also rebelled at the same time.
-[23] The rest of the things Joram did, and all that he did,
-aren’t they written in the book of the chronicles of the kings of Judah?
+[22] So Edom broke away from the rule of Judah,
+and it is still that way to this day.
+At the same time Libnah also rebelled.
+[23] The rest of Joram’s story and everything he did
+are written in the book of the chronicles of the kings of Judah.
 [24] Joram died and joined his ancestors.
-He was buried with his fathers in David’s city.
-And his son Ahaziah became king in his place.
+He was buried with his ancestors in David’s city.
+His son Ahaziah became king in his place.
 
 > **What does this mean?**
 > Now Ahab’s house also has influence in Judah: King Jehoram of Judah has married Ahab’s daughter Athaliah. With this, the worship of Baal also comes to Jerusalem.
@@ -136,27 +139,29 @@ And his son Ahaziah became king in his place.
 
 ## Ahaziah, king of Judah (Verses 25–29)
 
-[25] In the twelfth year of Joram the son of Ahab, king of Israel,
-Ahaziah the son of Jehoram, king of Judah, began to rule.
-[26] Ahaziah was 22 years old when he became king,
-and he ruled for one year in Jerusalem.
-His mother’s name was Athaliah, the daughter of Omri king of Israel.
-[27] He walked in the way of Ahab’s house
-and did what was evil in the LORD’s eyes, as Ahab’s house did.
-For he was related to Ahab’s house by marriage.
-[28] He went with Joram the son of Ahab to war against Hazael king of Syria
-at Ramoth Gilead.
-And the Syrians wounded Joram.
-[29] King Joram went back to Jezreel
-to be healed from the wounds
-that the Syrians had given him at Ramah,
-when he fought against Hazael king of Syria.
-And Ahaziah the son of Jehoram, king of Judah,
-went down to Jezreel to see Joram the son of Ahab,
-because he was sick.
+[25] Joram, the son of Ahab, was king of Israel.
+In the twelfth year of his rule, Ahaziah became king of Judah.
+Ahaziah was the son of Jehoram, the king of Judah.
+[26] Ahaziah was 22 years old when he became king.
+He ruled for one year in Jerusalem.
+His mother’s name was Athaliah.
+She was the daughter of Omri, the king of Israel.
+[27] Ahaziah lived the way Ahab’s family lived.
+He did what was evil in the LORD’s eyes, just as Ahab’s family did.
+He was related to Ahab’s family by marriage.
+[28] He went with Joram, the son of Ahab, to war
+against Hazael, the king of Syria, at Ramoth Gilead.
+The Syrians wounded Joram.
+[29] So King Joram went back to Jezreel
+to be healed from his wounds.
+The Syrians had wounded him at Ramah,
+when he fought against Hazael, the king of Syria.
+Ahaziah, the son of Jehoram, the king of Judah,
+went down to Jezreel to see Joram, the son of Ahab,
+because Joram was wounded.
 
 > **What does this mean?**
 > Another Ahaziah: this one is king of Judah, a grandson of Ahab.
-> Here Athaliah is called “the daughter of Omri”. In Hebrew, “daughter” can also mean “granddaughter” or “descendant”. She was the daughter of Ahab and the granddaughter of Omri. She will play a terrible part in Chapter 11.
+> Here Athaliah is called “the daughter of Omri.” In Hebrew, “daughter” can also mean “granddaughter” or “descendant”. She was the daughter of Ahab and the granddaughter of Omri. She will play a terrible part in Chapter 11.
 > “Ramah” is a short form for Ramoth Gilead here.
 > The two kings, Joram of Israel and Ahaziah of Judah, are now together in Jezreel. That is important for the next chapter.

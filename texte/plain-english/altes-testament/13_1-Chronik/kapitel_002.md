@@ -3,14 +3,14 @@
 
 ---
 
-## The twelve sons of Israel (Verses 1–2)
+## The 12 sons of Israel (Verses 1–2)
 
 [1] These are the sons of Israel:
 Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 [2] Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
 
 > **What does this mean?**
-> Now Chronicles comes to its real subject: to Israel, that is, to Jacob and his twelve sons. From them come the twelve tribes of Israel.
+> Now Chronicles comes to its real subject: to Israel, that is, to Jacob and his 12 sons. From them come the 12 tribes of Israel.
 > The order is almost as in Genesis 35:23–26. Only Dan comes earlier here.
 
 ---
@@ -233,6 +233,6 @@ the father of the family of Rechab.
 
 > **What does this mean?**
 > Well-known places appear here: Kiriath Jearim, where the ark of the covenant stayed for 20 years (1 Samuel 7:1–2), and Bethlehem, the city of David. Later Jesus was born there.
-> In the WEB, verse 50 can be understood like this: Caleb is a son of Hur. But probably it means: These were the sons of Caleb. And then a new start: The son of Hur … Verses 50 to 55 then list the descendants of Hur.
+> In the WEB, our English source text, verse 50 can be understood like this: Caleb is a son of Hur. But probably it means: These were the sons of Caleb. And then a new start: The son of Hur … Verses 50 to 55 then list the descendants of Hur.
 > The Kenites were at first not an Israelite tribe. Moses’ father-in-law belonged to them (Judges 1:16). They became part of Judah. The Rechabites, whom we know from 2 Kings 10:15, belonged to them.
 > “Scribes” were people who could read and write. That was rare and important back then.

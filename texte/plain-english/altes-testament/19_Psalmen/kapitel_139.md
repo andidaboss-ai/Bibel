@@ -95,6 +95,6 @@ and lead me on the way that lasts forever!
 
 > **What does this mean?**
 > Verses 19–22 come as a surprise after such beautiful words. The person praying is full of anger about people who use violence and speak against God. He honestly tells God what he feels.
-> But then something important happens: He looks at himself. “Search me … See if there is any evil way in me”. He knows: There can be evil in me too, even hatred.
-> The psalm begins with “You have looked deep inside me” and ends with the request “Search me”. The person praying opens himself completely to God.
+> But then something important happens: He looks at himself. “Search me … See if there is any evil way in me.” He knows: There can be evil in me too, even hatred.
+> The psalm begins with “You have looked deep inside me” and ends with the request “Search me.” The person praying opens himself completely to God.
 > Hatred is not a way for today. Jesus teaches us to love even our enemies (Matthew 5:44).

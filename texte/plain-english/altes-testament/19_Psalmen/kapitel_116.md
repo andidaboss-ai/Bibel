@@ -19,7 +19,7 @@ I found trouble and sorrow.
 > **What does this mean?**
 > Psalm 116 is a personal song of thanks. The person praying was deathly sick or in danger of losing his life. God saved him.
 > It begins with a confession of love: “I love the LORD.” The reason: God listened.
-> The psalm belongs to the “Hallel”, which is sung at Passover.
+> The psalm belongs to the “Hallel,” which is sung at Passover.
 
 ---
 
@@ -61,7 +61,7 @@ yes, in front of all his people.
 > Verses 10–11: Even in trouble, the person praying did not stop believing. But he was disappointed in people: No one helped him.
 > Paul quotes verse 10 from the Greek translation: “I believed, and therefore I spoke” (2 Corinthians 4:13).
 > Verse 12: A beautiful question: How can I thank God for everything he has given me?
-> Verse 13: The answer: I lift up the “cup of salvation”, a cup of wine at the thanksgiving celebration, and I call on God’s name. Cups of wine are still drunk at the Passover meal today. Christians also think of the cup at the Lord’s Supper.
+> Verse 13: The answer: I lift up the “cup of salvation,” a cup of wine at the thanksgiving celebration, and I call on God’s name. Cups of wine are still drunk at the Passover meal today. Christians also think of the cup at the Lord’s Supper.
 
 ---
 

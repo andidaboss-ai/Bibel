@@ -14,8 +14,8 @@ for his loving kindness lasts forever.
 
 > **What does this mean?**
 > Psalm 136 is a song sung in turns. A leader sings the first line, and the whole congregation answers each time: “for his loving kindness lasts forever.” This happens 26 times.
-> The Hebrew word for “loving kindness” is “chesed”. It means faithful love that never stops.
-> In Judaism, this psalm is called “the Great Hallel”. Hallel means praise. It is sung at the festival of Passover.
+> The Hebrew word for “loving kindness” is “chesed.” It means faithful love that never stops.
+> In Judaism, this psalm is called “the Great Hallel.” Hallel means praise. It is sung at the festival of Passover.
 
 ---
 

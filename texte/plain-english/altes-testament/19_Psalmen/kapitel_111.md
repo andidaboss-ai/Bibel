@@ -39,7 +39,7 @@ He has set up his covenant forever.
 His name is holy and awesome!
 
 > **What does this mean?**
-> God’s commands are not random. They are “made with truth and uprightness”. They are good and can be trusted.
+> God’s commands are not random. They are “made with truth and uprightness.” They are good and can be trusted.
 > Verse 9: God has rescued his people, out of Egypt and later out of the exile.
 
 ---

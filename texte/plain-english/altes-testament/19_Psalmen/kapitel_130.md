@@ -31,5 +31,5 @@ from all their sins.
 > “Out of the depths”: The person praying is at the very bottom, as if in deep water. Maybe because of his guilt, maybe because of great trouble.
 > Verses 3–4: If God wrote down every wrong, no one would have a chance. But God forgives. And just because he forgives, people honor him with deep respect.
 > Verse 6: A night guard longs for the morning, when his watch is over. He knows: Morning will surely come. That is how the person praying waits for God.
-> Martin Luther made a hymn out of this psalm. In German, it is called “Aus tiefer Not schrei ich zu dir”. That means: “Out of deep need I cry to you.”
+> Martin Luther made a hymn out of this psalm. In German, it is called “Aus tiefer Not schrei ich zu dir.” That means: “Out of deep need I cry to you.”
 > If you are “in the depths” yourself and do not know what to do: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).

@@ -50,7 +50,7 @@ I have treasured the words of his mouth more than the food I need.
 
 ## God does what he wants (Verses 13–17)
 
-[13] “But he is the only one, and who can change his mind?
+[13] “But he is the only one, and who can stand against him?
 Whatever he desires, he does.
 [14] For he carries out what he has planned for me.
 He has many more plans like this.

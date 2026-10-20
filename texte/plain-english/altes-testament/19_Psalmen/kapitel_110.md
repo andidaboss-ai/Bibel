@@ -20,7 +20,7 @@ you have the dew of your youth.
 > **What does this mean?**
 > Psalm 110 is the psalm that is quoted most often in the New Testament (more than 20 times).
 > Verse 1: “The LORD says to my Lord”: The LORD is God. “My Lord” means the king. God invites the king to sit at his right side, the place of honor. God will put the enemies under the king’s feet. Back then, winners put their foot on the necks of those they had defeated.
-> Jesus asked the teachers of the law: If David calls the Messiah “my Lord”, how can the Messiah be only David’s son? (Mark 12:35–37). Christians believe that after his resurrection, Jesus sits at God’s right hand (Acts 2:34–36; Hebrews 1:13).
+> Jesus asked the teachers of the law: If David calls the Messiah “my Lord,” how can the Messiah be only David’s son? (Mark 12:35–37). Christians believe that after his resurrection, Jesus sits at God’s right hand (Acts 2:34–36; Hebrews 1:13).
 > Jewish people have understood the psalm as being about the king from David’s family or about the coming Messiah.
 > Verse 3 is very hard to understand in Hebrew. It probably means: The king is young and fresh like the dew in the morning.
 

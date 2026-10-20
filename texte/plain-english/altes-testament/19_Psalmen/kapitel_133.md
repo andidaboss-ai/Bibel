@@ -20,4 +20,4 @@ life forever.
 > A short, joyful psalm about community. “Brothers” means all who belong together: brothers and sisters, families, the whole people. At the pilgrim festivals, people from all the tribes came together.
 > Verse 2: Aaron, the first high priest, was anointed with sweet-smelling oil (Exodus 29:7). The oil flowed down richly. That is how rich and good it is when people live together in peace.
 > Verse 3: Hermon is a high mountain in the north with a lot of dew. Zion lies farther south and is drier. Unity is like fresh dew that brings life.
-> The beginning of this psalm is a well-known Jewish song: “Hine ma tov uma na’im”.
+> The beginning of this psalm is a well-known Jewish song: “Hine ma tov uma na’im.”
