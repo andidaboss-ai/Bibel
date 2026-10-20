@@ -5,8 +5,8 @@
 
 ## Ben Hadad surrounds Samaria (Verses 1–12)
 
-[1] Ben Hadad the king of Syria gathered his whole army.
-32 kings were with him, with horses and chariots.
+[1] Ben Hadad, the king of Syria, gathered his whole army.
+There were 32 kings with him, with horses and chariots.
 He went up, surrounded Samaria, and fought against it.
 [2] He sent messengers into the city to Ahab king of Israel and said to him,
 “Ben Hadad says:
@@ -36,7 +36,8 @@ But this thing I cannot do.’”
 The messengers left and brought him the answer.
 [10] Ben Hadad sent word to him:
 “May the gods do this to me and even more,
-if the dust of Samaria is enough for each of the people who follow me to get a handful.”
+if the dust of Samaria is enough
+to give a handful to each of the people who follow me!”
 [11] The king of Israel answered,
 “Tell him:
 ‘Don’t let the one who puts on his armor boast like the one who takes it off.’”
@@ -156,8 +157,8 @@ came to the king of Israel, and said,
 “Your servant Ben Hadad says, ‘Please let me live.’”
 He said,
 “Is he still alive? He is my brother.”
-[33] The men were watching closely
-and quickly took up this word and said,
+[33] The men were watching closely for a sign.
+They quickly took up this word and said,
 “Your brother Ben Hadad!”
 He said,
 “Go, bring him.”
@@ -197,10 +198,11 @@ He disguised himself with his headband over his eyes.
 And a man came over and brought a man to me and said,
 ‘Guard this man!
 If he goes missing in any way, your life will be for his life,
-or else you must pay a talent of silver.’
+or else you must pay a talent of silver (about 75 pounds).’
 [40] While your servant was busy here and there, he was gone.”
 The king of Israel said to him,
-“So your judgment will be. You yourself have decided it.”
+“That will be your sentence.
+You yourself have decided it.”
 [41] Then he quickly took the headband away from his eyes.
 And the king of Israel recognized that he was one of the prophets.
 [42] He said to him,

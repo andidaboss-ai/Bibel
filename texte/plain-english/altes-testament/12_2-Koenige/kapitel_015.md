@@ -22,7 +22,7 @@ and judged the people of the land.
 [6] The rest of the things Azariah did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
 [7] Azariah died and joined his ancestors,
-and they buried him with his fathers in David’s city.
+and they buried him with his ancestors in David’s city.
 And his son Jotham became king in his place.
 
 > **What does this mean?**
@@ -38,14 +38,14 @@ And his son Jotham became king in his place.
 
 [8] In the thirty-eighth year of Azariah king of Judah,
 Zechariah the son of Jeroboam ruled over Israel in Samaria for six months.
-[9] He did what was evil in the LORD’s eyes, as his fathers had done.
+[9] He did what was evil in the LORD’s eyes, as his ancestors had done.
 He did not turn away from the sins of Jeroboam the son of Nebat,
 the sins through which that Jeroboam had made Israel sin.
 [10] Shallum the son of Jabesh plotted against him.
 He struck him in front of the people and killed him,
 and he became king in his place.
 [11] The rest of the things Zechariah did,
-look, they are written in the book of the chronicles of the kings of Israel.
+they are written in the book of the chronicles of the kings of Israel.
 [12] This was the LORD’s word that he spoke to Jehu:
 “Your sons down to the fourth generation will sit on the throne of Israel.”
 And so it happened.
@@ -56,7 +56,7 @@ He came to Samaria,
 struck Shallum the son of Jabesh in Samaria,
 killed him, and became king in his place.
 [15] The rest of the things Shallum did, and the plot that he made,
-look, they are written in the book of the chronicles of the kings of Israel.
+they are written in the book of the chronicles of the kings of Israel.
 [16] Then Menahem attacked Tiphsah
 and all who were in it and the land around it, starting from Tirzah.
 He attacked it because they did not open their gates to him.
@@ -78,11 +78,11 @@ Menahem the son of Gadi became king over Israel, for ten years in Samaria.
 All his life he did not turn away from the sins of Jeroboam the son of Nebat,
 the sins through which that Jeroboam had made Israel sin.
 [19] Pul the king of Assyria came against the land.
-Menahem gave Pul 1,000 talents of silver,
+Menahem gave Pul 1,000 talents of silver (about 75,000 pounds),
 so that Pul would help him make the kingdom firm in his hand.
 [20] Menahem forced Israel to pay the money,
 all the wealthy and powerful men,
-50 shekels of silver from each man,
+50 shekels of silver (about 20 ounces) from each man,
 to give it to the king of Assyria.
 So the king of Assyria turned back
 and did not stay there in the land.
@@ -112,7 +112,7 @@ together with Argob and Arieh.
 With him were 50 men of the Gileadites.
 He killed him and became king in his place.
 [26] The rest of the things Pekahiah did, and all that he did,
-look, they are written in the book of the chronicles of the kings of Israel.
+they are written in the book of the chronicles of the kings of Israel.
 [27] In the fifty-second year of Azariah king of Judah,
 Pekah the son of Remaliah became king over Israel in Samaria, for 20 years.
 [28] He did what was evil in the LORD’s eyes.
@@ -127,7 +127,7 @@ and he carried the people away captive to Assyria.
 He attacked him, killed him, and became king in his place,
 in the twentieth year of Jotham the son of Uzziah.
 [31] The rest of the things Pekah did, and all that he did,
-look, they are written in the book of the chronicles of the kings of Israel.
+they are written in the book of the chronicles of the kings of Israel.
 
 > **What does this mean?**
 > One murder of a king follows the next.
@@ -156,7 +156,7 @@ aren’t they written in the book of the chronicles of the kings of Judah?
 [37] In those days the LORD began
 to send Rezin the king of Syria and Pekah the son of Remaliah against Judah.
 [38] Jotham died and joined his ancestors.
-He was buried with his fathers in the city of his father David.
+He was buried with his ancestors in the city of his ancestor David.
 And his son Ahaz became king in his place.
 
 > **What does this mean?**

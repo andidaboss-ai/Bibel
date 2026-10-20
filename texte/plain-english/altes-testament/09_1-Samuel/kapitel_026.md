@@ -101,7 +101,7 @@ What evil is in my hand?
 If it is the LORD who has stirred you up against me,
 then may he accept an offering.
 But if it is people,
-then may they be cursed before the LORD.
+then they are cursed before the LORD.
 For they have driven me out today,
 so that I no longer have a share in the LORD’s inheritance.
 They say, ‘Go, serve other gods!’

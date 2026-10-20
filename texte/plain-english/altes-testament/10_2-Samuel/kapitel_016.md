@@ -104,7 +104,7 @@ In the same way I will now serve you.”
 
 > **What does this mean?**
 > Hushai plays his role as a double agent. Absalom is suspicious: why aren’t you loyal to my father?
-> Hushai’s answer is wise and has a double meaning. “Long live the king!” he says, but he does not say which king he means. “Whoever the LORD … has chosen”: in truth that is David.
+> Hushai’s answer is wise and has a double meaning. “Long live the king!” he says, but he does not say which king he means. “Whoever the LORD and this people and all the men of Israel have chosen”: in truth that is David.
 > Absalom is vain enough to believe it.
 
 ---

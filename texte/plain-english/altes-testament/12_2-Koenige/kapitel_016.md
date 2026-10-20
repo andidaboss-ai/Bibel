@@ -10,7 +10,7 @@ Ahaz the son of Jotham, king of Judah, began to rule.
 [2] Ahaz was 20 years old when he became king,
 and he ruled for 16 years in Jerusalem.
 He did not do what was right in the eyes of the LORD his God,
-as his father David had done.
+as his ancestor David had done.
 [3] But he walked in the way of the kings of Israel.
 He even made his son pass through the fire,
 following the disgusting practices of the nations
@@ -80,7 +80,7 @@ the king’s burnt offering and his grain offering,
 with the burnt offering of all the people of the land,
 their grain offering, and their drink offerings.
 And sprinkle on it all the blood of the burnt offering and all the blood of the sacrifice.
-But the bronze altar will be for me to ask God for guidance.”
+But I will use the bronze altar to ask God for guidance.”
 [16] Urijah the priest did everything just as King Ahaz commanded.
 [17] King Ahaz cut off the side panels of the stands
 and took the basins off them.
@@ -106,7 +106,7 @@ because of the king of Assyria.
 [19] The rest of the things Ahaz did,
 aren’t they written in the book of the chronicles of the kings of Judah?
 [20] Ahaz died and joined his ancestors.
-He was buried with his fathers in David’s city.
+He was buried with his ancestors in David’s city.
 And his son Hezekiah became king in his place.
 
 > **What does this mean?**

@@ -9,8 +9,8 @@
 These records are written in the book of the kings of Israel.
 Judah was taken away to Babylon as prisoners
 because of their disobedience.
-[2] Later the first people came back to their own land and their own cities.
-They were Israelites, priests, Levites, and temple servants.
+[2] The first people who lived on their own land in their cities
+were Israelites, priests, Levites, and temple servants.
 [3] Some people of Judah, of Benjamin, and of Ephraim and Manasseh
 lived in Jerusalem.
 These were:
@@ -83,7 +83,7 @@ Berechiah lived in the villages of the Netophathites.
 [17] The gatekeepers were:
 Shallum, Akkub, Talmon, Ahiman, and their relatives.
 Shallum was their chief.
-[18] Until then they had kept watch at the King’s Gate on the east side.
+[18] Before this, they had kept watch at the King’s Gate on the east side.
 They were the gatekeepers for the camp of the Levites.
 [19] Shallum was the son of Kore.
 Kore was the son of Ebiasaph, and Ebiasaph the son of Korah.
@@ -94,7 +94,7 @@ They had guarded the entrance.
 [20] In earlier times Phinehas, the son of Eleazar, was their leader.
 And the LORD was with him.
 [21] Zechariah, the son of Meshelemiah, was the gatekeeper at the door of the Tent of Meeting.
-[22] All the men chosen to guard the doorways were 212.
+[22] In all, 212 men were chosen to guard the doorways.
 They were listed in the family records of their villages.
 David and Samuel the seer had given them this position of trust.
 A seer is a prophet.
@@ -108,7 +108,7 @@ From time to time they had to come for seven days and help them.
 [26] The four chief gatekeepers were Levites.
 They had a position of trust.
 They were in charge of the rooms and the treasuries in God’s house.
-[27] They spent the night around God’s house,
+[27] They stayed around God’s house,
 because it was their duty to guard it.
 And it was their duty to open it every morning.
 
@@ -146,7 +146,7 @@ They lived in Jerusalem.
 
 > **What does this mean?**
 > In the temple there were many different tasks: counting and keeping the vessels, taking care of flour, wine, oil and frankincense, mixing spices for the holy anointing oil, baking bread.
-> The “showbread” was twelve loaves of bread that were put fresh on a table in the sanctuary every week, one for each tribe of Israel (Leviticus 24:5–9).
+> The “showbread” was 12 loaves of bread that were put fresh on a table in the sanctuary every week, one for each tribe of Israel (Leviticus 24:5–9).
 > The singers praised God “day and night.” That reminds us of Psalm 134: “Praise the LORD, all you servants of the LORD, who stand in the LORD’s house at night!”
 > Every task has its place, whether gatekeeper, baker or singer. Together they all serve God.
 
@@ -159,19 +159,19 @@ His wife’s name was Maacah.
 [36] His firstborn son was Abdon.
 Then came Zur, Kish, Baal, Ner, Nadab,
 [37] Gedor, Ahio, Zechariah, and Mikloth.
-[38] Mikloth became the father of Shimeam.
-They also lived in Jerusalem, near their relatives.
-[39] Ner became the father of Kish.
-Kish became the father of Saul.
-Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
-[40] Jonathan’s son was Merib-baal.
-Merib-baal became the father of Micah.
+[38] Mikloth was the father of Shimeam.
+They also lived with their families in Jerusalem, near their relatives.
+[39] Ner was the father of Kish.
+Kish was the father of Saul.
+Saul was the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
+[40] The son of Jonathan was Merib-baal.
+Merib-baal was the father of Micah.
 [41] The sons of Micah were
 Pithon, Melech, Tahrea, and Ahaz.
-[42] Ahaz became the father of Jarah.
-Jarah became the father of Alemeth, Azmaveth, and Zimri.
-Zimri became the father of Moza.
-[43] Moza became the father of Binea.
+[42] Ahaz was the father of Jarah.
+Jarah was the father of Alemeth, Azmaveth, and Zimri.
+Zimri was the father of Moza.
+[43] Moza was the father of Binea.
 Binea’s son was Rephaiah.
 Rephaiah’s son was Eleasah.
 Eleasah’s son was Azel.

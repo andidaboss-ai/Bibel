@@ -28,7 +28,7 @@ but they did not find them.
 
 > **What does this mean?**
 > Saul comes from the tribe of Benjamin, the tribe that had almost been wiped out at the end of the book of Judges (Judges 20–21). God chooses the first king from this very small tribe.
-> Saul looks like a king: tall, handsome, and strong. He is exactly what people wish for. Later God will say: “Man looks at the outward appearance, but the LORD looks at the heart” (Chapter 16:7).
+> Saul looks like a king: tall, handsome, and strong. He is exactly what people wish for. Later God will say: “Man looks at the outward appearance, but the LORD looks at the heart” (1 Samuel 16:7).
 > The Hebrew says more exactly: female donkeys. At that time donkeys were valuable, like a car or a tractor today.
 > Today no one knows exactly where Shalishah and Shaalim were.
 
@@ -64,8 +64,8 @@ The person we call a prophet today used to be called a seer.)
 So they went to the city where the man of God was.
 
 > **What does this mean?**
-> The land of Zuph was the area that Samuel’s family came from (Chapter 1:1). The city is probably Ramah.
-> Saul does not know Samuel. He does not know the great prophet whom all Israel, from Dan to Beersheba, knew (Chapter 3:20). The servant knows more than Saul. This says something about Saul: He probably did not care much about God.
+> The land of Zuph was the area that Samuel’s family came from (1 Samuel 1:1). The city is probably Ramah.
+> Saul does not know Samuel. He does not know the great prophet whom all Israel, from Dan to Beersheba, knew (1 Samuel 3:20). The servant knows more than Saul. This says something about Saul: He probably did not care much about God.
 > A quarter of a shekel is about a tenth of an ounce of silver. A shekel was a weight used at that time. It was usual to bring a prophet a small gift.
 > Verse 9 is an explanation by the storyteller for later readers: A “seer” is someone who sees what others do not see. Later people called this a “prophet.”
 
@@ -134,7 +134,7 @@ So why do you speak to me like this?”
 
 > **What does this mean?**
 > In Hebrew, “told” literally says: “He had uncovered Samuel’s ear.” God had trusted Samuel with a secret.
-> God does not say “king,” but “prince” (Hebrew “nagid”). This means: Saul is to be a leader who is under God. God himself remains the real king.
+> God does not say “king,” but “leader” (Hebrew “nagid”; the WEB, our English source text, says “prince”). This means: Saul is to be a leader who is under God. God himself remains the real king.
 > God says: I have heard the cry of my people. Even though the people have rejected him as king, God keeps caring for them.
 > Saul is humble: I am only from the smallest tribe and from an unimportant family. That sounds good. Gideon had answered in a similar way (Judges 6:15). But later we will see that Saul often feels small and unsure, and that is why he makes wrong decisions.
 

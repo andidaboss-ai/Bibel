@@ -114,7 +114,7 @@ Then Hazael went away from Jerusalem.
 
 ## The end of Joash (Verses 19–21)
 
-[19] The rest of the acts of Joash, and all that he did,
+[19] The rest of the things Joash did, and all that he did,
 aren’t they written in the book of the chronicles of the kings of Judah?
 [20] His servants rose up and made a plot.
 They struck down Joash at the house of Millo, on the road that goes down to Silla.

@@ -66,8 +66,9 @@ and the south of the Kenites.”
 [11] David left neither man nor woman alive to bring to Gath.
 For he said,
 “Otherwise they will tell about us and say,
-‘This is what David did.’”
-And this was his way the whole time he lived in the land of the Philistines.
+‘This is what David did.
+And this has been his way the whole time
+he has lived in the land of the Philistines.’”
 [12] Achish believed David and said,
 “He has made his people Israel hate him completely.
 So he will be my servant forever.”

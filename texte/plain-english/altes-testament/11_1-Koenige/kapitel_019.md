@@ -5,33 +5,39 @@
 
 ## Elijah runs away and wants to die (Verses 1–8)
 
-[1] Ahab told Jezebel everything that Elijah had done,
-and how he had killed all the prophets with the sword.
+[1] Ahab told Jezebel everything that Elijah had done.
+He told her how Elijah had killed all the prophets with the sword.
 [2] Then Jezebel sent a messenger to Elijah with this message:
 “May the gods do this to me and even more,
-if by this time tomorrow I do not make your life
+if by this time tomorrow I have not made your life
 like the life of one of them!”
-[3] When he saw that, he got up and ran for his life.
-He came to Beersheba, which belongs to Judah,
-and left his servant there.
+[3] Elijah saw this.
+He got up and ran for his life.
+He came to Beersheba, which belongs to Judah.
+He left his servant there.
 [4] But he himself went a day’s journey into the wilderness.
-He came and sat down under a juniper tree.
-Then he asked that he might die, and said,
+He sat down under a juniper tree.
+He asked that he might die.
+He said,
 “It is enough.
-Now, LORD, take my life,
-for I am no better than my fathers.”
-[5] He lay down and fell asleep under the juniper tree.
-And an angel touched him and said to him,
+Now, LORD, take my life.
+I am no better than my ancestors.”
+[5] He lay down under the juniper tree and fell asleep.
+Suddenly an angel touched him.
+The angel said to him,
 “Get up and eat!”
-[6] He looked,
-and there by his head was a flat bread baked on hot coals,
+[6] Elijah looked around.
+There by his head was a flat bread baked on hot coals,
 and a jar of water.
-He ate and drank and lay down again.
-[7] The angel of the LORD came a second time,
-touched him, and said,
-“Get up and eat, because the journey is too far for you.”
-[8] He got up, ate and drank,
-and in the strength of that food he went 40 days and 40 nights
+He ate and drank.
+Then he lay down again.
+[7] The angel of the LORD came a second time.
+He touched Elijah and said,
+“Get up and eat.
+The journey is too far for you.”
+[8] Elijah got up, ate, and drank.
+The food gave him strength.
+In that strength he walked 40 days and 40 nights
 to Horeb, God’s mountain.
 
 > **What does this mean?**
@@ -46,49 +52,50 @@ to Horeb, God’s mountain.
 
 ## God speaks in a quiet voice (Verses 9–18)
 
-[9] There he came to a cave and spent the night there.
-And the word of the LORD came to him.
-He said to him,
+[9] There he came to a cave and spent the night in it.
+Then the word of the LORD came to him.
+The LORD said to him,
 “What are you doing here, Elijah?”
-[10] He said,
+[10] Elijah said,
 “I have been very jealous for the LORD, the God of Armies.
-For the people of Israel have abandoned your covenant,
-torn down your altars,
-and killed your prophets with the sword.
-I, I alone, am left.
-And they are trying to take my life.”
-[11] He said,
+The people of Israel have turned away from your covenant.
+They have torn down your altars.
+They have killed your prophets with the sword.
+I am the only one left.
+And now they are trying to kill me too.”
+[11] The LORD said,
 “Go out and stand on the mountain before the LORD.”
-And the LORD passed by.
-A great and strong wind tore the mountains and broke the rocks in pieces before the LORD.
+Then the LORD passed by.
+A great, strong wind tore the mountains apart
+and broke the rocks into pieces before the LORD.
 But the LORD was not in the wind.
 After the wind there was an earthquake.
 But the LORD was not in the earthquake.
 [12] After the earthquake there was a fire.
 But the LORD was not in the fire.
 After the fire there was a still small voice.
-[13] When Elijah heard it, he wrapped his face in his cloak,
-went out, and stood at the entrance of the cave.
-And a voice came to him and said,
+[13] When Elijah heard it, he covered his face with his cloak.
+He went out and stood at the entrance of the cave.
+Then a voice came to him and said,
 “What are you doing here, Elijah?”
-[14] He said,
+[14] Elijah said,
 “I have been very jealous for the LORD, the God of Armies.
-For the people of Israel have abandoned your covenant,
-torn down your altars,
-and killed your prophets with the sword.
-I, I alone, am left.
-And they are trying to take my life.”
+The people of Israel have turned away from your covenant.
+They have torn down your altars.
+They have killed your prophets with the sword.
+I am the only one left.
+And now they are trying to kill me too.”
 [15] The LORD said to him,
-“Go, return on your way to the wilderness of Damascus.
+“Go back the way you came, to the wilderness of Damascus.
 When you get there, anoint Hazael to be king over Syria.
-[16] And anoint Jehu the son of Nimshi to be king over Israel.
-And anoint Elisha the son of Shaphat, from Abel Meholah,
-to be prophet in your place.
+[16] Anoint Jehu, the son of Nimshi, to be king over Israel.
+And anoint Elisha, the son of Shaphat, from Abel Meholah.
+He will be prophet in your place.
 [17] Whoever escapes from the sword of Hazael, Jehu will kill.
-And whoever escapes from the sword of Jehu, Elisha will kill.
-[18] But I have kept 7,000 in Israel,
-all the knees that have not bowed to Baal,
-and every mouth that has not kissed him.”
+Whoever escapes from the sword of Jehu, Elisha will kill.
+[18] But I have kept 7,000 people in Israel for myself.
+Their knees have not bowed down to Baal.
+Their mouths have not kissed him.”
 
 > **What does this mean?**
 > This is one of the best-known passages of the Bible. Twice God asks: “What are you doing here, Elijah?” He does not ask harshly, but invites Elijah to talk.
@@ -105,23 +112,28 @@ and every mouth that has not kissed him.”
 
 ## Elisha is called (Verses 19–21)
 
-[19] So he went away from there and found Elisha the son of Shaphat.
-He was plowing with twelve pairs of oxen in front of him,
-and he himself was with the twelfth.
+[19] So Elijah left that place.
+He found Elisha, the son of Shaphat.
+Elisha was plowing with 12 pairs of oxen in front of him.
+He himself was with the twelfth pair.
 Elijah went over to him and threw his cloak over him.
-[20] Elisha left the oxen, ran after Elijah, and said,
-“Please let me kiss my father and my mother,
-and then I will follow you.”
-He said to him,
+[20] Elisha left the oxen and ran after Elijah.
+He said,
+“Please let me kiss my father and my mother goodbye.
+Then I will follow you.”
+Elijah said to him,
 “Go back again.
-For what have I done to you?”
-[21] Elisha turned back, took the pair of oxen, and killed them.
-He boiled their meat over a fire made from the oxen’s equipment
-and gave it to the people, and they ate.
-Then he got up, followed Elijah, and served him.
+What have I done to you?”
+[21] Elisha went back.
+He took the pair of oxen and killed them.
+He used the oxen’s equipment as firewood
+and boiled their meat.
+He gave it to the people, and they ate.
+Then he got up and followed Elijah.
+He served him.
 
 > **What does this mean?**
-> Elisha was a rich farmer: twelve pairs of oxen were a lot.
+> Elisha was a rich farmer: 12 pairs of oxen were a lot.
 > Elijah throws his cloak over him. That is a sign: you are to be my successor.
 > Elijah’s answer, “What have I done to you?”, probably means: decide for yourself. I am not forcing you.
 > Elisha makes a clear decision: he kills the oxen and burns the plow as firewood. There is no going back. And he holds a farewell meal with the people.

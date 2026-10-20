@@ -50,7 +50,7 @@ So he got up and went to Hebron.
 [10] But Absalom sent spies throughout all the tribes of Israel and said,
 “As soon as you hear the sound of the trumpet,
 then say, ‘Absalom is king in Hebron!’”
-[11] 200 men from Jerusalem went with Absalom.
+[11] With Absalom went 200 men from Jerusalem.
 They had been invited, and they went along innocently.
 They did not know anything.
 [12] While Absalom was offering the sacrifices,
@@ -59,7 +59,7 @@ The conspiracy became strong,
 for the people with Absalom kept growing in number.
 
 > **What does this mean?**
-> “At the end of 40 years”: that is what the Hebrew text and our English source text say. But that does not fit into David’s lifetime. Some old translations have “after four years.” That fits better.
+> “At the end of 40 years”: that is what the Hebrew text and the WEB, our English source text, say. But that does not fit into David’s lifetime. Some old translations have “after four years.” That fits better.
 > Absalom lies to his father. He uses a devout vow as an excuse. David says “Go in peace,” without suspecting what his son is planning. It is the last word David says to Absalom.
 > Absalom chooses Hebron. That is where David himself had first become king. Absalom wants to repeat David’s story, against David.
 > The 200 men who go along without knowing anything are like hostages. Everyone is supposed to think that they belong to Absalom.
@@ -146,7 +146,6 @@ then here I am.
 Let him do to me as seems good to him.”
 [27] The king also said to Zadok the priest,
 “Aren’t you a seer?
-A seer is a prophet.
 Go back into the city in peace,
 and your two sons with you,
 your son Ahimaaz and Jonathan the son of Abiathar.
@@ -159,6 +158,7 @@ and they stayed there.
 > The priests want to take the ark along, as a sign that God is on David’s side. But David refuses. He has learned from history: the ark is not a good-luck charm (1 Samuel 4).
 > David puts his fate completely into God’s hands: “Let him do to me as seems good to him.” That is real trust. David does not want to fight for his throne by force. He waits for God.
 > At the same time David is wise. The priests and their sons stay in Jerusalem and are to send him news.
+> Verse 27: A seer is a prophet.
 
 ---
 

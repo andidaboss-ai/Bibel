@@ -77,7 +77,7 @@ and went back to Samaria.
 
 ## The death of Jehoash and the end of Amaziah (Verses 15–22)
 
-[15] The rest of the acts of Jehoash, and his might,
+[15] The rest of the things Jehoash did, and his power,
 and how he fought against Amaziah king of Judah,
 aren’t they written in the book of the chronicles of the kings of Israel?
 [16] Jehoash died and joined his ancestors.

@@ -29,7 +29,7 @@ They came to Dan Jaan and went around to Sidon.
 and to all the cities of the Hivites and of the Canaanites.
 Then they went out to the south of Judah, to Beersheba.
 [8] They went through the whole land.
-After nine months and 20 days, they came back to Jerusalem.
+After 9 months and 20 days, they came back to Jerusalem.
 [9] Joab told the king the number of the people.
 In Israel there were 800,000 brave men who could fight with the sword.
 In Judah there were 500,000 men.
@@ -78,7 +78,7 @@ But do not let me fall into the hands of people.”
 
 [15] So the LORD sent a disease on Israel.
 It lasted from the morning until the set time.
-70,000 men of the people died, from Dan to Beersheba.
+From Dan to Beersheba, 70,000 men of the people died.
 [16] The angel stretched out his hand toward Jerusalem to destroy it.
 But the LORD was sorry about the disaster.
 He said to the angel who was destroying the people,
@@ -122,7 +122,7 @@ And Araunah said to the king,
 [24] But the king said to Araunah,
 “No, I will pay you a price for it.
 I will not offer burnt offerings to the LORD my God that cost me nothing.”
-So David bought the threshing floor and the oxen for 50 shekels of silver.
+So David bought the threshing floor and the oxen for 50 shekels of silver (about 1¼ pounds).
 [25] David built an altar to the LORD there.
 He offered burnt offerings and peace offerings.
 So the LORD answered the prayers for the land,

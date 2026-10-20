@@ -47,7 +47,7 @@ Then they sent messengers all around the land of the Philistines.
 They spread the news to their idols and to the people.
 [10] They put his armor in the house of their gods.
 And they hung up his head in the house of Dagon.
-[11] The people of Jabesh Gilead heard everything the Philistines had done to Saul.
+[11] All the people of Jabesh Gilead heard everything the Philistines had done to Saul.
 [12] Then all the brave men set out.
 They took the body of Saul and the bodies of his sons
 and brought them to Jabesh.

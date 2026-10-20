@@ -16,27 +16,27 @@ for about 15 feet, all around the sea.
 The oxen were in two rows,
 cast together with the sea when it was cast.
 [4] It stood on 12 oxen.
-Three looked toward the north,
-three looked toward the west,
-three looked toward the south,
-and three looked toward the east.
+3 looked toward the north,
+3 looked toward the west,
+3 looked toward the south,
+and 3 looked toward the east.
 The sea was set on top of them,
 and their back parts all faced inward.
 [5] It was about 3 inches thick.
 Its rim was made like the rim of a cup, like the flower of a lily.
 It held about 17,500 gallons.
-[6] He also made ten basins,
-and put five on the right and five on the left,
+[6] He also made 10 basins,
+and put 5 on the right and 5 on the left,
 to wash in them.
 The things that belonged to the burnt offering were washed in them.
 But the sea was for the priests to wash in.
-[7] He made the ten lampstands of gold, as the rule for them said,
+[7] He made the 10 lampstands of gold, as the rule for them said,
 and he set them in the temple,
-five on the right and five on the left.
-[8] He also made ten tables
+5 on the right and 5 on the left.
+[8] He also made 10 tables
 and placed them in the temple,
-five on the right and five on the left.
-And he made 100 bowls of gold.
+5 on the right and 5 on the left.
+And he made 100 basins of gold.
 [9] He also made the court of the priests, the great court,
 and doors for the court,
 and he covered their doors with bronze.
@@ -46,7 +46,7 @@ and he covered their doors with bronze.
 > Here the objects for the temple are listed. We know most of them from 1 Kings 7.
 > The large bronze altar for the burnt offerings is described this exactly only here.
 > The “sea” was a huge water basin. The priests washed themselves in it before they served. Being clean before God was important.
-> The twelve oxen face all four directions, maybe a picture of the twelve tribes of Israel.
+> The 12 oxen face all four directions, maybe a picture of the 12 tribes of Israel.
 > In 1 Kings 7:24 there are “buds” under the rim instead of the oxen. The Hebrew word means a kind of wild gourd. The two words look similar in Hebrew.
 > The Bible gives cubits (a cubit is about 18 inches), a “handbreadth” (about 3 inches) and “3,000 baths” (a bath is about 6 gallons). 1 Kings 7:26 says 2,000 baths.
 
@@ -57,7 +57,7 @@ and he covered their doors with bronze.
 [11] Huram made the pots, the shovels, and the basins.
 So Huram finished the work that he did for King Solomon in God’s house:
 [12] the two pillars,
-the bowl-shaped capitals on the top of the two pillars,
+the bowls and the two capitals on the top of the pillars,
 and the two networks to cover the two bowls of the capitals on the top of the pillars,
 [13] and the 400 pomegranates for the two networks,
 two rows of pomegranates for each network,
@@ -76,7 +76,7 @@ so that the weight of the bronze could not be found out.
 > **What does this mean?**
 > Huram-abi, the artist from Tyre, made the bronze objects.
 > They were cast in the plain of the Jordan, where there was the right clay for the casting molds.
-> “Bowl-shaped capitals”: the Hebrew has a word for “bowls” or “balls”.
+> “The bowls”: the Hebrew has a word for “bowls” or “balls”. These were the round parts of the capitals.
 
 ---
 
