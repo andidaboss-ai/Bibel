@@ -11,15 +11,13 @@
 and does any of the things that the LORD has commanded not to be done –
 [3] if the anointed priest sins and so brings guilt on the people,
 then for the sin he has done, he shall bring the LORD a young bull without any fault as a sin offering.
-The anointed priest is the priest on whose head holy oil has been poured.
 [4] He shall bring the bull to the door of the Tent of Meeting, before the LORD.
 He shall lay his hand on the head of the bull and kill the bull before the LORD.
 [5] The anointed priest shall take some of the bull’s blood and bring it into the Tent of Meeting.
 [6] The priest shall dip his finger in the blood
-and sprinkle some of the blood seven times before the LORD, in front of the curtain of the holy place.
+and sprinkle some of the blood seven times before the LORD, in front of the veil of the sanctuary.
 [7] The priest shall put some of the blood on the horns of the altar for sweet incense,
 which stands before the LORD in the Tent of Meeting.
-The horns are the raised corners of the altar.
 He shall pour out all the rest of the bull’s blood at the bottom of the altar for burnt offerings,
 which stands at the door of the Tent of Meeting.
 
@@ -36,11 +34,13 @@ There he shall burn it on wood with fire.
 It shall be burned where the ashes are poured out.
 
 > **What does this mean?**
+> Verse 3: The anointed priest is the priest on whose head holy oil has been poured.
+> Verse 7: The horns are the raised corners of the altar.
 > Now it is about the “sin offering.” It is for sins that someone did without meaning to: by accident, because he did not know, or because he was not careful.
 > Such mistakes count too. They harm the relationship with God and with other people. But God gives a way for them to be forgiven.
 > The chapter goes step by step: What does the high priest do? What does the whole people do? What does a leader do? What does an ordinary person do?
 > The “anointed priest” is the high priest. If he makes a mistake, it affects the whole people. For he stands before God for the people. That is why he must bring a big offering: a young bull.
-> The blood is even brought into the holy tent, right up to the curtain in front of the Most Holy Place. The more important the person, the heavier his guilt.
+> The blood is even brought into the holy tent, right up to the veil in front of the Most Holy Place. The more important the person, the heavier his guilt.
 > Seven is the number of completeness. The atonement is meant to be whole and complete.
 > No one may eat the meat here. It is burned outside the camp. The high priest may not eat from his own sin offering.
 
@@ -56,7 +56,7 @@ They shall bring it in front of the Tent of Meeting.
 [15] The elders of the community shall lay their hands on the head of the bull before the LORD.
 And the bull shall be killed before the LORD.
 [16] The anointed priest shall bring some of the bull’s blood into the Tent of Meeting.
-[17] The priest shall dip his finger in the blood and sprinkle it seven times before the LORD, in front of the curtain.
+[17] The priest shall dip his finger in the blood and sprinkle it seven times before the LORD, in front of the veil.
 [18] He shall put some of the blood on the horns of the altar that stands before the LORD in the Tent of Meeting.
 He shall pour out all the rest of the blood at the bottom of the altar for burnt offerings, which stands at the door of the Tent of Meeting.
 [19] He shall take all its fat from it and burn it on the altar.

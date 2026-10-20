@@ -61,13 +61,13 @@ But he did not tell them that he had taken the honey out of the lion’s body.
 [10] His father went down to the woman.
 And Samson held a feast there,
 for that is what young men used to do.
-[11] When the people saw him, they brought thirty companions to be with him.
+[11] When the people saw him, they brought 30 companions to be with him.
 [12] Samson said to them,
 “Let me tell you a riddle now.
 If you can tell me the answer within the seven days of the feast and find it out,
-then I will give you thirty linen shirts and thirty changes of clothing.
+then I will give you 30 linen shirts and 30 changes of clothing.
 [13] But if you cannot tell me the answer,
-then you must give me thirty linen shirts and thirty changes of clothing.”
+then you must give me 30 linen shirts and 30 changes of clothing.”
 They said to him,
 “Tell us your riddle, so that we can hear it.”
 [14] He said to them,
@@ -77,7 +77,7 @@ For three days they could not solve the riddle.
 
 > **What does this mean?**
 > At that time, a wedding was celebrated for seven days. In Hebrew, the word for “feast” actually means “drinking party.” The text does not say whether Samson, as a Nazirite, drank wine there.
-> The thirty companions are Philistines. They are supposed to keep Samson company, but maybe also to watch him.
+> The 30 companions are Philistines. They are supposed to keep Samson company, but maybe also to watch him.
 > A “change of clothing” (the words in the WEB, our English source text) was a set of fine festive clothes. Clothing was very expensive at that time. So the bet was about a lot.
 > The riddle is actually unfair. No one could know the answer, because no one had seen what happened with the lion.
 
@@ -117,7 +117,7 @@ you would not have found out my riddle.”
 ## Samson takes revenge in Ashkelon (Verses 19–20)
 
 [19] Then the Spirit of the LORD came on him with power.
-He went down to Ashkelon and struck down thirty of their men.
+He went down to Ashkelon and struck down 30 of their men.
 He took what he could from them as plunder
 and gave the changes of clothing to those who had solved the riddle.
 His anger burned, and he went up to his father’s house.
@@ -126,6 +126,6 @@ who had been his friend.
 
 > **What does this mean?**
 > Ashkelon was one of the five great cities of the Philistines, by the sea.
-> Samson kills thirty innocent men just to pay what he owes from the bet. This is a horrible deed. The Bible says that the Spirit of the LORD came on him. This means: Through Samson, God begins the fight against Israel’s oppressors. But the Bible does not say that Samson’s anger and revenge are good. Samson is a hero with great weaknesses.
+> Samson kills 30 innocent men just to pay what he owes from the bet. This is a horrible deed. The Bible says that the Spirit of the LORD came on him. This means: Through Samson, God begins the fight against Israel’s oppressors. But the Bible does not say that Samson’s anger and revenge are good. Samson is a hero with great weaknesses.
 > Jewish and Christian Bible teachers have often seen Samson critically: He was gifted by God, but he lived by his own wishes. This story must never be used as an example to justify revenge or violence.
 > In the end, Samson loses his wife. Her father gives her to another man. The wedding ends in disaster.

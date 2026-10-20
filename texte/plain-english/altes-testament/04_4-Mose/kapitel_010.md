@@ -122,7 +122,7 @@ to look for a resting place for them.
 Let your enemies be scattered!
 Let those who hate you run away before you!”
 [36] And whenever it stopped, he said:
-“Come back, LORD, to the ten thousands of the thousands of Israel!”
+“Come back, LORD, to the many thousands upon thousands of Israel!”
 
 > **What does this mean?**
 > The ark of the covenant goes ahead. God himself looks for the way and the resting place for his people. It is like a shepherd who walks ahead of his flock.

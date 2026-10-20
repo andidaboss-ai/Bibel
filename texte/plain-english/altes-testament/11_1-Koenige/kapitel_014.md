@@ -7,12 +7,12 @@
 
 [1] At that time Abijah, the son of Jeroboam, became sick.
 [2] Jeroboam said to his wife,
-“Please get up and dress so that no one knows you.
-No one should see that you are Jeroboam’s wife.
+“Please get up and disguise yourself.
+No one should know that you are Jeroboam’s wife.
 Go to Shiloh.
 Ahijah the prophet is there.
 He is the one who told me that I would be king over this people.
-[3] Take ten loaves of bread with you, some cakes, and a jar of honey.
+[3] Take 10 loaves of bread with you, some cakes, and a jar of honey.
 Go to him.
 He will tell you what will happen to the boy.”
 [4] Jeroboam’s wife did this.
@@ -29,7 +29,7 @@ When she comes in, she will pretend to be another woman.”
 He said,
 “Come in, wife of Jeroboam!
 Why are you pretending to be someone else?
-I must give you bad news.
+I have been sent to you with heavy news.
 
 > **What does this mean?**
 > Jeroboam is in trouble. His son is sick. He does not go to his golden calves, but sends his wife to the true prophet of the LORD. In his trouble he knows where the truth is.
@@ -54,8 +54,8 @@ You have made yourself other gods, idols of metal.
 You did it to make me angry.
 You have thrown me behind your back.
 [10] So I will bring disaster on Jeroboam’s family.
-I will cut off from Jeroboam everyone who urinates on a wall.
-the one who is shut up and the one who is free.
+I will cut off from Jeroboam everyone who urinates on a wall,
+the one who is shut up and the one who is free in Israel.
 I will sweep away Jeroboam’s family completely,
 as a man sweeps away dung until it is all gone.
 [11] Anyone from Jeroboam’s family who dies in the city will be eaten by the dogs.
@@ -72,7 +72,7 @@ This is the day!
 What am I saying? It is already happening!
 [15] The LORD will strike Israel,
 so that it shakes like a reed in the water.
-He will pull Israel up by the roots out of this good land that he gave to their fathers.
+He will pull Israel up by the roots out of this good land that he gave to their ancestors.
 He will scatter them beyond the River.
 He will do this because they have made their Asherah poles.
 With them they made the LORD angry.
@@ -119,11 +119,11 @@ He ruled for 17 years in Jerusalem.
 That is the city that the LORD had chosen out of all the tribes of Israel to put his name there.
 His mother’s name was Naamah the Ammonitess.
 [22] The people of Judah did what was evil in the LORD’s eyes.
-They sinned more than their fathers had ever done.
+They sinned more than their ancestors had ever done.
 With their sins they made him jealous.
 [23] They also built themselves high places, sacred pillars, and Asherah poles.
 They built them on every high hill and under every green tree.
-[24] There were also sodomites in the land.
+[24] There were also male shrine prostitutes in the land.
 The people did all the disgusting things of the nations
 that the LORD had driven out before the people of Israel.
 [25] In the fifth year of King Rehoboam,
@@ -141,14 +141,14 @@ Then they brought them back to the guard room.
 are written in the book of the chronicles of the kings of Judah.
 [30] There was war between Rehoboam and Jeroboam the whole time.
 [31] Rehoboam died and joined his ancestors.
-He was buried with his fathers in David’s city.
+He was buried with his ancestors in David’s city.
 His mother’s name was Naamah the Ammonitess.
 His son Abijam became king in his place.
 
 > **What does this mean?**
 > Even in the southern kingdom of Judah, where the temple stands, the worship of idols spreads. The temple alone does not make a people faithful.
 > “Sacred pillars” and “Asherah poles” were signs of Canaanite gods. “Under every green tree” means: everywhere in the land.
-> Verse 24: our English source text says “sodomites.” The Hebrew says “qadesh,” word for word “one who is set apart.” This probably means people who performed sexual acts in the service of other gods (so-called cult prostitution). Scholars disagree about what exactly this looked like. The verse is speaking about the worship of idols. It should not be used to look down on people.
+> Verse 24: The WEB, our English source text, says “sodomites.” We write “male shrine prostitutes.” The Hebrew says “qadesh,” word for word “one who is set apart.” This probably means people who performed sexual acts in the service of other gods (so-called cult prostitution). Scholars disagree about what exactly this looked like. The verse is speaking about the worship of idols. It should not be used to look down on people.
 > The military campaign of Shishak (Pharaoh Shoshenq I) is also known from outside the Bible: in the temple of Karnak in Egypt there is an inscription with a list of the places he conquered in Palestine. That was about 925 BC.
 > Solomon’s gold shields are gone. Rehoboam replaces them with bronze. That is a sad picture: from the outside it still looks similar, but the shine is lost.
 > Rehoboam’s mother was an Ammonite, one of Solomon’s foreign wives. That it is mentioned twice reminds us of Chapter 11.

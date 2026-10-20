@@ -10,7 +10,7 @@ Look! The family redeemer Boaz had spoken about came by.
 Boaz said to him,
 “Come over here, friend, and sit down!”
 He came over and sat down.
-[2] Boaz took ten men from the elders of the town
+[2] Boaz took 10 men from the elders of the town
 and said, “Sit down here.”
 And they sat down.
 [3] He said to the family redeemer,
@@ -84,7 +84,7 @@ whom Tamar bore to Judah,
 through the children the LORD will give you by this young woman.”
 
 > **What does this mean?**
-> Rachel and Leah were the wives of Jacob. The twelve tribes of Israel came from them and their servants. The people wish: May Ruth, the foreigner, become a mother of Israel like them.
+> Rachel and Leah were the wives of Jacob. The 12 tribes of Israel came from them and their servants. The people wish: May Ruth, the foreigner, become a mother of Israel like them.
 > Perez was a son of Judah and Tamar (Genesis 38). Tamar was also a foreigner, and her story too was about carrying on the name of a dead man. The clan that Boaz belonged to came from Perez.
 
 ---
@@ -112,7 +112,7 @@ They named him Obed.
 He is the father of Jesse, the father of David.
 
 > **What does this mean?**
-> In ten years of marriage to Mahlon, Ruth had not become pregnant. Now it says clearly: The LORD let her become pregnant. It is one of the few times in the book when God himself acts directly.
+> In 10 years of marriage to Mahlon, Ruth had not become pregnant. Now it says clearly: The LORD let her become pregnant. It is one of the few times in the book when God himself acts directly.
 > At the end, it is not Ruth who stands at the center, but Naomi. The women of Bethlehem, who had asked at the beginning, “Is this Naomi?” now share her joy. The woman who came back “empty” now holds a child in her arms. “Mara,” the bitter one, has become “Naomi,” the pleasant one, again.
 > “Better than seven sons”: Seven sons were seen as the greatest happiness. The women say: Ruth is worth even more than that. Great praise for a foreigner.
 > “Obed” means “servant” or “one who serves.”
@@ -134,7 +134,7 @@ Boaz became the father of Obed,
 and Jesse became the father of David.
 
 > **What does this mean?**
-> The book ends with a list of ten names, from Perez to David. Boaz is in seventh place, David in tenth. Seven and ten were special numbers in Israel that stood for completeness.
+> The book ends with a list of 10 names, from Perez to David. Boaz is in seventh place, David in tenth. Seven and 10 were special numbers in Israel that stood for completeness.
 > Nahshon was a leader of the tribe of Judah at the time of Moses (Numbers 1:7). The Gospel of Matthew says that Salmon was married to Rahab from Jericho (Matthew 1:5). Then Boaz himself would have had a foreign mother.
 > The list probably does not name every single generation, only important names. That was common in old family trees.
 > With the name David, the book of Ruth opens the door to the next books, the books of Samuel. They tell how David becomes king.

@@ -12,7 +12,7 @@ with the banners of their fathers’ houses.
 They shall camp around the Tent of Meeting, at some distance from it.
 
 > **What does this mean?**
-> Now it is decided what the camp shall look like. The sanctuary stands in the middle. The Levites camp around it. And outside of them, the twelve tribes camp, three on each side.
+> Now it is decided what the camp shall look like. The sanctuary stands in the middle. The Levites camp around it. And outside of them, the 12 tribes camp, three on each side.
 > So there is a big square with God in the middle. Every tribe has its fixed place.
 > A “banner” is a flag or a sign for an army. By it, everyone could see where his tribe was camping.
 

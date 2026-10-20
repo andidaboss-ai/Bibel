@@ -1,5 +1,5 @@
 # Numbers – Chapter 7
-### The gifts of the twelve tribal leaders
+### The gifts of the 12 tribal leaders
 
 ---
 
@@ -11,8 +11,8 @@ And he had also anointed and made holy the altar with all its equipment.
 [2] On that day the leaders of Israel brought gifts. They were the heads of their fathers’ houses.
 They were the leaders of the tribes. They were in charge of those who had been counted.
 [3] They brought their offering before the LORD:
-six covered wagons and twelve oxen,
-one wagon for every two leaders and one ox for each leader.
+6 covered wagons and 12 oxen,
+a wagon for every 2 leaders and an ox for each leader.
 They brought them in front of the Tabernacle.
 
 [4] The LORD spoke to Moses.
@@ -34,7 +34,7 @@ For their work was with the holy things. They carried them on their shoulders.
 
 ---
 
-## Twelve days, twelve gifts (Verses 10–11)
+## 12 days, 12 gifts (Verses 10–11)
 
 [10] The leaders brought gifts for the dedication of the altar on the day it was anointed.
 Dedication means: the altar is given to God and used for the first time.
@@ -43,7 +43,7 @@ The leaders brought their offerings in front of the altar.
 “They shall bring their offering, each leader on his own day, for the dedication of the altar.”
 
 > **What does this mean?**
-> Now the twelve tribal leaders bring their gifts, on twelve days one after the other. Each one brings exactly the same thing. And the Bible writes down each gift separately and completely.
+> Now the 12 tribal leaders bring their gifts, on 12 days one after the other. Each one brings exactly the same thing. And the Bible writes down each gift separately and completely.
 > When you read it, it can seem boring. But it has a purpose: Every tribe is equally important. The small tribe gets just as much room as the big one. None is cut short. God sees every single gift.
 > The gifts are: a silver plate of 130 shekels, a silver bowl of 70 shekels, both full of flour with oil, and a gold dish of 10 shekels, full of incense. Besides that, many animals for the different offerings. A shekel is about 0.4 ounces. In the text, the weight in pounds and ounces is given in brackets.
 
@@ -236,14 +236,14 @@ This was the offering of Ahira, the son of Enan.
 ## The total of all the gifts (Verses 84–88)
 
 [84] This was the gift from the leaders of Israel for the dedication of the altar, on the day when it was anointed:
-twelve silver plates, twelve silver bowls, twelve gold dishes.
+12 silver plates, 12 silver bowls, 12 gold dishes.
 [85] Each silver plate weighed 130 shekels (about 3 pounds), and each bowl 70 shekels (about 1.7 pounds).
 All the silver of the dishes weighed 2,400 shekels (about 60 pounds), by the shekel of the sanctuary.
-[86] The twelve gold dishes, full of incense, weighed 10 shekels (about 4 ounces) each, by the shekel of the sanctuary.
+[86] The 12 gold dishes, full of incense, weighed 10 shekels (about 4 ounces) each, by the shekel of the sanctuary.
 All the gold of the dishes weighed 120 shekels (about 3 pounds).
-[87] All the cattle for the burnt offering were twelve bulls,
-with twelve rams and twelve male lambs one year old, and their grain offering,
-and twelve male goats as a sin offering.
+[87] All the cattle for the burnt offering were 12 bulls,
+with 12 rams and 12 male lambs one year old, and their grain offering,
+and 12 male goats as a sin offering.
 [88] And all the cattle for the peace offering were 24 bulls,
 with 60 rams, 60 male goats and 60 male lambs one year old.
 This was the gift for the dedication of the altar, after it had been anointed.

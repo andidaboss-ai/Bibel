@@ -122,7 +122,7 @@ Everyone who came to the place where Asahel lay dead stopped and stood still.
 > Asahel is young, fast, and ambitious. He wants to defeat the famous Abner.
 > Abner does not want to kill him. He warns him twice. He knows: if I kill Joab’s brother, Joab will take revenge. In those days that was the duty of the “avenger of blood.”
 > In the end Abner does kill Asahel, with the blunt end of the spear, maybe because he really only wanted to hold him off. But the blow is deadly.
-> Here a blood feud begins that has terrible consequences (3:27).
+> Here a blood feud begins that has terrible consequences (Chapter 3:27).
 
 ---
 

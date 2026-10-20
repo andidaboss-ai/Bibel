@@ -1,9 +1,9 @@
 # Numbers – Chapter 13
-### Twelve spies explore the land
+### 12 spies explore the land
 
 ---
 
-## Twelve men are chosen (Verses 1–16)
+## 12 men are chosen (Verses 1–16)
 
 [1] The LORD spoke to Moses. He said,
 [2] “Send out men to explore the land of Canaan, which I am giving to the people of Israel.
@@ -27,7 +27,7 @@ From the tribe of Reuben: Shammua the son of Zaccur.
 And Moses called Hoshea the son of Nun Joshua.
 
 > **What does this mean?**
-> The people are now at the border of the promised land. Before they go in, twelve spies are to explore the land, one from each tribe.
+> The people are now at the border of the promised land. Before they go in, 12 spies are to explore the land, one from each tribe.
 > Two names are important: Caleb from Judah and Hoshea from Ephraim.
 > Moses gives Hoshea a new name: Joshua. “Hoshea” means “rescue.” “Joshua” means “The LORD rescues.” By the way, the Greek name for Joshua is “Jesus.”
 
@@ -112,8 +112,8 @@ We felt like grasshoppers.
 And that is how we looked to them too.”
 
 > **What does this mean?**
-> All twelve saw the same things. But they come to different conclusions.
-> Ten see only the giants and the walls. They forget that God is with them. They even exaggerate: Before, the land was good. Now it “eats up the people who live in it.”
+> All 12 saw the same things. But they come to different conclusions.
+> But 10 of them see only the giants and the walls. They forget that God is with them. They even exaggerate: Before, the land was good. Now it “eats up the people who live in it.”
 > Caleb sees the same giants. But he trusts that God is stronger.
 > The “Nephilim” are legendary giants from ancient times (Genesis 6:4). The spies want to say: We have no chance against these people.
 > “We felt like grasshoppers” – that is a sad sentence. Whoever makes himself small also believes that others see him as small. Fear distorts the way we see things.

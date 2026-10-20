@@ -32,7 +32,7 @@ And she was left with her two sons.
 [4] The sons married women from Moab.
 The name of one was Orpah,
 and the name of the other was Ruth.
-They lived there about ten years.
+They lived there about 10 years.
 [5] Then Mahlon and Chilion both died too.
 And the woman was left alone, without her two children and without her husband.
 

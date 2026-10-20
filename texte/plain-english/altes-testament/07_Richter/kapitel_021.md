@@ -26,7 +26,7 @@ For we have sworn by the LORD
 that we will not give them any of our daughters as wives.”
 
 > **What does this mean?**
-> Only now does Israel realize what it has done. Only 600 men of Benjamin are left, and no women anymore. One of the twelve tribes is going to die out.
+> Only now does Israel realize what it has done. Only 600 men of Benjamin are left, and no women anymore. One of the 12 tribes is going to die out.
 > The people weep and ask God: Why has this happened? But Israel did it itself. The question sounds as if God were to blame.
 > Israel has sworn two thoughtless oaths: No one will give his daughter to Benjamin. And: Whoever does not come to the assembly must die. Now they are caught in the trap of their own oaths. This reminds us of Jephthah and his terrible vow (Chapter 11).
 

@@ -94,7 +94,7 @@ so that you do not have to carry it alone.
 For you have cried in the ears of the LORD and said:
 “Who will give us meat to eat? We were well off in Egypt.”
 So the LORD will give you meat, and you will eat.
-[19] You will not eat it for only one day, or two days, or five days, or ten days, or twenty days,
+[19] You will not eat it for only 1 day, or 2 days, or 5 days, or 10 days, or 20 days,
 [20] but for a whole month,
 until it comes out of your nostrils and you are sick of it.
 For you have rejected the LORD, who is among you,
@@ -173,9 +173,9 @@ because there they buried the people who had been greedy.
 And they stayed at Hazeroth.
 
 > **What does this mean?**
-> The Bible says: two cubits high and ten homers. A cubit is about 18 inches. A homer is about 58 gallons.
+> The Bible says: 2 cubits high and 10 homers. A cubit is about 18 inches. A homer is about 58 gallons.
 > Quails are small birds that fly over this area in large flocks twice a year. When they are tired, they fly very low, and you can catch them easily. God sends a wind that brings them right to the camp.
-> “Two cubits high” can mean that the birds lay on top of each other that high. Or that they flew so low that people could catch them with their hands.
+> The words “2 cubits high” can mean that the birds lay on top of each other that high. Or that they flew so low that people could catch them with their hands.
 > The people gather as if they were drunk, for two days and a night. Their greed is the problem, not the meat.
 > “Kibroth Hattaavah” means “graves of craving.” The place reminds us that greed can kill.
 > Psalm 106:15 says about this: God gave them what they asked for, but he sent a wasting disease into their souls. That means: They got what they wanted. But it was not good for them.

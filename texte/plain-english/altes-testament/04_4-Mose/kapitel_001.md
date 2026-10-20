@@ -71,7 +71,7 @@ by the number of the names, from 20 years old and up, one by one.
 
 ---
 
-## The numbers of the twelve tribes (Verses 20–43)
+## The numbers of the 12 tribes (Verses 20–43)
 
 [20] The descendants of Reuben, Israel’s firstborn, were listed by their line of descent,
 by their families and by their fathers’ houses, by the number of the names, one by one:
@@ -144,7 +144,7 @@ from 20 years old and up, all who were able to go to war.
 
 [44] These were the ones who were counted.
 Moses and Aaron counted them,
-together with the twelve leaders of Israel, one for each fathers’ house.
+together with the 12 leaders of Israel, one for each fathers’ house.
 [45] All the people of Israel who were counted by their fathers’ houses, from 20 years old and up,
 all in Israel who were able to go to war –
 [46] all who were counted were 603,550.

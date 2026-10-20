@@ -37,8 +37,8 @@ I will remove dangerous animals from the land.
 And no sword will go through your land.
 [7] You will chase your enemies.
 And they will fall before you by the sword.
-[8] Five of you will chase a hundred.
-And a hundred of you will chase 10,000.
+[8] Just 5 of you will chase 100.
+And 100 of you will chase 10,000.
 And your enemies will fall before you by the sword.
 
 [9] “‘I will turn to you with kindness.
@@ -112,7 +112,7 @@ You will gather together inside your cities.
 And I will send disease among you.
 You will be handed over to the enemy.
 [26] I will break your staff of bread.
-Then ten women will bake your bread in one single oven.
+Then 10 women will bake your bread in a single oven.
 They will weigh out your bread and hand it to you.
 You will eat and not be full.
 
@@ -120,7 +120,7 @@ You will eat and not be full.
 > “Seven times more” means: worse and worse, until the very end. Each new step is a new chance to turn back. Again and again it says: “If you still do not listen to me …” God waits patiently for an answer.
 > “Sky like iron and soil like bronze” is a picture of a drought: The sky gives no rain. The ground is so hard that nothing grows.
 > “Break your staff of bread” means: take the bread away. Bread was like a staff that you lean on to stay alive.
-> Ten women bake in one oven: There is so little flour that one oven is enough for ten families.
+> In verse 26, 10 women bake in a single oven: There is so little flour that a single oven is enough for 10 families.
 
 ---
 

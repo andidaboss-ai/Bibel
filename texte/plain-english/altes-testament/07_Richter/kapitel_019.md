@@ -143,7 +143,7 @@ She lay there until it was light.
 
 ---
 
-## The twelve pieces (Verses 27–30)
+## The 12 pieces (Verses 27–30)
 
 [27] Her master got up in the morning,
 opened the door of the house, and went out to go on his way.
@@ -156,7 +156,7 @@ Then he put her on the donkey.
 And the man got up and went to his home.
 [29] When he had come into his house,
 he took a knife and cut up his concubine.
-He divided her, limb by limb, into twelve pieces
+He divided her, limb by limb, into 12 pieces
 and sent them throughout the whole territory of Israel.
 [30] And everyone who saw it said,
 “Such a thing has not been done or seen
@@ -167,6 +167,6 @@ Think about it, talk it over, and speak!”
 > **What does this mean?**
 > In the morning, the Levite goes out “to go on his way.” He is not looking for his wife. He finds her by chance. His words are cold: “Get up, let’s go!” Not a word of pity.
 > “There was no answer”: The text does not say exactly whether she was already dead then. The old Greek translation says clearly: “for she was dead.”
-> Then the man cuts her body into twelve pieces, for the twelve tribes of Israel. In this way he wants to shake up all of Israel. This is a cruel deed. Even after her death, the woman is still used as a tool.
+> Then the man cuts her body into 12 pieces, for the 12 tribes of Israel. In this way he wants to shake up all of Israel. This is a cruel deed. Even after her death, the woman is still used as a tool.
 > Later King Saul, who comes from Gibeah, cuts up two oxen and sends the pieces throughout Israel to call the people to battle (1 Samuel 11:7).
 > All of Israel is horrified. And rightly so. But the way the people react now makes everything even worse.

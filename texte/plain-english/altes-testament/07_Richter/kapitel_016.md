@@ -34,7 +34,7 @@ Her name was Delilah.
 “Talk him into it and find out where his great strength comes from
 and how we can overpower him.
 Then we will tie him up and torment him.
-And each of us will give you eleven hundred pieces of silver.”
+And each of us will give you 1,100 pieces of silver.”
 
 > **What does this mean?**
 > The valley of Sorek is near Samson’s home town of Zorah, at the border of the land of the Philistines. The Bible does not say whether Delilah was a Philistine or an Israelite.
@@ -161,7 +161,7 @@ They made him stand between the pillars.
 so that I can lean on them.”
 [27] The house was full of men and women.
 All the lords of the Philistines were there.
-And on the roof there were about three thousand men and women
+And on the roof there were about 3,000 men and women
 who were watching Samson perform.
 
 > **What does this mean?**
@@ -187,7 +187,7 @@ So the dead whom he killed at his death were more than those he had killed in hi
 [31] Then his brothers and his father’s whole family came down.
 They took him, brought him up,
 and buried him between Zorah and Eshtaol, in the tomb of his father Manoah.
-He had judged Israel for twenty years.
+He had judged Israel for 20 years.
 
 > **What does this mean?**
 > Samson prays for the second time in his life. Blind and imprisoned, he asks God for help, and God answers. Even after great failure, a person can come back to God.

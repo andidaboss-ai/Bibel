@@ -27,7 +27,7 @@ when I do them harm.”
 
 ## The foxes with the torches (Verses 4–6)
 
-[4] Samson went and caught three hundred foxes.
+[4] Samson went and caught 300 foxes.
 He took torches and tied the foxes together by their tails, two by two.
 Between each pair of tails he put a torch.
 [5] He set the torches on fire
@@ -71,7 +71,7 @@ camped in Judah, and spread out in Lehi.
 They said,
 “We have come up to tie up Samson.
 We want to do to him as he has done to us.”
-[11] Then three thousand men of Judah went down to the cave in the rock of Etam.
+[11] Then 3,000 men of Judah went down to the cave in the rock of Etam.
 They said to Samson,
 “Don’t you know that the Philistines rule over us?
 What is this that you have done to us?”
@@ -89,7 +89,7 @@ They tied him up with two new ropes
 and brought him up from the rock.
 
 > **What does this mean?**
-> This is a sad scene: The men of Judah do not fight against the oppressors. They have accepted the rule of the Philistines. They would rather hand over their own countryman than get into trouble. Three thousand men come to tie up one single man.
+> This is a sad scene: The men of Judah do not fight against the oppressors. They have accepted the rule of the Philistines. They would rather hand over their own countryman than get into trouble. 3,000 men come to tie up one single man.
 > Earlier, Judah had been the first tribe to fight against the Canaanites (Chapter 1). Now Judah only wants peace and quiet.
 > Samson does not fight back against his own people. He lets himself be tied up.
 > In Hebrew, “Lehi” means “jawbone.” This fits what comes next.
@@ -103,10 +103,10 @@ Then the Spirit of the LORD came on him with power.
 The ropes on his arms became like flax that has been burned in the fire.
 And the ropes fell off his hands.
 [15] He found a fresh jawbone of a donkey.
-He reached out his hand, took it, and struck down a thousand men with it.
+He reached out his hand, took it, and struck down 1,000 men with it.
 [16] Samson said,
 “With the jawbone of a donkey, heaps on heaps.
-With the jawbone of a donkey I have struck a thousand men.”
+With the jawbone of a donkey I have struck 1,000 men.”
 [17] When he had finished speaking, he threw the jawbone out of his hand.
 And that place was called Ramath Lehi.
 
@@ -132,10 +132,10 @@ and water came out of it.
 When he had drunk, his strength came back, and he came back to life.
 That is why the spring was named En Hakkore.
 It is in Lehi to this day.
-[20] He judged Israel for twenty years, in the days of the Philistines.
+[20] He judged Israel for 20 years, in the days of the Philistines.
 
 > **What does this mean?**
 > For the first time, Samson prays. He realizes: Without God he is only a weak human being who can die of thirst. The strong hero needs help.
 > God answers right away. He lets water come out of the ground, just as he did for Israel in the wilderness long ago.
 > “En Hakkore” means “spring of the one who called.” The name reminds us: Samson called to God, and God answered.
-> Verse 20 says that Samson judged Israel for twenty years. He did not drive out the Philistines. They stayed in power. But he was a constant danger for them. This sentence stands here like an ending, and it is repeated once more at the end of Chapter 16.
+> Verse 20 says that Samson judged Israel for 20 years. He did not drive out the Philistines. They stayed in power. But he was a constant danger for them. This sentence stands here like an ending, and it is repeated once more at the end of Chapter 16.

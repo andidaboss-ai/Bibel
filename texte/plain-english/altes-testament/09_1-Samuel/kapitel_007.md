@@ -9,7 +9,7 @@
 They brought it into the house of Abinadab on the hill.
 And they dedicated his son Eleazar to guard the ark of the LORD.
 [2] From the day the ark stayed in Kiriath Jearim, a long time went by.
-It was twenty years.
+It was 20 years.
 And the whole house of Israel mourned and longed for the LORD.
 
 > **What does this mean?**
@@ -37,7 +37,7 @@ They fasted on that day and said there,
 And Samuel judged the people of Israel at Mizpah.
 
 > **What does this mean?**
-> For twenty years we hear nothing about Samuel. Now he steps forward and says clearly: Real turning back does not only mean mourning. Real turning back means: putting away everything that stands between you and God.
+> For 20 years we hear nothing about Samuel. Now he steps forward and says clearly: Real turning back does not only mean mourning. Real turning back means: putting away everything that stands between you and God.
 > Baal was a god of rain and fertility. Ashtoreth was a goddess of love and war. The plural forms “Baals” and “Ashtaroth” mean their many images and places of worship.
 > Pouring out water is a sign that does not appear like this anywhere else in the Bible. Maybe it means: We pour out our hearts before God, as Hannah did (Chapter 1:15). Or: Our life is before you like water poured out.
 > The people say honestly: “We have sinned.” That is the most important sentence when people turn back.

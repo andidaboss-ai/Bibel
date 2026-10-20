@@ -146,7 +146,7 @@ For they said, “The earth might swallow us up too!”
 > This is a terrible story. God shows in a frightening way whom he has chosen.
 > “Sheol” is the Hebrew word for the world of the dead. In the old way of thinking, it is the place where all the dead go, deep under the earth.
 > It is especially hard that the women and children die too. To us today this is almost unbearable. Back then, the family was seen as one unit. The Bible tells this honestly, without making it look better than it is.
-> But not all of Korah’s children died. Later it says clearly: “But the sons of Korah did not die” (Numbers 26:11). Their descendants became singers in the temple. Eleven psalms have the heading “by the sons of Korah” (Psalm 42; 44–49; 84–85; 87–88). Psalm 42, for example, begins with a deer that longs for streams of water. The child of a rebel became a singer of praise to God.
+> But not all of Korah’s children died. Later it says clearly: “But the sons of Korah did not die” (Numbers 26:11). Their descendants became singers in the temple. In all, 11 psalms have the heading “by the sons of Korah” (Psalm 42; 44–49; 84–85; 87–88). Psalm 42, for example, begins with a deer that longs for streams of water. The child of a rebel became a singer of praise to God.
 
 ---
 

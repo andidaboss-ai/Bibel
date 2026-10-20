@@ -67,7 +67,7 @@ It is a place where nothing on earth is lacking.”
 
 ## The Danites steal Micah’s idols (Verses 11–20)
 
-[11] Then six hundred men from the family of the Danites set out from there, from Zorah and Eshtaol,
+[11] Then 600 men from the family of the Danites set out from there, from Zorah and Eshtaol,
 armed with weapons of war.
 [12] They went up and camped at Kiriath Jearim in Judah.
 That is why that place is called Mahaneh Dan to this day.
@@ -83,11 +83,11 @@ and a carved image, and a cast metal image?
 So now think about what you want to do.”
 [15] They went over there and came to the house of the young Levite, to Micah’s house,
 and asked him how he was doing.
-[16] The six hundred men of the people of Dan, armed with their weapons of war,
+[16] The 600 men of the people of Dan, armed with their weapons of war,
 stood at the entrance of the gate.
 [17] The five men who had gone to spy out the land went up.
 They went in there and took the carved image, the ephod, the teraphim, and the cast metal image.
-And the priest stood at the entrance of the gate with the six hundred men armed with weapons of war.
+And the priest stood at the entrance of the gate with the 600 men armed with weapons of war.
 [18] When these men went into Micah’s house
 and took the carved image, the ephod, the teraphim, and the cast metal image,
 the priest said to them, “What are you doing?”
@@ -101,7 +101,7 @@ He took the ephod, the teraphim, and the carved image
 and went with the people.
 
 > **What does this mean?**
-> Six hundred warriors set out with their families. This was probably only a part of the tribe of Dan.
+> 600 warriors set out with their families. This was probably only a part of the tribe of Dan.
 > “Mahaneh Dan” means “camp of Dan.” This place was already mentioned in the story of Samson (Judges 13:25).
 > The Danites steal the idols. Micah had paid for them with stolen silver, and now they themselves are stolen. No one asks: Does God even want such images?
 > The Levite is not loyal. For a better job, he leaves Micah right away, who had taken him in like a son. He is even “glad.” He cares about honor and advantage, not about God.
@@ -160,7 +160,7 @@ It stayed there the whole time that the house of God was in Shiloh.
 
 > **What does this mean?**
 > The Danites attack a peaceful people without defense, who had done nothing to anyone. The Bible tells this without praise. God had not given them this task. This story shows how deeply Israel had sunk. It is not an example to follow, but a warning.
-> “Israel” in verse 29 is another name for Jacob. Dan was one of his twelve sons.
+> “Israel” in verse 29 is another name for Jacob. Dan was one of his 12 sons.
 > The city of Dan later became the northernmost city of Israel. People spoke of the land from Dan to Beersheba and meant the whole land from north to south. Later King Jeroboam set up a golden calf there (1 Kings 12:29). Dan remained a place of false worship.
 > Now we learn the Levite’s name: Jonathan, a grandson of Moses. It is shocking: Even the grandson of the great Moses serves idols.
 > In the Hebrew text, a small letter “n” is written above the line here. This turns the name “Moses” into “Manasseh.” Jewish Bible teachers have said: This was done to protect the honor of Moses. The WEB, our English source text, has “Moses.”

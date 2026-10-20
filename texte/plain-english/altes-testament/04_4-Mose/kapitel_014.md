@@ -93,7 +93,7 @@ just as you have forgiven these people from Egypt until now.”
 [21] But as surely as I live, and as surely as the whole earth will be filled with the glory of the LORD:
 [22] All these men have seen my glory and my signs,
 which I did in Egypt and in the wilderness.
-And yet they have tested me these ten times
+And yet they have tested me these 10 times
 and have not listened to my voice.
 [23] So they will surely not see the land that I promised their ancestors with an oath.
 None of those who treated me with contempt will see it.
@@ -106,7 +106,7 @@ So tomorrow turn around and go into the wilderness, on the road to the Red Sea.�
 
 > **What does this mean?**
 > God forgives. The people are not destroyed. But forgiveness does not mean that there are no consequences. Whoever does not trust God cannot go into a land that can only be won with trust.
-> “Ten times” means: again and again. The number ten stands for completeness.
+> The words “10 times” mean: again and again. The number 10 stands for completeness.
 > Caleb has “a different spirit.” He sees the same things as the others, but he has trust instead of fear.
 > “Red Sea”: That is what the WEB, our English source text, says. In Hebrew it says “Sea of Reeds.” Here it probably means the Gulf of Aqaba.
 
@@ -150,7 +150,7 @@ In this wilderness they will come to an end, and there they will die.”
 
 ---
 
-## The ten spies die (Verses 36–38)
+## The 10 spies die (Verses 36–38)
 
 [36] Moses had sent men to explore the land.
 They came back and made the whole community complain against him,
@@ -161,7 +161,7 @@ died by a plague before the LORD.
 Joshua the son of Nun and Caleb the son of Jephunneh stayed alive.
 
 > **What does this mean?**
-> The ten spies carry a special responsibility. They infected the whole people with their fear.
+> The 10 spies carry a special responsibility. They infected the whole people with their fear.
 > Joshua and Caleb survive. They will be the only ones of their generation to enter the land.
 
 ---

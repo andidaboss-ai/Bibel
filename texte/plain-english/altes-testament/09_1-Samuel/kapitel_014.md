@@ -50,7 +50,7 @@ for the LORD has given them into the hand of Israel.”
 The Philistines fell in front of Jonathan,
 and his armor bearer killed them behind him.
 [14] In that first attack, Jonathan and his armor bearer
-killed about twenty men,
+killed about 20 men,
 in an area of about half a furrow’s length in a field.
 [15] Then there was terror in the camp, in the field, and among all the people.
 The outpost and the raiders also trembled.
@@ -127,8 +127,9 @@ And the people were worn out.
 “My father has brought trouble on the land.
 Look how my eyes have brightened
 because I tasted a little of this honey.
-[30] How much better it would have been if the people had eaten freely today from the plunder of their enemies
-that they found!
+[30] How much better it would have been
+if the people had eaten freely today
+from the plunder they found from their enemies!
 For now the defeat of the Philistines has not been great.”
 
 > **What does this mean?**
@@ -245,7 +246,7 @@ the older one was named Merab, and the younger one was named Michal.
 The name of the commander of his army was Abner, the son of Ner, Saul’s uncle.
 [51] Kish was the father of Saul,
 and Ner, the father of Abner, was the son of Abiel.
-[52] There was hard war against the Philistines as long as Saul lived.
+[52] There was fierce war against the Philistines as long as Saul lived.
 And whenever Saul saw a strong man or a brave man,
 he took him into his service.
 

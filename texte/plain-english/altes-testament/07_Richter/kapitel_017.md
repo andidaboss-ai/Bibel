@@ -8,17 +8,17 @@
 [1] There was a man from the hill country of Ephraim.
 His name was Micah.
 [2] He said to his mother,
-“The eleven hundred pieces of silver that were taken from you –
+“The 1,100 pieces of silver that were taken from you –
 you spoke a curse about it, and you said it so that I heard it too –
 look, the silver is with me. I took it.”
 His mother said, “May the LORD bless my son!”
-[3] He gave the eleven hundred pieces of silver back to his mother.
+[3] He gave the 1,100 pieces of silver back to his mother.
 Then his mother said,
 “I truly dedicate the silver to the LORD, from my hand for my son,
 to make a carved image and a cast metal image.
 So now I will give it back to you.”
 [4] When he gave the money back to his mother,
-his mother took two hundred pieces of silver and gave them to a silversmith.
+his mother took 200 pieces of silver and gave them to a silversmith.
 He made a carved image and a cast metal image out of it.
 It was in Micah’s house.
 [5] The man Micah had a house of gods.
@@ -52,7 +52,7 @@ I am looking for a place to live.”
 [10] Micah said to him,
 “Live with me.
 Be a father and a priest to me.
-I will give you ten pieces of silver a year, a set of clothes, and your food.”
+I will give you 10 pieces of silver a year, a set of clothes, and your food.”
 So the Levite went in.
 [11] The Levite was happy to live with the man.
 And the young man was like one of his sons to him.
@@ -65,6 +65,6 @@ because I have a Levite as my priest.”
 > **What does this mean?**
 > The Levites had no land of their own. They were to live in the Levite cities and live from the tithes of the people (Joshua 21). That this Levite is wandering around looking for work shows: The people no longer took care of the Levites.
 > A tithe is a tenth of what someone earns or harvests.
-> Ten pieces of silver a year are about 4 ounces of silver.
+> 10 pieces of silver a year are about 4 ounces of silver.
 > Micah thinks: Now I have a “real” priest, so God has to bless me. He thinks that you could buy God’s blessing with the right things and the right people. But he has idols in his house. God does not let himself be used like that.
 > “Father” was a title of honor for a spiritual teacher.

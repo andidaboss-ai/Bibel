@@ -65,7 +65,7 @@ in the first days, at the beginning of the barley harvest.
 > Some interpreters also ask whether David was not glad to get rid of possible rivals from Saul’s family. After all, Shimei had accused him of being a “man of blood” toward the house of Saul (Chapter 16:8).
 > David spares Mephibosheth, Jonathan’s son. He keeps his promise to Jonathan.
 > Here there is another Mephibosheth, a son of Saul and Rizpah.
-> “Merab”: that is what our English source text and some manuscripts say. The main Hebrew text says “Michal.” But Merab was married to Adriel (1 Samuel 18:19), and Michal had no children (Chapter 6:23).
+> “Merab”: that is what the WEB, our English source text, and some manuscripts say. The main Hebrew text says “Michal.” But Merab was married to Adriel (1 Samuel 18:19), and Michal had no children (Chapter 6:23).
 > We read this text as a report from a harsh time, not as an example. No one today may punish people for what their parents did.
 
 ---
@@ -80,7 +80,7 @@ or the animals of the field by night.
 [11] David was told what Rizpah the daughter of Aiah, the concubine of Saul, had done.
 [12] So David went and took the bones of Saul and the bones of his son Jonathan
 from the men of Jabesh Gilead.
-They had secretly taken them from the street of Beth Shan,
+They had stolen them from the town square of Beth Shan,
 where the Philistines had hanged them
 on the day the Philistines killed Saul at Gilboa.
 [13] He brought up the bones of Saul and the bones of his son Jonathan from there.
@@ -104,7 +104,7 @@ After that, God answered prayer for the land.
 David went down with his servants, and they fought against the Philistines.
 And David became weak and tired.
 [16] Ishbibenob, who was one of the sons of the giant,
-whose spear weighed 300 shekels of bronze, about 7½ pounds,
+whose spear weighed 300 shekels of bronze (about 7½ pounds),
 and who was armed with a new sword,
 thought that he could kill David.
 [17] But Abishai the son of Zeruiah helped him.
@@ -133,6 +133,6 @@ And they fell by the hand of David and by the hand of his servants.
 > “The lamp of Israel”: the king is like a light for the whole people. If he dies, the light goes out. That is why David should not fight himself anymore.
 > The Bible says “300 shekels.” A shekel is about 0.4 ounces.
 > In Hebrew “the giant” is called “Rapha.” The “Rephaim” were a people of very tall people who had lived in the land earlier (Deuteronomy 2:11).
-> Verse 19: here the Hebrew text only says that Elhanan killed Goliath the Gittite. 1 Chronicles 20:5 says: “Elhanan the son of Jair killed Lahmi the brother of Goliath.” Our English source text added the words “the brother of,” so that the text does not contradict 1 Samuel 17. Interpreters explain this passage in different ways.
+> Verse 19: here the Hebrew text only says that Elhanan killed Goliath the Gittite. 1 Chronicles 20:5 says: “Elhanan the son of Jair killed Lahmi the brother of Goliath.” The WEB, our English source text, added the words “the brother of,” so that the text does not contradict 1 Samuel 17. Interpreters explain this passage in different ways.
 > Six fingers and six toes: this still happens to people sometimes today. It is something a person is born with.
 > The message: it was not only David who could defeat giants. His men could do it too, trusting in God.

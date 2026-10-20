@@ -42,7 +42,7 @@ So she wept and did not eat.
 “Hannah, why are you weeping?
 Why don’t you eat?
 Why is your heart so sad?
-Am I not better to you than ten sons?”
+Am I not better to you than 10 sons?”
 
 > **What does this mean?**
 > Ramathaim Zophim is called “Ramah” for short in verse 19. It was in the hill country north of Jerusalem.
@@ -50,7 +50,7 @@ Am I not better to you than ten sons?”
 > “The LORD of Armies” is in Hebrew “YHWH Tsebaoth.” This name for God appears here for the first time in the Bible. It means: God is the Lord over all powers in heaven and on earth. The WEB, our English source text, says “Yahweh of Armies.”
 > At that time, the holy tent with the ark of the covenant stood in Shiloh. People went there once a year for the great feast.
 > Being childless was a great sorrow and a disgrace at that time. Many people thought God had punished the woman. Peninnah takes advantage of this and hurts Hannah, especially at the feasts.
-> Elkanah loves Hannah. But he does not fully understand her pain. He means well, but his question “Am I not better to you than ten sons?” does not comfort her.
+> Elkanah loves Hannah. But he does not fully understand her pain. He means well, but his question “Am I not better to you than 10 sons?” does not comfort her.
 
 ---
 

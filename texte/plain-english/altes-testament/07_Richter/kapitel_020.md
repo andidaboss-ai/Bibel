@@ -43,8 +43,8 @@ Give your advice and your opinion here.”
 and none of us will go back to his house.
 [9] But this is what we will do to Gibeah now:
 We will go up against it as the lot decides.
-[10] From all the tribes of Israel we will take ten men out of a hundred,
-a hundred out of a thousand, and a thousand out of ten thousand,
+[10] From all the tribes of Israel we will take 10 men out of 100,
+100 out of 1,000, and 1,000 out of 10,000,
 to get food for the people.
 Then, when they come to Gibeah in Benjamin,
 they will do what is right for all the shameful things the men of Gibeah have done in Israel.”
@@ -127,7 +127,7 @@ and lined up against Gibeah as at the other times.
 [31] The people of Benjamin went out against the people and were drawn away from the city.
 They began to strike down and kill some of the people as at the other times,
 on the highways, one of which goes up to Bethel and the other to Gibeah,
-in the open field, about thirty men of Israel.
+in the open field, about 30 men of Israel.
 [32] The people of Benjamin said,
 “They are being struck down in front of us, as at the first.”
 But the people of Israel said,
@@ -161,7 +161,7 @@ and struck the whole city with the edge of the sword.
 [38] The men of Israel and the men in ambush had agreed on a sign:
 They were to make a great cloud of smoke rise up out of the city.
 [39] The men of Israel turned around in the battle.
-And Benjamin began to strike down and kill about thirty of the men of Israel.
+And Benjamin began to strike down and kill about 30 of the men of Israel.
 For they said,
 “They are surely being struck down in front of us, as in the first battle.”
 [40] But when the cloud began to rise out of the city like a pillar of smoke,

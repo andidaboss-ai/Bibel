@@ -69,7 +69,7 @@ should I not now demand his blood from your hand
 and rid the earth of you?”
 [12] David gave the order to his young men, and they killed them.
 They cut off their hands and their feet
-and hanged them up beside the pool in Hebron.
+and hung them up beside the pool in Hebron.
 But they took the head of Ishbosheth
 and buried it in Abner’s grave in Hebron.
 

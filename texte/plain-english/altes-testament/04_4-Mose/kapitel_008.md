@@ -18,7 +18,7 @@ He made the lampstand by the pattern that the LORD had shown Moses.
 
 > **What does this mean?**
 > After the gifts of the tribal leaders (Chapter 7), the lampstand is lit. Now there is light in the sanctuary.
-> The lamps shall shine forward, toward the table with the twelve loaves of bread across from it. The light of God shines on the twelve tribes.
+> The lamps shall shine forward, toward the table with the 12 loaves of bread across from it. The light of God shines on the 12 tribes.
 
 ---
 
