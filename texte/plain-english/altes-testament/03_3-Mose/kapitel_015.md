@@ -10,7 +10,7 @@
 ‘When any man has a discharge from his body,
 he is unclean because of his discharge.
 A discharge is a fluid that flows out of the body.
-[3] This is how his uncleanness is with his discharge:
+[3] This is his uncleanness because of his discharge:
 Whether his body lets the discharge run, or his body holds it back,
 it is his uncleanness.
 
@@ -115,7 +115,7 @@ So the priest shall make atonement for her before the LORD because of her unclea
 
 > **What does this mean?**
 > This is about an illness: bleeding that does not stop.
-> The New Testament tells about a woman who suffered from bleeding like this for twelve years. The whole time she was “unclean” and shut out. Full of trust, she touched Jesus’ clothes and was healed. Jesus did not scold her for touching him. He said lovingly to her: My daughter, your faith has saved you. Go in peace (Mark 5:25–34).
+> The New Testament tells about a woman who suffered from bleeding like this for twelve years. The whole time she was “unclean” and shut out. Full of trust, she touched Jesus’ clothes and was healed. Jesus did not scold her for touching him. He said lovingly to her: “Daughter, your faith has made you well. Go in peace” (Mark 5:25–34).
 
 ---
 

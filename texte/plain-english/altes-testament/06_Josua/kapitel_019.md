@@ -13,9 +13,9 @@ Their land lay in the middle of the land of the people of Judah.
 [4] Eltolad, Bethul, Hormah,
 [5] Ziklag, Beth Marcaboth, Hazar Susah,
 [6] Beth Lebaoth, and Sharuhen.
-Thirteen cities with their villages.
+That makes 13 cities with their villages.
 [7] Ain, Rimmon, Ether, and Ashan.
-Four cities with their villages.
+That makes 4 cities with their villages.
 [8] They also got all the villages around these cities, as far as Baalath Beer.
 Baalath Beer is Ramah of the South.
 This is the land of the tribe of Simeon and its clans.

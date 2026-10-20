@@ -8,7 +8,7 @@
 [1] The LORD spoke to Moses.
 He said:
 [2] “Speak to the people of Israel and tell them:
-‘A man or a woman may make a special vow,
+‘Suppose a man or a woman makes a special vow,
 the vow of a Nazirite, to set himself apart for the LORD.
 A vow is a solemn promise to God.
 [3] Then he shall stay away from wine and strong drink.
@@ -40,7 +40,7 @@ For the sign that he is set apart for God is on his head.
 
 ## When someone suddenly dies beside him (Verses 9–12)
 
-[9] “‘Someone may die very suddenly beside him.
+[9] “‘Suppose someone dies very suddenly beside him.
 And so he makes his head that is set apart unclean.
 Then he shall shave his head on the day he is made clean.
 He shall shave it on the seventh day.

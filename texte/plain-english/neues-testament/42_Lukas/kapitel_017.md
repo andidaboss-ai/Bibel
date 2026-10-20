@@ -7,7 +7,7 @@
 
 [1] Jesus said to his disciples,
 “Things that make people fall into sin will surely come.
-But how bad it will be for the person who causes them!
+But how terrible it will be for the person who causes them!
 [2] Suppose someone causes one of these little ones to fall into sin.
 It would be better for him
 to have a millstone tied around his neck
@@ -166,7 +166,7 @@ He said to them,
 there the vultures will gather.”
 
 > **What does this mean?**
-> Verses 20–21: God’s Kingdom cannot be calculated or pinned down to one place. The WEB says “within you.” The Greek word can also be translated “among you.” Both are possible: God’s Kingdom is already here, in Jesus, among the people.
+> Verses 20–21: God’s Kingdom cannot be calculated or pinned down to one place. The WEB, our English source text, says “within you.” The Greek word can also be translated “among you.” Both are possible: God’s Kingdom is already here, in Jesus, among the people.
 > Verse 23: Jesus warns: Don’t run after people who claim to know exactly when and where the end will come. Today too there are groups that announce such dates. Beware of them.
 > Verse 25: Again Jesus foretells his suffering.
 > Verses 26–30: In the time of Noah and of Lot, people simply went on living without thinking of God (Genesis 6–7 and 19). Eating, marrying and working are not bad. But you should not forget God while doing them.

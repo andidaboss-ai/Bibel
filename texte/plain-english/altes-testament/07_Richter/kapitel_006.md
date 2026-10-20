@@ -56,7 +56,7 @@ to hide it from the Midianites.
 “The LORD is with you, you mighty hero!”
 [13] Gideon said to him,
 “Oh, my lord, if the LORD is with us, why has all this happened to us?
-Where are all his wonderful works that our fathers told us about, when they said,
+Where are all his wonderful works that our ancestors told us about, when they said,
 ‘Didn’t the LORD bring us up from Egypt?’
 But now the LORD has thrown us away and given us into the hand of Midian.”
 [14] The LORD looked at him and said,

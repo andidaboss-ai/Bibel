@@ -48,7 +48,7 @@ but the Spirit gives life.
 [7] The service of death,
 engraved in letters on stones,
 already came with glory.
-The children of Israel could not look at Moses’ face,
+The people of Israel could not look at Moses’ face,
 because of the glory of his face,
 which was passing away.
 [8] Won’t the service of the Spirit
@@ -80,7 +80,7 @@ is much more glorious.
 we speak with great boldness.
 [13] We are not like Moses,
 who put a veil over his face,
-so that the children of Israel wouldn’t look at the end
+so that the people of Israel wouldn’t look at the end
 of what was passing away.
 [14] But their minds were hardened.
 For until this very day the same veil remains

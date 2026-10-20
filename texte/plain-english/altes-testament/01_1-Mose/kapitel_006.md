@@ -45,7 +45,7 @@ For I am sorry that I have made them.”
 [8] But Noah found favor in the eyes of the LORD.
 
 > **What does this mean?**
-> In the beginning, God looked at the world and said: “Very good.” Now he looks at the world, and it hurts him in his heart.
+> In the beginning, God looked at the world and saw that it was very good. Now he looks at the world, and it hurts him in his heart.
 > God is not cold and without feelings. Evil makes him sad – just as parents are sad when their child is on a bad path.
 > But then comes a big **but**: Noah. “To find favor” means: God looks kindly at him. In the middle of judgment, there is grace.
 
@@ -82,11 +82,11 @@ Look: I will destroy them, together with the earth.”
 
 ## Build a ship! (Verses 14–16)
 
-[14] “Make yourself a ship out of gopher wood.
+[14] “Make yourself a ship out of gopher wood.”
 This ship is often called the ark.
 It is a huge ship shaped like a box.
-Make rooms in the ship.
-And cover it with pitch inside and outside, so that it is watertight.
+“Make rooms in the ship.
+And cover it with pitch inside and outside.
 [15] This is how you are to make it:
 about 450 feet long, about 75 feet wide and about 45 feet high.
 [16] Make a roof for the ship.
@@ -108,9 +108,9 @@ And build it with three levels: a lower, a middle and an upper level.”
 I will destroy all life under the sky, everything that has the breath of life.
 Everything that is on the earth will die.
 
-[18] “But I will make my covenant with you.
+[18] “But I will make my covenant with you.”
 A covenant is a firm promise.
-You are to go into the ship:
+“You are to go into the ship:
 you, your sons, your wife and your sons’ wives with you.
 
 [19] “And of every living thing, of all living beings,

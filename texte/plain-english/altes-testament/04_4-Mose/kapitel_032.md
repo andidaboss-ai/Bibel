@@ -154,7 +154,7 @@ They gave other names to the cities that they built.
 They took it and drove out the Amorites who lived there.
 [40] Moses gave Gilead to Machir, the son of Manasseh.
 And he lived there.
-[41] Jair, the son of Manasseh, went and took their villages.
+[41] Jair, the son of Manasseh, went and took its villages.
 He called them Havvoth Jair.
 [42] Nobah went and took Kenath and its villages.
 He called it Nobah, after his own name.

@@ -40,8 +40,8 @@ They did just as the LORD had commanded them.
 He said,
 [9] “When Pharaoh says to you, ‘Do a miracle!’
 then tell Aaron,
-‘Take your staff and throw it down before Pharaoh.’
-Then it will become a snake.”
+‘Take your staff and throw it down before Pharaoh,
+and it will become a snake.’”
 
 [10] So Moses and Aaron went to Pharaoh.
 They did as the LORD had commanded.

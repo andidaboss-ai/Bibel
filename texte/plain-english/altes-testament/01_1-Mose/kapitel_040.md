@@ -5,7 +5,7 @@
 
 ## Two new prisoners (Verses 1–4)
 
-[1] After these things, the butler of the king of Egypt and his baker did wrong against their lord, the king of Egypt.
+[1] After these things, the cup bearer of the king of Egypt and his baker did wrong against their lord, the king of Egypt.
 [2] Pharaoh was angry with his two officers, the chief cup bearer and the chief baker.
 [3] He put them under guard in the house of the captain of the guard,
 in the prison, the place where Joseph was locked up.
@@ -22,9 +22,10 @@ They stayed in prison for many days.
 
 ## Two dreams (Verses 5–8)
 
-[5] One night, both of them had a dream, each man his own dream.
+[5] One night, the cup bearer and the baker of the king of Egypt,
+who were locked up in the prison, both had a dream.
+Each man had his own dream.
 Each dream had its own meaning.
-The cup bearer and the baker of the king of Egypt, who were locked up in the prison, both had a dream.
 [6] In the morning, Joseph came in to them.
 He looked at them and saw that they were sad.
 [7] He asked Pharaoh’s officers, who were under guard with him in his master’s house,
@@ -87,9 +88,9 @@ But the birds were eating them out of the basket on my head.”
 [18] Joseph answered,
 “This is what it means:
 The three baskets are three days.
-[19] Within three days, Pharaoh will lift up your head – off of you.
+[19] Within three days, Pharaoh will lift up your head from your body.
 He will hang you on a tree.
-And the birds will eat your flesh off of you.”
+And the birds will eat the flesh from your body.”
 
 > **What does this mean?**
 > The baker hopes for good news. But Joseph has to tell him the terrible truth. Joseph is honest, even when it is hard.

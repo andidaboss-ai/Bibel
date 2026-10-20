@@ -61,8 +61,8 @@ and was baptized by John in the Jordan.
 he saw the heavens opening
 and the Spirit coming down on him like a dove.
 [11] And a voice came out of the sky:
-“You are my beloved Son,
-in whom I am well pleased.”
+“You are my Son. I love you.
+I am very pleased with you.”
 [12] Immediately the Spirit drove him out into the wilderness.
 [13] He was in the wilderness forty days
 and was tempted by Satan.
@@ -71,7 +71,7 @@ and the angels were serving him.
 
 > **What does this mean?**
 > Nazareth was a small, unimportant village in Galilee, in the north of the country.
-> In Mark, Jesus himself sees the open heavens, and the voice speaks directly to him: “You are my beloved Son.” This reminds us of Psalm 2:7 and Isaiah 42:1.
+> In Mark, Jesus himself sees the open heavens, and the voice speaks directly to him: “You are my Son. I love you.” This reminds us of Psalm 2:7 and Isaiah 42:1.
 > The dove is a picture of the Holy Spirit, of God’s power and peace.
 > Verses 12–13: Mark tells about the temptation very briefly (in more detail in Matthew 4:1–11). Forty days remind us of Israel’s forty years in the wilderness and of Moses and Elijah.
 > “With the wild animals”: Only Mark tells this. Some interpreters see it as a picture of peace with creation, as in paradise (compare Isaiah 11:6–9).

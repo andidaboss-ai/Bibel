@@ -126,7 +126,7 @@ Then your children cannot say to our children in the future,
 [28] That is why we said,
 ‘If they say this to us or to our descendants in the future,
 we will answer,
-“Look at the copy of the LORD’s altar, which our fathers made,
+“Look at the copy of the LORD’s altar, which our ancestors made,
 not for burnt offerings and not for sacrifices,
 but as a witness between us and you.”’
 [29] Far be it from us to rebel against the LORD

@@ -27,15 +27,16 @@ As the LORD had told Moses, so the people of Israel did.
 [5] The LORD spoke to Moses.
 He said:
 [6] “Speak to the people of Israel:
-‘A man or a woman may commit any sin that people commit
-and so be unfaithful to the LORD.
+‘Suppose a man or a woman commits any sin that people commit
+and so is unfaithful to the LORD.
 Then that person is guilty.
 [7] He shall confess the sin that he has done.
 And he shall pay back the damage in full
 and add one fifth to it.
 He shall give it to the person he has wronged.
-[8] But the person may have no relative to whom the damage can be paid back.
-Then the payment for the guilt belongs to the LORD, that means: to the priest.
+[8] But suppose the person has no relative to whom the damage can be paid back.
+Then the payment for the guilt is made to the LORD.
+It belongs to the priest.
 This is in addition to the ram of atonement, with which atonement is made for the guilty person.
 Atonement means: the guilt is taken away, and there is peace with God again.
 [9] Every offering that is lifted up from all the holy gifts that the people of Israel bring to the priest shall be his.
@@ -54,9 +55,9 @@ Whatever anyone gives to the priest shall be his.’”
 [11] The LORD spoke to Moses.
 He said:
 [12] “Speak to the people of Israel and tell them:
-‘A man’s wife may go astray and be unfaithful to him.
-[13] Another man may sleep with her.
-It may be hidden from the eyes of her husband and kept secret.
+‘Suppose a man’s wife goes astray and is unfaithful to him.
+[13] Another man sleeps with her.
+It is hidden from the eyes of her husband and kept secret.
 She has made herself unclean,
 but there is no witness against her,
 and she was not caught in the act.
@@ -94,12 +95,12 @@ And the priest shall hold in his hand the bitter water that brings a curse.
 [19] “‘The priest shall make the woman take an oath and say to her:
 “If no man has slept with you,
 and if you have not gone astray and made yourself unclean
-while you were under your husband’s care,
+while you were under your husband’s authority,
 then may this bitter water that brings a curse not harm you.
-[20] But you may have gone astray
-while you were under your husband’s care,
-and you may have made yourself unclean,
-and a man other than your husband may have slept with you –”
+[20] But if you have gone astray
+while you were under your husband’s authority,
+and if you have made yourself unclean,
+and a man other than your husband has slept with you –”
 [21] then the priest shall make the woman swear the oath with the curse.
 And the priest shall say to the woman:
 “May the LORD make you a curse and an oath among your people,
@@ -137,7 +138,7 @@ then she shall be free and shall be able to have children.
 ## Summary (Verses 29–31)
 
 [29] “‘This is the law for jealousy,
-when a wife who is under her husband’s care goes astray and makes herself unclean,
+when a wife who is under her husband’s authority goes astray and makes herself unclean,
 [30] or when a spirit of jealousy comes over a man and he is jealous of his wife.
 Then he shall set the woman before the LORD,
 and the priest shall carry out this whole law on her.

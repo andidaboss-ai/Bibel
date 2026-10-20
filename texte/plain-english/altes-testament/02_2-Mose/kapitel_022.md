@@ -89,11 +89,11 @@ If it was rented, the loss is covered by the rent.
 [16] “A man may talk a young woman into sleeping with him.
 She is a virgin and not promised to anyone in marriage.
 Then he must pay the bride price for her and marry her.
-A bride price is money that the groom gives to the bride’s family.
 [17] If her father firmly refuses to give her to him as a wife,
 he must still pay as much money as the bride price for a virgin.
 
 > **What does this mean?**
+> A bride price is money that the groom gives to the bride’s family.
 > Back then, it was very hard for a woman who was no longer a virgin to find a husband. Without a husband, she had hardly any future in that society.
 > This law protects the young woman: the man may not simply leave her. He has to take responsibility.
 > But the father can also forbid the marriage, for example if the man is a bad person. Then the man still has to pay.

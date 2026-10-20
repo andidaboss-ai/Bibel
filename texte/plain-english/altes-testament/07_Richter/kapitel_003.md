@@ -13,7 +13,7 @@ so that they would be taught war, at least those who had not known it before:
 and the Hivites who lived on Mount Lebanon, from Mount Baal Hermon to the entrance of Hamath.
 [4] They were left to test Israel by them,
 to find out whether they would listen to the commandments of the LORD,
-which he had commanded their fathers through Moses.
+which he had commanded their ancestors through Moses.
 [5] So the people of Israel lived among the Canaanites, the Hittites, the Amorites,
 the Perizzites, the Hivites, and the Jebusites.
 [6] They took their daughters as wives
@@ -113,7 +113,7 @@ Then the people of Israel went down with him from the hill country, and he led t
 “Follow me! For the LORD has given your enemies, the Moabites, into your hand.”
 They followed him and took the fords of the Jordan against the Moabites.
 And they did not let anyone cross over.
-[29] At that time they struck about ten thousand men of Moab, all strong and brave men.
+[29] At that time they struck about 10,000 men of Moab, all strong and brave men.
 No one escaped.
 [30] So that day Moab was brought down under the hand of Israel.
 And the land had rest for eighty years.

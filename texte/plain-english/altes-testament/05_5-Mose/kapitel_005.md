@@ -86,7 +86,7 @@ That is why the LORD your God has commanded you to keep the Sabbath day.
 > There it says “Remember the Sabbath day.” Here it says “Keep the Sabbath day.”
 > There the reason is: God made the world in six days and rested on the seventh. Here the reason is: You yourself were a slave in Egypt. That is why your male servants and female servants should also be allowed to rest, “as well as you.”
 > So the Sabbath is also a social commandment. No one should have to work without a break. Even the weakest people, and even the animals, have a right to rest. Nothing like that existed anywhere else back then.
-> The servants mentioned here were often slaves. The WEB uses the word “servant.”
+> The servants mentioned here were often slaves. The WEB, our English source text, uses the word “servant.”
 
 ---
 

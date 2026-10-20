@@ -39,7 +39,7 @@ This will be your northern border.
 > **What does this mean?**
 > The “great sea” is the Mediterranean Sea.
 > Mount Hor here in the north is a different mountain from the Mount Hor where Aaron died. That one was in the south, near Edom.
-> The English source text says “the entrance of Hamath.” Many translate it as a place name: “Lebo Hamath.” Hamath was a city in what is today Syria.
+> The WEB, our English source text, says “the entrance of Hamath.” Many translate it as a place name: “Lebo Hamath.” Hamath was a city in what is today Syria.
 
 ---
 

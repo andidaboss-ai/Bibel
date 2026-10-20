@@ -29,7 +29,7 @@ But save us from the evil one.’”
 > The Lord’s Prayer is the most important prayer of Christians. It unites all churches. A longer form is in Matthew 6:9–13.
 > Jesus prays himself, and the disciples want to pray the way he does. He teaches them to call God “Father.” That shows closeness and trust.
 > Many of the requests have roots in Jewish prayer, for example in the Kaddish, which asks that God’s great name be made holy and that his kingdom come. Jesus prays as a Jew.
-> The oldest manuscripts of Luke have a shorter form. It begins simply with Father, and it does not have the words “Our,” “in heaven,” “May your will be done …” and “But save us from the evil one.” The WEB has the longer form.
+> The oldest manuscripts of Luke have a shorter form. It begins simply with Father, and it does not have the words “Our,” “in heaven,” “May your will be done …” and “But save us from the evil one.” The WEB, our English source text, has the longer form.
 > “From the evil one”: The WEB means evil as a person. It can also be understood as evil in general.
 > “Don’t bring us into temptation”: God does not want to lead anyone into evil (James 1:13). What is meant is: Keep us safe in hard tests.
 > For today: You don’t need beautiful words to pray. You may tell God everything, as you would a good father or a good mother.
@@ -247,20 +247,20 @@ that Jesus did not wash first before the meal.
 “You Pharisees clean the outside of cups and plates.
 But inside you are full of greed and evil.
 [40] You fools!
-God made the outside.
-Didn’t he also make the inside?
+The one who made the outside
+also made the inside, didn’t he?
 [41] Give what is inside to the poor.
 Then everything will be clean for you.
-[42] How bad it will be for you Pharisees!
+[42] How terrible it will be for you Pharisees!
 You give God a tenth of your mint and rue
 and of every herb in your garden.
 But you ignore justice and the love of God.
 You should do these things,
 without leaving the other things undone.
-[43] How bad it will be for you Pharisees!
+[43] How terrible it will be for you Pharisees!
 You love the most important seats in the synagogues.
 You love it when people greet you with respect in the marketplaces.
-[44] How bad it will be for you, scribes and Pharisees, hypocrites!
+[44] How terrible it will be for you, scribes and Pharisees, hypocrites!
 You are like graves that no one can see.
 People walk over them
 without knowing it.”
@@ -268,12 +268,12 @@ without knowing it.”
 “Teacher, when you say these things,
 you insult us too.”
 [46] Jesus said,
-“How bad it will be for you experts in the law too!
+“How terrible it will be for you experts in the law too!
 You put heavy loads on people
 that are hard to carry.
 But you yourselves will not lift one finger
 to help them carry these loads.
-[47] How bad it will be for you!
+[47] How terrible it will be for you!
 You build tombs for the prophets.
 But it was your ancestors who killed them.
 [48] So you show that you agree
@@ -291,7 +291,7 @@ that has been spilled since the world was made,
 Zachariah was killed between the altar and the temple.
 Yes, I tell you,
 this generation will be held responsible for it all.
-[52] How bad it will be for you experts in the law!
+[52] How terrible it will be for you experts in the law!
 You have taken away the key of knowledge.
 You did not go in yourselves.
 And you stopped others who were trying to go in.”

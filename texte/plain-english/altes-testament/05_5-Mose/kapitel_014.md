@@ -32,13 +32,13 @@ To chew the cud means: to bring food back up from the stomach and chew it again,
 the camel, the hare, and the rabbit.
 For they chew the cud, but they do not have a split hoof.
 They are unclean for you.
-[8] And the pig, because it has a split hoof, but it does not chew the cud.
-It is unclean for you.
+[8] The pig has a split hoof, but it does not chew the cud.
+So it is unclean for you.
 You shall not eat their meat, and you shall not touch their dead bodies.
 
 > **What does this mean?**
 > We already know these food laws from Leviticus 11. Here they are repeated for the new generation.
-> “Rabbit”: That is what the WEB says. The Hebrew says “shaphan.” That is probably the rock hyrax, a small animal that lives among rocks. The hare and the rock hyrax chew all the time, and when they do, it looks as if they are chewing the cud.
+> “Rabbit”: That is what the WEB, our English source text, says. The Hebrew says “shaphan.” That is probably the rock hyrax, a small animal that lives among rocks. The hare and the rock hyrax chew all the time, and when they do, it looks as if they are chewing the cud.
 > Why exactly these rules? The Bible does not say. What is important: Israel should show even in eating that it belongs to God. To this day, many Jews keep these rules. This is called “kosher.”
 > According to the New Testament, these food laws no longer apply to Christians (Mark 7:19; Acts 10).
 

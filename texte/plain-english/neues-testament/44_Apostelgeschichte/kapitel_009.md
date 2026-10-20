@@ -84,7 +84,7 @@ who call on your name.”
 For he is my chosen instrument
 to carry my name
 to the nations and kings,
-and the children of Israel.
+and the people of Israel.
 [16] For I will show him
 how many things he must suffer for my name’s sake.”
 [17] So Ananias went

@@ -176,7 +176,7 @@ the stones would shout.”
 
 > **What does this mean?**
 > Bethsphage and Bethany were villages on the Mount of Olives, east of Jerusalem. Olivet is another name for the Mount of Olives.
-> The WEB says “colt”: a young animal, a foal. Matthew and John say clearly that it was a donkey. Jesus does not come on a war horse, but in peace, as the prophet Zechariah had announced (Zechariah 9:9).
+> The WEB, our English source text, says “colt”: a young animal, a foal. Matthew and John say clearly that it was a donkey. Jesus does not come on a war horse, but in peace, as the prophet Zechariah had announced (Zechariah 9:9).
 > An animal that no one had ever ridden was seen as especially suited for a holy purpose.
 > Verse 36: Laying cloaks on the road was a way to honor a king (2 Kings 9:13).
 > Verse 38 quotes Psalm 118:26. Pilgrims sang this psalm on the way to the temple. “Peace in heaven” is a reminder of the song of the angels at Jesus’ birth (Luke 2:14).

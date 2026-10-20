@@ -98,7 +98,7 @@ Antipas was my faithful witness.
 He was killed in your city, where Satan lives.
 [14] But I have a few things against you.
 Some of you there follow the teaching of Balaam.
-Balaam taught Balak how to make the children of Israel fall.
+Balaam taught Balak how to make the people of Israel fall.
 So they ate food that was sacrificed to idols,
 and they committed sexual immorality.
 [15] In the same way, some of you follow the teaching of the Nicolaitans.

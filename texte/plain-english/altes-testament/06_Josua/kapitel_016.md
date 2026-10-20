@@ -3,9 +3,9 @@
 
 ---
 
-## The lot for the children of Joseph (Verses 1–4)
+## The lot for the people of Joseph (Verses 1–4)
 
-[1] The lot for the children of Joseph came out like this:
+[1] The lot for the people of Joseph came out like this:
 from the Jordan at Jericho, at the waters of Jericho on the east,
 through the wilderness that goes up from Jericho through the hill country to Bethel.
 [2] From Bethel it went out to Luz
@@ -13,10 +13,10 @@ and went along to the territory of the Archites, to Ataroth.
 [3] It went down west to the territory of the Japhletites,
 as far as the territory of Lower Beth Horon and on to Gezer.
 And it ended at the sea.
-[4] So the children of Joseph, Manasseh and Ephraim, received their inheritance.
+[4] So the people of Joseph, Manasseh and Ephraim, received their inheritance.
 
 > **What does this mean?**
-> After Judah in the south, the children of Joseph now receive their territory in the middle of the land. Joseph had two sons: Manasseh and Ephraim. Jacob had blessed both and put the younger one, Ephraim, ahead of the older one (Genesis 48).
+> After Judah in the south, the people of Joseph now receive their territory in the middle of the land. Joseph had two sons: Manasseh and Ephraim. Jacob had blessed both and put the younger one, Ephraim, ahead of the older one (Genesis 48).
 > “Bethel” and “Luz”: Luz was the old name of Bethel (Genesis 28:19). Here they are named like two places close to each other.
 > “The Archites”: Later, Hushai came from this family. He was the faithful friend and adviser of King David (2 Samuel 15:32).
 

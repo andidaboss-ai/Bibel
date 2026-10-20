@@ -23,7 +23,7 @@ And Moses ran away from it.
 Moses reached out his hand and took hold of it.
 Then it became a staff in his hand again.
 [5] “This is so that they may believe that the LORD has appeared to you,
-the God of their fathers,
+the God of their ancestors,
 the God of Abraham, the God of Isaac, and the God of Jacob.”
 
 [6] The LORD also said to him,

@@ -7,7 +7,7 @@
 
 [1] The angel of the LORD came up from Gilgal to Bochim and said,
 “I brought you up out of Egypt
-and brought you into the land that I swore to give to your fathers.
+and brought you into the land that I swore to give to your ancestors.
 I said, ‘I will never break my covenant with you.
 [2] But you must not make a covenant with the people who live in this land.
 You must tear down their altars.’
@@ -39,7 +39,7 @@ and as long as the elders lived who outlived Joshua
 and who had seen all the great work that the LORD had done for Israel.
 [8] Joshua, the son of Nun, the servant of the LORD, died at the age of 110.
 [9] They buried him in the area of his inheritance, in Timnath Heres in the hill country of Ephraim, north of the mountain of Gaash.
-[10] That whole generation also died and was gathered to their fathers.
+[10] That whole generation also died and was gathered to their ancestors.
 And after them another generation grew up
 that did not know the LORD
 or the work he had done for Israel.
@@ -56,7 +56,7 @@ or the work he had done for Israel.
 
 [11] The people of Israel did what was evil in the eyes of the LORD,
 and they served the Baals.
-[12] They left the LORD, the God of their fathers,
+[12] They left the LORD, the God of their ancestors,
 who had brought them out of the land of Egypt,
 and they followed other gods, the gods of the peoples who lived around them.
 They bowed down to them and made the LORD angry.
@@ -72,7 +72,7 @@ And they were in great distress.
 who saved them from the hand of those who robbed them.
 [17] But they did not listen to their judges either.
 For they were unfaithful like prostitutes and went after other gods and bowed down to them.
-They quickly turned away from the way their fathers had walked,
+They quickly turned away from the way their ancestors had walked,
 who had obeyed the commandments of the LORD.
 They did not do so.
 [18] When the LORD raised up judges for them,
@@ -81,7 +81,7 @@ and saved them from the hand of their enemies as long as the judge lived.
 For the LORD felt sorry for them when they groaned
 because of those who oppressed them and treated them badly.
 [19] But when the judge died,
-they turned back and acted even worse than their fathers.
+they turned back and acted even worse than their ancestors.
 They followed other gods, to serve them and bow down to them.
 They did not stop what they were doing or give up their stubborn ways.
 
@@ -101,12 +101,12 @@ They did not stop what they were doing or give up their stubborn ways.
 ## God tests Israel (Verses 20–23)
 
 [20] So the anger of the LORD burned against Israel, and he said,
-“This nation has broken my covenant, which I commanded their fathers,
+“This nation has broken my covenant, which I commanded their ancestors,
 and has not listened to my voice.
 [21] So I too will no longer drive out in front of them any of the nations
 that Joshua left when he died.
 [22] Through them I will test Israel,
-to see whether they will keep to the way of the LORD and walk in it, as their fathers did, or not.”
+to see whether they will keep to the way of the LORD and walk in it, as their ancestors did, or not.”
 [23] So the LORD let those nations stay and did not drive them out quickly.
 He had not given them into Joshua’s hand either.
 

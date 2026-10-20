@@ -74,7 +74,7 @@ with the finest wheat.
 And you drank wine from the blood of the grapes.
 
 > **What does this mean?**
-> Verse 8: Like the usual Hebrew text, the WEB, our English source, says “according to the number of the people of Israel.” But old manuscripts from the Dead Sea and the Greek translation say: according to the number of the sons of God. Then it would mean: God divided up all the nations, but he kept his own people for himself.
+> Verse 8: Like the usual Hebrew text, the WEB, our English source text, says “according to the number of the people of Israel.” But old manuscripts from the Dead Sea and the Greek translation say: according to the number of the sons of God. Then it would mean: God divided up all the nations, but he kept his own people for himself.
 > “Like the pupil of his eye”: The eye is the most sensitive part we have. We protect it at once when it is in danger. That is how God protects his people. The WEB says “the apple of his eye.” People still use this phrase today.
 > The picture of the eagle (verse 11) is one of the most beautiful in the Bible: An eagle teaches its young to fly. It stirs them out of the nest. When they fall, it flies under them and catches them on its wings. That is how God led Israel through the wilderness: He challenged them, but never let them fall.
 > “Honey out of the rock”: In cracks in the rocks there were sometimes wild bees. God gave his people good things even in barren places.
@@ -92,7 +92,7 @@ They made him angry with things he hates.
 [17] They sacrificed to demons, not to God,
 to gods that they did not know,
 to new gods that had come along only recently,
-gods that your fathers did not fear.
+gods that your ancestors did not fear.
 [18] You forgot the Rock who became your father.
 You forgot the God who gave birth to you.
 
@@ -116,7 +116,7 @@ They have made me angry with their worthless idols.
 So I will make them jealous with those who are not a people.
 I will make them angry with a foolish nation.
 [22] For a fire has been lit by my anger.
-It burns down to the lowest depths of Sheol.
+It burns down to the lowest depths of Sheol (the world of the dead).
 It eats up the earth and its crops,
 and it sets the foundations of the mountains on fire.
 [23] I will pile disasters on them.
@@ -233,7 +233,7 @@ And through this word you will live a long time in the land
 that you are crossing the Jordan to take over.”
 
 > **What does this mean?**
-> In verse 44 the Hebrew text does not say Joshua, but Hoshea. That was Joshua’s original name (Numbers 13:16). The WEB, our English source, writes “Joshua.”
+> In verse 44 the Hebrew text does not say Joshua, but Hoshea. That was Joshua’s original name (Numbers 13:16). The WEB, our English source text, writes “Joshua.”
 > “This is not an empty word for you. It is your life”: That is what Moses leaves behind for his people. God’s word is not just a collection of rules. It is the foundation of life.
 
 ---

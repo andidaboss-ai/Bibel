@@ -240,7 +240,7 @@ about the great things Jesus had done for him.
 
 > **What does this mean?**
 > The area was on the eastern shore of the lake. Many non-Jews lived there. That is why there were pigs there, which counted as unclean for Jews.
-> The WEB says “Gadarenes.” Many old manuscripts say Gerasenes, others Gergesenes. The same area is meant.
+> The WEB, our English source text, says “Gadarenes.” Many old manuscripts say Gerasenes, others Gergesenes. The same area is meant.
 > The man is completely cast out: without clothes, without a house, chained, among the graves. Jesus gives him back his dignity. In the end he sits at Jesus’ feet “clothed and in his right mind,” like a student.
 > Fetters: chains for the feet.
 > “Legion” was a Roman army unit with several thousand soldiers. The name shows: The man is ruled by a huge, destructive power.

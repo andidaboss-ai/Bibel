@@ -54,7 +54,7 @@ and followed Jesus.
 > The lake of Gennesaret is another name for the Sea of Galilee.
 > Simon (Peter) is an experienced fisherman. Fish were usually caught at night. Fishing in deep water during the day was unusual. Even so, Simon trusts Jesus’ word.
 > Verse 8: Simon is frightened. He senses how holy Jesus is, and how small he himself is. The prophet Isaiah felt something similar (Isaiah 6:5).
-> Verse 10: “Don’t be afraid.” Jesus does not send Simon away, but calls him. The WEB says “catching people alive.” The Greek word means “to catch alive”: to win people for life.
+> Verse 10: “Don’t be afraid.” Jesus does not send Simon away, but calls him. The WEB, our English source text, says “catching people alive.” The Greek word means “to catch alive”: to win people for life.
 > Only Luke tells about this great catch of fish when the disciples are called. A similar story is in John 21:1–11, after the resurrection.
 > For today: Even someone who feels unworthy can be called by Jesus.
 

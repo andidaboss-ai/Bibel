@@ -10,7 +10,7 @@ He called for the elders of Israel, their heads, their judges, and their officer
 And they stood in front of God.
 [2] Joshua said to all the people,
 “The LORD, the God of Israel, says:
-‘Long ago your fathers lived beyond the River:
+‘Long ago your ancestors lived beyond the River:
 Terah, the father of Abraham and the father of Nahor.
 They served other gods.
 [3] I took your father Abraham from beyond the River
@@ -22,8 +22,8 @@ But Jacob and his children went down into Egypt.
 [5] Then I sent Moses and Aaron.
 I struck Egypt with plagues by what I did among them.
 And after that I brought you out.
-[6] I brought your fathers out of Egypt, and you came to the sea.
-The Egyptians chased your fathers with chariots and horsemen to the Red Sea.
+[6] I brought your ancestors out of Egypt, and you came to the sea.
+The Egyptians chased your ancestors with chariots and horsemen to the Red Sea.
 [7] When they cried out to the LORD,
 he put darkness between you and the Egyptians
 and brought the sea over them, and it covered them.
@@ -60,11 +60,11 @@ You eat from vineyards and olive groves that you did not plant.’
 ## Choose today whom you will serve (Verses 14–15)
 
 [14] So now fear the LORD and serve him honestly and faithfully.
-Put away the gods that your fathers served beyond the River and in Egypt,
+Put away the gods that your ancestors served beyond the River and in Egypt,
 and serve the LORD.
 [15] But if you do not like to serve the LORD,
 then choose today whom you will serve:
-the gods that your fathers served beyond the River,
+the gods that your ancestors served beyond the River,
 or the gods of the Amorites, in whose land you live.
 As for me and my house, we will serve the LORD.”
 
@@ -81,7 +81,7 @@ As for me and my house, we will serve the LORD.”
 [16] The people answered,
 “Far be it from us to leave the LORD to serve other gods!
 [17] For it is the LORD our God
-who brought us and our fathers up out of the land of Egypt, out of the house of slavery,
+who brought us and our ancestors up out of the land of Egypt, out of the house of slavery,
 who did those great signs in front of our eyes,
 and who protected us on the whole way we went,
 and among all the peoples we passed through.
@@ -155,7 +155,7 @@ and who had known all the work that the LORD had done for Israel.
 [32] They buried the bones of Joseph, which the people of Israel had brought up from Egypt,
 in Shechem, on the piece of land
 that Jacob had bought from the sons of Hamor, the father of Shechem, for a hundred pieces of silver.
-It became the inheritance of the children of Joseph.
+It became the inheritance of the people of Joseph.
 [33] Eleazar the son of Aaron also died.
 They buried him on the hill of his son Phinehas,
 which had been given to him in the hill country of Ephraim.

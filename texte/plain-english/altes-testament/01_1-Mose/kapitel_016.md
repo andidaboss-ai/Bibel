@@ -67,10 +67,10 @@ He will live in conflict with all his brothers.”
 [13] Then Hagar gave a name to the LORD who had spoken to her:
 “You are a God who sees.”
 For she said,
-“Have I really seen the one who sees me – and am I still alive?”
+“Have I really stayed alive after seeing him?”
 [14] That is why the well is called Beer Lahai Roi.
 That means: “well of the Living One who sees me.”
-Look, it is between Kadesh and Bered.
+It is between Kadesh and Bered.
 
 > **What does this mean?**
 > Hagar is a slave, a foreigner, pregnant and alone in the wilderness. No one cares about her. But God looks for her and finds her.

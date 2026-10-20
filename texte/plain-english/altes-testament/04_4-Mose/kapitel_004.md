@@ -57,7 +57,7 @@ the fire pans, the meat forks, the shovels and the basins, all the equipment of 
 Over it they shall spread a covering of sealskin.
 Then they shall put in its poles.
 
-[15] “When the camp sets out, Aaron and his sons must finish covering the sanctuary and all the furniture of the sanctuary.
+[15] “When the camp sets out, Aaron and his sons shall first finish covering the sanctuary and all the furniture of the sanctuary.
 After that, the descendants of Kohath shall come to carry it.
 But they must not touch the holy things, or they will die.
 These are the things of the Tent of Meeting that the descendants of Kohath shall carry.
@@ -69,7 +69,7 @@ of the sanctuary and its equipment.”
 
 > **What does this mean?**
 > The holy objects may not be carried openly through the wilderness. First the priests cover them carefully with cloths and leather. Only then may the Kohathites carry them.
-> Here the English text we follow says “sealskin.” In Exodus it said “sea cow hides.” It is the same Hebrew word. Nobody knows exactly which animal is meant.
+> Here the WEB, our English source text, says “sealskin.” In Exodus it said “sea cow hides.” It is the same Hebrew word. Nobody knows exactly which animal is meant.
 > The ark of the covenant is covered with a blue cloth last of all. With all the other objects, the leather is on the outside. Only the ark shines blue. So everyone on the journey could see where the ark was.
 > Later the ark was once carried on a cart instead of on people’s shoulders. Uzzah touched it and died (2 Samuel 6:6–7). So these rules were taken very seriously.
 

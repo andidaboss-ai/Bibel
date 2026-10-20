@@ -171,4 +171,4 @@ He was named Zerah.
 > Twins again, and again a struggle over who is first – just like with Esau and Jacob.
 > Perez means “breaking out.” Zerah means “shining,” maybe because of the red thread.
 > Tamar even gets two sons – in place of the two sons of Judah who died.
-> Tamar, a foreign woman who had to fight for her rights, becomes an ancestor of King David. Her son Perez is one of David’s forefathers (Ruth 4:18–22). In the New Testament, Tamar is in the family tree of Jesus – as one of only four women who are named there (Matthew 1:3).
+> Tamar, a foreign woman who had to fight for her rights, becomes an ancestor of King David. Her son Perez is part of David’s family line (Ruth 4:18–22). In the New Testament, Tamar is in the family tree of Jesus – as one of only four women who are named there (Matthew 1:3).

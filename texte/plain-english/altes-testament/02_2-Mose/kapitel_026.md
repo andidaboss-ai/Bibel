@@ -32,7 +32,7 @@ So the tabernacle shall be one whole.
 ## The curtains of goats’ hair (Verses 7–13)
 
 [7] “Also make curtains of goats’ hair.
-They shall be a covering over the tabernacle, like a tent roof.
+They shall be a covering over the tabernacle.
 Make eleven of these curtains.
 [8] Each curtain shall be about 45 feet long and about 6 feet wide.
 All eleven curtains shall be the same size.
@@ -40,7 +40,7 @@ All eleven curtains shall be the same size.
 and six curtains into another set.
 Fold the sixth curtain double at the front of the tent.
 
-[10] Make 50 loops on the edge of the last curtain of the first set,
+[10] “Make 50 loops on the edge of the last curtain of the first set,
 and 50 loops on the edge of the last curtain of the second set.
 [11] Make 50 clasps of bronze.
 Put the clasps into the loops and join the tent together, so that it becomes one whole.
@@ -58,7 +58,7 @@ This part shall hang down over the sides of the tabernacle, on this side and on 
 
 ## The outer coverings (Verse 14)
 
-[14] Make a covering for the tent of rams’ skins dyed red.
+[14] “Make a covering for the tent of rams’ skins dyed red.
 And above that, make a covering of sea cow hides.
 
 > **What does this mean?**
@@ -72,13 +72,12 @@ And above that, make a covering of sea cow hides.
 They shall stand upright.
 [16] Each board shall be about 15 feet long and about 2 feet 3 inches wide.
 [17] Each board shall have two tenons, joined to each other.
-A tenon is a peg at the end of a board that fits into a hole.
 Do this for all the boards of the tabernacle.
 [18] Make 20 boards for the tabernacle for the south side.
 [19] Make 40 sockets of silver under the 20 boards:
 two sockets under each board for its two tenons.
 
-[20] For the second side of the tabernacle, the north side, make 20 boards
+[20] “For the second side of the tabernacle, the north side, make 20 boards
 [21] and their 40 sockets of silver:
 two sockets under each board.
 [22] For the back of the tabernacle, toward the west, make six boards.
@@ -91,6 +90,7 @@ two sockets under each board.
 
 > **What does this mean?**
 > In cubits: 10 cubits long, one and a half cubits wide.
+> A tenon is a peg at the end of a board that fits into a hole.
 > The boards form the walls of the sanctuary: 20 on the south side and 20 on the north side, 6 boards and 2 corner boards on the west side. The east side is open. The entrance is there.
 > The silver sockets stand on the ground. The tenons of the boards are put into them. So everything stands firm and can still be taken down quickly.
 > The sanctuary was about 45 feet long and about 15 feet wide.
@@ -118,13 +118,12 @@ And cover the bars with gold too.
 ## The veil in front of the Most Holy Place (Verses 31–35)
 
 [31] “Make a veil of blue, purple and scarlet cloth and of fine twisted linen.
-A veil is a large curtain.
 Cherubim shall be woven into it by a skillful worker.
 [32] Hang it on four pillars of acacia wood covered with gold.
 Their hooks shall be of gold.
 And they shall stand on four sockets of silver.
 
-[33] Hang up the veil under the clasps.
+[33] “Hang up the veil under the clasps.
 Bring the ark of the covenant in there, behind the veil.
 The veil shall separate the holy place from the most holy place for you.
 [34] Put the mercy seat on the ark of the covenant in the most holy place.
@@ -133,7 +132,7 @@ And put the lamp stand across from the table, on the south side of the tabernacl
 Put the table on the north side.
 
 > **What does this mean?**
-> The sanctuary has two rooms: the “Holy Place” and the “Most Holy Place.” A precious veil hangs between them.
+> The sanctuary has two rooms: the “Holy Place” and the “Most Holy Place.” A precious veil hangs between them. A veil is a large curtain.
 > Only the ark of the covenant stands in the Most Holy Place. God is present there in a special way. Only the high priest may go in, once a year (Leviticus 16).
 > In the Holy Place in front of it stand the table with the bread, the lamp stand and, later, the altar of incense.
 > The New Testament tells: When Jesus died on the cross, the veil in the temple was torn in two from top to bottom (Matthew 27:51). Christians understand it this way: Through Jesus, the way to God is open for everyone.
@@ -143,14 +142,13 @@ Put the table on the north side.
 ## The screen at the entrance (Verses 36–37)
 
 [36] “Make a screen for the door of the Tent.
-A screen is a hanging curtain.
 Make it of blue, purple and scarlet cloth and of fine twisted linen,
 the work of an embroiderer.
-An embroiderer sews colorful patterns into cloth.
 [37] Make five pillars of acacia wood for the screen and cover them with gold.
 Their hooks shall be of gold.
 And cast five sockets of bronze for them.
 
 > **What does this mean?**
+> A screen is a hanging curtain. An embroiderer sews colorful patterns into cloth.
 > The entrance is on the east side. It also has a colorful curtain, but without cherubim.
 > The closer you come to the Most Holy Place, the more precious the materials become: outside bronze, inside silver and gold. So the way it is built shows: The closer to God, the holier.

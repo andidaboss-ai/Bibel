@@ -58,7 +58,7 @@ that you wrap around yourself.
 > Verses 6–7: A small commandment with a great meaning: You should not exploit nature. Whoever takes the mother destroys the future. Whoever lets her fly away can harvest again. For this small commandment God promises the same as for the commandment to honor your parents: a long life.
 > Verse 8: The roofs were flat. People sat and worked up there. A railing protected against accidents. Whoever does not build a railing shares the guilt if someone dies. That is an early rule for safety in building.
 > Verses 9–11: Certain things should not be mixed. The exact reason is not given. Maybe it is meant to remind people of the order of creation, in which God made everything “according to its kind.” In plowing: An ox and a donkey are not equally strong. Together, the weaker animal would suffer.
-> “Unclean”: That is what the WEB, our English source, means with “defiled.” The Hebrew word actually means “become holy.” It means: The harvest goes to the holy place, and you may not keep it for yourself.
+> “Unclean”: That is what the WEB, our English source text, means with “defiled.” The Hebrew word actually means “become holy.” It means: The harvest goes to the holy place, and you may not keep it for yourself.
 > Verse 12: The tassels were meant to remind people of God’s commandments (Numbers 15:37–41). Jewish people still wear them today on the prayer shawl. Jesus also wore such a coat (Matthew 9:20).
 
 ---
@@ -151,6 +151,6 @@ He may never send her away as long as he lives.
 He shall not uncover the edge of his father’s robe.
 
 > **What does this mean?**
-> In some Bibles this verse is already the first verse of Chapter 23 (23:1). We follow the numbering of the WEB, our English source.
+> In some Bibles this verse is already the first verse of Chapter 23 (23:1). We follow the numbering of the WEB, our English source text.
 > It means another wife of the father, not one’s own mother, for example after the father’s death. That was forbidden (Leviticus 18:8).
 > “Uncovering the edge of the father’s robe” is a picture. The robe stands for the protection that a man gives his wife (Ruth 3:9). Whoever sleeps with his father’s wife wounds his father’s honor.

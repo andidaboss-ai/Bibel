@@ -199,7 +199,7 @@ that God doesn’t show favoritism.
 he who fears him
 and does what is right
 is acceptable to him.
-[36] He sent the word to the children of Israel.
+[36] He sent the word to the people of Israel.
 He preached the good news of peace
 through Jesus Christ.
 He is Lord of all.

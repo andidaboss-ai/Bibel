@@ -123,14 +123,14 @@ the sky opened.
 [22] The Holy Spirit came down on him.
 The Spirit had a body like a dove.
 And a voice came from the sky:
-“You are my beloved Son.
+“You are my Son. I love you.
 I am very pleased with you.”
 
 > **What does this mean?**
 > Jesus is baptized in the middle of all the people. He stands with the people.
 > Only Luke mentions: Jesus is praying. In Luke, Jesus often prays, especially before important events.
-> God’s voice says: “You are my beloved Son.” This reminds us of Psalm 2:7 and Isaiah 42:1.
-> In verse 22 some old manuscripts have the words of Psalm 2:7: You are my son. Today I have become your father. The WEB follows the other reading.
+> God’s voice says: “You are my Son. I love you.” This reminds us of Psalm 2:7 and Isaiah 42:1.
+> In verse 22 some old manuscripts have the words of Psalm 2:7: You are my son. Today I have become your father. The WEB, our English source text, follows the other reading.
 
 ---
 

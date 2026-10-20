@@ -47,8 +47,8 @@ God’s Kingdom has come near to you.’
 [12] I tell you,
 on that day it will be easier for Sodom
 than for that town.
-[13] How bad it will be for you, Chorazin!
-How bad it will be for you, Bethsaida!
+[13] How terrible it will be for you, Chorazin!
+How terrible it will be for you, Bethsaida!
 The great miracles that were done in you
 could have been done in Tyre and Sidon.
 Then the people there would have turned away from their sins long ago.
@@ -66,12 +66,12 @@ And whoever rejects me
 rejects the one who sent me.”
 
 > **What does this mean?**
-> Not only the twelve, but many more people are sent out. The WEB says “seventy.” Many old manuscripts say seventy-two. Both numbers remind us of the list of nations in Genesis 10: The message is to reach all nations.
+> Not only the twelve, but many more people are sent out. The WEB, our English source text, says “seventy.” Many old manuscripts say seventy-two. Both numbers remind us of the list of nations in Genesis 10: The message is to reach all nations.
 > “Two by two”: No one is to travel alone. Two can help each other. And two witnesses were considered trustworthy.
 > Verse 4: “Don’t stop to greet anyone on the way”: Back then greetings were long and complicated. The messengers are not to let themselves be held up. It is not unfriendliness.
 > Verse 6: “A son of peace”: someone who is open to God’s peace.
 > Verse 7: “A worker deserves his pay” means: Whoever works has earned his pay. This sentence is quoted again later in 1 Timothy 5:18.
-> Verses 12–15: In the Bible, Sodom, Tyre and Sidon were cities known as godless. Chorazin, Bethsaida and Capernaum were on the Sea of Galilee. Jesus had done a lot there. The cry “How bad it will be for you” (in older Bibles: “woe”) is a serious lament, as with the prophets.
+> Verses 12–15: In the Bible, Sodom, Tyre and Sidon were cities known as godless. Chorazin, Bethsaida and Capernaum were on the Sea of Galilee. Jesus had done a lot there. The cry “How terrible it will be for you” (in older Bibles: “woe”) is a serious lament, as with the prophets.
 > “Sackcloth and ashes”: signs of mourning and being sorry. Sackcloth was rough cloth. Hades: the realm of the dead.
 > Important: The messengers are not to punish. Judgment is God’s business. They are to move on.
 

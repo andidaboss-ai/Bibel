@@ -36,7 +36,7 @@ So they did not chase the sons of Jacob.
 
 ## Back at Bethel (Verses 6–8)
 
-[6] So Jacob came to Luz in the land of Canaan – that is Bethel –,
+[6] So Jacob came to Luz (that is, Bethel) in the land of Canaan,
 he and all the people who were with him.
 [7] He built an altar there
 and named the place El Beth El.
@@ -138,7 +138,7 @@ These are the sons of Jacob who were born to him in Paddan Aram.
 
 ## Isaac dies (Verses 27–29)
 
-[27] Jacob came to his father Isaac at Mamre, near Kiriath Arba – that is Hebron –,
+[27] Jacob came to his father Isaac at Mamre, near Kiriath Arba (that is, Hebron),
 where Abraham and Isaac had lived as foreigners.
 [28] Isaac lived to be 180 years old.
 [29] Then Isaac breathed his last and died.

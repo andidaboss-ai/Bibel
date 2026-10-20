@@ -42,7 +42,7 @@ Before they spring up, I tell you about them.”
 > Who is this servant? He is chosen by God, God’s Spirit rests on him, and he brings justice to all nations.
 > Verses 2–3: He does not do it with noise and violence, but very gently. He does not break off a “bruised reed,” and he does not blow out a wick that has almost gone out. He treats the weak and the hurt with care. A beautiful picture of gentleness.
 > Verses 6–7: He becomes “a light for the nations”: He opens blind eyes and sets prisoners free.
-> In Judaism, the servant is mostly understood as the people of Israel itself (compare chapter 41:8), which is to be a light for the nations, or also as the prophet. The New Testament connects these words with Jesus (Matthew 12:18–21). At the baptism of Jesus, verse 1 is echoed: “You are my beloved Son, in whom I am well pleased” (Mark 1:11).
+> In Judaism, the servant is mostly understood as the people of Israel itself (compare chapter 41:8), which is to be a light for the nations, or also as the prophet. The New Testament connects these words with Jesus (Matthew 12:18–21). At the baptism of Jesus, verse 1 is echoed: “You are my Son. I love you. I am very pleased with you” (Mark 1:11).
 
 ---
 

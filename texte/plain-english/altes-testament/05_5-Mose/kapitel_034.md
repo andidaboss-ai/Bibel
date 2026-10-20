@@ -18,7 +18,7 @@ the city of palm trees, as far as Zoar.
 when I said,
 ‘I will give it to your descendants.’
 I have let you see it with your own eyes.
-But you shall not go over there.”
+But you will not go over there.”
 
 > **What does this mean?**
 > God himself shows Moses the whole land, from north to south. It is as if God took him by the hand and said: Look, I promised all this, and now I am keeping my promise.

@@ -81,12 +81,12 @@ The heavens were opened to him,
 and he saw the Spirit of God coming down like a dove
 and coming on him.
 [17] And a voice out of the heavens said,
-“This is my beloved Son,
-with whom I am well pleased.”
+“This is my Son. I love him.
+I am very pleased with him.”
 
 > **What does this mean?**
 > Verses 13–14: Jesus comes to be baptized. John is amazed: Really, Jesus should baptize him!
 > Verse 15: Jesus answers: In this way we fulfill “all righteousness,” that is, what God wants. Jesus stands beside the people who come to be baptized. He joins the line, even though, according to Christian faith, he himself had no need to repent.
 > Verse 16: Heaven opens, and the Spirit of God comes on Jesus like a dove. Since then the dove has been a sign of the Holy Spirit and also of peace.
-> Verse 17: God’s voice says: “This is my beloved Son.” The words remind us of Psalm 2:7 and Isaiah 42:1. Christians see the Father, the Son and the Holy Spirit together in this scene.
+> Verse 17: God’s voice says: “This is my Son. I love him.” The words remind us of Psalm 2:7 and Isaiah 42:1. Christians see the Father, the Son and the Holy Spirit together in this scene.
 > For today: Before Jesus has done anything at all, God already says: I love you. Many Christians understand their own baptism in a similar way: God’s love comes first, not later as a reward.

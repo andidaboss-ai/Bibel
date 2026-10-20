@@ -21,7 +21,7 @@ Through you, all the families of the earth will be blessed.”
 > **What does this mean?**
 > This is one of the most important passages in the whole Bible. Here God’s new path with humanity begins.
 > Abram is to leave behind everything that gives him security: his homeland, his relatives, his father’s house. And he does not even know where the journey is going. God only says: “I will show you.”
-> Remember Babel: There people wanted to “make a name for ourselves.” Here God says: **I** will make your name great. What people wanted to grab for themselves, God gives as a gift.
+> Remember Babel: There people said, “Let’s make a name for ourselves.” Here God says: **I** will make your name great. What people wanted to grab for themselves, God gives as a gift.
 > Five times the word “bless,” “blessing” or “blessed” appears here. After the many curses in Chapters 3 to 11, the story of blessing now begins.
 > And the blessing is not only for Abram. Through him, it is to come to **all** the families of the earth. To this day, Jews, Christians and Muslims see Abraham as their father in faith.
 

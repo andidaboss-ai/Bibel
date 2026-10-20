@@ -51,7 +51,7 @@ that the LORD your God has given to you and to your household,
 you, and the Levite, and the foreigner who lives among you.
 
 > **What does this mean?**
-> “Syrian”: That is the word the WEB, our English source, uses. The Hebrew has “Aramean.” The Arameans lived in the region of today’s Syria. This means Jacob, who lived for a long time with his uncle Laban in Aram. “Close to ruin” can also be translated as “wandering” or “homeless.”
+> “Syrian”: That is the word the WEB, our English source text, uses. The Hebrew has “Aramean.” The Arameans lived in the region of today’s Syria. This means Jacob, who lived for a long time with his uncle Laban in Aram. “Close to ruin” can also be translated as “wandering” or “homeless.”
 > This prayer is like a short confession of faith of Israel. In a few sentences the whole story is told: We were homeless. We were slaves. We cried out. God heard and set us free. He gave us this land.
 > Something stands out: The farmer who lives centuries later says “us” and “we.” He himself was not in Egypt. But the story of his people is his story too.
 > This text is still a central part of the Jewish Passover celebration today (the Haggadah).

@@ -84,7 +84,7 @@ and sprinkle it on the mercy seat and in front of the mercy seat.
 [16] So he shall make atonement for the Holy Place,
 because of the uncleanness of the people of Israel and because of their wrongdoings, all their sins.
 He shall do the same for the Tent of Meeting,
-which lives with them in the middle of their uncleanness.
+which stands among them in the middle of their uncleanness.
 [17] No one shall be in the Tent of Meeting
 when he goes in to make atonement in the Holy Place,
 until he comes out and has made atonement
@@ -116,8 +116,8 @@ And the man shall let the goat go free in the wilderness.
 
 > **What does this mean?**
 > This is a very vivid picture. All the sins of the people are said out loud and laid on the goat. Then the goat is led far away, into the wilderness. The guilt is gone. It does not come back.
-> Psalm 103:12 says: As far as the east is from the west, that far God has taken our wrongdoings away from us. Wrongdoings are sins.
-> Christians see here a picture of Jesus. John the Baptist said about him: Look, here is the Lamb of God, who takes away the sin of the world (John 1:29). The letter to the Hebrews in the New Testament compares Jesus in detail with the high priest on the Day of Atonement (Hebrews 9).
+> Psalm 103:12 says: “As far as the east is from the west, so far has he removed our sins from us” (Psalm 103:12).
+> Christians see here a picture of Jesus. John the Baptist said about him: “Look, there is the Lamb of God! He takes away the sin of the world!” (John 1:29). The letter to the Hebrews in the New Testament compares Jesus in detail with the high priest on the Day of Atonement (Hebrews 9).
 
 ---
 
@@ -150,8 +150,8 @@ After that he may come into the camp.
 
 [29] “This shall be a rule for you forever:
 In the seventh month, on the tenth day of the month, you shall humble yourselves.
-And you shall do no work at all,
-whether you were born in the land or are a foreigner who lives among you.
+And you shall do no work at all.
+This is for those who were born in the land and for the foreigner who lives among you.
 [30] For on this day atonement will be made for you, to make you clean.
 You will be clean from all your sins before the LORD.
 [31] It is a Sabbath for you, a day of complete rest.

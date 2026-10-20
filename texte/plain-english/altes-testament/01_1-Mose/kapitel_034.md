@@ -49,7 +49,7 @@ Live here, trade here and get property in the land.”
 [11] Shechem said to Dinah’s father and to her brothers,
 “Please be kind to me!
 Whatever you tell me, I will give.
-[12] Ask me for a very high bride price and many gifts.
+[12] Ask me for a very high bride price.
 I will give whatever you ask of me.
 Only give me the young woman as my wife.”
 

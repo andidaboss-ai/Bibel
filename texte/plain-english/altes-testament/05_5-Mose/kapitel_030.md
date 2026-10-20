@@ -21,10 +21,10 @@ from all the peoples where the LORD your God has scattered you.
 [4] Even if your people who were driven out are at the very end of the sky,
 the LORD your God will gather you from there,
 and he will bring you back from there.
-[5] The LORD your God will bring you into the land that your fathers owned,
+[5] The LORD your God will bring you into the land that your ancestors owned,
 and you will own it.
 He will do you good,
-and he will make you more in number than your fathers.
+and he will make you more in number than your ancestors.
 [6] The LORD your God will circumcise your heart
 and the heart of your descendants.
 Then you will love the LORD your God with all your heart and with all your soul,
@@ -36,7 +36,7 @@ and do all his commandments that I command you today.
 [9] The LORD your God will give you success in all the work of your hands,
 with many children, many young animals, and good crops from your ground.
 For the LORD will again be glad to do you good,
-as he was glad over your fathers.
+as he was glad over your ancestors.
 [10] This will happen if you listen to the voice of the LORD your God
 and keep his commandments and his rules
 that are written in this book of the law,
@@ -100,7 +100,7 @@ you and your descendants.
 to listen to his voice, and to hold on to him.
 For he is your life and gives you a long life.
 Then you will live in the land
-that the LORD swore to give to your fathers,
+that the LORD swore to give to your ancestors,
 to Abraham, to Isaac, and to Jacob.
 
 > **What does this mean?**

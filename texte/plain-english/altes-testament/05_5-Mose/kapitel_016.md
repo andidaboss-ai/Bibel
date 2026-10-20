@@ -38,7 +38,7 @@ You shall do no work.
 > The three great feasts of Israel are named here once more: Passover, the Feast of Weeks, and the Feast of Booths (see also Leviticus 23).
 > What is new: Passover should no longer be celebrated at home as in Egypt, but at the one place that God chooses. Later this was Jerusalem. That is why Jesus also went to Jerusalem for Passover.
 > “The bread of hardship”: The bread without yeast reminds people of the suffering in Egypt and of the hurry when they left. There was no time to let the dough rise.
-> “Roast”: The Hebrew has a word that usually means “cook.” According to Exodus 12:9, the Passover lamb was to be roasted over the fire. The WEB, our English source, translates “roast” here.
+> “Roast”: The Hebrew has a word that usually means “cook.” According to Exodus 12:9, the Passover lamb was to be roasted over the fire. The WEB, our English source text, translates “roast” here.
 
 ---
 
@@ -109,7 +109,7 @@ and it twists the words of people who do right.
 Then you will live and take over the land that the LORD your God gives you.
 
 > **What does this mean?**
-> “What is completely fair, only what is fair”: The Hebrew has the word “justice” twice in a row: “Tsedek, tsedek.” This shows how important it is. The WEB, our English source, says: “that which is altogether just.”
+> “What is completely fair, only what is fair”: The Hebrew has the word “justice” twice in a row: “Tsedek, tsedek.” This shows how important it is. The WEB, our English source text, says: “that which is altogether just.”
 > A bribe makes people blind. Even wise and good people are influenced by gifts, often without noticing it.
 > These verses are part of the foundation for independent courts.
 

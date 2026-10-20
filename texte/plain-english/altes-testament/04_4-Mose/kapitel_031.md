@@ -109,8 +109,8 @@ one for the soldiers who went into battle,
 and one for the whole community.
 [28] From the soldiers who went into battle, collect a tax for the LORD:
 one out of every 500, from the people, from the cattle, from the donkeys and from the flocks.
-[29] Take it from their half and give it to Eleazar the priest, as an offering for the LORD.
-The WEB calls it a wave offering. That is a gift that is lifted up before God.
+[29] Take it from their half and give it to Eleazar the priest, as a wave offering for the LORD.
+A wave offering is a gift that is lifted up before God.
 [30] From the half of the people of Israel, you must take one out of every 50,
 from the people, from the cattle, from the donkeys, from the flocks, from all the livestock.
 Give them to the Levites, who do the work at the LORD’s tabernacle.”
@@ -164,13 +164,13 @@ Atonement means: putting things right again between God and people.
 [51] Moses and Eleazar the priest took the gold from them, all of it finely made jewelry.
 [52] All the gold of the wave offering that they gave to the LORD,
 from the commanders of thousands and the commanders of hundreds,
-was 16,750 shekels.
+was 16,750 shekels (about 420 pounds).
 [53] The soldiers had taken plunder, each man for himself.
 [54] Moses and Eleazar the priest took the gold of the commanders of thousands and of hundreds.
 They brought it into the Tent of Meeting,
 as a reminder for the people of Israel before the LORD.
 
 > **What does this mean?**
-> A shekel is about 0.4 ounces. So 16,750 shekels of gold weighed about 400 pounds.
+> A shekel is about 0.4 ounces. So 16,750 shekels of gold weighed about 420 pounds.
 > Not a single soldier died in the war. The officers see this as a miracle and thank God with a large gift.
 > “To make atonement for ourselves”: Maybe they feel that they have taken guilt on themselves by killing. They want to be made clean again before God.

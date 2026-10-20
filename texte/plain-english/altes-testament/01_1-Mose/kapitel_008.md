@@ -60,7 +60,7 @@ This time she did not come back to him anymore.
 
 [13] In the 601st year of Noah’s life, in the first month, on the first day of the month, the water on the earth had dried up.
 Noah took the covering off the ship and looked out.
-And look: The ground was dry.
+He saw that the ground was dry.
 [14] In the second month, on the 27th day of the month, the earth was completely dry.
 
 [15] Then God spoke to Noah.
@@ -80,7 +80,7 @@ family by family.
 > **What does this mean?**
 > Noah was in the ark for more than a year. On New Year’s Day, he sees dry land again. A new year, a new beginning for the world.
 > Noah does not simply go out when the ground is dry. He waits until God says: “Go out.” He trusts God while waiting just as much as while acting.
-> God repeats the blessing from Chapter 1: “Be fruitful and become many.” It is like a second creation.
+> God repeats the blessing from Chapter 1: The animals are to be fruitful and become many. It is like a second creation.
 
 ---
 
@@ -95,7 +95,7 @@ That means: He burned them completely for God.
 [21] The LORD smelled the pleasant smell.
 And the LORD said in his heart,
 “I will never again curse the ground because of people.
-For what the human heart imagines is evil from its youth.
+For the human heart imagines evil from youth on.
 And I will never again strike down every living thing, as I have done.
 [22] As long as the earth remains,
 these will not stop:

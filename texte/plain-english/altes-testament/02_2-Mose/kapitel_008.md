@@ -54,7 +54,7 @@ And the land stank.
 He did not listen to them, just as the LORD had said.
 
 > **What does this mean?**
-> In some Bibles, the verses of this chapter have different numbers. There, the beginning (verses 1–4) is still part of Chapter 7. This Bible follows the numbering of the World English Bible.
+> In some Bibles, the verses of this chapter have different numbers. There, the beginning (verses 1–4) is still part of Chapter 7. This Bible follows the numbering of the WEB, our English source text.
 > Frogs everywhere: in bed, in the oven, in the dough. A disgusting, annoying plague. The Egyptians worshiped a goddess with the head of a frog. She stood for having many children and good harvests. Now frogs become a plague.
 > The magicians can make even more frogs appear – but not one single frog goes away because of them. Only God can end the plague.
 > Moses lets Pharaoh choose the time. So no one can say it was by chance.

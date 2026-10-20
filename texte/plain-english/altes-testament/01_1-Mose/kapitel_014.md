@@ -39,7 +39,7 @@ and Arioch, king of Ellasar.
 Four kings against the five.
 
 [10] The valley of Siddim was full of tar pits.
-The kings of Sodom and Gomorrah ran away, and some fell into them.
+The kings of Sodom and Gomorrah ran away, and some fell there.
 The others ran away to the hills.
 [11] The winners took all the goods of Sodom and Gomorrah and all their food.
 Then they went away.
@@ -116,14 +116,14 @@ and I have sworn:
 [23] I will not take a thread or a sandal strap,
 or anything that is yours.
 Then you cannot say, ‘I have made Abram rich.’
-[24] I will take nothing for myself,
-except what the young men have eaten.
-And the share of the men who went with me: Aner, Eshcol and Mamre.
+[24] I will take nothing from you,
+except what the young men have eaten
+and the share of the men who went with me: Aner, Eshcol and Mamre.
 Let them take their share.”
 
 > **What does this mean?**
 > Two kings come to Abram. Melchizedek brings a blessing. The king of Sodom offers riches.
 > Abram accepts the blessing from God. But he takes nothing from the king of the wicked city of Sodom – not even a thread.
-> “To lift up your hand to God” means: to make a solemn promise, an oath.
+> “To lift up your hand to the LORD” means: to make a solemn promise, an oath.
 > Abram does not want anyone to be able to say: Abram became rich through Sodom. He knows: What I have comes from God.
 > But he is fair to his allies. They are to get what belongs to them.

@@ -13,7 +13,7 @@ he must not break his word.
 He must do everything that has come out of his mouth.
 
 > **What does this mean?**
-> In some Bibles, the verses of this chapter are counted one number higher: Verse 1 here is verse 2 there, and so on up to verse 17. Here we follow the verse numbers of the English source text.
+> In some Bibles, the verses of this chapter are counted one number higher: Verse 1 here is verse 2 there, and so on up to verse 17. Here we follow the verse numbers of the WEB, our English source text.
 > A “vow” is a solemn promise to God. For example: “I will bring an offering,” or “I will fast for a while.”
 > The rule is clear: What you promise to God, you must keep. Words have weight. Jesus later says: “Let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’” (Matthew 5:37).
 

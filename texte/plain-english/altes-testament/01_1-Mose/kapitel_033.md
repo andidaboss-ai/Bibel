@@ -6,7 +6,7 @@
 ## Meeting again (Verses 1–7)
 
 [1] Jacob looked up.
-And look: Esau was coming, and 400 men were with him.
+Look! Esau was coming, and 400 men were with him.
 Jacob divided the children among Leah, Rachel and the two female servants.
 [2] He put the servants and their children in front.
 Behind them he put Leah and her children.
@@ -92,7 +92,7 @@ That is why the place is called Succoth.
 > Jacob is a caring shepherd: He thinks of the small and weak ones in his flock.
 > But he does not go to Esau in Seir, as he said he would. He goes in another direction. Maybe he does not fully trust the peace yet. Maybe he also knows: God has called him into the land of Canaan, not to Seir.
 > The brothers have made peace, but they live apart. Sometimes that is the best way to keep peace.
-> “Succoth” means “shelters.” Later the Jews celebrate a festival with this name: the Festival of Shelters.
+> “Succoth” means “shelters” or “booths.” Later the Jews celebrate a festival with this name: the Feast of Booths.
 
 ---
 

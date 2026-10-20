@@ -16,7 +16,7 @@ Cover it with bronze.
 and its shovels, its basins, its meat hooks and its fire pans.
 Make all its tools of bronze.
 
-[4] Make a grating of bronze for the altar, like a net.
+[4] “Make a grating of bronze for the altar, like a net.
 On the net, make four bronze rings at its four corners.
 [5] Put the grating under the ledge that goes around the altar, down below.
 The net shall reach halfway up the altar.
@@ -45,7 +45,7 @@ The hooks of the pillars and their bands shall be of silver.
 hangings about 150 feet long, with 20 pillars and 20 sockets of bronze.
 The hooks of the pillars and their bands shall be of silver.
 
-[12] For the width of the courtyard on the west side, there shall be hangings about 75 feet long,
+[12] “For the width of the courtyard on the west side, there shall be hangings about 75 feet long,
 with ten pillars and ten sockets.
 [13] On the east side, toward the sunrise, the courtyard shall also be about 75 feet wide.
 [14] On one side of the gate there shall be hangings about 22 feet 6 inches long,
@@ -56,7 +56,7 @@ with three pillars and three sockets.
 It shall be made of blue, purple and scarlet cloth and of fine twisted linen, the work of an embroiderer.
 It shall have four pillars and four sockets.
 
-[17] All the pillars around the courtyard shall be joined with bands of silver.
+[17] “All the pillars around the courtyard shall be joined with bands of silver.
 Their hooks shall be of silver, and their sockets of bronze.
 [18] The courtyard shall be about 150 feet long and about 75 feet wide all along.
 The hangings shall be about 7 feet 6 inches high, made of fine twisted linen.

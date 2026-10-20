@@ -86,8 +86,8 @@ Daniel the prophet spoke about it.”
 [15] Someone on the roof of a house must not go down.
 He must not go into his house to take anything out.
 [16] Someone in the field must not go back to get his coat.
-[17] How hard those days will be for women who are pregnant!
-How hard they will be for mothers who are nursing babies!
+[17] How terrible it will be in those days for women who are pregnant!
+How terrible for mothers who are nursing babies!
 [18] Pray that you will not have to run away in the winter.
 [19] In those days there will be great suffering.
 There has never been suffering like it,
@@ -182,7 +182,7 @@ Then he must not find you sleeping.
 Keep watch!”
 
 > **What does this mean?**
-> Verse 33: The words “and pray” are missing in some old manuscripts. The WEB has them.
+> Verse 33: The words “and pray” are missing in some old manuscripts. The WEB, our English source text, has them.
 > Each servant has his task. In the same way, every person has received a task from God.
 > The four times (evening, midnight, rooster crow, morning) were the four watches of the night used by the Romans. Some interpreters notice: Jesus’ passion in Mark 14–15 happens at exactly these times: the Last Supper in the evening, Gethsemane in the night, Peter’s denial when the rooster crows, the handing over to Pilate in the morning. And in Gethsemane the disciples sleep.
 > “Keeping watch” does not mean being anxious. It means: living every day in such a way that you could meet God. Doing good, being honest, loving others.

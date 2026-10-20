@@ -26,7 +26,7 @@ They will eat what is left over for you, what escaped the hail.
 And they will eat every tree that grows for you in the field.
 [6] Your houses will be full of them,
 and the houses of all your servants and the houses of all the Egyptians.
-Neither your fathers nor your grandfathers have seen anything like it,
+Neither your ancestors nor their ancestors have seen anything like it,
 from the day they came onto the earth until today.’”
 Then Moses turned and went out from Pharaoh.
 
@@ -82,7 +82,7 @@ When it was morning, the east wind had brought the locusts.
 
 [14] The locusts came up over the whole land of Egypt.
 They settled down in every part of Egypt.
-They were terribly many.
+It was a terrible swarm.
 There had never been so many locusts before, and there will never be so many again.
 [15] They covered the surface of the whole ground, so that the land became dark.
 They ate every plant in the land and all the fruit on the trees that the hail had left.
@@ -128,11 +128,11 @@ Your little children may go with you too.”
 [25] Moses said,
 “You must also give us animals for sacrifices and burnt offerings,
 so that we can sacrifice them to the LORD, our God.
-A burnt offering is an animal that is completely burned on the altar for God.
 [26] Our livestock must also go with us.
 Not one hoof may be left behind.
 For we must take some of them to serve the LORD, our God.
 And we do not know what we must use to serve the LORD until we get there.”
+A burnt offering is an animal that is completely burned on the altar for God.
 
 [27] But the LORD made Pharaoh’s heart hard.
 He would not let them go.

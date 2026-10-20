@@ -296,5 +296,5 @@ until you have paid the very last penny.”
 > Jesus says: You are clever about the weather. But you do not see that God is acting through me now.
 > Magistrate: a judge or official of a court.
 > Verses 58–59: Whoever is in a dispute should make peace in time, before it is too late. That also applies before God: Now is the time to turn back.
-> Verse 59: The WEB says “penny.” What is meant is the lepton, the smallest coin.
+> Verse 59: The WEB, our English source text, says “penny.” What is meant is the lepton, the smallest coin.
 > For today: Making peace is worth it. Whoever is in a dispute can also get help from a mediation or counseling service.

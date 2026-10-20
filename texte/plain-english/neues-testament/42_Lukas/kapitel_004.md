@@ -55,7 +55,7 @@ So he left him until another time.
 > Each time, Jesus answers with words from Deuteronomy: Deuteronomy 8:3; 6:13; 6:16. He lives from the Holy Scriptures of Israel.
 > In Luke the order is different from Matthew (Matthew 4:1–11): The last temptation is in Jerusalem, at the temple. Jerusalem is especially important for Luke.
 > The devil even quotes the Bible (Psalm 91:11–12). Bible words can also be misused.
-> Verse 4: The words “They also live from every word of God” are missing in some old manuscripts. Verse 8: “Get behind me, Satan!” is missing in the best old manuscripts. The WEB has both.
+> Verse 4: The words “They also live from every word of God” are missing in some old manuscripts. Verse 8: “Get behind me, Satan!” is missing in the best old manuscripts. The WEB, our English source text, has both.
 > Verse 12: Jesus does not want to force God to prove himself. That would be putting God to the test.
 > Verse 13: “Until another time”: The temptation comes back, especially before Jesus’ suffering.
 > For today: Jesus was tempted too. Being tempted is not a sin. What matters is how you deal with it.

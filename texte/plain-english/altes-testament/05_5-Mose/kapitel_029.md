@@ -10,7 +10,7 @@ to make with the people of Israel in the land of Moab.
 It was in addition to the covenant that he had made with them at Horeb.
 
 > **What does this mean?**
-> In some Bibles this verse is the last verse of Chapter 28 (28:69). Then the whole of Chapter 29 is shifted by one verse: verse 2 here is verse 1 there, and so on up to verse 28. We follow the numbering of the WEB, our English source.
+> In some Bibles this verse is the last verse of Chapter 28 (28:69). Then the whole of Chapter 29 is shifted by one verse: verse 2 here is verse 1 there, and so on up to verse 28. We follow the numbering of the WEB, our English source text.
 > At Horeb (Sinai) the covenant was made with the generation that came out of Egypt. Now, 40 years later, it is renewed with the new generation, just before they go into the land.
 
 ---
@@ -40,7 +40,7 @@ and to the half-tribe of the Manassites.
 Then you will succeed in everything you do.
 
 > **What does this mean?**
-> Verse 4 is an honest and painful sentence: The people have seen so many wonders, and still they have not really understood. Deep understanding is a gift from God. You can see everything and still not grasp it. Jesus says something similar about people who, “seeing, they don’t see” (Matthew 13:13–15).
+> Verse 4 is an honest and painful sentence: The people have seen so many wonders, and still they have not really understood. Deep understanding is a gift from God. You can see everything and still not grasp it. Jesus says something similar about such people: “seeing, they don’t see” (Matthew 13:13–15).
 > In verses 5–6 Moses suddenly speaks as if God himself were speaking: “so that you would know that I am the LORD your God.” Moses is God’s mouthpiece.
 > “You have not eaten bread”: This means no normal bread made from grain. God fed the people with manna.
 
@@ -61,7 +61,7 @@ An oath is a solemn promise.
 [13] So today he will make you his people,
 and he will be your God,
 as he told you,
-and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
+and as he swore to your ancestors, to Abraham, to Isaac, and to Jacob.
 [14] I am not making this covenant and this oath only with you.
 [15] I am making it with those who are standing here with us today
 before the LORD our God,
@@ -111,7 +111,7 @@ that are written in this book of the law.
 and the foreigner who comes from a faraway land,
 will see the plagues of that land
 and the sicknesses with which the LORD has made it sick.
-[23] They will see that its whole land is sulfur, salt, and burning.
+[23] They will say that its whole land is sulfur, salt, and burning.
 Nothing is sown in it, nothing grows, and no grass comes up in it.
 It is like the destruction of Sodom, Gomorrah, Admah, and Zeboiim,
 which the LORD destroyed in his anger and his fury.
@@ -119,7 +119,7 @@ which the LORD destroyed in his anger and his fury.
 “Why has the LORD done this to this land?
 Why is his anger so great and so hot?”
 [25] Then people will say,
-“Because they abandoned the covenant of the LORD, the God of their fathers,
+“Because they abandoned the covenant of the LORD, the God of their ancestors,
 which he made with them when he brought them out of the land of Egypt.
 [26] They went and served other gods and worshiped them,
 gods that they did not know and that he had not given them.

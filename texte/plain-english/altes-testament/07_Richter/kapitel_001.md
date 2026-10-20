@@ -26,7 +26,7 @@ Look, I have given the land into his hand.”
 Then I will also go with you into your territory.”
 So Simeon went with him.
 [4] Judah went up, and the LORD gave the Canaanites and the Perizzites into their hand.
-They struck ten thousand men at Bezek.
+They struck 10,000 men at Bezek.
 [5] At Bezek they found Adoni-Bezek and fought against him.
 They struck the Canaanites and the Perizzites.
 [6] But Adoni-Bezek ran away.

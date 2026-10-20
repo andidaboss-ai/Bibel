@@ -26,7 +26,7 @@ in the middle of all Israel.
 > **What does this mean?**
 > Moses is speaking to people who have experienced many things themselves. They were there in Egypt and in the wilderness as children and young people. They can tell their children about it as witnesses.
 > Dathan and Abiram were the leaders of the rebellion with Korah (Numbers 16).
-> “Red Sea”: That is what the WEB says. The Hebrew says “Sea of Reeds.”
+> “Red Sea”: That is what the WEB, our English source text, says. The Hebrew says “Sea of Reeds.”
 
 ---
 
@@ -97,7 +97,7 @@ as long as the sky is above the earth.
 
 ## Every place your foot steps on (Verses 22–25)
 
-[22] For if you really keep this whole commandment that I command you, and do it,
+[22] For if you really keep all these commandments that I command you, and do them,
 if you love the LORD your God, walk in all his ways, and hold on to him,
 [23] then the LORD will drive out all these nations before you.
 And you will drive out nations that are greater and mightier than you.
@@ -109,7 +109,7 @@ on all the land that you step on, as he has told you.
 
 > **What does this mean?**
 > The “western sea” is the Mediterranean Sea.
-> Israel ruled this large area as far as the Euphrates only for a short time, under King Solomon (1 Kings 5:1). The Bible describes a promise here, not a map for politics today.
+> Israel ruled this large area as far as the Euphrates only for a short time, under King Solomon (1 Kings 4:21). The Bible describes a promise here, not a map for politics today.
 
 ---
 

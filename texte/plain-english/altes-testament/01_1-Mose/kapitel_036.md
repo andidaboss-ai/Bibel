@@ -86,7 +86,7 @@ These are the sons of Basemath, Esau’s wife.
 chief Jeush, chief Jalam and chief Korah.
 These are the chiefs who came from Oholibamah, the daughter of Anah, Esau’s wife.
 
-[19] These are the sons of Esau – that is Edom – and these are their chiefs.
+[19] These are the sons of Esau (that is, Edom), and these are their chiefs.
 
 > **What does this mean?**
 > A “chief” is the head of a tribe or a large clan. In the beginning, Edom was not a kingdom, but a group of tribes with their own leaders.
@@ -98,7 +98,7 @@ These are the chiefs who came from Oholibamah, the daughter of Anah, Esau’s wi
 [20] These are the sons of Seir the Horite, who already lived in the land:
 Lotan, Shobal, Zibeon, Anah,
 [21] Dishon, Ezer and Dishan.
-These are the chiefs of the Horites, the children of Seir, in the land of Edom.
+These are the chiefs of the Horites, the descendants of Seir, in the land of Edom.
 
 [22] The children of Lotan were Hori and Heman.
 Lotan’s sister was Timna.

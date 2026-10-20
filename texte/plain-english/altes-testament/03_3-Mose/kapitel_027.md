@@ -8,7 +8,7 @@
 [1] The LORD spoke to Moses.
 He said:
 [2] “Speak to the people of Israel and tell them:
-‘Someone may make a vow and give a person to the LORD.
+‘Suppose someone makes a vow and gives a person to the LORD.
 Then the value shall be set according to your valuation.
 [3] The value for a man from 20 to 60 years old shall be 50 shekels of silver,
 by the shekel of the sanctuary.
@@ -19,7 +19,7 @@ the value shall be 20 shekels for a male and 10 shekels for a female.
 the value shall be 5 shekels of silver for a male and 3 shekels of silver for a female.
 [7] If the person is 60 years old or older,
 the value shall be 15 shekels for a man and 10 shekels for a woman.
-[8] But someone may be too poor to pay that value.
+[8] But suppose someone is too poor to pay that value.
 Then he shall be brought before the priest,
 and the priest shall set a value for him.
 The priest shall set the value according to what the person is able to pay.
@@ -35,13 +35,13 @@ The priest shall set the value according to what the person is able to pay.
 
 ## When someone promises an animal (Verses 9–13)
 
-[9] “‘It may be an animal that people can bring to the LORD as an offering.
+[9] “‘Suppose it is an animal that people can bring to the LORD as an offering.
 Then everything of it that someone gives to the LORD becomes holy.
 [10] He shall not change it or swap it,
 not a good one for a bad one, and not a bad one for a good one.
 If he does swap one animal for another anyway,
 then both shall be holy: the animal and the one it was swapped for.
-[11] It may be an unclean animal that may not be brought to the LORD as an offering.
+[11] Suppose it is an unclean animal that may not be brought to the LORD as an offering.
 Then he shall bring the animal before the priest.
 [12] The priest shall set its value, whether it is good or bad.
 As the priest sets the value, so it shall be.
@@ -56,14 +56,14 @@ then he shall add one fifth to its value.
 
 ## When someone promises a house or a field (Verses 14–25)
 
-[14] “‘Someone may dedicate his house to the LORD, so that it is holy.
+[14] “‘Suppose someone dedicates his house to the LORD, so that it is holy.
 Then the priest shall set its value, whether it is good or bad.
 As the priest sets the value, so it shall stand.
 [15] If the man who dedicated it wants to buy back his house,
 then he shall add one fifth to the money of your valuation.
 Then it shall be his again.
 
-[16] “‘Someone may dedicate to the LORD part of the field that he owns.
+[16] “‘Suppose someone dedicates to the LORD part of the field that he owns.
 Then the value shall depend on the seed for it.
 The seed for a homer of barley shall be worth 50 shekels of silver.
 [17] If he dedicates his field from the Year of Jubilee on, the full value of your valuation shall stand.
@@ -80,7 +80,7 @@ then it can never be bought back again.
 like a field that is given completely to God.
 It shall belong to the priests.
 
-[22] “‘Someone may dedicate to the LORD a field that he has bought,
+[22] “‘Suppose someone dedicates to the LORD a field that he has bought,
 which is not part of the field he owns as family land.
 [23] Then the priest shall count for him the value of your valuation up to the Year of Jubilee.
 And he shall pay that value on the same day, as a holy gift to the LORD.
@@ -154,5 +154,5 @@ It may not be bought back.’”
 > 3. Through rules for clean and unclean in everyday life (Chapters 11–15).
 > 4. Through the great Day of Atonement, when all guilt is carried away (Chapter 16).
 > 5. Through a holy life every day: in the family, at work, with the poor and with strangers (Chapters 17–27).
-> The most important sentence of the book is: You shall be holy, for I, the LORD your God, am holy (Leviticus 19:2). And in the middle of the book is the commandment that Jesus called one of the two most important: You shall love your neighbor as yourself (Leviticus 19:18).
+> The most important sentence of the book is: “You shall be holy, because I, the LORD your God, am holy” (Leviticus 19:2). And in the middle of the book is the commandment that Jesus called one of the two most important: “You shall love your neighbor as yourself” (Leviticus 19:18).
 > Many things in this book are strange to us. But its message is still true today: God wants to be close to us. And he shows us a way to live close to him.

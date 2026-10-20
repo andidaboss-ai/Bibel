@@ -132,7 +132,7 @@ but few are chosen.’”
 > Verse 21: The poor, people with disabilities and people on the margins are invited. Verse 23: Then also the people far outside, in the countryside. Many interpreters think of the non-Jews here.
 > Important: Verse 23 (“Make the people come in”; in older Bibles: “compel them to come in”) was terribly misused in church history. People appealed to it to force others into the faith by violence, including Jews and people who thought differently. That was grave injustice. What is meant is: Invite people so warmly that they dare to come. Faith can never be forced.
 > Important: The parable is also not a judgment on the Jewish people. It is a warning to everyone who does not take God’s invitation seriously, including Christians.
-> Verse 24: The words “For many are called, but few are chosen” are not in most old manuscripts of Luke. The WEB has them here. They are also in Matthew 22:14.
+> Verse 24: The words “For many are called, but few are chosen” are not in most old manuscripts of Luke. The WEB, our English source text, has them here. They are also in Matthew 22:14.
 
 ---
 

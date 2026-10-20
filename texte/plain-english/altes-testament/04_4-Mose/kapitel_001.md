@@ -50,7 +50,7 @@ from the tribe of Manasseh: Gamaliel, the son of Pedahzur.
 [14] From the tribe of Gad: Eliasaph, the son of Deuel.
 [15] From the tribe of Naphtali: Ahira, the son of Enan.”
 [16] These were the men who were called from the community.
-They were the leaders of the tribes of their fathers.
+They were the leaders of the tribes of their ancestors.
 They were the heads of the thousands of Israel.
 
 > **What does this mean?**
@@ -158,7 +158,7 @@ all in Israel who were able to go to war –
 
 ## The Levites are not counted (Verses 47–54)
 
-[47] But the Levites were not counted with them by the tribe of their fathers.
+[47] But the Levites were not counted with them by the tribe of their ancestors.
 [48] For the LORD had spoken to Moses.
 He had said:
 [49] “Only the tribe of Levi you shall not count.

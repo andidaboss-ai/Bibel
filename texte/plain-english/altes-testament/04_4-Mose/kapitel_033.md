@@ -44,7 +44,7 @@ There was no water there for the people to drink.
 
 > **What does this mean?**
 > We know many of these places from the book of Exodus: the way through the sea (Chapter 14), the bitter water of Marah (Chapter 15), the oasis of Elim with its palm trees, the water from the rock at Rephidim (Chapter 17), and finally Mount Sinai.
-> “Red Sea”: That is what the English source text, the World English Bible, says. The Hebrew says “Yam Suf.” That literally means “Sea of Reeds.”
+> “Red Sea”: That is what the WEB, our English source text, says. The Hebrew says “Yam Suf.” That literally means “Sea of Reeds.”
 
 ---
 
@@ -124,7 +124,7 @@ For I have given you the land, so that you may own it.
 To the larger groups you must give a larger inheritance,
 and to the smaller ones a smaller inheritance.
 Wherever the lot falls for someone, that will be his.
-You will inherit by the tribes of your fathers.
+You will inherit by the tribes of your ancestors.
 [55] But if you do not drive out the people who live in the land before you,
 then those of them you let stay will be like splinters in your eyes
 and like thorns in your sides.

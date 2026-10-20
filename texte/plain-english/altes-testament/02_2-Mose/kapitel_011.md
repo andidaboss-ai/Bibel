@@ -57,7 +57,7 @@ Then Moses went out from Pharaoh, burning with anger.
 
 [9] The LORD said to Moses,
 “Pharaoh will not listen to you.
-So my wonders will become even more in the land of Egypt.”
+So I will do even more wonders in the land of Egypt.”
 [10] Moses and Aaron did all these wonders before Pharaoh.
 But the LORD made Pharaoh’s heart hard.
 He did not let the people of Israel go out of his land.

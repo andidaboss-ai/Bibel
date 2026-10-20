@@ -39,7 +39,7 @@ then the priest shall declare him unclean.
 It is leprosy.
 
 > **What does this mean?**
-> Many English Bibles say “leprosy” here. But this does not only mean the illness that we call leprosy today. The Hebrew word “tzaraat” means different skin diseases with spots, scales or open sores. Even mold on clothes and houses is called by this name (from verse 47 and in Chapter 14).
+> The WEB, our English source text, says “leprosy” here, like many Bibles. But this does not only mean the illness that we call leprosy today. The Hebrew word “tzaraat” means different skin diseases with spots, scales or open sores. Even mold on clothes and houses is called by this name (from verse 47 and in Chapter 14).
 > The priest is not a doctor here. He does not heal. He looks carefully and decides: May this person go on taking part in the community and in worship, or not?
 > He decides carefully and not too quickly. If he is not sure, he waits seven days and looks again. Sometimes another seven days. No one should be shut out unfairly.
 > “Keep apart” means: The sick person stays by himself for a while, as in a quarantine.
@@ -81,7 +81,7 @@ then the priest shall declare him clean from the disease. He is clean.
 
 ## After a boil (Verses 18–23)
 
-[18] “When someone had a boil on his skin, and it has healed,
+[18] “When someone has a boil on his skin, and it has healed,
 [19] and in the place of the boil there is a white swelling,
 or a bright spot, reddish-white,
 then it shall be shown to the priest.

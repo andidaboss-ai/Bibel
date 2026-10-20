@@ -20,8 +20,9 @@ Just as I gave you the green plants, I now give you everything.
 
 [5] “And for your own blood, for your life, I will surely demand an account.
 I will demand it from every animal.
-And I will demand it from every human being.
-From every person I will demand an account for the life of a fellow human – for each one is his brother.
+And I will demand it from every human being,
+even from every person’s brother.
+I will demand an account for the life of a human being.
 [6] Whoever sheds human blood,
 his blood will be shed by people.
 For God made man in his own image.
@@ -115,9 +116,9 @@ He will be the lowest servant of his brothers.”
 [26] And he said,
 “Praise be to the LORD, the God of Shem!
 Let Canaan be his servant.
-[27] May God enlarge Japheth.
-That means: give him much room.
-Let him live in the tents of Shem.
+[27] May God enlarge Japheth.”
+That means: May God give him much room.
+“Let him live in the tents of Shem.
 And let Canaan be his servant.”
 
 [28] After the flood, Noah lived another 350 years.

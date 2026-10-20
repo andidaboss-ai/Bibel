@@ -87,7 +87,7 @@ He came to the oaks of Mamre, which are in Hebron, and lived there.
 And he built an altar there to the LORD.
 
 > **What does this mean?**
-> Lot looked up and chose for himself. Now God says to Abram: “**You** look up – in **all** directions. I am giving you all of this.”
+> Lot looked up and chose for himself. Now God tells Abram to look up too – in **all** directions. And God will give **him** all of this land.
 > Whoever is generous does not lose out with God.
 > Abram does not even have a single child yet. And God promises him descendants as many as the specks of dust. That sounds impossible. But God means it.
 > Hebron is still an important city today. According to tradition, the tomb of Abraham and Sarah is there.

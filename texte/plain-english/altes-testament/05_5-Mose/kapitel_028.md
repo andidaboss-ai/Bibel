@@ -35,7 +35,7 @@ that you are called by the name of the LORD,
 and they will be afraid of you.
 [11] The LORD will give you great riches:
 many children, many young animals, and good crops from your ground,
-in the land that the LORD swore to your fathers to give you.
+in the land that the LORD swore to your ancestors to give you.
 [12] The LORD will open his good storehouse in the sky for you,
 to give rain to your land at the right time
 and to bless all the work of your hands.
@@ -118,7 +118,7 @@ like a blind man feels his way in the dark.
 Nothing you do will succeed.
 You will always be oppressed and robbed,
 and there will be no one to save you.
-[30] You will be promised a wife in marriage,
+[30] You will be engaged to a woman,
 but another man will sleep with her.
 You will build a house,
 but you will not live in it.
@@ -143,7 +143,7 @@ will drive you mad.
 with painful boils that cannot be healed,
 from the soles of your feet to the top of your head.
 [36] The LORD will bring you and your king, whom you will set over you,
-to a nation that neither you nor your fathers have known.
+to a nation that neither you nor your ancestors have known.
 There you will serve other gods made of wood and stone.
 [37] You will become a horror, a saying, and a joke
 among all the peoples where the LORD will lead you away.
@@ -182,7 +182,7 @@ They will chase you and catch up with you until you are destroyed,
 because you did not listen to the voice of the LORD your God,
 to keep his commandments and his rules that he commanded you.
 [46] They will be a sign and a warning
-on you and on your descendants forever.
+to you and to your descendants forever.
 [47] You did not serve the LORD your God with joy and with a glad heart,
 even though you had plenty of everything.
 [48] That is why you will serve your enemies,
@@ -252,9 +252,9 @@ that your enemy will bring on you in your towns.
 
 ## Scattered among all nations (Verses 58–68)
 
-[58] You may not be careful to do all the words of this law
-that are written in this book.
-You may not fear this glorious and awesome name,
+[58] Suppose you are not careful to do all the words of this law
+that are written in this book,
+so that you fear this glorious and awesome name,
 the LORD your God.
 [59] Then the LORD will send terrible plagues on you and on your descendants,
 great plagues that last a long time,
@@ -274,7 +274,7 @@ You will be pulled out of the land that you are going into to take over.
 [64] The LORD will scatter you among all peoples,
 from one end of the earth to the other end of the earth.
 There you will serve other gods
-that neither you nor your fathers have known,
+that neither you nor your ancestors have known,
 gods of wood and stone.
 [65] Among these nations you will find no peace,
 and there will be no place for the sole of your foot to rest.
@@ -288,13 +288,13 @@ And in the evening you will say, “If only it were morning!”
 That is because of the fear that will fill your heart,
 and because of the things that your eyes will see.
 [68] The LORD will bring you back to Egypt in ships,
-by the way that I told you you would never see again.
+on the road that I told you that you would never see again.
 There you will try to sell yourselves to your enemies
 as male and female slaves,
 but no one will buy you.
 
 > **What does this mean?**
-> “This glorious and awesome name, the LORD your God”: In the WEB, our English source, the name here is written all in capital letters: “YAHWEH.” That is the holy name of God, which we give as “the LORD.”
+> “This glorious and awesome name, the LORD your God”: In the WEB, our English source text, the name here is written all in capital letters: “YAHWEH.” That is the holy name of God, which we give as “the LORD.”
 > The end is the opposite of the beginning: God had set Israel free from Egypt. Now a return to slavery threatens, and no one even wants them as slaves. The whole rescue would be undone.
 > Very important: This chapter was terribly misused in history. For centuries Christians claimed that the suffering of the Jews was a just punishment from God. With this they justified persecution, expulsion, and murder, all the way to the Holocaust. That was a terrible sin. No human being has the right to make himself the one who carries out a curse, or to declare the suffering of others “deserved.”
 > These words were a warning to Moses’ own people, spoken out of love, to protect them. And the Bible does not end here. Right in Chapter 30 God promises: If you turn back, I will gather you from wherever you have been scattered. God’s last word is not the curse, but mercy.

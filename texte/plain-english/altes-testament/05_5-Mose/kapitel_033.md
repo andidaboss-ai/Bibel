@@ -27,7 +27,7 @@ all the tribes of Israel together.
 > Before Moses dies, he blesses the tribes, just as Jacob blessed his sons before his death (Genesis 49).
 > “Man of God”: That is a title of honor for prophets. Here Moses is called this for the first time.
 > God is described like the sun that rises over the mountains in the south: Sinai, Seir, Paran. He comes with his angels, the “holy ones.”
-> “He loves the people”: That is what the WEB, our English source, says. The Hebrew has “peoples,” in the plural. Perhaps the tribes of Israel are meant.
+> “He loves the people”: That is what the WEB, our English source text, says. The Hebrew has “peoples,” in the plural. Perhaps the tribes of Israel are meant.
 > Verses 2–5 are very hard to understand in Hebrew. That is why Bibles translate these verses in very different ways.
 > “He was king in Jeshurun”: This probably means God himself. He is the real king of Israel.
 
@@ -35,7 +35,7 @@ all the tribes of Israel together.
 
 ## Reuben, Judah, and Levi (Verses 6–11)
 
-[6] Let Reuben live and not die.
+[6] “Let Reuben live and not die.
 And do not let his men be few.”
 [7] And this is for Judah. He said,
 “LORD, hear the voice of Judah.
@@ -88,7 +88,7 @@ with the best things that the moon makes grow,
 [15] with the best things of the ancient mountains,
 with the best things of the hills that last forever,
 [16] with the best things of the earth and everything in it,
-and with the favor of the one who lived in the burning bush.
+and with the favor of the one who lived in the bush.
 Let all this come on the head of Joseph,
 on the top of the head of the one who was set apart from his brothers.
 [17] He is like a firstborn bull, full of majesty.
@@ -101,7 +101,7 @@ They are the thousands of Manasseh.”
 > **What does this mean?**
 > Benjamin was Jacob’s youngest and most beloved son. “He lives between his shoulders”: Maybe that is a picture of a child whom the father carries on his shoulders. Or it means: The temple in Jerusalem later lay at the border of the land of Benjamin, “between his hills.”
 > Joseph gets the richest blessing: everything good from heaven, from the earth, from the sun and the moon.
-> “The one who lived in the burning bush”: That reminds us of the story in which God appeared to Moses in the burning bush (Exodus 3). It is the only place where Moses later mentions it again.
+> “The one who lived in the bush”: That reminds us of the story in which God appeared to Moses in the burning bush (Exodus 3). It is the only place where Moses later mentions it again.
 > “The one who was set apart from his brothers”: Joseph was sold to Egypt by his brothers (Genesis 37).
 > Ephraim and Manasseh are the two sons of Joseph. They became two large tribes.
 
@@ -148,7 +148,7 @@ As your days are, so your strength will be.
 
 ## No one is like God (Verses 26–29)
 
-[26] No one is like God, Jeshurun.
+[26] “No one is like God, Jeshurun.
 He rides across the heavens to help you,
 and in his majesty across the skies.
 [27] The eternal God is your home.

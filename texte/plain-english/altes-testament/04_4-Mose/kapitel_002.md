@@ -53,7 +53,7 @@ The leader of the descendants of Gad shall be Eliasaph, the son of Reuel.
 They shall set out second.
 
 > **What does this mean?**
-> In Chapter 1:14, the father of Eliasaph is called “Deuel.” Here he is called “Reuel.” In Hebrew, the letters D and R look very similar. It is probably the same man, and a letter was mixed up when the text was copied.
+> In Numbers 1:14, the father of Eliasaph is called “Deuel.” Here he is called “Reuel.” In Hebrew, the letters D and R look very similar. It is probably the same man, and a letter was mixed up when the text was copied.
 
 ---
 
@@ -82,7 +82,7 @@ The leader of the descendants of Benjamin shall be Abidan, the son of Gideoni.
 They shall set out third.
 
 > **What does this mean?**
-> In the west camp the descendants of Rachel: Ephraim and Manasseh (the sons of Joseph) and Benjamin. Rachel was the wife Jacob loved most.
+> In the west, the descendants of Rachel camp: Ephraim and Manasseh (the sons of Joseph) and Benjamin. Rachel was the wife Jacob loved most.
 
 ---
 

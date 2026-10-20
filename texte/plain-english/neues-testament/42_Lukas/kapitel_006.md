@@ -24,7 +24,7 @@ But the law allows only the priests to eat it.”
 “The Son of Man is lord of the Sabbath.”
 
 > **What does this mean?**
-> Verse 1: The WEB says: “the second Sabbath after the first.” What exactly this means is unclear. Many old manuscripts simply say: on a Sabbath.
+> Verse 1: The WEB, our English source text, says: “the second Sabbath after the first.” What exactly this means is unclear. Many old manuscripts simply say: on a Sabbath.
 > Picking heads of grain at the edge of a field was allowed (Deuteronomy 23:25; in the Hebrew Bible and in many German Bibles 23:26). But some teachers considered rubbing the grain on the Sabbath to be work. People had different opinions about this.
 > Verses 3–4: The story of David is in 1 Samuel 21:1–6 (in the Hebrew Bible and in many German Bibles 21:2–7).
 > Show bread: holy bread that was laid out before God in the house of God.
@@ -136,18 +136,18 @@ because of the Son of Man.
 Jump for joy!
 For you will have a great reward in heaven.
 Their ancestors did the same things to the prophets.
-[24] But how bad it will be for you who are rich!
+[24] But how terrible it will be for you who are rich!
 You have already had your comfort.
-[25] How bad it will be for you who are full now!
+[25] How terrible it will be for you who are full now!
 You will be hungry.
-How bad it will be for you who laugh now!
+How terrible it will be for you who laugh now!
 You will be sad and cry.
-[26] How bad it will be for you when everyone speaks well of you!
+[26] How terrible it will be for you when everyone speaks well of you!
 Their ancestors did the same things for the false prophets.”
 
 > **What does this mean?**
 > “Blessed” means: happy, blessed by God.
-> “How bad it will be for you”: a cry of pain and warning. Older Bibles say “woe.” It means: Things will go badly for you.
+> “How terrible it will be for you”: a cry of pain and warning. Older Bibles say “woe.” It means: Things will go badly for you.
 > In Luke, Jesus speaks directly to the poor, the hungry and those who weep: “Blessed are you.” In Matthew it says: “Blessed are those who are poor in spirit” (Matthew 5:3). Luke very directly means people who are really poor.
 > God is on the side of the poor. Their suffering matters to him. He promises that it will be turned around. This reminds us of the song of Mary (1:52–53).
 > These “woe” sayings are found only in Luke. They are a serious warning to the rich and the full. Wealth is not evil in itself. But whoever thinks only of himself and forgets the poor has already received everything he can expect.

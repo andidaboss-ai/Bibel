@@ -3,7 +3,7 @@
 
 ---
 
-## The festival of trumpets (Verses 1–6)
+## The Feast of Trumpets (Verses 1–6)
 
 [1] “‘In the seventh month, on the first day of the month, you must have a holy assembly.
 You must not do any regular work.
@@ -43,7 +43,7 @@ with its grain offering, and their drink offerings.
 
 ---
 
-## The festival of shelters: the first seven days (Verses 12–34)
+## The Feast of Booths: the first seven days (Verses 12–34)
 
 [12] “‘On the fifteenth day of the seventh month, you must have a holy assembly.
 You must not do any regular work.
@@ -68,34 +68,34 @@ by their number, as the rule says.
 [22] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[23] “‘On the fourth day: 10 bulls, two rams and 14 male lambs one year old without any defect.
+[23] “‘On the fourth day: ten bulls, two rams and 14 male lambs one year old without any defect.
 [24] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [25] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[26] “‘On the fifth day: 9 bulls, two rams and 14 male lambs one year old without any defect.
+[26] “‘On the fifth day: nine bulls, two rams and 14 male lambs one year old without any defect.
 [27] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [28] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
-[29] “‘On the sixth day: 8 bulls, two rams and 14 male lambs one year old without any defect.
+[29] “‘On the sixth day: eight bulls, two rams and 14 male lambs one year old without any defect.
 [30] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [31] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offerings.
 
-[32] “‘On the seventh day: 7 bulls, two rams and 14 male lambs one year old without any defect.
+[32] “‘On the seventh day: seven bulls, two rams and 14 male lambs one year old without any defect.
 [33] With them, bring their grain offering and their drink offerings for the bulls, for the rams and for the lambs,
 by their number, as the rule says.
 [34] And bring one male goat as a sin offering.
 This is in addition to the regular burnt offering, its grain offering and its drink offering.
 
 > **What does this mean?**
-> The festival of shelters is the biggest festival of the year. It is the festival of joy after the harvest. People live in simple huts made of branches during this festival.
+> The Feast of Booths is the biggest festival of the year. It is the festival of joy after the harvest. People live in simple huts made of branches during this festival.
 > The number of bulls gets smaller by one every day: 13, 12, 11, 10, 9, 8, 7. Together that makes 70 bulls.
-> Jewish teachers have said: The 70 bulls stand for the 70 nations of the world that are listed in Genesis 10. So at this festival, Israel also prays for all the other nations. The prophet Zechariah foretells that one day all nations will come to Jerusalem for the festival of shelters (Zechariah 14:16).
+> Jewish teachers have said: The 70 bulls stand for the 70 nations of the world that are listed in Genesis 10. So at this festival, Israel also prays for all the other nations. The prophet Zechariah foretells that one day all nations will come to Jerusalem for the Feast of Booths (Zechariah 14:16).
 > Every day, 14 lambs and two rams are offered too. In the seven days, that makes 98 lambs.
 
 ---
@@ -126,6 +126,6 @@ They are for your burnt offerings, your grain offerings, your drink offerings an
 [40] Moses told the people of Israel everything that the LORD had commanded Moses.
 
 > **What does this mean?**
-> In some Bibles, verse 40 is already the first verse of Chapter 30 (30:1). Here we follow the verse numbers of the English source text, the World English Bible.
+> In some Bibles, verse 40 is already the first verse of Chapter 30 (30:1). Here we follow the verse numbers of the WEB, our English source text.
 > If you add everything up, more than 1,000 lambs and more than 100 bulls were offered every year as shared offerings of the people. On top of that came the many offerings of individual people.
 > The whole year is centered on God: every day, every week, every month, every festival.

@@ -10,7 +10,7 @@
 “Today I am 120 years old.
 I can no longer go out and come in.
 And the LORD has said to me,
-‘You shall not cross this Jordan.’
+‘You will not cross this Jordan.’
 [3] The LORD your God himself will cross over ahead of you.
 He will destroy these nations in front of you,
 and you will drive them out.
@@ -39,7 +39,7 @@ He will not let you down, and he will not abandon you.”
 In front of all Israel he said to him,
 “Be strong and brave!
 For you will go with this people into the land
-that the LORD swore to their fathers to give them.
+that the LORD swore to their ancestors to give them.
 And you will give it to them as their inheritance.
 [8] The LORD himself is the one who goes ahead of you.
 He will be with you.
@@ -97,7 +97,7 @@ So Moses and Joshua went and stood in the Tent of Meeting.
 [15] The LORD appeared in the Tent in a pillar of cloud.
 And the pillar of cloud stood over the entrance of the Tent.
 [16] The LORD said to Moses,
-“Look, you will soon lie down to rest with your fathers.
+“Look, you will soon die and join your ancestors.
 And this people will get up and be unfaithful to me like a prostitute.
 They will chase after the foreign gods of the land
 that they are going into, to live among them.
@@ -107,14 +107,14 @@ I will leave them, and I will hide my face from them.
 They will be eaten up,
 and many disasters and troubles will come on them.
 Then on that day they will say,
-‘Have these disasters not come on us
+‘Haven’t these disasters come on us
 because our God is not among us?’
 [18] On that day I will surely hide my face,
 because of all the evil they have done,
 because they have turned to other gods.
 
 > **What does this mean?**
-> “You will lie down to rest with your fathers” is a way of saying: You will die.
+> “You will soon die and join your ancestors”: Word for word, the Hebrew says that Moses will “sleep” with his fathers. That is a gentle way of talking about death.
 > “Like a prostitute”: The Bible often uses this harsh picture. God sees himself like a faithful husband. When his people run after other gods, it is like unfaithfulness in a marriage.
 > “Hide my face”: God pulls back. People no longer feel that he is near. That is one of the worst experiences a person can have. Many psalms complain about it: Why do you hide your face from me? (Psalm 88:14; similar Psalm 13:1).
 > It is sad: God already knows now that the people will be unfaithful. Even so, he leads them into the land. That shows his great patience and love.
@@ -127,7 +127,7 @@ because they have turned to other gods.
 and teach it to the people of Israel.
 Put it in their mouths,
 so that this song will be my witness against the people of Israel.
-[20] For I will bring them into the land that I swore to their fathers,
+[20] For I will bring them into the land that I swore to their ancestors,
 a land flowing with milk and honey.
 They will eat and be full and grow fat.
 Then they will turn to other gods and serve them.

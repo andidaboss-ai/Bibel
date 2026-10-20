@@ -148,4 +148,4 @@ You shall not add anything to it, and you shall not take anything away from it.
 > **What does this mean?**
 > The most disgusting thing of all: Some peoples sacrificed their own children to their gods. God hates that with all his heart. Already with Abraham, God showed that he does not want human sacrifices (Genesis 22).
 > Being curious about foreign religions is not bad in itself. But Israel should not take over customs that are against God’s will, especially customs that harm people.
-> In some Bibles, verse 32 is already the first verse of Chapter 13 (13:1). We follow the verse numbers of the WEB.
+> In some Bibles, verse 32 is already the first verse of Chapter 13 (13:1). We follow the verse numbers of the WEB, our English source text.

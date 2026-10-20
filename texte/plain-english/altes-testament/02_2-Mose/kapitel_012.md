@@ -34,8 +34,7 @@ Then the whole gathered community of Israel must kill it in the evening.
 [7] “Take some of the blood.
 Put it on the two doorposts and on the beam above the door of the houses where you eat it.
 [8] That night you must eat the meat, roasted over the fire.
-Eat it with unleavened bread and with bitter herbs.
-Unleavened bread is bread made without yeast.
+Eat it with bread without yeast and with bitter herbs.
 [9] Do not eat it raw or boiled in water.
 Eat it roasted over the fire, with its head, its legs and its inner parts.
 [10] Do not leave any of it until the morning.
@@ -50,7 +49,7 @@ It is the LORD’s Passover.
 > “Passover” (in Hebrew “Pesach”) means “passing over” or “sparing.” God passes over the houses of the Israelites and spares them.
 > Every family is to join the celebration. Small and poor families too: They join together with their neighbors.
 > The blood on the door is a sign of protection.
-> Unleavened bread is bread without sourdough or yeast. It is flat and quick to make. There is no time to wait for the dough to rise.
+> Bread without yeast is made without sourdough or yeast. It is flat and quick to make. There is no time to wait for the dough to rise.
 > The bitter herbs are a reminder of the bitter life in slavery (Exodus 1:14).
 > People eat dressed and ready to travel, with shoes on their feet. Very soon they will set out into freedom.
 
@@ -79,29 +78,29 @@ This is a rule forever.
 
 ---
 
-## The festival of unleavened bread (Verses 15–20)
+## The Feast of Unleavened Bread (Verses 15–20)
 
-[15] “For seven days you must eat unleavened bread.
+[15] “For seven days you must eat bread without yeast.
 On the very first day you must remove all yeast from your houses.
 For whoever eats bread made with yeast from the first day to the seventh day
 must be cut off from Israel.
 [16] On the first day you must have a holy gathering,
 and on the seventh day a holy gathering too.
 No kind of work may be done on these days.
-Only the food that everyone must eat may be made by you.
+You may only prepare the food that everyone must eat.
 
-[17] “Keep the festival of unleavened bread.
+[17] “Keep the Feast of Unleavened Bread.
 For on this very day I brought your armies out of the land of Egypt.
 So you must keep this day through all your generations.
 This is a rule forever.
 
 [18] “In the first month, from the evening of the fourteenth day of the month,
-you must eat unleavened bread until the evening of the twenty-first day of the month.
+you must eat bread without yeast until the evening of the twenty-first day of the month.
 [19] For seven days there must be no yeast in your houses.
 For whoever eats anything made with yeast must be cut off from the community of Israel,
 whether he is a foreigner or someone born in the land.
 [20] Eat nothing made with yeast.
-In all the places where you live, you must eat unleavened bread.”
+In all the places where you live, you must eat bread without yeast.”
 
 > **What does this mean?**
 > Besides the Passover meal on the one night, there is a festival that lasts seven days. For a whole week, people eat only flat bread without yeast. Jews call it “matzah.”
@@ -184,7 +183,7 @@ In this way they took the riches of the Egyptians.
 > What God announced now happens. In every house in Egypt, people mourn – in the palace too. Pharaoh loses his own son.
 > Now Pharaoh finally gives in. He gives everything he refused before: Everyone may go, with all the livestock.
 > “And bless me too!” – The proud Pharaoh, who thought he was a god, asks the slaves for their blessing.
-> The Israelites must leave so quickly that the dough has no time to rise. The unleavened bread is a reminder of this.
+> The Israelites must leave so quickly that the dough has no time to rise. The bread without yeast is a reminder of this.
 
 ---
 
@@ -202,15 +201,16 @@ They could not wait, and they had not made any food for the journey.
 [40] The people of Israel had lived in Egypt for 430 years.
 [41] At the end of the 430 years, on that very day,
 all the armies of the LORD went out of the land of Egypt.
-[42] It is a night when the LORD kept watch, to bring them out of the land of Egypt.
+[42] It is a night to be kept for the LORD,
+because he brought them out of the land of Egypt.
 This is the LORD’s night.
-All the people of Israel must keep watch on this night through all their generations.
+All the people of Israel must keep it through all their generations.
 
 > **What does this mean?**
 > 600,000 men – with women and children, that would be more than two million people. That is a huge number. Some experts think that the Hebrew word for “thousand” could also mean “family” or “group” here. Then there would have been fewer people. Others take the number literally.
 > A “large mixed crowd of other people” goes with them. They were probably Egyptians and other slaves who joined them. From the very beginning, God’s people are open to people from other nations.
 > 430 years – a long time. God had already told Abraham that his descendants would live in a foreign land for a long time (Genesis 15:13).
-> God “kept watch” on this night. That is why the Israelites are to stay awake on this night and celebrate.
+> This night belongs to the LORD. That is why the Israelites are to keep it: They stay awake on this night and celebrate.
 
 ---
 

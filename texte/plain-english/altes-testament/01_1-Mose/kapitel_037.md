@@ -188,8 +188,7 @@ And he mourned for his son for many days.
 [35] All his sons and all his daughters came to comfort him.
 But he refused to be comforted.
 He said,
-“No, I will go down to my son in Sheol, still mourning.”
-Sheol is the place of the dead.
+“No, I will go down to my son in Sheol (the world of the dead), still mourning.”
 So his father cried for him.
 
 [36] But the Midianites sold Joseph in Egypt to Potiphar.
@@ -199,5 +198,5 @@ Potiphar was an officer of Pharaoh, the captain of the guard.
 > Back then, tearing your clothes was a sign of great pain and sorrow. People wore “sackcloth” in times of mourning: rough, scratchy clothing made of goat hair.
 > Jacob once tricked his father with a goatskin and Esau’s clothes (Chapter 27). Now he himself is tricked with a male goat and his son’s robe. And again the sons say, “Please look at it and see …” – almost the same words.
 > The brothers do not lie directly. They let their father come to the wrong conclusion himself. That is especially cruel.
-> People imagined “Sheol,” the place of the dead, as a dark place under the earth where all the dead go.
+> People imagined “Sheol,” the world of the dead, as a dark place under the earth where all the dead go.
 > The last sentence is like a ray of light: Joseph is alive. He is in Egypt. The story is not over yet.

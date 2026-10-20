@@ -13,12 +13,12 @@ They spoke before Moses and before the leaders, the heads of the families of the
 And my lord was commanded by the LORD
 to give the inheritance of Zelophehad, our brother, to his daughters.
 [3] But they may marry men from one of the other tribes of the people of Israel.
-Then their inheritance will be taken away from the inheritance of our fathers.
+Then their inheritance will be taken away from the inheritance of our ancestors.
 It will be added to the inheritance of the tribe they will then belong to.
 So it will be taken away from the share of our inheritance.
 [4] When the year of jubilee of the people of Israel comes,
 their inheritance will be added to the inheritance of the tribe they belong to.
-So their inheritance will be taken away from the inheritance of the tribe of our fathers.”
+So their inheritance will be taken away from the inheritance of the tribe of our ancestors.”
 
 > **What does this mean?**
 > In Chapter 27, the five daughters of Zelophehad received the right to inherit their father’s land.
@@ -36,10 +36,10 @@ He said,
 ‘They may marry whom they think best.
 But they must marry into a family of their father’s tribe.
 [7] That way no inheritance of the people of Israel will move from tribe to tribe.
-For each of the people of Israel is to keep the inheritance of the tribe of his fathers.
+For each of the people of Israel is to keep the inheritance of the tribe of his ancestors.
 [8] Every daughter who owns an inheritance in one of the tribes of the people of Israel
 must marry a man from a family of her father’s tribe.
-That way each of the people of Israel will own the inheritance of his fathers.
+That way each of the people of Israel will own the inheritance of his ancestors.
 [9] So no inheritance will move from one tribe to another tribe.
 For each of the tribes of the people of Israel is to keep its own inheritance.’”
 

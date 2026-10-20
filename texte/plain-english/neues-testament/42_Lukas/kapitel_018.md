@@ -39,7 +39,7 @@ will he find faith on the earth?”
 > Back then widows often had no husband and no son to stand up for them. They were easy victims of injustice. Again and again the Bible calls for widows and orphans to be protected (for example Deuteronomy 10:18).
 > The widow does not give up. She has no power, but she keeps on.
 > Jesus does not compare God to the unrighteous judge. He says: If even a bad judge helps in the end, how much more will God help, who is just and loves us.
-> Verses 7–8: The WEB says “avenge.” What is meant is: God sees that people get justice. It is not about personal revenge.
+> Verses 7–8: The WEB, our English source text, says “avenge.” What is meant is: God sees that people get justice. It is not about personal revenge.
 > Verse 8: The question at the end is aimed at us: Will we stay in faith, even if it takes a long time?
 > For today: You may ask God again and again. And you may stand up for your rights.
 

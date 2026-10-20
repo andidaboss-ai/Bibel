@@ -47,7 +47,7 @@ as a place to bury strangers.
 [9] Then what was spoken through Jeremiah the prophet was fulfilled:
 “They took the thirty pieces of silver,
 the price of the one on whom a price had been set,
-whom some of the children of Israel priced,
+whom some of the people of Israel priced,
 [10] and they gave them for the potter’s field,
 as the Lord commanded me.”
 

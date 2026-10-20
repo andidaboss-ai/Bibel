@@ -28,7 +28,7 @@ And the people of Israel came up to her to have their cases judged.
 and said to him,
 “Hasn’t the LORD, the God of Israel, commanded you:
 ‘Go and lead the way to Mount Tabor,
-and take with you ten thousand men from the people of Naphtali and the people of Zebulun.
+and take with you 10,000 men from the people of Naphtali and the people of Zebulun.
 [7] I will draw Sisera, the commander of Jabin’s army, with his chariots and his crowd of soldiers,
 to you at the river Kishon,
 and I will give him into your hand’?”
@@ -71,7 +71,7 @@ and all the people who were with him, from Harosheth of the Gentiles to the rive
 [14] Deborah said to Barak,
 “Go! For this is the day on which the LORD has given Sisera into your hand.
 Hasn’t the LORD gone out ahead of you?”
-So Barak went down from Mount Tabor, with ten thousand men behind him.
+So Barak went down from Mount Tabor, with 10,000 men behind him.
 [15] And the LORD threw Sisera, all his chariots, and all his army into confusion
 in front of Barak with the edge of the sword.
 Sisera got down from his chariot and ran away on foot.

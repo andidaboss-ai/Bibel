@@ -27,8 +27,8 @@ All the people answered with one voice,
 [4] Moses wrote down all the LORD’s words.
 Early the next morning he got up.
 At the foot of the mountain he built an altar.
-He also set up twelve stone pillars, for the twelve tribes of Israel.
-[5] Then he sent young men of Israel.
+He also set up twelve pillars, for the twelve tribes of Israel.
+[5] Then he sent young men of the people of Israel.
 They offered burnt offerings
 and sacrificed cattle as peace offerings to the LORD.
 

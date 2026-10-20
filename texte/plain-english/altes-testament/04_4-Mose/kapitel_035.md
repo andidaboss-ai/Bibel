@@ -116,7 +116,7 @@ for all your generations, everywhere you live.
 > **What does this mean?**
 > Someone who has killed another person by accident is not a murderer. But he is not simply free either. He must stay in the city of refuge. He is protected there, but he cannot go home. This shows: Even an accident is something serious. A life has been lost.
 > He may only go home when the high priest dies. With the death of the high priest, a new time begins. Jewish teachers have said: The death of the high priest brings a kind of atonement.
-> Christians see in this a picture of Jesus. In the letter to the Hebrews, Jesus is called the great high priest (Hebrews 4:14). Through his death, people become free. And in the letter to the Hebrews, God himself is called a refuge (Hebrews 6:18).
+> Christians see in this a picture of Jesus. In the letter to the Hebrews, Jesus is called the great high priest (Hebrews 4:14). Through his death, people become free. And the letter to the Hebrews speaks of people who flee to God for refuge, to hold on to the hope he gives (Hebrews 6:18).
 
 ---
 

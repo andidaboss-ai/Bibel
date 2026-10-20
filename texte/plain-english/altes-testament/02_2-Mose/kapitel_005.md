@@ -27,7 +27,7 @@ Get back to your work!”
 And you want them to rest from their work!”
 
 > **What does this mean?**
-> “Let my people go!” – This sentence became famous. Later it became the cry of many oppressed people, for example the Black slaves in America (“Let my people go”).
+> “Let my people go!” – This sentence became famous. Later it became the cry of many oppressed people, for example enslaved Black people in America (“Let my people go”).
 > Pharaoh thinks he himself is a god. For him, the God of the slaves is a nobody: “Who is the LORD … I do not know the LORD.” In the next chapters he will get to know him.
 > Pharaoh thinks only about how much work the slaves can do. For him, they are not people, only workers.
 

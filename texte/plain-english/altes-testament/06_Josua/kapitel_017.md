@@ -9,8 +9,8 @@
 Machir, the firstborn of Manasseh, the father of Gilead, was a man of war.
 That is why he received Gilead and Bashan.
 [2] And this lot was for the rest of the people of Manasseh by their clans:
-for the children of Abiezer, for the children of Helek, for the children of Asriel,
-for the children of Shechem, for the children of Hepher, and for the children of Shemida.
+for the people of Abiezer, for the people of Helek, for the people of Asriel,
+for the people of Shechem, for the people of Hepher, and for the people of Shemida.
 These were the male descendants of Manasseh the son of Joseph, by their clans.
 
 > **What does this mean?**
@@ -70,9 +70,9 @@ But they did not drive them out completely.
 
 ---
 
-## The children of Joseph want more land (Verses 14–18)
+## The people of Joseph want more land (Verses 14–18)
 
-[14] The children of Joseph spoke to Joshua. They said,
+[14] The people of Joseph spoke to Joshua. They said,
 “Why have you given me only one lot and one share as an inheritance?
 We are a large people, because the LORD has blessed us so far.”
 [15] Joshua said to them,
@@ -80,7 +80,7 @@ We are a large people, because the LORD has blessed us so far.”
 go up to the forest and clear land for yourselves there,
 in the land of the Perizzites and of the Rephaim,
 since the hill country of Ephraim is too small for you.”
-[16] The children of Joseph said,
+[16] The people of Joseph said,
 “The hill country is not enough for us.
 And all the Canaanites who live in the land of the valley have chariots of iron,
 both those in Beth Shean and its towns and those in the valley of Jezreel.”
@@ -92,7 +92,7 @@ Even though it is a forest, you will cut it down, and it will be yours to its fa
 For you will drive out the Canaanites, even though they have chariots of iron and are strong.”
 
 > **What does this mean?**
-> The children of Joseph complain: We are so many, we need more land! Joshua answers wisely: If you are so many and so strong, then work! Clear the forest.
+> The people of Joseph complain: We are so many, we need more land! Joshua answers wisely: If you are so many and so strong, then work! Clear the forest.
 > They are afraid of the iron chariots in the plain. But Joshua gives them courage: You are strong enough.
 > Joshua himself came from the tribe of Ephraim. Still, he does not favor his own tribe. He does not give it land as a gift. He challenges it.
 > The hill country was still thickly wooded at that time. Archaeologists have found that around 1200 before Christ many new small villages came into being in the hill country. Many scholars see this as the beginnings of Israel.

@@ -16,9 +16,8 @@ And we should get the pasture lands around them for our animals.”
 [3] So the people of Israel gave the Levites these cities and their pasture lands.
 They gave them from their own land, as the LORD had commanded.
 [4] The first lot came out for the clans of the Kohathites.
-Some of them were descendants of Aaron the priest.
-They were Levites too.
-They received 13 cities by lot.
+The descendants of Aaron the priest, who were Levites,
+received 13 cities by lot.
 The cities came from the tribe of Judah, the tribe of Simeon, and the tribe of Benjamin.
 [5] The other descendants of Kohath received 10 cities by lot.
 The cities came from the clans of the tribe of Ephraim, from the tribe of Dan, and from the half-tribe of Manasseh.

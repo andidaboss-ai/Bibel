@@ -50,7 +50,7 @@ You will smash them to pieces like clay pots.”
 > Now the king himself speaks. He tells what God said when he made him king: “You are my son.”
 > In ancient Israel, this was a kind of adoption formula. On the day he was crowned, the king became God’s “son” (compare 2 Samuel 7:14).
 > Jews understand the psalm as speaking about the king from the family of David and about the Messiah who is coming.
-> Christians see a pointer to Jesus here. When Jesus was baptized, a voice from heaven called him God’s beloved Son (Mark 1:11). The New Testament quotes verse 7 several times (Acts 13:33; Hebrews 1:5).
+> Christians see a pointer to Jesus here. When Jesus was baptized, a voice from heaven called him God’s Son, whom God loves (Mark 1:11). The New Testament quotes verse 7 several times (Acts 13:33; Hebrews 1:5).
 > Verse 9 is a picture of complete power. It is a picture from the language of kings in those days. It is not a call to violence. The New Testament links it with the final victory over evil (Revelation 19:15).
 
 ---

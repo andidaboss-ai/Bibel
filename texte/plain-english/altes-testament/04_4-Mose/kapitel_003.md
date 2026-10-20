@@ -34,7 +34,7 @@ They shall do the work of the Tabernacle.
 They shall carry out the duties for the people of Israel
 and do the work of the Tabernacle.
 [9] You shall give the Levites to Aaron and to his sons.
-They are given to him completely, from among the people of Israel.
+They are given to him completely, on behalf of the people of Israel.
 [10] You shall appoint Aaron and his sons, so that they do their work as priests.
 But a stranger who comes near shall be put to death.”
 
@@ -149,7 +149,7 @@ by their families, all the males from one month old and up, were 22,000.
 
 > **What does this mean?**
 > Moses and the priests camp in the east, right at the entrance of the sanctuary. They guard the most important way in.
-> If you add up the numbers (7,500 + 8,600 + 6,200), you get 22,300, not 22,000. Probably a mistake happened when the text was copied. Some scholars think that the Kohathites originally had 8,300 instead of 8,600. Then the total would be exactly right. The English text we follow keeps the Hebrew text with 8,600.
+> If you add up the numbers (7,500 + 8,600 + 6,200), you get 22,300, not 22,000. Probably a mistake happened when the text was copied. Some scholars think that the Kohathites originally had 8,300 instead of 8,600. Then the total would be exactly right. The WEB, our English source text, follows the Hebrew text with 8,600.
 
 ---
 

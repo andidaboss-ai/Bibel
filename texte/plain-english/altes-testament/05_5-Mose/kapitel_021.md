@@ -85,7 +85,7 @@ For he is the first sign of his father’s strength.
 The right of the firstborn belongs to him.
 
 > **What does this mean?**
-> The WEB, our English source, says “beloved” and “hated.” It means: One wife is loved more than the other.
+> The WEB, our English source text, says “beloved” and “hated.” It means: One wife is loved more than the other.
 > Back then, some men had more than one wife. That often led to jealousy and quarreling, as with Jacob, Leah, and Rachel (Genesis 29–30).
 > The law protects the wife who is loved less, and her child. The father may not divide the inheritance according to his feelings. What is right stands above what he prefers.
 > The firstborn got the double share because he had to take care of the family after his father’s death.

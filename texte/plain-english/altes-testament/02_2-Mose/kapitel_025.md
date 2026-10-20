@@ -20,7 +20,7 @@ spices for the anointing oil and for the sweet incense,
 [7] onyx stones, and stones to be set
 for the ephod and for the breastplate.
 
-[8] Let them make me a sanctuary.
+[8] “Let them make me a sanctuary.
 Then I will live among them.
 [9] You shall make it exactly like everything I show you:
 the pattern of the tabernacle and the pattern of all its furniture.
@@ -56,15 +56,14 @@ They shall never be taken out.
 > **What does this mean?**
 > In the Bible, the measurements are given in cubits: two and a half cubits long, one and a half cubits wide and high. A cubit is about 18 inches.
 > The ark (also called the “ark of the covenant”) is a chest. It is the most important object in the sanctuary.
-> In the ark are the two stone tablets with the Ten Commandments. They are the “testimony” of the covenant. A covenant is a firm agreement.
+> In the ark are the two stone tablets with the Ten Commandments. They are the written witness of the covenant. A covenant is a firm agreement.
 > The poles always stay in the rings. God’s presence is always ready to move on with the people.
 
 ---
 
 ## The cover with the cherubim (Verses 17–22)
 
-[17] Make a mercy seat of pure gold.
-It is the cover of the ark.
+[17] “Make a mercy seat of pure gold.
 It shall be about 3 feet 9 inches long and about 2 feet 3 inches wide.
 [18] Make two cherubim of hammered gold.
 Put them at the two ends of the mercy seat.
@@ -75,14 +74,14 @@ and cover the mercy seat with their wings.
 Their faces shall be turned toward each other.
 They shall look toward the mercy seat.
 
-[21] Put the mercy seat on top of the ark.
+[21] “Put the mercy seat on top of the ark.
 And put the covenant that I will give you inside the ark.
 [22] There I will meet with you.
 From above the mercy seat, from between the two cherubim on the ark of the covenant,
 I will tell you everything that I command you for the people of Israel.
 
 > **What does this mean?**
-> In English, the cover is called the “mercy seat.” In Hebrew it is called “kapporet.” The word is connected with “making peace” and “covering guilt.” On the great Day of Atonement, blood is sprinkled here, so that the people’s guilt is forgiven (Leviticus 16).
+> The mercy seat is the cover of the ark. In Hebrew it is called “kapporet.” The word is connected with “making peace” and “covering guilt.” On the great Day of Atonement, blood is sprinkled here, so that the people’s guilt is forgiven (Leviticus 16).
 > Cherubim (one is called a cherub) are mighty heavenly beings with wings. They also guard the way to the Garden of Eden (Genesis 3:24).
 > The space between the cherubim is like an empty throne. God himself sits on it, but no one can see him. There is no image of God – only an empty place for him.
 > “There I will meet with you” – this is the heart of the sanctuary. Here God speaks with Moses.
@@ -102,7 +101,7 @@ Put the rings at the four corners, on its four legs.
 The poles for carrying the table shall go through them.
 [28] Make the poles of acacia wood and cover them with gold.
 The table shall be carried with them.
-[29] Also make its dishes, its spoons, its ladles and its bowls for pouring out drink offerings.
+[29] Also make its dishes, its spoons, its ladles and its bowls for pouring out offerings.
 Make them of pure gold.
 [30] Always put the bread of the presence on the table before me.
 
@@ -131,10 +130,10 @@ It shall be like this for the six branches that go out from the lamp stand.
 [36] The buds and the branches shall be one piece with it.
 All of it shall be one piece of hammered, pure gold.
 
-[37] Make seven lamps for it.
+[37] “Make seven lamps for it.
 They shall light its lamps so that they give light to the space in front of it.
 [38] Its snuffers and its snuff dishes shall also be of pure gold.
-[39] The lamp stand and all these tools shall be made from a talent of pure gold.
+[39] The lamp stand and all these tools shall be made from a talent of pure gold (about 75 pounds).
 [40] Make sure that you make everything exactly like the pattern that was shown to you on the mountain.”
 
 > **What does this mean?**

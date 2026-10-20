@@ -10,7 +10,7 @@ A vision is a picture that God shows a person, like a dream while awake.
 God said,
 “Do not be afraid, Abram.
 I am your shield.
-Your reward will be very great.”
+I am your very great reward.”
 
 [2] Abram said,
 “Lord GOD, what will you give me?
@@ -21,7 +21,7 @@ The one who will inherit everything I own is Eliezer of Damascus.”
 So a servant born in my household will be my heir.”
 An heir is someone who gets everything when the owner dies.
 
-[4] But look, the word of the LORD came to him:
+[4] Then the word of the LORD came to him:
 “This man will not be your heir.
 Instead, a son from your own body will be your heir.”
 [5] The LORD brought Abram outside and said,
@@ -72,7 +72,7 @@ But Abram drove them away.
 ## God tells about the future (Verses 12–16)
 
 [12] When the sun was going down, Abram fell into a deep sleep.
-And look: Terror and great darkness came over him.
+Then terror and great darkness came over him.
 
 [13] Then God said to Abram,
 “You must know for sure:
@@ -80,14 +80,14 @@ Your descendants will live as foreigners in a land that does not belong to them.
 There they will be made slaves and treated cruelly for 400 years.
 [14] But I will also judge the nation they will have to serve.
 Afterward, they will leave with great wealth.
-[15] But you will go to your fathers in peace.
+[15] But you will go to your ancestors in peace.
 You will be buried at a good old age.
 [16] In the fourth generation, your descendants will come back here.
 For the guilt of the Amorites is not yet full.”
 
 > **What does this mean?**
 > God tells what will happen much later: Abram’s descendants will be slaves in Egypt. After that, God will lead them to freedom. The book of Exodus tells about this.
-> “To go to your fathers” is a beautiful old way of saying: to die.
+> “To go to your ancestors” is a beautiful old way of saying: to die.
 > “The guilt of the Amorites is not yet full”: The peoples in Canaan still get a lot of time. God does not simply take the land away from them. He waits patiently. Only when their wickedness is too great does he step in.
 > “Amorites” stands here for all the peoples who lived in Canaan at that time.
 

@@ -139,7 +139,7 @@ blessed each of the sons of Joseph.
 And he worshiped,
 leaning on the top of his staff.
 [22] By faith Joseph at the end of his life
-spoke of the departure of the children of Israel
+spoke of the departure of the people of Israel
 and gave instructions about his bones.
 [23] By faith Moses, when he was born,
 was hidden for three months by his parents.

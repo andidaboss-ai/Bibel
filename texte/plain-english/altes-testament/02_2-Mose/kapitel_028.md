@@ -15,7 +15,7 @@ whom I have filled with the spirit of wisdom.
 They shall make Aaron’s clothes,
 to make him holy, so that he can serve me as a priest.
 
-[4] These are the clothes that they shall make:
+[4] “These are the clothes that they shall make:
 a breastplate, an ephod, a robe, a fitted tunic, a turban and a sash.
 They shall make holy clothes for your brother Aaron and his sons,
 so that he can serve me as a priest.
@@ -39,25 +39,25 @@ So it is held together.
 [8] The skillfully woven band on it shall be made the same way and be one piece with it,
 of gold, of blue, purple and scarlet cloth and of fine twisted linen.
 
-[9] Take two onyx stones.
+[9] “Take two onyx stones.
 Engrave the names of the people of Israel on them:
 [10] six of their names on the one stone,
 and the names of the other six on the other stone,
 in the order of their birth.
 [11] An engraver of stone shall engrave the names of the people of Israel on the two stones, the way a seal is engraved.
-A seal is a stamp with a name on it.
 Put the stones in settings of gold.
 [12] Put the two stones on the shoulder straps of the ephod.
 They shall be stones of remembrance for the people of Israel.
 So Aaron shall carry their names before the LORD on his two shoulders, as a reminder.
 
-[13] Make settings of gold,
+[13] “Make settings of gold,
 [14] and two chains of pure gold.
 Make them like braided cords.
 Fasten the braided chains to the settings.
 
 > **What does this mean?**
 > The ephod is a kind of apron or vest. It is worn over the robe. It is held up by straps over the shoulders.
+> A seal is a stamp with a name on it.
 > On his shoulders, Aaron carries the names of the twelve tribes. This is a beautiful picture: The priest carries the whole people on his shoulders before God. He forgets no one.
 
 ---
@@ -70,7 +70,7 @@ of gold, of blue, purple and scarlet cloth and of fine twisted linen.
 [16] It shall be square and folded double.
 It shall be about 9 inches long and about 9 inches wide.
 
-[17] Set stones in it, in four rows:
+[17] “Set stones in it, in four rows:
 In the first row a ruby, a topaz and a beryl.
 [18] In the second row a turquoise, a sapphire and an emerald.
 [19] In the third row a jacinth, an agate and an amethyst.
@@ -80,15 +80,15 @@ They shall be set in gold settings.
 A name shall be engraved on each stone, the way a seal is engraved.
 They shall be for the twelve tribes.
 
-[22] Make chains for the breastplate like braided cords of pure gold.
+[22] “Make chains for the breastplate like braided cords of pure gold.
 [23] Make two rings of gold for the breastplate.
-Put the two rings on the two upper ends of the breastplate.
+Put the two rings on the two ends of the breastplate.
 [24] Put the two braided chains of gold through the two rings at the ends of the breastplate.
 [25] Fasten the other two ends of the two chains to the two settings.
 Put them on the front of the shoulder straps of the ephod.
 
-[26] Make two more rings of gold.
-Put them on the two lower ends of the breastplate, on its inside edge, next to the ephod.
+[26] “Make two more rings of gold.
+Put them on the two ends of the breastplate, on its inside edge, next to the ephod.
 [27] And make two more rings of gold.
 Put them low on the front of the two shoulder straps of the ephod,
 close to the place where they are joined, above the woven band of the ephod.
@@ -96,7 +96,7 @@ close to the place where they are joined, above the woven band of the ephod.
 So it stays on the woven band of the ephod,
 and the breastplate cannot swing away from the ephod.
 
-[29] So Aaron shall carry the names of the people of Israel on the breastplate of judgment, on his heart,
+[29] “So Aaron shall carry the names of the people of Israel on the breastplate of judgment, on his heart,
 when he goes into the holy place.
 It shall always be a reminder before the LORD.
 [30] Put the Urim and the Thummim into the breastplate of judgment.
@@ -149,7 +149,7 @@ It shall always be on his forehead,
 so that the LORD accepts them.
 
 > **What does this mean?**
-> The World English Bible says “sash” in verse 37. But the Hebrew text means the turban, the covering for the head, because the plate sits on the forehead. That is why it says “turban” here.
+> The WEB, our English source text, says “sash” in verse 37. But the Hebrew text means the turban, the covering for the head, because the plate sits on the forehead. That is why it says “turban” here.
 > “Holy to the LORD” – these words show: The priest belongs completely to God. And he stands in the place of the whole people, who are meant to belong to God.
 > People make mistakes, even when they want to give God a gift. The priest carries these mistakes before God, so that God still accepts the gifts with kindness.
 
@@ -168,7 +168,7 @@ They shall give them glory and beauty.
 Anoint them, ordain them and make them holy,
 so that they can serve me as priests.
 
-[42] Make linen pants for them to cover their naked bodies.
+[42] “Make linen pants for them to cover their naked bodies.
 They shall reach from the waist to the thighs.
 [43] Aaron and his sons shall wear them
 when they go into the Tent of Meeting,

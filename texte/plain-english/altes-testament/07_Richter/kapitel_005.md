@@ -37,7 +37,7 @@ There were none, until I, Deborah, rose up,
 until I rose up as a mother in Israel.
 [8] They chose new gods.
 Then there was war in the city gates.
-Was a shield or a spear seen among forty thousand in Israel?
+Was a shield or a spear seen among 40,000 in Israel?
 [9] My heart is with the leaders of Israel,
 who offered themselves willingly among the people.
 Praise the LORD!

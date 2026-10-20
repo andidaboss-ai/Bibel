@@ -23,7 +23,7 @@ He wanted to lead you away from the way that the LORD your God commanded you to 
 In this way you shall remove the evil from among you.
 
 > **What does this mean?**
-> In some Bibles, this chapter is numbered one verse later: Verse 1 here is verse 2 there, and so on up to verse 19. We follow the verse numbers of the WEB.
+> In some Bibles, this chapter is numbered one verse later: Verse 1 here is verse 2 there, and so on up to verse 19. We follow the verse numbers of the WEB, our English source text.
 > An important lesson: Even if someone does wonders, that does not yet prove that he comes from God. What matters is where he leads. Whoever leads away from God is a false prophet, even if he does impressive things. Jesus gives a very similar warning (Matthew 24:24).
 > Back then, a false prophet was to be put to death. For us, that is very harsh. We need to understand: Israel back then was a people whose whole order was based on the covenant with God. Turning away from God was seen as betraying the whole people, a bit like high treason.
 > Today Jews and Christians live in countries with freedom of religion. The large Jewish and Christian communities reject all violence because of faith. No one may use this passage to persecute people of another faith. Sadly, this has happened in history, and it was a grave injustice.
@@ -72,7 +72,7 @@ that such a disgusting thing has been done among you,
 You shall completely destroy it, with everything in it, and also its livestock,
 with the edge of the sword.
 [16] You shall gather all its plunder in the middle of its town square.
-And you shall burn the city with all its plunder with fire, as a whole offering to the LORD your God.
+And you shall burn the city with all its plunder with fire, for the LORD your God.
 It shall be a heap of ruins forever.
 It shall not be built again.
 [17] Nothing that is devoted to destruction shall stick to your hand,

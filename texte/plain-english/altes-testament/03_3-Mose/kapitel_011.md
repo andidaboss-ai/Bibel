@@ -125,7 +125,7 @@ An oven or a stove for pots shall be broken in pieces.
 They are unclean and shall be unclean to you.
 [36] But a spring or a cistern where water is gathered shall stay clean.
 A cistern is a large hole in the ground for storing water.
-But whoever touches their dead body in it shall be unclean.
+But whatever touches their dead body shall be unclean.
 [37] If a part of their dead body falls on seed that is to be planted, it is clean.
 [38] But if water has been put on the seed
 and a part of their dead body falls on it,
@@ -174,4 +174,4 @@ between the animals that may be eaten and the animals that may not be eaten.’�
 > **What does this mean?**
 > Here is the most important reason for all these rules: “Be holy, because I am holy.” This sentence appears here for the first time. It is repeated often in Leviticus.
 > “Holy” means: belonging to God, set apart for God, being different. Even when they eat, that is, every day, Israel should remember: We belong to God.
-> This sentence is also quoted in the New Testament. Peter writes: You too should be holy in your whole life. For it is written: You shall be holy, because I am holy (1 Peter 1:15–16).
+> This sentence is also quoted in the New Testament. Peter writes: “So you also are to be holy in all your way of life. For it is written, ‘You shall be holy, for I am holy’” (1 Peter 1:15–16).

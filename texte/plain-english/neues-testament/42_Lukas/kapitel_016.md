@@ -61,7 +61,7 @@ You cannot serve both God and Mammon.”
 
 > **What does this mean?**
 > This parable is hard to understand. Jesus does not praise cheating. He praises the manager for thinking cleverly about his future.
-> Verses 6–7: The WEB names “batos” and “cors.” These were units of measure. A batos of oil was several gallons, a cor of wheat was a large amount, many pounds. These are big quantities.
+> Verses 6–7: The WEB, our English source text, names “batos” and “cors.” These were units of measure. A batos of oil was several gallons, a cor of wheat was a large amount, many pounds. These are big quantities.
 > Some interpreters think: Perhaps the manager crossed out his own share, or hidden interest. Taking interest from fellow Jews was forbidden by the law (Deuteronomy 23:19; in the Hebrew Bible and in many German Bibles 23:20). But this is not certain.
 > Verse 8: The “children of this world” are people who think only of this world. The “children of the light” are those who belong to God. Jesus says: Worldly people are often more determined than devout people.
 > Verse 9: “Mammon” is an Aramaic word for money and possessions. Jesus calls it “unjust” because money is often tied up with injustice. Money should be used to do good and help others.

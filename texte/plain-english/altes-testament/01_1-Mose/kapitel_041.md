@@ -38,7 +38,7 @@ But no one could explain them to Pharaoh.
 ## The cup bearer remembers (Verses 9–13)
 
 [9] Then the chief cup bearer said to Pharaoh,
-“Today I must think of my mistakes.
+“Today I remember my faults.
 [10] Pharaoh was angry with his servants.
 He put me under guard in the house of the captain of the guard, me and the chief baker.
 [11] We both had a dream in one night, he and I.
@@ -66,7 +66,7 @@ Joseph shaved, changed his clothes and came in to Pharaoh.
 I have heard people say about you: When you hear a dream, you can explain it.”
 [16] Joseph answered Pharaoh,
 “It is not in me.
-God will give Pharaoh an answer of peace.”
+God will give Pharaoh an answer that brings peace.”
 
 [17] Pharaoh said to Joseph,
 “In my dream – look: I was standing on the bank of the river.
@@ -83,14 +83,14 @@ Then I woke up.
 [22] Then I saw in my dream – look:
 Seven heads of grain grew on one stalk, full and good.
 [23] And look: After them, seven heads of grain sprang up,
-dried up, thin and dried out by the east wind.
+withered, thin and dried out by the east wind.
 [24] The thin heads of grain swallowed up the seven good heads of grain.
 I told it to the magicians.
 But no one could explain it to me.”
 
 > **What does this mean?**
 > Joseph shaves, because the Egyptians – unlike the Hebrews – were clean-shaven. He fits in, so that he can appear before the king.
-> Joseph is now a grown-up man. Earlier he proudly told about his dreams. Now he says humbly: “It is not in me. God will give Pharaoh an answer.”
+> Joseph is now a grown-up man. Earlier he proudly told about his dreams. Now he says humbly: “It is not in me. God will give Pharaoh an answer that brings peace.”
 > Pharaoh tells the dream once more and adds something: The thin cows stay thin, even though they have eaten the fat ones. That makes the message even clearer.
 
 ---
@@ -155,7 +155,7 @@ Then the land will not be ruined by the famine.”
 So there is no one as wise and understanding as you.
 [40] You will be in charge of my house.
 All my people will follow your orders.
-Only because of my throne will I be greater than you.”
+Only my throne will make me greater than you.”
 
 [41] Pharaoh said to Joseph,
 “Look, I have put you in charge of all the land of Egypt.”

@@ -37,7 +37,7 @@ I am the LORD.’”
 
 > **What does this mean?**
 > Moses had accused God (Chapter 5). God does not answer with an explanation, but with promises.
-> Verse 3 is hard to understand: The fathers already used the name “the LORD” in the book of Genesis. Many interpreters understand it like this: The fathers knew the name, but they had not yet experienced what it means. Only now, as he frees his people from Egypt, does God show who he really is: the God who is there and who saves.
+> Verse 3 is hard to understand: The ancestors already used the name “the LORD” in the book of Genesis. Many interpreters understand it like this: The ancestors knew the name, but they had not yet experienced what it means. Only now, as he frees his people from Egypt, does God show who he really is: the God who is there and who saves.
 > At the beginning and at the end of this speech is the same sentence: “I am the LORD.” Everything God promises stands on this foundation.
 > God promises seven things: to bring out, to free, to rescue, to take as his people, to be their God, to bring them into the land, to give them the land. To this day, Jews remember these promises at the Passover festival with four cups of wine.
 > In Hebrew, “swore” here is literally: “lifted up my hand.” That means: made a solemn promise.
@@ -122,11 +122,11 @@ These are the heads of the families of the Levites, by their families.
 
 ## Moses and Aaron (Verses 26–30)
 
-[26] These are the Aaron and Moses to whom the LORD said,
+[26] These are the same Aaron and Moses to whom the LORD said,
 “Bring the people of Israel out of the land of Egypt, in order, by their armies.”
 [27] They are the ones who spoke to Pharaoh, the king of Egypt,
 to bring the people of Israel out of Egypt.
-These are that Moses and Aaron.
+These are the same Moses and Aaron.
 
 [28] On the day when the LORD spoke to Moses in the land of Egypt,
 [29] the LORD said to Moses,

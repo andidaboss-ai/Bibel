@@ -97,8 +97,8 @@ But we saw his majesty with our own eyes.
 [17] For he received honor and glory
 from God the Father
 when the voice came to him from the Majestic Glory,
-“This is my beloved Son,
-in whom I am well pleased.”
+“This is my Son. I love him.
+I am very pleased with him.”
 [18] We heard this voice come from heaven
 when we were with him on the holy mountain.
 [19] And we have the word of prophecy made more sure.

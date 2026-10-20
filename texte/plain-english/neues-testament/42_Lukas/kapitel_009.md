@@ -157,7 +157,7 @@ before they see God’s Kingdom.”
 > Verse 20: “Christ” is Greek and means “the anointed one,” in Hebrew “Messiah.” Peter says: You are the Savior promised by God.
 > Verses 21–22: Jesus does not want people to misunderstand him as a political liberator. He says: The Messiah’s way leads through suffering. This is the first time in Luke that Jesus announces his suffering.
 > Important: Verse 22 names certain leaders in Jerusalem, not the Jewish people. According to Luke 24:20 and Acts 4:27 the Romans were involved too. The Jewish people do not bear guilt for the death of Jesus (Council declaration *Nostra Aetate*, 1965).
-> Verse 23: “Take up his cross” is a picture: following Jesus even when it is hard. Say no to himself: not putting himself first. Many old manuscripts say that he should take up his cross daily. The WEB does not have “daily.”
+> Verse 23: “Take up his cross” is a picture: following Jesus even when it is hard. Say no to himself: not putting himself first. Many old manuscripts say that he should take up his cross daily. The WEB, our English source text, does not have “daily.”
 > Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help.
 > Verse 25: “Throw it away”: Older Bibles say “forfeit,” that is, lose something as a penalty.
 > Verse 27: These words are understood in different ways. Many interpreters think of the transfiguration, which follows right after, or of Easter and Pentecost.
@@ -196,7 +196,7 @@ The disciples were afraid
 as they went into the cloud.
 [35] A voice came out of the cloud.
 It said,
-“This is my beloved Son.
+“This is my Son. I love him.
 Listen to him!”
 [36] After the voice had spoken,
 they saw that Jesus was alone.
@@ -210,7 +210,7 @@ anything about what they had seen.
 > Verse 31: Only Luke says what they talk about: his “departure.” The Greek word is “exodus,” that is, going out. This means Jesus’ death, resurrection and ascension in Jerusalem.
 > Verse 33: Peter wants to hold on to the beautiful moment. But the journey goes on.
 > In the Bible the cloud is a sign that God is near (Exodus 40:34).
-> Verse 35: Many old manuscripts say my chosen Son instead of “my beloved Son.” “Listen to him!” reminds us of Deuteronomy 18:15.
+> Verse 35: Many old manuscripts say “my chosen Son” instead of “my Son. I love him.” “Listen to him!” reminds us of Deuteronomy 18:15.
 
 ---
 

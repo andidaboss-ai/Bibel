@@ -102,8 +102,8 @@ The people in the city must get out.
 The people in the country must not go into the city.
 [22] For these are the days of punishment.
 Then everything that is written will come true.
-[23] How hard those days will be for women who are pregnant!
-How hard they will be for mothers who are nursing babies!
+[23] How terrible it will be in those days for women who are pregnant!
+How terrible for mothers who are nursing babies!
 For there will be great trouble in the land.
 God’s anger will come on this people.
 [24] They will be killed by the sword.
@@ -113,7 +113,7 @@ until the times of the Gentiles are over.”
 
 > **What does this mean?**
 > Here Luke describes very exactly what happened in the Jewish War: The Romans surrounded Jerusalem and conquered the city in the year AD 70. Many people died, many were made slaves.
-> “How hard those days will be for women who are pregnant!”: Jesus has compassion on those who suffer the most. It is a lament, not a curse.
+> “How terrible it will be in those days for women who are pregnant!”: Jesus has compassion on those who suffer the most. It is a lament, not a curse.
 > Important: The words “days of punishment” and “God’s anger will come on this people” (in older Bibles: “days of vengeance” and “wrath to this people”) were terribly misused in church history. People said the Jews were being punished “rightly.” That is wrong and has contributed to hatred and persecution. Jesus speaks as a Jewish prophet about his own people, with tears (Luke 19:41). The prophets of Israel lamented in a similar way, for example Jeremiah.
 > Verse 24: “Until the times of the Gentiles are over”: This time has an end. God’s story with Jerusalem and with Israel goes on (compare Romans 11:25–26).
 > “The Gentiles” here means the Romans.

@@ -68,12 +68,11 @@ A sin offering is an offering that takes away guilt.
 
 ---
 
-## Passover and the festival of unleavened bread (Verses 16–25)
+## Passover and the Feast of Unleavened Bread (Verses 16–25)
 
 [16] “‘In the first month, on the fourteenth day of the month, is the LORD’s Passover.
 [17] On the fifteenth day of this month there is to be a festival.
-For seven days people must eat unleavened bread.
-Unleavened bread is bread made without yeast.
+For seven days people must eat bread without yeast.
 [18] On the first day there is to be a holy assembly.
 You must not do any regular work.
 [19] Instead, you must bring an offering made by fire, a burnt offering to the LORD:
@@ -92,13 +91,13 @@ It is to be offered in addition to the regular burnt offering and its drink offe
 You must not do any regular work.
 
 > **What does this mean?**
-> Passover reminds people of how God set them free from Egypt. After it comes the festival of unleavened bread for seven days, with large offerings every day.
+> Passover reminds people of how God set them free from Egypt. After it comes the Feast of Unleavened Bread for seven days, with large offerings every day.
 
 ---
 
-## The festival of weeks (Verses 26–31)
+## The Feast of Weeks (Verses 26–31)
 
-[26] “‘Also on the day of the first fruits, when you bring a new grain offering to the LORD at your festival of weeks,
+[26] “‘Also on the day of the first fruits, when you bring a new grain offering to the LORD at your Feast of Weeks,
 you must have a holy assembly.
 You must not do any regular work.
 [27] Instead, you must bring a burnt offering as a pleasant smell to the LORD:
@@ -112,4 +111,4 @@ in addition to the regular burnt offering and its grain offering.
 Be sure that they are without any defect.
 
 > **What does this mean?**
-> The festival of weeks, “Shavuot,” is the festival of the wheat harvest, seven weeks after Passover. In Christianity it became Pentecost (see Leviticus 23:15–22).
+> The Feast of Weeks, “Shavuot,” is the festival of the wheat harvest, seven weeks after Passover. In Christianity it became Pentecost (see Leviticus 23:15–22).

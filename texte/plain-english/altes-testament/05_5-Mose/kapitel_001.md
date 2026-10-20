@@ -46,7 +46,7 @@ to the land of the Canaanites, and to Lebanon,
 as far as the great river, the river Euphrates.
 [8] Look! I have put the land in front of you.
 Go in and take the land as your own.
-The LORD swore to your fathers – to Abraham, to Isaac, and to Jacob –
+The LORD swore to your ancestors – to Abraham, to Isaac, and to Jacob –
 that he would give it to them and to their descendants after them.’”
 
 > **What does this mean?**
@@ -61,7 +61,7 @@ that he would give it to them and to their descendants after them.’”
 “I cannot carry you all by myself.
 [10] The LORD your God has made you many.
 Look! Today you are as many as the stars in the sky.
-[11] May the LORD, the God of your fathers, make you a thousand times as many as you are now.
+[11] May the LORD, the God of your ancestors, make you a thousand times as many as you are now.
 And may he bless you, as he has promised you!
 [12] How can I alone carry your problems, your burdens, and your quarrels?
 [13] Choose wise men who have understanding and who are respected in your tribes.
@@ -102,7 +102,7 @@ And we came to Kadesh Barnea.
 “You have come to the hill country of the Amorites, which the LORD our God is giving us.
 [21] Look! The LORD your God has put the land in front of you.
 Go up and take it as your own,
-as the LORD, the God of your fathers, has told you.
+as the LORD, the God of your ancestors, has told you.
 Do not be afraid, and do not lose courage.”
 [22] Then all of you came to me and said,
 “Let’s send men ahead of us.
@@ -159,7 +159,7 @@ and by day in the cloud.
 [34] The LORD heard what you said.
 He became angry and swore:
 [35] “Surely not one of these men of this evil generation
-will see the good land that I swore to give to your fathers,
+will see the good land that I swore to give to your ancestors,
 [36] except Caleb, the son of Jephunneh. He will see it.
 I will give him and his children the land that he has walked on,
 because he has followed the LORD completely.”

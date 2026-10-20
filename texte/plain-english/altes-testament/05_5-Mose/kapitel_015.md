@@ -95,7 +95,7 @@ and you shall not shear the firstborn of your flock.
 [20] You shall eat it before the LORD your God every year,
 at the place that the LORD will choose, you and your household.
 [21] But if it has a defect, if it is lame or blind,
-or has any other serious defect,
+or has any other defect at all,
 you shall not sacrifice it to the LORD your God.
 [22] You shall eat it in your towns.
 The unclean and the clean may eat it alike,

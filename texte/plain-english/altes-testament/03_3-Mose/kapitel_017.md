@@ -9,14 +9,14 @@
 [2] “Speak to Aaron, to his sons, and to all the people of Israel.
 Tell them,
 ‘This is what the LORD has commanded:
-[3] Someone from the house of Israel may kill a bull, a lamb, or a goat
+[3] Someone from the house of Israel might kill a bull, a lamb, or a goat
 in the camp or outside the camp.
 [4] If he does not bring it to the door of the Tent of Meeting
 to give it as an offering to the LORD in front of the LORD’s tabernacle,
 then that man is guilty of blood.
 He has shed blood.
 That man shall be cut off from his people.
-Cut off means: he no longer belongs to the people.
+Cut off means: He no longer belongs to the people of God.
 [5] This rule is there so that the people of Israel bring their sacrifices to the LORD.
 Until now they have sacrificed them out in the open field.
 Now they shall bring them to the door of the Tent of Meeting, to the priest.
@@ -30,7 +30,7 @@ This shall be a rule for them forever, for all their generations.’
 [8] “Tell them,
 ‘Someone from the house of Israel,
 or one of the foreigners who live among them,
-may offer a burnt offering or another sacrifice.
+might offer a burnt offering or another sacrifice.
 [9] If he does not bring it to the door of the Tent of Meeting to sacrifice it to the LORD,
 then that man shall be cut off from his people.
 
@@ -45,11 +45,11 @@ then that man shall be cut off from his people.
 
 [10] “‘Someone from the house of Israel,
 or one of the foreigners who live among them,
-may eat any kind of blood.
+might eat any kind of blood.
 Then I will turn against that person who eats blood.
 I will cut him off from his people.
 [11] For the life of the body is in the blood.
-I have given it to you for the altar, to make atonement for your lives.
+I have given it to you on the altar, to make atonement for your lives.
 Atonement means: the guilt is taken away, and there is peace with God again.
 For it is the blood that makes atonement, because the life is in it.
 [12] That is why I have said to the people of Israel,
@@ -58,8 +58,8 @@ And no foreigner who lives among you may eat blood.”
 
 [13] “‘Someone from the people of Israel,
 or one of the foreigners who live among them,
-may hunt an animal or a bird that may be eaten.
-Then he shall let its blood pour out and cover it with dust.
+might hunt an animal or a bird that may be eaten.
+Then he shall pour out its blood and cover it with dust.
 [14] For the life of every living body is in its blood.
 Its blood is its life.
 That is why I said to the people of Israel,
@@ -77,7 +77,7 @@ Whoever eats it shall be cut off.”
 
 ## Someone who eats an animal that died by itself (Verses 15–16)
 
-[15] “‘Someone may eat an animal that died by itself,
+[15] “‘Someone might eat an animal that died by itself,
 or one that wild animals have torn.
 It does not matter whether he was born in Israel or is a foreigner.
 He shall wash his clothes and bathe in water.

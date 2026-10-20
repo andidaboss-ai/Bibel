@@ -28,7 +28,7 @@ because you lived as a foreigner in his land.
 may enter the assembly of the LORD.
 
 > **What does this mean?**
-> In some Bibles the verses of this chapter are numbered one higher: verse 1 here is verse 2 there, and so on up to verse 26. We follow the numbering of the WEB, our English source.
+> In some Bibles the verses of this chapter are numbered one higher: verse 1 here is verse 2 there, and so on up to verse 26. We follow the numbering of the WEB, our English source text.
 > The “assembly of the LORD” is the community of Israel when it gathers before God, perhaps especially for worship and important decisions.
 > Verse 1: Among some nations, men were castrated in the service of foreign gods or as servants at the royal court. That should not happen in Israel.
 > Verse 2: “From a forbidden union”: What exactly is meant is not known for sure. Jewish teachers think of children from incest or adultery.
@@ -88,7 +88,7 @@ You shall not mistreat him.
 ## No prostitution in the name of God (Verses 17–18)
 
 [17] None of the daughters of Israel shall be a prostitute,
-and none of the sons of Israel shall be a sodomite.
+and none of the sons of Israel shall be a male shrine prostitute.
 [18] You shall not bring the pay of a female prostitute
 or the pay of a male prostitute
 into the house of the LORD your God for any vow.
@@ -96,9 +96,9 @@ A vow is a promise made to God.
 For the LORD your God hates both of these.
 
 > **What does this mean?**
-> “Sodomite”: That is the word the WEB, our English source, uses. The Hebrew has “kadesh,” which literally means “someone set apart.” It means a man who worked as a prostitute in the service of a foreign god. For women the Hebrew has the word “kedeshah.”
+> “Male shrine prostitute”: Here the WEB, our English source text, uses the old word “sodomite.” The Hebrew has “kadesh,” which literally means “someone set apart.” It means a man who worked as a prostitute in the service of a foreign god. For women the Hebrew has the word “kedeshah.”
 > Among the Canaanites there were temples where prostitution was part of worship. That should not happen in Israel. People should not do business with worship and sexuality.
-> “The pay of a male prostitute”: That is what the WEB, our English source, says. The Hebrew literally says “the pay of a dog.” Back then, “dog” was an insult for such a man.
+> “The pay of a male prostitute”: That is what the WEB, our English source text, says. The Hebrew literally says “the pay of a dog.” Back then, “dog” was an insult for such a man.
 > Important: This passage is about prostitution in the temples of foreign gods. It must not be used to look down on people or to persecute them.
 
 ---

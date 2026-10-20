@@ -30,7 +30,7 @@ And he shall let the living bird fly away into the open field.
 > “Running water” is fresh, living water from a spring or a stream, not water that stands still.
 > Hyssop is a small plant with many branches. It was good for sprinkling. Cedar wood is a wood that does not rot. The red cloth is a reminder of blood, that is, of life.
 > One bird dies, the other flies away free. This is a strong picture: The disease and the uncleanness are carried away. The person is free and can live a new life.
-> Jesus told people with leprosy whom he had healed to go and show themselves to the priests (Luke 17:14). In this way, their healing was to be officially confirmed, following exactly this law.
+> Jesus said to people with leprosy whom he healed: “Go and show yourselves to the priests” (Luke 17:14). In this way, their healing was to be officially confirmed, following exactly this law.
 
 ---
 
@@ -68,7 +68,7 @@ He shall wave them before the LORD as a wave offering.
 For just as the sin offering belongs to the priest, so does the trespass offering.
 It is most holy.
 [14] The priest shall take some of the blood of the trespass offering.
-The priest shall put it on the bottom of the right ear of the one who is to be cleansed,
+The priest shall put it on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot.
 
 [15] The priest shall take some of the oil
@@ -76,7 +76,7 @@ and pour it into the palm of his own left hand.
 [16] The priest shall dip his right finger in the oil that is in his left hand.
 And with his finger he shall sprinkle some of the oil seven times before the LORD.
 [17] From the rest of the oil in his hand, the priest shall put some
-on the bottom of the right ear of the one who is to be cleansed,
+on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot,
 on top of the blood of the trespass offering.
 [18] The rest of the oil in the priest’s hand he shall put on the head of the one who is to be cleansed.
@@ -109,13 +109,13 @@ to the door of the Tent of Meeting, before the LORD.
 And the priest shall wave them before the LORD as a wave offering.
 [25] He shall kill the lamb of the trespass offering.
 The priest shall take some of the blood of the trespass offering
-and put it on the bottom of the right ear of the one who is to be cleansed,
+and put it on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot.
 [26] The priest shall pour some of the oil into the palm of his own left hand.
 [27] And with his right finger the priest shall sprinkle some of the oil that is in his left hand
 seven times before the LORD.
 [28] Then the priest shall put some of the oil that is in his hand
-on the bottom of the right ear of the one who is to be cleansed,
+on the tip of the right ear of the one who is to be cleansed,
 on the thumb of his right hand and on the big toe of his right foot,
 on the place where the blood of the trespass offering is.
 [29] The rest of the oil in the priest’s hand he shall put on the head of the one who is to be cleansed,
