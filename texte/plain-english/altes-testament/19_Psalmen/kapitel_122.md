@@ -14,7 +14,7 @@ that is closely joined together.
 [4] The tribes go up there, the tribes of Yah,
 as a rule for Israel says,
 to give thanks to the name of the LORD.
-Yah is a short form of the name of God.
+Yah is a short form of the name of God, the LORD.
 [5] For there the thrones for judging are set up,
 the thrones of David’s family.
 [6] Pray for peace for Jerusalem!

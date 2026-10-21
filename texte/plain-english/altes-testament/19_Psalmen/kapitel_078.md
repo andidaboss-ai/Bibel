@@ -5,20 +5,20 @@
 
 ## Passing on the story (Verses 1–8)
 
-[1] A contemplative psalm by Asaph.
+[1] A contemplation by Asaph.
 Listen to my teaching, my people!
 Turn your ears to the words of my mouth!
 [2] I will open my mouth and speak in a parable.
 I will speak riddles from long ago,
 [3] things we have heard and known,
-things our fathers have told us.
+things our ancestors have told us.
 [4] We will not hide them from their children.
 We will tell the next generation
 about the praises of the LORD, about his strength,
 and about the wonderful deeds he has done.
 [5] For he set up a covenant in Jacob
 and gave a teaching in Israel.
-He commanded our fathers
+He commanded our ancestors
 to make these things known to their children,
 [6] so that the next generation would know them,
 the children who would still be born.
@@ -26,7 +26,7 @@ Then they would rise up and tell their own children,
 [7] so that they would put their hope in God
 and not forget God’s deeds,
 but keep his commandments,
-[8] and so that they would not be like their fathers:
+[8] and so that they would not be like their ancestors:
 a stubborn and rebellious generation,
 a generation whose hearts were not loyal,
 whose spirit did not stay faithful to God.
@@ -47,7 +47,7 @@ but they turned back on the day of battle.
 They refused to live by his law.
 [11] They forgot what he had done,
 the wonderful deeds he had shown them.
-[12] He did amazing things before the eyes of their fathers,
+[12] He did amazing things before the eyes of their ancestors,
 in the land of Egypt, in the region of Zoan.
 [13] He split the sea and led them through it.
 He made the waters stand up like a heap.
@@ -205,7 +205,7 @@ and he let the tribes of Israel live in their tents.
 
 [56] Yet they put God Most High to the test and rebelled against him.
 They did not keep his laws.
-[57] They turned away and were unfaithful like their fathers.
+[57] They turned away and were unfaithful like their ancestors.
 They were as twisted as a bow that cannot be trusted.
 [58] For they made him angry with their high places,
 and they made him jealous with their carved idols.

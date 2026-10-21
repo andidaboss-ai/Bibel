@@ -12,7 +12,7 @@ The book tells:
 – Chapters 1–7: Nehemiah and the people build the wall again in only 52 days, in spite of mockery, threats and opposition.
 – Chapters 8–10: Ezra reads the law to the people. The people confess their guilt and make a covenant with God.
 – Chapters 11–13: People settle in Jerusalem again, the wall is dedicated, and Nehemiah puts things in order.
-Large parts are written using “I”, like a diary. They are called the “Nehemiah memoir”.
+Large parts are written using “I”, like a diary. They are called the “Nehemiah memoir.”
 Nehemiah prays very often, sometimes only very briefly, in the middle of a conversation. He combines prayer and hard work.
 
 ---
@@ -66,7 +66,7 @@ which you commanded your servant Moses.
 then even if your scattered people were at the farthest end of the heavens,
 I will gather them from there
 and bring them to the place that I have chosen,
-to make my name dwell there.’
+to make my name live there.’
 [10] Now these are your servants and your people,
 whom you have set free by your great power and by your strong hand.
 [11] Lord, please let your ear listen now to the prayer of your servant,
@@ -81,6 +81,6 @@ At that time I was cupbearer to the king.
 > – He confesses the guilt, his own too: “Yes, I and my father’s house have sinned.”
 > – He reminds God of his promises (Deuteronomy 30:1–5).
 > – He asks for help in concrete terms.
-> He prays “day and night”, for four months (from Chislev to Nisan, Nehemiah 2:1). He waits patiently for the right moment.
+> He prays “day and night,” for four months (from Chislev to Nisan, Nehemiah 2:1). He waits patiently for the right moment.
 > “This man” is the king. For God even the most powerful king in the world is only “a man”.
 > A cupbearer handed the king his wine and tested it first to see whether it was poisoned. He was a close confidant of the king and often had great influence.

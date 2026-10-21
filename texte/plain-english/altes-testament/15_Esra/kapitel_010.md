@@ -138,7 +138,7 @@ Some of them also had children with these wives.
 > Verse 44 is hard to understand in Hebrew. It ends very briefly with the children. You can feel the pain in this sentence.
 > **How can we understand this chapter today?**
 > This story is very hard for many readers. Women and children were sent away. That meant great suffering.
-> We have to understand the situation at that time: after the exile, the small people was in great danger of dissolving and losing its faith in the one God. The leaders saw this as a question of survival.
+> We have to understand the situation at that time: after the exile, the small nation was in great danger of dissolving and losing its faith in the one God. The leaders saw this as a question of survival.
 > But the Bible itself also shows other ways:
 > – Ruth from Moab and Rahab from Canaan became part of God’s people because they turned to the LORD.
 > – The prophet Malachi lived at the same time. He says: “Whoever hates and divorces … covers his clothes with violence” (Malachi 2:16). That means: God does not want marriages to break.

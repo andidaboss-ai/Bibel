@@ -68,7 +68,7 @@ and a proud spirit before a fall.
 than to share plunder with the proud.
 [20] Whoever pays attention to the word finds good things.
 Happy is the one who trusts in the LORD.
-[21] Whoever is wise in heart will be called understanding.
+[21] Whoever is wise in heart will be called sensible.
 Kind lips help teaching.
 [22] Understanding is a spring of life to the one who has it,
 but the punishment of fools is their foolishness.
@@ -102,7 +102,7 @@ whoever presses his lips together, is set on evil.
 [31] Gray hair is a glorious crown.
 It is gained by a life of righteousness.
 [32] Whoever is slow to anger is better than a mighty hero,
-whoever controls himself is better than someone who captures a city.
+and whoever controls himself is better than someone who captures a city.
 [33] The lot is thrown into the lap,
 but every decision comes from the LORD.
 

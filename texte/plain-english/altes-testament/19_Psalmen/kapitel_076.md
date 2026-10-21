@@ -8,7 +8,7 @@
 [1] For the music director. On stringed instruments. A psalm by Asaph. A song.
 In Judah, God is known.
 His name is great in Israel.
-[2] His tent is in Salem.
+[2] His tent is also in Salem.
 His home is in Zion.
 [3] There he broke the flaming arrows of the bow,
 the shield, the sword, and the weapons of war.

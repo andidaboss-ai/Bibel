@@ -109,7 +109,7 @@ or say, “Isn’t there a lie in my right hand?”
 > Verse 12: The blacksmith works so hard that he gets hungry and thirsty. A god whose maker grows tired!
 > Verses 14–17: A man cuts down a tree. With one half he heats his home and roasts his meat. From the other half he carves a god and prays: “Save me!”
 > Verses 19–20: Doesn’t he notice that he is bowing down to a block of wood? He is holding a lie in his hand.
-> For us today: We may not carve gods out of wood. But today, too, people can turn things they have made themselves into their “god,” for example money, success or reputation, and expect to be saved by them.
+> For us today: We probably do not carve gods out of wood. But today, too, people can turn things they have made themselves into their “god,” for example money, success or reputation, and expect to be saved by them.
 
 ---
 

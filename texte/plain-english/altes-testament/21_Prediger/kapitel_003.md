@@ -80,7 +80,6 @@ As one dies, so the other dies.
 They all have the same breath.
 People have no advantage over animals.
 Everything is vanity.
-Vanity means: fleeting, like a breath of wind.
 [20] All go to the same place.
 All come from the dust,
 and all turn back into dust.
@@ -93,7 +92,8 @@ Who can show him what will happen after he is gone?
 
 > **What does this mean?**
 > Verse 16: Even in the courts there is injustice. The Preacher sees this with pain.
-> Verse 17: But he believes: In the end, God will judge justly.
+> Verse 17: But he believes: In the end, God will judge justly. Righteous means: living right before God.
 > Verses 18–21: A hard thought: People and animals die in the same way. Both come from the dust and become dust again (compare Genesis 3:19). The Preacher honestly asks: Who knows what comes after death?
 > He has no sure answer to this. Other parts of the Bible speak more clearly later about a hope beyond death (for example Daniel 12:2). Christians believe in the resurrection through Jesus Christ.
+> Verse 19: Vanity means: fleeting, like a breath of wind.
 > Verse 22: Since we do not know what comes afterward, we should enjoy our life and our work now.

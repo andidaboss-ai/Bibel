@@ -63,7 +63,7 @@ Their houses will be looted, and their wives raped.
 > Verses 6–13: The “day of the LORD” is described like the end of the world: The sun, the moon and the stars grow dark, the earth shakes. This is picture language for a mighty overthrow. Jesus uses similar pictures (Matthew 24:29).
 > Verses 15–16: These verses are horrifying. They describe what happened to the defeated in war back then: Children were killed, women were raped. The prophet makes nothing look better than it is.
 > Important: These verses describe the cruelty of war. They are no permission and no approval. Violence against children and rape are always serious crimes, in war as in peace. Today, under international law, they are war crimes.
-> If you have experienced sexual violence yourself: In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For violence against women in the home: US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> If you have experienced sexual violence yourself: In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
 

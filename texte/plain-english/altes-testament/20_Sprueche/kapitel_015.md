@@ -35,7 +35,7 @@ but the prayer of the upright pleases him.
 but he loves the one who chases after righteousness.
 [10] Hard discipline is for the one who leaves the way.
 Whoever hates correction will die.
-[11] Sheol and Abaddon lie open before the LORD.
+[11] Sheol (the world of the dead) and Abaddon lie open before the LORD.
 How much more the hearts of the human race!
 [12] A mocker does not love to be corrected.
 He will not go to the wise.

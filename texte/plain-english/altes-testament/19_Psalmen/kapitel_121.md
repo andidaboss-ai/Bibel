@@ -6,7 +6,7 @@
 ## Where does my help come from? (Verses 1–8)
 
 [1] A song of ascents.
-I look up to the hills.
+I lift up my eyes to the hills.
 Where does my help come from?
 [2] My help comes from the LORD,
 who made heaven and earth.

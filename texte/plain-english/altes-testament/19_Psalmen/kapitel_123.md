@@ -6,7 +6,7 @@
 ## Like the eyes of servants (Verses 1–4)
 
 [1] A song of ascents.
-I look up to you,
+I lift up my eyes to you,
 you who sit on your throne in heaven.
 [2] Servants watch the hand of their master.
 A maid watches the hand of the woman she works for.

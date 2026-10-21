@@ -42,7 +42,7 @@ who ruled the nations in anger
 with a persecution that no one held back.
 [7] The whole earth is at rest and is quiet.
 They break out in song.
-[8] Yes, even the cypress trees rejoice over you,
+[8] Yes, even the cypress trees rejoice with you,
 together with the cedars of Lebanon, and say,
 “Since you were laid low,
 no woodcutter has come up against us.”
@@ -131,7 +131,7 @@ and who can turn it back?”
 > **What does this mean?**
 > Babylon becomes a wilderness; only porcupines and pools of water are left.
 > Verses 24–27: Assyria too will be broken. God has a plan for the whole world. No person and no power can stop it.
-> Assyria was in fact driven back from Jerusalem in the year 701 BC (chapter 37), and it collapsed about a hundred years later.
+> Assyria was in fact driven back from Jerusalem in the year 701 BC (chapter 37), and it collapsed about 100 years later.
 
 ---
 
@@ -139,18 +139,18 @@ and who can turn it back?”
 
 [28] This burden came in the year that King Ahaz died.
 [29] Don’t rejoice, all of Philistia,
-that the rod that struck you is broken,
-for out of the snake’s root an adder will come out,
+because the rod that struck you is broken.
+For an adder will come out of the snake’s root,
 and its fruit will be a fiery flying serpent.
-[30] The firstborn of the poor will graze,
+[30] The firstborn of the poor will eat,
 and the needy will lie down in safety.
 But I will kill your root with hunger,
 and your remnant will be killed.
 [31] Wail, gate! Cry out, city!
-Melt away, all of Philistia!
+You are melting away, all of Philistia!
 For smoke is coming from the north,
 and there is no one lagging behind in its ranks.
-[32] What shall be answered to the messengers of the nation?
+[32] What will they answer the messengers of the nation?
 That the LORD has founded Zion,
 and that the afflicted of his people find refuge in her.
 

@@ -6,7 +6,7 @@
 ## God has chosen Jacob (Verses 1–7)
 
 [1] Praise Yah!
-Yah is a short form of the name of God.
+Yah is a short form of the name of God, the LORD.
 Praise the name of the LORD!
 Praise him, you servants of the LORD,
 [2] you who stand in the LORD’s house,

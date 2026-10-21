@@ -12,7 +12,7 @@ Let your ears listen closely
 to the voice of my prayers for help!
 [3] Yah, if you kept a list of sins,
 Lord, who could stand?
-Yah is a short form of the name of God.
+Yah is a short form of the name of God, the LORD.
 [4] But with you there is forgiveness.
 That is why people have deep respect for you.
 [5] I wait for the LORD. My soul waits.

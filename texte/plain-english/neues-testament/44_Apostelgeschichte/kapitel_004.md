@@ -146,6 +146,6 @@ He sold it, brought the money, and put it at the apostles’ feet.
 > Verse 32: “One heart and soul”: Many languages have taken this saying from this verse.
 > Verse 34: This reminds us of Deuteronomy 15:4: There God promises that there will be no poor among his people.
 > The sharing was voluntary. It was not forced, but an expression of love.
-> Verse 36: Joses is a form of Joseph; Some Bibles call him that. “Son of Encouragement” can also be translated son of comfort. Barnabas later becomes an important companion of Paul.
+> Verse 36: Joses is a form of Joseph; some Bibles call him that. “Son of Encouragement” can also be translated son of comfort. Barnabas later becomes an important companion of Paul.
 > A Levite belonged to the tribe of Levi. Levites helped with the service in the temple.
 > For today: A church in which no one suffers need is a strong sign. If you are in money trouble, you can find help from a free debt advice service or from the social services of churches, such as Catholic Charities or the Salvation Army.

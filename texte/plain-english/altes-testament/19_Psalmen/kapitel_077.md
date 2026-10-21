@@ -65,7 +65,7 @@ Selah.
 
 > **What does this mean?**
 > Verse 10 is the turning point. The one praying stops going around in circles about himself and his pain. He makes a choice to remember what God did in the past.
-> Verse 10 is hard to translate from Hebrew. Others understand it as a lament: It hurts me that the Most High no longer acts as he did before. The World English Bible, which our text follows, understands it as a turn toward trust.
+> Verse 10 is hard to translate from Hebrew. Others understand it as a lament: It hurts me that the Most High no longer acts as he did before. The WEB, our English source text, understands it as a turn toward trust.
 > “Yah” is a short form of God’s name.
 > Remembering God’s deeds gives strength for the present.
 
