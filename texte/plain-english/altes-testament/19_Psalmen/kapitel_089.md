@@ -5,7 +5,7 @@
 
 ## I will sing of the LORD’s loving kindness (Verses 1–4)
 
-[1] A contemplative psalm by Ethan, the Ezrahite.
+[1] A contemplation by Ethan, the Ezrahite.
 I will sing of the loving kindness of the LORD forever.
 With my mouth I will make your faithfulness known to all generations.
 [2] I say, “Love stands firm forever.
@@ -159,7 +159,7 @@ Will your anger burn like fire?
 [47] Remember how short my time is!
 How short and empty you have made the lives of all people!
 [48] What man can live and never see death?
-Who can save his soul from the power of Sheol?
+Who can save his soul from the power of Sheol (the world of the dead)?
 Selah.
 [49] Lord, where is your loving kindness from before,
 which you swore to David in your faithfulness?

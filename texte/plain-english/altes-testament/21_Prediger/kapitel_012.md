@@ -56,7 +56,7 @@ He studied them and put them in order.
 He wrote honestly, and he wrote words of truth.
 [11] The words of the wise are like goads.
 A goad is a pointed stick used to drive cattle.
-The words of the collected proverbs are like nails that are driven in firmly.
+The words of the teachers of the assemblies are like nails that are driven in firmly.
 They are given by one shepherd.
 [12] My son, be warned:
 There is no end to making many books,
@@ -82,10 +82,10 @@ whether it is good or evil.
 > **An honest book:** The Preacher looks very closely at life “under the sun.” He makes nothing look better than it is. He sees injustice, death, things passing away, and chance.
 > **Everything is a breath:** His key word “hevel” means breath or a puff of wind. Riches, success, wisdom, pleasure: None of it lasts. Everything disappears like breath on a cold day.
 > **The great experiment:** He tried everything: knowledge, pleasure, possessions, work. Nothing gave him the meaning of life.
-> **And yet: joy!** Again and again he says: Eat your bread with joy, drink your wine, enjoy life with the people you love. That is a gift of God (2:24; 3:13; 5:19; 9:7–9).
+> **And yet: joy!** Again and again he says: Eat your bread with joy, drink your wine, enjoy life with the people you love. That is a gift of God (2:24; 3:13; 5:18; 9:7–9).
 > **There is a time for everything:** Life has rhythms. Wisdom means seeing what is right for now (Chapter 3).
 > **Eternity in the heart:** God has put a longing for eternity in our hearts. That is why nothing that passes away can fully satisfy us (3:11).
 > **Questions without answers:** The Preacher asks what comes after death and finds no sure answer. The Bible leaves these questions open. Later books give more hope. Christians believe in the resurrection through Jesus Christ.
 > **The end:** “Fear God and keep his commandments” (12:13). When everything passes away, God remains.
-> **Who is this book for?** For all who doubt, ask questions, and search. It shows: These thoughts too have a place in the Bible. In Judaism, it is read at the Festival of Booths, the most joyful festival of the year.
+> **Who is this book for?** For all who doubt, ask questions, and search. It shows: These thoughts too have a place in the Bible. In Judaism, it is read at the Feast of Booths, the most joyful feast of the year.
 > **What comes next?** Next comes the Song of Songs, a book full of love poems between a woman and a man. It celebrates love as a gift of God.

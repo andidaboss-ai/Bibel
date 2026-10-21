@@ -104,7 +104,7 @@ when she had acted like a prostitute in the land of Egypt.
 [20] She lusted after her lovers there.
 Their bodies were like the bodies of donkeys,
 and their semen was like the semen of horses.
-[21] So you longed again for the shameless acts of your youth,
+[21] So you remembered again the shameless acts of your youth,
 when the Egyptians stroked your nipples
 because your breasts were young.
 

@@ -67,7 +67,7 @@ so a person sharpens his friend’s face.
 Whoever looks after his master will be honored.
 [19] As water reflects a face,
 so a person’s heart reflects the person.
-[20] Sheol and Abaddon are never satisfied,
+[20] Sheol (the world of the dead) and Abaddon are never satisfied,
 and a person’s eyes are never satisfied.
 [21] The melting pot is for silver and the furnace for gold,
 but a person is tested by the praise he receives.

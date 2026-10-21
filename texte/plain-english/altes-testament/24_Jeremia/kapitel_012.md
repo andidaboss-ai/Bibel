@@ -28,7 +28,8 @@ because the people said, “He won’t see what happens to us in the end.”
 [5] “If you have run with men on foot,
 and they have tired you out,
 then how can you race against horses?
-If you feel safe only in a land of peace,
+If you feel safe in a land of peace,
+
 then what will you do in the thick forest of the Jordan?
 [6] For even your brothers,
 and the family of your father,

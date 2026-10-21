@@ -25,7 +25,7 @@ You will go to Babylon.”’
 The LORD says this about you:
 ‘You won’t die by the sword.
 [5] You will die in peace.
-As people burned spices in honor of your fathers,
+As people burned spices in honor of your ancestors,
 the earlier kings who came before you,
 so they will burn spices in your honor.
 They will mourn for you and say, “Oh, lord!”
@@ -60,13 +60,13 @@ They brought back the male and female slaves whom they had set free,
 and forced them to be slaves again.
 [12] That is why the LORD’s word came to Jeremiah from the LORD. He said,
 [13] “The LORD, the God of Israel, says:
-‘I made a covenant with your fathers
+‘I made a covenant with your ancestors
 on the day that I brought them out of the land of Egypt,
 out of the house of slavery. I said:
 [14] At the end of seven years, each of you must set free his fellow Hebrew
 who has been sold to you and has served you for six years.
 You must let him go free.
-But your fathers didn’t listen to me or pay attention.
+But your ancestors didn’t listen to me or pay attention.
 [15] Now you had turned back,
 and had done what is right in my eyes,
 by each of you announcing freedom to his neighbor.
@@ -81,7 +81,7 @@ You forced them to be your slaves again.’”
 and announced freedom, each to his brother and to his neighbor.
 Look, now I announce a ‘freedom’ for you,” says the LORD,
 “freedom for the sword, for disease, and for famine.
-I will make you a horror to all the kingdoms of the earth.
+I will make you be tossed back and forth among all the kingdoms of the earth.
 [18] I will hand over the men who have broken my covenant,
 who have not kept the words of the covenant which they made in front of me,
 when they cut the calf in two and walked between its halves:

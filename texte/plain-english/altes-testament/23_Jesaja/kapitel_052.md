@@ -18,7 +18,7 @@ captive daughter of Zion!
 “You were sold for nothing,
 and you will be redeemed without money.”
 [4] For this is what the Lord GOD says:
-“At first my people went down to Egypt to live there as foreigners,
+“At first my people went down to Egypt to live there,
 and the Assyrian oppressed them without cause.
 [5] And now, what am I doing here,” says the LORD,
 “since my people have been taken away for nothing?
@@ -89,4 +89,4 @@ and they will understand what they had not heard.
 > Here begins the fourth and best-known song of God’s servant. It goes to the end of chapter 53.
 > Verse 13: The end comes right at the beginning: In the end, the servant will be lifted up very high.
 > Verse 14: But first he is so disfigured that people are horrified by him. He hardly looks human anymore.
-> Verse 15: And then even kings are amazed. They understand something completely new that no one had told them. The WEB translates “he will cleanse”; other translations have “he will startle” or “sprinkle.” The Hebrew word is not completely clear.
+> Verse 15: And then even kings are amazed. They understand something completely new that no one had told them. The WEB, our English source text, translates “he will cleanse”; other translations have “he will startle” or “sprinkle.” The Hebrew word is not completely clear.

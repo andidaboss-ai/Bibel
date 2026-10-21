@@ -14,7 +14,7 @@ It must not be opened.
 No one may go in through it,
 because the LORD, the God of Israel, has gone in through it.
 So it must stay closed.
-[3] Only the prince may sit in it as prince
+[3] As for the prince, he may sit in it as prince
 to eat bread before the LORD.
 He must come in through the porch of the gate
 and go out the same way.”
@@ -36,7 +36,7 @@ I fell on my face.
 Look with your eyes,
 and listen with your ears to everything I tell you
 about all the rules of the house of the LORD and all its laws.
-Pay close attention to who may enter the temple
+Pay close attention to the entrance of the temple
 and to all the exits of the sanctuary.
 [6] Say to the rebels, to the people of Israel,
 ‘This is what the Lord GOD says:
@@ -119,7 +119,7 @@ they must wear linen clothes.
 They must not wear any wool
 while they serve at the gates of the inner courtyard and inside it.
 [18] They must wear linen turbans on their heads
-and linen underwear around their waists.
+and linen pants around their waists.
 They must not wear anything that makes them sweat.
 [19] When they go out into the outer courtyard,
 into the outer courtyard where the people are,
@@ -140,7 +140,7 @@ or a widow whose husband was a priest.
 between what is holy and what is ordinary.
 They must help them tell the difference between what is unclean and what is clean.
 [24] “‘“When there is a dispute, they must stand up and judge.
-They must judge by my laws.
+They must judge by my rulings.
 They must keep my laws and my rules
 at all my festivals.
 They must keep my Sabbaths holy.
