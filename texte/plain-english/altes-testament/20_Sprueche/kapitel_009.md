@@ -61,7 +61,7 @@ To people who have no sense, she says,
 [17] “Stolen water is sweet.
 Food eaten in secret tastes good.”
 [18] But they don’t know that the spirits of the dead are there.
-Her guests are deep down in Sheol, the world of the dead.
+Her guests are deep down in Sheol (the world of the dead).
 
 > **What does this mean?**
 > Now comes the opposite picture: Lady Folly. She invites too, with exactly the same words as wisdom (verse 4 and verse 16). Both call those without experience.

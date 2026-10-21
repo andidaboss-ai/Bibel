@@ -51,7 +51,7 @@ you children of Jacob, his chosen ones!
 [14] He is the LORD, our God.
 His judgments are in all the earth.
 [15] Remember his covenant forever,
-the word he commanded for a thousand generations.
+the word he commanded for 1,000 generations.
 [16] It is the covenant he made with Abraham,
 and the promise he swore to Isaac.
 [17] He confirmed it to Jacob as a law,
@@ -74,7 +74,7 @@ Do not harm my prophets!”
 > “Seek his face always!”: God wants us to seek his nearness, every day.
 > Then the song remembers the history: God made a covenant with Abraham, Isaac and Jacob. They were only a few, foreigners in the land, always on the move. But God protected them.
 > “My anointed ones” and “my prophets” here are the ancestors Abraham, Isaac and Jacob. For example, God warned Pharaoh and King Abimelech not to harm them (Genesis 12:17; 20:3–7).
-> “A thousand generations” means: forever.
+> “1,000 generations” means: forever.
 
 ---
 

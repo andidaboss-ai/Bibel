@@ -17,7 +17,7 @@ I will ask you questions, and you will answer me!
 > Important: Here God’s name “the LORD” appears again (in Hebrew: YHWH). In the speeches before, God was mostly called only “God” or “the Almighty.” Now Job meets the God of Israel in person.
 > God comes “out of the whirlwind.” This is a reminder of other meetings with God: at Mount Sinai (Exodus 19) or with Elijah (1 Kings 19).
 > God accuses Job of having spoken “without knowledge.” But: God does not say that Job has sinned. He does not repeat the friends’ accusations.
-> “Get ready like a man”: The Hebrew literally says “Brace yourself like a man.” In those days, people tied up their long robes before they worked or fought. It means: Get ready! Job wanted to ask God questions. Now God asks Job questions.
+> “Get ready like a man”: Word for word, the Hebrew says: Tie up your clothing around your waist like a man. In those days, people tied up their long robes before they worked or fought. It means: Get ready! Job wanted to ask God questions. Now God asks Job questions.
 
 ---
 

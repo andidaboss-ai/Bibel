@@ -30,7 +30,7 @@ you children of Jacob, his chosen ones!
 [7] He is the LORD, our God.
 His judgments are in all the earth.
 [8] He has remembered his covenant forever,
-the word he commanded for a thousand generations.
+the word he commanded for 1,000 generations.
 [9] It is the covenant he made with Abraham,
 and the promise he swore to Isaac.
 [10] He confirmed it to Jacob as a law,

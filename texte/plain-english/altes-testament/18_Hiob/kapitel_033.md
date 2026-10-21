@@ -93,7 +93,7 @@ and his life to those who bring death.
 
 [23] “Suppose there is an angel at his side,
 someone who speaks for him,
-one out of a thousand,
+one out of 1,000,
 to show the person what is right for him.
 [24] Then God is gracious to him and says,
 ‘Rescue him from going down to the pit!

@@ -39,7 +39,7 @@ There were 300,000 chosen men.
 They were ready to go to war.
 They could fight with spear and shield.
 [6] He also hired 100,000 brave warriors from Israel.
-He paid 100 talents of silver for them, about 7,500 pounds.
+He paid 100 talents of silver (about 7,500 pounds) for them.
 [7] But a man of God came to him and said,
 “King, do not let the army of Israel go with you.
 The LORD is not with Israel.
@@ -57,7 +57,7 @@ This made them very angry with Judah.
 They went home full of rage.
 
 > **What does this mean?**
-> A talent is about 75 pounds. So 100 talents of silver are about 7,500 pounds of silver.
+> A talent is about 75 pounds.
 > Amaziah buys soldiers from the northern kingdom. The prophet warns: do not rely on an army that does not serve God. “Ephraim” is another name for the northern kingdom of Israel here.
 > Amaziah’s question in verse 9 is very human: “But what about the 100 talents …?” The prophet’s answer is a lesson in faith: God can give you much more. Sometimes you have to accept a loss in order to do what is right.
 > Amaziah obeys. That is good. But it has consequences (verse 13).

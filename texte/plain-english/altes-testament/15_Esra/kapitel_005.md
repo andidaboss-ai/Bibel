@@ -93,7 +93,7 @@ Then please let us know what the king decides about this.”
 > The letter is factual and fair. It reports exactly what the Jews said.
 > The answer of the elders is brave and honest:
 > – They say openly who they are: servants of the God of heaven and earth.
-> – They admit that their fathers were to blame for the destruction.
+> – They admit that their ancestors were to blame for the destruction.
 > – They refer to the order of Cyrus.
 > Cyrus is called “king of Babylon” here, because he had conquered Babylon and also had this title.
 > A great king of Israel: this means Solomon.

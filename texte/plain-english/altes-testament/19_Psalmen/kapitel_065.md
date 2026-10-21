@@ -66,7 +66,7 @@ The valleys are dressed in grain.
 They shout for joy! They also sing.
 
 > **What does this mean?**
-> A wonderful picture of spring and the harvest. God is like a farmer who takes care of his fields: He waters the ground, levels it, softens it, and blesses the seed.
+> A wonderful picture of spring and the harvest. God is like a farmer who takes care of his fields: He waters the ground, levels it, softens it and blesses the seed.
 > Verse 11: “You crown the year with your good gifts”: The harvest is like a crown for the whole year.
 > “Your carts overflow with plenty”: Wherever God drives along with his cart, everything grows. In Hebrew, it literally says “your tracks” or “your cart tracks drip with fat.”
-> At the end, all of nature sings: The hills, pastures, and valleys shout for joy. Creation praises its Creator.
+> At the end, all of nature sings: The hills, pastures and valleys shout for joy. Creation praises its Creator.

@@ -49,7 +49,6 @@ I was eager to find you, and now I have found you.
 striped sheets made of yarn from Egypt.
 [17] I have sprinkled my bed
 with myrrh, aloes, and cinnamon.
-Myrrh, aloes, and cinnamon are sweet-smelling spices.
 [18] Come, let’s make love until the morning.
 Let’s enjoy each other’s love.
 [19] My husband is not at home.
@@ -66,8 +65,9 @@ He is like a bird that rushes into a trap.
 It does not know that it will cost its life.
 
 > **What does this mean?**
-> The father tells a story that he watched from the window. A young man without experience goes into the area where the woman lives in the evening on purpose. He is looking for temptation.
+> The father tells a story that he watched from the window. In the evening, a young man without experience goes on purpose to the area where the woman lives. He is looking for temptation.
 > Verse 14: With a peace offering, people got meat back, which had to be eaten at home. So the woman is saying: I have a good meal at home. She even uses religion for her seduction.
+> Verse 17: Myrrh, aloes and cinnamon are sweet-smelling spices.
 > Verses 19–20: Her husband is away, no one will notice. Temptation often sounds like this: No one will find out.
 > Verses 22–23: The young man does not notice that he is walking into a trap, like an animal going to the butcher.
 > The story warns against unfaithfulness and against thinking “just this once.”
@@ -82,8 +82,7 @@ Pay attention to what I say.
 Don’t wander onto her paths.
 [26] She has brought down many victims.
 She has killed a huge number of people.
-[27] Her house is the road to Sheol.
-Sheol is the world of the dead.
+[27] Her house is the road to Sheol (the world of the dead).
 Her house leads down to the rooms of death.
 
 > **What does this mean?**

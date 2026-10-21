@@ -23,9 +23,9 @@ the little hills like lambs.
 
 ## What is wrong with you, sea? (Verses 5–8)
 
-[5] What is wrong with you, sea, that you run away?
-And you, Jordan, that you turn back?
-[6] You mountains, that you jump like rams?
+[5] What was wrong with you, sea, that you ran away?
+And you, Jordan, that you turned back?
+[6] You mountains, that you jumped like rams?
 You little hills, like lambs?
 [7] Tremble, earth, before the Lord,
 before the God of Jacob.

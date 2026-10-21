@@ -8,7 +8,7 @@
 [1] For the music director. For Jeduthun. A psalm by David.
 My soul finds rest in God alone.
 My rescue comes from him.
-[2] He alone is my rock, my rescue, and my fortress.
+[2] He alone is my rock, my rescue and my fortress.
 I will never be badly shaken.
 [3] How long will you attack a man?
 Do all of you want to throw him down

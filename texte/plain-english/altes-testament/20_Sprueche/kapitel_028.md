@@ -86,7 +86,7 @@ and does not know that poverty is waiting for him.
 [23] Whoever corrects a person will later find more favor
 than the one who flatters with his tongue.
 [24] Whoever robs his father or his mother and says, “It’s not wrong,”
-is a partner of the destroyer.
+is a partner of a destroyer.
 [25] Whoever is greedy stirs up quarrels,
 but whoever trusts in the LORD will do well.
 [26] Whoever trusts in himself is a fool,

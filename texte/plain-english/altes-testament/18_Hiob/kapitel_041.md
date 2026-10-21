@@ -103,12 +103,12 @@ He makes the sea like a pot of ointment.
 You would think the deep had white hair.
 [33] On earth there is nothing equal to him.
 He was made without fear.
-[34] He looks down on everything that is high.
+[34] He looks at everything that is high.
 He is king over all the sons of pride.”
 
 > **What does this mean?**
 > All human weapons are useless against Leviathan: sword, spear, arrow, sling, club.
-> Verses 31–32: When he swims through the sea, the water foams up. Behind him there is a white trail of foam, as if the sea had gotten gray hair.
+> Verses 31–32: When he swims through the sea, the water foams up. Behind him there is a white trail of foam, as if the sea had gotten white hair.
 > Verse 34: Leviathan is “king over all the sons of pride.” That means: over all the proud. This is the key: In Job 40:11–12, God challenged Job to bring down the proud. Job cannot even defeat Leviathan. But God created him and holds him in his hand.
 > The message of God’s two speeches: The world is full of wild and dangerous forces that people do not control. But God controls them. Job does not have to understand everything. He can trust God.
 > God has not answered Job’s question “Why?” He has not told him anything about the conversation in heaven (Chapters 1–2). But God has shown himself to Job. And that is enough for Job, as the next chapter shows.

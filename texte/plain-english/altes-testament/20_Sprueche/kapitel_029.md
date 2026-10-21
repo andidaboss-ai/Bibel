@@ -41,7 +41,7 @@ but a wise person keeps himself under control.
 [12] If a ruler listens to lies,
 all his officials become wicked.
 [13] The poor person and the oppressor have this in common:
-The LORD gives light to the eyes of both.
+The LORD gives sight to the eyes of both.
 [14] The king who judges the poor fairly,
 his throne will stand forever.
 

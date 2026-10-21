@@ -17,19 +17,19 @@ We already know many stories from the books of Kings. Where Chronicles tells the
 
 ## Solomon at Gibeon (Verses 1–6)
 
-[1] Solomon the son of David was made strong in his kingdom.
+[1] Solomon, the son of David, was made strong in his kingdom.
 The LORD his God was with him
 and made him very great.
 [2] Solomon spoke to all Israel,
-to the captains of thousands and of hundreds,
-to the judges, and to every prince in all Israel, the heads of the families.
-[3] Then Solomon and all the assembly with him went to the high place at Gibeon.
+to the commanders of thousands and of hundreds,
+to the judges, and to every leader in all Israel, the heads of the families.
+[3] Then Solomon and all the assembly with him went to the place of worship on the hill at Gibeon.
 For God’s Tent of Meeting was there,
 which the LORD’s servant Moses had made in the wilderness.
 [4] But David had brought God’s ark up from Kiriath Jearim
 to the place that David had prepared for it.
 For he had set up a tent for it in Jerusalem.
-[5] The bronze altar that Bezalel the son of Uri, the son of Hur, had made
+[5] The bronze altar that Bezalel, the son of Uri, the son of Hur, had made
 was also there before the LORD’s tabernacle.
 And Solomon and the assembly were seeking counsel there.
 [6] Solomon went up there to the bronze altar before the LORD, which was at the Tent of Meeting,
@@ -68,9 +68,9 @@ so that you may judge my people, over whom I have made you king.
 And I will give you riches, wealth, and honor,
 such as none of the kings before you have had,
 and none after you will have.”
-[13] So Solomon came from the high place at Gibeon,
+[13] So Solomon came from the place of worship on the hill at Gibeon,
 from before the Tent of Meeting, to Jerusalem.
-And he reigned over Israel.
+And he ruled over Israel.
 
 > **What does this mean?**
 > God asks: “Ask for what you want me to give you.” Solomon could have wished for anything. But he asks for wisdom, so that he can care well for his people. He does not think of himself, but of the people who are entrusted to him.

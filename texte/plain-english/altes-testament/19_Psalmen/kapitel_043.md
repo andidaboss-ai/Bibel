@@ -14,7 +14,7 @@ Why do I go around mourning,
 because the enemy oppresses me?
 
 > **What does this mean?**
-> Psalm 43 continues Psalm 42. It has no superscription of its own. In many old manuscripts, both psalms are one single psalm.
+> Psalm 43 continues Psalm 42. It has no heading of its own. In many old manuscripts, both psalms are one single psalm.
 > The one who prays is being oppressed by an “ungodly nation,” maybe in a foreign land.
 > Verse 2 repeats Psalm 42:9 almost exactly.
 

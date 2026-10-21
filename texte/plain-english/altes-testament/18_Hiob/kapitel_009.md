@@ -9,7 +9,7 @@
 [2] “Yes, I know that this is true.
 But how can a human being be right before God?
 [3] If someone wanted to argue with him,
-he could not answer him even once in a thousand times.
+he could not answer him even once in 1,000 times.
 [4] God is wise in heart and mighty in strength.
 Who has ever stood up against him and come out well?
 [5] He moves mountains, and they do not know it,

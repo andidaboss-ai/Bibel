@@ -23,7 +23,7 @@ but the name of the wicked will rot.
 
 > **What does this mean?**
 > Here the second big part of the book begins: the short proverbs of Solomon (Proverbs 10:1 to 22:16).
-> Almost every proverb has two lines. Often the second line shows the opposite of the first: “The wise … but the fool …”. In this way, you learn by comparing.
+> Almost every proverb has two lines. Often the second line shows the opposite of the first, like this: “The wise … but the fool …” In this way, you learn by comparing.
 > The proverbs mostly stand alone. You can read each one by itself and think about it. The headings in this edition only give a rough summary.
 > Verse 1: What children do affects their parents too. Here father and mother are named.
 > Verses 4–5: Hard work usually pays off. But as the introduction already said: Proverbs describe what is normal, not every single case. Not every poor person is lazy.
@@ -38,7 +38,7 @@ but a chattering fool will fall.
 [9] Whoever lives blamelessly walks safely,
 but whoever goes crooked ways will be found out.
 [10] Whoever winks with the eye causes sorrow,
-and a chattering fool will fall.
+but a chattering fool will fall.
 [11] The mouth of the righteous is a spring of life,
 but violence covers the mouth of the wicked.
 [12] Hatred stirs up quarrels,

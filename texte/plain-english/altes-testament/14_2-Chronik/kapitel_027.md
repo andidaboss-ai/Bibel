@@ -19,7 +19,7 @@ He also did a lot of building on the wall of Ophel.
 And in the forests, he built forts and towers.
 [5] He went to war against the king of the Ammonites
 and defeated them.
-That year the Ammonites gave him 100 talents of silver, about 7,500 pounds.
+That year the Ammonites gave him 100 talents of silver (about 7,500 pounds).
 They also gave him about 60,000 bushels of wheat
 and about 60,000 bushels of barley.
 The Ammonites paid him the same amount in the second year and in the third year.
@@ -31,7 +31,7 @@ because he set his ways in order before the LORD his God.
 > Verse 2: Jotham was like his father, but he did not make his father’s mistake. He did not force his way into the temple to offer incense himself. He had learned from his father’s mistake.
 > “The people still did evil things”: a good king alone cannot change the heart of the people. At the same time, the prophets Isaiah and Micah complained about injustice and the worship of idols in Judah.
 > The Ophel is a hill in Jerusalem between the City of David and the temple.
-> The Bible says “100 talents of silver” and “10,000 cors” of wheat and barley. A talent is about 75 pounds, a cor about 6 bushels.
+> A talent is about 75 pounds. The Bible says “10,000 cors” of wheat and barley. A cor is about 6 bushels.
 > Verse 6 is the secret of his success: “He set his ways in order before the LORD his God.” He lived consciously before God.
 
 ---
@@ -44,7 +44,7 @@ It is written in the book of the kings of Israel and Judah.
 He ruled for 16 years in Jerusalem.
 [9] Then Jotham died and joined his ancestors.
 They buried him in David’s city.
-His son Ahaz became king after him.
+His son Ahaz became king in his place.
 
 > **What does this mean?**
 > Jotham is one of the few kings about whom Chronicles says nothing bad.

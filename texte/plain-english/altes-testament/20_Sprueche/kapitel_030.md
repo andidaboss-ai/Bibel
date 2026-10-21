@@ -50,7 +50,7 @@ and so dishonor the name of my God.
 
 ## There is a generation that … (Verses 10–17)
 
-[10] Don’t slander a servant to his master,
+[10] “Don’t slander a servant to his master,
 or he will curse you, and you will be guilty.
 [11] There is a generation that curses their father
 and does not bless their mother.
@@ -65,7 +65,7 @@ and the needy from among people.
 [15] The leech has two daughters: ‘Give, give!’
 There are three things that are never satisfied,
 four that never say, ‘Enough!’:
-[16] Sheol, the world of the dead, the barren womb,
+[16] Sheol (the world of the dead), the barren womb,
 the earth that never gets enough water,
 and the fire that never says, ‘Enough!’
 [17] The eye that mocks at its father
@@ -82,7 +82,7 @@ and the young eagles will eat it.
 
 ## Wonders I don’t understand (Verses 18–23)
 
-[18] There are three things that are too amazing for me,
+[18] “There are three things that are too amazing for me,
 four that I don’t understand:
 [19] the way of an eagle in the air,
 the way of a snake on a rock,
@@ -107,7 +107,7 @@ and under a servant girl who takes the place of her mistress.
 
 ## Small but wise (Verses 24–28)
 
-[24] There are four things that are small on the earth,
+[24] “There are four things that are small on the earth,
 but they are very wise:
 [25] The ants are not a strong people,
 and yet they get their food ready in the summer.
@@ -127,7 +127,7 @@ and yet it is in kings’ palaces.
 
 ## Proud in their walk (Verses 29–33)
 
-[29] There are three things that march proudly,
+[29] “There are three things that march proudly,
 four that walk proudly:
 [30] the lion, which is the mightiest among animals
 and does not turn back for anyone,

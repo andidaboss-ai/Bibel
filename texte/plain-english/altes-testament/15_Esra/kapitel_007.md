@@ -31,9 +31,9 @@ to obey it,
 and to teach its rules and laws in Israel.
 
 > **What does this mean?**
-> Almost 60 years lie between Chapter 6 and 7. Ezra came to Jerusalem in the seventh year of Artaxerxes (Artaxerxes I), that is, 458 BC. The story of Esther takes place in the time between.
+> Almost 60 years lie between Chapters 6 and 7. Ezra came to Jerusalem in the seventh year of Artaxerxes (Artaxerxes I), that is, 458 BC. The story of Esther takes place in the time between.
 > The family tree shows: Ezra descends directly from Aaron, the first high priest. Seraiah was the last high priest before the destruction of Jerusalem (2 Kings 25:18). “Son” here also means “descendant.” Some generations are skipped.
-> Ezra was a “scribe”. He knew God’s law very well. In Jewish tradition he counts as a second Moses, because he put the law back at the center.
+> Ezra was a “scribe.” He knew God’s law very well. In Jewish tradition he counts as a second Moses, because he put the law back at the center.
 > The journey took four months. The way from Babylon to Jerusalem is more than 600 miles long.
 > Verse 10 is an example: Ezra wanted first to study God’s word, second to live by it himself, and third to teach others. In this order.
 > “The good hand of his God was on him”: this sentence comes several times in the book of Ezra. Ezra knew that his success came from God.
@@ -47,7 +47,7 @@ Ezra was an expert in the commandments of the LORD
 and in the rules he gave to Israel.
 This is a copy of the letter:
 [12] “From Artaxerxes, king of kings,
-to Ezra the priest, the scribe who teaches the law of the God of heaven.
+to Ezra the priest, the scribe of the law of the perfect God of heaven.
 Greetings.
 [13] I give this order:
 Any of the people of Israel in my kingdom may go with you to Jerusalem,
@@ -74,17 +74,17 @@ Then you may take it from the king’s treasury.
 [21] I, King Artaxerxes, give this order to all the treasurers in the land beyond the River:
 Ezra the priest is a scribe of the law of the God of heaven.
 Whatever he asks of you, do it carefully,
-[22] up to 100 talents of silver, about 7,500 pounds,
-100 cors of wheat, about 600 bushels,
-100 baths of wine, about 600 gallons,
-100 baths of olive oil,
+[22] up to 100 talents of silver (about 7,500 pounds),
+100 cors of wheat (about 600 bushels),
+100 baths of wine (about 600 gallons),
+100 baths of olive oil (about 600 gallons),
 and as much salt as he needs.
 [23] Whatever the God of heaven commands for his house,
 do it exactly.
 Why should his anger come on the kingdom of the king and his sons?
 [24] We also tell you this:
 You may not make the priests, Levites, singers, gatekeepers, temple servants,
-or other workers of this house of God pay any taxes or fees.
+or other workers of this house of God pay any taxes, duties, or tolls.
 [25] And you, Ezra, use the wisdom your God has given you.
 Appoint officials and judges
 to judge all the people in the land beyond the River,
@@ -120,5 +120,5 @@ and that gave me courage.
 So I gathered leaders from Israel to go up with me.
 
 > **What does this mean?**
-> Here Ezra begins to tell the story himself, using “I”. This goes on until Chapter 9. These parts are called the “Ezra memoir”.
+> Here Ezra begins to tell the story himself, using “I”. This goes on until Chapter 9. These parts are called the “Ezra memoir.”
 > Ezra is thankful. He knows: it was not his cleverness that convinced the king, but God put this into the king’s heart (compare Proverbs 21:1).

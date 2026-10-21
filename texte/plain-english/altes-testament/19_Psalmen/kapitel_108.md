@@ -34,28 +34,28 @@ I will measure out the valley of Succoth.
 [8] Gilead is mine. Manasseh is mine.
 Ephraim is my helmet.
 Judah is my scepter.
-A scepter is a royal staff. It is a sign of a king’s power.
 [9] Moab is my washbasin.
 I will throw my sandal on Edom.
 I will shout in triumph over Philistia.”
 
 > **What does this mean?**
 > See Psalm 60:6–8. God declares: The whole land belongs to me, and the neighboring nations are also in my hand.
+> Verse 8: A scepter is a royal staff. It is a sign of a king’s power.
 > The pictures (washbasin, sandal) are the language of that time for ruling over something and owning it.
 
 ---
 
-## With God we will do mighty things (Verses 10–13)
+## With God we will do brave deeds (Verses 10–13)
 
 [10] Who will bring me into the strong city?
 Who will lead me to Edom?
-[11] God, have you not rejected us?
+[11] God, haven’t you rejected us?
 God, you do not go out with our armies.
 [12] Give us help against the enemy,
-for human help is useless.
-[13] With God, we will do mighty things,
+for human help is worth nothing.
+[13] With God we will do brave deeds,
 for he is the one who will trample our enemies.
 
 > **What does this mean?**
 > See Psalm 60:9–12.
-> “Human help is useless”: Without God, even the best human means do not help.
+> “Human help is worth nothing”: Without God, even the best human means do not help.

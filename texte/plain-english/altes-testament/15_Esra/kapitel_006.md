@@ -16,8 +16,7 @@ about God’s house in Jerusalem:
 The house must be rebuilt.
 It is the place where they offer sacrifices.
 Its foundations must be laid firmly.
-It must be 60 cubits high and 60 cubits wide,
-that is, about 90 feet.
+It must be about 90 feet high and about 90 feet wide.
 [4] It must have three layers of large stones and one layer of new wood.
 The costs must be paid from the king’s treasury.
 [5] Nebuchadnezzar took the gold and silver objects of God’s house
@@ -47,7 +46,7 @@ rebuild this house of God in its old place.
 so that they can build this house of God:
 Pay all their costs from the king’s money,
 from the taxes of the land beyond the River.
-Pay them carefully,
+Pay them in full and without delay,
 so that the work does not have to stop.
 [9] Give them whatever they need,
 every day, without fail.
@@ -104,7 +103,7 @@ That was in the sixth year that Darius was king.
 The priests, the Levites, and the rest of the people who had come back from captivity celebrated with them.
 [17] For the dedication of this house of God, they offered
 100 bulls, 200 rams, and 400 lambs.
-As a sin offering for all Israel, they offered twelve male goats,
+As a sin offering for all Israel, they offered 12 male goats,
 one for each tribe of Israel.
 [18] They put the priests into their groups
 and the Levites into their teams.
@@ -113,7 +112,7 @@ as it is written in the book of Moses.
 
 > **What does this mean?**
 > Compared with the dedication of Solomon’s temple (22,000 cattle and 120,000 sheep, 2 Chronicles 7:5), these are few offerings. Those who returned were poor. But the joy is just as great.
-> Twelve male goats “for all Israel”: although mainly Judah and Benjamin had returned, they think of all twelve tribes. The whole people of God is to belong.
+> The 12 male goats are “for all Israel”: although mainly Judah and Benjamin had returned, they think of all 12 tribes. The whole people of God is to belong.
 > The Aramaic part ends with verse 18. From verse 19 on, the text is in Hebrew again.
 
 ---

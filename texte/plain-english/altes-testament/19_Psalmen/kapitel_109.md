@@ -81,7 +81,7 @@ those who speak evil against me.
 
 ## I am poor and needy (Verses 21–25)
 
-[21] But you, LORD, my Lord, act for me for the sake of your name.
+[21] But you, LORD, the Lord, act for me for the sake of your name.
 Because your loving kindness is good, rescue me!
 [22] For I am poor and needy.
 My heart is wounded inside me.
@@ -112,7 +112,7 @@ but your servant will be glad.
 Let them cover themselves with their own shame as with a coat.
 [30] I will give great thanks to the LORD with my mouth.
 Yes, I will praise him among the crowd.
-[31] For he stands at the right hand of the needy person,
+[31] For he will stand at the right hand of the needy person,
 to save him from those who want to condemn him.
 
 > **What does this mean?**

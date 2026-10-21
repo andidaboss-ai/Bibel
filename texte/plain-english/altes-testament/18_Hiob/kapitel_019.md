@@ -8,7 +8,7 @@
 [1] Then Job answered,
 [2] “How long will you torment me
 and crush me with words?
-[3] You have insulted me ten times now.
+[3] You have insulted me 10 times now.
 You are not ashamed to attack me.
 [4] If it is true that I have gone wrong,
 my mistake stays with me.
@@ -18,7 +18,7 @@ and use my shame as proof against me,
 He has surrounded me with his net.
 
 > **What does this mean?**
-> “Ten times” means: again and again. Job is worn out by the constant accusations.
+> “10 times” means: again and again. Job is worn out by the constant accusations.
 > Verse 4: Even if I have made a mistake, it is none of your business. It is a matter between me and God.
 > Verse 6: Bildad had said that the wicked man walks into his own net (Job 18:8). Job answers: No, God has put the net around me. I am not to blame.
 

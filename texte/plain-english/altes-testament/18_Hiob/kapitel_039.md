@@ -76,7 +76,7 @@ she laughs at the horse and its rider.
 
 > **What does this mean?**
 > The ostrich is a strange bird: It has wings, but it cannot fly. It lays its eggs in the sand, and it looks as if it does not care about them.
-> “Feathers of love”: In Hebrew this is a play on words. The word for stork means “the faithful one” or “the loving one.” The ostrich, on the other hand, seems not to care.
+> “Feathers and plumage of love”: Plumage means a bird’s feathers. In Hebrew this is a play on words. The word for stork means “the faithful one” or “the loving one.” The ostrich, on the other hand, seems not to care.
 > But then: When the ostrich starts running, it is faster than a horse with its rider.
 > God has also made strange creatures that seem “foolish.” And yet they have their own strength. God’s creation is full of surprises and humor.
 
@@ -112,7 +112,7 @@ the thunder of the commanders, and the shouting.
 
 [26] “Is it by your wisdom that the hawk soars,
 and spreads her wings toward the south?
-[27] Is it at your command that the eagle flies up high,
+[27] Is it at your command that the eagle flies upward,
 and builds his nest up high?
 [28] He lives on the cliff and makes his home there,
 on the tip of the cliff, in a safe stronghold.

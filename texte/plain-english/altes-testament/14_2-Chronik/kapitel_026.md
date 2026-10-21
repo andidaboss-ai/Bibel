@@ -130,7 +130,7 @@ Isaiah the prophet, the son of Amoz, wrote it down.
 They buried him with his ancestors,
 in the burial field that belonged to the kings.
 They said, “He has leprosy.”
-His son Jotham became king after him.
+His son Jotham became king in his place.
 
 > **What does this mean?**
 > The prophet Isaiah lived at this time. In the year that Uzziah died, Isaiah had his great vision in the temple. There he saw the true king: God himself on his throne (Isaiah 6:1–5).

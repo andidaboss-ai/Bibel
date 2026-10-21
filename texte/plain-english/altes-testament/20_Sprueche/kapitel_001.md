@@ -10,7 +10,7 @@ It has short, wise sayings for everyday life: about work and laziness, friendshi
 Many proverbs are linked to King Solomon. He was famous for his wisdom (1 Kings 4:29–34). But other wise people also added proverbs, for example Agur and King Lemuel (Chapters 30 and 31).
 The book has several parts:
 – Chapters 1–9: longer speeches. A father (and a mother) teach their son. Wisdom appears like a woman who calls out in the street.
-– Chapters 10–29: many single, short proverbs. Often they are two lines that show a contrast: “The wise … but the fool …”.
+– Chapters 10–29: many single, short proverbs. Often they are two lines that show a contrast, like this: “The wise … but the fool …”
 – Chapters 30–31: words of Agur and Lemuel, and at the end the praise of a capable woman.
 The motto of the whole book is in Chapter 1, verse 7: “The fear of the LORD is the beginning of knowledge.”
 Important: Proverbs are not promises that always come true for everyone. They describe how life usually works. The book of Job and the book of Ecclesiastes show that there are exceptions too.
@@ -36,6 +36,7 @@ But the foolish despise wisdom and instruction.
 
 > **What does this mean?**
 > Verses 2–6 name the purpose of the book: It wants to make people wise for life. Not only the “simple,” that is, people without experience, but also those who are already wise. You never stop learning.
+> Verse 3: “Righteousness” comes up very often in this book. Righteous means: living right before God.
 > Verse 7 is the most important sentence of the book. “The fear of the LORD” does not mean being afraid. It means: taking God seriously, respecting him, trusting him. Whoever lives like this has the foundation for all wisdom.
 > In the book of Proverbs, the “fool” is not simply someone who knows little. It is someone who does not want to learn and does not take God seriously.
 

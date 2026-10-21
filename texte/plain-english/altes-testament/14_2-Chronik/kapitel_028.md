@@ -88,7 +88,7 @@ Some of the prisoners were naked.
 The men used clothes from the plunder to dress them.
 They gave them clothes and sandals.
 They gave them food and drink.
-They put oil on their wounds.
+They rubbed oil on them.
 They put all the weak ones on donkeys.
 They brought them to their relatives in Jericho, the city of palm trees.
 Then they went back to Samaria.
@@ -96,7 +96,7 @@ Then they went back to Samaria.
 > **What does this mean?**
 > This is one of the most beautiful stories in Chronicles, in the middle of a dark chapter.
 > A prophet from the northern kingdom tells his own people the truth: you have no right to make your brothers slaves. You yourselves are guilty before God.
-> And some leaders listen to him. They do even more than the prophet asks: they give the prisoners clothing, food and drink, put oil on their wounds and set the weak on donkeys.
+> And some leaders listen to him. They do even more than the prophet asks: they give the prisoners clothing, food and drink, rub oil on them and set the weak on donkeys.
 > Many interpreters see here a model for Jesus’ parable of the good Samaritan (Luke 10:30–37): there, too, a man from Samaria helps, pours oil on the wounds, sets the injured man on his animal and brings him to safety on the road near Jericho.
 > In this way, Chronicles shows: in the northern kingdom, too, there were people who listened to God. Mercy can turn enemies back into brothers.
 
@@ -153,7 +153,7 @@ It is written in the book of the kings of Judah and Israel.
 [27] Then Ahaz died and joined his ancestors.
 They buried him in the city, in Jerusalem.
 But they did not bring him into the tombs of the kings of Israel.
-His son Hezekiah became king after him.
+His son Hezekiah became king in his place.
 
 > **What does this mean?**
 > Verse 22 is shocking: “In the time of his distress, he was even more unfaithful to the LORD.” Distress can lead people to God, like Manasseh later (Chapter 33). But it can also drive people even further away from God.

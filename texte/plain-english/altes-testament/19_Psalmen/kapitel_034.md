@@ -23,7 +23,7 @@ He saved him from all his troubles.
 and he rescues them.
 
 > **What does this mean?**
-> The superscription reminds us of a story: David fled from Saul to the Philistine king in Gath. Out of fear, he pretended to be insane so that they would let him go (1 Samuel 21:10–15). There the king is called Achish. “Abimelech” was probably a title of the Philistine kings, like “Pharaoh” in Egypt.
+> The heading reminds us of a story: David fled from Saul to the Philistine king in Gath. Out of fear, he pretended to be insane so that they would let him go (1 Samuel 21:10–15). There the king is called Achish. “Abimelech” was probably a title of the Philistine kings, like “Pharaoh” in Egypt.
 > Psalm 34 is an alphabet poem.
 > Verse 5: “Those who looked to him were glowing with joy”: Whoever looks to God has a face that shines with joy.
 > Verse 7: God’s angel camps like an army all around those who trust him, and protects them.

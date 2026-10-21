@@ -75,7 +75,7 @@ and listen to my cry.
 Do not be silent when you see my tears.
 For I am a stranger with you,
 a foreigner, as all my ancestors were.
-[13] Oh, look away from me, so that I can get my strength back,
+[13] Oh, spare me, so that I can get my strength back,
 before I go away and am no more.”
 
 > **What does this mean?**

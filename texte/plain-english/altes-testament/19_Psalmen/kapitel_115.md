@@ -53,7 +53,7 @@ He will bless the people of Israel.
 He will bless the family of Aaron.
 [13] He will bless those who fear the LORD,
 both small and great.
-[14] May the LORD give you more and more,
+[14] May the LORD make you grow more and more,
 you and your children.
 [15] You are blessed by the LORD,
 who made heaven and earth.

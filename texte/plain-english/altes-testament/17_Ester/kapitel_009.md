@@ -1,5 +1,5 @@
 # Esther – Chapter 9
-### The 13th of Adar and the feast of Purim
+### The thirteenth of Adar and the feast of Purim
 
 ---
 
@@ -36,13 +36,13 @@ They did what they wanted with those who hated them.
 [6] In the fortress of Susa the Jews killed and destroyed 500 men.
 [7] They killed Parshandatha, Dalphon, Aspatha,
 [8] Poratha, Adalia, Aridatha,
-[9] Parmashta, Arisai, Aridai, and Vaizatha,
-[10] They were the ten sons of Haman, the son of Hammedatha, the enemy of the Jews.
+[9] Parmashta, Arisai, Aridai, and Vaizatha.
+[10] They were the 10 sons of Haman, the son of Hammedatha, the enemy of the Jews.
 But they did not touch the plunder.
 [11] On that day the king was told how many people had been killed in the fortress of Susa.
 [12] The king said to Queen Esther,
 “The Jews have killed and destroyed 500 men in the fortress of Susa,
-and also the ten sons of Haman.
+and also the 10 sons of Haman.
 What must they have done in the rest of the king’s provinces!
 Now what do you wish for? I will give it to you.
 What else do you ask for? It will be done.”
@@ -50,10 +50,10 @@ What else do you ask for? It will be done.”
 “If it pleases the king,
 let the Jews in Susa do the same tomorrow.
 Let them act by today’s order again.
-And let Haman’s ten sons be hanged on the gallows.”
+And let Haman’s 10 sons be hanged on the gallows.”
 [14] The king commanded that this be done.
 An order was given out in Susa.
-And Haman’s ten sons were hanged.
+And Haman’s 10 sons were hanged.
 [15] The Jews in Susa gathered together again
 on the fourteenth day of the month Adar.
 They killed 300 men in Susa.
@@ -63,7 +63,7 @@ But they did not touch the plunder.
 > These verses are hard to read. Many people die.
 > We have to see the context: there were still many enemies who wanted to carry out the first order and kill the Jews. The Jews defend their lives.
 > Three times it is stressed: “They did not touch the plunder.” That was allowed to them (Esther 8:11). But they wanted to show: it was not about getting rich, but about surviving. That recalls Saul, who took plunder from the Amalekites back then and was rebuked for it (1 Samuel 15).
-> The ten sons of Haman were probably already dead (verse 10). They were hanged up in public as a warning.
+> The 10 sons of Haman were probably already dead (verse 10). They were hanged up in public as a warning.
 > Why does Esther ask for a second day in Susa? The text does not say. Maybe there were especially many enemies left in the capital. This passage is hard to understand, and many readers still find it hard today.
 > Jews and Christians do not read this story as a call to revenge or violence. They read it as the story of a rescue from a planned genocide.
 
@@ -91,7 +91,7 @@ On this day they send gifts of food to one another.
 > **What does this mean?**
 > The number 75,000 is very high. The Greek version of the book has 15,000. As with many large numbers in the Bible, it is uncertain how exactly it is meant.
 > “They defended their lives”: again it is stressed that it was about self-defense.
-> Because there was fighting in Susa for two days, the Jews in walled cities celebrate Purim one day later. To this day Jews in Jerusalem celebrate Purim on the 15th of Adar (“Shushan Purim”) and in other places on the 14th of Adar.
+> Because there was fighting in Susa for two days, the Jews in walled cities celebrate Purim one day later. To this day Jews in Jerusalem celebrate Purim on the fifteenth of Adar (“Shushan Purim”) and in other places on the fourteenth of Adar.
 
 ---
 

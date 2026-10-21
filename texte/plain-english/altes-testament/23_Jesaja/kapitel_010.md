@@ -28,10 +28,10 @@ but his hand is still stretched out.
 
 ## How terrible for Assyria, the proud one (Verses 5–19)
 
-[5] How terrible for Assyria, the rod of my anger,
+[5] How terrible for the Assyrian, the rod of my anger,
 the staff in whose hand is my fury!
-[6] I send him against a godless nation,
-and against the people who make me angry I give him orders
+[6] I will send him against a godless nation,
+and against the people who make me angry I will give him orders
 to take plunder and to seize spoil,
 and to trample them down like mud in the streets.
 [7] But that is not what he intends,
@@ -77,7 +77,7 @@ in a single day.
 both soul and body.
 It will be as when a flag bearer collapses.
 [19] The rest of the trees of his forest will be so few
-that a child could write them down.
+that a child could write down their number.
 
 > **What does this mean?**
 > Verses 5–6: God uses Assyria like a rod to punish his unfaithful people.
@@ -114,7 +114,7 @@ the fury against you will be over,
 and my anger will turn to his destruction.”
 [26] The LORD of Armies will raise up a whip against him,
 as when Midian was struck down at the rock of Oreb.
-His staff will be over the sea,
+His rod will be over the sea,
 and he will raise it as he did against Egypt.
 [27] On that day it will happen
 that his burden will be taken from your shoulder

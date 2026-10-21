@@ -74,12 +74,12 @@ They are rebuilding that rebellious and evil city.
 They have finished the walls and repaired the foundations.
 [13] The king should also know this:
 If this city is rebuilt and its walls are finished,
-they will not pay any more taxes or fees.
+they will not pay any more taxes, duties, or tolls.
 In the end, this will harm the kings.
 [14] We are loyal to the palace.
 It is not right for us to watch the king be dishonored.
 So we are sending this message to the king.
-[15] Please have someone search the records of the kings before you.
+[15] Please have someone search the records of your ancestors.
 In these records you will find
 that this city has always rebelled.
 It has caused trouble for kings and provinces.
@@ -90,9 +90,9 @@ If this city is rebuilt and its walls are finished,
 you will have nothing left beyond the River.”
 
 > **What does this mean?**
-> The opponents list many peoples to seem important. Many of these names are uncertain. Some are probably titles of officials, not peoples. Erech (Uruk), Babylon, Susa and Elam were cities and regions in the east.
+> The opponents list many peoples to seem important. Many of these names are uncertain. Some are probably titles of officials, not peoples. Some names point to Erech (Uruk), Babylon, Susa and Elam, cities and regions in the east.
 > Osnappar is probably the Assyrian king Ashurbanipal (668–627 BC).
-> “Beyond the River”: this means the Euphrates. From the Persian king’s point of view, the area west of the Euphrates was “beyond”. That was the province Judah belonged to.
+> “Beyond the River”: this means the Euphrates. From the Persian king’s point of view, the area west of the Euphrates was “beyond.” That was the province Judah belonged to.
 > “We are loyal to the palace”: the English source text says “we eat the salt of the palace.” That means: we are in the king’s service and are paid by him.
 > The letter works with fear: if Jerusalem becomes strong, the king loses taxes and power. That is exaggerated. But it works.
 
@@ -111,7 +111,7 @@ It was found that this city has risen up against kings in the past.
 There have been rebellions and revolts there.
 [20] Powerful kings have also ruled over Jerusalem.
 They ruled the whole land beyond the River.
-People paid them taxes and fees.
+People paid them taxes, duties, and tolls.
 [21] So now give an order to make these men stop.
 This city must not be rebuilt until a decree is made by me.
 [22] Be careful, and do this quickly.
