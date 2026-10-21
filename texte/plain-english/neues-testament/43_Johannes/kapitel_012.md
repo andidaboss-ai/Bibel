@@ -137,7 +137,7 @@ After Jesus said these things, he went away and hid from them.
 > Verse 27: Jesus is afraid of what is coming. Here John tells what the other Gospels tell in the garden on the Mount of Olives.
 > Verse 31: “The ruler of this world” is the power of evil. Through Jesus’ death it is defeated.
 > Verse 32: “Lifted up” means the cross and at the same time being raised to God. Jesus wants to draw “all people” to himself.
-> Verse 34: The crowd knows Bible passages that say the Messiah remains forever (for example Psalm 89:36, in the Hebrew Bible and in many German Bibles 89:37). That is why they do not understand why he should die. That is an honest question.
+> Verse 34: The crowd knows Bible passages that say the Messiah remains forever (for example Psalm 89:36, in the Hebrew Bible and in some Bibles 89:37). That is why they do not understand why he should die. That is an honest question.
 
 ---
 

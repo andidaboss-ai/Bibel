@@ -36,7 +36,7 @@ so that I can also come and worship him.”
 > Important: The first people who worship Jesus are people from foreign nations. This fits with the women from foreign peoples in the family tree (Chapter 1). Jesus came for all nations.
 > Verse 2: We do not know exactly what the “star” was. Some think of a special position of the planets (Jupiter and Saturn in the year 7 BC), of a comet, or of a miraculous sign.
 > Verse 3: Herod is troubled. He was known for having even members of his own family killed because he was afraid of losing his power. A new “King of the Jews” was a threat to him.
-> Verses 5–6: The scribes know the answer from the prophet Micah (Micah 5:2; in the Hebrew Bible and in many German Bibles 5:1). They know where the Messiah is to be born, but they do not set out themselves.
+> Verses 5–6: The scribes know the answer from the prophet Micah (Micah 5:2; in the Hebrew Bible and in some Bibles 5:1). They know where the Messiah is to be born, but they do not set out themselves.
 > Verse 8: Herod is lying. He does not want to worship the child, but to kill him.
 
 ---

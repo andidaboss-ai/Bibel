@@ -33,7 +33,7 @@ In this way, you will be my disciples.
 
 > **What does this mean?**
 > “I am the true vine” is the seventh and last “I am” saying in John.
-> In the Old Testament the vineyard or the vine is a picture for Israel (Isaiah 5:1–7; Psalm 80:8–16, in the Hebrew Bible and in many German Bibles 80:9–17). Jesus takes up this picture.
+> In the Old Testament the vineyard or the vine is a picture for Israel (Isaiah 5:1–7; Psalm 80:8–16, in the Hebrew Bible and in some Bibles 80:9–17). Jesus takes up this picture.
 > Important: “The true vine” does not mean that Israel is a “false” vine. Jesus himself is a Jew and belongs to Israel. He says: Whoever is connected with me has life.
 > Verse 2: A farmer cuts back the branches so that they bear more grapes. That sometimes hurts, but it helps growth.
 > Verse 5: “Without me you can do nothing”: As a branch gets its sap from the vine, so Christians get their strength from Jesus.
@@ -109,6 +109,6 @@ because you have been with me from the beginning.”
 > In John, “the world” often means: everything that sets itself against God. It does not mean a certain group of people.
 > Verses 18–21: The first Christians experienced rejection and persecution. Jesus prepares his disciples for it.
 > Important: These verses do not give Christians the right to feel superior or to label others as “the world.” God loves the world (3:16).
-> Verse 25 quotes Psalm 35:19 or Psalm 69:4 (in the Hebrew Bible and in many German Bibles 69:5). “Law” here means the whole Holy Scripture of Israel.
+> Verse 25 quotes Psalm 35:19 or Psalm 69:4 (in the Hebrew Bible and in some Bibles 69:5). “Law” here means the whole Holy Scripture of Israel.
 > Verse 26: The Holy Spirit is the Spirit “who comes from the Father.” The Creed says: He *proceeds* from the Father. The churches argued for a long time about where exactly the Spirit comes from: The Western churches confess in the Creed that the Spirit proceeds *from the Father and the Son*. The Orthodox churches only say *from the Father*. Today the churches talk about this in dialogue.
 > For today: Christians are to tell about Jesus, kindly and honestly, even if they are rejected for it.

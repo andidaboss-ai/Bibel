@@ -72,7 +72,7 @@ And whoever welcomes me welcomes the one who sent me.”
 > Verse 10: The words about only needing to have the feet washed are missing in some old manuscripts.
 > Verses 14–15: Jesus gives an example: Christians are to serve one another, especially those who have responsibility. On Maundy Thursday many churches repeat the washing of feet.
 > Important: Serving does not mean letting yourself be used or abused. Jesus serves out of freedom and love.
-> Verse 18 quotes Psalm 41:9 (in the Hebrew Bible and in many German Bibles 41:10). “Lifted up his heel against me” means: betraying or kicking someone.
+> Verse 18 quotes Psalm 41:9 (in the Hebrew Bible and in some Bibles 41:10). “Lifted up his heel against me” means: betraying or kicking someone.
 
 ---
 

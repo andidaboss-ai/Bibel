@@ -78,7 +78,7 @@ And right away the boat reached the shore where they were going.
 > **What does this mean?**
 > Twenty-five or thirty stadia are about 3 to 3½ miles (5 to 6 kilometers). The disciples were in the middle of the lake.
 > Verse 20: “It is I” is in Greek simply “I am.” That is how God names himself in the Bible (Exodus 3:14). John is hinting: In Jesus we meet God.
-> In the Bible only God rules over the sea (Psalm 77:19, in the Hebrew Bible and in many German Bibles 77:20).
+> In the Bible only God rules over the sea (Psalm 77:19, in the Hebrew Bible and in some Bibles 77:20).
 > For today: Even in darkness and storm Jesus says: “Don’t be afraid.”
 
 ---

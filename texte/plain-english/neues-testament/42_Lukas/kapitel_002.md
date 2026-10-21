@@ -32,7 +32,7 @@ because there was no room for them in the inn.
 > Caesar Augustus ruled the Roman Empire from 27 BC to AD 14. An “enrollment” (a census) was mainly used to collect taxes.
 > Census: counting and listing all the people in a country.
 > Verse 2: Quirinius was governor of Syria from AD 6. Other sources tell of a census in that year. But Jesus was probably born before the death of Herod (Luke 1:5), that is, before 4 BC. These dates do not fit together exactly. Scholars explain this in different ways.
-> Bethlehem is the city of King David (1 Samuel 16). The prophet Micah had announced that a ruler would come from Bethlehem (Micah 5:2; in the Hebrew Bible and in many German Bibles 5:1).
+> Bethlehem is the city of King David (1 Samuel 16). The prophet Micah had announced that a ruler would come from Bethlehem (Micah 5:2; in the Hebrew Bible and in some Bibles 5:1).
 > “Firstborn” means: the first child. This does not yet say whether Mary had more children later. Christians understand this in different ways.
 > Verse 7: The WEB says “inn.” The Greek word can also mean “guest room.” Perhaps there was no more room in the guest room of a house, and Mary had to give birth where the animals were kept.
 > Feeding trough: a box that holds food for animals, also called a manger.

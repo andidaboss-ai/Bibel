@@ -133,7 +133,7 @@ He strengthened all the disciples.
 > **What does this mean?**
 > Verse 18: Paul takes a vow, as devout Jews did (compare Numbers 6). He continues to live as a devout Jew.
 > Verses 19–20: The Jews in Ephesus ask Paul to stay longer. They are open to his message.
-> Verse 21: Paul wants to go to Jerusalem for the feast. Many other Bibles, and many German Bibles, don’t have the sentence about the feast. It is missing in some old manuscripts. The WEB has it.
+> Verse 21: Paul wants to go to Jerusalem for the feast. Many other Bibles don’t have the sentence about the feast. It is missing in some old manuscripts. The WEB has it.
 > Verse 22: The second great journey ends with the return to Antioch. The third begins with verse 23.
 
 ---

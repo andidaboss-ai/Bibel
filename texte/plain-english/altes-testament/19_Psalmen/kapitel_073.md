@@ -7,7 +7,7 @@
 
 > **What does this mean?**
 > With Psalm 73, the third book of Psalms begins (Psalms 73–89).
-> The first eleven psalms of this book (73–83) come from Asaph or from his group of singers. Asaph was a musician whom David had appointed to serve at the temple (1 Chronicles 16:4–7). Psalm 50 also comes from him.
+> The first 11 psalms of this book (73–83) come from Asaph or from his group of singers. Asaph was a musician whom David had appointed to serve at the temple (1 Chronicles 16:4–7). Psalm 50 also comes from him.
 > Many psalms in this book are dark: They lament the destruction of Jerusalem and the temple, and they ask why God allowed it.
 
 ---

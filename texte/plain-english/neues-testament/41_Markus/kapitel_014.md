@@ -135,7 +135,7 @@ It would be better for that man
 if he had not been born.”
 
 > **What does this mean?**
-> Eating together was a sign of friendship and trust. That makes the betrayal all the more painful. This reminds us of Psalm 41:9 (in the Hebrew Bible and in many German Bibles 41:10). There someone complains that even his close friend, who ate his bread with him, has lifted his heel against him. That means: He has turned against me.
+> Eating together was a sign of friendship and trust. That makes the betrayal all the more painful. This reminds us of Psalm 41:9 (in the Hebrew Bible and in some Bibles 41:10). There someone complains that even his close friend, who ate his bread with him, has lifted his heel against him. That means: He has turned against me.
 > All the disciples ask: “Surely not I?” Each one knows that he can be weak.
 > Verse 19: The words “And another said” are missing in many old manuscripts. The WEB has them.
 

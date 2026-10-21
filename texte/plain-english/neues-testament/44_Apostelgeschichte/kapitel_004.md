@@ -116,7 +116,7 @@ And they spoke the word of God boldly.
 > **What does this mean?**
 > Verse 24: The church prays to the Creator. This reminds us of Psalm 146:6.
 > Verses 25–26 quote Psalm 2:1–2.
-> Verse 27: Many German Bibles also have the words in this city here. These words are in some old manuscripts; the WEB doesn’t have them.
+> Verse 27: Some Bibles also have the words in this city here. These words are in some old manuscripts; the WEB doesn’t have them.
 > The church names everyone who stood against Jesus: Herod, Pilate, the Romans and people from Israel. No single group alone carries the guilt.
 > Verse 29: The church doesn’t ask for revenge on its opponents. It asks for courage.
 > For today: In fear and danger we may pray together and ask for courage.
@@ -146,6 +146,6 @@ He sold it, brought the money, and put it at the apostles’ feet.
 > Verse 32: “One heart and soul”: Many languages have taken this saying from this verse.
 > Verse 34: This reminds us of Deuteronomy 15:4: There God promises that there will be no poor among his people.
 > The sharing was voluntary. It was not forced, but an expression of love.
-> Verse 36: Joses is a form of Joseph; many German Bibles call him that. “Son of Encouragement” can also be translated son of comfort. Barnabas later becomes an important companion of Paul.
+> Verse 36: Joses is a form of Joseph; Some Bibles call him that. “Son of Encouragement” can also be translated son of comfort. Barnabas later becomes an important companion of Paul.
 > A Levite belonged to the tribe of Levi. Levites helped with the service in the temple.
 > For today: A church in which no one suffers need is a strong sign. If you are in money trouble, you can find help from a free debt advice service or from the social services of churches, such as Catholic Charities or the Salvation Army.

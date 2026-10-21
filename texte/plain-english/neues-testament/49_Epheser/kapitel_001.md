@@ -128,5 +128,5 @@ who fills all in all.
 > Verse 18: “The eyes of your hearts”: There are things you don’t see with your eyes, but only recognize with your heart.
 > Verse 20: “At his right hand” is a picture: Christ has the highest honor and power (compare Psalm 110:1).
 > Verse 21: Christ stands above all powers that make people afraid.
-> Verse 22 takes up Psalm 8:6 (in the Hebrew Bible and in many German Bibles 8:7).
+> Verse 22 takes up Psalm 8:6 (in the Hebrew Bible and in some Bibles 8:7).
 > Verses 22–23: Christ is the head, the church is his body. It cannot live without him.

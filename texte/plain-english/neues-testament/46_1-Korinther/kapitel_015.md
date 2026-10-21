@@ -134,7 +134,7 @@ so that God may be all in all.
 > Verse 20: The WEB says “first fruit,” the first fruit of the harvest. The first fruit is the sign that the whole harvest is coming. In the same way, the resurrection of Jesus is the sign that we will also rise.
 > Verses 21–22: Adam stands for the human being who dies. Christ stands for the new human being who lives.
 > Verse 26: “The last enemy that will be done away with is death.” In the end God will defeat death too.
-> Verse 25 recalls Psalm 110:1. Verse 27 quotes Psalm 8:6 (in the Hebrew Bible and in many German Bibles 8:7).
+> Verse 25 recalls Psalm 110:1. Verse 27 quotes Psalm 8:6 (in the Hebrew Bible and in some Bibles 8:7).
 > Verse 28: “So that God may be all in all”: In the end God will fill everything completely.
 
 ---

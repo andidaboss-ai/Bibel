@@ -179,7 +179,7 @@ let him boast in the Lord.”
 
 > **What does this mean?**
 > Verse 18: A crucified savior sounded like nonsense to many people at that time. Crucifixion was the worst and most shameful death penalty. Paul says: It is precisely in the cross that God’s power shows itself.
-> Verse 19 quotes Isaiah 29:14. Verse 31 takes up Jeremiah 9:24 (in the Hebrew Bible and in many German Bibles 9:23).
+> Verse 19 quotes Isaiah 29:14. Verse 31 takes up Jeremiah 9:24 (in the Hebrew Bible and in some Bibles 9:23).
 > Verse 21: “In the wisdom of God”: God in his wisdom arranged it this way. People cannot find God by their own reason alone. God shows himself, in the message about Jesus.
 > Verses 22–24: Paul describes why the message of the cross was hard to accept for many people of his time, for Jews as well as for Greeks. He himself is a Jew. He is speaking about a question of faith, not speaking badly about a people. And he says clearly: Many Jews also belong to those who are called (verse 24).
 > Verses 26–28: The church in Corinth was made up mainly of ordinary people, of the poor and of slaves. God chooses precisely the weak and the despised.

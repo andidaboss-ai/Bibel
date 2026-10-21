@@ -127,7 +127,7 @@ until all the dough had risen.”
 
 > **What does this mean?**
 > The mustard seed is very small. But the mustard plant can grow several yards (meters) tall.
-> The birds in the branches remind us of pictures from the Old Testament (Ezekiel 17:23; Daniel 4:12; in the Hebrew Bible and in many German Bibles Daniel 4:9): Many nations find shelter.
+> The birds in the branches remind us of pictures from the Old Testament (Ezekiel 17:23; Daniel 4:12; in the Hebrew Bible and in some Bibles Daniel 4:9): Many nations find shelter.
 > Three measures of flour are a very large amount, many pounds. You can bake bread from it for a great many people. A little yeast spreads through all of it. The dough rises because of the yeast.
 > A man and a woman are the main characters of these two parables. Luke often tells things in pairs like this.
 > For today: God’s Kingdom begins small and unnoticed. But it grows and changes everything.
@@ -175,7 +175,7 @@ And some who are first now will be last.”
 > **What does this mean?**
 > Jesus does not answer the question with a number. He says: Don’t worry about how many there are. Make sure that you yourself go in. “Try hard” means: try with all your strength.
 > Verse 26: It is not enough just to know Jesus or to have been near him. What matters is how you live.
-> Verse 27 reminds us of Psalm 6:8 (in the Hebrew Bible and in many German Bibles 6:9). “You who do evil” means: people who do wrong.
+> Verse 27 reminds us of Psalm 6:8 (in the Hebrew Bible and in some Bibles 6:9). “You who do evil” means: people who do wrong.
 > “Weeping and gnashing of teeth” is a picture of despair and bitter regret. Gnashing means grinding your teeth.
 > Verse 29: People from all directions come to God’s great feast. This reminds us of Isaiah 25:6 and Psalm 107:3. God’s Kingdom is open to all nations.
 > Important: Abraham, Isaac, Jacob and the prophets are in God’s Kingdom. The promise to Israel still stands. The warning applies to everyone who feels too sure of themselves, including Christians.

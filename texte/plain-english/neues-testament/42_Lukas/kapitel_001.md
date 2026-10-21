@@ -128,7 +128,7 @@ among people.”
 > Zacharias and Elizabeth are devout, righteous Jews. Luke begins the Gospel right in the middle of Israel’s faith, in the temple.
 > Verses 7 and 25: Back then, not having children was often seen as a disgrace. Important: Being childless is not a punishment from God and not a disgrace. Elizabeth was “righteous before God” (verse 6), even without a child. People who cannot have the children they long for are loved by God just as much.
 > Verse 13: “John” means “God is gracious.”
-> Verse 17 quotes Malachi 4:6 (in the Hebrew Bible and in many German Bibles Malachi 3:24). John will be like the prophet Elijah.
+> Verse 17 quotes Malachi 4:6 (in the Hebrew Bible and in some Bibles Malachi 3:24). John will be like the prophet Elijah.
 > “Gabriel” means “God is strong.” He also appears in the Book of Daniel (Daniel 8:16; 9:21).
 > Verse 20: For a time Zacharias cannot speak. That is a sign in this special story. Important: This does not mean that people who cannot speak are being punished. Being mute or having a disability is not a punishment for doubt.
 
@@ -343,7 +343,7 @@ he appeared in public to Israel.
 > **What does this mean?**
 > The song of Zacharias is named after its first word in the Latin Bible: “Benedictus” (“blessed”). To this day it is prayed every morning in many churches.
 > Redeemed: set free, rescued.
-> Verse 69: “A horn of salvation.” In the Bible the horn is a picture of power and strength (compare Psalm 18:2; in the Hebrew Bible and in many German Bibles 18:3).
+> Verse 69: “A horn of salvation.” In the Bible the horn is a picture of power and strength (compare Psalm 18:2; in the Hebrew Bible and in some Bibles 18:3).
 > Zacharias praises God, who is faithful to his people Israel and keeps his covenant with Abraham.
 > Verses 76–79: Zacharias speaks to his little son: You will prepare the way for the Lord. “The dawn from on high” means the Messiah.
 > Verse 79: “The way of peace”: God’s salvation leads to peace.

@@ -63,7 +63,7 @@ he is Elijah, who was to come.
 > Verse 10: Jesus quotes Malachi 3:1. John is the messenger who prepares the way.
 > Verse 11: John is the greatest of the old time. But with Jesus something new begins: the Kingdom of Heaven. Whoever belongs to it has an even greater dignity.
 > Verse 12: A difficult verse that is understood in different ways. Perhaps it means: The Kingdom of God is attacked by violent people, as with John, who was thrown into prison. Or: People push their way in with all their strength. The exact meaning is uncertain.
-> Verse 14: John is the Elijah who was announced (Malachi 4:5; in the Hebrew Bible and in many German Bibles 3:23).
+> Verse 14: John is the Elijah who was announced (Malachi 4:5; in the Hebrew Bible and in some Bibles 3:23).
 
 ---
 

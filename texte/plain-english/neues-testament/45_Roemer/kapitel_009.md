@@ -120,7 +120,7 @@ We would have been like Gomorrah.”
 > Verse 15 quotes Exodus 33:19. Verse 17 quotes Exodus 9:16.
 > Verses 20–21: The picture of the potter comes from the Bible of Israel (Isaiah 29:16; 45:9; Jeremiah 18:1–6). Paul says: People cannot call God to account. God is free.
 > Verses 14–23 are among the most difficult passages in the Bible. Christians have argued about them a lot. Important: In chapter 11 Paul ends with the thought that God has shut up all people in disobedience so that he may have mercy on all (11:32). God’s last word is mercy.
-> Verse 25 quotes Hosea 2:23 (in the Hebrew Bible and in many German Bibles 2:25). Verse 26 quotes Hosea 1:10 (in the Hebrew Bible and in many German Bibles 2:1).
+> Verse 25 quotes Hosea 2:23 (in the Hebrew Bible and in some Bibles 2:25). Verse 26 quotes Hosea 1:10 (in the Hebrew Bible and in some Bibles 2:1).
 > Verses 27–28 quote Isaiah 10:22–23. Verse 29 quotes Isaiah 1:9.
 > “The remnant”: God always keeps a part of his people. That is a sign of his faithfulness, not of turning away.
 

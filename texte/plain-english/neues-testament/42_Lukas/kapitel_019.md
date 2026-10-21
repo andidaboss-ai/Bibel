@@ -43,7 +43,7 @@ and to save them.”
 > Zacchaeus is rich, but unpopular. He climbs a tree like a child. He accepts that people might laugh at him.
 > Sycamore tree: here a kind of fig tree with low, wide branches, easy to climb.
 > Verse 5: Jesus knows his name. He invites himself. “Today” is an important word in Luke (Luke 2:11; 4:21; 23:43).
-> Verse 8: The law required that stolen goods be given back with a fifth added (Leviticus 6:5, in the Hebrew Bible and in many German Bibles 5:24; Numbers 5:7). Zacchaeus gives much more, as in the case of serious theft (Exodus 22:1, in the Hebrew Bible and in many German Bibles 21:37). He does this freely, because Jesus has accepted him.
+> Verse 8: The law required that stolen goods be given back with a fifth added (Leviticus 6:5, in the Hebrew Bible and in some Bibles 5:24; Numbers 5:7). Zacchaeus gives much more, as in the case of serious theft (Exodus 22:1, in the Hebrew Bible and in some Bibles 21:37). He does this freely, because Jesus has accepted him.
 > Verse 9: “Son of Abraham”: Zacchaeus belongs to God’s people, even if others had shut him out.
 > Verse 10 sums up the whole message of Luke.
 > For today: Jesus sees people whom others have written off. Whoever is accepted can change.
@@ -207,7 +207,7 @@ when God came to you.”
 > Only Luke tells that Jesus weeps over Jerusalem. He loves this city.
 > In Hebrew, the name “Jerusalem” contains the word “shalom,” peace. That is why Jesus speaks of “what would bring you peace.”
 > Verses 43–44: Jesus foresees what happened in the year AD 70: The Romans besieged Jerusalem and destroyed the city and the temple.
-> Important: The destruction of Jerusalem was not a “punishment from God on the Jews.” In church history this text was often misused in that way. Jesus weeps, he does not rejoice. It is the grief of a prophet, as with Jeremiah (Jeremiah 9:1, in the Hebrew Bible and in many German Bibles 8:23). The victims of this war were people Jesus wept for.
+> Important: The destruction of Jerusalem was not a “punishment from God on the Jews.” In church history this text was often misused in that way. Jesus weeps, he does not rejoice. It is the grief of a prophet, as with Jeremiah (Jeremiah 9:1, in the Hebrew Bible and in some Bibles 8:23). The victims of this war were people Jesus wept for.
 > The WEB says “the time of your visitation”: the time when God came to his people through Jesus.
 
 ---

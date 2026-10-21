@@ -39,7 +39,7 @@ that these things were so.
 *profane* = make something holy unclean
 
 > **What does this mean?**
-> About the numbering: In the WEB this chapter has 26 verses. Many German Bibles have 27. There, verses 6–8 have a few more words: The accusers say they wanted to judge Paul by their law, but Lysias took him away from them. These words are missing in the oldest manuscripts. That is why the WEB leaves them out. Our verses 7–26 are verses 8–27 in many German Bibles.
+> About the numbering: In the WEB this chapter has 26 verses. Some Bibles have 27. There, verses 6–8 have a few more words: The accusers say they wanted to judge Paul by their law, but Lysias took him away from them. These words are missing in the oldest manuscripts. That is why the WEB leaves them out. Our verses 7–26 are verses 8–27 in Some Bibles.
 > Verses 2–4: Tertullus flatters the governor. In reality Felix was known for his harshness.
 > Verse 5: “Nazarenes” was a name for the Christians, after Jesus of Nazareth.
 > Verse 8: “The Jews” here means the accusers from Jerusalem: the high priest and some elders.

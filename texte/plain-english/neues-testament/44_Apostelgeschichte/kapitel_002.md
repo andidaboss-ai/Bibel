@@ -117,7 +117,7 @@ He is the Jesus whom you crucified.”
 
 > **What does this mean?**
 > Verse 15: The third hour is about nine in the morning. People are not drunk that early.
-> Verses 17–21 quote Joel 2:28–32 (in the Hebrew Bible and in many German Bibles Joel 3:1–5). Important: The Spirit comes on everyone, on sons and daughters, young and old, male and female servants. Women and men prophesy.
+> Verses 17–21 quote Joel 2:28–32 (in the Hebrew Bible and in some Bibles Joel 3:1–5). Important: The Spirit comes on everyone, on sons and daughters, young and old, male and female servants. Women and men prophesy.
 > “All flesh” means: all people.
 > Verses 25–28 quote Psalm 16:8–11. Verse 30 recalls Psalm 132:11. Verses 34–35 quote Psalm 110:1.
 > “Hades” is the realm of the dead.

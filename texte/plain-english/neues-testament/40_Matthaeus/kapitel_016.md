@@ -175,5 +175,5 @@ coming in his Kingdom.”
 > “To deny yourself” means: no longer putting yourself at the center, but Jesus. “To take up your cross”: Whoever follows Jesus must be ready to bear disadvantages or suffering too.
 > Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help. That is not against Jesus’ will. Help is available, for example: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
 > Verses 25–26: The Greek word for “life” can also mean “soul.” A life only for possessions and success is lost in the end. A life for God and for others is never wasted.
-> Verse 27: Jesus will come again as judge. This reminds us of Psalm 62:12 (in the Hebrew Bible and in many German Bibles 62:13).
+> Verse 27: Jesus will come again as judge. This reminds us of Psalm 62:12 (in the Hebrew Bible and in some Bibles 62:13).
 > Verse 28 is hard to understand. Some interpreters think it is about the transfiguration, which is told right after this (17:1–8). Others think of the resurrection or of Pentecost. There are different interpretations.

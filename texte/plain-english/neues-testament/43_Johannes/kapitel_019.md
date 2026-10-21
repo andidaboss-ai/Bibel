@@ -114,7 +114,7 @@ From that hour on, the disciple took her into his own home.
 > **What does this mean?**
 > Golgotha was a place of execution outside the gates of Jerusalem.
 > Verses 19–20: The title gave the reason for the sentence. Everyone could read it in the three most important languages. Without wanting to, Pilate proclaims: Jesus is King.
-> Verses 23–24: This quotes Psalm 22:18 (in the Hebrew Bible and in many German Bibles 22:19). The soldiers even take Jesus’ clothes from him.
+> Verses 23–24: This quotes Psalm 22:18 (in the Hebrew Bible and in some Bibles 22:19). The soldiers even take Jesus’ clothes from him.
 > Verse 25: Women stand by the cross when most of the disciples have fled. It is not completely clear whether there are three or four women.
 > Verses 26–27: Even while dying, Jesus takes care of his mother. He entrusts her to the beloved disciple. Many Christians see in this: Mary becomes the mother of all believers. The churches honor Mary in different ways, but all respect her as the mother of Jesus.
 
@@ -152,7 +152,7 @@ He tells it so that you also may believe.
 *hyssop* = a plant with small, bushy branches
 
 > **What does this mean?**
-> Verse 28: “I am thirsty” reminds us of Psalm 69:21 (in the Hebrew Bible and in many German Bibles 69:22) and Psalm 22:15 (in the Hebrew Bible and in many German Bibles 22:16). Jesus really suffers, as a human being.
+> Verse 28: “I am thirsty” reminds us of Psalm 69:21 (in the Hebrew Bible and in some Bibles 69:22) and Psalm 22:15 (in the Hebrew Bible and in some Bibles 22:16). Jesus really suffers, as a human being.
 > Verse 29: At the first Passover, hyssop was used to put the blood of the lambs on the doors (Exodus 12:22).
 > Verse 30: “It is finished!” Jesus’ work is complete. This is not a cry of despair, but of completion.
 > Verse 31: According to the law, an executed man was not to hang overnight (Deuteronomy 21:22–23). When their legs were broken, crucified people died more quickly.

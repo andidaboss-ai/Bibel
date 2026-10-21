@@ -53,7 +53,7 @@ and whoever gives to the rich, both end up in poverty.
 
 > **What does this mean?**
 > Verse 13: A funny proverb: The lazy person makes up the craziest excuses so that he does not have to go to work: “There is a lion outside!”
-> Verse 15: Children have to learn many things first. Back then, people believed that this included hitting. Today we know: Hitting harms children, and in many countries, including Germany, it is against the law. Children need love, clear rules and patience. If you need help with parenting: In the US, call Childhelp at 1-800-422-4453. In the UK, call the NSPCC at 0808 800 5000.
+> Verse 15: Children have to learn many things first. Back then, people believed that this included hitting. Today we know: Hitting harms children, and in many countries, including Germany, it is against the law. Children need love, clear rules and patience. If you need help with parenting: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
 > Verse 16: Whoever takes advantage of the poor, or flatters the rich in order to become rich himself, loses in the end.
 
 ---

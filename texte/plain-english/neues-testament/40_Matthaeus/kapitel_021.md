@@ -92,7 +92,7 @@ and spent the night there.
 > But Jesus criticizes that the place of prayer has become a place of business and profit. Verse 13 combines two sayings of the prophets: Isaiah 56:7 (“house of prayer”) and Jeremiah 7:11 (“den of robbers”). The prophets had already criticized what went on at the temple. Jesus stands in this Jewish tradition.
 > Important: Jesus does not attack people here or hurt anyone. He overturns tables. This story is no justification for violence against people.
 > Verse 14: In 2 Samuel 5:8 there is an old saying: The blind and the lame shall not come into the house. Jesus heals the lame and the blind right in the temple. They are welcome.
-> Verse 16 quotes Psalm 8:2 (in the Hebrew Bible and in many German Bibles 8:3). Children sometimes understand what adults do not want to see.
+> Verse 16 quotes Psalm 8:2 (in the Hebrew Bible and in some Bibles 8:3). Children sometimes understand what adults do not want to see.
 > Bethany is a village on the Mount of Olives, about 2 miles from Jerusalem. Friends of Jesus lived there.
 > Matthew names the chief priests and scribes, that is, certain leaders, not the Jewish people. The crowd and the children cheer for Jesus.
 

@@ -149,7 +149,7 @@ but up to seventy times seven.
 
 > **What does this mean?**
 > Peter thinks seven times is already very generous. Jesus says: Seventy times seven! That means: Never stop forgiving. You should not keep count.
-> The Greek words can also mean “seventy-seven times.” Many Bibles, including many German Bibles, translate it that way. The WEB says “seventy times seven.” The meaning is the same: without limit.
+> The Greek words can also mean “seventy-seven times.” Many Bibles, including Some Bibles, translate it that way. The WEB says “seventy times seven.” The meaning is the same: without limit.
 > This reminds us of Genesis 4:24. There Lamech wanted to take revenge seventy-seven times. Jesus turns this around: not unlimited revenge, but unlimited forgiveness.
 > Important: Forgiving does not mean approving of wrong. Nor does it mean that you have to stay with a person who hurts or hits you again and again. You may protect yourself and set boundaries. Forgiveness often takes time.
 

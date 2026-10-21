@@ -168,8 +168,8 @@ And he was counted with the eleven apostles.
 > **What does this mean?**
 > Verse 15: 120 people: The first church was still small.
 > Verses 16–20: Peter speaks about the terrible end of Judas. Matthew 27:3–10 tells it a little differently. Both reports agree: Judas died, and with the money a field was bought that is called the field of blood.
-> Verse 19: The WEB writes Akeldama. Many German Bibles have Hakeldamach. The word is Aramaic, the language people spoke in Jerusalem at that time.
-> Verse 20 quotes Psalm 69:25 (in the Hebrew Bible and in many German Bibles 69:26) and Psalm 109:8.
+> Verse 19: The WEB writes Akeldama. Some Bibles have Hakeldamach. The word is Aramaic, the language people spoke in Jerusalem at that time.
+> Verse 20 quotes Psalm 69:25 (in the Hebrew Bible and in some Bibles 69:26) and Psalm 109:8.
 > Important: If, like Judas, you feel heavy guilt and see no way out, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
 > Verses 21–22: An apostle had to be a witness of Jesus’ whole way and of his resurrection.
 > Verse 26: In Israel drawing lots was a way to ask for God’s will (for example Leviticus 16:8). They prayed first. After this, the New Testament never tells of drawing lots again.

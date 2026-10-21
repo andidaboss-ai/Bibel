@@ -24,7 +24,7 @@ And I sat in shock until the evening offering.
 
 > **What does this mean?**
 > This chapter and the next one are among the most difficult parts of the book.
-> What is it about? Many men, among them priests and leaders, had married women from the surrounding peoples who worshiped other gods. Ezra saw a great danger in this: the small people could lose its faith, as Solomon once did, whose foreign wives led him to foreign gods (1 Kings 11:1–8). That is exactly what had led to the exile.
+> What is it about? Many men, among them priests and leaders, had married women from the surrounding peoples who worshiped other gods. Ezra saw a great danger in this: the small nation could lose its faith, as Solomon once did, whose foreign wives led him to foreign gods (1 Kings 11:1–8). That is exactly what had led to the exile.
 > It was not about skin color or origin as such, but about faith. Ruth, a woman from Moab, became part of the people because she confessed the God of Israel (Ruth 1:16). She even became the great-grandmother of David.
 > The list of peoples in verse 1 recalls Deuteronomy 7:1–4. Some of these peoples no longer existed at that time. Ezra uses the old names to say: it is the same danger as before.
 > “Holy offspring” means: the people that God has set apart for himself.
@@ -41,7 +41,7 @@ I fell on my knees and spread out my hands to the LORD my God.
 “My God, I am ashamed and blush to lift up my face to you, my God.
 For our sins have risen higher than our heads,
 and our guilt has grown up to the heavens.
-[7] Since the days of our fathers we have been very guilty, until this day.
+[7] Since the days of our ancestors we have been very guilty, until this day.
 Because of our sins, we, our kings, and our priests
 have been handed over to the kings of the lands,
 to the sword, to captivity, to robbery, and to shame,
@@ -83,9 +83,9 @@ Look, we are before you in our guilt.
 For no one can stand before you because of this.”
 
 > **What does this mean?**
-> Ezra’s prayer is a confession of sin for the whole people. Remarkable: Ezra himself had done nothing wrong. But he says “we” and “our guilt”. He stands with his people and takes their side (compare Daniel 9:4–19; Nehemiah 1:6–7).
+> Ezra’s prayer is a confession of sin for the whole people. Remarkable: Ezra himself had done nothing wrong. But he says “we” and “our guilt.” He stands with his people and takes their side (compare Daniel 9:4–19; Nehemiah 1:6–7).
 > He sees God’s grace: God has not completely destroyed the people. He has left a “remnant”. He has given them “a stake” in his holy place. That is a picture of a firm place, like a tent peg that is stuck firmly in the ground.
 > The “wall” in verse 9 is probably a picture for protection. The real city wall was only built later under Nehemiah.
 > Verses 11–12 are not a word-for-word quotation, but a summary of several passages from the law (for example Deuteronomy 7:1–3; 23:6).
-> In this prayer Ezra does not even ask for forgiveness. He only confesses the guilt and says: “You are righteous.” He leaves everything to God.
+> In this prayer Ezra does not even ask for forgiveness. He only confesses the guilt and says: “You are righteous.” Righteous means: always doing what is right. He leaves everything to God.
 > Chapter 10 explains how the story goes on and how this story can be understood today.

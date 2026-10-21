@@ -146,7 +146,7 @@ than he was at first.”
 > “Beelzebul” was a name for the leader of the evil spirits. The name may come from an old idol (compare 2 Kings 1:2).
 > Jesus shows: The accusation makes no sense. Satan would not fight against himself.
 > Verse 19: “Your children” are Jewish people who at that time also cast out evil spirits. Jesus acknowledges them.
-> Verse 20: “God’s finger” reminds us of the miracles in Egypt (Exodus 8:19; in the Hebrew Bible and in many German Bibles 8:15). God himself is at work through Jesus.
+> Verse 20: “God’s finger” reminds us of the miracles in Egypt (Exodus 8:19; in the Hebrew Bible and in some Bibles 8:15). God himself is at work through Jesus.
 > Verses 21–22: The “strong man” is Satan. The one who is “stronger” is Jesus. He defeats the power of evil.
 > Verses 24–26: It is not enough that evil is gone. The “house” must not stay empty. It should be filled with good, with God’s Spirit.
 > Important: Mental illnesses and disabilities such as being unable to speak are not possession. People back then explained many kinds of suffering this way. Today we know more about illnesses.

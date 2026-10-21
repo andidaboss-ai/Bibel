@@ -155,6 +155,6 @@ be the glory forever!
 Amen.
 
 > **What does this mean?**
-> About the numbering: In the WEB this chapter has 26 verses. Many German Bibles and many other Bibles end this chapter with verse 23.
+> About the numbering: In the WEB this chapter has 26 verses. Some Bibles and many other Bibles end this chapter with verse 23.
 > Verses 24–26: This praise of God appears in different places in the old manuscripts: in some after chapter 14, in others at the end of the letter after chapter 16 or after chapter 15. The WEB puts it here, as verses 24–26 of chapter 14. Many other Bibles have it as Romans 16:25–27.
 > Its content: God’s plan was hidden for a long time. Now it has been revealed: Through Jesus Christ all nations are to come to faith.

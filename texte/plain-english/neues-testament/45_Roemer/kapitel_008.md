@@ -154,6 +154,6 @@ will be able to separate us from God’s love which is in Christ Jesus our Lord.
 > **What does this mean?**
 > Verse 31: “If God is for us, who can be against us?” A strong word of comfort.
 > Verse 35: Paul knew distress, persecution and danger from his own experience.
-> Verse 36 quotes Psalm 44:22 (in the Hebrew Bible and in many German Bibles 44:23).
+> Verse 36 quotes Psalm 44:22 (in the Hebrew Bible and in some Bibles 44:23).
 > Verses 38–39 are among the best-known texts in the Bible. They are often read at funerals. Nothing, not even death, can separate us from God’s love.
 > For today: If you feel abandoned, you may know: God’s love holds on to you. In hard times you can also get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

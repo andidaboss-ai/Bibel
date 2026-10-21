@@ -47,7 +47,7 @@ nor drank.
 > **What does this mean?**
 > Verse 2: Damascus was a large city in Syria with many Jewish communities. “The Way” was one of the first names for the Christians. They followed the way of Jesus.
 > Verse 4: “Why do you persecute me?” Saul is persecuting the Christians. But Jesus says: You are persecuting me. Jesus is united with the people who suffer.
-> Verses 5–6: Many other Bibles, such as the King James Version, and many German Bibles have more words here. They are not in the oldest manuscripts. The WEB doesn’t have them.
+> Verses 5–6: Many other Bibles, such as the King James Version, and Some Bibles have more words here. They are not in the oldest manuscripts. The WEB doesn’t have them.
 > Verse 9: Three days of darkness, without food or drink. Saul has to learn to see everything in a new way.
 > People often speak of Paul’s “conversion.” But he doesn’t change his religion. He remains a Jew. He recognizes Jesus as the Christ and receives a new task. That is why many people today prefer to speak of his calling.
 > For today: No one is too far away from God. God can change any life.

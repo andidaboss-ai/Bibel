@@ -135,7 +135,7 @@ also insulted him.
 > Golgotha (Aramaic) means “skull.” At that time the place was outside the city wall.
 > Verse 23: Wine mixed with myrrh was perhaps meant to dull the pain. Jesus refuses it.
 > Casting lots: a way of deciding something by chance, a bit like rolling dice.
-> Verse 24 reminds us of Psalm 22:18 (in the Hebrew Bible and in many German Bibles 22:19).
+> Verse 24 reminds us of Psalm 22:18 (in the Hebrew Bible and in some Bibles 22:19).
 > Verse 25: The third hour is about 9 in the morning.
 > Verse 28 is missing in the best old manuscripts. It quotes Isaiah 53:12. The WEB has it. Transgressors: people who break the law, criminals.
 > Crucifixion was the cruelest death penalty of the Romans, mainly for slaves and rebels.
@@ -186,7 +186,7 @@ who had come up with him to Jerusalem.
 
 > **What does this mean?**
 > The sixth hour is about 12 noon, the ninth about 3 in the afternoon. Three hours of darkness in broad daylight.
-> Verse 34: “Eloi, Eloi …” is Aramaic, Jesus’ native language. It is the beginning of Psalm 22 (Psalm 22:1; in the Hebrew Bible and in many German Bibles 22:2). This psalm begins with a lament, but ends with trust and praise of God.
+> Verse 34: “Eloi, Eloi …” is Aramaic, Jesus’ native language. It is the beginning of Psalm 22 (Psalm 22:1; in the Hebrew Bible and in some Bibles 22:2). This psalm begins with a lament, but ends with trust and praise of God.
 > Forsaken: left completely alone, abandoned.
 > Jesus feels the deepest pain, including the feeling of being abandoned by God. That is why we, too, may lament to God like this. Whoever feels abandoned by God is not alone. Jesus knows this feeling.
 > Verse 38: The curtain separated the Most Holy Place in the temple. Christians understand its tearing like this: Through Jesus’ death the way to God is open for everyone.

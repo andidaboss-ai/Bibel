@@ -94,7 +94,7 @@ He himself knew what was inside a person.
 > In the outer court animals were sold for the sacrifices. Pilgrims had to exchange their money for temple money. That was needed for the temple service.
 > Jesus acts like a prophet: He wants the temple to remain a house of prayer. He calls it “my Father’s house.” He loves the temple.
 > Important: Jesus uses the whip to drive out the animals. John does not tell that he hit people. This passage does not justify violence.
-> Verse 17 quotes Psalm 69:9 (in the Hebrew Bible and in many German Bibles 69:10). Zeal: burning love and eagerness.
+> Verse 17 quotes Psalm 69:9 (in the Hebrew Bible and in some Bibles 69:10). Zeal: burning love and eagerness.
 > Verses 18 and 20: “The Jews” here means those in charge of the temple. Their question is fair: Who gives you the right? Important: This does not mean the Jewish people.
 > Verse 20: King Herod the Great had the temple splendidly enlarged. Building work had been going on for 46 years.
 > Verse 21: Jesus means his own body. He predicts his death and his resurrection. God lives in him.

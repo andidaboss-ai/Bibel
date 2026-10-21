@@ -163,7 +163,7 @@ You would never believe it, even if someone told you about it.’”
 > Verses 17–22 briefly tell the history of Israel. Paul speaks lovingly of “our ancestors.”
 > Verse 19: In the WEB, the figure “about four hundred fifty years” stands in this verse. Other Bibles put the number in verse 20 and relate it to the time of the judges.
 > Verse 23: Many other Bibles name Jesus explicitly here as the Savior. The WEB only says: God has brought salvation to Israel. Jesus is meant.
-> Verse 22 combines 1 Samuel 13:14 and Psalm 89:20 (in the Hebrew Bible and in many German Bibles 89:21).
+> Verse 22 combines 1 Samuel 13:14 and Psalm 89:20 (in the Hebrew Bible and in some Bibles 89:21).
 > Verses 27–28: Paul names “those who live in Jerusalem, and their rulers.” He also says: They didn’t recognize him. It is not an accusation against all Jews.
 > Verse 33 quotes Psalm 2:7. Verse 34 quotes Isaiah 55:3. Verse 35 quotes Psalm 16:10. Verse 41 quotes Habakkuk 1:5.
 > Verse 39: “Justified” means: accepted by God, free from guilt. This becomes a big theme in Paul’s letters.

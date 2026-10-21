@@ -42,7 +42,7 @@ You must also be my witness in Rome.”
 
 > **What does this mean?**
 > Verse 3: “Whitewashed wall” means: beautiful on the outside, bad on the inside. Paul accuses the high priest of acting against the law. For an accused person was not to be struck without a verdict.
-> Verse 5: Paul quotes Exodus 22:28 (in the Hebrew Bible and in many German Bibles 22:27). He apologizes and respects the law.
+> Verse 5: Paul quotes Exodus 22:28 (in the Hebrew Bible and in some Bibles 22:27). He apologizes and respects the law.
 > Verse 6: “I am a Pharisee”: Paul says this in the present tense. He still sees himself as a Pharisee.
 > Verse 9: The Pharisees defend Paul. This shows: Many Pharisees were open and fair.
 > Verse 11: Jesus encourages Paul: You will come to Rome. That is the goal of the book.

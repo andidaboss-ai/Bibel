@@ -85,7 +85,7 @@ Amen.
 > **What does this mean?**
 > Verse 11: After all the hard words, Paul ends with joy, comfort and peace.
 > Verse 14: This blessing names Jesus Christ, God (the Father) and the Holy Spirit together. It is still spoken in many worship services today.
-> About verse numbers: The WEB divides the end into verses 12, 13 and 14. Many German Bibles have only 13 verses here. There verses 12–13 are one verse, and the blessing is verse 13.
+> About verse numbers: The WEB divides the end into verses 12, 13 and 14. Some Bibles have only 13 verses here. There verses 12–13 are one verse, and the blessing is verse 13.
 
 ---
 

@@ -363,8 +363,8 @@ forever, to the very end.
 
 > **What does this mean?**
 > Verse 105 is one of the best-known verses in the Bible. God’s word is like a lamp in the night. Back then, people had small oil lamps. They did not shine very far, but far enough for the next step. In the same way, God’s word often does not show the whole way, but it shows the next step.
-> Verse 109: “My life is always in my hand”: This means: My life is always in danger.
 > Verse 108: “The offerings that my mouth gives you freely”: Prayers and songs are like offerings to God.
+> Verse 109: “My life is always in my hand”: This means: My life is always in danger.
 
 ---
 
@@ -543,7 +543,7 @@ I love them very much.
 because you see all my ways.
 
 > **What does this mean?**
-> In the World English Bible, this section is called “Sin and Shin,” because the Hebrew letter has two ways of being pronounced.
+> In the WEB, our English source text, this section is called “Sin and Shin,” because the Hebrew letter has two ways of being pronounced.
 > Verse 162: Discovering God’s word is like finding a treasure.
 > Verse 164: “Seven times a day”: again and again, all the time. The seven prayer times in many monasteries are based on this.
 > Verse 165: “Those who love your law have great peace”: a beautiful promise.

@@ -176,7 +176,7 @@ But this man has done nothing wrong.”
 > Crucifixion was one of the cruelest punishments of the Romans. It was meant for slaves and rebels.
 > Verse 34: “Father, forgive them”: Jesus prays for those who are killing him. These words are missing in some old manuscripts. But they fit Jesus completely (Luke 6:27–28) and also Stephen (Acts 7:60).
 > Important: If Jesus himself asks forgiveness for his executioners, then no Christian has the right to blame anyone for his death.
-> Verse 34: The dividing of the clothes is a reminder of Psalm 22:18 (in the Hebrew Bible and in many German Bibles 22:19). Casting lots: a way of deciding by chance, like throwing dice.
+> Verse 34: The dividing of the clothes is a reminder of Psalm 22:18 (in the Hebrew Bible and in some Bibles 22:19). Casting lots: a way of deciding by chance, like throwing dice.
 > Verse 35: “The people stood watching.” Luke separates the people from the mockers.
 > Verse 38: The words about the letters of Greek, Latin, and Hebrew are missing in many old manuscripts. The WEB has them.
 > Verses 39–43: Only Luke tells about the criminal who asks for mercy. He can no longer make anything right. But he trusts Jesus. And Jesus promises him: “today you will be with me in Paradise.”
@@ -206,7 +206,7 @@ The women who had followed him from Galilee were with them.
 > **What does this mean?**
 > The sixth hour is about 12 noon, the ninth hour about 3 in the afternoon.
 > Verse 45: The curtain in the temple separated the Most Holy Place from the rest of the temple. Christians often understand its tearing like this: Through Jesus’ death the way to God is open for everyone.
-> Verse 46: Jesus prays with words from Psalm 31:5 (in the Hebrew Bible and in many German Bibles 31:6). Devout Jews also prayed this prayer in the evening before going to sleep. Jesus dies trusting his Father.
+> Verse 46: Jesus prays with words from Psalm 31:5 (in the Hebrew Bible and in some Bibles 31:6). Devout Jews also prayed this prayer in the evening before going to sleep. Jesus dies trusting his Father.
 > Verse 47: A Roman officer recognizes: Jesus was innocent and righteous. Centurion: a Roman officer in charge of about a hundred soldiers.
 > Verse 48: The people from the crowds beat their chests, a sign of grief and regret. Once again Luke shows: The people mourn for Jesus.
 > Verse 49: The women stay, even when it is dangerous. They will be the first witnesses of the resurrection.

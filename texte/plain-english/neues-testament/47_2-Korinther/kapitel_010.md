@@ -118,5 +118,5 @@ whom the Lord recommends.
 > **What does this mean?**
 > Verse 12: The opponents only compared themselves with themselves and thought they were wonderful.
 > Verses 13–16: Paul founded the church in Corinth. But the opponents came later and wanted to take credit for someone else’s work.
-> Verse 17 takes up Jeremiah 9:24 (in the Hebrew Bible and in many German Bibles 9:23). Paul already used these words in 1 Corinthians 1:31.
+> Verse 17 takes up Jeremiah 9:24 (in the Hebrew Bible and in some Bibles 9:23). Paul already used these words in 1 Corinthians 1:31.
 > Verse 18: It is not praising yourself that counts, but what God says about a person.

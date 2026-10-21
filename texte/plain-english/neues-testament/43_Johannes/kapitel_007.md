@@ -149,7 +149,7 @@ But no one laid a hand on him.
 > Verse 38: Which Scripture passage Jesus means is not certain. It is a reminder of Isaiah 58:11 and other passages.
 > Verse 39: John explains: The Holy Spirit is meant. He is given after Jesus’ death and resurrection.
 > Verses 41–42: The people do not know that Jesus was born in Bethlehem (Matthew 2; Luke 2). John tells this with a quiet smile: The readers know more.
-> Verse 42 refers to Micah 5:2 (in the Hebrew Bible and in many German Bibles 5:1).
+> Verse 42 refers to Micah 5:2 (in the Hebrew Bible and in some Bibles 5:1).
 > For today: Jesus quenches the deepest thirst of human beings: the longing for life, meaning and love.
 
 ---

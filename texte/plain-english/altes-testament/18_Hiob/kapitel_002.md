@@ -58,7 +58,7 @@ In all this, Job did not sin with his lips.
 
 > **What does this mean?**
 > Job becomes very sick. His whole body is covered with painful sores. He sits in the ashes, probably on the ash heap outside the town, where garbage was burned. That is where the outcasts sat.
-> Job’s wife is often judged harshly. But we must remember: She too has lost all ten of her children. She too suffers endlessly. Maybe she means: Make an end of it, then you will have no more pain. Her words come from deep despair.
+> Job’s wife is often judged harshly. But we must remember: She too has lost all 10 of her children. She too suffers endlessly. Maybe she means: Make an end of it, then you will have no more pain. Her words come from deep despair.
 > Job answers: We cannot accept only the good things from God. He keeps holding on to God.
 > “He did not sin with his lips”: Jewish interpreters have noticed: Here it says “with his lips,” but in Job 1:22 it does not. Maybe doubt was already starting in his heart. From Chapter 3 on, he will speak it out loud.
 

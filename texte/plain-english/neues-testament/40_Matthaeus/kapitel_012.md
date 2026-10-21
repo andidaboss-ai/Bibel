@@ -190,7 +190,7 @@ That is how it will also be with this evil generation.”
 
 > **What does this mean?**
 > Verse 39: “Adulterous” is a picture from the prophets for unfaithfulness to God (compare Hosea). It is not about adultery in the literal sense.
-> Verse 40: The “sign of Jonah”: As Jonah was in the fish for three days, so Jesus will be in the grave for three days and then rise again (compare Jonah 1:17; in the Hebrew Bible and in many German Bibles 2:1). “Three days and three nights” was a way of speaking; in Jewish counting, a day that had only begun also counted.
+> Verse 40: The “sign of Jonah”: As Jonah was in the fish for three days, so Jesus will be in the grave for three days and then rise again (compare Jonah 1:17; in the Hebrew Bible and in some Bibles 2:1). “Three days and three nights” was a way of speaking; in Jewish counting, a day that had only begun also counted.
 > Verses 41–42: The pagan people of Nineveh (book of Jonah) and the Queen of Sheba (1 Kings 10) listened to God’s messengers. With Jesus, even more is here.
 > Verses 43–45: A picture: It is not enough just to throw evil out. If the “house” stays empty, evil comes back. You have to fill your life with good things.
 

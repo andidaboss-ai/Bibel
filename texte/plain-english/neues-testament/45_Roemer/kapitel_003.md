@@ -33,7 +33,7 @@ They deserve to be condemned.
 > **What does this mean?**
 > Verses 1–2: Paul says clearly: The advantage of the Jews is great. God entrusted his word, the Holy Scriptures, to them.
 > Verses 3–4: Even when people are unfaithful, God remains faithful. God’s faithfulness to Israel does not end. This is very important for the relationship between Christians and Jews.
-> Verse 4 quotes Psalm 51:4 (in the Hebrew Bible and in many German Bibles 51:6).
+> Verse 4 quotes Psalm 51:4 (in the Hebrew Bible and in some Bibles 51:6).
 > Verses 5–8: Paul goes through objections, as in a debate. He rejects the idea that you may do evil so that God appears all the more gracious.
 
 ---
@@ -70,7 +70,7 @@ The law only shows us what sin is.
 
 > **What does this mean?**
 > Verse 9: “We” here probably means the Jews, to whom Paul himself belongs. He says: We are not better, but not worse either. All people, Jews and non-Jews, need God’s grace.
-> Verses 10–18 are a collection of quotations from the Bible of Israel: Psalm 14:1–3 (and Psalm 53), Psalm 5:9 (in the Hebrew Bible and in many German Bibles 5:10), Psalm 140:3 (in the Hebrew Bible and in many German Bibles 140:4), Psalm 10:7, Isaiah 59:7–8 and Psalm 36:1 (in the Hebrew Bible and in many German Bibles 36:2).
+> Verses 10–18 are a collection of quotations from the Bible of Israel: Psalm 14:1–3 (and Psalm 53), Psalm 5:9 (in the Hebrew Bible and in some Bibles 5:10), Psalm 140:3 (in the Hebrew Bible and in some Bibles 140:4), Psalm 10:7, Isaiah 59:7–8 and Psalm 36:1 (in the Hebrew Bible and in some Bibles 36:2).
 > “The works of the law” (verse 20) means: doing what the law requires. Paul says: No one can make themselves righteous before God by their own achievement. Verse 20 recalls Psalm 143:2.
 > Verse 20: The law is good. It shows what is right and wrong. But it cannot set people free from sin.
 

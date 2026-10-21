@@ -5,7 +5,7 @@
 
 ## Why have you rejected us? (Verses 1–3)
 
-[1] A contemplative psalm by Asaph.
+[1] A contemplation by Asaph.
 God, why have you rejected us forever?
 Why does your anger smoke against the sheep of your pasture?
 [2] Remember your community, which you bought long ago,

@@ -136,7 +136,7 @@ stand up straight and lift up your heads!
 For soon you will be set free.”
 
 > **What does this mean?**
-> Jesus uses pictures from the books of the prophets (for example Isaiah 13:10; Joel 2:30–31, in the Hebrew Bible and in many German Bibles 3:3–4; Daniel 7:13–14). They describe God making the whole world new.
+> Jesus uses pictures from the books of the prophets (for example Isaiah 13:10; Joel 2:30–31, in the Hebrew Bible and in some Bibles 3:3–4; Daniel 7:13–14). They describe God making the whole world new.
 > These pictures are not exact predictions. They want to show: In the end God comes, and evil does not have the last word.
 > Verse 28: While others are afraid, the disciples are to look up. For them the coming of Jesus is not a threat, but freedom. Older Bibles call this “redemption”: being set free.
 > For today: Whoever is afraid of the future may lift up their head. God holds the world in his hand.

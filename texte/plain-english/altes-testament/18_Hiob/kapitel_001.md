@@ -14,7 +14,7 @@ The book has three parts:
 – Near the end (Chapters 38–41) God himself answers out of a storm.
 The book gives no easy answer to the question of suffering. But it shows: You may lament before God, cry out to him, and ask him questions. God can bear it. And the simple formula “Whoever suffers is to blame” is wrong.
 Job probably lived outside Israel, in the land of Uz. We do not know exactly when the book was written.
-The speeches are great poetry. Some verses are very hard to understand in Hebrew. This version follows its English source text and explains difficult passages.
+The speeches are great poetry. Some verses are very hard to understand in Hebrew. This edition follows the WEB, our English source text, and explains difficult passages.
 The book of Job can help people who are suffering themselves. It shows: You are not alone with your questions.
 
 ---
@@ -121,7 +121,7 @@ Only I escaped to tell you.”
 > **What does this mean?**
 > The messages come one after the other. Each time: “While he was still speaking …” Job has no time to catch his breath.
 > The disaster comes from people (Sabeans, Chaldeans) and from nature (fire from the sky, probably lightning, and a storm). From all sides.
-> The worst comes last: All ten children are dead.
+> The worst comes last: All 10 children are dead.
 > “The fire of God” is an old expression for lightning.
 > Anyone who has lost a child or a loved one can find their own pain in these verses. The Bible does not keep quiet about such suffering.
 

@@ -104,7 +104,7 @@ Amen.
 > Verse 11: Mark had once parted from Paul (Acts 15:37–39). Now Paul specifically asks for him. Reconciliation is possible.
 > Verse 13: A very human wish: Paul is cold in prison and needs his cloak. And he wants to read his books.
 > Verse 16: “May it not be held against them”: Paul forgives those who let him down, just as Jesus forgave on the cross (Luke 23:34).
-> Verse 17: “The mouth of the lion”: a picture of great danger to life (compare Psalm 22:21, in the Hebrew Bible and in many German Bibles 22:22).
+> Verse 17: “The mouth of the lion”: a picture of great danger to life (compare Psalm 22:21, in the Hebrew Bible and in some Bibles 22:22).
 > Verse 18: Paul trusts: Even if he dies, he is safe with God.
 
 ---

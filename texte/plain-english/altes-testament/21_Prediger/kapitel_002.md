@@ -7,7 +7,7 @@
 
 [1] I said in my heart, “Come now, I will test you with joy.
 So enjoy pleasure!”
-And look, this too was vanity.
+But this too was vanity.
 [2] I said about laughter, “It is foolishness,”
 and about joy, “What does it achieve?”
 [3] I searched in my heart
@@ -42,7 +42,7 @@ for my heart was glad because of all my work,
 and this was my share from all my work.
 [11] Then I looked at all the works that my hands had done,
 and at the hard work I had worked so hard at,
-and look, all was vanity and a chasing after wind,
+and all was vanity and a chasing after wind,
 and there was no profit under the sun.
 
 > **What does this mean?**

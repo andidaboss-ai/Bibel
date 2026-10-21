@@ -60,7 +60,7 @@ and also to the Greek.
 > **What does this mean?**
 > Verse 1: Paul turns around. He has just described the sins of the world. Now he says: Whoever points a finger at others now is meant himself. No one is better than the others.
 > Verse 4: A beautiful sentence: The goodness of God leads to repentance. God doesn’t threaten first; he invites.
-> Verse 6 quotes Psalm 62:12 (in the Hebrew Bible and in many German Bibles 62:13) and Proverbs 24:12.
+> Verse 6 quotes Psalm 62:12 (in the Hebrew Bible and in some Bibles 62:13) and Proverbs 24:12.
 > Verses 9–10: “To the Jew first, and also to the Greek”: Israel has a special place with God. But God measures everyone with the same measure.
 > Verse 11: “No partiality”: God does not favor anyone because of their background, wealth or reputation.
 

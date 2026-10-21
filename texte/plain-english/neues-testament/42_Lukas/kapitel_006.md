@@ -25,8 +25,8 @@ But the law allows only the priests to eat it.”
 
 > **What does this mean?**
 > Verse 1: The WEB, our English source text, says: “the second Sabbath after the first.” What exactly this means is unclear. Many old manuscripts simply say: on a Sabbath.
-> Picking heads of grain at the edge of a field was allowed (Deuteronomy 23:25; in the Hebrew Bible and in many German Bibles 23:26). But some teachers considered rubbing the grain on the Sabbath to be work. People had different opinions about this.
-> Verses 3–4: The story of David is in 1 Samuel 21:1–6 (in the Hebrew Bible and in many German Bibles 21:2–7).
+> Picking heads of grain at the edge of a field was allowed (Deuteronomy 23:25; in the Hebrew Bible and in some Bibles 23:26). But some teachers considered rubbing the grain on the Sabbath to be work. People had different opinions about this.
+> Verses 3–4: The story of David is in 1 Samuel 21:1–6 (in the Hebrew Bible and in some Bibles 21:2–7).
 > Show bread: holy bread that was laid out before God in the house of God.
 > The Sabbath is a gift from God for rest and recovery (Exodus 20:8–11). In Judaism it is still celebrated today.
 

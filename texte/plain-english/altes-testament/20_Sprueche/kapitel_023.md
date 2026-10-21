@@ -50,7 +50,7 @@ and you will save his life from Sheol, the world of the dead.
 > Verses 10–11: Orphans had no one to defend them. But God himself is their strong Defender. Whoever takes something away from them will have to deal with him.
 > Verses 13–14: These verses reflect the way children were brought up back then, when hitting was normal. Their message is: Parents should not leave children to themselves, but bring them up with love and clear limits, so that they do not get onto a path that leads to ruin.
 > Today we know that hitting harms children in body and soul. In Germany, children have had a right to be brought up without violence since the year 2000. This verse is no permission to hit children.
-> Help for children and young people: In the US, call Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. Parents who need support can also call Childhelp, or in the UK the NSPCC at 0808 800 5000.
+> Help for children, young people and parents: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
 
 ---
 

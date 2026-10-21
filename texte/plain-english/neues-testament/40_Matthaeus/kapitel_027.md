@@ -226,10 +226,10 @@ insulted him in the same way.
 > Cyrene was a city in North Africa, in today’s Libya. Many Jews lived there. Simon had probably come to Jerusalem for the Passover.
 > Golgotha (Aramaic) means “skull.” The Latin name is “Calvary.” At that time the place was outside the city wall.
 > Crucifixion was the cruelest death penalty of the Romans. It was mainly meant for slaves and rebels. A person on a cross often died only after many hours.
-> Verse 34: Jesus is given “sour wine to drink mixed with gall.” That is what the WEB says. Gall: a bitter liquid. Some manuscripts have wine instead of sour wine. This reminds us of Psalm 69:21 (in the Hebrew Bible and in many German Bibles 69:22).
+> Verse 34: Jesus is given “sour wine to drink mixed with gall.” That is what the WEB says. Gall: a bitter liquid. Some manuscripts have wine instead of sour wine. This reminds us of Psalm 69:21 (in the Hebrew Bible and in some Bibles 69:22).
 > Casting lots: a way of deciding something by chance, a bit like rolling dice.
-> Verse 35: Dividing the clothes reminds us of Psalm 22:18 (in the Hebrew Bible and in many German Bibles 22:19). Older Bible editions still have a quotation from this psalm in the text here. It is missing in the best manuscripts and also in the WEB.
-> Verses 39–43: Jesus is mocked. This reminds us of Psalm 22:7–8 (in the Hebrew Bible and in many German Bibles 22:8–9).
+> Verse 35: Dividing the clothes reminds us of Psalm 22:18 (in the Hebrew Bible and in some Bibles 22:19). Older Bible editions still have a quotation from this psalm in the text here. It is missing in the best manuscripts and also in the WEB.
+> Verses 39–43: Jesus is mocked. This reminds us of Psalm 22:7–8 (in the Hebrew Bible and in some Bibles 22:8–9).
 > Verse 41: Again it is certain leaders, not the whole people.
 
 ---

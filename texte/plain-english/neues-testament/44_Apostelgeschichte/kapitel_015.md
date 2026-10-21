@@ -155,7 +155,7 @@ The brothers put him into the care of God’s grace.
 He made the churches strong.
 
 > **What does this mean?**
-> Important about the numbering: The WEB has 40 verses in this chapter. Many other Bibles, and many German Bibles, have 41. There is an additional verse 34: Silas decides to stay in Antioch. This verse is missing in the oldest manuscripts. That is why our verses 34–40 are verses 35–41 in those Bibles.
+> Important about the numbering: The WEB has 40 verses in this chapter. Many other Bibles have 41. There is an additional verse 34: Silas decides to stay in Antioch. This verse is missing in the oldest manuscripts. That is why our verses 34–40 are verses 35–41 in those Bibles.
 > Verse 37: Mark had left the two on the first journey (13:13).
 > Verse 38: Apostles argue too. Paul and Barnabas separate. The Bible doesn’t hide this.
 > Later Paul is reconciled with Mark. In a letter he writes that Mark is useful to him for the ministry (2 Timothy 4:11).

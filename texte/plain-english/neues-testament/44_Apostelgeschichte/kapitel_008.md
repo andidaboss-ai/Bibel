@@ -191,8 +191,8 @@ until he came to Caesarea.
 *chariot* = a carriage pulled by horses
 
 > **What does this mean?**
-> Important about the numbering: The WEB has 39 verses in this chapter. Many other Bibles, and many German Bibles, have 40. There is an additional verse 37: Philip asks about the man’s faith, and the man confesses Jesus Christ as the Son of God. This verse is missing in the oldest manuscripts. That is why the WEB leaves it out. Our verses 37–39 are verses 38–40 in those Bibles.
-> Verse 27: At that time Ethiopia meant the kingdom south of Egypt, in today’s Sudan. Candace was a title of the queens there. Eunuchs often served at royal courts. According to Deuteronomy 23:1 (in the Hebrew Bible and in many German Bibles 23:2), they were not allowed to enter the assembly of the Lord. But the prophet Isaiah had promised: God will accept them too (Isaiah 56:3–5).
+> Important about the numbering: The WEB has 39 verses in this chapter. Many other Bibles have 40. There is an additional verse 37: Philip asks about the man’s faith, and the man confesses Jesus Christ as the Son of God. This verse is missing in the oldest manuscripts. That is why the WEB leaves it out. Our verses 37–39 are verses 38–40 in those Bibles.
+> Verse 27: At that time Ethiopia meant the kingdom south of Egypt, in today’s Sudan. Candace was a title of the queens there. Eunuchs often served at royal courts. According to Deuteronomy 23:1 (in the Hebrew Bible and in some Bibles 23:2), they were not allowed to enter the assembly of the Lord. But the prophet Isaiah had promised: God will accept them too (Isaiah 56:3–5).
 > Verses 32–33 quote Isaiah 53:7–8 in the Greek translation. Christians understand this passage about the suffering servant of God as pointing to Jesus. In Judaism it is often related to the people of Israel.
 > Verse 36: “What is keeping me from being baptized?” The answer is: nothing. A man from Africa, a foreigner, a eunuch, is baptized without hesitation. No one is excluded.
 > Verse 39: Azotus is the old city of Ashdod. It was on the coast. Caesarea was a port city and the seat of the Roman governor.

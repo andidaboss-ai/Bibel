@@ -112,7 +112,7 @@ John was baptizing there.
 > **What does this mean?**
 > Verse 19: “The Jews” here means the religious leaders in Jerusalem. They send a group of messengers. The question of who John is was a serious and fair question for them.
 > Priests and Levites served in the temple.
-> Verse 21: Many expected the prophet Elijah to come back before the Messiah (Malachi 4:5, in the Hebrew Bible and in many German Bibles 3:23). “The prophet” means the prophet like Moses whom God had promised (Deuteronomy 18:15).
+> Verse 21: Many expected the prophet Elijah to come back before the Messiah (Malachi 4:5, in the Hebrew Bible and in some Bibles 3:23). “The prophet” means the prophet like Moses whom God had promised (Deuteronomy 18:15).
 > John says clearly who he is not. He does not want to be important. He points to someone else.
 > Verse 23 quotes Isaiah 40:3.
 > Verse 27: Loosening sandals was the work of a slave. John says: I am not even worthy to do him this service.

@@ -164,7 +164,7 @@ because the harvest has come.”
 > That is how it is with God’s Kingdom: God makes it grow. We don’t have to do everything ourselves.
 > For today: A comforting parable for everyone who worries about others or works a lot. You may also sleep. God keeps on working.
 > Sickle: a curved knife for cutting grain.
-> Verse 29 reminds us of Joel 3:13 (in the Hebrew Bible and in many German Bibles 4:13): The harvest is a picture of the end of time.
+> Verse 29 reminds us of Joel 3:13 (in the Hebrew Bible and in some Bibles 4:13): The harvest is a picture of the end of time.
 
 ---
 
