@@ -103,7 +103,7 @@ I will pay the man back for what he has done.”
 > Verses 23–25: A judge must be fair and must not favor anyone. Whoever lets the guilty go free loses everyone’s trust.
 > Verse 26: A beautiful picture: An honest answer is a sign of friendship, like a kiss.
 > Verse 27: First lay the foundation, then build. First take care of your income, then build a house or start a family.
-> Verse 29: “I will do to him as he has done to me”: That is not a good rule. Revenge is not our business (compare Chapter 20:22).
+> Verse 29: “I will do to him as he has done to me”: That is not a good rule. Revenge is not our business (compare Proverbs 20:22).
 
 ---
 
@@ -124,5 +124,5 @@ and your need like an armed man.
 > **What does this mean?**
 > The wise man tells what he has seen: A vineyard that no one takes care of grows wild. Weeds grow, and the wall falls down.
 > He learns from it: Decay does not come suddenly, but slowly, through many small things left undone. That is also true for friendships, marriages and faith.
-> Verses 33–34 repeat Chapter 6:10–11.
+> Verses 33–34 repeat Proverbs 6:10–11.
 > This ends the part called “The words of the wise.”

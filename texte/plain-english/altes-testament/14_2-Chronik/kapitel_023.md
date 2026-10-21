@@ -77,7 +77,7 @@ They shouted, “Long live the king!”
 
 > **What does this mean?**
 > “The covenant”: the Hebrew says “the testimony.” This probably means a scroll with God’s law or with the covenant. The king is to rule according to God’s word (Deuteronomy 17:18–19).
-> Joash is only seven years old (Chapter 24:1).
+> Joash is only seven years old (2 Chronicles 24:1).
 
 ---
 

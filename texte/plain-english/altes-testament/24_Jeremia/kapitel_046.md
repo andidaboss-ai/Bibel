@@ -153,4 +153,4 @@ I will correct you with fairness,
 but I will not leave you unpunished.”
 
 > **What does this mean?**
-> These verses appear almost word for word already in Chapter 30:10–11. In the middle of the words about the great world powers, God reminds his small people: Don’t be afraid! I am with you. The great powers pass away, but God’s people will remain.
+> These verses appear almost word for word already in Jeremiah 30:10–11. In the middle of the words about the great world powers, God reminds his small people: Don’t be afraid! I am with you. The great powers pass away, but God’s people will remain.

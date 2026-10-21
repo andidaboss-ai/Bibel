@@ -175,4 +175,4 @@ And Gehazi went out from his presence a leper, as white as snow.
 > Gehazi probably wanted to buy land, animals, and servants with the money. Elisha lists all of these.
 > In the end the foreigner is healed and the Israelite is a leper. What matters is not where someone comes from, but the heart.
 > The Bible says “a talent of silver” and “two talents.” A talent is about 75 pounds.
-> “Forever” is a hard punishment. But later Gehazi is mentioned again, telling the king about Elisha’s deeds (Chapter 8:4–5).
+> “Forever” is a hard punishment. But later Gehazi is mentioned again, telling the king about Elisha’s deeds (2 Kings 8:4–5).

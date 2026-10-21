@@ -19,7 +19,7 @@ He said,
 > **What does this mean?**
 > Actually, most of the people who were at Horeb had already died. Even so, Moses says: The covenant was made with us, with you who are alive today.
 > That means: God’s covenant is not only something from the past. It is for every new generation. To this day, Jews say at the Passover festival: Everyone should see himself as if he himself had come out of Egypt.
-> “Face to face” means here: directly, personally. The people did not see any form of God (Chapter 4:12), but they heard his voice directly.
+> “Face to face” means here: directly, personally. The people did not see any form of God (Deuteronomy 4:12), but they heard his voice directly.
 
 ---
 

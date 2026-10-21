@@ -77,7 +77,7 @@ for the spirit of the living creature was in them.
 
 > **What does this mean?**
 > This description repeats much of Chapter 1. Ezekiel wants to make it clear: It is the same God, the same glory, that he saw by the river Chebar.
-> Verse 14: Here there is a difference from Chapter 1:10: Instead of the face of an ox, it says “the face of the cherub.” Why is not completely clear. Maybe the face of an ox was the typical face of a cherub.
+> Verse 14: Here there is a difference from Ezekiel 1:10: Instead of the face of an ox, verse 14 says: the face of the cherub. Why is not completely clear. Maybe the face of an ox was the typical face of a cherub.
 > Verse 13: “Whirling wheels”: The Hebrew word “galgal” means something that turns, like a whirlwind.
 
 ---

@@ -36,9 +36,9 @@ I sat down and wept, and mourned for several days.
 And I fasted and prayed before the God of heaven.
 
 > **What does this mean?**
-> The month Chislev is November/December. The “twentieth year” is the twentieth year of the reign of King Artaxerxes, that is 445 BC (Chapter 2:1).
+> The month Chislev is November/December. The “twentieth year” is the twentieth year of the reign of King Artaxerxes, that is 445 BC (Nehemiah 2:1).
 > Susa was one of the capitals of the Persian Empire, in today’s Iran. The story of Esther also takes place there.
-> Hanani was maybe really Nehemiah’s own brother (compare Chapter 7:2).
+> Hanani was maybe really Nehemiah’s own brother (compare Nehemiah 7:2).
 > The wall had already been destroyed by the Babylonians more than 140 years before. Maybe a later attempt to build it again had failed (Ezra 4:23). At that time a city without a wall was without protection and was seen as a disgrace.
 > Nehemiah lives in wealth at the royal court. But the suffering of his people does not leave him cold. He weeps, fasts and prays.
 
@@ -81,6 +81,6 @@ At that time I was cupbearer to the king.
 > – He confesses the guilt, his own too: “Yes, I and my father’s house have sinned.”
 > – He reminds God of his promises (Deuteronomy 30:1–5).
 > – He asks for help in concrete terms.
-> He prays “day and night”, for four months (from Chislev to Nisan, Chapter 2:1). He waits patiently for the right moment.
+> He prays “day and night”, for four months (from Chislev to Nisan, Nehemiah 2:1). He waits patiently for the right moment.
 > “This man” is the king. For God even the most powerful king in the world is only “a man”.
 > A cupbearer handed the king his wine and tested it first to see whether it was poisoned. He was a close confidant of the king and often had great influence.

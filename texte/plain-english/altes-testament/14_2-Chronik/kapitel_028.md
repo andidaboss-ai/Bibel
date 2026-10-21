@@ -158,5 +158,5 @@ His son Hezekiah became king after him.
 > **What does this mean?**
 > Verse 22 is shocking: “In the time of his distress, he was even more unfaithful to the LORD.” Distress can lead people to God, like Manasseh later (Chapter 33). But it can also drive people even further away from God.
 > Ahaz thinks like a businessman: which god helps most? That one I will worship. But faith is not a trade.
-> Worst of all: he closes the temple. The lamps go out, no more worship takes place (Chapter 29:7).
+> Worst of all: he closes the temple. The lamps go out, no more worship takes place (2 Chronicles 29:7).
 > Ahaz is not buried in the royal tombs. And his son Hezekiah will do exactly the opposite: he opens the temple again.

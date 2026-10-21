@@ -156,7 +156,7 @@ For they said,
 “The people are hungry, tired, and thirsty in the wilderness.”
 
 > **What does this mean?**
-> Mahanaim lies east of the Jordan. That is where Ishbosheth had once been king (Chapter 2:8).
+> Mahanaim lies east of the Jordan. That is where Ishbosheth had once been king (2 Samuel 2:8).
 > Amasa is a cousin of Joab and also a nephew of David. This Abigail is not David’s wife from Chapter 25 of 1 Samuel. 1 Chronicles 2:13–17 says that she was a sister of David. Here it says “daughter of Nahash.” Maybe Nahash was another name for Jesse, or the name of her mother. And in 1 Chronicles 2:17 Ithra is called “Jether the Ishmaelite.”
 > In David’s greatest need, three men come with everything that is needed. One is an Ammonite, a son of Nahash, the former enemy. One is Machir, who had once taken in Mephibosheth. And one is the rich old man Barzillai.
 > They do not ask who will win. They only see: these people are hungry, tired, and thirsty. That is real readiness to help.

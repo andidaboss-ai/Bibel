@@ -152,13 +152,13 @@ Let him go up.’”
 ## Looking back: What have we read in 2 Chronicles?
 
 > **What does this mean?**
-> **Solomon and the temple (Chapters 1–9):** Solomon asks God for wisdom and builds the temple. At the dedication, God’s glory comes into the house in a cloud. God promises: “If my people … will humble themselves, pray, seek my face … then I will hear from heaven, I will forgive” (Chapter 7:14). This verse is the key to the whole book.
+> **Solomon and the temple (Chapters 1–9):** Solomon asks God for wisdom and builds the temple. At the dedication, God’s glory comes into the house in a cloud. God promises: “If my people will humble themselves, pray, and seek my face … then I will hear from heaven. I will forgive their sin” (2 Chronicles 7:14). This verse is the key to the whole book.
 > **The divided kingdom (Chapter 10):** Because Rehoboam does not listen to the people, the kingdom breaks apart into north and south. From then on Chronicles tells about the kings of Judah in Jerusalem.
 > **Good and bad kings (Chapters 11–36):** Again and again the same pattern: whoever seeks God succeeds. Whoever abandons God, God also abandons. But whoever humbles himself finds grace.
 > – **Good kings** like Asa, Jehoshaphat, Hezekiah and Josiah seek God, pray in their need and renew worship. But they too make mistakes.
 > – **Bad kings** like Ahaz and Manasseh serve foreign gods. But even Manasseh, the worst of all, may turn back, and God forgives him.
-> **The prophets:** God sends messengers again and again: Shemaiah, Azariah, Hanani, Micaiah, Jahaziel, Elijah, Zechariah, Oded, Isaiah, Huldah, Jeremiah and many others. God warns before he punishes, because he “had compassion on his people” (Chapter 36:15).
-> **Prayer and praise:** The kings pray in great need, and God helps. Under Jehoshaphat the singers go in front of the army and praise God, and God saves. “The battle is not yours, but God’s” (Chapter 20:15).
+> **The prophets:** God sends messengers again and again: Shemaiah, Azariah, Hanani, Micaiah, Jahaziel, Elijah, Zechariah, Oded, Isaiah, Huldah, Jeremiah and many others. God warns before he punishes, because he “had compassion on his people” (2 Chronicles 36:15).
+> **Prayer and praise:** The kings pray in great need, and God helps. Under Jehoshaphat the singers go in front of the army and praise God, and God saves. “The battle is not yours, but God’s” (2 Chronicles 20:15).
 > **The end and the new beginning:** Because the people mock the prophets, Jerusalem is destroyed. But the book ends with hope: the Persian king Cyrus allows the return and the building of a new temple. The last words are: “Let him go up.”
 > **The lesson of the book:** God looks at the heart. It does not matter how strong an army is or how rich a king, but whether you seek God “with all your heart.” And it is never too late to turn back.
 > **What comes next?** The book of Ezra tells how the exiles return to Jerusalem and build the temple again.

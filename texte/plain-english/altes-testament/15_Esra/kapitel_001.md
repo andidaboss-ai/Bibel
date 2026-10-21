@@ -11,7 +11,7 @@ The book has two parts:
 – Chapters 1–6: The first group returns, led by Zerubbabel and the priest Jeshua. They build the temple again, in spite of much opposition. In the year 515 BC the new temple is dedicated.
 – Chapters 7–10: About 60 years later Ezra comes to Jerusalem. He is a priest and a scribe, a teacher of the law. He teaches the people God’s law and calls them to renewal.
 The book shows: God keeps his promises. He has not forgotten his people. He can even use foreign kings to help his people.
-Part of the book (Chapter 4:8 to 6:18 and 7:12–26) is not written in Hebrew, but in Aramaic. That was the official language of the Persian Empire at that time. That is why the letters and decrees of the kings are copied word for word there.
+Part of the book (Ezra 4:8 to 6:18 and 7:12–26) is not written in Hebrew, but in Aramaic. That was the official language of the Persian Empire at that time. That is why the letters and decrees of the kings are copied word for word there.
 The book of Ezra and the book of Nehemiah originally belonged together.
 
 ---
@@ -79,6 +79,6 @@ when the captives were brought up from Babylon to Jerusalem.
 
 > **What does this mean?**
 > The holy objects that Nebuchadnezzar had taken away come back (2 Chronicles 36:7, 18). This is a sign: worship can begin again.
-> It is not quite clear who Sheshbazzar was. He was the first governor of Judah (Chapter 5:14). Some think he was the same person as Zerubbabel, others think he was an uncle of Zerubbabel.
+> It is not quite clear who Sheshbazzar was. He was the first governor of Judah (Ezra 5:14). Some think he was the same person as Zerubbabel, others think he was an uncle of Zerubbabel.
 > The numbers in verses 9–10 add up to only 2,499, not 5,400. Maybe only the most important objects were counted one by one. Or numbers were changed in copying. A similar report in another ancient book (1 Esdras 2:13–14) has different numbers.
 > The careful counting shows: every piece was valuable and was handed over with care.

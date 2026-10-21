@@ -63,7 +63,7 @@ for the people with Absalom kept growing in number.
 > Absalom lies to his father. He uses a devout vow as an excuse. David says “Go in peace,” without suspecting what his son is planning. It is the last word David says to Absalom.
 > Absalom chooses Hebron. That is where David himself had first become king. Absalom wants to repeat David’s story, against David.
 > The 200 men who go along without knowing anything are like hostages. Everyone is supposed to think that they belong to Absalom.
-> Ahithophel was David’s wisest adviser. That he goes over to Absalom is a heavy blow. Maybe he had a personal reason: Ahithophel was probably Bathsheba’s grandfather (compare Chapter 11:3 and 23:34).
+> Ahithophel was David’s wisest adviser. That he goes over to Absalom is a heavy blow. Maybe he had a personal reason: Ahithophel was probably Bathsheba’s grandfather (compare 2 Samuel 11:3 and 23:34).
 
 ---
 
@@ -91,7 +91,7 @@ passed by in front of the king.
 > **What does this mean?**
 > David flees at once. He does not want Jerusalem to be destroyed in a battle. He wants no bloodshed in the city.
 > The great king who conquered Jerusalem now has to flee from his own son.
-> He leaves 10 concubines behind to take care of the palace. That will have terrible consequences (Chapter 16:21–22).
+> He leaves 10 concubines behind to take care of the palace. That will have terrible consequences (2 Samuel 16:21–22).
 > “Beth Merhak” means “the distant house.” It probably means the last house at the edge of the city.
 > David’s most faithful people are his foreign soldiers: Cherethites, Pelethites, and men from Gath.
 

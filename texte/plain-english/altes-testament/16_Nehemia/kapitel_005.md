@@ -110,5 +110,5 @@ for all the good that I have done for this people.
 > As governor he would have been allowed to demand payments from the people. But he did not do it, because the people were already suffering enough. He paid for everything out of his own pocket, even the guests at his table.
 > Verse 15 says “40 shekels of silver”. A shekel is about 0.4 ounces.
 > “We didn’t buy any land”: he did not use his position to buy land cheaply from poor people in debt.
-> Verse 19 is a prayer that Nehemiah speaks several times (Chapter 13:14, 22, 31). He asks God to remember the good he has done. He does not seek praise from people, but from God.
+> Verse 19 is a prayer that Nehemiah speaks several times (Nehemiah 13:14, 22, 31). He asks God to remember the good he has done. He does not seek praise from people, but from God.
 > Nehemiah is an example of leadership: he serves the people, instead of letting them serve him. Jesus later says: “Whoever wants to become great among you must be your servant” (Mark 10:43).

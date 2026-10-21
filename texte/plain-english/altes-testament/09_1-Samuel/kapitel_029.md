@@ -29,7 +29,7 @@ than with the heads of these men?
 and David his ten thousands’?”
 
 > **What does this mean?**
-> Here the storyteller jumps back a little: The Philistines first gather at Aphek, before they march north to Shunem (Chapter 28:4).
+> Here the storyteller jumps back a little: The Philistines first gather at Aphek, before they march north to Shunem (1 Samuel 28:4).
 > The other lords of the Philistines are more suspicious than Achish. They say: In battle David could change sides and attack us from behind. In this way he could make peace with Saul again.
 > Once again the famous song is quoted. David’s fame follows him even among his enemies.
 

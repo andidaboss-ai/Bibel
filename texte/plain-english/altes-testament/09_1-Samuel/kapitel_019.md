@@ -130,4 +130,4 @@ That is why people say,
 > Three times Saul sends soldiers to catch David. But every time the Spirit of God comes on them, and they begin to prophesy instead of arresting David. God protects David in a very unusual way.
 > Then Saul comes himself. And he too is taken hold of by the Spirit of God. He tears off his clothes and lies there for a day and a night. “Naked” can also mean here: only in his underclothes, without his outer robe and his royal clothes.
 > This is a deep picture: The king who fights against God’s will is made helpless by God. He lies on the ground before Samuel, the prophet whom he had not seen since Chapter 15.
-> We already know the saying “Is Saul also among the prophets?” from Chapter 10:11–12. Back then it was a sign of Saul’s new beginning. Now it is a sign of his helplessness.
+> We already know the saying “Is Saul also among the prophets?” from 1 Samuel 10:11–12. Back then it was a sign of Saul’s new beginning. Now it is a sign of his helplessness.

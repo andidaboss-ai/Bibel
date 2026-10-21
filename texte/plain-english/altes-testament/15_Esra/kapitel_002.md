@@ -100,7 +100,7 @@ the descendants of Akkub, the descendants of Hatita, the descendants of Shobai,
 in all 139.
 
 > **What does this mean?**
-> Only a few Levites return, far fewer than priests. Maybe in Babylon they had little reason to hope that they would find a good task in Jerusalem. Later Ezra had to search especially for Levites (Chapter 8:15–20).
+> Only a few Levites return, far fewer than priests. Maybe in Babylon they had little reason to hope that they would find a good task in Jerusalem. Later Ezra had to search especially for Levites (Ezra 8:15–20).
 
 ---
 

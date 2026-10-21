@@ -108,7 +108,7 @@ cattle, donkeys, and sheep, with the sword.
 > Saul’s soldiers refuse. They do not want to kill priests of the LORD. This is brave disobedience. There are orders that must not be followed. Whoever is told to kill innocent people must refuse.
 > Doeg, a foreigner with no respect for God, carries out the cruel order. He kills 85 priests. The old Greek translation has 305.
 > Then Saul destroys the whole town of Nob, with women, children, and animals. This is shocking: Against the Amalekites Saul had not fully carried out God’s command (Chapter 15). But against God’s own priests he carries out a complete destruction out of hatred. That is how far Saul has fallen.
-> Here the dark announcement about the house of Eli also comes true (Chapter 2:31–33).
+> Here the dark announcement about the house of Eli also comes true (1 Samuel 2:31–33).
 
 ---
 
@@ -129,5 +129,5 @@ You will be safe with me.”
 
 > **What does this mean?**
 > David takes responsibility. He says: It is my fault. I lied to the priest, and I saw Doeg. That makes him different from Saul, who always blames others.
-> David takes Abiathar under his protection. From now on David has a priest with him. Abiathar brings the ephod with him, with which people can ask God for answers (Chapter 23:6).
+> David takes Abiathar under his protection. From now on David has a priest with him. Abiathar brings the ephod with him, with which people can ask God for answers (1 Samuel 23:6).
 > Saul has killed the priests, and with them the possibility of asking God. But David now has a priest and a prophet with him.

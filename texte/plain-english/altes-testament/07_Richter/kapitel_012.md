@@ -27,7 +27,7 @@ You live in the middle of Ephraim and in the middle of Manasseh.”
 
 > **What does this mean?**
 > “To the north”: The Hebrew word “Zaphon” can mean “north,” but it can also be a city with this name east of the Jordan (Joshua 13:27).
-> Ephraim complains again, as it did with Gideon (Chapter 8:1). But Jephthah does not answer as gently as Gideon. He becomes angry.
+> Ephraim complains again, as it did with Gideon (Judges 8:1). But Jephthah does not answer as gently as Gideon. He becomes angry.
 > The men of Ephraim insult the Gileadites: You are only runaways, people without a real home! Mocking like this can start wars.
 > It comes to a war between brothers, Israelites against Israelites. This is a sign of how deeply Israel has fallen.
 

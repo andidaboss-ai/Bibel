@@ -73,7 +73,7 @@ So he lived among the people.
 > **What does this mean?**
 > Of all people, it is the enemy king who treats Jeremiah well. Perhaps he had heard that Jeremiah had advised surrender.
 > Verse 14: Jeremiah is handed over to Gedaliah. Gedaliah is the son of Ahikam, who had already saved Jeremiah earlier (26:24). The family of Shaphan stays loyal to Jeremiah. Gedaliah soon becomes governor of the land (Chapter 40).
-> (Chapter 40:1–6 tells about this release somewhat differently and in more detail.)
+> (Jeremiah 40:1–6 tells about this release somewhat differently and in more detail.)
 
 ---
 

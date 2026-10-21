@@ -150,10 +150,10 @@ She was a woman with a beautiful face.
 
 > **What does this mean?**
 > Absalom is handsome, as Saul was (1 Samuel 9:2). And as with Saul, the beauty is on the outside. What is in his heart will soon show.
-> His thick, long hair is his pride. Later it will be his downfall (Chapter 18:9).
+> His thick, long hair is his pride. Later it will be his downfall (2 Samuel 18:9).
 > The Bible says “200 shekels.” A shekel is about 0.4 ounces. That is a lot of hair. The number is probably meant to show how unusual he was.
 > Absalom names his daughter Tamar, after his sister. That is a loving sign of remembering her.
-> In Chapter 18:18 Absalom says that he has no son. Maybe his sons died young.
+> In 2 Samuel 18:18 Absalom says that he has no son. Maybe his sons died young.
 
 ---
 

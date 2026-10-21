@@ -122,4 +122,4 @@ are written in the book of the chronicles of the kings of Israel.
 > **What does this mean?**
 > Ahaziah had no son. That is why his brother Jehoram became king.
 > This can be confusing: at the same time there were two kings named Jehoram (also called Joram): one in Israel (Ahab’s son) and one in Judah (Jehoshaphat’s son).
-> The dates in the books of Kings are sometimes hard to fit together. Chapter 3:1 gives a different date. Probably some kings ruled together with their father for a while, and the years were counted in different ways.
+> The dates in the books of Kings are sometimes hard to fit together. 2 Kings 3:1 gives a different date. Probably some kings ruled together with their father for a while, and the years were counted in different ways.

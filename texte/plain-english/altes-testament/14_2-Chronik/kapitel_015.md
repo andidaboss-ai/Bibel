@@ -97,7 +97,7 @@ silver, gold, and other objects.
 [19] There was no more war until the thirty-fifth year that Asa was king.
 
 > **What does this mean?**
-> Maacah was really Asa’s grandmother (the mother of Abijah, Chapter 11:20). In Hebrew, “mother” can also mean “grandmother”. The “queen mother” had great influence at the court.
+> Maacah was really Asa’s grandmother (the mother of Abijah, 2 Chronicles 11:20). In Hebrew, “mother” can also mean “grandmother”. The “queen mother” had great influence at the court.
 > Asa acts even against his own family when it is about God. That was brave.
-> Verse 17 seems to contradict Chapter 14:5, where Asa removed the high places. One explanation: Asa removed the high places for foreign gods. The high places where people sacrificed to the LORD remained. Or: “Israel” here means the conquered areas in the north.
+> Verse 17 seems to contradict 2 Chronicles 14:5, where Asa removed the high places. One explanation: Asa removed the high places for foreign gods. The high places where people sacrificed to the LORD remained. Or: “Israel” here means the conquered areas in the north.
 > “Asa’s heart was completely faithful”: the WEB, our English source text, says “perfect”. This does not mean that Asa was without mistakes, but that he was faithful to God with an undivided heart. Chapter 16 shows that Asa did make mistakes later.

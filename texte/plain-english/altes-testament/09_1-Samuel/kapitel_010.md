@@ -87,7 +87,7 @@ he came to the high place.
 > “God gave him another heart”: Saul is changed on the inside. God prepares him for his task.
 > The people are amazed: Saul, the son of a rich farmer, suddenly speaks like a prophet? That does not fit him.
 > “Who is their father?” is a difficult question. Maybe it means: You do not become a prophet because of your family. The Spirit comes from God, not from your father. So Saul can be a prophet too.
-> “Is Saul also among the prophets?” became a saying. People said it when someone did something completely unexpected. Chapter 19:24 tells how the saying is used once more.
+> “Is Saul also among the prophets?” became a saying. People said it when someone did something completely unexpected. 1 Samuel 19:24 tells how the saying is used once more.
 
 ---
 

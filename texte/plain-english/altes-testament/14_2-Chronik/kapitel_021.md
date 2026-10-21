@@ -108,8 +108,8 @@ They buried him in the City of David,
 but not in the tombs of the kings.
 
 > **What does this mean?**
-> Jehoram had killed his brothers. Now he himself loses his sons. Only the youngest is left. In Chapter 22:1 Jehoahaz is called “Ahaziah”. Both names mean almost the same: “The LORD has taken hold”.
+> Jehoram had killed his brothers. Now he himself loses his sons. Only the youngest is left. In 2 Chronicles 22:1 Jehoahaz is called “Ahaziah”. Both names mean almost the same: The LORD has taken hold.
 > “Ethiopians”: the Hebrew says “Cushites”.
-> The “fire” is the fire of honor with spices, as for Asa (Chapter 16:14). Jehoram did not receive this honor.
+> The “fire” is the fire of honor with spices, as for Asa (2 Chronicles 16:14). Jehoram did not receive this honor.
 > Verse 20 is a sad verdict: “He died, and no one was sad about it.” No one mourned for him. A life that was built only on power and violence leaves no love behind.
 > The Bible does not say here that every illness is a punishment. Jesus clearly rejected that (John 9:1–3). This is about this one king and his judgment.

@@ -29,7 +29,7 @@ You must put them in God’s house.”
 
 > **What does this mean?**
 > First they search in Babylon and find nothing. Then they find the document in Achmetha. That is Ecbatana, the summer capital of the Persian kings, today Hamadan in Iran. Cyrus had lived there in the summer.
-> The Bible says “60 cubits.” A cubit is about 18 inches. That is bigger than Solomon’s temple (2 Chronicles 3:3–4). These are probably the largest measurements the king allowed. In fact, the new temple was probably smaller and more modest (compare Chapter 3:12 and Haggai 2:3).
+> The Bible says “60 cubits.” A cubit is about 18 inches. That is bigger than Solomon’s temple (2 Chronicles 3:3–4). These are probably the largest measurements the king allowed. In fact, the new temple was probably smaller and more modest (compare Ezra 3:12 and Haggai 2:3).
 > The decree is copied here in its official form, in Aramaic. It adds to the text in Chapter 1.
 
 ---
@@ -93,7 +93,7 @@ That was in the sixth year that Darius was king.
 > **What does this mean?**
 > The temple was finished in the spring of 515 BC, about 70 years after the destruction of the first temple. The month Adar is February/March.
 > Verse 14 names two reasons for the success: God’s command and the orders of the kings. God works through both.
-> Artaxerxes reigned only later. He is named here because he later supported the temple with gifts (Chapter 7:15–24).
+> Artaxerxes reigned only later. He is named here because he later supported the temple with gifts (Ezra 7:15–24).
 > This “second temple” stood for almost 600 years. Later Herod the Great made it much larger and more splendid. That was the temple in which Jesus taught. In AD 70 it was destroyed by the Romans.
 
 ---

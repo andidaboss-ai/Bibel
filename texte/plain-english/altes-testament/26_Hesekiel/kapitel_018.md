@@ -206,5 +206,5 @@ says the Lord GOD.
 
 > **What does this mean?**
 > The chapter ends with a passionate invitation. God asks: “Why should you die?” You can hear how much God wants his people to live.
-> Verse 31: “Make yourselves a new heart.” In Chapter 11:19 and 36:26, God promises that he himself will give them a new heart. Both belong together: God gives the new beginning, and people should accept it and open themselves to it.
+> Verse 31: “Make yourselves a new heart.” In Ezekiel 11:19 and 36:26, God promises that he himself will give them a new heart. Both belong together: God gives the new beginning, and people should accept it and open themselves to it.
 > Verse 32: “So turn back, and live!” That is the main message of this chapter and maybe of the whole book of Ezekiel. It is never too late to turn back.

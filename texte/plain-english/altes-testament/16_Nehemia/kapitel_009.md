@@ -244,6 +244,6 @@ We are in great distress.
 Our princes, our Levites, and our priests are sealing it.”
 
 > **What does this mean?**
-> In some Bibles this verse is already Chapter 10:1. That is why the verses of Chapter 10 there are shifted by one.
+> In some Bibles this verse is already Nehemiah 10:1. That is why the verses of Chapter 10 there are shifted by one.
 > After the confession comes the decision: we want to do things differently now. We make a covenant and sign it.
 > Real turning back does not stop at words. It leads to deeds.

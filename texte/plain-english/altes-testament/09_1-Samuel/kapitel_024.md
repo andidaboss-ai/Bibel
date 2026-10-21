@@ -35,7 +35,7 @@ Saul got up, left the cave, and went on his way.
 > Saul is hunting David with 3,000 elite soldiers. And then he goes into the very cave where David is hiding. He is alone, defenseless, with his back to them.
 > David’s men say: This is your chance! God has given him into your hand! A word from God like the one they quote does not appear anywhere earlier. Maybe they are simply explaining the situation this way.
 > David sneaks up to Saul. But he does not kill him. He only cuts off an edge of his robe. And even that makes him feel sorry afterward. His conscience troubles him.
-> Why? The edge of the robe was a sign of dignity and power. Let us remember: Saul once tore off the edge of Samuel’s robe, and Samuel said that the kingdom would be torn from him in the same way (Chapter 15:27–28). David does not want to take the kingdom away from Saul himself. He wants to wait until God gives it to him.
+> Why? The edge of the robe was a sign of dignity and power. Let us remember: Saul once tore off the edge of Samuel’s robe, and Samuel said that the kingdom would be torn from him in the same way (1 Samuel 15:27–28). David does not want to take the kingdom away from Saul himself. He wants to wait until God gives it to him.
 > “The LORD’s anointed”: Saul is still appointed by God. David respects that, even though Saul is persecuting him. He leaves the judgment to God.
 
 ---

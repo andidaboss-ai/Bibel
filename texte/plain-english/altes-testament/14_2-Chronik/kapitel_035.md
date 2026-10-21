@@ -129,7 +129,7 @@ are written in the book of the kings of Israel and Judah.
 > **What does this mean?**
 > In the year 609 BC, Pharaoh Neco II marched north to help the Assyrians against the Babylonians. Josiah wanted to stop him.
 > The astonishing thing: this time God spoke through a foreign king. Neco warned Josiah. But Josiah did not listen. He probably did not think it possible that God would speak through an Egyptian.
-> Like Ahab (Chapter 18:29), Josiah disguises himself. And like Ahab, he is struck by archers. Even such a good king can make a deadly mistake if he does not listen.
+> Like Ahab (2 Chronicles 18:29), Josiah disguises himself. And like Ahab, he is struck by archers. Even such a good king can make a deadly mistake if he does not listen.
 > The mourning for Josiah was huge. He was the last good king of Judah. The prophet Zechariah, much later, still mentions the great mourning “in the valley of Megiddo” (Zechariah 12:11).
 > The “Lamentations” in verse 25 are not the same as the biblical book of Lamentations, which mourns the destruction of Jerusalem. This collection no longer exists.
 > The word “Armageddon” (mountain of Megiddo) in Revelation 16:16 comes from the name Megiddo.

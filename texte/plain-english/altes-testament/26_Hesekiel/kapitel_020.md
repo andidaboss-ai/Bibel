@@ -294,6 +294,6 @@ They are saying about me,
 ‘Isn’t he just telling stories in pictures?’”
 
 > **What does this mean?**
-> Note: In some Bibles these verses are Chapter 21:1–5. Here we follow the numbering of the WEB.
+> Note: In some Bibles these verses are Ezekiel 21:1–5. Here we follow the numbering of the WEB.
 > Seen from Babylon, the “south” is Judah and Jerusalem (people came into the land from the north). A forest fire will burn up everything, green and dry trees, that is, righteous and unrighteous people. In Chapter 21 the picture is explained.
 > Verse 49: Ezekiel complains: The people do not take him seriously. They say: “Isn’t he just telling stories in pictures?” You can brush off God’s word as mere entertainment, but then you miss its serious message.

@@ -20,7 +20,7 @@ oxen and sheep, camels and donkeys.’”
 
 > **What does this mean?**
 > This is one of the hardest texts in the whole Bible. We do not leave it out, but we want to explain it honestly.
-> The Amalekites were a people in the south who moved around with their herds. They had attacked Israel after it left Egypt. They attacked the weak and tired people at the end of the line (Exodus 17:8–16; Deuteronomy 25:17–19). Later, too, they attacked Israel again and again (Chapter 14:48).
+> The Amalekites were a people in the south who moved around with their herds. They had attacked Israel after it left Egypt. They attacked the weak and tired people at the end of the line (Exodus 17:8–16; Deuteronomy 25:17–19). Later, too, they attacked Israel again and again (1 Samuel 14:48).
 > In Hebrew, “completely destroy” means “to carry out the ban” (cherem). In war this meant: Nothing could be taken as plunder. Everything was handed over to God and destroyed, even people and animals. We have already read about this in the book of Joshua.
 > That God commands to kill women, children, and babies too frightens every reader. Jews and Christians have struggled with this for a long time. Some understand the text like this: It was a one-time judgment of God on a people that had acted cruelly against the weak again and again (verse 33). Others understand it as an expression of the language of war and the ideas of that time. Many Jewish Bible teachers say: “Amalek” today is not a people that anyone may fight, but a picture of the evil in the world and in your own heart.
 > Very important: This text must never be used to justify violence against people or nations. No one today may appeal to this command. Jesus taught that we should love our enemies (Matthew 5:44).
@@ -54,7 +54,7 @@ They destroyed only what was worthless and of no use.
 > The Kenites were the people that Moses’ father-in-law belonged to (Judges 1:16). They had helped Israel in the wilderness. Saul warns them and lets them go. This shows: It was not about killing all people. Whoever had done good was spared.
 > Saul obeys only halfway. He spares the king, probably to show him off as a trophy. And he keeps the best animals. Only what is worthless is destroyed.
 > This shows what really drives Saul: not obedience to God, but his own advantage and his reputation.
-> “He completely destroyed all the people”: Still, later there are Amalekites again (Chapter 27:8; 30:1). This probably means the people in this area, not every single Amalekite.
+> “He completely destroyed all the people”: Still, later there are Amalekites again (1 Samuel 27:8; 30:1). This probably means the people in this area, not every single Amalekite.
 
 ---
 
@@ -170,7 +170,7 @@ And Saul worshiped the LORD.
 > **What does this mean?**
 > At last Saul says: “I have sinned.” But then right away he says why: I was afraid of the people. A king who is more afraid of people than of God cannot lead his people well.
 > The second time we see what Saul really cares about: “Please honor me now before the elders.” He wants to look good to others.
-> The torn-off edge of the robe becomes a sign: Just as the robe is torn, the kingdom is torn away from Saul. The “neighbor” who is better is David. Later David will cut off an edge of Saul’s robe (Chapter 24:4).
+> The torn-off edge of the robe becomes a sign: Just as the robe is torn, the kingdom is torn away from Saul. The “neighbor” who is better is David. Later David will cut off an edge of Saul’s robe (1 Samuel 24:4).
 > “The Strength of Israel” is a name for God. The Hebrew word can also mean “glory” or “faithfulness.”
 > In verses 11 and 35 it says that God was “sorry.” In verse 29 it says that God does not “change his mind.” In Hebrew it is the same word. Is that a contradiction? It is about two different things: God has feelings. He is sad about Saul (verses 11 and 35). But God does not change his just judgment like a person who can easily be talked into something else (verse 29). God is both caring and reliable.
 > In the end Samuel does go with Saul, probably so that the people are not divided.

@@ -44,7 +44,7 @@ Then he will die because of his guilt,
 but you have saved your life.
 
 > **What does this mean?**
-> Here the third part of the book begins. God calls Ezekiel once more to be a “watchman,” as he already did in Chapter 3:16–21.
+> Here the third part of the book begins. God calls Ezekiel once more to be a “watchman,” as he already did in Ezekiel 3:16–21.
 > The picture is simple: A watchman on the city wall is to sound the alarm when enemies come. If he warns and the people do not listen, it is their own fault. If he stays silent, he shares the guilt.
 > The repetition shows: Even after the disaster, Ezekiel’s task stays the same. He is to warn the people and call them to turn back. But now the goal is that they live.
 
@@ -103,7 +103,7 @@ People of Israel, I will judge each one of you by his ways.’”
 
 > **What does this mean?**
 > Verse 10: After the disaster, the people are in despair: “Our wrongdoings and our sins weigh on us, and we are wasting away because of them. How can we live?” They have lost all hope.
-> Verse 11: God’s answer is one of the most beautiful sentences in the Bible: “I take no pleasure in the death of the wicked. I want the wicked to turn from his way and live. Turn back, turn back from your evil ways! Why should you die” (see Chapter 18:23, 32). God wants life, not death.
+> Verse 11: God’s answer is one of the most beautiful sentences in the Bible: “I take no pleasure in the death of the wicked. I want the wicked to turn from his way and live. Turn back, turn back from your evil ways! Why should you die” (verse 11). The same thought is in Ezekiel 18:23 and 18:32. God wants life, not death.
 > Verses 12–20: This repeats the message from Chapter 18: Every person can turn back. The past does not have to decide the future.
 > Verse 15: Turning back is very practical: giving back what was stolen, making up for wrong (see Zacchaeus in Luke 19:8).
 > If you feel that your guilt or your situation is crushing you, and you see no way out: Talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

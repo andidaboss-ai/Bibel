@@ -37,7 +37,7 @@ Then I can eat from her hand.”
 “Please go to your brother Amnon’s house and make some food for him.”
 
 > **What does this mean?**
-> Here the trouble begins in David’s family that Nathan had announced (Chapter 12:10–11).
+> Here the trouble begins in David’s family that Nathan had announced (2 Samuel 12:10–11).
 > Amnon is David’s oldest son. Tamar is his half-sister, the sister of Absalom. They have the same father but different mothers.
 > Amnon calls it “love.” But what he feels is not love. It is lust. Real love wants what is good for the other person. Amnon only wants to have.
 > Jonadab, a cousin, helps him with a sly plan. And David himself, without suspecting anything, sends his daughter into the trap.
@@ -214,6 +214,6 @@ He had been comforted about Amnon, because Amnon was dead.
 
 > **What does this mean?**
 > Jonadab, who had given Amnon the evil plan, knows what is going on now too. He apparently knew for a long time that Absalom would take revenge. He did nothing to stop it.
-> Absalom flees to his grandfather Talmai, the king of Geshur (Chapter 3:3). Geshur was northeast of the Sea of Galilee.
+> Absalom flees to his grandfather Talmai, the king of Geshur (2 Samuel 3:3). Geshur was northeast of the Sea of Galilee.
 > David mourns for a long time. For whom? For Amnon, who is dead? For Absalom, who is gone? Probably for both.
 > Verse 39 is not completely clear in Hebrew. It can also mean that David’s anger against Absalom faded. David misses his son in spite of everything.

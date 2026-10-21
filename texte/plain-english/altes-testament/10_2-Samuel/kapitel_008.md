@@ -16,7 +16,7 @@ So the Moabites became David’s servants and brought him tribute.
 Tribute is money or goods that a defeated people had to pay.
 
 > **What does this mean?**
-> This chapter is a summary of David’s wars. It shows that God’s promise “I will give you rest from all your enemies” (Chapter 7:11) is coming true.
+> This chapter is a summary of David’s wars. It shows that God’s promise “I will give you rest from all your enemies” (2 Samuel 7:11) is coming true.
 > “The bridle of the mother city” is hard to understand in Hebrew. It says “Metheg Ammah.” Maybe it is the name of a place. Maybe it means: David took over the rule of the main city of the Philistines. 1 Chronicles 18:1 says: he took Gath.
 > What David does with the Moabites is cruel. He has captured soldiers lie down on the ground in rows and has two thirds of them killed. In those days this was a practice of war to weaken a defeated people. The Bible tells it without praising it. It is not an example.
 > This is all the more shocking because David’s great-grandmother Ruth was a Moabite, and the king of Moab had once protected David’s parents (1 Samuel 22:3–4). The text does not say why David acted so harshly.

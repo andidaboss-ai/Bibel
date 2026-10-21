@@ -43,7 +43,7 @@ If you mock, you alone will suffer for it.
 
 > **What does this mean?**
 > Verses 7–9: A test: How does someone react to criticism? The mocker becomes angry. The wise person is thankful and learns from it. Wise people are glad to be corrected.
-> Verse 10: Here the motto from Chapter 1:7 is repeated. So the first big part of the book ends the way it began.
+> Verse 10: Here the motto from Proverbs 1:7 is repeated. So the first big part of the book ends the way it began.
 > Verse 12: Everyone is responsible for himself. Wisdom helps you yourself. Mocking harms you yourself.
 
 ---

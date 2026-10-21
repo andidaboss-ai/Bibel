@@ -39,7 +39,7 @@ so that you cannot turn from one side to the other
 until you have finished the days of your siege.
 
 > **What does this mean?**
-> Ezekiel cannot speak (Chapter 3:26). That is why he “preaches” with sign actions, like street theater. He draws Jerusalem on a clay brick and acts out the siege, with ramps, camps, and battering rams. The exiles in Babylon hoped that Jerusalem would be spared. Ezekiel shows them: The city will be put under siege.
+> Ezekiel cannot speak (Ezekiel 3:26). That is why he “preaches” with sign actions, like street theater. He draws Jerusalem on a clay brick and acts out the siege, with ramps, camps, and battering rams. The exiles in Babylon hoped that Jerusalem would be spared. Ezekiel shows them: The city will be put under siege.
 > Verse 2: A siege is when an army surrounds a city and attacks it. Battering rams are heavy beams for breaking down walls and gates.
 > Verse 3: The iron pan shows a separation: God has turned away from the city, as if behind a wall of iron.
 > Verses 4–6: 390 days on the left side for Israel (the northern kingdom), 40 days on the right side for Judah. Each day stands for one year of guilt. What exactly the numbers mean is still uncertain today. Bible scholars have suggested different explanations.

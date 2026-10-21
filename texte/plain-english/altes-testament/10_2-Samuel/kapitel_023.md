@@ -160,8 +160,8 @@ There were 37 in all.
 
 > **What does this mean?**
 > This is a list of “the 30,” David’s best fighting men. “The 30” was probably the name of the group, even if there were sometimes more and sometimes fewer men.
-> Asahel stands at the beginning. He had died early (Chapter 2:23). The list honors the dead too.
+> Asahel stands at the beginning. He had died early (2 Samuel 2:23). The list honors the dead too.
 > Among the mighty men there are also foreigners: an Ammonite, a man from Zobah in Syria, and Uriah the Hittite.
-> Eliam, the son of Ahithophel, was probably Bathsheba’s father (Chapter 11:3).
+> Eliam, the son of Ahithophel, was probably Bathsheba’s father (2 Samuel 11:3).
 > And at the end there is a name that stabs the heart: “Uriah the Hittite.” The faithful soldier whom David had killed. The Bible deliberately puts him at the end of this list of honor. He is not forgotten. And David’s guilt is not kept quiet.
 > “37 in all”: if you add the three, Abishai, and Benaiah to the names in this list, you get about this number. It is not certain exactly how they were counted.

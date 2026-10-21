@@ -52,7 +52,7 @@ For they were all asleep,
 because a deep sleep from the LORD had fallen on them.
 
 > **What does this mean?**
-> Once again the Ziphites betray David (as in Chapter 23:19). Once again Saul hunts him with 3,000 men, even though in Chapter 24 he had promised to stop.
+> Once again the Ziphites betray David (as in 1 Samuel 23:19). Once again Saul hunts him with 3,000 men, even though in Chapter 24 he had promised to stop.
 > This time David himself goes into the enemy’s camp, in the middle of the night. Abishai is David’s nephew. His mother Zeruiah was David’s sister (1 Chronicles 2:16). Abishai and his brother Joab will later be David’s most important army commanders.
 > Abishai says the same thing as David’s men in the cave: God has given him to you! Let me kill him. And David answers again: No. God will act himself, when and how he wants.
 > The spear was Saul’s sign of power. With this spear Saul had tried several times to kill David. Now David takes it away without using it.

@@ -62,10 +62,10 @@ in the first days, at the beginning of the barley harvest.
 > **What does this mean?**
 > This is one of the hardest stories in the Bible. Seven men die for a guilt that was not their own.
 > The law actually says clearly: “Children shall not be put to death for their fathers” (Deuteronomy 24:16). This story stands in tension with that. It shows how the old idea of blood revenge was still alive in Israel at that time.
-> Some interpreters also ask whether David was not glad to get rid of possible rivals from Saul’s family. After all, Shimei had accused him of being a “man of blood” toward the house of Saul (Chapter 16:8).
+> Some interpreters also ask whether David was not glad to get rid of possible rivals from Saul’s family. After all, Shimei had accused him of being a “man of blood” toward the house of Saul (2 Samuel 16:8).
 > David spares Mephibosheth, Jonathan’s son. He keeps his promise to Jonathan.
 > Here there is another Mephibosheth, a son of Saul and Rizpah.
-> “Merab”: that is what the WEB, our English source text, and some manuscripts say. The main Hebrew text says “Michal.” But Merab was married to Adriel (1 Samuel 18:19), and Michal had no children (Chapter 6:23).
+> “Merab”: that is what the WEB, our English source text, and some manuscripts say. The main Hebrew text says “Michal.” But Merab was married to Adriel (1 Samuel 18:19), and Michal had no children (2 Samuel 6:23).
 > We read this text as a report from a harsh time, not as an example. No one today may punish people for what their parents did.
 
 ---

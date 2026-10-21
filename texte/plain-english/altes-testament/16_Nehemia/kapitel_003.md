@@ -135,7 +135,7 @@ to the wall of the Ophel.
 
 > **What does this mean?**
 > The Ophel is the hill between the old City of David and the temple mount.
-> The “Water Gate” was probably called that because the way to the Gihon spring led from there. On the square in front of the Water Gate, Ezra later read the law to the people (Chapter 8:1).
+> The “Water Gate” was probably called that because the way to the Gihon spring led from there. On the square in front of the Water Gate, Ezra later read the law to the people (Nehemiah 8:1).
 > The people of Tekoa build a second section, although their nobles did not help (verse 5).
 
 ---

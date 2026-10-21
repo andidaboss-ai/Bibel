@@ -63,7 +63,7 @@ At the same time Asa treated some of the people cruelly.
 > Hanani reminds Asa of Chapter 14: back then the army was much larger, and Asa trusted God. Now the danger was smaller, but Asa no longer asked God.
 > Verse 9 is a wonderful sentence: God looks over the whole earth. He looks for people whose hearts are completely faithful to him, so that he can help them. God is not looking for mistakes, but for chances to help.
 > Asa’s reaction is sad. Instead of turning back, he becomes angry and locks up the prophet. And he oppresses people. The king who was once so faithful has become hard in his old age.
-> “Ethiopians”: the Hebrew says “Cushites” (see Chapter 14:9).
+> “Ethiopians”: the Hebrew says “Cushites” (see 2 Chronicles 14:9).
 
 ---
 
@@ -88,4 +88,4 @@ And they made a huge fire in his honor.
 > Verse 12 does not mean that it is wrong to go to the doctor! The Bible respects doctors (for example Sirach 38; Luke was a doctor, Colossians 4:14). The accusation is: Asa “only” went to the doctors and no longer sought God at all. He had pushed God completely out of his life.
 > Today Jews and Christians say: go to the doctor, and pray as well. Both belong together.
 > The “huge fire” was not a burning of the dead body. It was a fire of honor, in which spices were burned in honor of the king (compare Jeremiah 34:5).
-> In spite of his late mistakes, Asa is honored. All in all he was a good king (Chapter 15:17).
+> In spite of his late mistakes, Asa is honored. All in all he was a good king (2 Chronicles 15:17).

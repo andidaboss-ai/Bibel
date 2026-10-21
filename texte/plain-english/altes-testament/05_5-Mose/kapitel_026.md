@@ -84,7 +84,7 @@ a land flowing with milk and honey.”
 
 > **What does this mean?**
 > Verse 12: A tithe is a tenth part.
-> Every third year the tithe belongs to the poor (see Chapter 14:28–29). Afterward, people should declare before God: I really did pass it on.
+> Every third year the tithe belongs to the poor (see Deuteronomy 14:28–29). Afterward, people should declare before God: I really did pass it on.
 > “For the dead”: Among some nations, people put food in the grave with the dead or made sacrifices for them. Israel should not do that with the holy tithe.
 > At the end there is a beautiful prayer: “Look down … from heaven, and bless your people Israel.” Whoever shares with the poor may ask for God’s blessing.
 

@@ -41,7 +41,7 @@ says the Lord GOD.’”
 
 > **What does this mean?**
 > The prince of Tyre is so rich and powerful that he thinks he is a god. That is the heart of all pride: A human being puts himself in God’s place.
-> Verse 3: “Wiser than Daniel” is meant with irony. About “Daniel,” see Chapter 14:14.
+> Verse 3: “Wiser than Daniel” is meant with irony. About “Daniel,” see Ezekiel 14:14.
 > Verse 9: A sharp question: Will you still say “I am God” when someone kills you? At the latest in death it becomes clear: Every human being must die.
 > Verse 10: To die “the death of the uncircumcised” means to die a shameful death, without honor.
 > This warning is still true today: Whoever thinks that wealth, success, or power puts him above everything will one day notice that he is only a human being.

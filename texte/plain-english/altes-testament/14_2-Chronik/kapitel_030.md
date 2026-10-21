@@ -117,7 +117,7 @@ by the rules of the holy place.”
 He healed the people.
 
 > **What does this mean?**
-> The altars that Ahaz had built everywhere in Jerusalem (Chapter 28:24) are removed.
+> The altars that Ahaz had built everywhere in Jerusalem (2 Chronicles 28:24) are removed.
 > The priests and Levites “were ashamed”: the people were more eager than they were. That spurred them on.
 > Verses 18–20 are among the most important passages in Chronicles. Many people from the north had not been made clean according to the rules. Actually, they were not allowed to eat the Passover. But Hezekiah prays for them: God, forgive everyone who seeks you with their heart, even if they do not keep all the rules.
 > And God listens to him. The heart is more important to God than the outward form. Jesus says something similar: God wants mercy (Matthew 9:13; 12:7).
@@ -155,7 +155,7 @@ God heard their voice.
 Their prayer reached his holy home in heaven.
 
 > **What does this mean?**
-> The joy is so great that the feast is simply made longer, by another week. That was already the case at the dedication of Solomon’s temple (Chapter 7:8–9).
+> The joy is so great that the feast is simply made longer, by another week. That was already the case at the dedication of Solomon’s temple (2 Chronicles 7:8–9).
 > Everyone celebrates together: Judah and Israel, priests and people, and also the foreigners. God’s feast is open to all who come.
 > “Since the time of Solomon”: for the first time since the kingdom was divided, the whole nation celebrates together again.
 > The chapter ends with the blessing and with the certainty: the prayer has arrived in heaven. God has heard.

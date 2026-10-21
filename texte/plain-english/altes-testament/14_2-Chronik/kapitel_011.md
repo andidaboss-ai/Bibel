@@ -73,7 +73,7 @@ For three years they lived the way David and Solomon had lived.
 > That is why they moved to Judah, and with them many people from the north, the people “who had set their hearts to seek the LORD”. They gave up their home in order to stay faithful to God.
 > Chronicles shows: in the north, too, there were people who sought God. The true Israel are those who seek God, no matter from which tribe.
 > “Goat idols”: literally “goats”, probably demons or idols in the shape of goats (compare Leviticus 17:7).
-> “For three years”: this good time did not last long (Chapter 12:1).
+> “For three years”: this good time did not last long (2 Chronicles 12:1).
 
 ---
 
@@ -100,5 +100,5 @@ And he found many wives for them.
 > **What does this mean?**
 > Rehoboam married relatives from David’s family. Mahalath and Maacah were both descendants of David or Jesse.
 > Like his father Solomon, Rehoboam had many wives. The law warned against this (Deuteronomy 17:17).
-> Here Maacah is called the “granddaughter” of Absalom. The Hebrew says “daughter”, which can also mean “granddaughter”. In Chapter 13:2 she is called “Micaiah the daughter of Uriel”. Maybe Uriel was her father and Absalom her grandfather.
+> Here Maacah is called the “granddaughter” of Absalom. The Hebrew says “daughter”, which can also mean “granddaughter”. In 2 Chronicles 13:2 she is called “Micaiah the daughter of Uriel”. Maybe Uriel was her father and Absalom her grandfather.
 > Rehoboam placed his sons as commanders in the fortresses. That way they had tasks and did not fight over the throne. That was wise.

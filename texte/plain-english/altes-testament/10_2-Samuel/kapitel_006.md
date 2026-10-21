@@ -54,7 +54,7 @@ And the LORD blessed Obed-Edom and his whole family.
 > This is a story that is hard to understand. Uzzah means well. He wants to keep the ark from falling down. And yet he dies.
 > Many interpreters explain it like this: God’s holiness is not a toy. The ark could only be carried in the way that was commanded, and it was not to be touched (Numbers 4:15). The problem already began when they put the ark on a cart instead of having it carried. David himself later understood this (1 Chronicles 15:13).
 > Still, the story remains hard. David too is upset and frightened. The Bible allows us to have such questions and feelings.
-> “Perez Uzzah” means “breaking out against Uzzah.” It is the same word as in “Baal Perazim” in Chapter 5:20. God breaks through, against the enemies, but also against his own people when they do not take him seriously.
+> “Perez Uzzah” means “breaking out against Uzzah.” It is the same word as in “Baal Perazim” in 2 Samuel 5:20. God breaks through, against the enemies, but also against his own people when they do not take him seriously.
 > Obed-Edom is a man from Gath, maybe even a Philistine. Of all people, he receives the blessing of the ark. God’s presence brings not only danger, but also great blessing.
 
 ---
@@ -118,5 +118,5 @@ will honor me.”
 > **What does this mean?**
 > Michal makes fun of David. She thinks a king should be dignified, not dance wildly. The short linen garment probably showed a lot while he was dancing.
 > David answers: I did not dance for people, but for God. Before God it is not embarrassing to make yourself small.
-> But there is more behind the quarrel: Michal had been taken away from her second husband against her will (Chapter 3:15–16). She had once loved David (1 Samuel 18:20). Now nothing is left of this love. David harshly reminds her that God rejected her father.
+> But there is more behind the quarrel: Michal had been taken away from her second husband against her will (2 Samuel 3:15–16). She had once loved David (1 Samuel 18:20). Now nothing is left of this love. David harshly reminds her that God rejected her father.
 > Verse 23 is a sad ending: Michal has no child. So there is no descendant in whom the families of Saul and David would be united. The text does not say whether this was a punishment from God or whether David stayed away from her.

@@ -59,7 +59,7 @@ He had set up his tent as far away as the oak in Zaanannim, which is near Kedesh
 
 > **What does this mean?**
 > This verse seems to interrupt the story. But it is important for later: Heber is a Kenite, so he is not an Israelite. He lives near the battlefield. And he is at peace with King Jabin (Verse 17).
-> “Brother-in-law”: This is what the WEB says. The Hebrew word usually means “father-in-law” (see Chapter 1:16).
+> “Brother-in-law”: This is what the WEB says. The Hebrew word usually means “father-in-law” (see Judges 1:16).
 
 ---
 
@@ -80,7 +80,7 @@ And the whole army of Sisera fell by the edge of the sword.
 Not one man was left.
 
 > **What does this mean?**
-> The chariots were very strong on the plain. But God threw them into confusion. In the song of Deborah (Chapter 5:21) we learn more: The river Kishon flooded its banks. The heavy chariots got stuck in the mud.
+> The chariots were very strong on the plain. But God threw them into confusion. In the song of Deborah (Judges 5:21) we learn more: The river Kishon flooded its banks. The heavy chariots got stuck in the mud.
 > Deborah gives the signal: This is the day! She tells Barak when to start.
 
 ---
@@ -114,7 +114,7 @@ and there lay Sisera, dead, with the tent peg in his temple.
 > Now Deborah’s word comes true: A woman gets the honor. But it is not Deborah, it is Jael, a woman from a foreign people.
 > This story is very hard to judge. Jael invites Sisera in as a guest. At that time, hospitality was holy: A guest was protected. Jael breaks this law and kills him in his sleep.
 > Why does she do it? The Bible does not say. Maybe she was on Israel’s side, against her own husband. Maybe she was afraid of what Sisera would do to her. In war, women had hardly any way to protect themselves. Tent peg and hammer were her tools, because at that time women put up the tents.
-> In the song of Deborah, Jael is praised (Chapter 5:24). For Israel she was a hero who defeated a cruel oppressor. But Jews and Christians have also asked again and again whether her betrayal of a guest was right. The Bible tells the story without judging everything.
+> In the song of Deborah, Jael is praised (Judges 5:24). For Israel she was a hero who defeated a cruel oppressor. But Jews and Christians have also asked again and again whether her betrayal of a guest was right. The Bible tells the story without judging everything.
 > Sisera asks for water, and Jael gives him milk. Milk makes you sleepy. Maybe she wanted him to fall asleep quickly.
 
 ---

@@ -46,7 +46,7 @@ Then they will learn the difference between serving me
 and serving the kings of other lands.”
 
 > **What does this mean?**
-> Here we see the pattern from Chapter 7:14: the people humble themselves, and God hears and spares them.
+> Here we see the pattern from 2 Chronicles 7:14: the people humble themselves, and God hears and spares them.
 > “The LORD is in the right”: they admit that they themselves are guilty.
 > God’s answer is remarkable: they are to learn the difference between serving God and serving foreign rulers. Serving God is freedom, serving foreign powers is a burden.
 

@@ -112,7 +112,7 @@ And the raiding groups of Syria stopped coming into the land of Israel.
 > **What does this mean?**
 > The young servant sees only the enemies and becomes afraid. Elisha sees more: God’s heavenly army is there. “Those who are with us are more than those who are with them.” Whoever trusts in God is never alone.
 > Elisha prays: “Open his eyes.” Faith sometimes means seeing God’s unseen reality.
-> The horses and chariots of fire remind us of Elijah going up into heaven (Chapter 2:11).
+> The horses and chariots of fire remind us of Elijah going up into heaven (2 Kings 2:11).
 > Then something surprising happens: Elisha does not let the enemies be killed. He has a feast given to them and sends them home. And so peace comes: the raids stop.
 > This is one of the most beautiful stories of peace in the Old Testament. It reminds us of Proverbs 25:21: “If your enemy is hungry, give him food to eat.” Paul quotes this in Romans 12:20. And Jesus says: “Love your enemies” (Matthew 5:44).
 > “Strike with blindness” probably means a kind of confusion here: they do not recognize where they are.

@@ -72,7 +72,7 @@ And the LORD has appointed him to be prince over his people,
 because you have not kept what the LORD commanded you.”
 
 > **What does this mean?**
-> Samuel had told Saul: Wait seven days in Gilgal until I come (Chapter 10:8). Saul waits. But on the seventh day Samuel is still not there. The soldiers run away. The Philistines come closer. Saul gets nervous and acts on his own.
+> Samuel had told Saul: Wait seven days in Gilgal until I come (1 Samuel 10:8). Saul waits. But on the seventh day Samuel is still not there. The soldiers run away. The Philistines come closer. Saul gets nervous and acts on his own.
 > We can understand Saul. His situation really was difficult. Why is the judgment so harsh?
 > Saul did not wait until the end. He did not trust God’s instruction. He wanted to force God’s help with a sacrifice instead of waiting for God’s word through the prophet. The king was supposed to be under God’s word. But when things get tight, Saul puts himself above it.
 > And Saul does not admit that he did something wrong. He blames others: the people, who ran away, and Samuel, who came too late.

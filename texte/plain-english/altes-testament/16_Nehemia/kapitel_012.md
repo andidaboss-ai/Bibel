@@ -36,7 +36,7 @@ and Jonathan became the father of Jaddua.
 
 > **What does this mean?**
 > This is the list of the high priests over six generations, from about 538 to after 400 BC.
-> Eliashib was high priest in the time of Nehemiah (Chapter 3:1; 13:4). “Jonathan” is called “Johanan” in verse 22. His name is also found in a letter from Elephantine in Egypt.
+> Eliashib was high priest in the time of Nehemiah (Nehemiah 3:1; 13:4). “Jonathan” is called “Johanan” in verse 22. His name is also found in a letter from Elephantine in Egypt.
 
 ---
 
@@ -138,7 +138,7 @@ Jezrahiah was their leader.
 
 > **What does this mean?**
 > What a picture: two great choirs walk on the wall around the city in opposite directions. One is led by Ezra, the other by Nehemiah. They meet at the temple.
-> The wall Tobiah mocked, saying “a fox … would break down their stone wall” (Chapter 4:3), now carries a whole procession.
+> The wall Tobiah mocked, saying “a fox … would break down their stone wall” (Nehemiah 4:3), now carries a whole procession.
 > The way of the choirs follows the list in Chapter 3, only in the opposite direction.
 
 ---

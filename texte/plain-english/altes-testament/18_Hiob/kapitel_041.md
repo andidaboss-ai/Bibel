@@ -33,7 +33,7 @@ Everything under the heavens is mine.
 > God asks with humor: Can you catch Leviathan on a hook like a fish? Will he beg you for mercy? Can you put him on a leash as a pet for your daughters? Of course not!
 > Verse 8: Whoever attacks him once never does it again.
 > Verses 10–11 are the conclusion: If no one can stand before Leviathan, who can stand before God, his Creator? God owes nobody anything. Everything belongs to him. Paul quotes this thought in Romans 11:35.
-> A note on verse numbers: In some Bibles, verses 1–8 of this chapter are Chapter 40:25–32. After that, the verse numbers there are 8 lower (verse 9 here is 41:1 there).
+> A note on verse numbers: In some Bibles, verses 1–8 of this chapter are Job 40:25–32. After that, the verse numbers there are 8 lower (verse 9 here is 41:1 there).
 
 ---
 

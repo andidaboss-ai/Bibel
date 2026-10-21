@@ -95,7 +95,7 @@ And the battle moved on beyond Beth Aven.
 
 > **What does this mean?**
 > Saul wants to ask God. But when the situation becomes urgent, he says to the priest: “Withdraw your hand!” That means: Stop, I have no more time. Once again Saul has no patience to wait for God’s answer.
-> In verse 18 the old Greek translation has “ephod” instead of “ark.” That fits better, because people asked God with the ephod, and the ark was in Kiriath Jearim (Chapter 7:1–2).
+> In verse 18 the old Greek translation has “ephod” instead of “ark.” That fits better, because people asked God with the ephod, and the ark was in Kiriath Jearim (1 Samuel 7:1–2).
 > The Philistines panic so much that they kill each other. This is like the story of Gideon (Judges 7:22).
 > “So the LORD saved Israel”: Not Saul, not even Jonathan, but God. That is the main point.
 

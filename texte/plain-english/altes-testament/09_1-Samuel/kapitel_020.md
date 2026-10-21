@@ -57,7 +57,7 @@ And the two of them went out into the field.
 > “Only a step between me and death”: That is how David feels. Any day could be the end.
 > At the “new moon,” the beginning of each month, there was a festival with a special meal (Numbers 10:10; 28:11). As the king’s son-in-law, David was supposed to be there.
 > David suggests a test: How will Saul react when David is missing?
-> “Covenant of the LORD”: The friendship between David and Jonathan is a covenant before God (Chapter 18:3). That is a holy promise.
+> “Covenant of the LORD”: The friendship between David and Jonathan is a covenant before God (1 Samuel 18:3). That is a holy promise.
 
 ---
 
@@ -210,5 +210,5 @@ And Jonathan went into the town.
 > The arrow flies beyond the boy. That means: Go away, you are in danger. Jonathan calls to the boy, “Quick! Hurry!” but really he is speaking to David.
 > Really Jonathan would not have needed the sign. But the two want to see each other at least one more time.
 > They kiss and weep. At that time it was normal for men to show their friendship and their pain at saying goodbye in this way.
-> This is one of the saddest farewells in the Bible. The two see each other only one more time (Chapter 23:16–18).
+> This is one of the saddest farewells in the Bible. The two see each other only one more time (1 Samuel 23:16–18).
 > In the Hebrew Bible and in some Bibles the numbering is different here: The last sentence (“He got up and left. And Jonathan went into the town.”) is Chapter 21, verse 1 there.

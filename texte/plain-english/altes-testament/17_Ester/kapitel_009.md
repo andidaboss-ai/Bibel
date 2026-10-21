@@ -62,7 +62,7 @@ But they did not touch the plunder.
 > **What does this mean?**
 > These verses are hard to read. Many people die.
 > We have to see the context: there were still many enemies who wanted to carry out the first order and kill the Jews. The Jews defend their lives.
-> Three times it is stressed: “They did not touch the plunder.” That was allowed to them (Chapter 8:11). But they wanted to show: it was not about getting rich, but about surviving. That recalls Saul, who took plunder from the Amalekites back then and was rebuked for it (1 Samuel 15).
+> Three times it is stressed: “They did not touch the plunder.” That was allowed to them (Esther 8:11). But they wanted to show: it was not about getting rich, but about surviving. That recalls Saul, who took plunder from the Amalekites back then and was rebuked for it (1 Samuel 15).
 > The ten sons of Haman were probably already dead (verse 10). They were hanged up in public as a warning.
 > Why does Esther ask for a second day in Susa? The text does not say. Maybe there were especially many enemies left in the capital. This passage is hard to understand, and many readers still find it hard today.
 > Jews and Christians do not read this story as a call to revenge or violence. They read it as the story of a rescue from a planned genocide.
@@ -159,4 +159,4 @@ It was written in the book.
 > **What does this mean?**
 > Esther herself confirms the feast with her royal authority. She is no longer only the young orphan who does what she is told. She is a leader of her people.
 > “Words of peace and truth”: the feast is meant to bring peace.
-> “The times of fasting and mourning”: to this day Jews fast on the day before Purim, in memory of Esther’s fasting (the “Fast of Esther”, Chapter 4:16).
+> “The times of fasting and mourning”: to this day Jews fast on the day before Purim, in memory of Esther’s fasting (the “Fast of Esther”, Esther 4:16).

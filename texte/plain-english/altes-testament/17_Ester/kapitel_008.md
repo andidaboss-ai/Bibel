@@ -50,7 +50,7 @@ and sealed with the king’s ring.”
 > **What does this mean?**
 > Haman is dead, but his order is still valid. On the 13th of Adar all enemies may attack the Jews.
 > Esther goes to the king once more, risking her life. She weeps and pleads. She does not only think of herself, but of her whole people.
-> The problem: a Persian law cannot be taken back (Chapter 1:19; Daniel 6:8). Even the king cannot cancel his own order.
+> The problem: a Persian law cannot be taken back (Esther 1:19; Daniel 6:8). Even the king cannot cancel his own order.
 > The solution: a new order that works against the old one.
 
 ---
@@ -87,9 +87,9 @@ The order was also given out in the fortress of Susa.
 
 > **What does this mean?**
 > The new decree comes two months after the first one. There are still nine months until the 13th of Adar.
-> The new decree is almost word for word the same as Haman’s order to murder (Chapter 3:12–14), only the other way around. Now the Jews may defend themselves.
+> The new decree is almost word for word the same as Haman’s order to murder (Esther 3:12–14), only the other way around. Now the Jews may defend themselves.
 > Important: this is about defense. The Jews may only act against those “that would attack them”.
-> The words “their little ones and women” are hard to read. They repeat Haman’s words from Chapter 3:13. Chapter 9 does not say whether this was really carried out. There only killed men are mentioned. And the Jews took no plunder (Chapter 9:10, 15, 16), although it was allowed.
+> The words “their little ones and women” are hard to read. They repeat Haman’s words from Esther 3:13. Chapter 9 does not say whether this was really carried out. There only killed men are mentioned. And the Jews took no plunder (Esther 9:10, 15, 16), although it was allowed.
 > “To take revenge” here means: to defend themselves against the attackers and to get justice.
 
 ---

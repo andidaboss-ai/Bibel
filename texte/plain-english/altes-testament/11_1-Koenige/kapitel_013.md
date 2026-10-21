@@ -101,7 +101,7 @@ Then the word of the LORD came to the prophet who had brought him back.
 You have not kept the command that the LORD your God gave you.
 [22] You came back.
 You ate bread and drank water in the place where he told you, “Do not eat bread, and do not drink water.”
-So your body will not come to the tomb of your fathers.’”
+So your body will not come to the tomb of your ancestors.’”
 [23] The man of God had eaten bread and had drunk.
 Then the old prophet saddled the donkey for the prophet he had brought back.
 [24] The man of God left.
@@ -143,7 +143,7 @@ What he shouted will surely happen.”
 > This story is hard to understand. Of all people, the liar receives a real word from God. And the man who was lied to has to die.
 > The text probably wants to show: God’s word is serious. If even the prophet who brings it has to die because he did not obey it, how much more serious is the word against the altar in Bethel!
 > The lion acts very unnaturally: it eats neither the dead man nor the donkey. Everyone sees: this is no accident, this is a sign from God.
-> “Your body will not come to the tomb of your fathers” meant: to die and be buried in a foreign place. In those days that was very bad.
+> “Your body will not come to the tomb of your ancestors” meant: to die and be buried in a foreign place. In those days that was very bad.
 > At the end the old prophet mourns honestly: “Oh, my brother!” He even wants to be buried next to him. He has understood that the man from Judah was a true prophet.
 > 300 years later King Josiah spares exactly this tomb (2 Kings 23:17–18).
 > “Samaria”: this city was only built later (1 Kings 16:24). Here the name is already used for the whole northern kingdom.

@@ -91,7 +91,7 @@ that the LORD swore to your ancestors to give them,
 as long as the sky is above the earth.
 
 > **What does this mean?**
-> We already know these words from Chapter 6:6–9. The repetition shows how important they are. They are also written in the tefillin and in the mezuzah (see Chapter 6).
+> We already know these words from Deuteronomy 6:6–9. The repetition shows how important they are. They are also written in the tefillin and in the mezuzah (see Chapter 6).
 
 ---
 

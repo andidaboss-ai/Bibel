@@ -44,7 +44,7 @@ The LORD is his inheritance, as the LORD your God told him.)
 > **What does this mean?**
 > These verses in parentheses are a short explanation that was put into the speech.
 > Numbers 20 and 33 say that Aaron died on Mount Hor. Here the place is called Moserah. Many interpreters think: Moserah was the area where Mount Hor is. No one knows for sure.
-> Why is this here? Maybe because Moses has just told how God listened to his prayer for Aaron (Chapter 9:20). Aaron was allowed to live on and be priest, and after him his son.
+> Why is this here? Maybe because Moses has just told how God listened to his prayer for Aaron (Deuteronomy 9:20). Aaron was allowed to live on and be priest, and after him his son.
 > The Levites do not get their own land. But they have something better: “The LORD is his inheritance.” Their wealth is being close to God.
 
 ---

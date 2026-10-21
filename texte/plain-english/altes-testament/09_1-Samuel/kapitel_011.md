@@ -91,7 +91,7 @@ There they offered peace offerings before the LORD.
 And there Saul and all the men of Israel rejoiced greatly.
 
 > **What does this mean?**
-> After the victory some people want revenge on those who had looked down on Saul (Chapter 10:27). But Saul says: No. Today is a day of joy, because God has rescued us. This is a great moment for Saul. He is merciful and gives the glory to God, not to himself.
+> After the victory some people want revenge on those who had looked down on Saul (1 Samuel 10:27). But Saul says: No. Today is a day of joy, because God has rescued us. This is a great moment for Saul. He is merciful and gives the glory to God, not to himself.
 > This scene shows: Saul had good qualities. At the beginning he was humble, brave, and generous. That makes it all the sadder how he changes later.
 > Gilgal was an important place. There Israel had its first camp in the land after crossing the Jordan (Joshua 4:19).
-> The men of Jabesh never forgot that Saul rescued them. Many years later, when Saul was dead, they risked their lives to take his body back from the Philistines and gave him an honorable burial (Chapter 31:11–13).
+> The men of Jabesh never forgot that Saul rescued them. Many years later, when Saul was dead, they risked their lives to take his body back from the Philistines and gave him an honorable burial (1 Samuel 31:11–13).

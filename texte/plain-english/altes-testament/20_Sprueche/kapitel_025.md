@@ -99,7 +99,7 @@ so is a person who does not control his spirit.
 
 > **What does this mean?**
 > Verses 21–22 are among the greatest sentences of the Old Testament: Be good to your enemy! Give him food and drink. The “burning coals” probably mean: He will be ashamed and maybe turn around. Kindness can turn an enemy into a friend. Paul quotes these verses (Romans 12:20–21): “Don’t be overcome by evil, but overcome evil with good.”
-> Verse 24 repeats Chapter 21:9.
+> Verse 24 repeats Proverbs 21:9.
 > Verse 25: Good news from far away, for example from someone you love, is as refreshing as cold water.
 > Verse 26: When good people give in to evil, it is like a dirty well: You can no longer rely on them.
 > Verse 28: Whoever cannot control himself is as unprotected as a city without walls.

@@ -25,7 +25,7 @@ living like widows.
 
 > **What does this mean?**
 > The quarrel from Chapter 19 leads at once to a new rebellion. Sheba is a Benjamite, like Saul. His cry will come up again later when the kingdom splits (1 Kings 12:16).
-> The 10 concubines: they were not guilty. Absalom had abused them against their will (Chapter 16:22). Now they are locked away for the rest of their lives and live like widows. David provides for them, but they no longer have a life of their own. Once again women have to bear the consequences of what men have done. The Bible tells it without approving of it.
+> The 10 concubines: they were not guilty. Absalom had abused them against their will (2 Samuel 16:22). Now they are locked away for the rest of their lives and live like widows. David provides for them, but they no longer have a life of their own. Once again women have to bear the consequences of what men have done. The Bible tells it without approving of it.
 
 ---
 
@@ -69,7 +69,7 @@ all the people went on after Joab to chase Sheba the son of Bichri.
 > **What does this mean?**
 > Amasa, the new army commander, is too slow. David sends Abishai, but Joab comes along.
 > Then another treacherous murder happens. Joab greets Amasa in a friendly way: “Are you well, my brother?” He takes him by the beard to kiss him, as friends did in those days. And with the other hand he stabs him.
-> Joab had already murdered Abner in a similar way (Chapter 3:27). Both times he kills a rival who could take away his place as army commander.
+> Joab had already murdered Abner in a similar way (2 Samuel 3:27). Both times he kills a rival who could take away his place as army commander.
 > Here Christians remember Judas, who betrayed Jesus with a kiss (Matthew 26:49).
 > The soldiers stand still in horror by the dead body. Only when it is covered do they follow Joab. Joab has taken back power by violence.
 
@@ -138,6 +138,6 @@ Zadok and Abiathar were priests.
 [26] And Ira the Jairite was chief minister to David.
 
 > **What does this mean?**
-> At the end there is again a list of David’s officials, as in Chapter 8:16–18. Joab is at the top again. No one punishes him for the murder of Amasa.
+> At the end there is again a list of David’s officials, as in 2 Samuel 8:16–18. Joab is at the top again. No one punishes him for the murder of Amasa.
 > Adoram is new. He is in charge of the forced labor. This reminds us of Samuel’s warning: the king will take your sons for his work (1 Samuel 8:16). Under Solomon the forced labor becomes a heavy burden, and later Adoram is stoned by the people (1 Kings 12:18).
-> “Chief minister”: in Hebrew it again says “priest,” as in Chapter 8:18.
+> “Chief minister”: in Hebrew it again says “priest,” as in 2 Samuel 8:18.

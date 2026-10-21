@@ -74,7 +74,7 @@ but the LORD’s plan will stand.
 > Verse 17 is a wonderful thought: Whoever helps a poor person is really giving to God. And God stays in no one’s debt. Jesus says something similar (Matthew 25:40).
 > Verse 18: Parents should bring up their children in time, while they can still be shaped. Whoever sets no limits at all lets the child run into disaster. Bringing up children does not mean violence.
 > Verse 19: Whoever has a hot temper gets into trouble again and again. If you always get him out of it, he learns nothing.
-> Verse 21: Again the thought: People make plans, but God directs (compare Chapter 16:9).
+> Verse 21: Again the thought: People make plans, but God directs (compare Proverbs 16:9).
 
 ---
 

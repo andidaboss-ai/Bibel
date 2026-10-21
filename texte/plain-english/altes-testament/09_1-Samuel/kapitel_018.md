@@ -24,7 +24,7 @@ This pleased all the people and also Saul’s servants.
 > Jonathan is the king’s son and really the next in line to be king. David is a shepherd from Bethlehem. Still they become best friends. Their friendship is one of the best-known friendships in the literature of the world.
 > “He loved him as his own soul” means: as himself. Jonathan is ready to do anything for David.
 > The “covenant” is a solemn promise of loyalty, made before God.
-> Jonathan gives David his robe and his weapons. This is more than a gift. It is a sign: Jonathan accepts that one day David will be king, not he himself (compare Chapter 23:17). Jonathan is free of envy. That is very rare.
+> Jonathan gives David his robe and his weapons. This is more than a gift. It is a sign: Jonathan accepts that one day David will be king, not he himself (compare 1 Samuel 23:17). Jonathan is free of envy. That is very rare.
 > Some readers today ask whether the love between Jonathan and David was more than friendship. The text speaks of covenant, loyalty, and a deep bond. At that time the word “love” was also used for faithfulness and loyalty between allies. Most Jewish and Christian Bible teachers see here the model of a deep friendship.
 
 ---
@@ -137,7 +137,7 @@ so that he could become the king’s son-in-law.
 Then Saul gave him his daughter Michal as wife.
 
 > **What does this mean?**
-> Saul had promised to give his daughter to the man who defeated Goliath (Chapter 17:25). But he does not keep his promise. He adds new conditions, hoping that David will die in battle.
+> Saul had promised to give his daughter to the man who defeated Goliath (1 Samuel 17:25). But he does not keep his promise. He adds new conditions, hoping that David will die in battle.
 > Merab is given to another man. Once again women are treated like objects that men use for politics.
 > It is very rare that the Bible says clearly that a woman loves a man. With Michal it says so twice (verses 20 and 28). But her father uses her love as a trap.
 > David is humble: I am poor, I cannot pay a bride price for a king’s daughter. At that time the bridegroom had to pay a bride price to the bride’s family.

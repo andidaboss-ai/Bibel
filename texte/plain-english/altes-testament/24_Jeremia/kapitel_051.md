@@ -97,7 +97,7 @@ including the tribe of his inheritance.
 The LORD of Armies is his name.
 
 > **What does this mean?**
-> These verses appear almost word for word already in Chapter 10:12–16. In the middle of the words about Babylon, Jeremiah reminds: The gods of Babylon are dead images. The God of Israel is the Creator of heaven and earth.
+> These verses appear almost word for word already in Jeremiah 10:12–16. In the middle of the words about Babylon, Jeremiah reminds: The gods of Babylon are dead images. The God of Israel is the Creator of heaven and earth.
 
 ---
 

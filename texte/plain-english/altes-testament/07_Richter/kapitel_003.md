@@ -134,4 +134,4 @@ He also saved Israel.
 > **What does this mean?**
 > Only a single sentence is told about Shamgar. An ox goad was a long stick with a metal point. It was used to drive cattle while plowing. Shamgar had no real weapon, only a farm tool. Still, he saved Israel.
 > “Anath” was the name of a Canaanite goddess. Maybe Shamgar was not an Israelite at all. Still, God used him.
-> Shamgar is also mentioned in the song of Deborah (Chapter 5:6).
+> Shamgar is also mentioned in the song of Deborah (Judges 5:6).

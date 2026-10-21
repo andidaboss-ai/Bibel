@@ -22,7 +22,7 @@ but violence covers the mouth of the wicked.
 but the name of the wicked will rot.
 
 > **What does this mean?**
-> Here the second big part of the book begins: the short proverbs of Solomon (Chapter 10:1 to 22:16).
+> Here the second big part of the book begins: the short proverbs of Solomon (Proverbs 10:1 to 22:16).
 > Almost every proverb has two lines. Often the second line shows the opposite of the first: “The wise … but the fool …”. In this way, you learn by comparing.
 > The proverbs mostly stand alone. You can read each one by itself and think about it. The headings in this edition only give a rough summary.
 > Verse 1: What children do affects their parents too. Here father and mother are named.

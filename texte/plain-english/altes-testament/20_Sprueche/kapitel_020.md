@@ -77,7 +77,7 @@ Wait for the LORD, and he will save you.
 and dishonest scales do not please him.
 
 > **What does this mean?**
-> Verse 16: Whoever carelessly guarantees a loan for strangers has only himself to blame when his things are taken as security. Hard advice to be careful (compare Chapter 6:1–5).
+> Verse 16: Whoever carelessly guarantees a loan for strangers has only himself to blame when his things are taken as security. Hard advice to be careful (compare Proverbs 6:1–5).
 > Verse 17: What you get by cheating tastes sweet at first. But later it is like gravel in your mouth.
 > Verse 18: Even in war, you need good advice. Whoever makes big decisions should think them through well.
 > Verse 21: Whoever grabs an inheritance early (compare Luke 15:12) will not become happy with it.

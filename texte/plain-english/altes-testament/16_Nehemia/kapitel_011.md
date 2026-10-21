@@ -17,7 +17,7 @@ These were the Israelites, the priests, the Levites, the temple servants,
 and the descendants of Solomon’s servants.
 
 > **What does this mean?**
-> Here the problem from Chapter 7:4 is solved: Jerusalem had a wall, but too few people living in it.
+> Here the problem from Nehemiah 7:4 is solved: Jerusalem had a wall, but too few people living in it.
 > One tenth of the people moves to Jerusalem, like a “tithe” for God.
 > Why didn’t everyone want to live in Jerusalem? The city was still in ruins and dangerous. The people in the country had their fields and houses. Moving to Jerusalem meant making sacrifices.
 > That is why the volunteers are blessed. The people honor those who put themselves out for the community.

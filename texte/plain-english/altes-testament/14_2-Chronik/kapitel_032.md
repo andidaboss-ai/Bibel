@@ -139,7 +139,7 @@ So the LORD’s anger didn’t come on them in the days of Hezekiah.
 > **What does this mean?**
 > This story is told in more detail in 2 Kings 20 and Isaiah 38. God gave Hezekiah 15 more years of life. The sign was that the shadow on the sundial went back.
 > Even a king as good as Hezekiah becomes proud. No one is safe from this.
-> But Hezekiah humbles himself. And God spares him. This is the great theme of Chronicles: whoever humbles himself finds grace (Chapter 7:14).
+> But Hezekiah humbles himself. And God spares him. This is the great theme of Chronicles: whoever humbles himself finds grace (2 Chronicles 7:14).
 
 ---
 

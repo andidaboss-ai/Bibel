@@ -117,6 +117,6 @@ and reported my words to him.
 And Tobiah sent letters to make me afraid.
 
 > **What does this mean?**
-> Through marriages Tobiah had close connections in Jerusalem. Meshullam the son of Berechiah had even helped build the wall (Chapter 3:4, 30).
+> Through marriages Tobiah had close connections in Jerusalem. Meshullam the son of Berechiah had even helped build the wall (Nehemiah 3:4, 30).
 > Some in Jerusalem played a double game: they praised Tobiah to Nehemiah and passed Nehemiah’s words on to Tobiah.
 > Even after the building of the wall the struggle goes on. This time with letters and intimidation.

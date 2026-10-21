@@ -24,7 +24,7 @@ Look, the glory of the LORD filled the temple.
 > **What does this mean?**
 > This is the high point of the whole book!
 > In Chapters 10–11, Ezekiel had seen God’s glory leave the temple through the east gate and go to the Mount of Olives in the east. Now it comes back the same way: from the east, through the east gate, into the temple.
-> Verse 2: “Like the roar of many waters” – the same picture as in Chapter 1:24. Revelation describes the risen Christ with these words (Revelation 1:15).
+> Verse 2: “Like the roar of many waters” – the same picture as in Ezekiel 1:24. Revelation describes the risen Christ with these words (Revelation 1:15).
 > Verse 3: “When I came to destroy the city” means: when I announced that the city would be destroyed (Chapters 8–11).
 > Verse 5: God’s glory fills the temple, as it did long ago when the tent of meeting was dedicated (Exodus 40:34) and when Solomon’s temple was dedicated (1 Kings 8:10–11). God is back. He lives with his people again.
 

@@ -129,4 +129,4 @@ He did it with all his heart, and he succeeded.
 
 > **What does this mean?**
 > This is the most beautiful praise that Chronicles can give a king: he sought God “with all his heart.” And he succeeded.
-> Compare Amaziah, who did what was right, “but not with a perfect heart” (Chapter 25:2).
+> Compare Amaziah, who did what was right, “but not with a perfect heart” (2 Chronicles 25:2).

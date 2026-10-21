@@ -90,7 +90,7 @@ He bowed with his face to the ground and showed him respect.
 > It is bitter: Saul swears by the LORD in order to do something the LORD has forbidden.
 > The woman screams when Samuel appears. Maybe she herself did not expect that someone would really come. And suddenly she recognizes Saul.
 > “A god” here means: a ghostly being, more than human.
-> The robe was Samuel’s mark. Let us remember: Saul once tore Samuel’s robe (Chapter 15:27).
+> The robe was Samuel’s mark. Let us remember: Saul once tore Samuel’s robe (1 Samuel 15:27).
 > Was it really Samuel? Jews and Christians have thought about this a lot. Many say: Yes, in this one case God himself sent Samuel to tell Saul his judgment. That is why the woman is so frightened. Others say: It was a deception. The Bible tells it as if it was Samuel. The book of Sirach says that Samuel still prophesied even after his death (Sirach 46:20).
 > What is clear: The Bible forbids calling up the dead (Deuteronomy 18:10–12). This story is not a permission, but shows where despair without God leads. But the Bible also gives no one the right to accuse or hunt down people as “witches.”
 

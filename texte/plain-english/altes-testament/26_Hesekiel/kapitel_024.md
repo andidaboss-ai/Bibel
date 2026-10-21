@@ -76,7 +76,7 @@ by your ways and by what you have done,”
 says the Lord GOD.’”
 
 > **What does this mean?**
-> Do you remember Chapter 11:3? There the powerful people in Jerusalem said proudly that the city is the pot and they are the meat, so they are well protected. Ezekiel takes up this picture and turns it around: Yes, Jerusalem is a pot. But it stands on the fire, and the meat is cooked to nothing.
+> Do you remember Ezekiel 11:3? There the powerful people in Jerusalem said proudly that the city is the pot and they are the meat, so they are well protected. Ezekiel takes up this picture and turns it around: Yes, Jerusalem is a pot. But it stands on the fire, and the meat is cooked to nothing.
 > Verse 6: The pot is rusty. The rust is the guilt of the city, which cannot be washed off.
 > Verses 7–8: By the law, blood had to be covered with earth (Leviticus 17:13). But Jerusalem has poured out the blood of innocent people openly on the rock. It cries out to heaven like the blood of Abel (Genesis 4:10).
 > Verse 13: God tried again and again to make his people clean, through prophets and warnings. But they did not want it.
@@ -160,5 +160,5 @@ So you will be a sign for them.
 Then they will know that I am the LORD.”
 
 > **What does this mean?**
-> Since his call, Ezekiel had been mostly silent (3:26). He was only allowed to speak when God gave him something to say. Now God announces: When someone who fled brings the news that Jerusalem has been destroyed, Ezekiel’s mouth will be opened. This happens in Chapter 33:21–22.
+> Since his call, Ezekiel had been mostly silent (3:26). He was only allowed to speak when God gave him something to say. Now God announces: When someone who fled brings the news that Jerusalem has been destroyed, Ezekiel’s mouth will be opened. This happens in Ezekiel 33:21–22.
 > Here the first great part of the book ends (Chapters 1–24), the words of judgment about Jerusalem. Now come words about the neighboring nations (Chapters 25–32). And after that, starting with Chapter 33, the message of hope begins.

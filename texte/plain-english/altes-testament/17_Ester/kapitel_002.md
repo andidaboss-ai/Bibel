@@ -22,7 +22,7 @@ should become queen instead of Vashti.”
 The king liked this idea, and he did it.
 
 > **What does this mean?**
-> The king’s anger has calmed down. Maybe he even misses Vashti. But the law cannot be changed (Chapter 1:19).
+> The king’s anger has calmed down. Maybe he even misses Vashti. But the law cannot be changed (Esther 1:19).
 > The servants suggest a kind of “beauty contest”. For the young women this was no game. They were taken from their families and had no choice. They came into the king’s harem. Most of them saw the king only once and afterward lived shut away in the women’s house.
 > The Bible describes these conditions without approving of them.
 
@@ -44,7 +44,7 @@ When her father and mother died,
 Mordecai took her as his own daughter.
 
 > **What does this mean?**
-> Mordecai comes from the tribe of Benjamin, like King Saul, whose father was also called Kish. That becomes important later (Chapter 3:1).
+> Mordecai comes from the tribe of Benjamin, like King Saul, whose father was also called Kish. That becomes important later (Esther 3:1).
 > Verse 6 probably means: his family (maybe his great-grandfather Kish) had been carried away in 597 BC with King Jeconiah (Jehoiachin). Otherwise Mordecai himself would have been more than 100 years old.
 > Esther has two names: Hadassah is Hebrew and means “myrtle”. Esther is Persian and probably means “star”.
 > Esther is an orphan. Her cousin Mordecai has brought her up like a daughter. He is a loving foster father.

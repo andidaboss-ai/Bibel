@@ -48,7 +48,7 @@ because he was afraid of him.
 
 > **What does this mean?**
 > In those days, whoever slept with the wife of a king who had died was claiming his throne. That is why Ishbosheth is so worried. He accuses Abner of wanting to become king himself.
-> The text does not say whether Abner really did it. Rizpah is treated here like an object in the power struggle of men. Later she shows great faithfulness and dignity (Chapter 21:10).
+> The text does not say whether Abner really did it. Rizpah is treated here like an object in the power struggle of men. Later she shows great faithfulness and dignity (2 Samuel 21:10).
 > Abner is offended. “A dog’s head” is an insult for someone who is worth nothing.
 > Interesting: Abner knows that God has promised David the kingdom. And yet he has fought against David until now. Now he changes sides, out of hurt pride.
 

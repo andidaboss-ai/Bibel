@@ -80,4 +80,4 @@ Can anyone pierce his nose with a trap?
 > Which animal is meant? Many think of the hippopotamus: It eats grass, lies in the marsh under plants and is not afraid of floods. Others think of the elephant. Still others see in it a mythical creature from the beginning, a picture of the wild, untamed forces of the world.
 > Verse 15 is important: “which I made just as I made you.” Behemoth is a creature of God, just like Job. Even the strongest, wildest animal is in God’s hand.
 > Verse 19: “The first among the works of God”: a masterpiece of God’s creation.
-> A note on verse numbers: In some Bibles (following the Hebrew), Chapter 40 has 32 verses in all. Verses 25–32 there are Chapter 41:1–8 here.
+> A note on verse numbers: In some Bibles (following the Hebrew), Chapter 40 has 32 verses in all. Verses 25–32 there are Job 41:1–8 here.

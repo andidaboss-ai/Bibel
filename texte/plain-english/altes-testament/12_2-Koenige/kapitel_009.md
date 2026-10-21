@@ -154,7 +154,7 @@ They buried him in his tomb with his ancestors in David’s city.
 > **What does this mean?**
 > The king of Judah also loses his life, because he was connected with Ahab’s house.
 > Interesting: in 1993 and 1994 an inscription was found at Tel Dan in the north of Israel. In it a king of Damascus, probably Hazael, boasts that he killed Joram the king of Israel and Ahaziah of the “house of David.” The Bible says it was Jehu. Perhaps Hazael saw himself as the winner because Jehu worked together with him, or he was simply boasting. This inscription is famous because it mentions the “house of David”. It is one of the oldest pieces of evidence outside the Bible for David’s royal family.
-> Verse 29 gives a different year than Chapter 8:25 (the eleventh instead of the twelfth year). The years were probably counted in different ways.
+> Verse 29 gives a different year than 2 Kings 8:25 (the eleventh instead of the twelfth year). The years were probably counted in different ways.
 
 ---
 

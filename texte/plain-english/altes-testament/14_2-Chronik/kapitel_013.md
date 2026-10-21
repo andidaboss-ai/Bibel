@@ -17,7 +17,7 @@ He had 800,000 of the best men, strong and brave soldiers.
 
 > **What does this mean?**
 > Abijah reigned from about 913 to 910 BC. In 1 Kings 15 he is called “Abijam”, and there he is judged briefly and critically: “He committed all the same sins that his father had committed before him.” Chronicles, on the other hand, tells a story in which Abijah for once trusts completely in God.
-> Here his mother is called Micaiah the daughter of Uriel. In Chapter 11:20 she is called Maacah. Probably it is the same woman with two forms of the name.
+> Here his mother is called Micaiah the daughter of Uriel. In 2 Chronicles 11:20 she is called Maacah. Probably it is the same woman with two forms of the name.
 > The numbers are huge. Many experts think that the Hebrew word for “thousand” can also mean “troop” or “unit” here. What matters is the message: Judah was only half as strong as Israel.
 
 ---
@@ -64,7 +64,7 @@ You will not win!”
 > Abijah says: the true kingdom is really the kingdom of God. And the true worship takes place in Jerusalem, with the right priests, the daily offerings, the show bread and the lampstand.
 > In the north, on the other hand, anyone could become a priest who paid with enough animals. And Abijah calls the golden calves “gods that are no gods”.
 > Important: Abijah calls the people in the north “people of Israel”. He asks them: do not fight against God! They are still brothers.
-> Abijah speaks harshly about Rehoboam as “young and timid”. But Rehoboam was 41 years old when he became king (Chapter 12:13). What is probably meant is: without experience and weak.
+> Abijah speaks harshly about Rehoboam as “young and timid”. But Rehoboam was 41 years old when he became king (2 Chronicles 12:13). What is probably meant is: without experience and weak.
 
 ---
 

@@ -100,7 +100,7 @@ says the Lord GOD.”
 > **What does this mean?**
 > Verse 15: The people in Jerusalem say to the exiles: “Go far away from the LORD. This land has been given to us to own.” They think they are the winners.
 > Verse 16: But God says the opposite: He wants to be with the exiles! He himself will be their “holy place,” even without a temple. That is a great comfort: God is there even in a foreign land. You can find him anywhere. (Later, in Judaism, this verse was also connected with the synagogues, as a “little holy place.”)
-> Verse 19: One of the most beautiful promises in the Bible: God takes away the “heart of stone,” which is hard and cold. He gives a “heart of flesh,” which is alive and can feel. God himself changes people from the inside. This promise comes again in Chapter 36:26.
+> Verse 19: One of the most beautiful promises in the Bible: God takes away the “heart of stone,” which is hard and cold. He gives a “heart of flesh,” which is alive and can feel. God himself changes people from the inside. This promise comes again in Ezekiel 36:26.
 > Compare Jeremiah 31:33. There God promises to put his law inside his people and to write it on their hearts.
 
 ---

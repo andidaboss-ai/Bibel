@@ -17,7 +17,7 @@ And you have set your heart to seek God.”
 
 > **What does this mean?**
 > Jehoshaphat has just escaped death (Chapter 18). Now the prophet Jehu tells him clearly: your alliance with Ahab was wrong.
-> Jehu was the son of Hanani, who had rebuked Asa (Chapter 16:7). Father and son were both brave prophets.
+> Jehu was the son of Hanani, who had rebuked Asa (2 Chronicles 16:7). Father and son were both brave prophets.
 > Verse 3 is beautiful: God does not only see the mistake. He also sees the good. Jehoshaphat has a heart that seeks God.
 > “Asheroth” is the plural of Asherah. It means the Asherah poles.
 

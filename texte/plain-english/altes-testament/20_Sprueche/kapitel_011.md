@@ -50,7 +50,7 @@ but whoever refuses to guarantee loans is safe.
 > Verses 10–11: Good and honest people are a blessing for the whole city, for society. Evil words can destroy a city.
 > Verse 13: Whoever passes on secrets destroys trust. A faithful friend can keep quiet.
 > Verse 14: Good decisions need many wise advisers. No one should decide alone, least of all someone who has power.
-> Verse 15: Again the warning against guaranteeing loans (compare Chapter 6:1–5).
+> Verse 15: Again the warning against guaranteeing loans (compare Proverbs 6:1–5).
 
 ---
 

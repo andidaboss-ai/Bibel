@@ -48,7 +48,7 @@ and in the Syrian language.
 > Here the book jumps forward in time. It shows: the opposition went on later too, under the next kings.
 > Ahasuerus is Xerxes I (486–465 BC). He is also the king from the book of Esther. Artaxerxes is Artaxerxes I (465–424 BC).
 > These later letters are no longer about the temple, but about building the city wall (verse 12).
-> “Syrian” here means Aramaic. That was the official language of the Persian Empire. From verse 8 on, the book of Ezra itself is also written in Aramaic, up to Chapter 6:18.
+> “Syrian” here means Aramaic. That was the official language of the Persian Empire. From verse 8 on, the book of Ezra itself is also written in Aramaic, up to Ezra 6:18.
 
 ---
 

@@ -78,7 +78,7 @@ and to bring the king over the Jordan.
 > The northern tribes are unsure. They had followed Absalom. Now they want David back, but they hesitate.
 > Surprisingly, Judah, David’s own tribe, hesitates the most. Hebron in Judah was the place where Absalom’s rebellion had begun.
 > David is politically wise: he wins Judah back by reminding them that they are family. And he makes Amasa, Absalom’s army commander, his own army commander. With this he shows: I want reconciliation, not revenge. And at the same time he takes away the power of Joab, who killed Absalom against his order.
-> But this will have consequences (Chapter 20:10).
+> But this will have consequences (2 Samuel 20:10).
 
 ---
 
@@ -151,7 +151,7 @@ I say: you and Ziba divide the land.”
 since my lord the king has come home in peace to his own house.”
 
 > **What does this mean?**
-> Mephibosheth has been mourning the whole time: he did not care for his feet, did not shave, did not wear clean clothes. That suggests that he was faithful to David and that Ziba lied (Chapter 16:3).
+> Mephibosheth has been mourning the whole time: he did not care for his feet, did not shave, did not wear clean clothes. That suggests that he was faithful to David and that Ziba lied (2 Samuel 16:3).
 > He explains: I wanted to come along, but I am lame. Ziba was supposed to saddle a donkey for me, but he deceived me and went to you alone.
 > David does not know whom to believe. He chooses a compromise: divide the land. That is not a just solution if Mephibosheth is telling the truth.
 > Mephibosheth’s answer shows his heart: “Yes, let him take it all.” The main thing is that you are back. He does not care about property, but about David.

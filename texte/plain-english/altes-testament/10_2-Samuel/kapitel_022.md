@@ -142,7 +142,7 @@ Your gentleness has made me great.
 My feet have not slipped.
 
 > **What does this mean?**
-> “For you are my lamp”: God makes the darkness bright. In Chapter 21:17 David himself was called “the lamp of Israel.” But David knows: his light comes from God.
+> “For you are my lamp”: God makes the darkness bright. In 2 Samuel 21:17 David himself was called “the lamp of Israel.” But David knows: his light comes from God.
 > “With my God I can leap over a wall”: this sentence has become very well known. It means: with God I can get past obstacles that seem impossible to overcome. Many people have written it down to give them courage.
 > “The feet of a deer”: deer climb safely on steep rocks without falling. In the same way God gives a firm footing.
 > “Your gentleness has made me great”: a beautiful thought. Not God’s power alone, but his kindness and gentleness made David great.

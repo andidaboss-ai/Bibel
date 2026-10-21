@@ -24,7 +24,7 @@ because all the people were bitter, each one because of his sons and daughters.
 But David strengthened himself in the LORD his God.
 
 > **What does this mean?**
-> David was away for three days. During this time the Amalekites raided his town. This is bitter irony: David himself had raided the Amalekites (Chapter 27:8). Now they take revenge.
+> David was away for three days. During this time the Amalekites raided his town. This is bitter irony: David himself had raided the Amalekites (1 Samuel 27:8). Now they take revenge.
 > But unlike David, the Amalekites did not kill anyone. They took the people away as slaves.
 > David’s men weep until they cannot weep anymore. Then their sorrow turns into rage. They want to stone David. This is the lowest point in David’s life so far.
 > And exactly here comes the important sentence: “But David strengthened himself in the LORD his God.” When everyone is against him and everything seems lost, David turns to God. He does not find his strength in himself, but in God.

@@ -106,6 +106,6 @@ That makes 14 cities with their villages.
 This is the inheritance of the people of Benjamin by their clans.
 
 > **What does this mean?**
-> Here Jerusalem is given to Benjamin. In Chapter 15:63 it was named with Judah. It lay exactly on the border between the two tribes.
+> Here Jerusalem is given to Benjamin. In Joshua 15:63 it was named with Judah. It lay exactly on the border between the two tribes.
 > “Gibeath” is probably Gibeah, the hometown of King Saul.
 > Gibeon also belongs to Benjamin. It is the city of the Gibeonites, with whom Israel had made a covenant (Chapter 9).

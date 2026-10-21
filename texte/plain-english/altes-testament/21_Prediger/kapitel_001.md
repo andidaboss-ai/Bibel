@@ -10,7 +10,7 @@ The Preacher calls himself “the son of David, king in Jerusalem.” That is wh
 The book is unusually honest. The Preacher looks at life “under the sun” and asks: What is left in the end? What does a person gain from all his hard work?
 His famous word is “hevel.” It really means “breath,” “mist” or “a puff of wind”: something that is there and disappears again at once. Our English source, the World English Bible, translates it as “vanity.” This edition keeps the word “vanity.” What is meant: Everything is fleeting, passing, impossible to hold on to.
 The book is not only sad. Again and again the Preacher says: Enjoy your food, your work, the people you love. That is a gift from God.
-At the end it says: “Fear God, and keep his commandments” (Chapter 12:13).
+At the end it says: “Fear God, and keep his commandments” (Ecclesiastes 12:13).
 The book of Ecclesiastes completes the book of Proverbs. Proverbs says how life usually goes. The Preacher says: But not always. And in the end, everyone dies.
 Many people find their own questions in this book. It shows: Doubts and questions too have a place in the Bible.
 

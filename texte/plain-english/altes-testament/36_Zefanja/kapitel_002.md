@@ -107,7 +107,7 @@ Everyone who passes by her
 will hiss and shake their fists.
 
 > **What does this mean?**
-> Verse 12: Cush lay south of Egypt. The Cushites are the people of Cush. For a time, kings from Cush also ruled over Egypt. This is about the political empire, not about the skin color or the origin of people. In Chapter 3:10, Zephaniah says that people from Cush will worship God. God loves all nations the same (compare Amos 9:7).
+> Verse 12: Cush lay south of Egypt. The Cushites are the people of Cush. For a time, kings from Cush also ruled over Egypt. This is about the political empire, not about the skin color or the origin of people. In Zephaniah 3:10, Zephaniah says that people from Cush will worship God. God loves all nations the same (compare Amos 9:7).
 > Verses 13–15: Nineveh, the capital of Assyria, will become a ruin where wild animals live. This happened in the year 612 BC (see the book of Nahum).
 > Which animals exactly are meant (pelican, porcupine, owl, bittern) is not certain. The meaning is: Where people used to celebrate, now only wild animals live.
 > Verse 15: Nineveh said: “I am, and there is no one besides me.” This is pride: putting yourself in the place of God (compare Isaiah 47:8). Such pride leads to a fall.

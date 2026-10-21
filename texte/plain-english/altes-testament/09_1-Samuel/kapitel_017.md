@@ -46,7 +46,7 @@ they were shocked and very afraid.
 > The coat of armor weighed 5,000 shekels, the spearhead 600 shekels. A shekel is a little under half an ounce.
 > A “weaver’s beam” was a thick wooden bar on a loom, a machine for weaving cloth.
 > Goliath suggests a duel: One man against one man decides the whole war. This was sometimes done at that time.
-> And Saul? He is the tallest man in Israel (Chapter 9:2). Really, he should have fought against Goliath. But he too is afraid.
+> And Saul? He is the tallest man in Israel (1 Samuel 9:2). Really, he should have fought against Goliath. But he too is afraid.
 
 ---
 
@@ -256,7 +256,7 @@ But he put Goliath’s armor in his tent.
 
 > **What does this mean?**
 > A single stone decides the fight. Goliath had heavy armor, but his forehead was uncovered.
-> David had no sword. He uses Goliath’s own sword to cut off his head. Later this sword will play a part once more (Chapter 21:9).
+> David had no sword. He uses Goliath’s own sword to cut off his head. Later this sword will play a part once more (1 Samuel 21:9).
 > This story has become famous all over the world. To this day people say “David against Goliath” when someone small goes up against an opponent who seems far too strong.
 > Here the Bible tells about a war with a lot of violence. The message is not: Violence is good. The message is: Whoever trusts God does not need to be afraid of enemies who seem far too strong.
 > At that time Jerusalem still belonged to the Jebusites. David conquers the city only later (2 Samuel 5). Maybe he brought the head there later, or the storyteller is already naming the later capital.

@@ -49,7 +49,7 @@ His name was Doeg the Edomite,
 the chief of Saul’s herdsmen.
 
 > **What does this mean?**
-> This short sentence is like a dark cloud. A servant of Saul sees everything that happens here. Later he will betray it (Chapter 22:9).
+> This short sentence is like a dark cloud. A servant of Saul sees everything that happens here. Later he will betray it (1 Samuel 22:9).
 > “Held back before the LORD”: Maybe he had to stay at the sanctuary for a while because of a vow or a cleansing.
 > According to its title, Psalm 52 is a prayer of David about Doeg.
 

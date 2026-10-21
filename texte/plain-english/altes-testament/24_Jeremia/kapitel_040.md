@@ -38,7 +38,7 @@ and lived with him among the people who were left in the land.
 > Verse 1: Jeremiah had first been put in chains with the other prisoners and taken as far as Ramah. Ramah was a gathering place for those being carried off (compare 31:15: Rachel weeps in Ramah).
 > Verses 2–3: Amazing: A Babylonian officer says what Jeremiah had always said: This happened because the people did not listen to God. Even a foreigner sees it.
 > Verse 4: Jeremiah may choose: to go to Babylon and be taken care of, or to stay in the destroyed land. Jeremiah decides to stay with his people, with the poor in the land.
-> (Chapter 39:14 tells more briefly that Jeremiah was taken out of the courtyard of the guard and handed over to Gedaliah. Probably he afterward ended up among the lines of prisoners and was set free again in Ramah.)
+> (Jeremiah 39:14 tells more briefly that Jeremiah was taken out of the courtyard of the guard and handed over to Gedaliah. Probably he afterward ended up among the lines of prisoners and was set free again in Ramah.)
 
 ---
 

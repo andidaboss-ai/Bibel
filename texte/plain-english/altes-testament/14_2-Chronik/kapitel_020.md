@@ -194,7 +194,7 @@ And the ships were wrecked.
 They were never able to sail to Tarshish.
 
 > **What does this mean?**
-> Verse 33 seems to contradict Chapter 17:6, where Jehoshaphat removed the high places. Maybe he removed them, but the people built them up again. Verse 33 also says: the heart of the people was not yet completely with God. A king can remove altars, but he cannot change hearts.
+> Verse 33 seems to contradict 2 Chronicles 17:6, where Jehoshaphat removed the high places. Maybe he removed them, but the people built them up again. Verse 33 also says: the heart of the people was not yet completely with God. A king can remove altars, but he cannot change hearts.
 > Jehoshaphat repeats his old mistake: again he makes an alliance with the godless royal house of Ahab. Ahaziah was Ahab’s son.
 > “Ships to sail to Tarshish” were large ships for the open sea, for trade. Ezion Geber was a port on the Red Sea, near today’s Eilat.
 > 1 Kings 22:48–49 tells the story a little differently: there Ahaziah wants to take part, and Jehoshaphat says no after the ships were wrecked. Maybe Jehoshaphat learned from the disaster.

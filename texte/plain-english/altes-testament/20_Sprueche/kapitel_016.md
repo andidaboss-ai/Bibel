@@ -107,7 +107,7 @@ whoever controls himself is better than someone who captures a city.
 but every decision comes from the LORD.
 
 > **What does this mean?**
-> Verse 25 repeats Chapter 14:12. Some proverbs appear twice, because they are especially important.
+> Verse 25 repeats Proverbs 14:12. Some proverbs appear twice, because they are especially important.
 > Verse 26: Hunger drives a person to work.
 > Verse 28: Whoever spreads rumors and gossip can even split up best friends.
 > Verse 31: Old people deserve respect. Their gray hair is like a crown.

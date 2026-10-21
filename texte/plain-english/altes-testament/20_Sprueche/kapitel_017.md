@@ -19,7 +19,7 @@ Whoever is glad about a disaster will not go unpunished.
 and the pride of children is their parents.
 
 > **What does this mean?**
-> Verse 1: Peace is more important than luxury (compare Chapter 15:17).
+> Verse 1: Peace is more important than luxury (compare Proverbs 15:17).
 > Verse 2: Wisdom counts for more than family background. A wise servant can get further than a son who is good for nothing.
 > Verse 3: Metal is tested in the fire to see if it is real. In the same way, God tests what is in our hearts.
 > Verse 5: Whoever laughs at the poor, or is glad when things go badly for others, insults God, who created every person.

@@ -122,7 +122,7 @@ and speak in the language of his own people.
 > **What does this mean?**
 > The king does not know what to do. He asks his advisers. A family quarrel becomes an affair of state.
 > Memucan exaggerates wildly: if the queen does not obey, all the women in the empire will look down on their husbands!
-> The “laws of the Persians and the Medes” could not be changed. That becomes very important later in the story (Chapter 8:8; compare Daniel 6:8).
+> The “laws of the Persians and the Medes” could not be changed. That becomes very important later in the story (Esther 8:8; compare Daniel 6:8).
 > The result is ridiculous: a law for the whole world empire that “every man should rule his own house”. As if you could order respect by law! The Bible tells this with gentle humor. It does not praise this law.
 > In other places the Bible teaches that husband and wife should respect and love each other (for example Genesis 2:24; Ephesians 5:21–33).
 > Through Vashti’s removal the place becomes free for Esther. That is how God’s hidden plan begins.

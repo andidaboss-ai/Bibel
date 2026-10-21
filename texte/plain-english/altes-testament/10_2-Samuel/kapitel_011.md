@@ -28,7 +28,7 @@ She sent someone to tell David,
 > Now the darkest part of David’s life begins. The Bible tells it quite openly. It does not hide the guilt of its greatest king.
 > “At the turn of the year” means the spring. After the rainy season in winter, people went to war again.
 > “At the time when kings go out to war,” David stays at home. He is not where he belongs.
-> David sees a woman bathing. He even learns that she is married, to Uriah, one of his most faithful soldiers (Chapter 23:39). And yet he has her brought to him.
+> David sees a woman bathing. He even learns that she is married, to Uriah, one of his most faithful soldiers (2 Samuel 23:39). And yet he has her brought to him.
 > How much choice did Bathsheba have? The king sends messengers to take her. In those days a woman could hardly say no to the king. The text says nothing about her feelings. Many interpreters see here a serious abuse of power by David. Later the Bible makes clear that the whole guilt lies with David, not with Bathsheba (Chapter 12).
 > “She had just been made clean from her uncleanness”: this means the cleansing after her monthly period (Leviticus 15:19–28). This also shows: the child can only be David’s, not Uriah’s, because Uriah was away at war.
 > Bathsheba sends only three words, in Hebrew only two: “I am pregnant.” In them lies all her distress. In those days adultery was punished by death (Leviticus 20:10).

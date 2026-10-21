@@ -78,7 +78,7 @@ because the foundation of the LORD’s house had been laid.
 
 > **What does this mean?**
 > The second month is the same month in which Solomon began to build the first temple (1 Kings 6:1). Again, there is a link to the old temple.
-> “The sons of Judah” in verse 9: this probably means “Hodaviah,” the Levite family from Chapter 2:40. The two names look alike in Hebrew.
+> “The sons of Judah” in verse 9: this probably means “Hodaviah,” the Levite family from Ezra 2:40. The two names look alike in Hebrew.
 > When the foundation is laid, they celebrate. They sing almost the same words as at the dedication of the first temple: “For he is good, for his loving kindness endures forever” (2 Chronicles 5:13; 7:3; Psalm 136).
 > “To one another”: two choirs sing to each other, as was usual with many psalms.
 

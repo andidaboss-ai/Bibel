@@ -100,7 +100,7 @@ And all the people shall say, ‘Amen.’
 And all the people shall say, ‘Amen.’”
 
 > **What does this mean?**
-> “He dishonors his father’s bed”: That is what the WEB, our English source text, says. The Hebrew has the same picture as in Chapter 22:30: “uncover the edge of his father’s robe.”
+> “He dishonors his father’s bed”: That is what the WEB, our English source text, says. The Hebrew has the same picture as in Deuteronomy 22:30: “uncover the edge of his father’s robe.”
 > “Amen” means “That is so” or “Let it be so.” All the people agree. With it, everyone says: I know what is right, and I want to keep to it.
 > Something stands out: Almost all these sins happen in secret: setting up an idol “in secret,” killing “in secret,” leading a blind person the wrong way, who cannot see it. A human court would often never find out about them. But God sees it.
 > Again it is about protecting the weak: the blind, foreigners, orphans, and widows.

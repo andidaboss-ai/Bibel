@@ -43,7 +43,7 @@ They cast it for one day after another and for one month after another.
 The lot fell on the twelfth month, the month Adar.
 
 > **What does this mean?**
-> “Pur” is an old word for “lot”. Haman has the lot cast to find a “lucky” day for the destruction. The name of the feast of Purim comes from the word “Pur” (plural “Purim”) (Chapter 9:26).
+> “Pur” is an old word for “lot”. Haman has the lot cast to find a “lucky” day for the destruction. The name of the feast of Purim comes from the word “Pur” (plural “Purim”) (Esther 9:26).
 > The lot falls on a day 11 months later. So Haman has to wait a long time. This time will be decisive for the rescue. The Bible says: “The lot is thrown into the lap, but every decision comes from the LORD” (Proverbs 16:33).
 > The twelfth year of the king is about 474 BC. Esther has already been queen for five years.
 
@@ -78,7 +78,7 @@ Do with them whatever you think is good.”
 > Such lies have again and again led to persecution and murder in history, up to the Holocaust, in which 6 million Jews were murdered. The book of Esther warns: this is how it begins.
 > The Bible says “10,000 talents of silver”. A talent is about 75 pounds. That was a huge amount, maybe two thirds of the yearly tax income of the whole empire. Haman probably wanted to take the money from the property of the murdered Jews.
 > The king does not even ask which people is meant. He gives Haman his signet ring, that is, full power. Indifference can be just as dangerous as hatred.
-> “The silver is given to you” was probably a polite phrase. Later Esther says that her people has been “sold” (Chapter 7:4).
+> “The silver is given to you” was probably a polite phrase. Later Esther says that her people has been “sold” (Esther 7:4).
 
 ---
 

@@ -31,7 +31,7 @@ because Jehoram was sick.
 
 > **What does this mean?**
 > This story is told in more detail in 2 Kings 8–9.
-> Verse 2: here it says “42” years. 2 Kings 8:26 says “22” years. That fits better, for his father Jehoram only lived to be 40 years old (Chapter 21:20). Probably a mistake happened here in copying. Some old translations also have “22” or “20” here.
+> Verse 2: here it says “42” years. 2 Kings 8:26 says “22” years. That fits better, for his father Jehoram only lived to be 40 years old (2 Chronicles 21:20). Probably a mistake happened here in copying. Some old translations also have “22” or “20” here.
 > Athaliah was the daughter of Ahab and the granddaughter of Omri. In Hebrew, “daughter” can also mean “descendant”.
 > Verse 6: here Ahaziah is called “Azariah”. This is probably a copying mistake. “Ramah” is a short form of Ramoth Gilead.
 > The problem of this king: bad advisers. His mother and Ahab’s family led him into ruin.
@@ -79,6 +79,6 @@ She hid Joash from Athaliah, so Athaliah did not kill him.
 During that time Athaliah ruled over the land.
 
 > **What does this mean?**
-> This is one of the darkest moments in the history of Judah. Athaliah wants to kill her own grandchildren in order to rule herself. If she had succeeded, David’s family would have died out. And God’s promise to David (Chapter 21:7) would have been broken.
+> This is one of the darkest moments in the history of Judah. Athaliah wants to kill her own grandchildren in order to rule herself. If she had succeeded, David’s family would have died out. And God’s promise to David (2 Chronicles 21:7) would have been broken.
 > But a brave woman saves the child: Jehoshabeath. In 2 Kings 11:2 she is called “Jehosheba”. She was the aunt of little Joash and the wife of the priest Jehoiada. That is why she could hide him in the temple.
 > Christians see a picture here: as God back then kept David’s line alive through a little child, so later Jesus came from this line. He, too, was saved as a child from a murderous king (Matthew 2:13–16).

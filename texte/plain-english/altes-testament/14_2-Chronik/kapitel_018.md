@@ -19,7 +19,7 @@ We will be with you in the war.”
 
 > **What does this mean?**
 > This story is almost the same in 1 Kings 22.
-> “He made an alliance”: what is meant is that Jehoshaphat’s son Jehoram married Athaliah, the daughter of Ahab (Chapter 21:6). This marriage later brought great disaster on Judah (Chapters 22–23).
+> “He made an alliance”: what is meant is that Jehoshaphat’s son Jehoram married Athaliah, the daughter of Ahab (2 Chronicles 21:6). This marriage later brought great disaster on Judah (Chapters 22–23).
 > Ahab was the king of the northern kingdom who, together with his wife Jezebel, promoted the worship of Baal.
 > Jehoshaphat already had riches and honor. Why did he need the alliance with Ahab? Chronicles hints: he did not need it at all.
 

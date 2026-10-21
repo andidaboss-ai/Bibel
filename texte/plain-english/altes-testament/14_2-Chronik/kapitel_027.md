@@ -27,7 +27,7 @@ The Ammonites paid him the same amount in the second year and in the third year.
 because he set his ways in order before the LORD his God.
 
 > **What does this mean?**
-> Jotham ruled from about 750 to 735 BC. For part of this time, he ruled for his sick father (Chapter 26:21).
+> Jotham ruled from about 750 to 735 BC. For part of this time, he ruled for his sick father (2 Chronicles 26:21).
 > Verse 2: Jotham was like his father, but he did not make his father’s mistake. He did not force his way into the temple to offer incense himself. He had learned from his father’s mistake.
 > “The people still did evil things”: a good king alone cannot change the heart of the people. At the same time, the prophets Isaiah and Micah complained about injustice and the worship of idols in Judah.
 > The Ophel is a hill in Jerusalem between the City of David and the temple.

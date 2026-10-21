@@ -73,7 +73,7 @@ Don’t wipe out the good deeds that I have done
 for the house of my God and for its services.
 
 > **What does this mean?**
-> The people had promised: “We will not abandon the house of our God” (Chapter 10:39). But they had stopped giving the tithe. The Levites had to go back to their fields to survive.
+> The people had promised: “We will not abandon the house of our God” (Nehemiah 10:39). But they had stopped giving the tithe. The Levites had to go back to their fields to survive.
 > Nehemiah’s question is still important today: “Why is God’s house forsaken?”
 > He again appoints faithful men. Faithfulness is the most important thing when you handle what belongs to others.
 
@@ -113,7 +113,7 @@ Remember me for this also, my God,
 and spare me according to the greatness of your loving kindness.
 
 > **What does this mean?**
-> The promise about the Sabbath (Chapter 10:31) had also been broken. On the day of rest people worked and traded as on any other day.
+> The promise about the Sabbath (Nehemiah 10:31) had also been broken. On the day of rest people worked and traded as on any other day.
 > The Sabbath is a gift of God: a day of rest for everyone, also for servants, foreigners and animals (Deuteronomy 5:12–15). When trade decides everything, this rest is lost.
 > The Sabbath begins on Friday evening, when it gets dark. That is why Nehemiah shuts the gates when darkness falls.
 > At the end Nehemiah does not only pray “Remember me”, but also: “Spare me.” He knows that he himself needs God’s grace.

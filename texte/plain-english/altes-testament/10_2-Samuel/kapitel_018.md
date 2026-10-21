@@ -80,9 +80,9 @@ and thrust them into Absalom’s heart while he was still alive in the middle of
 They struck him and killed him.
 
 > **What does this mean?**
-> Absalom gets caught by his head in the branches, probably by his long, thick hair that he was so proud of (Chapter 14:26). His mule, a sign of royal dignity, runs away. He hangs helplessly “between the sky and the earth.”
+> Absalom gets caught by his head in the branches, probably by his long, thick hair that he was so proud of (2 Samuel 14:26). His mule, a sign of royal dignity, runs away. He hangs helplessly between the sky and the earth (verse 9).
 > The simple soldier obeys the king. He says: I would not kill him for any money in the world. The king has forbidden it.
-> But Joab does not obey. He knows: as long as Absalom lives, there will be no peace. He kills him, even though he cannot defend himself. Joab acts out of political calculation, not by the king’s command. It is not the first time (Chapter 3:27).
+> But Joab does not obey. He knows: as long as Absalom lives, there will be no peace. He kills him, even though he cannot defend himself. Joab acts out of political calculation, not by the king’s command. It is not the first time (2 Samuel 3:27).
 > The 10 pieces of silver are about 4 ounces of silver, and the 1,000 pieces of silver are about 25 pounds.
 
 ---
@@ -107,7 +107,7 @@ To this day it is called Absalom’s monument.
 > With Absalom’s death the war is over. Joab ends the bloodshed.
 > Absalom gets no royal grave. He is thrown into a pit. A heap of stones over a dead man was a sign of shame, as with Achan (Joshua 7:26).
 > Absalom had set up a monument for himself so that people would remember him. But his grave is not the monument, but the heap of stones in the forest.
-> Chapter 14:27 said that he had three sons. Maybe they had died young.
+> 2 Samuel 14:27 said that he had three sons. Maybe they had died young.
 > Today in the Kidron Valley in Jerusalem there is a tomb that people call “Absalom’s Tomb.” But it was built much later, around the time of Jesus.
 
 ---

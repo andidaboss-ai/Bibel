@@ -68,7 +68,7 @@ his brothers and their sons, 20 men,
 All of them were named by name.
 
 > **What does this mean?**
-> Again Levites are missing (compare Chapter 2:40). Many had settled down in Babylon and did not want to go back.
+> Again Levites are missing (compare Ezra 2:40). Many had settled down in Babylon and did not want to go back.
 > Ezra acts wisely: he sends respected men and teachers to convince the Levites. Casiphia was probably a place in Babylonia where many Levites and temple servants lived.
 > In the end 38 Levites and 220 temple servants come along. Ezra sees God’s good hand in this.
 

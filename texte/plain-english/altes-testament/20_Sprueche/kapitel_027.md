@@ -50,7 +50,7 @@ it will be counted as a curse to him.
 > Verse 7: Whoever is full does not even value the best things. Whoever is hungry is glad about everything. Thankfulness often depends on whether you know what it means to lack something.
 > Verse 8: Whoever has to leave his home is like a bird without a nest. Many refugees know this feeling.
 > Verse 10: Old friendships are precious. And in times of need, a neighbor often helps faster than relatives who live far away.
-> Verses 12–13 repeat Chapter 22:3 and 20:16.
+> Verses 12–13 repeat Proverbs 22:3 and 20:16.
 > Verse 14: A funny proverb: Whoever shouts a blessing loudly early in the morning, while the neighbor still wants to sleep, does not make himself popular. The right moment matters.
 
 ---
