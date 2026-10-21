@@ -13,7 +13,7 @@ What do I gain, more than if I had sinned?’
 [4] I will answer you,
 and your friends with you.
 [5] Look up at the skies and see!
-Look at the clouds, which are higher than you!
+See the skies, which are higher than you!
 [6] If you have sinned, what harm do you do to him?
 If your wrongdoings are many, what do you do to him?
 [7] If you are righteous, what do you give him?
@@ -51,4 +51,4 @@ He piles up words without knowledge.”
 > Elihu says: Many people cry out in their need. But they cry out only because of their pain, not for God himself. They do not ask: “Where is God my Maker?”
 > “Who gives songs in the night” is a beautiful picture: Even in the middle of dark times, God can give comfort and even joy (compare Psalm 42:8; Acts 16:25).
 > Verse 14 can also be read as a comfort: “Your case is before him, and you are waiting for him!” God has not forgotten Job’s case.
-> Verses 15–16: Elihu thinks that God has not yet punished Job in anger. That is why Job talks so much. Here too Elihu is very strict. Many people in need did not just cry out with “empty talk.” They really searched for God, just as Job did.
+> Verses 15–16: Elihu thinks that God has not yet punished Job in anger. That is why Job talks so much. Here too Elihu is very strict. Many people in need did not just give “an empty cry.” They really searched for God, just as Job did.

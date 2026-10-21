@@ -88,7 +88,7 @@ Now look after your own house, David!”
 So Israel went home to their tents.
 [17] But Rehoboam ruled over the people of Israel who lived in the cities of Judah.
 [18] Then King Rehoboam sent Adoram, who was over the men who had to do forced labor.
-But all Israel stoned him to death with stones.
+But all Israel stoned him to death.
 King Rehoboam hurried to get up into his chariot
 to flee to Jerusalem.
 [19] So Israel rebelled against David’s house, to this day.
@@ -101,7 +101,7 @@ No one followed David’s house except the tribe of Judah alone.
 > The cry “To your tents, Israel!” had been heard once before, in the revolt of Sheba (2 Samuel 20:1). It means: we are going home, we no longer belong to you.
 > Rehoboam sends of all people the head of the forced labor to the angry crowd. That was very unwise. Adoram is killed. He is probably the same man as Adoniram in 1 Kings 4:6 and 5:14.
 > From now on there are two kingdoms:
-> – in the north the kingdom of **Israel** (ten tribes), King Jeroboam,
+> – in the north the kingdom of **Israel** (10 tribes), King Jeroboam,
 > – in the south the kingdom of **Judah** (with Benjamin), King Rehoboam, capital Jerusalem.
 > This happened about 930 BC. The division lasted about 200 years, until the northern kingdom was destroyed by Assyria in 722 BC.
 > From now on in the books of Kings, “Israel” usually means only the northern kingdom.
@@ -120,8 +120,8 @@ and bring the kingdom back to Rehoboam the son of Solomon.
 and to the whole house of Judah and Benjamin,
 and to the rest of the people, and say:
 [24] ‘The LORD says:
-You must not go up or fight against your brothers, the people of Israel.
-Everyone go back to his house, for this thing is from me.’”
+“You must not go up or fight against your brothers, the people of Israel.
+Everyone go back to his house, for this thing is from me.”’”
 So they listened to the LORD’s word
 and turned back and went their way, as the LORD had said.
 

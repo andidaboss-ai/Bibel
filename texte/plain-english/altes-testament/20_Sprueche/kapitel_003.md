@@ -39,7 +39,7 @@ and your wine vats will overflow with new wine.
 [11] My son, don’t reject the LORD’s discipline.
 Don’t be annoyed when he corrects you.
 [12] The LORD corrects the one he loves,
-just as a father corrects the son he loves.
+just as a father corrects the son he takes delight in.
 
 > **What does this mean?**
 > Verses 5–6 are among the best-known verses of the Bible. Our understanding is good, but it has limits. Whoever trusts God and includes him in all decisions finds the right way.

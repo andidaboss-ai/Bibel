@@ -183,7 +183,7 @@ And he stayed in Egypt until Solomon died.
 > **What does this mean?**
 > Jeroboam was a gifted overseer of the workers from the “house of Joseph,” that is, from the tribes of Ephraim and Manasseh in the north. He saw for himself how heavy the burdens on the people were.
 > The prophet Ahijah does an action that is a sign: he tears a new cloak into 12 pieces, for the 12 tribes. Jeroboam gets 10. The picture is strong: something new and whole is torn apart.
-> 10 and 1 together are only 11. The 12th tribe, Levi, had no land of its own. Or Benjamin is counted here as part of Judah. The Bible does not explain the numbers exactly.
+> 10 and 1 together are only 11. The twelfth tribe, Levi, had no land of its own. Or Benjamin is counted here as part of Judah. The Bible does not explain the numbers exactly.
 > “A lamp in Jerusalem”: David’s family is not to die out. From it come the kings of Judah. Christians believe that Jesus later came from this family line. Jews expect the Messiah from the house of David.
 > God makes Jeroboam a great offer: the same as David, if he stays faithful. The next chapter shows whether he accepts it.
 > “But not forever” (verse 39): in the middle of the punishment there is already hope.

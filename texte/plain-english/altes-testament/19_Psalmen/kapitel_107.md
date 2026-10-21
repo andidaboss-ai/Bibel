@@ -40,7 +40,7 @@ and he rescued them from their distress.
 so that they came to a city to live in.
 [8] Let them praise the LORD for his loving kindness,
 for the wonderful things he does for people!
-[9] For he satisfies the thirsty soul.
+[9] For he satisfies the longing soul.
 He fills the hungry soul with good things.
 
 > **What does this mean?**

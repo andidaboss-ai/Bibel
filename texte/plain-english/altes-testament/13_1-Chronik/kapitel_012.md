@@ -64,7 +64,7 @@ to the east and to the west.
 > **What does this mean?**
 > The Gadites came from the other side of the Jordan. They crossed the river in spring, when it floods because the snow melts on Mount Hermon. That shows their courage and their determination.
 > “Like lions and gazelles”: strong and fast.
-> “The one who was least was equal to 100” can also mean: the least was captain over a hundred, the greatest over a thousand.
+> “The one who was least was equal to 100” can also mean: the least was captain over 100, the greatest over 1,000.
 
 ---
 

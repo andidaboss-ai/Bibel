@@ -16,7 +16,7 @@ and whose spirit has no deceit in it.
 > **What does this mean?**
 > Psalm 32 is one of the seven psalms of repentance. It is about the happiness of being forgiven.
 > “Contemplative psalm”: The Hebrew word is “Maskil.” It may mean “a song that gives insight” or “a skillful song.”
-> Three words for wrongdoing: disobedience (crossing a line on purpose), sin (missing the target), guilt (what is wrong and crooked). And three words for forgiveness: forgive (take away), cover, not count against. God forgives completely.
+> Three words for guilt: wrongdoing (crossing a line on purpose), sin (missing the target), guilt (what is wrong and crooked). And three words for forgiveness: forgive (take away), cover, not count against. God forgives completely.
 > Paul quotes verses 1–2 in Romans 4:7–8: Forgiveness is a gift, not a reward for good deeds.
 
 ---

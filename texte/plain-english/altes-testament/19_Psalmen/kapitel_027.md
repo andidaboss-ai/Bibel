@@ -77,7 +77,7 @@ people who breathe out cruelty.
 [13] I am still confident of this:
 I will see the goodness of the LORD in the land of the living.
 [14] Wait for the LORD.
-Be strong, and let your heart be brave.
+Be strong, and let your heart take courage.
 Yes, wait for the LORD.
 
 > **What does this mean?**

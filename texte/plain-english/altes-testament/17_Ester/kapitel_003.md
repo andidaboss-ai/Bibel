@@ -44,7 +44,7 @@ The lot fell on the twelfth month, the month Adar.
 
 > **What does this mean?**
 > “Pur” is an old word for “lot”. Haman has the lot cast to find a “lucky” day for the destruction. The name of the feast of Purim comes from the word “Pur” (plural “Purim”) (Chapter 9:26).
-> The lot falls on a day eleven months later. So Haman has to wait a long time. This time will be decisive for the rescue. The Bible says: “The lot is thrown into the lap, but every decision comes from the LORD” (Proverbs 16:33).
+> The lot falls on a day 11 months later. So Haman has to wait a long time. This time will be decisive for the rescue. The Bible says: “The lot is thrown into the lap, but every decision comes from the LORD” (Proverbs 16:33).
 > The twelfth year of the king is about 474 BC. Esther has already been queen for five years.
 
 ---
@@ -60,7 +60,7 @@ They do not keep the king’s laws.
 So it is not good for the king to let them stay.
 [9] If it pleases the king,
 let an order be written to destroy them.
-Then I will pay 10,000 talents of silver
+Then I will pay 10,000 talents of silver (about 750,000 pounds)
 to the men who are in charge of the king’s business.
 They can put it into the king’s treasury.”
 [10] The king took his signet ring off his hand.
@@ -75,7 +75,7 @@ Do with them whatever you think is good.”
 > – He says: they are different from us.
 > – He mixes truth and lies: the Jews did have their own laws, yes. But that they did not keep the king’s laws was a lie. Mordecai had even saved the king’s life!
 > – He turns it into a danger for the state.
-> Such lies have again and again led to persecution and murder in history, up to the Holocaust, in which six million Jews were murdered. The book of Esther warns: this is how it begins.
+> Such lies have again and again led to persecution and murder in history, up to the Holocaust, in which 6 million Jews were murdered. The book of Esther warns: this is how it begins.
 > The Bible says “10,000 talents of silver”. A talent is about 75 pounds. That was a huge amount, maybe two thirds of the yearly tax income of the whole empire. Haman probably wanted to take the money from the property of the murdered Jews.
 > The king does not even ask which people is meant. He gives Haman his signet ring, that is, full power. Indifference can be just as dangerous as hatred.
 > “The silver is given to you” was probably a polite phrase. Later Esther says that her people has been “sold” (Chapter 7:4).
@@ -109,7 +109,7 @@ The king and Haman sat down to drink.
 But the city of Susa was confused and upset.
 
 > **What does this mean?**
-> The order is written on the 13th of Nisan, one day before the Passover. At Passover the Jews celebrate their freedom from Egypt. Now they are threatened with destruction.
+> The order is written on the thirteenth day of Nisan, one day before the Passover. At Passover the Jews celebrate their freedom from Egypt. Now they are threatened with destruction.
 > “The king’s local governors”: here the Hebrew has the Persian word “satraps”, the governors of the large provinces.
 > The order is a call to genocide: all Jews are to be killed, children and women too. Whoever takes part may rob their property.
 > Verse 15 shows a terrible contrast: the king and Haman drink comfortably, while a whole people is condemned to death. But the city of Susa is upset. Not all people agree with the hatred.

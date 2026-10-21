@@ -46,12 +46,12 @@ But the foolish despise wisdom and instruction.
 [8] My son, listen to your father’s instruction,
 and don’t leave your mother’s teaching!
 [9] For they will be a beautiful wreath for your head
-and a chain around your neck.
+and chains around your neck.
 [10] My son, if sinners try to lure you, don’t agree!
 [11] If they say, “Come with us!
 Let’s lie in wait for blood!
 Let’s secretly lie in wait for the innocent without any reason!
-[12] Let’s swallow them up alive like Sheol, the world of the dead,
+[12] Let’s swallow them up alive like Sheol (the world of the dead),
 whole, like those who go down into the pit!
 [13] We’ll find all kinds of valuable wealth.
 We’ll fill our houses with plunder.

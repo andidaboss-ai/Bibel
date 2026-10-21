@@ -8,7 +8,7 @@
 [1] Be full of joy in the LORD, you righteous people!
 It is fitting for honest people to praise him.
 [2] Give thanks to the LORD with the lyre.
-Sing praises to him with the harp of ten strings.
+Sing praises to him with the harp of 10 strings.
 [3] Sing a new song to him.
 Play well, with shouts of joy!
 [4] For the LORD’s word is right.
@@ -17,7 +17,7 @@ All his work is done in faithfulness.
 The earth is full of the LORD’s loving kindness.
 
 > **What does this mean?**
-> Psalm 33 is a great song of praise. It has no superscription.
+> Psalm 33 is a great song of praise. It has no heading.
 > “A new song”: God’s goodness is new every day, so our praise should also be new and fresh again and again. This phrase appears often in the Bible (compare Psalm 96:1; Revelation 5:9).
 > “The earth is full of the LORD’s loving kindness”: You can discover God’s love everywhere in the world.
 

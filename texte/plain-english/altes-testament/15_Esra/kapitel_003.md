@@ -15,7 +15,7 @@ They built the altar of the God of Israel.
 They wanted to offer burnt offerings on it,
 as it is written in the Law of Moses, the man of God.
 [3] They were afraid of the peoples of the lands around them.
-But they still set up the altar on its old base.
+But they still set up the altar on its base.
 They offered burnt offerings on it to the LORD,
 every morning and every evening.
 [4] They celebrated the Feast of Booths, as it is written.

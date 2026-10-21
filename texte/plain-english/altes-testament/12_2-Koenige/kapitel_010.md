@@ -19,9 +19,9 @@ and fight for your master’s house.”
 [4] But they were terribly afraid and said,
 “Look, the two kings could not stand against him!
 How then can we stand?”
-[5] Then the man in charge of the palace and the man in charge of the city
-sent a message to Jehu.
-The elders and those who were bringing up the children sent it too:
+[5] Then a message came to Jehu.
+It was from the man in charge of the palace, the man in charge of the city,
+the elders, and those who were bringing up the children:
 “We are your servants.
 We will do everything you tell us.
 We will not make anyone king.

@@ -39,7 +39,7 @@ I did not dare to tell you what I think.
 [7] I said, ‘Age should speak.
 Many years should teach wisdom.’
 [8] But there is a spirit in people,
-and the breath of the Almighty gives them understanding.
+and the Spirit of the Almighty gives them understanding.
 [9] It is not the great who are wise.
 It is not the old who understand what is right.
 [10] That is why I said, ‘Listen to me!
