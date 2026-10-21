@@ -37,7 +37,7 @@ He said to him,
 Moses, the servant of the LORD, and the assembly of Israel set this tax
 for the Tent of the Testimony.”
 [7] Athaliah was a wicked woman.
-Her sons had broken into God’s house.
+Her sons had damaged God’s house.
 They had even given all the holy things of the LORD’s house to the Baals.
 [8] So the king gave an order.
 They made a chest
@@ -161,7 +161,7 @@ and Jehozabad, the son of Shimrith, a woman from Moab.
 about the many heavy burdens laid on him,
 and about the rebuilding of God’s house.
 It is written in the commentary of the book of the kings.
-His son Amaziah became king after him.
+His son Amaziah became king in his place.
 
 > **What does this mean?**
 > Chronicles shows the connection: the leaders who had led Joash into worshiping idols are killed by the Syrians. And Joash himself is murdered by his servants, because of the murder of Zechariah.

@@ -18,7 +18,7 @@ You have made us drink wine that makes us stagger.
 [4] You have given a banner to those who fear you,
 so that they can raise it because of the truth.
 Selah.
-[5] Save us with your right hand, and answer us,
+[5] Save us with your right hand and answer us,
 so that the people you love may be rescued.
 
 > **What does this mean?**
@@ -38,7 +38,6 @@ and measure out the valley of Succoth.
 [7] Gilead is mine, and Manasseh is mine.
 Ephraim is the helmet that protects my head.
 Judah is my scepter.
-A scepter is a royal staff, a sign of a king’s power.
 [8] Moab is my washbasin.
 I will throw my sandal on Edom.
 I shout in triumph over Philistia.”
@@ -46,6 +45,7 @@ I shout in triumph over Philistia.”
 > **What does this mean?**
 > God answers with a promise: The whole land belongs to me.
 > Shechem, Succoth, Gilead, Manasseh, Ephraim and Judah: These are areas of Israel. They are like God’s equipment: Ephraim is his helmet, Judah is his ruler’s staff.
+> Verse 7: A scepter is a royal staff, a sign of a king’s power.
 > The neighboring peoples are compared with household objects: Moab is the “washbasin” in which you wash your feet. “Throwing a sandal on Edom” was a sign of claiming ownership (compare Ruth 4:7).
 > This is the picture language of that time. It means: God is the Lord over all peoples.
 

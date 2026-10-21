@@ -14,7 +14,7 @@ Her mouth is smoother than oil.
 [4] But in the end she is as bitter as wormwood
 and as sharp as a two-edged sword.
 [5] Her feet go down to death.
-Her steps lead straight to Sheol, the world of the dead.
+Her steps lead straight to Sheol (the world of the dead).
 [6] She does not think about the way of life.
 Her ways are crooked, and she does not know it.
 [7] So now, my sons, listen to me!

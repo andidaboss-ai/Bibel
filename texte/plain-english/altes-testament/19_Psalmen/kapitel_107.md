@@ -6,8 +6,8 @@
 ## The fifth book of Psalms
 
 > **What does this mean?**
-> With Psalm 107, the fifth and last book of Psalms begins (Psalm 107–150).
-> It contains many songs of praise and thanks, the pilgrim songs (Psalm 120–134), the long Psalm 119 about God’s word, and at the end the great Hallelujah psalms (146–150).
+> With Psalm 107, the fifth and last book of Psalms begins (Psalms 107–150).
+> It contains many songs of praise and thanks, the pilgrim songs (Psalms 120–134), the long Psalm 119 about God’s word, and at the end the great Hallelujah psalms (146–150).
 > Psalm 107 connects to the end of Psalm 106. There the people asked: “Gather us from among the nations.” Here they give thanks: God has gathered us.
 
 ---

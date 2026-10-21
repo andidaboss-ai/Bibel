@@ -191,5 +191,5 @@ Praise Yah!
 
 > **What does this mean?**
 > Verse 47: A prayer from the exile: Gather us again! Bring us home!
-> Verse 48 is the end of the fourth book of Psalms (Psalm 90–106). Here all the people are called to answer with “Amen.”
+> Verse 48 is the end of the fourth book of Psalms (Psalms 90–106). Here all the people are called to answer with “Amen.”
 > With Psalm 107, the fifth and last book of Psalms begins.

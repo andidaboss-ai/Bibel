@@ -17,7 +17,7 @@ the name of the LORD is to be praised!
 His glory is above the heavens.
 
 > **What does this mean?**
-> With Psalm 113, the “Hallel” begins (Psalm 113–118). Jewish people still sing these psalms at the great festivals today, especially at Passover. Jesus also sang them with his disciples at the Last Supper (Matthew 26:30).
+> With Psalm 113, the “Hallel” begins (Psalms 113–118). Jewish people still sing these psalms at the great festivals today, especially at Passover. Jesus also sang them with his disciples at the Last Supper (Matthew 26:30).
 > Verse 3: God should be praised all day long and everywhere in the world, from east to west.
 
 ---
