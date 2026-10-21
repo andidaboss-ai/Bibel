@@ -41,7 +41,6 @@ In you they have wronged the orphan and the widow.
 and you have treated my Sabbaths as if they were not holy.
 [9] In you there have been men who tell lies about others, so that blood is shed.
 In you they have eaten on the mountains.
-That means: at the places where idols were worshiped.
 Among you they have done shameful things.
 [10] In you men have slept with their fathers’ wives.
 In you men have forced themselves on women
@@ -76,6 +75,7 @@ Then you will know that I am the LORD.”’”
 > – Lies about others that lead to death.
 > – Sexual violence and abuse in families.
 > – Bribes, unfair interest, taking advantage of others out of greed.
+> Verse 9: “Eaten on the mountains” means: at the places where idols were worshiped.
 > Verses 10–11: “Forced himself on” means sexual violence here: Women were abused against their will, even inside the family. The Bible clearly calls this wrong. The guilt is always with the one who does it, never with the victim.
 > If you have experienced sexual violence or abuse: It is not your fault, and you are not alone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 12: At the end of the list it says: “And you have forgotten me.” That is the root of everything.
@@ -86,7 +86,6 @@ Then you will know that I am the LORD.”’”
 
 [17] The word of the LORD came to me. He said,
 [18] “Son of man, the people of Israel have become slag to me.
-Slag is the worthless waste that is left when metal is melted.
 All of them are bronze, tin, iron, and lead in the middle of the furnace.
 They are the slag left over from silver.
 [19] So this is what the Lord GOD says:
@@ -106,7 +105,7 @@ And you will know that I, the LORD,
 have poured out my fury on you.’”
 
 > **What does this mean?**
-> A picture from working with metal: To make silver pure, it is melted in a furnace. The less valuable metals separate from it as “slag.”
+> A picture from working with metal: To make silver pure, it is melted in a furnace. The less valuable metals separate from it as “slag.” Slag is the worthless waste that is left when metal is melted.
 > Israel was supposed to be valuable silver. But it is only slag now. Jerusalem becomes a furnace: During the siege, everyone is crowded together in the city, and the “fire” of judgment comes over them.
 > In other texts, the furnace is also a picture of making pure. That means God cleans his people so that the good is left over (Isaiah 1:25; Malachi 3:2–3).
 

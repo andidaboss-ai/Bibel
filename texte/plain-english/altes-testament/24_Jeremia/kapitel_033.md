@@ -116,11 +116,11 @@ so I will make the descendants of David my servant many,
 and the Levites who serve me.’”
 [23] The LORD’s word came to Jeremiah. He said,
 [24] “Haven’t you noticed what this people has said?
-‘The LORD has rejected the two families which he chose.’
+‘Has the LORD rejected the two families which he chose?’
 That is how they despise my people,
 as if they were no longer a nation in their eyes.”
 [25] The LORD says:
-“If I have not made my covenant with day and night,
+“If my covenant with day and night fails,
 if I have not set the laws of heaven and earth,
 [26] then I will also reject the descendants of Jacob and of David my servant,
 so that I will not take any of his descendants

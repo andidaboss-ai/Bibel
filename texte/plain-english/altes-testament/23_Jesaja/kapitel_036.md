@@ -30,7 +30,7 @@ isn’t he the one whose high places and altars Hezekiah has removed,
 and who has said to Judah and Jerusalem,
 ‘You shall worship in front of this altar’?”
 [8] So now, make a bet with my master, the king of Assyria:
-I will give you two thousand horses
+I will give you 2,000 horses
 if you can find riders for them on your side.
 [9] How then could you drive back even one officer,
 the least of my master’s servants?

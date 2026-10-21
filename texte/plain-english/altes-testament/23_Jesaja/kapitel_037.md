@@ -173,7 +173,7 @@ for my own sake and for the sake of my servant David.’”
 ## The rescue of Jerusalem (Verses 36–38)
 
 [36] Then the angel of the LORD went out
-and struck down one hundred eighty-five thousand men in the camp of the Assyrians.
+and struck down 185,000 men in the camp of the Assyrians.
 When people got up early in the morning,
 look, they were all dead bodies.
 [37] So Sennacherib, the king of Assyria, broke camp,

@@ -8,7 +8,7 @@
 Ezekiel was a priest from Jerusalem. In the year 597 BC, he was taken away to Babylon together with King Jehoiachin and many others. There he lived with other exiles by the river Chebar.
 Five years later, around 593 BC, God called him to be a prophet. So Ezekiel worked at the same time as Jeremiah, but not in Jerusalem. He worked in Babylon.
 His name means “God makes strong.”
-Ezekiel had powerful visions: He saw God’s glory on a throne chariot. He saw God’s glory leave the temple. And he saw a field full of dry bones that come to life again. He did many unusual sign actions to make his message visible.
+Ezekiel had powerful visions: He saw God’s glory on a throne chariot. He saw God’s glory leave the temple. And he saw a field full of dry bones that come to life again. He acted out many unusual signs to make his message visible.
 The book has 48 chapters and three parts:
 – Chapters 1–24: Judgment on Jerusalem, before the city is destroyed.
 – Chapters 25–32: Words about the neighboring peoples.
@@ -39,7 +39,7 @@ This is what they looked like:
 They had the shape of a man.
 [6] Each one had four faces,
 and each one of them had four wings.
-[7] Their legs were straight.
+[7] Their feet were straight.
 The soles of their feet were like the sole of a calf’s foot.
 They sparkled like polished bronze.
 [8] Under their wings, on their four sides,
@@ -104,7 +104,7 @@ because the spirit of the living creature was in the wheels.
 > Beside each creature there is a wheel, as if one wheel was inside another wheel. That way they can move in all directions without turning. The wheels are full of eyes: God sees everything.
 > The whole thing is like a moving throne chariot. The message is: God’s throne is not fixed in one place. It is not only in the temple in Jerusalem. God can go anywhere, even to his people in exile in Babylon.
 > In Judaism this vision is called “Merkavah” (throne chariot). Later it became the basis for a whole branch of Jewish mysticism.
-> Verse 16: The WEB has “beryl.” This means a precious stone that shines green or blue.
+> Verse 16: The WEB, our English source text, has “beryl.” This means a precious stone that shines green or blue.
 
 ---
 

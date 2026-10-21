@@ -55,7 +55,7 @@ and brings the wind out of his storehouses.
 Every goldsmith is put to shame by his carved image,
 for his cast image is a lie,
 and there is no breath in them.
-[15] They are worthless, a work to be laughed at.
+[15] They are worthless, a work of deception.
 In the time of their punishment they will be destroyed.
 [16] The portion of Jacob is not like these,
 for he is the maker of all things,
@@ -78,7 +78,8 @@ The LORD of Armies is his name.
 [17] Gather up your belongings from the land,
 you who live under siege.
 [18] For the LORD says,
-“Look, this time I will throw out the people who live in the land, as with a sling.
+“Look, at this time I will throw out
+ the people who live in the land, as with a sling.
 I will bring distress on them,
 so that they may feel it.”
 [19] How terrible for me because of my injury!

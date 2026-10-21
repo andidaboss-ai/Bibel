@@ -59,7 +59,7 @@ The moths will eat them up.
 > Verse 4: Every morning he listens to God like a student (a “disciple”) listens to his teacher. And he is given the gift of lifting up tired people with words. A beautiful task for every person.
 > Verse 6: The servant is beaten, mocked and spat on. He does not run away. The Gospels tell that Jesus was treated this way (Matthew 26:67; 27:30). That is why Christians see a reference to Jesus here. In the Jewish interpretation, the servant stands for Israel or for the prophet, who have suffered much for their faith.
 > Verses 7–9: The servant holds on because he knows: God stands by me. Paul takes up this thought: “Who could bring a charge against God’s chosen ones? It is God who justifies” (Romans 8:33).
-> Important: This text describes a person who bears suffering for his task. It does not mean that you should simply put up with violence, for example in your family or relationship. If you are being hit, you may and should get help. In an emergency, call your local emergency number (911 in the US, 999 in the UK). US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Important: This text describes a person who bears suffering for his task. It does not mean that you should simply put up with violence, for example in your family or relationship. If you are being hit, you may and should get help. In an emergency, call your local emergency number (911 in the US, 999 in the UK). In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233.
 
 ---
 

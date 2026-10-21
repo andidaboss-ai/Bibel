@@ -14,7 +14,7 @@ And I heard the one who was speaking to me.
 [3] He said to me,
 “Son of man, I am sending you to the people of Israel,
 to a nation of rebels who have rebelled against me.
-They and their fathers have sinned against me
+They and their ancestors have sinned against me
 until this very day.
 [4] The children are rude and stubborn.
 I am sending you to them.

@@ -22,7 +22,7 @@ And Hezekiah wept bitterly.
 ‘This is what the LORD, the God of your father David, says:
 “I have heard your prayer.
 I have seen your tears.
-Look, I will add fifteen years to your life.
+Look, I will add 15 years to your life.
 [6] I will rescue you and this city from the hand of the king of Assyria,
 and I will defend this city.
 [7] And this will be the sign to you from the LORD

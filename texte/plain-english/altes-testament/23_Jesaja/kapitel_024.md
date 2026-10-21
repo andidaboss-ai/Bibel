@@ -62,7 +62,7 @@ They cry out loud from the sea.
 [15] So honor the LORD in the east,
 the name of the LORD, the God of Israel, in the islands of the sea!
 [16] From the farthest end of the earth we have heard songs:
-“Glory to the Righteous One!”
+“Glory to the righteous!”
 But I said, “I waste away! I waste away! How terrible for me!”
 The unfaithful act unfaithfully.
 Yes, the unfaithful act very unfaithfully.
@@ -105,6 +105,6 @@ and glory will be before his elders.
 > **What does this mean?**
 > Verses 17–18: There is no escape: Whoever escapes one disaster falls into the next. In Hebrew, the three words sound alike: “pachad, pachat, pach” (terror, pit, trap).
 > Verse 18: “The windows on high are opened”: as in the great flood (Genesis 7:11).
-> Verse 20: The earth sways like a drunk man, like a hut in a storm.
+> Verse 20: The earth sways like a drunk man, back and forth like a hammock.
 > Verse 21: God judges not only the kings on earth, but also the powers “in the heights,” that is, invisible powers that stand against God.
 > Verse 23: In the end, God himself rules as king. His light is so bright that the sun and moon fade beside it (compare Revelation 21:23).

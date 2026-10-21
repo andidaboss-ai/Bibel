@@ -25,7 +25,7 @@ they will be in anguish over the news about Tyre.
 Wail, you people of the coast!
 [7] Is this your cheerful city,
 whose beginning goes back to ancient days,
-whose feet have carried her far away to settle?
+whose feet have carried her far away on her travels?
 [8] Who has planned this against Tyre,
 the giver of crowns,
 whose merchants were princes,
@@ -53,25 +53,25 @@ for your fortress is ruined!
 
 > **What does this mean?**
 > Tyre and Sidon were rich port cities of the Phoenicians, in what is today Lebanon. Their ships sailed across the whole Mediterranean Sea as far as Tarshish, perhaps in what is today Spain. Kittim is Cyprus.
-> Tyre was a great center of trade, “the marketplace of the nations.” They even traded grain from Egypt (Verse 3).
+> Tyre was a great center of trade, “the marketplace of the nations.” They even traded grain from Egypt (verse 3).
 > Verse 4: The sea laments like a mother who no longer has children. The city is empty.
 > Verses 8–9: Who has brought down this rich city? God, to break the pride in wealth and power.
 > Verse 13: This verse is hard to understand. Perhaps it means: See what happened to Babylon (the land of the Chaldeans). The same will happen to you.
 
 ---
 
-## After seventy years (Verses 15–18)
+## After 70 years (Verses 15–18)
 
 [15] On that day it will happen
-that Tyre will be forgotten for seventy years,
+that Tyre will be forgotten for 70 years,
 as long as the days of one king.
-After the end of the seventy years, it will happen to Tyre
+After the end of the 70 years, it will happen to Tyre
 as in the song about the prostitute:
 [16] “Take a harp, go around the city,
 you forgotten prostitute!
 Play sweetly, sing many songs,
 so that you will be remembered.”
-[17] After the end of seventy years it will happen
+[17] After the end of 70 years it will happen
 that the LORD will visit Tyre.
 She will go back to her wages
 and act like a prostitute with all the kingdoms of the world on the earth.
@@ -81,7 +81,7 @@ for her profits will belong to those who live before the LORD,
 so that they can eat their fill and have clothing that lasts.
 
 > **What does this mean?**
-> After seventy years, a human lifetime, Tyre will flourish again.
+> After 70 years, a human lifetime, Tyre will flourish again.
 > Verses 15–17: Tyre’s trade is compared with a prostitute who offers herself to anyone. This means: Tyre does business with everyone just to get rich, without asking about justice. This is a picture from the language of that time that criticizes ruthless trade without morals.
 > Verse 18: A surprising turn: In the end, the wealth of Tyre is no longer hoarded, but dedicated to God. It is used so that people have enough to eat and have clothing. A beautiful picture of how wealth can be used rightly.
 > With this, the words about the individual peoples (chapters 13–23) come to an end.

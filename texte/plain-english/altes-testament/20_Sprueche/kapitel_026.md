@@ -61,7 +61,7 @@ than seven people who answer with good sense.
 
 [17] Like someone who grabs a dog by the ears
 is someone who passes by and meddles in a quarrel that is not his own.
-[18] Like a madman who shoots burning arrows, arrows, and death,
+[18] Like a madman who shoots torches, arrows, and death,
 [19] so is the man who deceives his neighbor
 and says, “Wasn’t I only joking?”
 [20] When there is no wood, the fire goes out.
@@ -73,7 +73,7 @@ They go down into the innermost being.
 [23] Like silver waste coated on a clay pot,
 so are burning lips with an evil heart.
 [24] A spiteful person hides what he is with his lips,
-but in his heart he carries deceit.
+but in his heart he carries evil.
 [25] When his speech is charming, don’t believe him,
 for there are seven disgusting things in his heart.
 [26] His spite may be hidden by deception,

@@ -10,13 +10,13 @@
 and speak to the men of Judah and to the people of Jerusalem.
 [3] Say to them, The LORD, the God of Israel, says:
 ‘Cursed is the man who doesn’t listen to the words of this covenant,
-[4] which I commanded your fathers on the day that I brought them out of the land of Egypt,
-out of the iron furnace.
-I said: Obey my voice,
+[4] which I commanded your ancestors on the day that I brought them out of the land of Egypt,
+out of the iron furnace.’
+I said, ‘Obey my voice,
 and do everything that I command you.
 So you will be my people,
 and I will be your God.
-[5] Then I will keep the oath which I swore to your fathers,
+[5] Then I will keep the oath which I swore to your ancestors,
 to give them a land flowing with milk and honey,’
 as it is today.”
 Then I answered, “Amen, LORD.”
@@ -24,7 +24,7 @@ Then I answered, “Amen, LORD.”
 “Call out all these words in the cities of Judah,
 and in the streets of Jerusalem. Say,
 ‘Hear the words of this covenant, and do them.
-[7] For I warned your fathers seriously
+[7] For I warned your ancestors seriously
 on the day that I brought them up out of the land of Egypt,
 and until this day I warned them again and again. I said,
 “Obey my voice.”
@@ -39,7 +39,7 @@ and among the people of Jerusalem.
 who refused to listen to my words.
 They have followed other gods to serve them.
 The house of Israel and the house of Judah
-have broken my covenant which I made with their fathers.
+have broken my covenant which I made with their ancestors.
 [11] That is why the LORD says,
 ‘Look, I will bring disaster on them,
 which they will not be able to escape.
@@ -57,7 +57,8 @@ Don’t raise a cry or prayer for them,
 for I will not listen when they cry to me because of their trouble.
 [15] What is my beloved doing in my house,
 since she has done shameful things with many?
-Can holy meat take your guilt away?
+The holy meat has been taken away from you.
+
 When you do evil, you are happy.”
 [16] The LORD called you by the name
 “A green olive tree, beautiful, with good fruit.”

@@ -88,5 +88,5 @@ and something with wings may tell the matter.
 > **What does this mean?**
 > Verses 16–17: A land suffers when its leaders are immature and only party. A land is happy when its leaders act responsibly.
 > Verse 18: Whoever does not take care of his house will soon have rain coming through the roof. That is true for a state too.
-> Verse 19: An ironic sentence: Some people think money solves all problems. The Preacher describes this attitude, he does not praise it.
+> Verse 19: An ironic sentence: Some people think money solves all problems. The Preacher describes this attitude. He does not praise it.
 > Verse 20: People say: A little bird told me. This saying reminds us of this verse. Be careful about what you say about the powerful. It can come out. Today this is especially true for messages and posts on the internet.

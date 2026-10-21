@@ -84,7 +84,7 @@ But you would not,
 So you will flee.
 And, “We will ride on swift horses!”
 So those who chase you will be swift.
-[17] A thousand will flee at the threat of one.
+[17] 1,000 will flee at the threat of one.
 At the threat of five you will flee,
 until you are left like a pole on a mountaintop
 and like a banner on a hill.

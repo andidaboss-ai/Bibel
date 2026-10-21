@@ -6,14 +6,13 @@
 ## My life is close to death (Verses 1–9)
 
 [1] A song. A psalm by the sons of Korah. For the music director.
-To the tune of “The Suffering of Affliction.” A contemplative psalm by Heman, the Ezrahite.
+To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite.
 LORD, God who saves me,
 I have cried out before you day and night.
 [2] Let my prayer come before you!
 Turn your ear to my cry!
 [3] For my soul is full of troubles.
-My life is coming close to Sheol.
-Sheol is the world of the dead.
+My life is coming close to Sheol (the world of the dead).
 [4] I am counted among those who go down into the pit.
 I am like a man who has no help,
 [5] set apart among the dead,
@@ -70,7 +69,7 @@ Your terrors have destroyed me.
 [17] They surrounded me like water all day long.
 They closed in on me completely.
 [18] You have taken my loved ones and my friends far away from me.
-My closest friends are darkness.
+You have put my friends into darkness.
 
 > **What does this mean?**
 > The psalm ends with the word “darkness.” In Hebrew, it really is the last word. There is no comfort and no answer.
