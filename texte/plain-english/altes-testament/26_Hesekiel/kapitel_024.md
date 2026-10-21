@@ -21,7 +21,6 @@ has come close to Jerusalem to attack it.
 ## The parable of the cooking pot (Verses 3–14)
 
 [3] Tell a parable to the rebellious people of Israel.
-A parable is a story with a picture that teaches something.
 Tell them,
 ‘This is what the Lord GOD says:
 “Put the cooking pot on the fire.
@@ -76,6 +75,7 @@ by your ways and by what you have done,”
 says the Lord GOD.’”
 
 > **What does this mean?**
+> Verse 3: A parable is a story with a picture that teaches something.
 > Do you remember Ezekiel 11:3? There the powerful people in Jerusalem said proudly that the city is the pot and they are the meat, so they are well protected. Ezekiel takes up this picture and turns it around: Yes, Jerusalem is a pot. But it stands on the fire, and the meat is cooked to nothing.
 > Verse 6: The pot is rusty. The rust is the guilt of the city, which cannot be washed off.
 > Verses 7–8: By the law, blood had to be covered with earth (Leviticus 17:13). But Jerusalem has poured out the blood of innocent people openly on the rock. It cries out to heaven like the blood of Abel (Genesis 4:10).
@@ -147,7 +147,7 @@ then you will know that I am the Lord GOD.’”’”
 
 [25] “And you, son of man,
 on the day when I take from them their strength,
-their joy and their glory,
+the glory that gave them joy,
 the delight of their eyes,
 and what their hearts long for,
 their sons and their daughters,

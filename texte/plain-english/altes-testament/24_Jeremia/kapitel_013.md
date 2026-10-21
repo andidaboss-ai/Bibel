@@ -123,7 +123,8 @@ your shameful prostitution
 on the hills in the fields.
 How terrible for you, Jerusalem!
 You will not be made clean.
-How much longer will it be?”
+How much longer will it be?
+
 
 > **What does this mean?**
 > Verse 16: Give God glory while it is still light! Like a hiker who has to get down from the mountains before it gets dark.

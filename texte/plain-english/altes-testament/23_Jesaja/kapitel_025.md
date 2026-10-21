@@ -16,7 +16,7 @@ a fortified city into a ruin,
 a palace of foreigners into no city at all.
 It will never be built again.
 [3] So a strong people will honor you.
-A city of mighty nations will fear you.
+A city of fierce nations will fear you.
 [4] For you have been a fortress for the poor,
 a fortress for the needy in their distress,
 a refuge from the storm,

@@ -40,7 +40,7 @@ and the steps of the needy.”
 You, Upright One, make the path of the righteous level.
 [8] Yes, in the way of your judgments, LORD,
 we have waited for you.
-Your name and remembering you
+Your name and your fame
 are the longing of our soul.
 [9] With my soul I have longed for you in the night.
 Yes, with my spirit within me I will seek you eagerly,
@@ -52,13 +52,13 @@ In the land of honesty they do wrong
 and do not see the majesty of the LORD.
 [11] LORD, your hand is raised,
 but they do not see it.
-But they will see your zeal for the people and be put to shame.
+But they will see your zeal for the people and be disappointed.
 Yes, fire will burn up your enemies.
 [12] LORD, you will give us peace,
 for you have also done all our work for us.
 [13] LORD our God,
 other lords besides you have ruled over us,
-but we will praise only your name.
+but we will only acknowledge your name.
 [14] The dead will not live.
 The spirits of the dead will not rise.
 That is why you have punished and destroyed them
@@ -95,7 +95,7 @@ and the earth will give up the spirits of the dead.
 
 > **What does this mean?**
 > Verses 17–18: An honest picture: The people suffered like a woman in labor. But in the end nothing came of it, “only wind.” All the effort seemed to be for nothing.
-> Verse 19 is one of the most important verses of the Old Testament: “Your dead will live. Their dead bodies will rise.” Unlike the dead tyrants (Verse 14), God’s dead will come back to life.
+> Verse 19 is one of the most important verses of the Old Testament: “Your dead will live. Their dead bodies will rise.” Unlike the dead tyrants (verse 14), God’s dead will come back to life.
 > As the morning dew makes the plants bloom again, so God’s dew will bring the dead back to life.
 > This is one of the first places where the Bible speaks clearly about the resurrection of the dead. Later, Daniel does so (Daniel 12:2). Jews and Christians believe in the resurrection of the dead.
 

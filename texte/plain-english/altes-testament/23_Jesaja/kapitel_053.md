@@ -29,7 +29,7 @@ and we did not respect him.
 [4] Surely he has carried our sickness
 and taken our suffering on himself.
 But we thought he was punished,
-struck down by God and humbled.
+struck down by God and made to suffer.
 [5] But he was pierced for our rebellious acts.
 He was crushed for our wrongdoings.
 The punishment that brought us peace was on him,
@@ -52,7 +52,7 @@ And the LORD has laid on him the guilt of us all.
 ## Like a lamb (Verses 7–9)
 
 [7] He was mistreated,
-yet when he was humbled, he did not open his mouth.
+yet when he suffered, he did not open his mouth.
 Like a lamb that is led to the slaughter,
 and like a sheep that is silent before its shearers,
 so he did not open his mouth.
@@ -77,7 +77,7 @@ and there was no deceit in his mouth.
 
 [10] Yet it pleased the LORD to crush him.
 He made him suffer.
-When you make his soul an offering for guilt,
+When you make his soul an offering for sin,
 he will see his descendants.
 He will live a long life,
 and the LORD’s purpose will succeed in his hand.
@@ -93,7 +93,7 @@ Yet he carried the sins of many
 and stood up for the rebels.
 
 > **What does this mean?**
-> Verse 10: A hard sentence: “It pleased the LORD to crush him.” This does not mean that God enjoys suffering. What it means is: Even this terrible suffering was not pointless. God took it into his plan in order to save many. The suffering becomes an “offering for guilt,” a gift that makes up for guilt.
+> Verse 10: A hard sentence: “It pleased the LORD to crush him.” This does not mean that God enjoys suffering. What it means is: Even this terrible suffering was not pointless. God took it into his plan in order to save many. The suffering becomes an “offering for sin,” a gift that makes up for guilt.
 > Verses 10–11: And then the surprising turn: The servant who has died will “see his descendants,” “live a long life” and “see the light.” Suffering is not the end. Christians see here a reference to the resurrection of Jesus.
 > Verse 11: The servant makes “many righteous” by carrying their guilt.
 > Verse 12: He was counted among the criminals (compare Luke 22:37, where Jesus applies this verse to himself), but he stood up for them. On the cross, Jesus prayed for those who crucified him: “Father, forgive them” (Luke 23:34).

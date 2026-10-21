@@ -49,7 +49,7 @@ whether they listen or refuse to listen.”
 > **What does this mean?**
 > Verses 1–3: Ezekiel eats the scroll. This is a picture: God’s word should go deep into him and become a part of him. And even though the message is bitter, it tastes “as sweet as honey.” Receiving God’s word is a gift, even when the message is hard (compare Jeremiah 15:16; Psalm 119:103; Revelation 10:9–10).
 > Verses 5–7: A sad irony: Foreign peoples with a foreign language would listen to Ezekiel. But his own people, who understand his language, do not want to listen.
-> Verses 8–9: Because the people have a “hard forehead,” God makes Ezekiel’s forehead even harder, “like a diamond.” This is a play on his name: Ezekiel means “God makes strong.”
+> Verses 8–9: Because the people have hard foreheads, God makes Ezekiel’s forehead even harder, “like a diamond.” This is a play on his name: Ezekiel means “God makes strong.”
 
 ---
 
@@ -111,6 +111,7 @@ And you have saved yourself.”
 > **What does this mean?**
 > In the past, a watchman stood on the city wall. If he saw danger, he had to sound the alarm. If he stayed silent, he was to blame for the disaster.
 > In the same way, Ezekiel is to be a “watchman” for his people: He is to warn them. Whether the people listen is their responsibility. But if he does not warn them, he shares the responsibility.
+> Verses 20–21: Righteous means: living right before God.
 > This is also a message for today: Whoever sees wrong and stays silent shares the responsibility. Sometimes it is our task to warn people honestly, even when it is uncomfortable.
 
 ---

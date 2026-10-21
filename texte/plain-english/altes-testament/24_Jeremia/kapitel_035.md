@@ -38,14 +38,14 @@ and have obeyed, and done everything that our ancestor Jonadab commanded us.
 [11] But when Nebuchadnezzar, king of Babylon, came up into the land, we said,
 ‘Come! Let’s go to Jerusalem,
 because we are afraid of the army of the Chaldeans
-and of the army of the Syrians.’
-That is why we are living in Jerusalem.”
+and of the army of the Syrians.
+So we will live in Jerusalem.’”
 
 > **What does this mean?**
 > The Rechabites were a group who lived by the rules of their ancestor Jonadab (he is mentioned in 2 Kings 10:15–23, about 250 years earlier). They drank no wine, built no houses and lived in tents like nomads. That was how they wanted to live simply and faithfully to God, without tying themselves to the wealth of the land.
 > Verses 5–6: Jeremiah puts them to the test: He offers them wine in the temple. But they refuse. They stay faithful to their promise, even after so many generations.
 > Verse 11: They moved into the city only because of the war, out of need, not out of unfaithfulness.
-> If you have problems with alcohol, help is available: US: SAMHSA 1-800-662-4357. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> If you have problems with alcohol, you can find help. US: SAMHSA 1-800-662-4357. Elsewhere, find help at findahelpline.com.
 
 ---
 
@@ -66,7 +66,7 @@ early and tirelessly.
 They said, ‘Each of you, turn back now from your evil way,
 change your deeds,
 and don’t follow other gods to serve them.
-Then you will live in the land which I have given to you and to your fathers.’
+Then you will live in the land which I have given to you and to your ancestors.’
 But you have not paid attention or listened to me.
 [16] The sons of Jonadab, the son of Rechab, have kept the command
 that their ancestor gave them,

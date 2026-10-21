@@ -6,7 +6,7 @@
 ## Against Ammon (Verses 1–7)
 
 [1] The word of the LORD came to me. He said,
-[2] “Son of man, turn your face toward the Ammonites,
+[2] “Son of man, turn your face toward the people of Ammon,
 and prophesy against them.
 [3] Tell the Ammonites,
 ‘Hear the word of the Lord GOD!
@@ -21,7 +21,7 @@ and make their homes in you.
 They will eat your fruit,
 and they will drink your milk.
 [5] I will make Rabbah a pasture for camels,
-and the land of the Ammonites a resting place for flocks.
+and the land of the people of Ammon a resting place for flocks.
 Then you will know that I am the LORD.”
 [6] For this is what the Lord GOD says:
 “You have clapped your hands
@@ -54,9 +54,9 @@ with its cities on its borders,
 the pride of the country:
 Beth Jeshimoth, Baal Meon, and Kiriathaim.
 [10] I will open it to the peoples of the east,
-who will go against the Ammonites.
+who will go against the people of Ammon.
 I will give these lands to them to own,
-so that no one among the nations will remember the Ammonites anymore.
+so that no one among the nations will remember the people of Ammon anymore.
 [11] I will carry out judgment on Moab.
 Then they will know that I am the LORD.”
 

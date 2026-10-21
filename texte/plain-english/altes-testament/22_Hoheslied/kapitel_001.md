@@ -24,8 +24,8 @@ The book is said to be by Solomon. Whether he wrote it himself is uncertain.
 [2] Let him kiss me with the kisses of his mouth,
 for your love is better than wine.
 [3] Your oils have a pleasing scent.
-Your name is like oil poured out,
-that is why the young women love you.
+Your name is like oil poured out.
+That is why the young women love you.
 [4] Take me with you! Let’s hurry!
 The king has brought me into his rooms.
 Friends: We will be glad and rejoice in you.
@@ -69,7 +69,7 @@ and graze your young goats beside the shepherds’ tents.
 ## How beautiful you are (Verses 9–17)
 
 [9] I compare you, my love,
-to a mare among Pharaoh’s chariots.
+to a horse among Pharaoh’s chariots.
 [10] Your cheeks are beautiful with earrings,
 your neck with strings of jewels.
 [11] We will make you earrings of gold
@@ -80,10 +80,10 @@ my perfume spread its scent.
 that lies between my breasts.
 [14] My beloved is to me a cluster of henna blossoms
 from the vineyards of En Gedi.
-[15] Look, you are beautiful, my love.
-Look, you are beautiful.
+[15] How beautiful you are, my love!
+How beautiful you are!
 Your eyes are like doves.
-[16] Look, you are beautiful, my beloved, yes, delightful.
+[16] How beautiful you are, my beloved, yes, delightful!
 And our bed is green.
 [17] The beams of our house are cedars,
 our rafters are firs.
@@ -92,5 +92,5 @@ our rafters are firs.
 > Verse 9: A comparison that seems strange to us: Pharaoh’s horses were the most beautiful and splendid ones, hung with jewelry. He means: You are wonderfully beautiful and stand out.
 > Verse 13: Women wore little bags of scented myrrh around their necks. That is how close and how precious the one she loves is to her.
 > Verse 14: En Gedi is a green oasis by the Dead Sea, in the middle of the desert.
-> Verses 15–16: Both say to each other: “You are beautiful!” Their love goes both ways.
+> Verses 15–16: Both say to each other: “How beautiful you are!” Their love goes both ways.
 > Verses 16–17: Their “house” is nature: The green grass is their bed, the trees are their roof.

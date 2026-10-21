@@ -94,7 +94,7 @@ There will be no one to bury them,
 not them, their wives, their sons, or their daughters,
 for I will pour out their own evil on them.
 [17] “Say this word to them:
-“‘Let my eyes run with tears night and day,
+‘Let my eyes run with tears night and day,
 and let them not stop.
 For the virgin daughter of my people is broken with a great break,
 with a very serious wound.
@@ -121,13 +121,14 @@ so that there is no healing for us?
 We hoped for peace, but nothing good came.
 We hoped for a time of healing, but there was terror!
 [20] LORD, we admit our evil,
-and the guilt of our fathers,
+and the guilt of our ancestors,
 for we have sinned against you.
 [21] Do not hate us, for the sake of your name.
 Do not dishonor the throne of your glory.
 Remember, and don’t break your covenant with us.
 [22] Can any of the worthless idols of the nations make it rain?
-Or can the sky give showers by itself?
+Or can the sky give showers?
+
 Isn’t it you, LORD our God?
 So we will hope in you,
 for you have made all these things.
