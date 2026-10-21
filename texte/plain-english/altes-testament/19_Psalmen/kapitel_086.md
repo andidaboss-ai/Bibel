@@ -52,8 +52,7 @@ Give me an undivided heart, so that I fear your name.
 [12] I will praise you, Lord my God, with my whole heart.
 I will honor your name forever.
 [13] For your loving kindness to me is great.
-You have rescued my soul from the deepest part of Sheol.
-Sheol is the world of the dead.
+You have rescued my soul from the deepest part of Sheol (the world of the dead).
 
 > **What does this mean?**
 > Verse 11 is a beautiful prayer: “Give me an undivided heart.” A divided heart wants two things at once: God and something else. The one praying asks for a heart that belongs completely to God.

@@ -44,7 +44,7 @@ and the right to buy it back is yours.
 Buy it for yourself.’
 “Then I knew that this was the LORD’s word.
 [9] I bought the field in Anathoth from my cousin Hanamel,
-and weighed out the money for him: seventeen shekels of silver.
+and weighed out the money for him: 17 shekels of silver (about 7 ounces).
 [10] I signed the deed and sealed it.
 I called witnesses,
 and weighed out the money for him on the scales.
@@ -70,7 +70,7 @@ so that they last for a long time.’
 > Verses 7–8: According to the law, a close relative had the right and the duty to buy a family plot of land so that it would stay in the family (Leviticus 25:25).
 > Verses 10–14: Jeremiah does everything very properly: contract, seal, witnesses, money. There are two copies: one sealed, one open to read. They are put into a clay jar so that they will last a long time. (The Dead Sea Scrolls were also kept like this.)
 > Verse 15: The message: There is a future! People will buy houses and fields in this land again. Jeremiah invests in hope, even though everything seems lost.
-> Shekels were pieces of silver that were weighed out as money.
+> Shekels were pieces of silver that were weighed out as money. One shekel is about 0.4 ounces.
 > Here Baruch is mentioned for the first time, Jeremiah’s faithful scribe and friend.
 
 ---
@@ -84,7 +84,7 @@ Look, you have made the heavens and the earth
 by your great power and by your outstretched arm.
 There is nothing too hard for you.
 [18] You show faithful love to thousands,
-but you pay back the guilt of the fathers
+but you pay back the guilt of the ancestors
 into the lap of their children after them.
 The great and mighty God, the LORD of Armies, is your name.
 [19] You are great in your plans and mighty in your deeds.
@@ -99,7 +99,7 @@ You have made a name for yourself, as it is today.
 with signs, with wonders, with a strong hand,
 with an outstretched arm, and with great terror.
 [22] You gave them this land,
-which you swore to their fathers to give them,
+which you swore to their ancestors to give them,
 a land flowing with milk and honey.
 [23] They came in and took it over,
 but they didn’t obey your voice,

@@ -52,7 +52,7 @@ all your days of vanity,
 for that is your share in life
 and in your hard work that you work at under the sun.
 [10] Whatever your hand finds to do, do it with all your strength,
-for in Sheol, the world of the dead, where you are going,
+for in Sheol (the world of the dead), where you are going,
 there is no work, no plan, no knowledge, and no wisdom.
 
 > **What does this mean?**

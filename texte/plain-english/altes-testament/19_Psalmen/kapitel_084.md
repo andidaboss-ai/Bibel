@@ -52,7 +52,7 @@ Listen, God of Jacob!
 Selah.
 [9] Look, God, our shield!
 Look at the face of your anointed one!
-[10] For one day in your courts is better than a thousand.
+[10] For one day in your courts is better than 1,000.
 I would rather be a doorkeeper in the house of my God
 than live in the tents of the wicked.
 [11] For the LORD God is a sun and a shield.
@@ -64,6 +64,6 @@ happy is the person who trusts in you.
 
 > **What does this mean?**
 > Verse 9: A prayer for the king, the “anointed one.”
-> Verse 10 is a well-known sentence: A single day with God is better than a thousand days anywhere else. It is better to be a simple doorkeeper with God than a rich man among the wicked.
+> Verse 10 is a well-known sentence: A single day with God is better than 1,000 days anywhere else. It is better to be a simple doorkeeper with God than a rich man among the wicked.
 > The “sons of Korah” were doorkeepers at the temple themselves (1 Chronicles 9:19). They knew what they were singing about.
 > Verse 11: God is “a sun and a shield”: He gives light and warmth, and he protects.

@@ -99,8 +99,8 @@ They did not show kindness to the elders.
 from looking for help that never comes.
 From our watchtower we have watched
 for a nation that could not save us.
-[18] They hunted our steps,
-so that we could not walk in our own streets.
+[18] They hunt our steps,
+so that we cannot walk in our own streets.
 Our end is near.
 Our days are over,
 for our end has come.

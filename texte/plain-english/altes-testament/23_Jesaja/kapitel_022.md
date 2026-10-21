@@ -62,7 +62,7 @@ says the Lord, the LORD of Armies.
 ## Shebna and Eliakim (Verses 15–25)
 
 [15] This is what the Lord, the LORD of Armies, says:
-“Go, go to this steward,
+“Go to this steward,
 to Shebna, who is in charge of the palace, and say,
 [16] ‘What are you doing here?
 Who do you have here, that you have cut out a tomb for yourself here?’

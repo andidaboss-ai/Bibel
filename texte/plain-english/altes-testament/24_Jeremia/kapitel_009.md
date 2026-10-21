@@ -49,7 +49,7 @@ I will make the cities of Judah a waste,
 with no one living in them.”
 
 > **What does this mean?**
-> Note: In some Bibles, verse 1 of this chapter is the last verse of chapter 8 (8:23). That is why all the verses of chapter 9 are shifted by one there. Here we follow the numbering of the English World English Bible.
+> Note: In some Bibles, verse 1 of this chapter is the last verse of chapter 8 (8:23). That is why all the verses of chapter 9 are shifted by one there. Here we follow the numbering of the WEB, our English source text.
 > Verse 1: Jeremiah wishes his head were full of water and his eyes a spring, so that he could weep enough over the many dead. That is why he is called the “weeping prophet.”
 > Verse 2: At the same time, he would like most of all to run away, far away into the wilderness. Many people know what it is like to feel both at the same time: compassion and the wish to run away.
 > Verses 3–8: No one can trust anyone anymore. Friends and brothers and sisters lie to each other. People speak in a friendly way but plan evil. Lies and slander destroy a community from the inside.
@@ -67,12 +67,12 @@ so that no one passes through?
 “Because they have left my law, which I set before them,
 and have not obeyed my voice or walked in my ways.
 [14] Instead, they have followed the stubbornness of their own heart,
-and the Baals, as their fathers taught them.”
+and the Baals, as their ancestors taught them.”
 [15] That is why the LORD of Armies, the God of Israel, says,
 “Look, I will feed this people with wormwood,
 and give them poisoned water to drink.
 [16] I will scatter them among nations
-that neither they nor their fathers have known.
+that neither they nor their ancestors have known.
 I will send the sword after them,
 until I have destroyed them.”
 
@@ -105,7 +105,7 @@ It has come into our palaces,
 to take away the children from the streets,
 and the young men from the town squares.
 [22] Say, “The LORD says,
-“‘The dead bodies of people will fall like manure on the open field,
+‘The dead bodies of people will fall like manure on the open field,
 and like grain left behind by the harvester.
 No one will gather them.’”
 
@@ -136,5 +136,6 @@ For all the nations are uncircumcised,
 and the whole house of Israel is uncircumcised in heart.”
 
 > **What does this mean?**
-> Verses 23–24 are among the most important sentences in Jeremiah: Don’t be proud of your cleverness, your strength or your money. If you want to be proud of something, be proud that you know God, the God who loves faithful love, justice and righteousness. Paul takes this up: “He who boasts, let him boast in the Lord” (1 Corinthians 1:31).
+> Verses 23–24 are among the most important sentences in Jeremiah: Don’t be proud of your cleverness, your strength or your money. If you want to be proud of something, be proud that you know God, the God who shows faithful love, justice and righteousness and delights in them.
+ Paul takes this up: “He who boasts, let him boast in the Lord” (1 Corinthians 1:31).
 > Verses 25–26: Many nations at that time were circumcised, not only Israel. Jeremiah says: The outward sign alone does no good. If someone has an “uncircumcised heart,” that is, a heart that is closed to God, the sign on the body does not help them either. This applies to all nations and also to Israel. Cutting the hair at the sides of the head was a hairstyle of certain Arab tribes.

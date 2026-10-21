@@ -44,7 +44,7 @@ Open your ears to words of knowledge.
 [13] Don’t hold back correction from a child.
 If you punish him with a rod, he will not die.
 [14] Punish him with a rod,
-and you will save his life from Sheol, the world of the dead.
+and you will save his life from Sheol (the world of the dead).
 
 > **What does this mean?**
 > Verses 10–11: Orphans had no one to defend them. But God himself is their strong Defender. Whoever takes something away from them will have to deal with him.
@@ -102,7 +102,7 @@ She makes more and more men unfaithful.
 
 ---
 
-## Who has woe? (Verses 29–35)
+## Who has pain? (Verses 29–35)
 
 [29] Who has pain? Who has sorrow?
 Who has fights? Who has complaints?

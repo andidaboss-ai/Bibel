@@ -10,8 +10,7 @@ and to my cries for mercy.
 [2] Because he has turned his ear to me,
 I will call on him as long as I live.
 [3] The ropes of death were all around me.
-The pains of Sheol took hold of me.
-Sheol is the world of the dead.
+The pains of Sheol (the world of the dead) took hold of me.
 I found trouble and sorrow.
 [4] Then I called on the name of the LORD:
 “LORD, please, rescue my soul!”

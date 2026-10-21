@@ -66,7 +66,7 @@ Don’t let your heart rejoice when he is brought down,
 and he will turn his anger away from him.
 [19] Don’t get upset because of evildoers,
 and don’t envy the wicked,
-[20] for the evil person has no future.
+[20] for the evil person will have no reward.
 The lamp of the wicked will go out.
 [21] My son, fear the LORD and the king!
 Don’t join those who rebel,

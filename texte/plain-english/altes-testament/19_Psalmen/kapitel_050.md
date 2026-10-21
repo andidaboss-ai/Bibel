@@ -39,7 +39,7 @@ Your burnt offerings are always in front of me.
 [9] I do not need a bull from your barn,
 or male goats from your pens.
 [10] For every animal of the forest is mine,
-and the cattle on a thousand hills.
+and the cattle on 1,000 hills.
 [11] I know all the birds of the mountains.
 The wild animals of the field are mine.
 [12] If I were hungry, I would not tell you,

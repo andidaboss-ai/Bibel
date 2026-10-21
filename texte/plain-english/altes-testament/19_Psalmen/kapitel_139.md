@@ -30,8 +30,7 @@ It is too high. I cannot reach it.
 [7] Where could I go to get away from your Spirit?
 Or where could I run away from your presence?
 [8] If I go up into heaven, you are there.
-If I make my bed in Sheol, look, you are there!
-Sheol is the world of the dead.
+If I make my bed in Sheol (the world of the dead), look, you are there!
 [9] If I take the wings of the dawn
 and settle down at the farthest end of the sea,
 [10] even there your hand will lead me,

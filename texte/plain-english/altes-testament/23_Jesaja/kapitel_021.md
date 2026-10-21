@@ -37,7 +37,7 @@ and every night I stay at my post.
 He answered,
 “Fallen, fallen is Babylon,
 and all the carved images of her gods are smashed to the ground.
-[10] You, my people who were threshed, the grain of my threshing floor!”
+[10] You are the grain I have threshed, the grain of my threshing floor!”
 What I have heard from the LORD of Armies,
 the God of Israel, I have announced to you.
 
