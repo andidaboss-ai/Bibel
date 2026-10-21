@@ -7,7 +7,7 @@
 
 [1] Then I turned and saw all the oppression
 that is done under the sun:
-Look, the tears of those who were oppressed,
+There were the tears of those who were oppressed,
 and they had no comforter.
 On the side of their oppressors there was power,
 but they had no comforter.

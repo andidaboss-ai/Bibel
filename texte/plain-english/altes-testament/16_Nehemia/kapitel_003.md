@@ -54,7 +54,7 @@ He was the ruler of half the district of Jerusalem.
 His daughters helped him.
 [13] Hanun and the people of Zanoah repaired the Valley Gate.
 They built it and put its doors, bolts, and bars in place.
-They also repaired 1,000 cubits of the wall, about 1,500 feet,
+They also repaired about 1,500 feet of the wall,
 as far as the Dung Gate.
 
 > **What does this mean?**
@@ -160,6 +160,6 @@ the goldsmiths and the merchants made repairs.
 
 > **What does this mean?**
 > The circle closes: the list ends again at the Sheep Gate, where it began.
-> “Gate of Hammiphkad” means something like “Gate of Inspection”. Maybe soldiers were inspected there, or goods were checked.
+> “Gate of Hammiphkad” means something like “Gate of Inspection.” Maybe soldiers were inspected there, or goods were checked.
 > “Ascent of the corner”: the Hebrew word can also mean “upper room,” that is, a room up at the corner of the wall.
 > The message of this chapter: a great work succeeds when everyone lends a hand. Priests and merchants, men and women, people from the city and from the country. Each in his place. And every name is known to God.

@@ -6,7 +6,7 @@
 ## Take in the refugees (Verses 1–5)
 
 [1] Send the lambs for the ruler of the land
-from Sela through the wilderness
+from Selah to the wilderness,
 to the mountain of the daughter of Zion.
 [2] For it will be: Like birds fluttering about,
 like a nest that has been scattered,

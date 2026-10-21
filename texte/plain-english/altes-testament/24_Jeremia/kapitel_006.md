@@ -91,7 +91,7 @@ When I punish them, they will be thrown down,” says the LORD.
 ## Ask for the old paths (Verses 16–21)
 
 [16] The LORD says,
-“Stand at the crossroads and look.
+“Stand by the roads and look.
 Ask for the old paths:
 ‘Where is the good way?’
 Walk in it,
@@ -101,7 +101,7 @@ But they said, ‘We will not walk in it.’
 ‘Listen to the sound of the trumpet!’
 But they said, ‘We will not listen!’
 [18] So hear, you nations,
-and know, you assembly, what will happen to them.
+and know, you assembly, what is going on among them.
 [19] Hear, earth!
 Look, I will bring disaster on this people,
 the fruit of their own plans,
@@ -148,7 +148,8 @@ and roll in ashes!
 Mourn as for an only son,
 with the most bitter weeping,
 for the destroyer will suddenly come on us.
-[27] “I have made you a tester of metals among my people, like a fortress,
+[27] “I have made you a tester of metals and a fortress among my people,
+
 so that you may know and test their way.
 [28] They are all the worst kind of rebels.
 They go around spreading lies about others.

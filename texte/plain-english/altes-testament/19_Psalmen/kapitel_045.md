@@ -77,7 +77,7 @@ They will enter the king’s palace.
 
 ## Your sons (Verses 16–17)
 
-[16] Your sons will take the place of your fathers.
+[16] Your sons will take the place of your ancestors.
 You will make them princes in all the earth.
 [17] I will make your name remembered in all generations.
 So the peoples will thank you forever and ever.

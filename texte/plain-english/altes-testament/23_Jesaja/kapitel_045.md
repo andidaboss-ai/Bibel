@@ -138,7 +138,7 @@ All who raged against him will be disappointed.
 and will rejoice!
 
 > **What does this mean?**
-> Verse 14: Nations from the south (Egypt, Cush, which the WEB calls “Ethiopia” here, and Sheba) come to Israel and recognize: The true God is with you. The picture with the chains comes from the language of that time, when defeated nations had to hand over prisoners. But the tone of the passage is not violence, but that all nations will recognize the one God. The Bible does not justify oppressing people.
+> Verse 14: Nations from the south (Egypt, Cush and Sheba, the land of the Sabeans) come to Israel and recognize: The true God is with you. For Cush, the WEB, our English source text, says “Ethiopia” here. The picture with the chains comes from the language of that time, when defeated nations had to hand over prisoners. But the tone of the passage is not violence, but that all nations will recognize the one God. The Bible does not justify oppressing people.
 > Verse 15: “You are a God who hides himself.” God is not easy to see or to understand. Many people know this experience.
 > Verse 18: God did not create the earth to be an empty desert, but so that people could live there.
 > Verse 22: An invitation to the whole world: “Look to me and be saved, all the ends of the earth!” God’s salvation is not only for Israel, but for all nations.

@@ -35,7 +35,7 @@ He brings the wind out of his storerooms.
 
 [8] He struck down the firstborn of Egypt,
 both people and animals.
-The firstborn is the oldest son.
+The firstborn is the first one born to a mother.
 [9] He sent signs and wonders into the middle of you, Egypt,
 against Pharaoh and all his servants.
 [10] He struck down many nations

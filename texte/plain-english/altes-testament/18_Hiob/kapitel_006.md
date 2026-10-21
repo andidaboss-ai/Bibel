@@ -108,5 +108,5 @@ Can’t my sense of taste tell what is harmful?”
 > **What does this mean?**
 > Job challenges his friends: If I have sinned, then show me where! Say it plainly!
 > Verse 26 is very human: The words of a desperate person are “like wind.” You should not weigh every word. A person in deep trouble sometimes says harsh things. A friend should understand that.
-> “Look at me!”: Job asks his friends to really look at him, as a person, not as a case for their theory.
+> “Now please look at me”: Job asks his friends to really look at him, as a person, not as a case for their theory.
 > This is an important lesson for everyone who stands by people who suffer: First listen, first look, before giving advice.

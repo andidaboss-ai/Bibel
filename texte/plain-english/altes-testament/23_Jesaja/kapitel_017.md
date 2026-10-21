@@ -51,8 +51,8 @@ So you plant pleasant plants
 and set out foreign seedlings.
 [11] On the day you plant, you fence them in.
 In the morning you make your seed blossom,
-but the harvest flees away on the day of sickness
-and of pain that cannot be healed.
+but the harvest flees away on the day of grief
+and of hopeless sorrow.
 
 > **What does this mean?**
 > Verses 7–8: In their distress, people will turn back to their Maker instead of to idols they made themselves. Asherah was a goddess whose sign was a wooden pole.

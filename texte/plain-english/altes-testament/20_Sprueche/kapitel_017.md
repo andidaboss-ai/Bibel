@@ -36,7 +36,7 @@ Wherever he turns, he succeeds.
 [9] Whoever covers a wrong encourages love,
 but whoever keeps bringing a matter up separates best friends.
 [10] A correction goes deeper into a person with understanding
-than a hundred blows into a fool.
+than 100 blows into a fool.
 [11] An evil person looks only for rebellion.
 So a cruel messenger will be sent against him.
 [12] Better to meet a mother bear robbed of her cubs

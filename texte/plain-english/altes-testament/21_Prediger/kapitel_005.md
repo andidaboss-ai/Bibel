@@ -89,7 +89,7 @@ He is full of frustration and has sickness and anger.
 
 ## Joy as a gift from God (Verses 18–20)
 
-[18] Look, this is what I have seen to be good and right:
+[18] This is what I have seen to be good and right:
 that a person eats and drinks
 and enjoys good things in all his hard work
 that he works at under the sun,
