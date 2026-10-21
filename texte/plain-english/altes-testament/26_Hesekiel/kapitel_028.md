@@ -64,7 +64,6 @@ onyx, jasper, sapphire, turquoise, and beryl.
 Gold work of tambourines and of flutes was in you.
 They were prepared on the day you were created.
 [14] You were the anointed cherub who covers and protects.
-A cherub is a powerful heavenly being.
 I set you on the holy mountain of God.
 You walked back and forth among the stones of fire.
 [15] You were perfect in your ways
@@ -96,6 +95,7 @@ and you will be no more.”’”
 > **What does this mean?**
 > This song of mourning is one of the most mysterious passages in the Bible. The king of Tyre is described like a beautiful being in the garden of Eden, decorated with precious stones, a “cherub” on God’s holy mountain. Then he becomes proud, wrongdoing is found in him, and he is thrown out.
 > This is like the story of Adam in paradise (Genesis 2–3): created perfect, then fallen, then thrown out.
+> Verse 14: A cherub is a powerful heavenly being.
 > Verse 13: The precious stones are like the stones on the breastpiece of the high priest (Exodus 28:17–20).
 > How do we read this text?
 > – Many Jewish and Christian Bible teachers say: Ezekiel uses pictures from old stories about paradise to describe the deep fall of the proud king. What is meant is the human king of Tyre.

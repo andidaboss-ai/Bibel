@@ -77,7 +77,6 @@ coral, and rubies.
 [17] “‘“Judah and the land of Israel traded with you.
 They paid for your goods with wheat from Minnith, sweets,
 honey, oil, and balm.
-Balm is a healing oil from plants.
 [18] “‘“Damascus traded with you
 because you made so many things
 and had so many kinds of riches.
@@ -85,7 +84,6 @@ They brought wine from Helbon and white wool.
 [19] “‘“Vedan and Javan traded yarn for your goods.
 Worked iron, cassia, and calamus
 were among your goods.
-Cassia and calamus are spices with a sweet smell.
 [20] “‘“Dedan traded with you
 in expensive saddle blankets for riding.
 [21] “‘“Arabia and all the princes of Kedar
@@ -111,7 +109,8 @@ and became very glorious in the heart of the seas.
 > Here there is a long list of the trading partners of Tyre, almost like a map of the world at that time. It reaches from Tarshish (probably in Spain) in the west to Arabia and Mesopotamia in the east.
 > Javan is Greece (Ionia). Tubal and Meshech were in Asia Minor (today Turkey). Togarmah was probably in Armenia. Sheba was in the south of Arabia (today Yemen).
 > Verse 13: “They traded people and bronze pots” – the slave trade was also part of the wealth of Tyre (see Joel 3:6; Amos 1:9). Here the Bible states it plainly. In other places it clearly condemns kidnapping and human trafficking (Exodus 21:16; 1 Timothy 1:10). Human trafficking is a serious wrong, then as now.
-> Verse 17: Judah and Israel also sold goods to Tyre, mostly farm products: wheat, honey, oil, and balm.
+> Verse 17: Judah and Israel also sold goods to Tyre, mostly farm products: wheat, honey, oil, and balm. Balm is a healing oil from plants.
+> Verse 19: Cassia and calamus are spices with a sweet smell.
 
 ---
 
@@ -139,7 +138,6 @@ They will throw dust on their heads.
 They will roll in the ashes.
 [31] They will shave their heads bald because of you
 and put on sackcloth.
-Sackcloth is rough cloth that people wore when they mourned.
 They will weep for you with bitter hearts,
 with bitter mourning.
 [32] As they wail, they will sing a song of mourning for you.
@@ -163,6 +161,6 @@ and you will be no more.”’”
 
 > **What does this mean?**
 > The splendid ship sails out onto the open sea, and then a storm comes from the east and breaks it to pieces. Everything sinks: riches, goods, crew. The east wind stands for Babylon.
-> Verses 29–32: All the sailors stand on the shore and mourn. They throw dust on their heads and put on sackcloth, as at a funeral.
+> Verses 29–32: All the sailors stand on the shore and mourn. They throw dust on their heads and put on sackcloth, as at a funeral. Sackcloth is rough cloth that people wore when they mourned.
 > The message: Even the most beautiful, richest, and most powerful “ship” can sink. Wealth and trade are not bad. But whoever puts all their trust in them and becomes proud is building on a ship that can sink.
 > In Revelation 18 there is a very similar song of mourning about the fall of “Babylon”: Merchants and sailors stand far away and weep over the rich city (Revelation 18:9–19). That text clearly takes up Ezekiel 27.

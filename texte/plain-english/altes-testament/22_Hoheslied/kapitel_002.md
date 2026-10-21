@@ -21,11 +21,10 @@ Give me apples to refresh me.
 I am weak with love.
 [6] His left hand is under my head.
 His right hand holds me close.
-[7] Daughters of Jerusalem, I make you promise
-by the gazelles and by the wild deer of the field:
-Do not stir up love.
-Do not wake it up
-until it wants to wake.
+[7] I make you promise, daughters of Jerusalem,
+by the gazelles or by the female deer of the field,
+that you do not stir up or awaken love
+until it is ready.
 
 > **What does this mean?**
 > Verse 1: The woman humbly calls herself a simple flower, one of many on the plain of Sharon.

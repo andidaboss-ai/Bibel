@@ -54,7 +54,7 @@ They have thrown him into the cistern.
 He will die of hunger where he is,
 for there is no more bread in the city.”
 [10] Then the king commanded Ebedmelech the Ethiopian:
-“Take thirty men from here with you,
+“Take 30 men from here with you,
 and pull Jeremiah the prophet up out of the cistern before he dies.”
 [11] So Ebedmelech took the men with him,
 and went into the king’s palace, to a room under the treasury.

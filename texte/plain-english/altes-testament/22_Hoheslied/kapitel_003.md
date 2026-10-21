@@ -39,7 +39,7 @@ like columns of smoke,
 scented with myrrh and frankincense,
 with all the spices of the merchant?
 [7] Look, it is Solomon’s carriage!
-Sixty mighty men are around it,
+60 mighty men are around it,
 from the mighty men of Israel.
 [8] They all carry the sword
 and are experienced in war.

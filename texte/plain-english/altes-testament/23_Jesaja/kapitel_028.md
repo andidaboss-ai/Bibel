@@ -24,6 +24,7 @@ will be a crown of glory and a beautiful diadem
 for the remnant of his people,
 [6] and a spirit of justice for the one who sits in judgment,
 and strength for those who turn back the battle at the gate.
+A diadem is a royal headband, like a crown.
 
 > **What does this mean?**
 > “The proud crown of Ephraim” is Samaria, the capital of the northern kingdom. It lay on a hill above a fertile valley, like a wreath on a head. But the upper class was drunk and arrogant.
@@ -64,7 +65,7 @@ and are broken, snared, and caught.
 
 > **What does this mean?**
 > Verses 7–8: Even the priests and prophets in Jerusalem are drunk. Their tables are full of vomit. How are they supposed to understand God’s will like that?
-> Verses 9–10: The drunks mock Isaiah: He talks to us as if we were little children! In Hebrew, verse 10 sounds like baby talk: *tsav la-tsav, qav la-qav*. Our English source text translates it as “precept on precept, line on line,” and that is how it appears in the text here. The mockers are probably imitating Isaiah’s preaching like baby babble.
+> Verses 9–10: The drunks mock Isaiah: He talks to us as if we were little children! In Hebrew, verse 10 sounds like baby talk: *tsav la-tsav, qav la-qav*. The WEB, our English source text, translates it as “precept on precept, line on line,” and that is how it appears in the text here. The mockers are probably imitating Isaiah’s preaching like baby babble.
 > Verses 11–13: Isaiah’s answer: If you don’t listen to me, God will speak to you in a foreign language, that is, through the Assyrian soldiers. Then you will understand only gibberish.
 > Verse 12: Yet God had actually offered them rest: “Give rest to the weary!” God’s way would have been simple.
 

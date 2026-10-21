@@ -18,7 +18,7 @@ and make your stakes firm.
 and your descendants will take possession of nations
 and settle in deserted cities.
 [4] Do not be afraid, for you will not be put to shame.
-Do not be confused, for you will not be disappointed.
+Do not be dismayed, for you will not be disappointed.
 For you will forget the shame of your youth.
 You will no longer remember the disgrace of being a widow.
 [5] For your Maker is your husband.

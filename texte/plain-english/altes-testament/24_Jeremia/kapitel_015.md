@@ -18,10 +18,10 @@ Those meant for famine, to famine.
 Those meant for captivity, to captivity.”’
 [3] “I will send four kinds of destroyers against them,” says the LORD:
 “the sword to kill,
-the dogs to drag away,
+the dogs to tear apart,
 and the birds of the sky and the animals of the earth,
 to eat and to destroy.
-[4] I will make them a horror to all the kingdoms of the earth,
+[4] I will make them be tossed back and forth among all the kingdoms of the earth,
 because of Manasseh, the son of Hezekiah, king of Judah,
 because of what he did in Jerusalem.
 [5] For who will have pity on you, Jerusalem?
@@ -31,15 +31,14 @@ Who will stop to ask how you are?
 “You have gone backward.
 That is why I have stretched out my hand against you and destroyed you.
 I am tired of showing compassion.
-[7] I have separated them with a winnowing fork,
-like grain from chaff,
+[7] I have separated them with a winnowing fork
 in the gates of the land.
 I have taken their children from them.
 I have destroyed my people.
 They didn’t turn back from their ways.
 [8] Their widows have become more than the sand of the seas.
 At noon I have brought a destroyer
-against the mothers of the young men.
+against the mother of the young men.
 I have made anguish and terror fall on her suddenly.
 [9] She who had seven children grows weak.
 She has breathed her last.
@@ -51,6 +50,7 @@ in front of their enemies,” says the LORD.
 > **What does this mean?**
 > Verse 1: Moses and Samuel were the great intercessors of Israel. They often prayed for the people, and God heard them (Exodus 32; 1 Samuel 7). But now, God says, not even their prayer would help. That is how bad the situation is.
 > Verse 4: King Manasseh ruled about 50 years before Jeremiah. He was especially bad: He brought in idol worship and had much innocent blood shed (2 Kings 21). The consequences of his deeds lasted a long time.
+> Verse 7: A winnowing fork is a farm tool. With it, farmers separated the grain from the chaff.
 > Verses 8–9: A moving picture: A mother who had seven children loses them all. “Her sun has gone down while it was still day.” That is what endless grief feels like.
 > Important: The text explains Jerusalem’s disaster as a consequence of guilt. This does not mean that every person who suffers or loses a child is to blame for it. In other places the Bible clearly rejects this idea (Job; John 9:1–3). If you are grieving, you can find help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
@@ -74,7 +74,8 @@ iron from the north, and bronze?
 [13] I will give away your wealth and your treasures as plunder, without payment,
 because of all your sins,
 in all your territory.
-[14] I will make you serve your enemies
+[14] I will make them go with your enemies
+
 in a land which you don’t know,
 for a fire has been lit by my anger,
 and it will burn against you.”

@@ -5,7 +5,7 @@
 
 ## The holy share of the land (Verses 1–8)
 
-[1] “‘“When you divide the land by lot among the tribes,
+[1] “‘“When you divide the land by lot as an inheritance,
 you must give a gift to the LORD,
 a holy part of the land.
 It is to be 25,000 rods (about 50 miles) long
@@ -26,7 +26,7 @@ and a holy place for the sanctuary.
 [5] An area 25,000 cubits (about 8 miles) long
 and 10,000 cubits (about 3⅓ miles) wide
 will belong to the Levites, who serve in the temple.
-It will be their own property, for twenty rooms.
+It will be their own property, for 20 rooms.
 [6] “‘“As the property of the city you must set aside an area
 5,000 cubits (about 1⅔ miles) wide and 25,000 cubits long,
 next to the holy area.
@@ -65,14 +65,14 @@ an honest ephah and an honest bath.
 The bath must hold one tenth of a homer,
 and the ephah one tenth of a homer.
 The homer is the standard for both.
-[12] The shekel must be twenty gerahs.
-Twenty shekels plus twenty-five shekels plus fifteen shekels
+[12] The shekel must be 20 gerahs.
+20 shekels plus 25 shekels plus 15 shekels
 make one mina.
 
 > **What does this mean?**
 > Verse 9: “Enough!” God calls on the powerful to stop violence and oppression. Justice and doing what is right are the foundation of a good life together.
 > Verses 10–12: Honest measures and weights. In trade people often cheated, for example with false weights (see Amos 8:5; Micah 6:11). God wants people to be honest in business too.
-> The measures: An ephah (for grain) and a bath (for liquids) are the same size, about 6 gallons. A homer is ten times as much, about 60 gallons. A shekel is a weight of about 0.4 ounces. A gerah is one twentieth of a shekel. 20 + 25 + 15 = 60 shekels make one mina.
+> The measures: An ephah (for grain) and a bath (for liquids) are the same size, about 6 gallons. A homer is 10 times as much, about 60 gallons. A shekel is a weight of about 0.4 ounces. A gerah is one twentieth of a shekel. 20 + 25 + 15 = 60 shekels make one mina.
 > For today: Being honest at work, fair prices, fair wages – all this is part of living by God’s will.
 
 ---
@@ -84,14 +84,13 @@ one sixth of an ephah from every homer of wheat,
 and one sixth of an ephah from every homer of barley.
 [14] The set share of oil, measured by the bath, is this:
 one tenth of a bath from every cor.
-A cor is ten baths, the same as a homer.
-(For ten baths are a homer.)
-[15] And give one lamb out of every two hundred in the flock
+A cor is 10 baths, the same as a homer.
+(For 10 baths are a homer.)
+[15] And give one lamb out of every 200 in the flock
 from the well-watered pastures of Israel.
 These are for grain offerings, burnt offerings, and peace offerings,
 to make atonement for the people,”
 says the Lord GOD.
-To make atonement means to take away guilt so that things are right with God again.
 [16] “All the people of the land must give this gift
 to the prince in Israel.
 [17] It will be the prince’s duty to provide the burnt offerings,
@@ -106,6 +105,7 @@ to make atonement for the people of Israel.”
 > The people give a gift: about 1/60 of their grain, 1/100 of their oil, 1/200 of their sheep. That is modest.
 > These gifts go to the prince. He is responsible for providing the sacrifices for the whole people at the festivals.
 > Here the prince is above all a servant in worship, not a powerful ruler who collects things for himself.
+> Verse 15: To make atonement means to take away guilt so that things are right with God again.
 
 ---
 

@@ -30,7 +30,7 @@ There Nebuchadnezzar passed judgment on him.
 in front of his eyes.
 The king of Babylon also killed all the nobles of Judah.
 [7] He also put out Zedekiah’s eyes,
-and bound him in bronze chains to take him to Babylon.
+and bound him in chains to take him to Babylon.
 [8] The Chaldeans burned the king’s palace and the people’s houses with fire,
 and broke down the walls of Jerusalem.
 [9] Then Nebuzaradan, the captain of the guard,

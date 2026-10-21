@@ -134,5 +134,6 @@ and fireplaces for cooking were built along the bottom of the walls all around.
 where those who serve in the temple must boil the sacrifices of the people.”
 
 > **What does this mean?**
+> Verse 22: The WEB says 40 cubits long and 30 cubits wide. In Ezekiel’s temple a cubit is about 21 inches.
 > The temple even has kitchens! There are two kinds: the kitchens of the priests for the holy shares of the sacrifices, and four large kitchens in the corners of the outer courtyard, where the Levites cook the sacrifice meals for the people.
 > Many sacrifices ended with a shared festive meal. Worship and eating together belonged together. This is like the Lord’s Supper (Communion) for Christians and the festive meals in Judaism, for example on the Sabbath and at Passover.

@@ -10,7 +10,7 @@ the word of the LORD came to me. He said,
 [2] “Son of man, Tyre has said about Jerusalem,
 ‘Aha! She is broken!
 She was the gateway of the peoples,
-but now her business has come over to me.
+but now she has been handed over to me.
 I will grow rich, now that she lies in ruins.’
 [3] So this is what the Lord GOD says:
 ‘Look, I am against you, Tyre.

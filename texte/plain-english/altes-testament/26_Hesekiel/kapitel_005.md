@@ -98,4 +98,4 @@ I, the LORD, have spoken.’”
 > Verses 9–10: These words are terrible. During long sieges, there really was such terrible hunger that people became cannibals (compare Lamentations 2:20; 4:10). Ezekiel describes the disaster that is coming without making anything sound nicer than it is.
 > Verses 11–13: God speaks very harshly here: “I will have no pity.” Words like these show how seriously God takes wrongdoing. But they do not stand alone: Later in the book, God says that he takes no pleasure in the death of the wicked. He wants the wicked to turn from his way and live (Ezekiel 33:11; compare 18:23).
 > Important: These texts describe God’s judgment in a certain situation. They give no one the right to do violence to other people or to explain suffering as a “punishment from God.”
-> Verse 13: “I will be comforted” is what the WEB says. It means: God’s anger comes to rest.
+> Verse 13: “I will be comforted” is what the WEB, our English source text, says. It means: God’s anger comes to rest.

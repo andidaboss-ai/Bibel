@@ -7,7 +7,7 @@
 
 [1] Zedekiah, the son of Josiah, ruled as king
 in the place of Coniah, the son of Jehoiakim.
-Nebuchadnezzar, king of Babylon, had made him king in the land of Judah.
+Nebuchadnezzar, king of Babylon, had made Zedekiah king in the land of Judah.
 [2] But neither he, nor his servants, nor the people of the land
 listened to the LORD’s words,
 which he spoke through the prophet Jeremiah.

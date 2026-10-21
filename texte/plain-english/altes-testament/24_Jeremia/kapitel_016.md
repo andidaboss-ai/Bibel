@@ -58,22 +58,22 @@ they will ask you,
 or ‘What is our guilt?’
 or ‘What sin have we committed against the LORD our God?’
 [11] Then tell them,
-‘Because your fathers have left me,’ says the LORD,
+‘Because your ancestors have left me,’ says the LORD,
 ‘and have followed other gods,
 have served them, have worshiped them,
 have left me, and have not kept my law.
-[12] You have done more evil than your fathers,
+[12] You have done more evil than your ancestors,
 for look, each of you follows the stubbornness of his evil heart,
 so that you don’t listen to me.
 [13] That is why I will throw you out of this land
 into a land that you have not known,
-neither you nor your fathers.
+neither you nor your ancestors.
 There you will serve other gods day and night,
 for I will show you no kindness.’
 
 > **What does this mean?**
 > The people ask in surprise: What have we done wrong? They do not even notice their own guilt.
-> God answers: Your fathers left me, and you are even worse.
+> God answers: Your ancestors left me, and you are even worse.
 > Verse 13: A bitter irony: You wanted to serve foreign gods; now you can do that day and night in a foreign land.
 
 ---
@@ -88,7 +88,7 @@ who brought the people of Israel up out of the land of Egypt.’
 ‘As surely as the LORD lives,
 who brought the people of Israel up from the land of the north,
 and from all the countries where he had driven them.’
-I will bring them back into their land that I gave to their fathers.
+I will bring them back into their land that I gave to their ancestors.
 [16] “Look, I will send for many fishermen,” says the LORD,
 “and they will catch them like fish.
 Afterward I will send for many hunters,
@@ -105,7 +105,7 @@ and have filled my inheritance with their disgusting things.”
 and my refuge in the day of trouble,
 the nations will come to you from the ends of the earth,
 and will say,
-“Our fathers inherited nothing but lies,
+“Our ancestors inherited nothing but lies,
 worthless things that do no good.
 [20] Can a person make gods for himself,
 which are not gods at all?”
