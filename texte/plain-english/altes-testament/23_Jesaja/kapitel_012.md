@@ -22,7 +22,7 @@ Announce that his name is lifted up!
 [5] Sing to the LORD, for he has done glorious things!
 Let this be known in all the earth!
 [6] Shout and sing for joy, you who live in Zion,
-for great in your midst is the Holy One of Israel!”
+for the Holy One of Israel is great among you!”
 
 > **What does this mean?**
 > This short song of thanks closes the first great part of the book (chapters 1–12). After judgment and distress, praise and joy come at the end.

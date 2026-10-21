@@ -27,7 +27,7 @@ He spoke words of peace to all his descendants.
 
 > **What does this mean?**
 > **The story:** A Jewish orphan, Esther, becomes queen of Persia. Haman, the most powerful official, plans to kill all the Jews. Esther risks her life to save her people. Haman is exposed and falls into the pit he dug himself. The Jews are saved.
-> **The hidden God:** In the Hebrew book of Esther, God is not named a single time. And yet he is everywhere: in the “coincidences”, in the timing of the sleepless night, in the delay of the banquet, in the lot that falls on a day eleven months later. The book shows: even when we do not see God, he is at work.
+> **The hidden God:** In the Hebrew book of Esther, God is not named a single time. And yet he is everywhere: in the “coincidences”, in the timing of the sleepless night, in the delay of the banquet, in the lot that falls on a day 11 months later. The book shows: even when we do not see God, he is at work.
 > **Everything turns around:** That is the great theme: sorrow becomes joy, fasting becomes feasting, the gallows strikes the one who built it, the enemy is brought low, the despised one is honored.
 > **Courage:** Esther is an example of courage. She is afraid, but she acts: “If I die, I die.” And Mordecai’s question still applies to every person today: Who knows? Maybe you are in your place for a time like this.
 > **A warning against hatred:** The book shows how hatred of Jews arises: from wounded pride, from lies and from the indifference of the powerful. Sadly this warning has stayed important through all of history until today.

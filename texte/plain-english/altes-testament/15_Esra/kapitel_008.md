@@ -65,7 +65,7 @@ namely Sherebiah, with his sons and his brothers, 18 men,
 his brothers and their sons, 20 men,
 [20] and of the temple servants, whom David and the princes had given to serve the Levites,
 220 temple servants.
-All of them were named by name.
+All of them were listed by name.
 
 > **What does this mean?**
 > Again Levites are missing (compare Ezra 2:40). Many had settled down in Babylon and did not want to go back.
@@ -97,19 +97,19 @@ and he answered our prayer.
 
 ## The treasures are entrusted (Verses 24–30)
 
-[24] Then I set apart twelve of the leaders of the priests,
-Sherebiah, Hashabiah, and ten of their brothers with them.
+[24] Then I set apart 12 of the leaders of the priests,
+Sherebiah, Hashabiah, and 10 of their brothers with them.
 [25] I weighed out to them the silver, the gold, and the objects,
 the offering for the house of our God,
 which the king, his advisers, his princes, and all Israel who were there had given.
-[26] I weighed into their hand 650 talents of silver, about 24 tons,
-silver objects weighing 100 talents, about 7,500 pounds,
-100 talents of gold, about 7,500 pounds,
-[27] 20 bowls of gold worth 1,000 darics,
+[26] I weighed into their hand 650 talents of silver (about 24 tons),
+silver objects weighing 100 talents (about 7,500 pounds),
+100 talents of gold (about 7,500 pounds),
+[27] 20 bowls of gold weighing 1,000 darics,
 and two objects of fine shining bronze, as precious as gold.
 [28] I said to them,
 “You are holy to the LORD, and the objects are holy.
-The silver and the gold are a freewill offering to the LORD, the God of your fathers.
+The silver and the gold are a freewill offering to the LORD, the God of your ancestors.
 [29] Watch over them and keep them
 until you weigh them before the leaders of the priests, the Levites,
 and the princes of the families of Israel in Jerusalem,
@@ -118,7 +118,7 @@ in the rooms of the LORD’s house.”
 to bring them to Jerusalem to the house of our God.
 
 > **What does this mean?**
-> The Bible says “650 talents of silver, 100 talents of silver objects, 100 talents of gold”. A talent is about 75 pounds. These are huge amounts. Some experts think that the numbers became larger in copying. What matters is: it was a great treasure.
+> The Bible says “650 talents of silver, 100 talents of silver objects, 100 talents of gold.” A talent is about 75 pounds. These are huge amounts. Some experts think that the numbers became larger in copying. What matters is: it was a great treasure.
 > “1,000 darics”: darics were Persian gold coins of about 0.3 ounces.
 > Ezra weighs everything exactly and hands it over to trustworthy men. In Jerusalem everything is weighed again. Whoever handles money for God should be honest and exact (compare 2 Corinthians 8:20–21).
 > “You are holy to the LORD, and the objects are holy”: the men are set apart for God, just like the treasures.
@@ -140,8 +140,8 @@ and with them were the Levites Jozabad the son of Jeshua and Noadiah the son of 
 and the whole weight was written down at that time.
 [35] The people who had come back from captivity, out of exile,
 offered burnt offerings to the God of Israel:
-twelve bulls for all Israel, 96 rams, 77 lambs,
-and twelve male goats as a sin offering.
+12 bulls for all Israel, 96 rams, 77 lambs,
+and 12 male goats as a sin offering.
 All this was a burnt offering to the LORD.
 [36] They handed over the king’s orders to the king’s local governors
 and to the governors beyond the River.
@@ -149,6 +149,6 @@ So these supported the people and God’s house.
 
 > **What does this mean?**
 > God answered the prayer. They arrive safely, without soldiers.
-> Again offerings are made “for all Israel”: 12 bulls and 12 male goats, for the twelve tribes. 96 is 8 times 12.
+> Again offerings are made “for all Israel”: 12 bulls and 12 male goats, for the 12 tribes. 96 is 8 times 12.
 > Meremoth the son of Uriah later also helps to build the wall (Nehemiah 3:4).
-> “The king’s local governors”: here the Hebrew uses a Persian word, “satraps”. That was the name for the governors of the large provinces in the Persian Empire.
+> “The king’s local governors”: here the Hebrew uses a Persian word, “satraps.” That was the name for the governors of the large provinces in the Persian Empire.

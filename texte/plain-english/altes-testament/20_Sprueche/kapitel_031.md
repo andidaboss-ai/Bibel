@@ -74,7 +74,7 @@ Kind teaching is on her tongue.
 and does not eat the bread of laziness.
 [28] Her children stand up and call her blessed.
 Her husband praises her too:
-[29] “Many women do capable things,
+[29] “Many women do noble things,
 but you are better than all of them.”
 [30] Charm is deceiving, and beauty does not last,
 but a woman who fears the LORD will be praised.

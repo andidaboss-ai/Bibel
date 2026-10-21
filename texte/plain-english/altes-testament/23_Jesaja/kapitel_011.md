@@ -83,7 +83,7 @@ The people of Ammon will obey them.
 He will wave his hand over the River with his scorching wind.
 He will split it into seven streams.
 Then people will walk across it in sandals.
-[16] There will be a highway for the rest of his people who are left in Assyria.
+[16] There will be a highway for the rest of his people who are left, from Assyria.
 It will be like the highway for Israel
 on the day Israel came up out of the land of Egypt.
 
@@ -91,5 +91,5 @@ on the day Israel came up out of the land of Egypt.
 > Verse 10: The new king from the “root of Jesse” will be like a flag that draws all peoples. Paul quotes this verse: The nations too will hope in him (Romans 15:12).
 > Verses 11–12: God will bring his scattered people back from all countries, “from the four corners of the earth.” Pathros is Upper Egypt, Cush is today’s Sudan, Elam lies in today’s Iran, Shinar is Babylonia.
 > Verse 13: The divided people, the northern kingdom (Ephraim) and the southern kingdom (Judah), will be reconciled again.
-> Verse 14: Here the language of that time speaks of victory over the neighboring peoples. That is no permission for conquests today. In the context of the chapter, it is about God’s kingdom of peace (Verses 6–9).
+> Verse 14: Here the language of that time speaks of victory over the neighboring peoples. That is no permission for conquests today. In the context of the chapter, it is about God’s kingdom of peace (verses 6–9).
 > Verses 15–16: As back then at the exodus from Egypt, God will make a way, a new exodus.

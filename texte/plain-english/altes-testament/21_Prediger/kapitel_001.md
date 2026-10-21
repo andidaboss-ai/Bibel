@@ -8,7 +8,7 @@
 In Hebrew, the book of Ecclesiastes is called “Qoheleth.” That means something like: “someone who speaks to an assembly.” That is why he is called “the Preacher” in English.
 The Preacher calls himself “the son of David, king in Jerusalem.” That is why the book was linked with Solomon for a long time. Many scholars today think that it was written later, and that Solomon only serves as an example of a rich, wise king.
 The book is unusually honest. The Preacher looks at life “under the sun” and asks: What is left in the end? What does a person gain from all his hard work?
-His famous word is “hevel.” It really means “breath,” “mist” or “a puff of wind”: something that is there and disappears again at once. Our English source, the World English Bible, translates it as “vanity.” This edition keeps the word “vanity.” What is meant: Everything is fleeting, passing, impossible to hold on to.
+His famous word is “hevel.” It really means “breath,” “mist” or “a puff of wind”: something that is there and disappears again at once. The WEB, our English source text, translates it as “vanity.” This edition keeps the word “vanity.” What is meant: Everything is fleeting, passing, impossible to hold on to.
 The book is not only sad. Again and again the Preacher says: Enjoy your food, your work, the people you love. That is a gift from God.
 At the end it says: “Fear God, and keep his commandments” (Ecclesiastes 12:13).
 The book of Ecclesiastes completes the book of Proverbs. Proverbs says how life usually goes. The Preacher says: But not always. And in the end, everyone dies.
@@ -65,10 +65,10 @@ everything that is done under the sky.
 It is a heavy burden that God has given to people
 to trouble themselves with.
 [14] I have seen all the works that are done under the sun,
-and look, all is vanity and a chasing after wind.
+and all is vanity and a chasing after wind.
 [15] What is crooked cannot be made straight,
 and what is missing cannot be counted.
-[16] I said to myself, “Look, I have gained great wisdom,
+[16] I said to myself, “I have gained great wisdom,
 more than all who were before me in Jerusalem.
 Yes, my heart has had great experience of wisdom and knowledge.”
 [17] I set my heart on knowing wisdom
