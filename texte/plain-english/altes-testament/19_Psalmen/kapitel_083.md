@@ -21,12 +21,12 @@ Moab and the Hagrites,
 [7] Gebal, Ammon, and Amalek,
 Philistia with the people who live in Tyre.
 [8] Assyria has also joined them.
-They have helped the children of Lot.
+They have helped the descendants of Lot.
 Selah.
 
 > **What does this mean?**
 > Psalm 83 is the last of the psalms of Asaph. Many nations join together against Israel. Their goal is to wipe out the whole people.
-> The nations surround Israel on all sides: Edom, Moab, and Ammon in the east (Moab and Ammon are the “children of Lot,” Genesis 19:36–38), Philistia and Tyre in the west, Assyria in the north.
+> The nations surround Israel on all sides: Edom, Moab, and Ammon in the east (Moab and Ammon are the “descendants of Lot,” Genesis 19:36–38), Philistia and Tyre in the west, Assyria in the north.
 > Gebal is probably a region south of the Dead Sea. The Hagrites were a people of the desert.
 > Sadly, verse 4 is still relevant today: Again and again in history, people have tried to destroy the Jewish people. The psalm is a cry for help against such hatred.
 

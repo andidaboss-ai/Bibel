@@ -33,5 +33,5 @@ And we, how will we escape?’”
 > In the year 711 BC, the Assyrian army commander (“Tartan” is a title) conquered the Philistine city of Ashdod. The Philistines had hoped for help from Egypt.
 > Isaiah has to act out a sign: For three years he walks around naked, that is, only in a loincloth, and barefoot like a prisoner of war. For a respected man, that was a great humiliation.
 > The message: That is how the Egyptians and the people of Cush will be led away as prisoners. Whoever trusts in Egypt will be disappointed.
-> Our English source text says “Ethiopia.” This means Cush, south of Egypt.
+> The WEB, our English source text, says “Ethiopia.” This means Cush, south of Egypt.
 > Prophets often did not only speak, but also acted out their message, so that people could not overlook it.

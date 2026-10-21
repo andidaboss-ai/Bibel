@@ -80,7 +80,8 @@ What I have given them will be taken away from them.’”
 > Verse 6: No one asks himself, “What have I done?” This question is the beginning of every turning back.
 > Verse 7: A beautiful picture from nature: Migrating birds like storks, swallows and cranes know exactly when they must return. But God’s people do not know when it is time to return to God.
 > Verse 8: The scribes say: But we have the law! But they have explained it in such a way that it became a lie.
-> Verses 10–12: These verses repeat chapter 6:12–15 almost word for word: “Peace, peace,” when there is no peace.
+> Verses 10–12: These verses repeat Jeremiah 6:12–15 almost
+ word for word: “Peace, peace,” when there is no peace.
 > Verse 13: A fig tree without fruit. Jesus uses a similar picture (Mark 11:13–14; Luke 13:6–9).
 
 ---
@@ -90,7 +91,7 @@ What I have given them will be taken away from them.’”
 [14] “Why are we sitting still?
 Gather together!
 Let’s go into the fortified cities,
-and let’s die there in silence.
+and let’s be silent there.
 For the LORD our God has silenced us,
 and given us poisoned water to drink,
 because we have sinned against the LORD.

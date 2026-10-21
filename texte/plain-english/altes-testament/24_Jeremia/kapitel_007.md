@@ -21,14 +21,14 @@ if you really do justice between one person and another,
 and don’t shed innocent blood in this place,
 and don’t follow other gods, which only harms you,
 [7] then I will let you live in this place,
-in the land that I gave to your fathers,
+in the land that I gave to your ancestors,
 from long ago and forever.
 [8] Look, you trust in lying words that are of no use.
 [9] Will you steal, murder, commit adultery, swear falsely,
 burn incense to Baal,
 and follow other gods that you have not known,
 [10] and then come and stand in front of me in this house,
-which is called by my name, and say, ‘We are safe’,
+which is called by my name, and say, ‘We are safe,’
 so that you can go on doing all these disgusting things?
 [11] Has this house, which is called by my name,
 become a den of robbers in your eyes?
@@ -42,7 +42,7 @@ but you didn’t listen.
 I called you, but you didn’t answer.
 [14] That is why I will do to the house which is called by my name,
 which you trust in,
-and to the place which I gave to you and to your fathers,
+and to the place which I gave to you and to your ancestors,
 what I did to Shiloh.
 [15] I will throw you out of my sight,
 as I have thrown out all your brothers,
@@ -92,7 +92,7 @@ It will burn and will not be put out.”
 [21] The LORD of Armies, the God of Israel, says:
 “Add your burnt offerings to your sacrifices,
 and eat the meat.
-[22] For on the day that I brought your fathers out of the land of Egypt,
+[22] For on the day that I brought your ancestors out of the land of Egypt,
 I didn’t speak to them or command them about burnt offerings or sacrifices.
 [23] But this is what I commanded them:
 ‘Listen to my voice,
@@ -104,12 +104,13 @@ so that it may go well with you.’
 They followed their own plans
 and the stubbornness of their evil heart.
 They went backward, and not forward.
-[25] Since the day that your fathers came out of the land of Egypt until today,
+[25] Since the day that your ancestors came out of the land of Egypt until today,
 I have sent you all my servants the prophets,
 sending them every day, again and again.
 [26] Yet they didn’t listen to me or pay attention,
 but they made their necks stiff.
-They did worse than their fathers.
+They did worse than their ancestors.
+
 [27] “You will speak all these words to them,
 but they will not listen to you.
 You will call to them,

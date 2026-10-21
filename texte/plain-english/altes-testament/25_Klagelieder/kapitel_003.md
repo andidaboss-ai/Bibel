@@ -115,7 +115,7 @@ and let us turn back to the LORD.
 to God in heaven.
 [42] “We have sinned and have rebelled.
 You have not forgiven.
-[43] “You have covered yourself with anger and chased us.
+[43] “You have covered us with anger and chased us.
 You have killed. You have not had pity.
 [44] You have covered yourself with a cloud,
 so that no prayer can get through.
@@ -165,7 +165,7 @@ and all their plans against me.
 and all their plans against me.
 [62] You have heard what the people who rise up against me say,
 and how they plot against me all day long.
-[63] Look at them when they sit down and when they get up.
+[63] You see them when they sit down and when they get up.
 They sing songs about me.
 [64] You will pay them back, LORD,
 for what their hands have done.

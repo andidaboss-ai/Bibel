@@ -32,7 +32,7 @@ and did not think about the consequences.
 
 > **What does this mean?**
 > This chapter is a mocking song about the city of Babylon. The city is pictured as a noble young woman, the “daughter of Babylon.” People often spoke of cities in this way at that time.
-> Verses 1–3: The proud mistress has to come down from the throne and becomes a slave: She has to grind flour and wade through rivers without a veil. That is what happened to prisoners in those days. The pictures of being exposed describe how the mighty city is humiliated. They are a picture of a city and its power. They never justify exposing women, humiliating them or doing violence to them. If you experience violence: US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Verses 1–3: The proud mistress has to come down from the throne and becomes a slave: She has to grind flour and wade through rivers without a veil. That is what happened to prisoners in those days. The pictures of being exposed describe how the mighty city is humiliated. They are a picture of a city and its power. They never justify exposing women, humiliating them or doing violence to them. If you experience violence, you can find help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233.
 > Verse 3: “Vengeance” here means that God restores justice. Babylon had treated many nations cruelly.
 > Verse 6: God handed his people over to Babylon as a punishment. But Babylon went far beyond every limit: It had no mercy, not even on the old. For this it will be held responsible.
 
@@ -66,9 +66,9 @@ which you do not understand.
 [12] Stand up now with your spells
 and with your many sorceries,
 which you have worked hard at since your youth,
-in case you might gain something from them,
-in case you might frighten someone.
-[13] You are worn out by all your many advisers.
+as if you might gain something from them,
+as if you might win.
+[13] You are worn out by all your many plans.
 Now let the astrologers stand up,
 the stargazers and those who make predictions every month,
 and save you from what is coming upon you.
@@ -77,7 +77,7 @@ The fire will burn them up.
 They will not save themselves from the power of the flame.
 It will not be a coal to warm yourself at
 or a fire to sit by.
-[15] That is how it will be for you with those you have worked so hard for:
+[15] This is how it will be with all you worked so hard for:
 Those who have traded with you since your youth
 will each wander off on their own way.
 There will be no one to save you.”

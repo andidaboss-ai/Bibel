@@ -43,7 +43,7 @@ It is his glory to overlook a wrong.
 but his favor is like dew on the grass.
 [13] A foolish son is a disaster for his father.
 A wife’s quarrels are like constant dripping.
-[14] House and riches are an inheritance from fathers,
+[14] House and riches are an inheritance from ancestors,
 but a wise wife is from the LORD.
 
 > **What does this mean?**
@@ -83,7 +83,7 @@ but the LORD’s plan will stand.
 [22] What makes a person desirable is his kindness.
 A poor person is better than a liar.
 [23] The fear of the LORD leads to life, and then to contentment.
-You rest and are not touched by trouble.
+Such a person rests and is not touched by trouble.
 [24] The lazy person puts his hand in the dish
 and does not even bring it back to his mouth.
 [25] Whip a mocker, and the simple will learn good sense.

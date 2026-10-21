@@ -32,7 +32,7 @@ This too is vanity.
 
 ## Patience and wisdom (Verses 7–14)
 
-[7] Surely forcing people to pay makes the wise person foolish,
+[7] Surely taking money by force makes the wise person foolish,
 and a bribe destroys understanding.
 [8] The end of a thing is better than its beginning.
 The patient person is better than the proud person.
@@ -74,7 +74,7 @@ Why should you die before your time?
 Yes, and don’t take your hand away from the other either,
 for whoever fears God will come through it all.
 [19] Wisdom makes the wise person stronger
-than ten rulers who are in a city.
+than 10 rulers who are in a city.
 [20] Surely there is not a righteous person on earth
 who does good and does not sin.
 [21] Also, don’t pay attention to every word that is spoken,
@@ -107,18 +107,18 @@ whose heart is snares and traps,
 and whose hands are chains.
 Whoever pleases God will escape from her,
 but the sinner will be caught by her.
-[27] “Look, this is what I have found,” says the Preacher,
+[27] “This is what I have found,” says the Preacher,
 “adding one thing to another to find an explanation,
 [28] which my soul is still looking for, but I have not found.
-I have found one man among a thousand,
+I have found one man among 1,000,
 but I have not found a woman among all those.
-[29] Look, this is the only thing I have found:
+[29] This is the only thing I have found:
 that God made people upright,
 but they look for many schemes.”
 
 > **What does this mean?**
 > Verses 23–24: The Preacher admits: I wanted to become wise, but the truth is too deep for me.
 > Verse 26: Here he warns against a seductive woman, as Proverbs does (Proverbs 5 and 7). It is about a certain kind of woman, not about all women.
-> Verse 28: This verse sounds hostile to women and has often been misused that way. Many interpreters understand it like this: Among men too, the Preacher found almost no one who was really wise and upright, “one man among a thousand.” He describes his personal, limited experience, probably from a royal court with many women who were not free partners. It is no judgment of God about women.
+> Verse 28: This verse sounds hostile to women and has often been misused that way. Many interpreters understand it like this: Among men too, the Preacher found almost no one who was really wise and upright, “one man among 1,000.” He describes his personal, limited experience, probably from a royal court with many women who were not free partners. It is no judgment of God about women.
 > Other parts of the Bible praise many wise and good women, for example Ruth, Abigail, Deborah and the capable woman in Proverbs 31.
 > Verse 29: The most important result: God created people, man and woman, good and upright. But people have thought up many excuses and wrong ways. This is true for everyone alike.

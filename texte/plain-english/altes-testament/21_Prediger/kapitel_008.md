@@ -46,7 +46,7 @@ They went away and were forgotten in the city where they had done this.
 This too is vanity.
 [11] Because the sentence against an evil deed is not carried out quickly,
 the heart of people is fully set on doing evil.
-[12] Even if a sinner commits crimes a hundred times and lives long,
+[12] Even if a sinner commits crimes 100 times and lives long,
 yet I surely know that it will go better with those who fear God,
 who have reverence before him.
 [13] But it will not go well with the wicked,

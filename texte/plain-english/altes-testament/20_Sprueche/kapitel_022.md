@@ -66,14 +66,14 @@ Set your heart on my teaching!
 if all of them are ready on your lips.
 [19] I teach you today, yes, you,
 so that your trust may rest in the LORD.
-[20] Haven’t I written to you thirty excellent sayings,
+[20] Haven’t I written to you 30 excellent sayings,
 full of advice and knowledge,
 [21] to teach you truth, reliable words,
 so that you can give good answers to those who sent you?
 
 > **What does this mean?**
 > Here a new part of the book begins: “The words of the wise” (22:17 to 24:22).
-> Verse 20: “Thirty sayings”: This collection has thirty sections. It is very similar to an old Egyptian book of wisdom, the “Instruction of Amenemope,” which also has thirty chapters. So Israel also took over wisdom from neighboring peoples and connected it with faith in the LORD.
+> Verse 20: “30 excellent sayings”: This collection has 30 sections. It is very similar to an old Egyptian book of wisdom, the “Instruction of Amenemope,” which also has 30 chapters. So Israel also took over wisdom from neighboring peoples and connected it with faith in the LORD.
 > Verse 19: The goal of all wisdom: that you trust in God.
 
 ---
@@ -93,7 +93,7 @@ one of those who guarantee debts!
 [27] If you have nothing to pay with,
 why should your bed be taken away from under you?
 [28] Don’t move the ancient boundary stone
-that your fathers set up!
+that your ancestors set up!
 [29] Do you see a person who is skilled in his work?
 He will serve kings.
 He will not serve unknown people.

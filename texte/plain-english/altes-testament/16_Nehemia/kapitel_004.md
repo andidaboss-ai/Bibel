@@ -33,7 +33,7 @@ The people had a mind to work.
 > In some Bibles verses 1–6 of this chapter are at the end of Chapter 3 (verses 33–38). That is why the verses of Chapter 4 there are shifted by six: verse 7 here is verse 1 there, and so on.
 > The opponents first try mockery. Mockery can be very discouraging.
 > Nehemiah does not answer with mockery of his own. He prays. His prayer is harsh: he asks God to punish the mockers. There are such prayers in the Psalms too. You may tell God honestly how angry and hurt you are. Nehemiah leaves the punishment to God and does not take revenge himself. Jesus goes even further: “Pray for those who treat you badly and persecute you” (Matthew 5:44).
-> Verse 6: “The people had a mind to work”, word for word “a heart for work”. In spite of the mockery they go on working with all their heart.
+> Verse 6: “The people had a mind to work,” word for word “a heart for work”. In spite of the mockery they go on working with all their heart.
 
 ---
 
@@ -57,13 +57,13 @@ We are not able to build the wall.”
 until we come in among them and kill them.
 Then we will stop the work.”
 [12] The Jews who lived near the enemies came to us.
-They told us ten times, from all places,
+They told us 10 times, from all places,
 “Wherever you turn, they will attack us.”
 
 > **What does this mean?**
 > Now the enemies come from all sides: Samaria in the north, the Arabs in the south, the Ammonites in the east, and Ashdod (the Philistines) in the west. Jerusalem is surrounded.
 > Verse 9 shows Nehemiah’s way: to pray AND to set up guards. Faith and caution belong together.
-> Then exhaustion comes from inside: “We are not able to build the wall.” The rubble seems endless. And the Jews from the towns around spread fear, “ten times”, that is, again and again.
+> Then exhaustion comes from inside: “We are not able to build the wall.” The rubble seems endless. And the Jews from the towns around spread fear, “10 times,” that is, again and again.
 > Discouragement comes from outside and from inside. Both are dangerous.
 
 ---

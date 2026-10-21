@@ -60,7 +60,7 @@ What god is as great as God?
 [14] You are the God who does wonders.
 You have made your strength known among the peoples.
 [15] With your arm you have set your people free,
-the sons of Jacob and Joseph.
+the descendants of Jacob and Joseph.
 Selah.
 
 > **What does this mean?**

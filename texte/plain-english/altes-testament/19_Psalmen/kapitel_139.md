@@ -5,7 +5,7 @@
 
 ## God knows everything about me (Verses 1–6)
 
-[1] For the music leader. A psalm by David.
+[1] For the music director. A psalm by David.
 LORD, you have looked deep inside me, and you know me.
 [2] You know when I sit down and when I get up.
 You understand my thoughts from far away.

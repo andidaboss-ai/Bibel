@@ -12,7 +12,7 @@ so that he lacks nothing of all that his soul desires,
 and yet God does not give him the ability to eat of it,
 but a stranger eats it.
 This is vanity, and it is an evil sickness.
-[3] If a man has a hundred children
+[3] If a man has 100 children
 and lives many years, so that the days of his years are many,
 but his soul is not filled with good things,
 and he does not even get a burial,
@@ -22,7 +22,7 @@ and goes away in darkness,
 and its name is covered with darkness.
 [5] Also, it has not seen the sun or known it.
 It has more rest than the other.
-[6] Yes, even if he lived a thousand years twice over
+[6] Yes, even if he lived 1,000 years twice over
 and yet could not enjoy good things,
 don’t all go to one place?
 
@@ -57,4 +57,4 @@ what will be after him under the sun?
 > Verse 7: We work in order to eat. But hunger comes back again and again. And the longing for more never stops.
 > Verse 9: “Better is what the eyes see”: Enjoy what you have instead of always dreaming of more. That is contentment.
 > Verse 10: “The one who is stronger” is God. People cannot argue with him.
-> Verse 12: Our life is as short as a shadow. No one can tell us what comes afterward. These questions remain open. The book of Ecclesiastes bears this tension.
+> Verse 12: Our life is as short as a shadow. No one can tell us what comes afterward. These questions remain open. The book of Ecclesiastes lives with this tension.

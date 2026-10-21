@@ -44,7 +44,7 @@ will cry out himself and not be heard.
 [14] A secret gift calms anger,
 and a bribe hidden in the coat calms strong rage.
 [15] For the righteous, it is a joy to do justice,
-but for those who do wrong, it is a terror.
+but for those who do wrong, it brings ruin.
 [16] A person who wanders away from the way of understanding
 will rest in the assembly of the dead.
 [17] Whoever loves pleasure will be poor.
@@ -57,7 +57,7 @@ than with a quarrelsome and irritable woman.
 > **What does this mean?**
 > Verses 9 and 19: Said with humor: Better to live alone in a small corner on the flat roof, or even in the desert, than in a house full of quarrels. The proverbs are written for men. The same is true for women with a quarrelsome husband.
 > If you experience violence in your own relationship, you can get help day and night. US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
-> Verse 12: “The Righteous One” can mean God himself here, the one who is righteous above all. Our English source, the World English Bible, writes it with capital letters and understands it this way.
+> Verse 12: “The Righteous One” can mean God himself here, the one who is righteous above all. The WEB, our English source text, writes it with capital letters and understands it this way.
 > Verse 13: Whoever ignores the need of the poor will one day stand without help himself.
 > Verse 14: An observation of how bribery works. It is not advice.
 > Verse 18: A difficult verse: The disaster that would really hit the righteous hits the wicked in the end.

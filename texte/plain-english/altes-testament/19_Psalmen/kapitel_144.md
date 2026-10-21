@@ -38,7 +38,7 @@ out of the hands of foreigners,
 [8] whose mouths speak lies,
 and whose right hand is a hand that lies.
 [9] I will sing a new song to you, God.
-I will sing praises to you on a lyre with ten strings.
+I will sing praises to you on a lyre with 10 strings.
 A lyre is a small harp.
 [10] You are the one who saves kings,
 who rescues David, his servant, from the deadly sword.

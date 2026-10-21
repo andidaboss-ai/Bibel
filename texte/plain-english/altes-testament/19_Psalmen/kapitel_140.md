@@ -5,7 +5,7 @@
 
 ## Tongues like snakes (Verses 1–5)
 
-[1] For the music leader. A psalm by David.
+[1] For the music director. A psalm by David.
 LORD, rescue me from evil people!
 Protect me from violent men,
 [2] who plan evil in their hearts.
@@ -33,7 +33,7 @@ Selah.
 
 [6] I said to the LORD, “You are my God.”
 LORD, listen to my loud cry for help!
-[7] LORD, my Lord, you are my strong help who saves me.
+[7] LORD, the Lord, you are my strong help who saves me.
 You have protected my head on the day of battle.
 [8] LORD, do not give the wicked what they want!
 Do not let their evil plans succeed,

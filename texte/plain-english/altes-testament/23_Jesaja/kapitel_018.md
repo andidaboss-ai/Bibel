@@ -37,8 +37,8 @@ whose land the rivers divide,
 to the place of the name of the LORD of Armies, Mount Zion.
 
 > **What does this mean?**
-> Cush lay south of Egypt, in what is today Sudan. Our English source text writes “Ethiopia” here. At that time, kings from Cush also ruled over Egypt.
+> Cush lay south of Egypt, in what is today Sudan. The WEB, our English source text, says “Ethiopia” here. At that time, kings from Cush also ruled over Egypt.
 > “The land of whirring wings”: Perhaps this means the many insects along the Nile. The people there were tall, proud and famous for their strength.
 > Verse 2: The people of Cush send messengers in light papyrus boats to form an alliance against Assyria. But Isaiah says: Don’t rely on alliances.
-> Verse 4: At first God watches calmly, like the sun in the midday heat. He has time. But at the right time he steps in, like a vinedresser who prunes the vines (Verse 5).
+> Verse 4: At first God watches calmly, like the sun in the midday heat. He has time. But at the right time he steps in, like a vinedresser who prunes the vines (verse 5).
 > Verse 7: In the end, even this distant, proud people comes to Jerusalem and brings gifts to God. All peoples will come to God. Acts 8:26–39 tells how a man from Cush (Ethiopia) goes on a pilgrimage to Jerusalem and is baptized.

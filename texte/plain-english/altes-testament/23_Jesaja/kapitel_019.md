@@ -17,7 +17,7 @@ city against city and kingdom against kingdom.
 [3] The spirit of the Egyptians will fail within them.
 I will bring their plans to nothing.
 They will consult the idols, the magicians,
-the spirits of the dead, and the fortune-tellers.
+those who talk to the spirits of the dead, and the fortune-tellers.
 [4] I will hand the Egyptians over to a cruel master.
 A fierce king will rule over them,”
 says the Lord, the LORD of Armies.
@@ -30,19 +30,19 @@ The reeds and rushes will wither.
 and all the sown fields of the Nile will dry up,
 blow away, and be gone.
 [8] The fishermen will lament,
-and all who cast a hook into the Nile will mourn,
+and all who fish in the Nile will mourn,
 and those who spread nets on the water will waste away.
 [9] Also those who work with combed flax
 and those who weave white cloth will be put to shame.
-[10] Its pillars will be broken to pieces.
-All who work for wages will be sad.
+[10] The pillars will be broken to pieces.
+All who work for wages will be deeply sad.
 [11] The princes of Zoan are completely foolish.
 The advice of Pharaoh’s wisest advisers has become stupid.
 How can you say to Pharaoh,
 “I am a son of the wise, a son of ancient kings”?
 [12] Where are your wise men, then?
 Let them tell you now,
-and let them know what the LORD of Armies has planned against Egypt.
+and let them know what the LORD of Armies has planned for Egypt.
 [13] The princes of Zoan have become fools.
 The princes of Memphis are deceived.
 They have led Egypt astray,
