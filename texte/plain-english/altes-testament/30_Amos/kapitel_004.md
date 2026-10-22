@@ -33,7 +33,6 @@ says the LORD.
 Go to Gilgal, and sin even more!
 Bring your sacrifices every morning,
 and your tithes every three days.
-A tithe is a tenth of what you earn. It was given to God.
 [5] Offer a thank offering of bread made with yeast.
 Announce your free gifts and brag about them.
 For this is what you like to do, you people of Israel,”
@@ -41,6 +40,7 @@ says the Lord GOD.
 
 > **What does this mean?**
 > Bitter irony: Amos sounds like a priest who invites people to worship. But he says, “Go to Bethel, and sin!” The eager worship in Bethel and Gilgal is sin, because it goes together with injustice in everyday life.
+> Verse 4: A tithe is a tenth of what you earn. It was given to God.
 > Verse 5: They give gifts, but only to brag about them. “For this is what YOU like to do.” They care about their own reputation, not about God. Later Jesus warns: “So when you do merciful deeds, don’t sound a trumpet in front of you” (Matthew 6:2).
 
 ---

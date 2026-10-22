@@ -40,7 +40,7 @@ It had large iron teeth.
 It ate and crushed its victims,
 and it stamped on what was left with its feet.
 It was different from all the animals before it.
-It had ten horns.
+It had 10 horns.
 [8] “I was thinking about the horns.
 Then I saw another horn come up among them, a little one.
 Three of the first horns were pulled out by the roots to make room for it.
@@ -49,7 +49,7 @@ and a mouth that spoke proudly.
 
 > **What does this mean?**
 > With Chapter 7, the second part of the book begins: Daniel’s own visions. They are full of strange pictures, like a nightmare. Texts like this are called “apocalyptic” (from a Greek word that means “revealing”): They show in pictures what is going on behind history.
-> The “great sea” stands for chaos and unrest. Out of this chaos come four wild animals: a lion with wings, a bear, a leopard with four heads, and a terrible fourth animal with iron teeth and ten horns.
+> The “great sea” stands for chaos and unrest. Out of this chaos come four wild animals: a lion with wings, a bear, a leopard with four heads, and a terrible fourth animal with iron teeth and 10 horns.
 > The animals are like the four metals of the statue in Chapter 2: four world empires. Here, world empires are shown as beasts of prey, dangerous and greedy.
 > In the Bible, horns are a picture of power and of kings.
 > Verse 8: The little horn with human eyes and a big mouth is an especially proud ruler.
@@ -67,7 +67,7 @@ His throne was flames of fire,
 and its wheels were burning fire.
 [10] A river of fire flowed out from in front of him.
 Thousands and thousands served him.
-Ten thousand times ten thousand stood in front of him.
+10,000 times 10,000 stood in front of him.
 The court sat down to judge,
 and the books were opened.
 [11] “Then I kept watching because of the proud words
@@ -121,7 +121,6 @@ and explained to me what these things mean:
 [17] ‘These four great animals
 are four kings who will rise from the earth.
 [18] But the saints of the Most High will receive the kingdom.
-Saints are people who belong to God.
 They will have the kingdom forever,
 yes, forever and ever.’
 [19] “Then I wanted to know the truth about the fourth animal.
@@ -130,7 +129,7 @@ and very terrifying.
 Its teeth were made of iron, and its claws of bronze.
 It ate and crushed its victims,
 and it stamped on what was left with its feet.
-[20] I also wanted to know about the ten horns on its head,
+[20] I also wanted to know about the 10 horns on its head,
 and about the other horn that came up.
 Three horns fell to make room for it.
 That horn had eyes
@@ -147,8 +146,8 @@ And the time came when the saints took over the kingdom.
 It will be different from all the other kingdoms.
 It will eat up the whole earth.
 It will trample it down and crush it.
-[24] As for the ten horns:
-Ten kings will rise out of this kingdom.
+[24] As for the 10 horns:
+10 kings will rise out of this kingdom.
 After them, another king will rise.
 He will be different from the kings before him.
 And he will bring down three kings.
@@ -172,6 +171,7 @@ But I kept the matter in my heart.”
 
 > **What does this mean?**
 > An angel explains: The four animals are four kingdoms. But in the end, “the saints of the Most High” receive the kingdom that lasts forever.
+> Verse 18: Saints are people who belong to God.
 > Verse 25: The proud ruler (the little horn) persecutes the believers. He plans “to change the times and the law.” That means: He wants to get rid of God’s feasts and commandments.
 > “A time, and times, and half a time” is probably three and a half years (1 + 2 + ½), a limited time of suffering. The persecution has an end.
 > Who is the little horn?

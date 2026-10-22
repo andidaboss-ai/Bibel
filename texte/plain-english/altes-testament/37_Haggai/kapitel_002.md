@@ -24,7 +24,6 @@ For I am with you,’ says the LORD of Armies.
 when you came out of Egypt.
 And my Spirit lived among you.
 Don’t be afraid!’
-A covenant is a binding agreement.
 [6] For this is what the LORD of Armies says:
 ‘Once more, in a little while,
 I will shake the sky and the earth,
@@ -44,6 +43,7 @@ says the LORD of Armies.”
 > **What does this mean?**
 > Verse 1: This was about the middle of October 520 BC, during the Feast of Tents.
 > Verse 3: Some old people had still seen Solomon’s first temple, before it was destroyed 66 years earlier. Compared with its splendor, the new building looked poor. Many were disappointed (compare Ezra 3:12).
+> Verse 5: A covenant is a binding agreement.
 > Verses 4–5: God encourages them three times: “Be strong!” And: “I am with you. My Spirit is among you. Don’t be afraid!” What matters is not how splendid the building is, but that God is there.
 > Verses 6–7: God will shake the whole world, and then the treasures of the nations will come to the temple. The letter to the Hebrews quotes verse 6 (Hebrews 12:26–28).
 > “The treasures of all nations”: This is how the WEB translates it. Some other, older translations understand the verse as “the one whom all nations long for,” and they apply it to the Messiah. The Hebrew text can mean both.
@@ -89,13 +89,12 @@ What they offer there is unclean.
 [15] Now please think about it, from this day and back,
 before one stone was laid on another in the LORD’s temple.
 [16] All through that time,
-when someone came to a pile of grain of twenty measures,
-there were only ten.
-When someone came to the wine vat to draw out fifty measures,
-there were only twenty.
+when someone came to a pile of grain of 20 measures,
+there were only 10.
+When someone came to the wine vat to draw out 50 measures,
+there were only 20.
 [17] I struck you with blight, mildew, and hail
 in all the work of your hands.
-Blight and mildew are plant diseases.
 And yet you did not turn to me,’
 says the LORD.
 [18] ‘Please think about it, from this day and back,
@@ -108,10 +107,11 @@ have not produced anything yet.
 From today on I will bless you.’”
 
 > **What does this mean?**
+> Verse 17: Blight and mildew are plant diseases.
 > Verses 15–17: Remember how it was before: The harvest was always only half as big as expected. Diseases struck the grain. But you did not understand what God wanted to tell you.
 > Verses 18–19: But now, since the day the building started again, everything will change. Nothing has been harvested yet, and the seed has not come up yet. But God promises: “From today on I will bless you.”
 > This is a promise that you have to accept in faith, before you see it.
-> The date (the 24th day of the 9th month) is about the middle of December 520 BC.
+> The date (the twenty-fourth day of the ninth month) is about the middle of December 520 BC.
 
 ---
 

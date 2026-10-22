@@ -14,13 +14,13 @@ who will winnow her like grain.
 They will empty her land.
 For in the day of trouble
 they will be against her on every side.
-[3] Don’t let the archer string his bow,
-and don’t let him stand up in his armor!
+[3] Let the archer bend his bow against the one who bends his bow,
+and against the one who stands up proudly in his armor!
 Don’t spare her young men!
 Destroy her whole army completely!
 [4] They will fall down dead in the land of the Chaldeans,
 pierced through in her streets.
-[5] For Israel and Judah have not been left like a widow
+[5] For Israel and Judah have not been abandoned
 by their God, the LORD of Armies,
 even though their land is full of guilt
 against the Holy One of Israel.
@@ -42,7 +42,7 @@ but she could not be healed.
 Leave her, and let’s each go to our own country.
 For her judgment reaches up to heaven,
 and rises up to the skies.’
-[10] ‘The LORD has brought our justice to light.
+[10] ‘The LORD has brought out our righteousness.
 Come, let’s tell in Zion
 what the LORD our God has done.’
 [11] Sharpen the arrows!
@@ -68,7 +68,7 @@ and they will raise a battle cry against you.’
 > **What does this mean?**
 > Verse 1: “Lebkamai” is a secret name for Chaldea (Babylonia), again formed by swapping letters, like “Sheshach” (25:26).
 > Verses 3–4: Harsh language of war. It describes the end of the cruel great power Babylon. It is not permission for people to wage war or to take revenge.
-> Verse 5: A comforting sentence: Israel and Judah have not been “left like a widow.” God has not abandoned his people, even though it has become guilty.
+> Verse 5: A comforting sentence: Israel and Judah have not been “abandoned” by their God. The Hebrew word makes us think of a widow who is left alone. God has not abandoned his people, even though it has become guilty.
 > Verse 7: Babylon was like a golden cup from which the nations drank an intoxicating wine. The Book of Revelation takes up this picture (Revelation 17:4; 18:3).
 > Verses 8–9: People try to heal Babylon, but it is no longer possible.
 > Verse 11: The Medes (together with the Persians) conquered Babylon in 539 BC.
@@ -78,7 +78,7 @@ and they will raise a battle cry against you.’
 
 ## The Creator and the idols (Verses 15–19)
 
-[15] God has made the earth by his power.
+[15] “God has made the earth by his power.
 He has set the world in place by his wisdom.
 By his understanding he has stretched out the heavens.
 [16] When he speaks, the waters in the heavens roar.
@@ -89,7 +89,7 @@ and brings the wind out of his storehouses.
 Every goldsmith is put to shame by his carved image,
 for his cast images are a lie,
 and there is no breath in them.
-[18] They are worthless, a work to be laughed at.
+[18] They are worthless, a work of deception.
 In the time of their punishment they will be destroyed.
 [19] The portion of Jacob is not like these,
 for he is the maker of all things,
@@ -103,12 +103,12 @@ The LORD of Armies is his name.
 
 ## The smashing hammer (Verses 20–26)
 
-[20] “You are my war club, my weapon for battle.
+[20] “You are my battle ax, my weapon for battle.
 With you I smash nations.
 With you I destroy kingdoms.
 [21] With you I smash the horse and its rider.
-With you I smash the chariot and its driver.
-[22] With you I smash man and woman.
+[22] With you I smash the chariot and its driver.
+With you I smash man and woman.
 With you I smash the old and the young.
 With you I smash the young man and the young woman.
 [23] With you I smash the shepherd and his flock.
@@ -127,7 +127,7 @@ nor a stone for a foundation.
 You will be a wasteland forever,” says the LORD.
 
 > **What does this mean?**
-> Verses 20–23: Babylon was God’s “hammer,” with which he smashed nations. Nine times it says, “With you I smash …” These verses show how terrible Babylon’s wars were for all people: for men and women, old and young, shepherds and farmers.
+> Verses 20–23: Babylon was God’s “battle ax,” his hammer, with which he smashed nations. Nine times it says, “With you I smash …” These verses show how terrible Babylon’s wars were for all people: for men and women, old and young, shepherds and farmers.
 > Verses 24–25: But now the hammer itself is smashed, because it has done so much evil. Babylon, the “destroying mountain,” becomes a burned-out mountain.
 > Verse 26: Not even a stone will be left for new buildings.
 > These verses describe how God can use powers and then judge them again. They do not justify violence against innocent people, but show it as a terrible injustice for which Babylon is held responsible.
@@ -161,7 +161,7 @@ and one messenger to meet another,
 to tell the king of Babylon
 that his city is captured from end to end.
 [32] The river crossings are seized.
-The marshes are set on fire.
+The reeds are burned with fire.
 The soldiers are terrified.”
 [33] For the LORD of Armies, the God of Israel, says:
 “The daughter of Babylon is like a threshing floor
@@ -200,7 +200,7 @@ an object of horror and hissing,
 without anyone living there.
 [38] They will roar together like young lions.
 They will growl like lion cubs.
-[39] When they are heated with greed,
+[39] When they are heated up,
 I will prepare a feast for them,
 and make them drunk,
 so that they celebrate,
@@ -212,7 +212,7 @@ How the pride of the whole earth is seized!
 How Babylon has become an object of horror
 among the nations!
 [42] The sea has risen over Babylon.
-She is covered by its roaring waves.
+She is covered by its many waves.
 [43] Her cities have become a wasteland,
 a dry land and a desert,
 a land where no one lives,
@@ -232,7 +232,7 @@ Yes, the wall of Babylon will fall.
 
 ## My people, go out! (Verses 45–58)
 
-[45] My people, go out of the middle of her!
+[45] “My people, go out of the middle of her!
 Each of you, save yourselves
 from the LORD’s burning anger.
 [46] Don’t lose heart,
