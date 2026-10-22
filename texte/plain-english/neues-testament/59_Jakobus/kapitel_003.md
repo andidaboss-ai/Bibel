@@ -39,8 +39,8 @@ and has been tamed.
 [8] But no one can tame the tongue.
 It is a restless evil,
 full of deadly poison.
-[9] With it we bless God,
-the Father.
+[9] With it we bless our God
+and Father.
 And with it we curse people,
 who are made in the image of God.
 [10] Out of the same mouth come blessing and cursing.

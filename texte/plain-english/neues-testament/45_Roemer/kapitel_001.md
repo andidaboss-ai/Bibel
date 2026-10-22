@@ -45,7 +45,7 @@ and the Lord Jesus Christ.
 
 > **What does this mean?**
 > Apostle means: someone sent out by Jesus with his message.
-> Saints means: here: all who belong to God.
+> Saints here means: all who belong to God.
 > In those days a letter began with the name of the sender and a greeting. Paul turns this into a small confession of faith.
 > Verse 1: “Servant” means: Paul belongs completely to Jesus and serves him.
 > Verse 2: The Good News is not something completely new. God already promised it in the Bible of Israel.

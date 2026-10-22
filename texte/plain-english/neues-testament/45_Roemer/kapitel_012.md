@@ -68,7 +68,7 @@ Whoever shows mercy,
 let them do it with cheerfulness.
 
 > **What does this mean?**
-> Members means: here: parts of the body.
+> Members here means: parts of the body.
 > Diligence means: careful, eager effort.
 > Verses 4–5: Paul compares the church to a body. Every part is important, even if it has a different task. A similar picture is found in 1 Corinthians 12.
 > Verses 6–8: Every person has gifts from God. No one is unimportant. The gifts are different, but all serve the community.

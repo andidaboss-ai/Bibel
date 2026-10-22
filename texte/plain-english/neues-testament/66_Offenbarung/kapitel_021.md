@@ -76,7 +76,7 @@ three gates on the north,
 three gates on the south,
 and three gates on the west.
 [14] The wall of the city had 12 foundation stones.
-On them were the 12 names of the Twelve Apostles of the Lamb.
+On them were the 12 names of the 12 Apostles of the Lamb.
 [15] The angel who spoke with me had a golden measuring stick.
 He was to measure the city, its gates, and its walls.
 [16] The city is square.
@@ -109,7 +109,7 @@ The street of the city was pure gold, like glass you can see through.
 > Verses 12–14: On the gates are the names of the 12 tribes of Israel. On the foundations are the names of the 12 apostles. Israel and the church both belong to God’s city. Israel has not been replaced. God’s people are Israel and the church together.
 > Verse 13: There are gates in every direction. People from the whole world are welcome.
 > Verse 16: The city is a cube. The Most Holy Place in the temple was also a cube (1 Kings 6:20). The whole city is now like the Most Holy Place: God is very near everywhere.
-> The old measure is given in stadia. 12,000 stadia are about 1,400 miles (2,200 kilometers). The WEB has 12,012 stadia here. Most manuscripts have 12,000. The number means: unimaginably large, room for everyone.
+> The old measure is given in stadia. 12,000 stadia are about 1,400 miles. The WEB, our English source text, has 12,012 stadia here. Most manuscripts have 12,000. The number means: unimaginably large, room for everyone.
 > Verse 17: The wall measures 144 cubits. A cubit is about 18 inches. 144 cubits are about 216 feet. 144 is 12 times 12, again the number of the whole people of God.
 > Verses 19–20: The precious stones recall the 12 stones on the breastpiece of the high priest (Exodus 28:17–21). The names of some stones are no longer completely certain today.
 > Verse 21: Each gate is made of a single huge pearl. Here gold is as common as paving stones. What counts most on earth is completely ordinary in God’s world.

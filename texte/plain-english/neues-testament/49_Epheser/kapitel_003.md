@@ -34,7 +34,7 @@ I may preach to the nations the unsearchable riches of Christ.
 how God carries out his mystery.
 For ages it was hidden in God,
 who created all things through Jesus Christ.
-[10] So now, through the assembly,
+[10] So now, through the church,
 the many-sided wisdom of God
 is to be made known to the rulers and powers in the heavenly places.
 [11] This is according to the eternal purpose
@@ -47,7 +47,7 @@ Don’t lose heart because of my troubles for you.
 They are your glory.
 
 > **What does this mean?**
-> Mystery means: here: God’s plan that was hidden for a long time and is now revealed.
+> Here, mystery means: God’s plan that was hidden for a long time and is now revealed.
 > Verse 1: The letter was written in prison. Paul was often in prison because he preached the Good News.
 > Verse 6: The “mystery” is: The people from the nations also belong to God’s people. They are “fellow heirs,” they inherit together with Israel. They stand beside Israel, not in its place.
 > Verse 8: “To me, the very least of all saints”: Paul sees himself humbly. He knows that he once persecuted Christians.
@@ -63,7 +63,7 @@ They are your glory.
 [16] I pray
 that, according to the riches of his glory, he will grant you
 to be strengthened with power through his Spirit in the inner person,
-[17] that Christ may dwell in your hearts through faith,
+[17] that Christ may live in your hearts through faith,
 and that you are rooted and grounded in love.
 [18] In this way you are to receive strength, together with all the saints,
 to understand
@@ -76,7 +76,7 @@ So may you be filled with all the fullness of God.
 than all that we ask or think,
 through the power
 that works in us.
-[21] To him be the glory in the assembly
+[21] To him be the glory in the church
 and in Christ Jesus,
 to all generations,
 forever and ever.

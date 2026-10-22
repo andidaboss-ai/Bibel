@@ -118,6 +118,6 @@ and it spread for about 185 miles.
 > **What does this mean?**
 > Verse 14: “One like a son of man” is Jesus (compare 1:13 and Daniel 7:13).
 > Verses 14–16: The grain harvest is perhaps a picture for God gathering his own. Jesus himself spoke of the harvest as a picture for the end of time (compare Matthew 13:30, 39).
-> Verses 17–20: The grape harvest is a picture for God’s judgment on evil. It recalls Joel 4:13 (in some Bibles Joel 3:13) and Isaiah 63:1–6.
-> Verse 20: 1,600 stadia are about 185 miles (300 kilometers). That is about the length of the land of Israel. The number is a picture: The judgment concerns the whole world. It is not a description of real bloodshed that people are to cause. Judgment belongs to God alone.
+> Verses 17–20: The grape harvest is a picture for God’s judgment on evil. It recalls Joel 3:13 (in some Bibles Joel 4:13) and Isaiah 63:1–6.
+> Verse 20: 1,600 stadia are about 185 miles. That is about the length of the land of Israel. The number is a picture: The judgment concerns the whole world. It is not a description of real bloodshed that people are to cause. Judgment belongs to God alone.
 > “Outside the city”: Jesus too was crucified outside the city (Hebrews 13:12).

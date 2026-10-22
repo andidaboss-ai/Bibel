@@ -23,7 +23,7 @@ Those who live on the earth became drunk with the wine of her sexual immorality.
 [3] Then the Spirit came over me, and the angel carried me away into a wilderness.
 There I saw a woman sitting on a bright red beast.
 The beast was covered with names that insulted God.
-It had seven heads and ten horns.
+It had 7 heads and 10 horns.
 [4] The woman was dressed in purple and bright red.
 She was decorated with gold, precious stones, and pearls.
 In her hand she held a golden cup.
@@ -53,7 +53,7 @@ When I saw her, I was very amazed.
 “Why are you amazed?
 I will tell you the secret of the woman,
 and the secret of the beast that carries her.
-It is the beast with the seven heads and the ten horns.
+It is the beast with the 7 heads and the 10 horns.
 [8] The beast you saw was, and is not.
 It is about to come up out of the abyss and go to destruction.
 Those who live on the earth will be amazed when they see the beast.
@@ -71,7 +71,7 @@ When he comes, he can only stay for a short time.
 [11] The beast that was, and is not, is also an eighth king.
 He belongs to the seven.
 And he is going to destruction.
-[12] The ten horns you saw are ten kings.
+[12] The 10 horns you saw are 10 kings.
 They have not received a kingdom yet.
 But together with the beast they receive authority as kings for one hour.
 [13] They all have the same purpose.
@@ -95,7 +95,7 @@ Those who are with him are called, chosen, and faithful.”
 [15] He said to me,
 “You saw the waters where the prostitute sits.
 They are peoples, crowds, nations, and languages.
-[16] You saw the ten horns.
+[16] You saw the 10 horns.
 They and the beast will hate the prostitute.
 They will take everything away from her and leave her alone.
 They will strip her naked.

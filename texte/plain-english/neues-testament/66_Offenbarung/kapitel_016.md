@@ -96,12 +96,12 @@ He gave her the cup filled with the wine of his fierce anger.
 [20] Every island fled away.
 The mountains could no longer be found.
 [21] Huge hailstones fell from the sky on people.
-Each one weighed about 75 pounds.
+Each one weighed about a talent (about 75 pounds).
 People cursed God because of the plague of the hail,
 for this plague was terrible.
 
 > **What does this mean?**
 > Verse 17: “It is done!” God’s judgment on evil is complete.
 > Verse 19: “Babylon” is again the code name for Rome and for every evil great power. The next two chapters tell about its fall in detail.
-> Verse 21: The old measure here is a talent. A talent was a weight of about 65 to 90 pounds (30 to 40 kilograms). That means: unimaginably heavy.
+> Verse 21: The old measure here is a talent. A talent was a weight of about 75 pounds. That means: unimaginably heavy.
 > These pictures are not a description of real natural disasters. They show: In the end everything that sets itself against God collapses.

@@ -33,11 +33,10 @@ And those who get drunk
 get drunk in the night.
 [8] But we belong to the day.
 So let’s be sober.
-We put on the breastplate of faith and love,
+Let’s put on the breastplate of faith and love,
 and for a helmet, the hope of salvation.
-[9] For God didn’t appoint us to wrath,
-but to
-obtaining salvation
+[9] For God didn’t appoint us to anger,
+but to receive salvation
 through our Lord Jesus Christ.
 [10] He died for us,
 so that we should live together with him,
@@ -48,6 +47,7 @@ just as you are already doing.
 
 > **What does this mean?**
 > Sober means: clear-headed, not drunk.
+> A breastplate is a piece of armor that protects the chest.
 > Verses 1–2: No one knows when Jesus will come again. So you should not calculate dates either. Jesus himself used the picture of the thief (Matthew 24:43–44).
 > Verse 3: “Peace and safety” was a slogan of the Roman Empire. Paul says: True safety is not given by the emperor, but by God.
 > Verses 5–8: Christians are to live awake and sober, as if it were already day. That means: attentive, sensible, not indifferent.
@@ -110,7 +110,7 @@ May your whole spirit,
 soul and body
 be kept
 blameless
-until the coming of our Lord Jesus Christ.
+at the coming of our Lord Jesus Christ.
 [24] He who calls you
 is faithful.
 He will also do it.

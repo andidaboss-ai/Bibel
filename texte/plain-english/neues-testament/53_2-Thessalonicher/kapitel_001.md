@@ -19,7 +19,7 @@ The second letter to the Thessalonians has 3 chapters.
 [1] Paul,
 Silvanus
 and Timothy
-write to the assembly of the Thessalonians
+write to the church of the Thessalonians
 in God our Father
 and the Lord Jesus Christ.
 [2] Grace to you and peace
@@ -39,15 +39,15 @@ That is fitting.
 For your faith is growing greatly,
 and the love of each one of you for one another
 keeps increasing.
-[4] So we ourselves boast about you in the assemblies of God,
+[4] So we ourselves boast about you in the churches of God,
 because of your perseverance and faith
 in all the persecutions and afflictions
 that you endure.
-[5] This is a clear sign of the righteous judgment of God.
+[5] This is a clear sign of the just judgment of God.
 For you are to be counted worthy
 of God’s Kingdom,
 for which you are also suffering.
-[6] For it is a righteous thing with God
+[6] For it is just for God
 to repay with affliction
 those who afflict you,
 [7] and to give relief to you

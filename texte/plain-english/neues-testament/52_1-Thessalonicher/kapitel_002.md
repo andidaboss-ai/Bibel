@@ -32,7 +32,8 @@ neither from you nor from others.
 Yet as apostles of Christ
 we could have claimed authority.
 [7] But we were gentle among you,
-like a nursing mother cherishes her own children.
+like a nursing mother
+who takes tender care of her own children.
 [8] That is how much we longed for you.
 We wanted to give you not only the Good News of God,
 but also our own lives.
@@ -49,11 +50,12 @@ how holy,
 righteous
 and blameless
 we were toward you who believe.
+Righteous means: living right before God.
 [11] For you know:
-As a father does his own children,
-so we urged each one of you,
+We urged each one of you,
 encouraged you
-and pleaded with you
+and pleaded with you,
+as a father does with his own children.
 [12] to live in a way
 worthy of God.
 He calls you into his own Kingdom
@@ -73,7 +75,7 @@ and glory.
 
 [13] That is why we also thank God without ceasing:
 You heard from us the word of God’s message.
-And you accepted it not as the word of men,
+And you accepted it not as a human word,
 but as what
 it truly is:
 God’s word.
@@ -81,9 +83,9 @@ It works in you
 who believe.
 [14] For you,
 brothers,
-became imitators of the assemblies of God in Judea
+became imitators of the churches of God in Judea
 that are in Christ Jesus.
-For you suffered the same things from your own countrymen
+For you suffered the same things from your own people
 as they did from the Jews
 [15] who killed both the Lord Jesus
 and their own prophets
@@ -94,7 +96,7 @@ and are against all people.
 to speak to the nations
 so that they may be saved.
 So they always fill up the measure of their sins.
-But wrath has come on them to the uttermost.
+But anger has come on them in full.
 
 > **Important note**
 > Verses 14–16 are among the most difficult verses in the New Testament. In history they were terribly misused to despise, persecute and kill Jews. That was a grave injustice. These verses must never be used against Jews.
@@ -103,7 +105,7 @@ But wrath has come on them to the uttermost.
 > Paul himself was a Jew. The churches in Judea (verse 14) that he praises consisted of Jews. Jesus, his disciples and the first Christians were Jews.
 > Here Paul speaks in anger about a certain group in Judea that persecuted the Christians at that time and had driven him out. He doesn’t mean the whole Jewish people. The Greek word can also mean *the Judeans*, that is, the people living in Judea. And the sentence can be read this way: *from those Jews who …*, so only from certain people.
 > Verse 15: Jesus was crucified by the Romans. Crucifixion was a Roman punishment. The claim that *the Jews* killed Jesus is false and has caused endless suffering.
-> Verse 16: What Paul means by “wrath has come on them to the uttermost” is unclear. Some interpreters think that verses 15–16 were added later by someone else, perhaps after the destruction of Jerusalem in AD 70. Others consider them words of Paul in a moment of great anger.
+> Verse 16: What Paul means by “anger has come on them in full” is unclear. Some interpreters think that verses 15–16 were added later by someone else, perhaps after the destruction of Jerusalem in AD 70. Others consider them words of Paul in a moment of great anger.
 > Later Paul wrote very differently: God has not rejected his people. God does not take back his gifts and his calling. All Israel will be saved (Romans 11:1–2, 26, 29).
 > For today: Antisemitism is sin. Christians must stand up against hatred of Jews everywhere.
 
@@ -124,7 +126,7 @@ I,
 Paul,
 wanted to more than once.
 But Satan hindered us.
-[19] For who is our hope,
+[19] For what is our hope,
 our joy
 and our crown of rejoicing
 that we are proud of?

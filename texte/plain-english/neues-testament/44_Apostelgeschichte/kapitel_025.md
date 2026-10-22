@@ -24,7 +24,7 @@ who are in power
 should go down with me.
 If there is anything wrong in the man,
 let them accuse him.”
-[6] Festus stayed among them more than ten days.
+[6] Festus stayed among them more than 10 days.
 Then he went down to Caesarea.
 The next day he sat on the judgment seat
 and commanded
@@ -141,7 +141,7 @@ At the command of Festus, Paul was brought in.
 “King Agrippa,
 and all of you who are here with us!
 You see this man.
-All the multitude of the Jews have appealed to me about him,
+All the multitude of the Jews have come to me about him,
 both at Jerusalem and here.
 They cried
 that he ought not to live any longer.

@@ -109,7 +109,6 @@ For in one hour she has been destroyed.
 [20] “Be glad over her, O heaven,
 you saints, apostles, and prophets!
 For God has judged her for what she did to you.”
-That means: God has given you justice against her.
 [21] A mighty angel picked up a stone like a great millstone.
 He threw it into the sea and said,
 “In the same way Babylon, the great city, will be thrown down with violence.
@@ -126,6 +125,7 @@ And with your magic all the nations were deceived.
 and of all who have been killed on the earth.”
 
 > **What does this mean?**
+> Verse 20: That means: God has given you justice against her.
 > Verse 21: The picture of the stone in the water recalls Jeremiah 51:63–64. As a stone sinks in the sea, so Babylon disappears forever.
 > Verses 22–23: A sad list: no more music, no work, no light, no weddings. A city without life. That is how a power ends that is built on violence and greed.
 > Verse 24: Babylon is guilty of the blood of all who were unjustly killed. God forgets no victim of violence.

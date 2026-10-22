@@ -20,7 +20,7 @@ The first letter to the Thessalonians has 5 chapters.
 [1] Paul,
 Silvanus
 and Timothy
-write to the assembly of the Thessalonians
+write to the church of the Thessalonians
 in God the Father
 and the Lord Jesus Christ:
 Grace to you and peace
@@ -49,7 +49,7 @@ that you are chosen.
 not in word only,
 but also in power,
 in the Holy Spirit
-and with much assurance.
+and with full certainty.
 You know
 how we lived among you
 for your sake.
@@ -71,7 +71,7 @@ to serve a living and true God
 [10] and to wait for his Son from heaven.
 God raised him from the dead:
 Jesus,
-who rescues us from the wrath to come.
+who rescues us from the anger to come.
 
 > **What does this mean?**
 > Affliction means: great trouble and suffering.
@@ -81,4 +81,4 @@ who rescues us from the wrath to come.
 > Verse 6: “In much affliction”: The Christians in Thessalonica had opponents from the beginning and faced hostility (Acts 17:5–9). Still they had joy.
 > Verse 7: Achaia was the Roman province in the south of Greece, with Corinth as its capital.
 > Verse 9: Most Christians in Thessalonica had worshiped other gods before. They turned to the God of Israel, “a living and true God.”
-> Verse 10: The first Christians strongly hoped that Jesus would come again soon. “The wrath to come” means God’s judgment on evil. Jesus rescues from it. Christians don’t need to be afraid of the judgment.
+> Verse 10: The first Christians strongly hoped that Jesus would come again soon. “The anger to come” means God’s judgment on evil. Jesus rescues from it. Christians don’t need to be afraid of the judgment.

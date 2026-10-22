@@ -14,8 +14,8 @@
 
 [1] Then I stood on the sand of the sea.
 I saw a beast coming up out of the sea.
-It had ten horns and seven heads.
-On its horns were ten crowns.
+It had 10 horns and 7 heads.
+On its horns were 10 crowns.
 On its heads were names that insulted God.
 [2] The beast I saw looked like a leopard.
 Its feet were like a bear’s feet.
@@ -23,7 +23,7 @@ Its mouth was like a lion’s mouth.
 The dragon gave the beast his power, his throne, and great authority.
 [3] One of its heads looked as if it had received a deadly wound.
 But the deadly wound was healed.
-The whole earth was amazed and followed the beast.
+The whole earth was amazed at the beast.
 [4] People worshiped the dragon, because he had given his authority to the beast.
 And they worshiped the beast.
 They said,
@@ -85,7 +85,7 @@ Its number is 666.
 > **What does this mean?**
 > Verse 11: The second beast looks harmless like a lamb, but it speaks like the dragon. It is a picture for false prophets and for propaganda. Later it is called “the false prophet” (16:13).
 > At that time there were priests and officials in the cities who made sure that everyone worshiped the emperor. Whoever didn’t take part got into trouble.
-> Verse 14: The WEB has “my own people.” Most manuscripts have only: It deceives those who live on the earth.
+> Verse 14: The WEB, our English source text, has “my own people.” Most manuscripts have only: It deceives those who live on the earth.
 > Verses 16–17: The “mark” shows whom you belong to. It is the evil imitation of God’s seal on the forehead (7:3). Whoever wanted to be part of the guilds and the market often had to take part in emperor worship. Whoever refused lost his work.
 > Verse 18: In Greek and Hebrew, letters also had number values. Many scholars think: If you write “Emperor Nero” in Hebrew letters, it adds up to 666. Some manuscripts have 616. That also fits another way of spelling Nero.
 > The number six is one less than seven, the number of perfection. 666 then means: The beast wants to be like God, but it stays imperfect and fails.

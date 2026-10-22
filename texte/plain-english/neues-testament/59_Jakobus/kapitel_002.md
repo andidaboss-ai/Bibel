@@ -33,7 +33,7 @@ who love him?
 Isn’t it the rich
 who oppress you
 and drag you before the courts?
-[7] Don’t they blaspheme the honorable name
+[7] Don’t they speak evil of the honorable name
 by which you are called?
 [8] However, if you fulfill the royal law,
 as the Scripture says,

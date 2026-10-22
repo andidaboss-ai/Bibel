@@ -61,7 +61,7 @@ That is a port of Crete,
 facing southwest and northwest.
 
 > **What does this mean?**
-> Shelter means: here: the side of an island protected from the wind.
+> Shelter here means: the side of an island protected from the wind.
 > Verse 1: From here on Luke again tells the story in the “we” form. He was probably on the ship.
 > Verse 3: The Roman centurion Julius is kind to Paul. People who believe differently can also act kindly.
 > Verse 9: “The Fast” is the Jewish Day of Atonement, Yom Kippur, in the fall. After that, sailing on the Mediterranean was dangerous because of the storms.
@@ -147,9 +147,9 @@ We were driven back and forth in the Adriatic Sea.
 About midnight the sailors suspected
 that they were coming near to land.
 [28] They measured the depth
-and found twenty fathoms.
+and found 20 fathoms (about 120 feet).
 After a little while they measured again
-and found fifteen fathoms.
+and found 15 fathoms (about 90 feet).
 [29] They were afraid
 of running onto rocks.
 So they let down four anchors from the back of the ship
@@ -184,7 +184,7 @@ and began to eat.
 [36] Then they all cheered up
 and also took food.
 [37] In all, we were
-two hundred seventy-six people on the ship.
+276 people on the ship.
 [38] When they had eaten enough,
 they made the ship lighter
 by throwing the wheat into the sea.
@@ -221,7 +221,7 @@ So they all got safely to land.
 > **What does this mean?**
 > Fathom means: a measure of depth, about 6 feet (1.8 meters).
 > Verse 27: At that time the “Adriatic Sea” meant the whole sea between Greece, Italy and Africa.
-> Verse 28: Twenty fathoms are about 120 feet (36 meters).
+> Verse 28: 20 fathoms are about 120 feet (36 meters).
 > Verse 35: Paul takes bread, gives thanks to God and breaks it, as Jesus did. In the middle of the storm a meal becomes a sign of hope.
 > Verse 37: The ship was large: 276 people were on board.
 > Verses 42–43: The soldiers want to kill the prisoners, because they themselves would be punished harshly for every prisoner who escaped. The centurion prevents this.

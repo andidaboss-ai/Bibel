@@ -17,7 +17,7 @@ who now works in the children of disobedience.
 in the desires of our flesh.
 We did
 what the flesh and the mind wanted.
-And we were by nature children of wrath,
+And we were by nature children of anger,
 like the rest.
 [4] But God is rich in mercy.
 He loved us with his great love.
@@ -45,7 +45,7 @@ so that we would walk in them.
 > **What does this mean?**
 > Verses 1–3: Without God a person is as if dead, even while living. This is true for everyone, for Jews and for people from the nations (“we all,” verse 3).
 > Verse 2: The ruler “who rules over the power of the air” is the power of evil, Satan. At that time people imagined that evil powers ruled in the air between heaven and earth.
-> Verse 3: “Children of wrath” is a Hebrew way of speaking. It means: people who would have deserved God’s judgment.
+> Verse 3: “Children of anger” is a Hebrew way of speaking. It means: people who would have deserved God’s judgment.
 > Verses 8–9 are among the most important verses about grace: Salvation is a gift from God. No one can earn it.
 > Verse 10: Good works are not the way to salvation, but its fruit. Whoever has received God’s gift does good.
 
@@ -96,11 +96,11 @@ And the cornerstone is Christ Jesus himself.
 [21] In him the whole building is fitted together
 and grows into a holy temple in the Lord.
 [22] In him you also are built in
-to become a dwelling of God in the Spirit.
+to become a home where God lives in the Spirit.
 
 > **What does this mean?**
 > Commonwealth means: a community of citizens who belong together.
-> Cornerstone means: the most important stone of a building.
+
 > Verse 12: The letter reminds the Christians from the nations: Israel had God’s covenants and promises. You were once shut out from them. Israel is the starting point.
 > Verse 13: “Far off” means the people from the nations. Through Christ they have been brought near, near to God and near to Israel.
 > Verse 14: “The dividing wall”: In the temple in Jerusalem there was a wall. Non-Jews were not allowed to go further in. The letter says: In Christ this separation is overcome.

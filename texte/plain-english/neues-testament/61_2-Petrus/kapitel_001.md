@@ -113,7 +113,7 @@ No prophecy of Scripture
 comes from someone’s own interpretation.
 [21] For no prophecy ever
 came by the will of a human being.
-But people spoke from God,
+But holy people of God spoke,
 moved by the Holy Spirit.
 
 > **What does this mean?**

@@ -32,9 +32,8 @@ I lay in Zion a chief cornerstone,
 chosen and precious.
 Whoever believes in him
 will not be disappointed.”
-[7] So for you
-who believe
-he is precious.
+[7] So the honor is for you
+who believe.
 But for those
 who are disobedient
 it is true:
@@ -117,7 +116,7 @@ Honor the king.
 be subject to your masters with all respect,
 not only to the good and gentle ones,
 but also to the wicked ones.
-[19] For it is a sign of grace
+[19] For it is commendable
 when someone endures pain
 and suffers unjustly
 because he takes his conscience before God seriously.
@@ -127,12 +126,12 @@ because you have sinned
 and you endure it patiently?
 But if you do good
 and suffer for it and endure it patiently,
-that is pleasing to God.
+that is commendable before God.
 [21] For you were called to this.
-For Christ also suffered for you
+For Christ also suffered for us
 and left you an example,
 so that you should follow in his steps.
-[22] He did no sin,
+[22] He didn’t sin,
 “and no deceit was found in his mouth.”
 [23] When he was insulted,
 he didn’t insult back.
@@ -155,6 +154,6 @@ to the Shepherd and Overseer of your souls.
 
 > **What does this mean?**
 > In verse 18 the WEB says “servants.” Slaves are meant. At that time they could hardly defend themselves or run away. The letter wants to give them dignity and comfort: God sees your unjust suffering. Christ also suffered innocently.
-> Very important: These verses are not a call to endure violence or injustice when you can protect yourself. No one has to accept beatings, abuse or exploitation, neither at work nor in the family. Whoever experiences violence may and should seek help. In an emergency, call your local emergency number (911 in the US, 999 in the UK). In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. US: 1-800-799-7233.
+> Very important: These verses are not a call to endure violence or injustice when you can protect yourself. No one has to accept beatings, abuse or exploitation, neither at work nor in the family. Whoever experiences violence may and should seek help. In an emergency, call your local emergency number (911 in the US, 999 in the UK). In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233.
 > Verses 22–25 take up Isaiah 53: “By his wounds we are healed.” The suffering servant of God is applied to Jesus here.
 > Verse 25: Jesus is like a good shepherd who brings lost sheep back.

@@ -62,7 +62,7 @@ It came from the horns of the golden altar that is before God.
 [15] So the four angels were set free.
 They had been made ready for that hour, that day, that month, and that year.
 They were to kill one third of all people.
-[16] The armies of the horsemen numbered 200,000,000.
+[16] The armies of the horsemen numbered 200 million.
 I heard their number.
 [17] In the vision I saw the horses and their riders like this:
 The riders had breastplates that were fiery red, dark blue, and sulfur yellow.
@@ -77,7 +77,7 @@ They have heads, and with them they do harm.
 
 > **What does this mean?**
 > Verse 14: The Euphrates was the eastern border of the Roman Empire. People feared attacks from enemy peoples of horsemen from there. For the people at that time, this was a picture of the worst danger of war.
-> Verse 16: 200,000,000 is an unimaginably large number. It means: an army that no one can count. It is a picture, not an exact number.
+> Verse 16: 200 million is an unimaginably large number. It means: an army that no one can count. It is a picture, not an exact number.
 > These pictures show how terrible war is. Violence destroys life.
 
 ---

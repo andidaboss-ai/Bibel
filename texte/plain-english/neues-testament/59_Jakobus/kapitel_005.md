@@ -96,7 +96,7 @@ And it did not rain on the earth for three years and six months.
 [18] Then he prayed again.
 And the sky gave rain,
 and the earth produced its crops.
-[19] My brothers, someone among you may wander away from the truth.
+[19] Brothers, someone among you may wander away from the truth.
 And someone else may bring him back.
 [20] Then he should know this:
 Whoever brings a sinner back from his wrong way
@@ -116,14 +116,14 @@ And he will cover many sins.
 ## Looking back: What have we read in the letter of James?
 
 > **What does this mean?**
-> **Hearing and doing:** God’s word is not only to be heard, but also lived (chapter 1).
-> **True religion:** Caring for orphans, widows and all the weak (chapter 1).
-> **Not favoring anyone:** Poor and rich are equal before God. Love your neighbor as yourself (chapter 2).
-> **Faith and deeds:** Faith without deeds is dead. Paul and James complement each other (chapter 2).
-> **The power of words:** The tongue is small, but powerful. Words can build up or destroy (chapter 3).
-> **Wisdom from above:** It is peaceful, gentle and merciful (chapter 3).
-> **Humility:** Come near to God, and he will come near to you. Don’t judge one another (chapter 4).
-> **Justice for the poor:** Harsh words against rich people who cheat workers out of their wages (chapter 5).
-> **Patience and prayer:** For those who suffer, the cheerful and the sick. Praying for one another (chapter 5).
+> **Hearing and doing:** God’s word is not only to be heard, but also lived (Chapter 1).
+> **True religion:** Caring for orphans, widows and all the weak (Chapter 1).
+> **Not favoring anyone:** Poor and rich are equal before God. Love your neighbor as yourself (Chapter 2).
+> **Faith and deeds:** Faith without deeds is dead. Paul and James complement each other (Chapter 2).
+> **The power of words:** The tongue is small, but powerful. Words can build up or destroy (Chapter 3).
+> **Wisdom from above:** It is peaceful, gentle and merciful (Chapter 3).
+> **Humility:** Come near to God, and he will come near to you. Don’t judge one another (Chapter 4).
+> **Justice for the poor:** Harsh words against rich people who cheat workers out of their wages (Chapter 5).
+> **Patience and prayer:** For those who suffer, the cheerful and the sick. Praying for one another (Chapter 5).
 > **For today:** Faith is practical. It shows itself in how we treat other people, especially the weak.
 > **What comes next?** Next comes the first letter of Peter. It encourages Christians who suffer because of their faith.

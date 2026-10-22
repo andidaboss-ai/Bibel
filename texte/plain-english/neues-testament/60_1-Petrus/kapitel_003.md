@@ -23,7 +23,7 @@ who put their hope in God.
 They were subject to their own husbands.
 [6] So Sarah obeyed Abraham
 and called him “lord.”
-You have become her daughters
+You are now her children
 if you do good
 and are not put in fear by any terror.
 [7] In the same way, you husbands, live with your wives with understanding.
@@ -40,7 +40,7 @@ So your prayers will not be hindered.
 > Verse 6: The women are to be “not put in fear by any terror.” They are not to have to be afraid.
 > Verse 7: New and important for that time: Husbands are to honor their wives. And women are “heirs with you of the grace of life,” that is, of equal worth before God. “Weaker vessel” at that time probably meant less physical strength and a weaker legal position, not a lower worth.
 > Today many Christians understand marriage as a partnership of two people with equal rights. Others hold on to a special responsibility of the husband. All stress: It is about love, not about power.
-> Very important: These verses give no one the right to rule over their spouse or to use violence. Violence in marriage is a grave injustice and a crime. No one has to endure it. If you experience domestic violence, get help. US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Very important: These verses give no one the right to rule over their spouse or to use violence. Violence in marriage is a grave injustice and a crime. No one has to endure it. If you experience domestic violence, get help. For domestic violence, US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -118,7 +118,7 @@ the righteous for the unrighteous,
 to bring you to God.
 He was put to death in the flesh,
 but made alive in the Spirit.
-[19] In it he also went
+[19] In the Spirit he also went
 and preached to the spirits in prison.
 [20] They had been disobedient in the past,
 when God waited patiently in the days of Noah,

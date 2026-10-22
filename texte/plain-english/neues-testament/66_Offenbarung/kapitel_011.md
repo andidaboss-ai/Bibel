@@ -92,7 +92,7 @@ Look, the third disaster is coming soon.
 Then loud voices in heaven said,
 “The kingdom of the world has become the Kingdom of our Lord and of his Christ.
 He will rule forever and ever!”
-[16] The twenty-four elders sit on their thrones before God’s throne.
+[16] The 24 elders sit on their thrones before God’s throne.
 They fell on their faces and worshiped God.
 [17] They said,
 “We thank you, Lord God, the Almighty,
@@ -111,7 +111,7 @@ Lightning, loud sounds, thunder, an earthquake, and great hail followed.
 
 > **What does this mean?**
 > Verse 15: This is the high point: God rules. In the end all the power of the world belongs to God and his Christ. These words have become well known through famous music.
-> Verse 17: God is now only called “the one who is and who was.” The “who is to come” is missing. For now he has come.
+> Verse 17: God is now only called “the one who is and who was.” The “who is to come” is missing, because now he has come.
 > Verse 18: God gives the reward “to the small and the great.” Before God every person counts, no matter how important he was in the world.
 > “To destroy those who destroy the earth”: God does care when people destroy his creation. This sentence is important today, too.
 > Verse 19: The ark of the covenant was the holiest sign of God’s presence in Israel. It had been lost since the destruction of the first temple. Here it is shown: God’s covenant stands; it is not lost.

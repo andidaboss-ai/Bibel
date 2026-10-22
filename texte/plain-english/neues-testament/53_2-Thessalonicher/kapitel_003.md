@@ -36,12 +36,12 @@ and into the perseverance of Christ.
 [6] Brothers,
 in the name of our Lord Jesus Christ we command you:
 Keep away from every brother
-who lives in a disorderly way
+who lives in rebellion
 and not according to the tradition
 that you received from us.
 [7] For you yourselves know
 how you ought to imitate us.
-We didn’t live in a disorderly way among you.
+We didn’t live in rebellion among you.
 [8] We didn’t eat anyone’s bread without paying for it.
 But with labor and toil
 we worked night and day,
@@ -55,7 +55,7 @@ we told you this:
 “If anyone is not willing to work,
 don’t let him eat.”
 [11] For we hear
-that some among you live in a disorderly way.
+that some among you live in rebellion.
 They don’t work at all,
 but are busybodies.
 [12] Such people we command
@@ -70,8 +70,8 @@ what is right.
 take note of that person
 and have nothing to do with him,
 so that he may be ashamed.
-[15] But don’t count him as an enemy,
-but admonish him as a brother.
+[15] Don’t count him as an enemy.
+Instead, warn him as a brother.
 
 > **What does this mean?**
 > Busybodies means: people who meddle in other people’s affairs.

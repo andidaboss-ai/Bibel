@@ -16,7 +16,7 @@ He has made her pay for the blood of his servants that she shed.”
 [3] A second time they said,
 “Hallelujah!
 Her smoke goes up forever and ever.”
-[4] The twenty-four elders and the four living creatures bowed down.
+[4] The 24 elders and the four living creatures bowed down.
 They worshiped God, who sits on the throne.
 They said, “Amen! Hallelujah!”
 [5] A voice came from the throne.

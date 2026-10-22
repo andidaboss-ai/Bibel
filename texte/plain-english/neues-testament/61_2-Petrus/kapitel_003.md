@@ -148,11 +148,11 @@ Amen.
 ## Looking back: What have we read in the second letter of Peter?
 
 > **What does this mean?**
-> **Growing in faith:** From faith up to love, step by step (chapter 1).
-> **Eyewitnesses:** The apostles did not tell fables. They saw the glory of Jesus (chapter 1).
-> **God’s word like a lamp:** It shines in the dark until the day comes (chapter 1).
-> **A warning against false teachers:** They are greedy and promise freedom, but they make people unfree (chapter 2).
-> **God is patient:** He wants all people to turn back and no one to be lost (chapter 3).
-> **Hope:** God creates new heavens and a new earth, where righteousness lives (chapter 3).
+> **Growing in faith:** From faith up to love, step by step (Chapter 1).
+> **Eyewitnesses:** The apostles did not tell fables. They saw the glory of Jesus (Chapter 1).
+> **God’s word like a lamp:** It shines in the dark until the day comes (Chapter 1).
+> **A warning against false teachers:** They are greedy and promise freedom, but they make people unfree (Chapter 2).
+> **God is patient:** He wants all people to turn back and no one to be lost (Chapter 3).
+> **Hope:** God creates new heavens and a new earth, where righteousness lives (Chapter 3).
 > **For today:** Read the Bible together and honestly. Some things are hard to understand, and that is okay.
 > **What comes next?** Next comes the first letter of John. Its big theme is love: God is love.

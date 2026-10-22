@@ -11,7 +11,6 @@ We beg and urge you in the Lord Jesus.
 You learned from us
 how you ought to live
 to please God.
-And that is how you are living.
 Keep growing in it more and more.
 [2] For you know
 what instructions we gave you through the Lord Jesus.
@@ -40,7 +39,7 @@ He has also given you his Holy Spirit.
 > Verses 3–5: In the society of that time it was often normal for men to have sex with slave women, prostitutes or other women outside marriage. Paul says: Christians live differently.
 > Verse 4: The Greek word can mean *body*, but also *vessel*. Some interpreters think it means your own wife. The WEB translates “body.”
 > Verse 6 is very important: Sexuality must never be used to take advantage of others or to wrong them. God stands on the side of those who are wronged.
-> For today: Sexual violence and abuse are a grave injustice. Whoever has experienced this is not to blame. You can get help. In the US, call the RAINN hotline at 1-800-656-4673. In the UK, call NAPAC at 0808 801 0331 or the National Domestic Abuse Helpline at 0808 2000 247.
+> For today: Sexual violence and abuse are a grave injustice. Whoever has experienced this is not to blame. You can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233.
 
 ---
 
@@ -57,7 +56,7 @@ brothers:
 Keep growing in it more and more.
 [11] Make it your ambition
 to lead a quiet life,
-to mind your own business
+to take care of your own affairs
 and to work with your own hands,
 just as we told you.
 [12] In this way you are to live properly
@@ -109,7 +108,7 @@ And so we will be with the Lord forever.
 > Archangel means: a leading angel.
 > Verse 13: Some Christians in Thessalonica had died. The others were afraid: Have those who died now missed the return of Jesus? Paul comforts them.
 > “Fallen asleep” is a gentle way of saying *died*. It expresses hope: Whoever sleeps will wake up again.
-> Important: Paul doesn’t say: *You should not grieve.* He says: “don’t grieve like the rest, who have no hope.” Grief is allowed and important. Jesus too wept when his friend Lazarus had died (John 11:35). If you need support in your grief, you can find it, for example, with a grief counselor. If your grief becomes too heavy, in the US call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Important: Paul doesn’t say: *You should not grieve.* He says: “don’t grieve like the rest, who have no hope.” Grief is allowed and important. Jesus too wept when his friend Lazarus had died (John 11:35). If you need support in your grief, you can find it, for example, with a grief counselor. If your grief becomes too heavy, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verse 14: The reason for hope is the resurrection of Jesus.
 > Verse 15: At that time Paul expected that he would still live to see the return of Jesus (“we who are alive”).
 > Verses 16–17: Paul uses pictures: shout, trumpet and clouds. This is how people at that time described a king coming into a city. The inhabitants go out to meet him, to welcome him and to enter the city with him.

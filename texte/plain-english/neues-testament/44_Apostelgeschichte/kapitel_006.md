@@ -11,7 +11,7 @@ Then the Hellenists complained
 against the Hebrews,
 because their widows were overlooked
 in the daily serving of food.
-[2] The twelve called the whole crowd of the disciples together
+[2] The Twelve called the whole crowd of the disciples together
 and said,
 “It is not right
 for us to neglect the word of God

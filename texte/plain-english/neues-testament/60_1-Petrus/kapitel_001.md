@@ -100,7 +100,7 @@ Even angels long to look into these things.
 ## Live holy lives (Verses 13–25)
 
 [13] So prepare your minds for action.
-Be sober.
+Stay clear-minded.
 Set your hope fully on the grace
 that will be brought to you
 when Jesus Christ is revealed.
@@ -122,13 +122,13 @@ So live in reverence
 as long as you live here as foreigners.
 [18] For you know:
 You were redeemed from the empty way of life
-handed down from your fathers.
+handed down from your ancestors.
 This did not happen with things that perish,
 like silver or gold,
 [19] but with the precious blood of Christ,
 as of a lamb
 without defect and without spot.
-[20] He was chosen before the creation of the world.
+[20] God knew him before the creation of the world.
 But at the end of the times he was revealed
 for your sake.
 [21] Through him you believe in God,
@@ -155,7 +155,7 @@ that was announced to you.
 
 > **What does this mean?**
 > Verse 16: “You shall be holy, for I am holy.” This is a quotation from Leviticus 11:44–45 and 19:2. This word was first spoken to Israel. The letter invites the Christians from the nations to live this way too.
-> Verse 18: “The empty way of life handed down from your fathers”: Most of those who received the letter had worshiped other gods before. This former life is meant, not the Jewish faith.
+> Verse 18: “The empty way of life handed down from your ancestors”: Most of those who received the letter had worshiped other gods before. This former life is meant, not the Jewish faith.
 > Verse 19: “As of a lamb without defect and without spot”: A picture from the Passover feast (Exodus 12) and from Isaiah 53.
 > Verse 22: Love is to come “from the heart,” not just from duty.
 > Verses 24–25 quote Isaiah 40:6–8. People and their fame pass away, but God’s word remains.

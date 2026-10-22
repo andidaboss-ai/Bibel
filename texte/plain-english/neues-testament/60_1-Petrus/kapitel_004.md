@@ -84,7 +84,7 @@ when his glory is revealed.
 you are blessed.
 For the Spirit of glory
 and the Spirit of God rests on you.
-On their part he is blasphemed,
+On their part he is spoken against,
 but on your part he is glorified.
 [15] None of you should suffer
 because he is a murderer

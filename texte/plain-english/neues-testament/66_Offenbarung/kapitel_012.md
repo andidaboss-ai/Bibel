@@ -13,8 +13,8 @@ On her head was a crown of 12 stars.
 She cried out in pain, because she was in labor and about to give birth.
 [3] Another sign appeared in heaven.
 Look! There was a great red dragon.
-He had seven heads and ten horns.
-On his heads were seven crowns.
+He had 7 heads and 10 horns.
+On his heads were 7 crowns.
 [4] His tail swept away one third of the stars of the sky and threw them down to the earth.
 The dragon stood in front of the woman who was about to give birth.
 He wanted to eat up her child as soon as it was born.
@@ -29,7 +29,7 @@ There they will feed her and take care of her for 1,260 days.
 > Here a new part begins. John now shows what is behind everything: the battle between God and evil.
 > Verse 1: The woman with 12 stars recalls the people of Israel with its 12 tribes (compare Joseph’s dream, Genesis 37:9). The Messiah comes from Israel.
 > Christians understand the woman in different ways: as a picture for Israel, for the church or for Mary, the mother of Jesus. Especially in the Catholic and Orthodox churches, the woman is often connected with Mary. All these interpretations have something to them.
-> Verse 3: The dragon is the devil (verse 9). Seven heads and ten horns show his great power. Red is the color of blood and violence.
+> Verse 3: The dragon is the devil (verse 9). The 7 heads and 10 horns show his great power. Red is the color of blood and violence.
 > Verse 5: The child is Jesus, the Messiah (compare Psalm 2:9). “Caught up” means his resurrection and ascension into heaven. The dragon can’t harm him.
 > Verse 6: In the Bible, the wilderness is a place where God protects and provides for his people, as for Israel after the exodus from Egypt.
 
@@ -91,4 +91,4 @@ They keep God’s commandments and hold on to Jesus’ testimony.
 > Verse 14: “A time, times, and half a time” are three and a half years, like the 1,260 days in verse 6. It is a limited time. The “wings of the great eagle” recall Exodus 19:4: God carried Israel as on eagles’ wings.
 > Verse 16: Even the creation helps the people of God.
 > Verse 17: “The rest of her children” are all who believe in Jesus. The dragon attacks them. That is why life as a Christian is sometimes hard. But God protects his people.
-> In many manuscripts and Bibles there is one more sentence here about the dragon: He stood on the sand of the sea. Sometimes that is verse 18. Other manuscripts have the sentence with “I.” That is how the WEB has it. There the sentence stands at the beginning of Chapter 13: “Then I stood on the sand of the sea” (13:1).
+> In many manuscripts and Bibles there is one more sentence here about the dragon: He stood on the sand of the sea. Sometimes that is verse 18. Other manuscripts have the sentence with “I.” That is how the WEB, our English source text, has it. There the sentence stands at the beginning of Chapter 13: “Then I stood on the sand of the sea” (13:1).

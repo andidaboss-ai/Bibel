@@ -34,13 +34,14 @@ then you will also be revealed with him in glory.
 what is earthly in you:
 sexual immorality,
 uncleanness,
-depraved passion,
+shameful passion,
 evil desire
 and greed.
 Greed is idolatry.
-[6] Because of these things the wrath of God comes
-on the children of disobedience.
-[7] You too once walked in them,
+Idolatry means: worshiping idols, false gods.
+[6] Because of these things God’s anger comes
+on the people who disobey.
+[7] You too once followed these things,
 when you lived in them.
 [8] But now you must put them all away:
 anger,
@@ -49,11 +50,10 @@ malice,
 slander
 and shameful speech from your mouth.
 [9] Don’t lie to one another.
-For you have put off the old man with his deeds
-[10] and have put on the new man.
-He is being renewed,
-so that he knows God
-and becomes like the image of his Creator.
+For you have taken off the old self with its deeds
+[10] and have put on the new self.
+This new self is being made new in knowledge,
+so that it becomes like the image of its Creator.
 [11] Here there can’t be Greek and Jew,
 circumcised and uncircumcised,
 foreigner,
@@ -64,11 +64,10 @@ But Christ is all,
 and in all.
 
 > **What does this mean?**
-> Scythian means: a member of a people near the Black Sea who at that time were seen as especially wild.
 > Verse 5: “Put to death” is a picture. It means: Stop these things completely. It does not mean that you should harm your body. If you are thinking about hurting yourself, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verse 5: “Greed is idolatry”: Whoever always wants more makes possessions into their god (compare Ephesians 5:5).
 > Verses 9–10: Like changing clothes: old clothes off, new ones on. This is a picture of baptism.
-> Verse 11 is very important: In Christ, background, nation and social rank no longer count. Even the Scythians belong.
+> Verse 11 is very important: In Christ, background, nation and social rank no longer count. The Scythians were a people near the Black Sea who at that time were seen as especially wild. They belong too.
 > Important: The words “there can’t be Greek and Jew” don’t mean that Jews should stop being Jews. They mean: Before Christ all are equally valuable. No one is better or worse (compare Galatians 3:28).
 > For today: Racism and contempt for other peoples or classes don’t fit with the Christian faith.
 
@@ -77,7 +76,7 @@ and in all.
 ## Put on love (Verses 12–17)
 
 [12] You are chosen by God,
-holy and beloved.
+holy and dearly loved.
 So put on:
 a heart of compassion,
 kindness,
@@ -89,7 +88,7 @@ And forgive one another
 if anyone has a complaint against another.
 Just as Christ forgave you,
 so you also forgive.
-[14] But above all these things put on love.
+[14] But above all these things, live in love.
 It is the bond
 that holds everything together perfectly.
 [15] And let the peace of God rule in your hearts.
@@ -101,7 +100,7 @@ Teach and admonish one another in all wisdom,
 with psalms,
 hymns
 and spiritual songs.
-Sing to the Lord with thankfulness in your hearts.
+Sing to the Lord with grace in your hearts.
 [17] And whatever
 you do,
 in word or in deed,
@@ -156,7 +155,7 @@ And there is no partiality.
 > Verses 18–25 are a “household code,” as in Ephesians 5 and 6. Such rules for living together in the household existed in many writings at that time. They reflect the social order of that time.
 > What was new: Everyone is addressed, including women, children and slaves, not only the men. And the husbands, fathers and masters also have duties (verses 19, 21 and 4:1).
 > Verse 18: “As is fitting in the Lord”: Everything stands under Christ. Today many Christians understand marriage as a partnership of two people with equal rights. Others hold on to a special responsibility of the husband. All stress: It is about love, not about power.
-> Very important: These verses give no one the right to rule over others or to use violence. Violence in marriage is a serious wrong and a crime. You can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Men can also call the Men’s Advice Line at 0808 801 0327. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
-> Verse 20: “Obey your parents in all things” doesn’t mean that children have to put up with violence, abuse or humiliation. Children have a right to be raised without violence. Help for children: In the US, call Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. Parents who need support can also call Childhelp, or in the UK the NSPCC at 0808 800 5000.
+> Very important: These verses give no one the right to rule over others or to use violence. Violence in marriage is a serious wrong and a crime. You can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Verse 20: “Obey your parents in all things” doesn’t mean that children have to put up with violence, abuse or humiliation. Children have a right to be raised without violence. Help for children: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Parents who need support can also call Childhelp.
 > Verse 22: The WEB says *servants* here. Slaves are meant. Slavery is a grave injustice. These verses were later misused to justify slavery. That was wrong.
 > Verse 25: God is just. He favors no one, neither masters nor slaves.

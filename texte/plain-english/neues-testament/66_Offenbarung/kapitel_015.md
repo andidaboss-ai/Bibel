@@ -27,7 +27,7 @@ For your right and just acts have been made known.”
 > **What does this mean?**
 > Verse 1: “With them God’s anger comes to an end”: God’s anger has an end. After it comes what is new.
 > Verses 2–3: The sea of glass recalls the Red Sea. Israel went through the sea and was saved. Afterward Moses sang a song with the people (Exodus 15). In the same way, those who are saved sing here by the sea.
-> “The song of Moses and the song of the Lamb”: The rescue of Israel out of Egypt and the rescue through Jesus belong together. It is the same God who saves.
+> “The song of Moses” and “the song of the Lamb”: The rescue of Israel out of Egypt and the rescue through Jesus belong together. It is the same God who saves.
 > Verses 3–4: Many words in this song come from the Psalms and the prophets (for example Psalm 86:9 and Jeremiah 10:7).
 > Verse 4: “All the nations will come”: That is a great hope. In the end all nations are to know God and honor him.
 

@@ -24,9 +24,10 @@ to take along a wife who is a believer,
 as the rest of the apostles do,
 and the brothers of the Lord,
 and Cephas?
-[6] Or do only Barnabas and I
-have no right
-not to work?
+[6] Or are Barnabas and I the only ones
+who have no right
+to stop working for a living?
+
 [7] What soldier ever serves at his own expense?
 Who plants a vineyard
 and doesn’t eat of its fruit?
@@ -90,7 +91,7 @@ than let anyone take away my reason to boast.
 I have nothing
 to boast about.
 For I must do it.
-Woe to me
+How terrible it will be for me
 if I don’t preach the Good News!
 [17] For if I do this of my own will,
 I have a reward.

@@ -128,7 +128,7 @@ Shall I come to you with a rod,
 or in love and a spirit of gentleness?
 
 > **What does this mean?**
-> Tutor means: here: a guardian who looked after children.
+> Tutor here means: a guardian who looked after children.
 > Verse 15: In those days a “tutor” was often a slave who took the children to school and watched over them. Paul says: You have many teachers, but I founded the church. So I am like a father to you.
 > Verse 16: “Follow my example”: Paul means his life of simplicity, patience and love (verses 11–13).
 > Verse 17: Timothy was a close co-worker of Paul (Acts 16:1–3).

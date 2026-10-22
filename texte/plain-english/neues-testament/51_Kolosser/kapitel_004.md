@@ -26,9 +26,9 @@ that God may open to us a door for the word,
 so that we can speak the mystery of Christ.
 Because of it I am also in chains.
 [4] Pray
-that I may make it as clear
+that I may make it known clearly,
 as I ought to speak.
-[5] Walk in wisdom toward those
+[5] Live wisely toward those
 who are outside the church.
 Make good use of the time.
 [6] Let your speech always be kind,
@@ -48,7 +48,7 @@ how you ought to answer each one.
 
 [7] Tychicus will tell you everything
 about how I am doing.
-He is a beloved brother,
+He is a dear brother,
 a faithful servant
 and fellow servant in the Lord.
 [8] I am sending him to you for this very purpose,
@@ -56,7 +56,7 @@ so that he may know
 how you are doing
 and may comfort your hearts.
 [9] He comes together with Onesimus,
-the faithful and beloved brother.
+the faithful and dear brother.
 He is one of you.
 The two of them will tell you everything
 that is going on here.
@@ -71,11 +71,13 @@ receive him.”
 [11] And Jesus,
 who is called Justus,
 greets you.
-Of those who are of the circumcision, these are my only fellow workers for God’s Kingdom.
+Of all my fellow workers for God’s Kingdom,
+these are the only ones who are of the circumcision.
+That means: They are Jews.
 They have been a comfort to me.
 [12] Epaphras greets you.
 He is one of you,
-a servant of Christ Jesus.
+a servant of Christ.
 He is always struggling for you in his prayers,
 so that you may stand mature and complete
 in all the will of God.
@@ -84,19 +86,19 @@ He works very hard for you
 and for those in Laodicea
 and for those in Hierapolis.
 [14] Luke,
-the beloved physician,
+the dear doctor,
 and Demas greet you.
 [15] Greet the brothers in Laodicea,
 and Nymphas
-and the assembly in his house.
+and the church in his house.
 [16] When this letter has been read among you,
 make sure
-that it is also read in the assembly of the Laodiceans.
+that it is also read in the church of the Laodiceans.
 And you also read the letter from Laodicea.
 [17] And tell Archippus:
-“Take heed to the ministry
+“Pay attention to the ministry
 that you have received in the Lord,
-and fulfill it.”
+so that you fulfill it.”
 [18] I,
 Paul,
 write this greeting with my own hand.
@@ -105,12 +107,11 @@ Grace be with you.
 Amen.
 
 > **What does this mean?**
-> Physician means: doctor.
-> Verse 9: Onesimus was a slave from Colossae. The letter to Philemon tells about him. Here it says: Tychicus comes “together with Onesimus, the faithful and beloved brother.” In the church he is a brother of equal worth.
+> Verse 9: Onesimus was a slave from Colossae. The letter to Philemon tells about him. Here it says: Tychicus comes “together with Onesimus, the faithful and dear brother.” In the church he is a brother of equal worth.
 > Verse 10: Mark had once parted from Paul (Acts 15:37–39). Now they are reconciled again. Many connect him with the Gospel of Mark.
 > Verse 11: “Jesus” was a common Jewish name at that time. Paul is glad about Jewish coworkers who stand by him.
 > Verse 14: Luke was a doctor. Tradition sees him as the author of the Gospel of Luke and of Acts.
-> Verse 15: Here it says “Nymphas and the assembly in his house,” as in the WEB. Some old manuscripts say *Nympha* and *in her house*. Then it was a woman who led a house church.
+> Verse 15: Here it says “Nymphas and the church in his house,” as in the WEB. Some old manuscripts say *Nympha* and *in her house*. Then it was a woman who led a house church.
 > Verse 16: Letters were read aloud in worship and passed on to other churches. The “letter from Laodicea” has not survived. Some interpreters think it could mean the letter to the Ephesians.
 > Verse 18: Paul usually dictated his letters. He wrote the closing greeting himself, as a sign that the letter was genuine.
 

@@ -46,21 +46,20 @@ that a little yeast
 makes the whole lump of dough rise?
 [7] Clean out the old yeast,
 so that you may be a new lump,
-as you really are unleavened.
+as you really are without yeast.
 For Christ, our Passover lamb,
 has been sacrificed in our place.
 [8] So let’s keep the feast,
 not with old yeast,
 nor with the yeast of malice and wickedness,
-but with the unleavened bread
+but with the bread without yeast
 of sincerity and truth.
 
 > **What does this mean?**
-> Unleavened means: without yeast.
-> Before the Passover feast, Jewish families still remove all yeast from the house today. Then they eat unleavened bread (Exodus 12:15–20).
+> Before the Passover feast, Jewish families still remove all yeast from the house today. Then they eat bread without yeast (Exodus 12:15–20).
 > Paul uses this picture: Just as a little yeast goes through the whole dough, a bad example can change the whole church.
 > Verse 7: Paul compares Jesus with the Passover lamb. Jesus died at the time of the Passover feast.
-> Verse 7: The WEB says “in our place.” These words are missing in many old manuscripts.
+> Verse 7: The WEB, our English source text, says “in our place.” These words are missing in many old manuscripts.
 
 ---
 
@@ -97,5 +96,6 @@ who are inside?
 > Verse 9: Paul had already written an earlier letter to the Corinthians. This letter has not survived.
 > Verses 10–12: Christians should not cut themselves off from the world. They should not judge people outside the church. But inside the church they should look out for one another.
 > Verse 13 takes up a saying that comes often in Deuteronomy (for example Deuteronomy 17:7 and 22:24).
-> Important: How churches deal with serious wrong is a serious question today too. Sadly, churches have often protected offenders and left victims alone, for example in cases of sexual abuse. This text shows: Looking away is wrong. If you have experienced abuse, you can get help. In the US, call RAINN at 1-800-656-4673. In the UK, call NAPAC at 0808 801 0331.
+> Important: How churches deal with serious wrong is a serious question today too. Sadly, churches have often protected offenders and left victims alone, for example in cases of sexual abuse. This text shows: Looking away is wrong. If you have experienced abuse, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
+
 > In the second letter to the Corinthians, Paul writes that a person who is sorry should be forgiven and comforted again (2 Corinthians 2:5–11). Some interpreters think it is about the same case there.

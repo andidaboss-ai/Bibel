@@ -83,7 +83,7 @@ Outside is everyone who loves lies and tells lies.
 
 [16] I, Jesus, have sent my angel to tell you these things for the churches.
 I am the root and the offspring of David.
-I am the bright Morning Star.”
+I am the Bright and Morning Star.”
 [17] The Spirit and the bride say, “Come!”
 Whoever hears this should say, “Come!”
 Whoever is thirsty should come.
@@ -129,14 +129,14 @@ Amen.
 ## Looking back: What have we read in the whole Bible?
 
 > **What does this mean?**
-> The Bible is not a single story, but a whole library. It has 66 books and 1,189 chapters. Many people wrote it over more than a thousand years.
+> The Bible is not a single story, but a whole library. It has 66 books and 1,189 chapters. Many people wrote it over more than 1,000 years.
 > **In the beginning:** God creates heaven and earth. Everything is good. People are created in God’s image (Genesis 1–2).
 > **The break:** People turn away from God. Suffering, violence and death come into the world (Genesis 3–11).
 > **God’s way with Israel:** God calls Abraham and promises: Through you all peoples will be blessed. He frees Israel from Egypt, gives the Torah at Sinai and goes with his people through good and hard times. Prophets call people to repent and announce hope. Psalms bring praise and lament before God.
 > **Jesus:** God becomes human. Jesus, a Jew from Nazareth, tells about God’s Kingdom, heals, forgives, dies on the cross and is raised by God.
 > **The first church:** The Holy Spirit comes. The Good News goes from Jerusalem into all the world. Letters encourage the churches.
 > **In the end:** God makes all things new. The tree of life, which was lost at the beginning, is there again. God lives with people.
-> A red thread runs through the whole Bible: God doesn’t give up on his people. He seeks them, he saves them, and he stays faithful to his promises, to Israel and to all peoples.
+> A common thread runs through the whole Bible: God doesn’t give up on his people. He seeks them, he saves them, and he stays faithful to his promises, to Israel and to all peoples.
 
 > **What comes next?**
 > With this, the whole Bible has been put into plain language, all 66 books and 1,189 chapters, verse by verse, without leaving anything out.

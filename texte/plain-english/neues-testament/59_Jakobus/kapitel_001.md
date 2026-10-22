@@ -45,11 +45,11 @@ that he will receive anything from the Lord.
 unstable in all his ways.
 
 > **What does this mean?**
-> Verse 1: “The 12 tribes”: Israel was made up of 12 tribes. The letter speaks to the Christians as part of God’s people.
+> Verse 1: “The 12 tribes”: Israel was made up of 12 tribes. The letter speaks to the Christians as part of God’s people. “The Dispersion” means: living scattered in other lands, outside the land of Israel.
 > Verse 2: The WEB says “temptations.” Here the Greek word means above all trials and hard times.
 > Verses 2–4: Hard times are not nice. But they can make us stronger. “Joy” doesn’t mean that you have to think suffering is good.
 > Verse 5: God gives gladly and doesn’t blame us when we ask him for help.
-> Verses 6–8: This is about people who don’t want to decide whether to trust God.
+> Verses 6–8: This is about people who don’t want to decide whether to trust God. “Double-minded” means: torn between two ways.
 > Important: Doubts and questions are part of faith. Many people in the Bible doubted too. God is patient with us.
 
 ---
@@ -60,7 +60,7 @@ unstable in all his ways.
 boast in his high position,
 [10] and the rich in his being made low.
 For like a flower in the grass he will pass away.
-[11] For the sun rises with its scorching heat
+[11] For the sun rises with the scorching wind
 and withers the grass.
 Its flower falls,
 and the beauty of its appearance perishes.
@@ -120,7 +120,7 @@ slow to speak
 and slow to anger.
 [20] For human anger doesn’t produce the righteousness of God.
 [21] So put away all filthiness
-and all the evil that is left over.
+and all the wickedness that overflows.
 Receive with humility the word
 that is planted in you
 and that is able to save your souls.
@@ -152,7 +152,7 @@ to visit orphans and widows in their need
 and to keep oneself unstained by the world.
 
 > **What does this mean?**
-> Verse 19: Good advice for every day: first listen, then speak. And don’t get angry quickly.
+> Verse 19: Good advice for every day: first listen, then speak. And don’t get angry quickly. Verse 20: Righteousness means: living right before God.
 > Verses 22–24: The picture of the mirror: Whoever hears God’s word but changes nothing is like someone who sees himself in a mirror and then forgets what he looks like.
 > Verse 25: “The perfect law of freedom”: God’s teaching sets us free. It is not a prison, but a way to a good life. The psalms see it this way too (for example Psalm 119).
 > Verse 27: True faith shows itself in how we treat the weakest. At that time these were above all orphans and widows.

@@ -34,7 +34,7 @@ And because of this hope I am accused by the Jews, King Agrippa!
 
 ## Paul tells how he was called (Verses 9–23)
 
-[9] I myself was sure that I had to do many things against the name of Jesus of Nazareth.
+[9] “I myself was sure that I had to do many things against the name of Jesus of Nazareth.
 [10] And that is what I did in Jerusalem.
 The chief priests gave me the power to put many of the saints in prison.
 And when they were put to death, I voted against them.
@@ -88,7 +88,7 @@ By rising from the dead, he would be the first to bring the message of light to 
 
 ---
 
-## Agrippa and the question of faith (Verses 24–32)
+## Do you want to make me a Christian? (Verses 24–32)
 
 [24] Paul was still defending himself in this way when Festus shouted, “Paul, you are crazy!
 All your learning is driving you insane!”

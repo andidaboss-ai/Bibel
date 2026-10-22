@@ -62,7 +62,7 @@ full-grown person,
 to the full measure of the fullness of Christ.
 [14] Then we are no longer children
 who are tossed back and forth
-and carried about by every wind of doctrine,
+and carried about by every wind of teaching,
 by the trickery of people,
 by their craftiness,
 with which they lead others astray.
@@ -113,6 +113,7 @@ and is being ruined by deceitful desires.
 [24] and put on the new man,
 who has been created in the likeness of God,
 in true righteousness and holiness.
+Righteousness means: living right before God.
 
 > **What does this mean?**
 > Verses 17–19: The letter describes the former life of the Christians from the nations without God. This is no judgment on all people of other religions today.
@@ -162,7 +163,7 @@ just as God also forgave you in Christ.
 > Slander means: saying bad and untrue things about others.
 > Verse 25 recalls Zechariah 8:16.
 > Verse 26: “Be angry, and don’t sin.” These words take up Psalm 4:4 (in the Hebrew Bible and in some Bibles 4:5). Anger in itself is not sin. But you should not hold on to it. Good advice: Settle a quarrel on the same day if you can.
-> Important: Whoever has experienced injustice or violence may be angry. That is a healthy feeling. Forgiveness often needs time, and it does not mean that you have to accept injustice. If you experience violence at home, you can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247.
+> Important: Whoever has experienced injustice or violence may be angry. That is a healthy feeling. Forgiveness often needs time, and it does not mean that you have to accept injustice. If you experience violence at home, you can get help. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 28: Work is not only for yourself, but also to help others.
 > Verse 29: Words can build up or destroy. That is also true on the internet.
 > Verse 32: God has forgiven us. That is why we too can forgive one another.

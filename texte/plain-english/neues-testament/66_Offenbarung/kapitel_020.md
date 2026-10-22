@@ -1,5 +1,5 @@
 # Revelation – Chapter 20
-### The thousand years and the last judgment
+### The 1,000 years and the last judgment
 
 ---
 
@@ -23,7 +23,7 @@ After that, he must be set free for a short time.
 
 ---
 
-## The thousand years (Verses 4–6)
+## The 1,000 years (Verses 4–6)
 
 [4] I saw thrones.
 People sat on them, and they were given the power to judge.
@@ -42,14 +42,14 @@ They will rule with him for 1,000 years.
 
 > **What does this mean?**
 > Verse 4: The martyrs, who were killed because they stayed faithful, are honored. The world condemned them. But God declares them right.
-> Christians have thought very differently about the “thousand years”:
-> – Some think: The thousand years are a picture for the time of the church now, between the resurrection of Jesus and his coming again. Many large churches see it this way.
-> – Others think: Jesus comes again and then reigns on earth for a thousand years.
+> Christians have thought very differently about the “1,000 years”:
+> – Some think: The 1,000 years are a picture for the time of the church now, between the resurrection of Jesus and his coming again. Many large churches see it this way.
+> – Others think: Jesus comes again and then reigns on earth for 1,000 years.
 > – Still others think: The world gets better little by little, and after that Jesus comes.
 > All agree: Christ wins, and the faithful are with him. The number 1,000 means a very long, complete time.
 
 > **Important note**
-> The National Socialists (Nazis) called their state the “Thousand-Year Reich.” In doing so they misused this Bible text. Their empire was the opposite of what is meant here: It murdered millions of people, especially six million Jews. It has nothing to do with God’s Kingdom.
+> The National Socialists (Nazis) called their state the “Thousand-Year Reich.” In doing so they misused this Bible text. Their empire was the opposite of what is meant here: It murdered millions of people, especially 6 million Jews. It has nothing to do with God’s Kingdom.
 
 > **What does this mean?**
 > Verse 6: This is the fifth “Blessed” in the Revelation. Whoever belongs to Christ doesn’t need to fear the “second death.”

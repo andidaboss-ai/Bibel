@@ -32,7 +32,6 @@ from God our Father
 and the Lord Jesus Christ.
 
 > **What does this mean?**
-> Church means: the community of Christians.
 > Sanctified means: made holy, belonging to God.
 > Verse 1: Sosthenes was perhaps the leader of the synagogue in Corinth that Acts 18:17 tells about. That is not certain.
 > Verse 2: “Saints” are not especially pious people, but all Christians. They belong to God.

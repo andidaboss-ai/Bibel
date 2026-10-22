@@ -52,10 +52,10 @@ who are being lost.
 For they didn’t receive the love of the truth,
 by which they would be saved.
 [11] That is why God sends them a powerful delusion,
-so that they believe the lie.
+so that they believe a lie.
 [12] So all are to be judged
 who didn’t believe the truth,
-but took pleasure in unrighteousness.
+but took pleasure in doing wrong.
 
 > **What does this mean?**
 > Rebellion means: turning away from God.
