@@ -24,7 +24,7 @@ they will gather around themselves teachers
 who suit their own desires.
 [4] They will turn their ears away from the truth
 and turn to fables.
-[5] But you, be sober in all things.
+[5] But you must keep a clear head in all things.
 Endure hardship.
 Do the work of an evangelist.
 Fulfill your ministry completely.
@@ -136,7 +136,7 @@ Amen.
 ## Looking back: What have we read in the second letter to Timothy?
 
 > **What does this mean?**
-> **A farewell letter:** Paul is in prison in Rome and expects to die. He writes to Timothy, his *beloved child* in faith.
+> **A farewell letter:** Paul is in prison in Rome and expects to die. He writes to Timothy, his *dear child* in faith.
 > **No spirit of fear:** God gives power, love and self-control (chapter 1).
 > **Faith is passed on:** from grandmother to mother to son, from Paul to Timothy, from Timothy to others (chapters 1 and 2).
 > **God remains faithful:** even when we are faithless (chapter 2).

@@ -44,6 +44,7 @@ For their foolishness will be obvious to all,
 as it was with those two.
 
 > **What does this mean?**
+> Blasphemers means: people who mock or insult God.
 > Gullible means: easily fooled.
 > Verse 1: For the New Testament, “the last days” means the whole time since Jesus. It is not about a particular date.
 > Verses 2–5: The list describes people who think only of themselves. The worst thing: They act pious, but their lives are not changed by God (verse 5).
@@ -76,7 +77,7 @@ will be persecuted.
 will grow worse and worse.
 They deceive others
 and are deceived themselves.
-[14] But you, remain in the things
+[14] But you must remain in the things
 that you have learned
 and are sure of.
 For you know
