@@ -69,7 +69,7 @@ ${v.css}
 .h-kasten p{font-family:Literata;font-style:italic;font-size:${0.18 * IN}px;line-height:1.45;color:#efe6d4}
 ul{list-style:none;margin-top:${0.36 * IN}px}
 li{font-weight:600;font-size:${0.15 * IN}px;color:rgba(239,230,212,.62);margin-bottom:${0.07 * IN}px}
-li span{display:inline-block;width:${0.85 * IN}px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+li span{display:inline-block;width:${(process.env.BIBEL_SPRACHE === 'en' ? 1.2 : 0.85) * IN}px;white-space:nowrap;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
 li.aktiv{color:#f6e7c2}
 li.aktiv span{color:#d9b86c}
 </style></head><body>

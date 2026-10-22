@@ -20,7 +20,14 @@ Die englische Ausgabe ist genauso aufgebaut wie die deutsche: dieselben Abschnit
 
 ### Druck (`ausgabe/english/print/`)
 
-{{SEITEN}}
+| Band | Inhalt | Seiten | Rücken Taschenbuch | Rücken Hardcover |
+|---|---|---|---|---|
+| Volume 1 | Genesis bis 1 Samuel | 457 | 1,029 Zoll | 1,218 Zoll |
+| Volume 2 | 2 Samuel bis Psalms | 475 | 1,070 Zoll | 1,259 Zoll |
+| Volume 3 | Proverbs bis Malachi | 457 | 1,029 Zoll | 1,218 Zoll |
+| Volume 4 | Matthew bis Revelation | 519 | 1,169 Zoll | 1,358 Zoll |
+
+Alle Bände liegen unter der KDP-Grenze von 550 Seiten. Dateinamen: `bible-plain-language-print-volume-N-…`.
 
 Je Band gibt es drei Dateien:
 - **`…-innenteil.pdf`**: Innenteil, gleich für Hardcover und Taschenbuch.
