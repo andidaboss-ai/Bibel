@@ -23,7 +23,7 @@ for you have lit a fire by my anger
 which will burn forever.”
 
 > **What does this mean?**
-> Verse 1: Sin is not just on the surface. It is deeply carved, as if with a diamond into stone, on the “tablet of their heart.” This is a reminder of the tablets of the law from Sinai. Instead of God’s commandments, sin is written in the heart. (In chapter 31:33 God promises to write his law on the heart in a new way.)
+> Verse 1: Sin is not just on the surface. It is deeply carved, as if with a diamond into stone, on the “tablet of their heart.” This is a reminder of the tablets of the law from Sinai. Instead of God’s commandments, sin is written in the heart. (In Jeremiah 31:33 God promises to write his law on the heart in a new way.)
 > Verse 2: Even the children know the idol altars. The Asherah poles were wooden poles for the goddess Asherah.
 
 ---
@@ -64,7 +64,8 @@ At his end, he will be a fool.
 > But whoever trusts in God is like a tree by a stream. Its roots reach down to the water. Even when heat and drought come, its leaves stay green. It always produces fruit.
 > This does not mean that you may not trust other people. It means: Your deepest support in life should be God, not people or power.
 > Verse 9: “The heart is deceitful.” We humans can deceive ourselves. Often we do not fully know our own heart.
-> Verse 10: But God knows it. He sees into the depths. Where the WEB says “mind,” the Hebrew says “kidneys.” At that time, the kidneys were seen as the place of the feelings.
+> Verse 10: But God knows it. He sees into the depths. Where the WEB, our English source text, says “mind,”
+ the Hebrew says “kidneys.” At that time, the kidneys were seen as the place of the feelings.
 > Verse 11: People at that time believed that the partridge sometimes hatches other birds’ eggs. When the chicks hatch, they run away. It is the same with riches gained wrongly: They do not stay.
 
 ---
@@ -123,7 +124,7 @@ and don’t bring it in through the gates of Jerusalem.
 [22] Don’t carry a load out of your houses on the Sabbath day.
 Don’t do any work,
 but keep the Sabbath day holy,
-as I commanded your fathers.
+as I commanded your ancestors.
 [23] But they didn’t listen or pay attention.
 They made their necks stiff,
 so that they would not hear

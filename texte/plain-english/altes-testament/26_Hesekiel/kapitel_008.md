@@ -56,7 +56,7 @@ All around on the wall
 there were pictures of every kind of crawling thing
 and disgusting animal,
 and of all the idols of the people of Israel.
-[11] Seventy of the elders of the people of Israel
+[11] 70 of the elders of the people of Israel
 were standing in front of them.
 Jaazaniah the son of Shaphan was standing in the middle of them.
 Each man had his incense burner in his hand,
@@ -99,13 +99,13 @@ You will see even more terrible, disgusting things than these.”
 [16] He brought me into the inner court of the LORD’s house.
 At the entrance of the LORD’s temple,
 between the porch and the altar,
-there were about twenty-five men.
+there were about 25 men.
 Their backs were toward the LORD’s temple,
 and their faces were toward the east.
 They were bowing down to the sun in the east.
 [17] Then he said to me,
 “Have you seen this, son of man?
-Is it not enough for the people of Judah
+Is it a small thing for the people of Judah
 to do the disgusting things they are doing here?
 They have also filled the land with violence,
 and they make me angry again and again.

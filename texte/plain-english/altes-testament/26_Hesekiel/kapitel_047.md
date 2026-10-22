@@ -89,10 +89,10 @@ and their leaves for healing.”
 [13] This is what the Lord GOD says:
 “These are the borders
 by which you must divide the land to own
-among the twelve tribes of Israel.
+among the 12 tribes of Israel.
 Joseph will have two shares.
 [14] You must divide it equally, each tribe as much as another.
-For I swore with raised hand to give it to your ancestors.
+For I swore to give it to your ancestors.
 This land will be yours to own.
 [15] “This will be the border of the land:
 On the north side it goes from the great sea,
@@ -126,7 +126,7 @@ by the tribes of Israel.
 > **What does this mean?**
 > Here the borders of the new land are described. They are like the borders in Numbers 34:1–12.
 > The “great sea” is the Mediterranean Sea. The “eastern sea” is the Dead Sea. The “brook” is the Brook of Egypt (Wadi el-Arish).
-> Verse 13: Joseph gets two shares, for his sons Ephraim and Manasseh (see Genesis 48:5). So there are still twelve shares, even though the tribe of Levi does not get any land of its own.
+> Verse 13: Joseph gets two shares, for his sons Ephraim and Manasseh (see Genesis 48:5). So there are still 12 shares, even though the tribe of Levi does not get any land of its own.
 > Verse 14: “Each tribe as much as another” – all the tribes get shares of the same size. Justice for everyone.
 > These borders describe a vision and a promise. They are not a plan for political borders today.
 

@@ -13,7 +13,7 @@ Love her just as the LORD loves the people of Israel,
 even though they turn to other gods
 and love raisin cakes.”
 [2] So I bought her for myself
-for fifteen pieces of silver
+for 15 pieces of silver
 and a homer and a half of barley.
 That is about 9 bushels of barley.
 [3] I said to her,
@@ -38,7 +38,7 @@ And I will act the same way toward you.”
 [4] For the people of Israel will live for many days
 without a king and without a leader,
 without sacrifice and without a sacred stone,
-without an ephod and without household idols.
+without an ephod and without idols.
 An ephod is a special garment of the priest, used to ask God for answers.
 [5] After that, the people of Israel will return.
 They will look for the LORD their God

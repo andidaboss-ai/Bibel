@@ -56,24 +56,24 @@ I will make the land of Egypt a complete wasteland and ruin,
 from the tower of Seveneh all the way to the border of Ethiopia.
 [11] No human foot will walk through it,
 and no animal’s foot will walk through it.
-No one will live in it for forty years.
+No one will live in it for 40 years.
 [12] I will make the land of Egypt a ruin
 among the countries that are ruined.
-Her cities will lie in ruins for forty years
+Her cities will lie in ruins for 40 years
 among the cities that are destroyed.
 I will scatter the Egyptians among the nations
 and spread them out through the countries.”
 
 > **What does this mean?**
 > Verse 10: Egypt will be ruined “from the tower of Seveneh all the way to the border of Ethiopia.” Seveneh is today’s Aswan in the south of Egypt. Ethiopia here means the land south of Egypt, in today’s Sudan (in Hebrew: Cush).
-> Verses 11–12: In the Bible, “forty years” is often a round number for a long time, about one generation (see the 40 years in the wilderness). We do not know from other sources that Egypt was completely ruined for exactly 40 years. But Nebuchadnezzar really did attack Egypt later (around 568 BC), and Egypt lost its earlier position as a world power.
+> Verses 11–12: In the Bible, “40 years” is often a round number for a long time, about one generation (see the 40 years in the wilderness). We do not know from other sources that Egypt was completely ruined for exactly 40 years. But Nebuchadnezzar really did attack Egypt later (around 568 BC), and Egypt lost its earlier position as a world power.
 
 ---
 
 ## A lowly kingdom (Verses 13–16)
 
 [13] “‘For this is what the Lord GOD says:
-“At the end of forty years
+“At the end of 40 years
 I will gather the Egyptians from the peoples
 where they were scattered.
 [14] I will bring Egypt back from captivity.

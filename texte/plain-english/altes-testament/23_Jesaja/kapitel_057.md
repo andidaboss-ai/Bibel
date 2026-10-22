@@ -8,7 +8,7 @@
 [1] The righteous perish, and no one takes it to heart.
 Merciful people are taken away,
 and no one considers
-that the righteous are taken away from the evil to come.
+that the righteous are taken away from the evil.
 [2] They enter into peace.
 They rest on their beds,
 everyone who has lived uprightly.
@@ -37,7 +37,7 @@ under the clefts of the rocks?
 [6] Among the smooth stones of the valley is your share.
 They, they are your lot.
 You have even poured out drink offerings to them.
-You have brought grain offerings.
+You have brought offerings.
 Should I be calm about these things?
 [7] On a high and lofty mountain you have made your bed.
 You also went up there to offer sacrifices.
@@ -63,14 +63,14 @@ Haven’t I kept silent for a long time,
 and so you do not fear me?
 [12] I will announce your righteousness,
 and as for your works, they will not help you.
-[13] When you cry out, let the idols you have collected save you!
+[13] When you cry out, let those you have gathered save you!
 But the wind will carry them all away.
 A breath will take them all.
 But whoever takes refuge in me will possess the land
 and inherit my holy mountain.”
 
 > **What does this mean?**
-> This passage is a harsh accusation against people among the people who serve other gods.
+> This passage is a harsh accusation against people in the nation who serve other gods.
 > Verses 3 and 8: The Bible often describes idol worship with the picture of adultery and prostitution. What is meant: The people have become unfaithful to God, like a spouse who cheats. It is a picture of unfaithfulness to God, not a judgment on people who live in prostitution.
 > Verse 5: The worst thing: Some even sacrificed children, in valleys near Jerusalem (compare 2 Kings 23:10). The Bible condemns this as a terrible crime. Harming or killing children can never be justified, in any religion or under any circumstances.
 > Verses 6–7: Smooth stones and high mountains were places where foreign gods were worshiped.

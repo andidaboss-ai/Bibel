@@ -35,7 +35,7 @@ For your people are like those who bring charges against a priest.
 [5] You will stumble in the daytime,
 and the prophet will also stumble with you at night.
 And I will destroy your mother.
-[6] My people are destroyed because they do not know me.
+[6] My people are destroyed because they lack knowledge.
 Because you have rejected knowledge,
 I will also reject you.
 You will no longer be a priest for me.
@@ -55,7 +55,7 @@ For they have stopped listening to the LORD.
 
 > **What does this mean?**
 > Now God speaks directly to the priests. They should have taught the people who God is and what he wants. But they did not do it.
-> Verse 6: A famous sentence: “My people are destroyed because they do not know me.” The WEB says: “for lack of knowledge.” The people no longer know God, because no one has taught them. The priests are to blame.
+> Verse 6: A famous sentence: “My people are destroyed because they lack knowledge.” The people no longer know God, because no one has taught them. The priests are to blame.
 > Verse 8: A heavy accusation: The priests “feed on the sin” of the people. They received a share of the sin offerings. The more the people sinned, the more the priests earned. Instead of calling the people to turn back, they profited from their guilt.
 > Verse 9: “The same for the people and for the priest.” The spiritual leaders are no better than the others.
 > For today: Whoever is responsible for others (in church, at school, or in the family) should pass on knowledge and values and must not take advantage of others.
@@ -73,7 +73,6 @@ They have been unfaithful to their God.
 They burn incense on the hills,
 under oaks, poplars, and terebinths,
 because their shade is good.
-A terebinth is a large tree with wide branches.
 That is why your daughters act like prostitutes,
 and your brides are unfaithful to their husbands.
 [14] I will not punish your daughters when they act like prostitutes,
@@ -84,7 +83,7 @@ So a people without understanding will come to ruin.
 
 > **What does this mean?**
 > Verse 12: The people ask a piece of wood (an idol or a stick used to tell the future) instead of asking God.
-> Verse 13: Under shady trees on the hills, people celebrated fertility cults, often with sexual rituals.
+> Verse 13: Under shady trees on the hills, people celebrated fertility cults, often with sexual rituals. A terebinth is a large tree with wide branches.
 > Verse 14: A remarkable verse! God says: I will not punish the young women. For the men themselves go to the prostitutes and take part in the cults. God stands against the double standard where women are punished while men do the same thing. The main responsibility belongs to the men, who set the example and have the power.
 > The WEB speaks of “shrine prostitutes.” Scholars disagree about whether there really was “holy prostitution” in Israel. What is sure is this: The women in these cults were often exploited.
 
@@ -98,7 +97,7 @@ Do not go to Gilgal.
 Do not go up to Beth Aven.
 And do not swear, ‘As surely as the LORD lives.’
 [16] For Israel has been very stubborn, like a stubborn young cow.
-How then can the LORD feed them like a lamb in a wide meadow?
+How then can the LORD feed them like a lamb in a meadow?
 [17] Ephraim has joined himself to idols.
 Leave him alone!
 [18] Their drink has turned sour.

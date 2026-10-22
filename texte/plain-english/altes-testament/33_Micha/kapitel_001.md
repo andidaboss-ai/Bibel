@@ -8,7 +8,7 @@
 Micah came from Morasheth, a small town in the hill country of Judah, southwest of Jerusalem. He lived in the 8th century BC, at the same time as Isaiah, Hosea, and Amos.
 His name means: “Who is like the LORD?” At the end of the book he plays on this (7:18).
 Micah was a man from the countryside. He saw how rich landowners took the fields away from the farmers. He saw how judges, priests, and prophets took bribes. Like Amos, he fights for social justice.
-He announces the fall of Samaria (the capital of the northern kingdom) and even of Jerusalem. A hundred years later, people still remembered his words (Jeremiah 26:18).
+He announces the fall of Samaria (the capital of the northern kingdom) and even of Jerusalem. 100 years later, people still remembered his words (Jeremiah 26:18).
 But Micah also brings great hope: peace for the nations, when swords become plows (4:3), and a new ruler from Bethlehem (5:2; in some Bibles 5:1).
 His best-known sentence is: “Human being, he has shown you what is good … to act justly, to love mercy, and to walk humbly with your God” (6:8). The book has 7 chapters.
 
@@ -93,7 +93,7 @@ The crying of Beth Ezel will take away his protection from you.
 [12] For the people who live in Maroth are waiting anxiously for something good.
 For disaster has come down from the LORD
 to the gate of Jerusalem.
-[13] Hitch the fast horses to the chariot,
+[13] Hitch the fast horse to the chariot,
 you who live in Lachish!
 She was the beginning of sin for the daughter of Zion.
 For the sins of Israel were found in you.

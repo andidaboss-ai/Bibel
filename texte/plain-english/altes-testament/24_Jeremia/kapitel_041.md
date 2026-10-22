@@ -8,9 +8,9 @@
 [1] In the seventh month,
 Ishmael, the son of Nethaniah, the son of Elishama,
 who was from the royal family and one of the king’s chief officers,
-came with ten men to Gedaliah, the son of Ahikam, at Mizpah.
+came with 10 men to Gedaliah, the son of Ahikam, at Mizpah.
 There at Mizpah they ate a meal together.
-[2] Then Ishmael, the son of Nethaniah, and the ten men who were with him got up.
+[2] Then Ishmael, the son of Nethaniah, and the 10 men who were with him got up.
 They struck down Gedaliah, the son of Ahikam, the son of Shaphan, with the sword,
 and killed him,
 the man whom the king of Babylon had made governor over the land.
@@ -18,7 +18,7 @@ the man whom the king of Babylon had made governor over the land.
 and the Chaldean soldiers who were there.
 [4] On the second day after he had killed Gedaliah,
 before anyone knew about it,
-[5] eighty men came from Shechem, from Shiloh, and from Samaria.
+[5] 80 men came from Shechem, from Shiloh, and from Samaria.
 Their beards were shaved, their clothes were torn,
 and they had cut themselves.
 They had grain offerings and frankincense in their hands,
@@ -30,7 +30,7 @@ When he met them, he said to them,
 [7] When they came into the middle of the city,
 Ishmael, the son of Nethaniah, and the men who were with him
 killed them and threw them into a pit.
-[8] But there were ten men among them who said to Ishmael,
+[8] But there were 10 men among them who said to Ishmael,
 “Don’t kill us!
 For we have supplies hidden in the field:
 wheat, barley, oil, and honey.”
@@ -48,8 +48,8 @@ and set out to go over to the people of Ammon.
 
 > **What does this mean?**
 > Verses 1–2: Ishmael comes as a guest, eats a meal with Gedaliah, and then murders him. Abusing hospitality was considered especially shameful. Ishmael came from the royal family. Perhaps he wanted to rule himself, or he saw Gedaliah as a traitor because he worked together with Babylon.
-> Verse 5: Eighty pilgrims from the north come in mourning to offer sacrifices at the destroyed temple. Ishmael lures them into the city with false tears and murders them. A cruel, senseless crime.
-> Verse 8: Ten save their lives because they offer supplies. Greed is stronger than the lust to kill.
+> Verse 5: A group of 80 pilgrims from the north come in mourning to offer sacrifices at the destroyed temple. Ishmael lures them into the city with false tears and murders them. A cruel, senseless crime.
+> Verse 8: The 10 men save their lives because they offer supplies. Greed is stronger than the lust to kill.
 > To this day, Jews remember this murder with a day of fasting, the “Fast of Gedaliah,” shortly after the Jewish New Year. It destroyed the last hope for a life in the land after the destruction of Jerusalem.
 > Violence breeds new violence. No political goal justifies murder.
 

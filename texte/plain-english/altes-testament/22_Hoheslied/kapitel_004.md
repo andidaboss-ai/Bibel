@@ -5,8 +5,8 @@
 
 ## A song about her beauty (Verses 1–7)
 
-[1] You are beautiful, my love.
-Yes, you are beautiful.
+[1] How beautiful you are, my love!
+How beautiful you are!
 Your eyes behind your veil are like doves.
 Your hair is like a flock of goats
 coming down Mount Gilead.
@@ -17,10 +17,9 @@ Not one of them is missing.
 [3] Your lips are like a red thread.
 Your mouth is lovely.
 Behind your veil, your temples are like half a pomegranate.
-The temples are the sides of the forehead.
 [4] Your neck is like the tower of David.
 It was built to store weapons.
-A thousand shields hang on it.
+1,000 shields hang on it.
 They are all shields of mighty warriors.
 [5] Your two breasts are like two fawns,
 twins of a gazelle.
@@ -28,13 +27,14 @@ They feed among the lilies.
 [6] Until the day cools down and the shadows run away,
 I will go to the mountain of myrrh,
 to the hill of frankincense.
-Myrrh and frankincense are sweet-smelling spices.
 [7] You are beautiful in every way, my love.
 There is no flaw in you.
 
 > **What does this mean?**
 > The man describes the beauty of the woman he loves from head to toe. In Arabic, such songs are called “wasf,” a song of description. The pictures sound strange to us, but back then they were very beautiful:
 > Her black hair flows like a flock of black goats moving down a mountain. Her teeth are white like freshly washed sheep, and complete, none is missing. Her neck is slim and proud like a tower, decorated with necklaces as if with shields.
+> Verse 3: The temples are the sides of the forehead.
+> Verse 6: Myrrh and frankincense are sweet-smelling spices.
 > Verse 7: “You are beautiful in every way, my love. There is no flaw in you.” That is how love sees the other person. Christians have also applied this verse to the church, which Christ loves (Ephesians 5:27).
 
 ---
@@ -77,7 +77,6 @@ calamus and cinnamon,
 with every kind of incense tree,
 myrrh and aloes,
 and all the best spices.
-Henna, nard, saffron, calamus, cinnamon, myrrh and aloes are plants that smell sweet.
 [15] You are a fountain for the gardens,
 a well of fresh, flowing water,
 streams that flow down from Lebanon.
@@ -90,6 +89,7 @@ Let him taste his precious fruits.
 
 > **What does this mean?**
 > Verse 12: The woman he loves is like a garden with a wall around it. Not everyone may go in. This is a tender picture that she is keeping herself for the one she loves.
+> Verses 13–14: Henna, nard, saffron, calamus, cinnamon, myrrh and aloes are plants that smell sweet.
 > Verses 13–15: The garden is full of precious plants and spices from all over the world. It even has its own spring. A paradise.
 > Verse 16: Now the woman answers: She invites the one she loves to come into “his” garden. She opens herself to him of her own free will. Love goes both ways and is freely given.
 > The Song of Songs speaks tenderly and openly about bodily love as something beautiful that God has given.

@@ -25,7 +25,7 @@ The land of my people is being divided up.
 He takes it away from me.
 He gives our fields to traitors!’”
 [5] That is why you will have no one in the assembly of the LORD
-who measures the land with a line and divides it by lot.
+who divides the land by lot.
 
 > **What does this mean?**
 > Verse 1: These people lie awake at night and think about how they can take advantage of others. And in the morning they do it, because they have the power to.

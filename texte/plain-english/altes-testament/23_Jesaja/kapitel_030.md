@@ -53,7 +53,7 @@ Tell us pleasant things!
 Prophesy lies to us!
 [11] Get out of the way!
 Turn off the path!
-Leave us alone with the Holy One of Israel!”
+Take the Holy One of Israel away from us!”
 [12] So the Holy One of Israel says,
 “Because you reject this word
 and trust in oppression and crookedness
@@ -79,12 +79,12 @@ or to scoop water from the cistern.”
 [15] For this is what the Lord GOD, the Holy One of Israel, said:
 “By turning back and rest you will be saved.
 Your strength will be in quietness and confidence.”
-But you would not,
-[16] but you said, “No, we will flee on horses!”
+But you refused,
+[16] and you said, “No, we will flee on horses!”
 So you will flee.
 And, “We will ride on swift horses!”
 So those who chase you will be swift.
-[17] 1,000 will flee at the threat of one.
+[17] At the threat of one, 1,000 will flee.
 At the threat of five you will flee,
 until you are left like a pole on a mountaintop
 and like a banner on a hill.

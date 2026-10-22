@@ -7,7 +7,7 @@
 
 [1] Then the Spirit lifted me up
 and brought me to the east gate of the LORD’s house, which faces east.
-At the entrance of the gate there were twenty-five men.
+At the entrance of the gate there were 25 men.
 Among them I saw Jaazaniah the son of Azzur
 and Pelatiah the son of Benaiah, leaders of the people.
 [2] He said to me,

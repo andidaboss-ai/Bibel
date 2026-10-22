@@ -7,8 +7,8 @@
 
 [1] This is what the LORD says:
 “Hold on to justice and do what is right,
-for my salvation is near and about to come,
-and my righteousness is about to be revealed.
+for my salvation is near,
+and my righteousness will soon be revealed.
 [2] Blessed is the person who does this,
 and the human being who holds on to it,
 who keeps the Sabbath and does not dishonor it,
@@ -72,4 +72,4 @@ And tomorrow will be like today, great beyond measure.”
 > Verse 10: The watchmen are like guard dogs that do not bark. They sleep instead of warning of danger.
 > Verses 11–12: They only think of their own advantage and hold drinking parties. They say: “Tomorrow will be like today, great beyond measure.” They do not notice that the people are in danger.
 > For today: Whoever is responsible for others, in politics, church, community or family, should be watchful and think of the weak, not of their own gain.
-> If you yourself have problems with alcohol, you can find help. US: SAMHSA 1-800-662-4357. Elsewhere, find help at findahelpline.com.
+> If you yourself have problems with alcohol, you can find help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For addiction, US: SAMHSA 1-800-662-4357.

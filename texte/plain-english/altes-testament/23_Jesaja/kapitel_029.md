@@ -18,7 +18,8 @@ I will build siege works against you.
 [4] You will be brought low
 and will speak from the ground.
 Your words will mumble out of the dust.
-Your voice will come out of the ground like that of a spirit of the dead,
+Your voice will come out of the ground
+like the voice of someone who talks with the spirits of the dead,
 and your words will whisper out of the dust.
 [5] But the crowd of your enemies will be like fine dust,
 and the crowd of the violent like chaff that blows away.

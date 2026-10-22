@@ -7,10 +7,10 @@
 
 [1] This is the word which came to Jeremiah from the LORD,
 after Nebuzaradan, the captain of the guard, had let him go from Ramah.
-He had found him bound in chains
+He had taken him there bound in chains
 among all the captives of Jerusalem and Judah
 who were being carried away to Babylon.
-[2] The captain of the guard took Jeremiah aside and said to him,
+[2] The captain of the guard took Jeremiah and said to him,
 “The LORD your God announced this disaster against this place.
 [3] And the LORD has brought it about,
 and has done just as he said.

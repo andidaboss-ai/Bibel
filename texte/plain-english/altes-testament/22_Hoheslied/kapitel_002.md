@@ -46,7 +46,6 @@ He jumps over the hills.
 Look, he is standing behind our wall!
 He looks in through the windows.
 He peeks through the lattice.
-A lattice is a window screen made of crossed wooden strips.
 [10] My beloved spoke to me.
 He said, “Get up, my love, my beautiful one.
 Come away with me!
@@ -76,7 +75,7 @@ Be like a gazelle or a young deer
 on the mountains of Bether.
 
 > **What does this mean?**
-> Verses 8–9: The man she loves comes leaping with joy like a young gazelle. Impatiently, he looks through the window.
+> Verses 8–9: The man she loves comes leaping with joy like a young gazelle. Impatiently, he looks through the window. A lattice is a window screen made of crossed wooden strips.
 > Verses 10–13: One of the most beautiful spring poems in the world: The winter is past, the flowers are blooming, the birds are singing. Come with me! Love is like a new spring.
 > Verse 15: Little foxes eat the young grapes. Perhaps this means: Small troubles can ruin a young love. Watch out for them!
 > Verse 16: “My beloved is mine, and I am his”: This sentence is often engraved in wedding rings. It expresses that they belong to each other.

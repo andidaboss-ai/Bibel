@@ -35,7 +35,7 @@ For your love is like a morning cloud,
 like the dew that disappears early.
 [5] That is why I have cut them to pieces through the prophets.
 I have killed them with the words of my mouth.
-My judgments against you flash out like lightning.
+Your judgments are like a flash of lightning.
 [6] For I desire mercy, not sacrifice.
 I desire the knowledge of God more than burnt offerings.
 
