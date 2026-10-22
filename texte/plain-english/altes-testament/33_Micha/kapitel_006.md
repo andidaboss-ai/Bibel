@@ -29,7 +29,7 @@ so that you may know the righteous acts of the LORD.”
 > Verse 3: But God does not accuse coldly. He asks sadly: “My people, what have I done to you? How have I made you tired?” Like a disappointed father or a disappointed mother. Later these words became part of the Christian worship service on Good Friday (the “Reproaches”).
 > Verse 4: God reminds them of what he has done: He freed his people from slavery. And he sent them leaders: Moses, Aaron, and Miriam. It is remarkable: With Miriam, a woman is named here as a leader of the people.
 > Verse 5: King Balak wanted to have Israel cursed, but the seer Balaam had to bless it (Numbers 22–24). From Shittim to Gilgal: the last part of the way through the Jordan into the promised land (Joshua 3–4).
-> “The righteous acts of the LORD” are the good and right things he did for his people. Righteous means: living right before God.
+> “The righteous acts of the LORD” are the good and right things he did for his people. Righteous means: right and just, the way God wants it.
 
 ---
 

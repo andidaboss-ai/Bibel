@@ -21,7 +21,6 @@ his father and his mother, who gave birth to him, will say to him,
 because you speak lies in the name of the LORD.’
 And his father and his mother, who gave birth to him,
 will stab him when he prophesies.
-To prophesy means to speak as a prophet.
 [4] On that day
 the prophets will be ashamed,
 each one of his vision, when he prophesies.
@@ -38,7 +37,7 @@ Then he will answer,
 > **What does this mean?**
 > Verse 1: A wonderful picture: A fountain is opened that washes people clean from sin and uncleanness. It follows the mourning for the one who was pierced (12:10). Christians see in it a picture of forgiveness through Jesus. A well-known hymn by William Cowper begins with this picture: “There is a fountain filled with blood.”
 > Verse 2: God will remove all idols and all false prophets from the land. This is about lying prophets who tell lies in God’s name (compare 10:2).
-> Verse 3: A very hard verse. It uses strong words to say: False prophecy will be taken so seriously that not even a person’s own parents will put up with it. This takes up the law in Deuteronomy 13:6–10 and 18:20.
+> Verse 3: To prophesy means to speak as a prophet. This is a very hard verse. It uses strong words to say: False prophecy will be taken so seriously that not even a person’s own parents will put up with it. This takes up the law in Deuteronomy 13:6–10 and 18:20.
 > Important: This describes a future in which lies about God are no longer accepted. It is never a command for parents to hurt or kill their children. Violence in the family is wrong. If you experience violence at home, get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verses 4–6: The false prophets will be ashamed. They will no longer wear the “coat of hair,” the mark of prophets like Elijah (2 Kings 1:8). They will deny that they were ever prophets.
 > The “wounds between the arms” (that is, on the chest or the back) were maybe cuts like the ones the prophets of idols made on themselves (1 Kings 18:28). The man makes an excuse: “I got them in the house of my friends” (Zechariah 13:6).

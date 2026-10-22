@@ -103,6 +103,6 @@ like those who were not called by your name.
 
 > **What does this mean?**
 > Verse 15: The people cry out: God, look down! Where has your love gone?
-> Verse 16: “You, LORD, are our Father.” Even if Abraham and Jacob, the great fathers of the people, no longer recognized them, God remains their Father. This is one of the few places in the Old Testament where God is called “our Father” directly in prayer. Jesus teaches his disciples to pray: “Our Father in heaven” (Matthew 6:9).
+> Verse 16: “You, LORD, are our Father.” Even if Abraham and Jacob, the great ancestors of the people, no longer recognized them, God remains their Father. This is one of the few places in the Old Testament where God is called “our Father” directly in prayer. Jesus teaches his disciples to pray: “Our Father in heaven” (Matthew 6:9).
 > Verse 17: An honest, desperate question: Why do you let us go astray? The Bible allows such questions to God.
 > Verses 18–19: The temple is destroyed. The people feel as if they had never belonged to God.

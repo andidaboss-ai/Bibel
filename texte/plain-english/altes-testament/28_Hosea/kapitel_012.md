@@ -61,7 +61,6 @@ as in the days of the holy feast.
 [10] I have also spoken to the prophets.
 I have given them many visions.
 And through the prophets, I have spoken in parables.
-Parables are stories or pictures that teach something.
 [11] If Gilead is evil,
 then they are surely worthless.
 In Gilgal they sacrifice bulls.
@@ -71,7 +70,7 @@ in the rows of a plowed field.
 > **What does this mean?**
 > Verses 7–8: Israel is like a dishonest merchant with false scales. And then he says proudly: “Surely I have become rich … In all my wealth, they will not find any guilt in me.” He means: No one can blame me for anything! Wealth through cheating, and then self-righteous on top of it.
 > Verse 9: God reminds them: “I am the LORD your God ever since the land of Egypt.” He will make them live in tents again, as at the Feast of Tabernacles (also called the Feast of Booths), when people remembered the time in the wilderness. This can mean punishment (losing their houses) or also a new beginning like back then in the wilderness (compare Hosea 2:14).
-> Verse 10: God spoke through prophets again and again, in pictures and parables. He was not silent.
+> Verse 10: God spoke through prophets again and again, in pictures and parables. Parables are stories or pictures that teach something. He was not silent.
 
 ---
 

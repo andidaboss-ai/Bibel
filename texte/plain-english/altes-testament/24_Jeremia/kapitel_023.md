@@ -13,7 +13,7 @@ says this against the shepherds who take care of my people:
 and driven them away,
 and have not looked after them.
 Look, I will punish you for the evil of your deeds,” says the LORD.
-[3] “I myself will gather what is left of my flock
+[3] “I will gather what is left of my flock
 out of all the countries where I have driven them.
 I will bring them back to their pastures,
 and they will have many young and become many.
@@ -84,7 +84,7 @@ For from the prophets of Jerusalem,
 godlessness has spread through the whole land.”
 [16] The LORD of Armies says,
 “Don’t listen to the words of the prophets who prophesy to you.
-They fill you with empty hopes.
+They teach you worthless things.
 They speak a vision from their own heart,
 and not from the mouth of the LORD.
 [17] Again and again they say to those who despise me,
@@ -132,7 +132,7 @@ They say, ‘I had a dream! I had a dream!’
 the prophets who speak the deceit of their own heart?
 [27] They plan to make my people forget my name
 through their dreams, which they tell one another,
-just as their fathers forgot my name because of Baal.
+just as their ancestors forgot my name because of Baal.
 [28] The prophet who has a dream, let him tell his dream.
 But the one who has my word, let him speak my word faithfully.
 What does straw have to do with wheat?” says the LORD.
@@ -181,13 +181,14 @@ then the LORD says:
 even though I sent word to you, telling you not to say, “The message from the LORD,”
 [39] look, I will completely forget you,
 and I will throw you away from my presence,
-together with the city that I gave to you and to your fathers.
+together with the city that I gave to you and to your ancestors.
 [40] I will bring on you a disgrace that lasts forever,
 and a shame that never ends,
 which will not be forgotten.’”
 
 > **What does this mean?**
-> There is a play on words here in Hebrew: The word “massa” means both “message, saying” and “burden.” The WEB translates it as “message.” Many other Bibles translate it as “burden,” so that the play on words can be understood.
+> There is a play on words here in Hebrew: The word “massa” means both “message, saying” and “burden.” The WEB, our English source text, translates it as “message.”
+ Many other Bibles translate it as “burden,” so that the play on words can be understood.
 > People asked Jeremiah mockingly: “What is the LORD’s ‘message’ (or ‘burden’) today?” They made fun of his messages.
 > God answers with the play on words: You ask about the “burden”? You yourselves are the burden! “I will throw you off.”
 > Verses 35–36: Instead of talking mockingly about the “burden,” the people should seriously ask: “What has the LORD answered?” and, “What has the LORD said?” God’s word should be treated with respect, not as a joke.

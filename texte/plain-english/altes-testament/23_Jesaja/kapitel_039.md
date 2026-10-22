@@ -29,7 +29,7 @@ There is nothing among my treasures that I have not shown them.”
 “Hear the word of the LORD of Armies:
 [6] ‘Look, the days are coming
 when everything in your house,
-and everything your fathers have stored up until today,
+and everything your ancestors have stored up until today,
 will be carried off to Babylon.
 Nothing will be left,’ says the LORD.
 [7] ‘They will take away your sons, who will come from you,

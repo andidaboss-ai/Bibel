@@ -73,7 +73,7 @@ and there will be no more curse.
 Jerusalem will live in safety.
 
 > **What does this mean?**
-> Verses 6–7: A completely new day, different from all the days before. Day and night no longer take turns. “In the evening there will be light”: When people expect it to get dark, it becomes bright. The Revelation says about the new Jerusalem: “There will be no night” (Revelation 22:5).
+> Verses 6–7: A completely new day, different from all the days before. Day and night no longer take turns. “In the evening there will be light”: When people expect it to get dark, it becomes bright. The book of Revelation says about the new Jerusalem: “There will be no night” (Revelation 22:5).
 > Verse 8: Living, fresh water flows out of Jerusalem, east to the Dead Sea and west to the Mediterranean Sea, all year long. This is a reminder of the stream from the temple in Ezekiel (Ezekiel 47) and of the river of life in Revelation 22:1. Jesus speaks of the “living water” that he gives (John 4:10–14; 7:37–38).
 > Verse 9: The high point of the book: “The LORD will be King over the whole earth. On that day the LORD will be one, and his name one.” This is a reminder of the basic Jewish confession of faith, the “Hear, Israel”: “The LORD is our God. The LORD is one” (Deuteronomy 6:4). In the end, all people will know the one God. In the Jewish prayer “Aleinu,” this verse is still prayed every day.
 > Verses 10–11: The land becomes flat, and only Jerusalem is lifted up. People will live in the city again within its old borders. And there will be “no more curse,” no more destruction. At last Jerusalem will live in safety.

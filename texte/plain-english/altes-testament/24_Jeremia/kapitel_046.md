@@ -23,8 +23,8 @@ They are terrified and are turning back.
 Their warriors are beaten down.
 They flee in haste and don’t look back.
 There is terror on every side,” says the LORD.
-[6] “The swift cannot flee away,
-nor can the warrior escape.
+[6] “Don’t let the swift flee away,
+or the warrior escape.
 In the north, by the Euphrates River,
 they have stumbled and fallen.
 [7] Who is this who rises like the Nile,
@@ -98,7 +98,7 @@ For Memphis will become a wasteland.
 It will be burned down,
 without anyone living in it.
 [20] Egypt is a very beautiful young cow,
-but a horsefly from the north has come.
+but destruction from the north has come.
 It has come.
 [21] Even her hired soldiers among her
 are like fattened calves,
@@ -107,7 +107,7 @@ They have fled together.
 They didn’t stand,
 for the day of their disaster has come on them,
 the time of their punishment.
-[22] She will make a sound like a snake slithering away,
+[22] Her sound will go like a snake,
 for the enemy will march with an army,
 and come against her with axes,
 like woodcutters.

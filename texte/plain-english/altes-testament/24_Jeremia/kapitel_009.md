@@ -136,6 +136,7 @@ For all the nations are uncircumcised,
 and the whole house of Israel is uncircumcised in heart.”
 
 > **What does this mean?**
-> Verses 23–24 are among the most important sentences in Jeremiah: Don’t be proud of your cleverness, your strength or your money. If you want to be proud of something, be proud that you know God, the God who shows faithful love, justice and righteousness and delights in them.
+> Verses 23–24 are among the most important sentences in Jeremiah: Don’t be proud of your cleverness, your strength or your money. If you want to be proud of something, be proud that you know God, the God who shows faithful love, justice and righteousness and delights in them. Righteousness means: living right before God.
+
  Paul takes this up: “He who boasts, let him boast in the Lord” (1 Corinthians 1:31).
 > Verses 25–26: Many nations at that time were circumcised, not only Israel. Jeremiah says: The outward sign alone does no good. If someone has an “uncircumcised heart,” that is, a heart that is closed to God, the sign on the body does not help them either. This applies to all nations and also to Israel. Cutting the hair at the sides of the head was a hairstyle of certain Arab tribes.

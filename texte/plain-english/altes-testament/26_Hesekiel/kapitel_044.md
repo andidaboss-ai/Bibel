@@ -169,7 +169,7 @@ says the Lord GOD.
 
 ## God is their share (Verses 28–31)
 
-[28] “‘They will have something to inherit:
+[28] “They will have something to inherit:
 I am what they inherit.
 You must not give them any land of their own in Israel.
 I am their property.

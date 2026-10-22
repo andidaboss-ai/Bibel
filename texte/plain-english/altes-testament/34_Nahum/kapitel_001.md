@@ -86,7 +86,7 @@ A yoke is a wooden bar on the neck of an ox. It is a picture for being forced to
 From the house of your gods I will cut off
 the carved idol and the metal idol.
 I will make your grave,
-for you are worthless.”
+for you are disgusting.”
 [15] Look, on the mountains, the feet of the one who brings good news,
 who announces peace!
 Celebrate your feasts, Judah!

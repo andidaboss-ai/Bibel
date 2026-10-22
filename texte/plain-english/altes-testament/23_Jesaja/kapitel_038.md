@@ -29,8 +29,8 @@ and I will defend this city.
 that the LORD will do what he has said:
 [8] Look, I will make the shadow on the sundial of Ahaz,
 which has gone down with the sun,
-go back ten steps.”’”
-So the sun went back ten steps on the sundial
+go back 10 steps.”’”
+So the sun went back 10 steps on the sundial
 on which it had gone down.
 
 > **What does this mean?**
@@ -102,6 +102,7 @@ all the days of our life in the house of the LORD.
 “Let them take a cake of figs
 and lay it as a poultice on the boil,
 and he will recover.”
+A poultice is a soft paste that is laid on a sore.
 [22] And Hezekiah had said,
 “What is the sign that I will go up to the house of the LORD?”
 

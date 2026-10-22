@@ -7,8 +7,8 @@
 
 [1] “When Israel was a child, I loved him.
 And I called my son out of Egypt.
-[2] The more they were called,
-the more they went away from them.
+[2] They called to them,
+so they went away from them.
 They offered sacrifices to the Baals
 and burned incense to carved idols.
 [3] And yet it was I who taught Ephraim to walk.
@@ -64,7 +64,7 @@ I will not come in anger.
 [10] They will follow the LORD.
 He will roar like a lion.
 When he roars,
-his children will come trembling from the west.
+the children will come trembling from the west.
 [11] They will come trembling like a bird out of Egypt,
 and like a dove out of the land of Assyria.
 And I will let them live in their homes,”

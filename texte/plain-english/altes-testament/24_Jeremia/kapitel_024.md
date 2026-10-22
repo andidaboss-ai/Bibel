@@ -51,7 +51,8 @@ People will look down on them.
 People will tell stories about them and make fun of them.
 People will use their name as a curse.
 This will happen in all the places where I will drive them.
-[10] I will send war, hunger and disease among them.
+[10] I will send the sword, famine, and disease among them.
+
 They will be wiped out from the land
 that I gave to them and to their ancestors.’”
 

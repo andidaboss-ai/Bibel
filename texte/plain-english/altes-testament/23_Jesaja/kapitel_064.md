@@ -51,7 +51,7 @@ Please look, we beg you: We are all your people.
 [10] Your holy cities have become a wilderness.
 Zion has become a wilderness, Jerusalem a ruin.
 [11] Our holy and beautiful house,
-where our fathers praised you,
+where our ancestors praised you,
 has been burned with fire.
 Everything we loved lies in ruins.
 [12] Will you hold yourself back after all this, LORD?
@@ -60,5 +60,5 @@ Will you keep silent and punish us so severely?
 > **What does this mean?**
 > Verse 8: In spite of everything: “You are our Father. We are the clay, and you are our potter.” The people put themselves completely in God’s hands. A potter can reshape a pot that has gone wrong. In the same way, God can make his people new.
 > Verse 9: “We are all your people.” An appeal to God’s faithfulness.
-> Verses 10–11: The lament over destroyed Jerusalem and the burned temple, “our holy and beautiful house, where our fathers praised you.”
+> Verses 10–11: The lament over destroyed Jerusalem and the burned temple, “our holy and beautiful house, where our ancestors praised you.”
 > Verse 12: The prayer ends with an open question: Will you keep silent? In the next chapter, God answers.

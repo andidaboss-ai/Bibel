@@ -52,7 +52,7 @@ Strangers eat up your land before your eyes,
 and it is ruined, as if destroyed by strangers.
 [8] The daughter of Zion is left
 like a shelter in a vineyard,
-like a hut in a cucumber field,
+like a hut in a melon field,
 like a city under siege.
 [9] If the LORD of Armies had not left us a very small remnant,
 we would have become like Sodom.
@@ -73,7 +73,7 @@ We would have been like Gomorrah.
 Listen to the teaching of our God, you people of Gomorrah!
 [11] “What are your many sacrifices to me?” says the LORD.
 “I have had enough of burnt offerings of rams
-and the fat of fattened calves.
+and the fat of fattened animals.
 I take no pleasure in the blood of bulls,
 of lambs, or of male goats.
 [12] When you come to appear before me,
@@ -161,8 +161,8 @@ Both will burn together,
 and no one will put out the fire.”
 
 > **What does this mean?**
-> Verse 21: Jerusalem was once a city of justice. Now it has become unfaithful to God, like a woman who cheats on her husband. The prophets often use this picture for being unfaithful to God.
-> Verses 22–23: Everything is spoiled: The silver is worthless, the wine watered down, the leaders take bribes. And again: Orphans and widows get no justice.
+> Verse 21: Jerusalem was once a city of justice. Now it has become unfaithful to God, like a woman who cheats on her husband. The prophets often use this picture for being unfaithful to God. Righteousness means: living right before God.
+> Verses 22–23: Everything is spoiled: The silver is worthless, the wine watered down, the leaders take bribes. And again: Orphans and widows get no justice. Dross is the worthless waste that is left when silver is melted.
 > Verses 25–26: God wants to clean the city like a smith who frees silver from dross in the fire. After that it will again be called the “city of righteousness.” God’s judgment has a goal: renewal.
 > Verse 29: “Oaks” and “gardens” were places where people worshiped foreign gods.
 > Verse 31: Whoever relies on his own strength burns up like tinder.

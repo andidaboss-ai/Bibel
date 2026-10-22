@@ -147,7 +147,6 @@ It will be a covenant that lasts forever.
 I will settle them and make them many.
 I will put my sanctuary among them forever.
 [27] My tent will also be with them.
-That means: I will live among them.
 I will be their God,
 and they will be my people.
 [28] Then the nations will know that I am the LORD,
@@ -158,5 +157,5 @@ when my sanctuary is among them forever.”’”
 > After the death of King Solomon, the people were divided into two kingdoms: the northern kingdom of Israel (often called “Ephraim” or “Joseph”) and the southern kingdom of Judah (1 Kings 12). This split lasted for hundreds of years, with much fighting and even wars.
 > Ezekiel takes two sticks and holds them in his hand so that they look like one. God promises: I will make the separated parts into one people again.
 > Verses 24–25: Again it speaks of “my servant David,” the coming king from the family of David (see 34:23–24).
-> Verses 26–27: A covenant of peace that lasts forever, and God lives in the middle of his people. The Hebrew word here means a “tent,” like God’s tent in the wilderness. In the New Testament it says: “The Word became flesh and lived among us” (John 1:14). In Greek it says there, word for word: He “pitched his tent” among us. And at the end of the Bible: “Look! God’s home is with people. He will live with them. They will be his people” (Revelation 21:3).
+> Verses 26–27: A covenant of peace that lasts forever, and God lives in the middle of his people. “My tent will also be with them” means: God will live among them. The Hebrew word here means a “tent,” like God’s tent in the wilderness. In the New Testament it says: “The Word became flesh and lived among us” (John 1:14). In Greek it says there, word for word: He “pitched his tent” among us. And at the end of the Bible: “Look! God’s home is with people. He will live with them. They will be his people” (Revelation 21:3).
 > We know the longing for unity today too: between nations, churches, families. God can join together what is broken.
