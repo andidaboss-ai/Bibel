@@ -63,7 +63,7 @@ and said,
 “The Holy Spirit says:
 ‘So the Jews at Jerusalem will bind the man
 who owns this belt,
-and will hand him over to the Gentiles.’ ”
+and will hand him over to the Gentiles.’”
 [12] When we heard these things,
 both we and the people of that place
 begged Paul
@@ -80,9 +80,8 @@ for the name of the Lord Jesus.”
 So we stopped and said,
 “The Lord’s will be done.”
 
-*evangelist* = someone who spreads the Good News
-
 > **What does this mean?**
+> Evangelist means: someone who spreads the Good News.
 > Verse 4: Through the Spirit the disciples sense that danger is waiting for Paul. They want to protect him. Paul goes anyway, because he knows that God has called him (20:22).
 > Verse 5: Whole families, with wives and children, pray on the beach. A beautiful picture of fellowship.
 > Verse 8: Philip is one of the seven helpers from chapter 6. He had baptized the man from Ethiopia (chapter 8).
@@ -124,7 +123,7 @@ They say you tell them
 not to circumcise their children
 and not to live by the customs.
 [22] What then?
-The assembly will certainly meet,
+The church will certainly meet,
 for they will hear
 that you have come.
 [23] So do what we tell you.
@@ -154,11 +153,10 @@ There he announced
 when the days of purification would be completed
 and the offering would be made for each one of them.
 
-*purify* = make clean according to the rules of the law
-
 > **What does this mean?**
+> Purify means: make clean according to the rules of the law.
 > Verse 18: James is the brother of Jesus and the leader of the church in Jerusalem.
-> Verse 20: “Many thousands” of Jews believe in Jesus and faithfully keep the law. For them both belong together.
+> Verse 20: “Many thousands” of Jews believe in Jesus and faithfully keep the law. For them both belong together. Zealous means: full of eager devotion.
 > Verse 21: This is a false rumor. Paul didn’t tell Jews to leave Moses. He even circumcised Timothy (16:3).
 > Verses 23–26: Paul goes into the temple and keeps the Jewish rules of purification (compare Numbers 6). He shows: I am a Jew who respects the law.
 > Verse 25 recalls the decision from chapter 15.
@@ -221,7 +219,7 @@ He answered,
 “Do you know Greek?
 [38] Aren’t you then the Egyptian
 who some time ago started a revolt
-and led the four thousand men of the Assassins
+and led the 4,000 men of the Assassins
 out into the wilderness?”
 [39] But Paul said,
 “I am a Jew from Tarsus in Cilicia,
@@ -231,14 +229,13 @@ allow me
 to speak to the people.”
 [40] The commanding officer allowed it.
 Paul stood on the stairs
-and waved with his hand to the people.
+and motioned with his hand to the people.
 There was a great silence.
 Then he spoke to them in the Hebrew language,
 saying:
 
-*barracks* = a building where soldiers live
-
 > **What does this mean?**
+> Barracks means: a building where soldiers live.
 > Verse 27: “The Jews from Asia”: These are people who knew Paul from Ephesus. Not all Jews in Jerusalem.
 > Verses 28–29: Non-Jews were not allowed into the inner area of the temple. Warning signs at the temple threatened death. But the charge against Paul was false. It was a misunderstanding (verse 29).
 > Verses 31–33: The Roman commanding officer saves Paul from the angry crowd. His name is Claudius Lysias (23:26).

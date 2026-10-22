@@ -32,10 +32,9 @@ and fall into the same condemnation as the devil.
 Otherwise he will fall into disgrace
 and into the snare of the devil.
 
-*overseer* = a leader of the church
-*hospitable* = welcoming guests gladly
-
 > **What does this mean?**
+> Overseer means: a leader of the church.
+> Hospitable means: welcoming guests gladly.
 > Verse 1: “Overseer” (Greek *episkopos*): Later the word *bishop* came from this word. At that time it probably meant a leader of a local church.
 > Verses 2–7: The list shows: For leadership, character matters most, not power or wealth. Leaders are to be gentle, honest, not violent and not greedy for money.
 > Verse 2: “The husband of one wife” is understood in different ways: Some think he should be married only once. Others think he should be faithful to his wife and not have several wives. In the Catholic Church priests today live unmarried. In Orthodox and Protestant churches pastors may be married.
@@ -65,9 +64,8 @@ and manage their children and their own households well.
 gain a good standing
 and great boldness in the faith in Christ Jesus.
 
-*double-tongued* = saying one thing to one person and something else to another
-
 > **What does this mean?**
+> Double-tongued means: saying one thing to one person and something else to another.
 > Verse 8: “Servants” (Greek *diakonos*): Later the word *deacon* came from this. Deacons took care of the poor and the sick, for example.
 > Verse 11: The WEB says “Their wives.” But the Greek word can also simply mean *women*. Then this would be about women who were themselves servants of the church. Phoebe too is called a servant of the church (Romans 16:1). Interpreters understand the verse in different ways.
 > Verse 13: Whoever serves others gains respect and courage in faith. Serving is no small task.

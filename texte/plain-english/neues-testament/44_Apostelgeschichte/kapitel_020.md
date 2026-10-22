@@ -205,16 +205,15 @@ and kissed him.
 that they would see his face no more.
 Then they went with him to the ship.
 
-*overseer* = someone who watches over and cares for others
-*flock* = a group of sheep; here: the church
-
 > **What does this mean?**
+> Overseer means: someone who watches over and cares for others.
+> Flock means: a group of sheep; here: the church.
 > This is the only speech of Paul in Acts that he gives to Christians. It is a farewell speech.
 > Verse 19: “The plots of the Jews” means certain opponents. Paul himself is a Jew.
 > Verses 22–24: Paul knows that danger is waiting for him. Still he goes. He trusts God.
 > Verse 26: “I am clean from the blood of all people” means: I have done my task. No one can say that I kept something from them.
 > Verse 28: “Overseer” in Greek is *episkopos*. The word “bishop” comes from it. The church leaders are to care for the church like shepherds.
-> Verse 28: The WEB, our English source text, writes “the assembly of the Lord and God,” that is, the church of the Lord and God. The old manuscripts have different forms here: *the church of God* or *the church of the Lord*.
+> Verse 28: Here we follow the WEB, our English source text: “the church of the Lord and God.” The old manuscripts have different forms here: *the church of God* or *the church of the Lord*.
 > Verses 29–30: Paul warns against false teachers who want to tie people to themselves. Anyone who is put under pressure in a group can find advice at counseling services for cults and spiritual abuse.
 > Verse 35: “It is more blessed to give than to receive”: This saying of Jesus is not in the Gospels. Paul knew it from what was passed on by word of mouth.
 > Verses 37–38: A tearful farewell. The church loves Paul. Christians may show their feelings.

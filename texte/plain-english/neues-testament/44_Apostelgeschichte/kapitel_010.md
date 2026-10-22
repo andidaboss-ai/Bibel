@@ -38,10 +38,9 @@ from among those who served him personally.
 [8] He explained everything to them
 and sent them to Joppa.
 
-*centurion* = a Roman officer in charge of about 100 soldiers
-*memorial* = something that keeps a person in memory
-
 > **What does this mean?**
+> Centurion means: a Roman officer in charge of about 100 soldiers.
+> Memorial means: something that keeps a person in memory.
 > Verse 1: Cornelius was a Roman officer, a centurion. He led about 100 soldiers. He was not a Jew.
 > Verse 2: Cornelius honored the God of Israel, prayed and helped the poor. Such people were called God-fearers. They often went to the synagogue, but had not become Jews.
 > Verse 3: The ninth hour is about three in the afternoon, the time of the Jewish afternoon prayer. Cornelius prays at the same time as devout Jews.
@@ -118,10 +117,9 @@ On the next day Peter got up
 and went with them.
 Some of the brothers from Joppa went along with him.
 
-*trance* = a state like a dream while awake
-*common* = here: not holy, not allowed by the food laws
-
 > **What does this mean?**
+> Trance means: a state like a dream while awake.
+> Common means: here: not holy, not allowed by the food laws.
 > Verse 9: At that time flat roofs were often used as a quiet place to pray.
 > Verses 12–14: According to the food laws of the Torah (Leviticus 11), Jews were not allowed to eat certain animals. Peter keeps these laws, like a devout Jew.
 > Verse 15: “What God has cleansed, you must not call unclean.” Peter soon understands: It is not only about food, but about people (verse 28).
@@ -237,9 +235,8 @@ that through his name everyone
 who believes in him
 will receive forgiveness of sins.”
 
-*favoritism* = treating some people better than others
-
 > **What does this mean?**
+> Favoritism means: treating some people better than others.
 > Verses 34–35 contain one of the most important sentences in Acts: God doesn’t show favoritism. Origin, nation and skin color make no difference to God.
 > Verse 36: “He is Lord of all”: Jesus doesn’t belong to only one people.
 > Verse 38: A short summary of Jesus’ life: He did good and healed.

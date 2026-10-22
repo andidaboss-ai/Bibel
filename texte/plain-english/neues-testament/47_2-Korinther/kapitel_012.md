@@ -35,9 +35,8 @@ No one should think more of me
 than what he sees in me
 or hears from me.
 
-*Paradise* = here: the place where God is
-
 > **What does this mean?**
+> Paradise means: here: the place where God is.
 > Verses 2–4: Paul is speaking about himself, but in the third person, as if it were about someone else. That way he doesn’t show off.
 > “The third heaven” and “Paradise” mean the place where God is. Paul had a special experience of being close to God. He himself cannot say exactly what happened.
 > Verse 6: Paul doesn’t want to be admired because of special experiences, but only for what people see in him and hear from him.

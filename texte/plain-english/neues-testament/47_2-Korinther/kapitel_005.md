@@ -41,9 +41,8 @@ Then each one will receive
 what he has done in the body,
 whether good or bad.
 
-*groan* = to sigh deeply because something is hard
-
 > **What does this mean?**
+> Groan means: to sigh deeply because something is hard.
 > Verse 1: Paul compares our body with a tent: It is only for a time. Paul was a tentmaker himself. After death God gives a solid house, a new life with him.
 > Verses 2–4: “To be clothed”: Paul doesn’t hope simply to get rid of the body, but that God will give us a new life that overcomes death.
 > Verse 7: “We walk by faith, not by sight.” We don’t see God now. But we trust him.
@@ -120,10 +119,9 @@ who knew no sin
 to be sin for us,
 so that in him we might become the righteousness of God.
 
-*reconcile* = to make peace again after a quarrel
-*ambassador* = someone who speaks for a king or a country
-
 > **What does this mean?**
+> Reconcile means: to make peace again after a quarrel.
+> Ambassador means: someone who speaks for a king or a country.
 > Verse 16: The WEB says “according to the flesh.” That means: by human standards. Paul once judged Jesus only from the outside, as a crucified man. Now he sees him with the eyes of faith.
 > Verse 17: “A new creation”: Through Christ a person can start completely new. The past no longer has to decide who they are.
 > Verses 18–20: Reconciliation is a key word in this chapter. It is not God who has to be reconciled. God himself takes the first step and reconciles the world to himself.

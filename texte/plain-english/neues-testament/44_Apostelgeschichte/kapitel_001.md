@@ -97,9 +97,8 @@ together with the women,
 and with Mary the mother of Jesus,
 and with his brothers.
 
-*Olivet* = the Mount of Olives
-
 > **What does this mean?**
+> Olivet means: the Mount of Olives.
 > Verse 9: In the Bible the cloud is a sign of God’s presence (for example Exodus 13:21). Jesus goes into God’s world. “Heaven” does not mean a place above the clouds, but being near God.
 > Verse 11: The two men in white are probably angels. They say: Don’t just stand around! Jesus will come back.
 > Verse 12: A Sabbath day’s journey was the distance a person was allowed to walk on the Sabbath. That was about half a mile (1 kilometer).
@@ -162,10 +161,9 @@ to go to his own place.”
 The lot fell on Matthias.
 And he was counted with the 11 apostles.
 
-*desolate* = empty and ruined
-*draw lots* = decide something by chance, like throwing dice
-
 > **What does this mean?**
+> Desolate means: empty and ruined.
+> Draw lots means: decide something by chance, like throwing dice.
 > Verse 15: 120 people: The first church was still small.
 > Verses 16–20: Peter speaks about the terrible end of Judas. Matthew 27:3–10 tells it a little differently. Both reports agree: Judas died, and with the money a field was bought that is called the field of blood.
 > Verse 19: The WEB writes Akeldama. Some Bibles have Hakeldamach. The word is Aramaic, the language people spoke in Jerusalem at that time.

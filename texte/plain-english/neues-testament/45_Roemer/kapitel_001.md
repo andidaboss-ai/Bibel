@@ -43,10 +43,9 @@ Grace to you and peace
 from God our Father
 and the Lord Jesus Christ.
 
-*apostle* = someone sent out by Jesus with his message
-*saints* = here: all who belong to God
-
 > **What does this mean?**
+> Apostle means: someone sent out by Jesus with his message.
+> Saints means: here: all who belong to God.
 > In those days a letter began with the name of the sender and a greeting. Paul turns this into a small confession of faith.
 > Verse 1: “Servant” means: Paul belongs completely to Jesus and serves him.
 > Verse 2: The Good News is not something completely new. God already promised it in the Bible of Israel.
@@ -111,9 +110,8 @@ from faith to faith.
 As it is written,
 “But the righteous shall live by faith.”
 
-*righteousness* = being right with God
-
 > **What does this mean?**
+> Righteousness means: being right with God.
 > Verses 16–17 are like a heading over the whole letter.
 > “For the Jew first”: For Paul, Israel has a special place. The Good News comes from Israel and is meant first for Israel.
 > Verse 17 quotes Habakkuk 2:4. “God’s righteousness” means: God makes people righteous. He gives them a good relationship with himself. This happens through faith, that is, through trusting God.
@@ -204,9 +202,8 @@ Yet they not only do the same themselves,
 but also approve of others
 who do them.
 
-*slanderer* = someone who tells lies about others
-
 > **What does this mean?**
+> Slanderer means: someone who tells lies about others.
 > Verses 18–32: Paul describes what the world looks like when people don’t honor God: They make their own gods, and much injustice follows from that. “The anger of God” means: God takes evil seriously. He lets people feel the results of what they do (“God gave them up”).
 > Verse 20: You can recognize God in creation, in nature and its greatness.
 > Verses 29–31: The long list shows: It is about many kinds of wrong, including very everyday ones like envy, strife, gossip and arrogance. No one can leave themselves out.

@@ -103,7 +103,7 @@ They shall be without children.
 > “His blood shall be on himself” means: He himself is to blame for his death. No one else carries the guilt for it.
 > These punishments are shocking to us today. They must be understood from their own time. Back then there were no prisons. The family was the foundation of the whole society. Whoever destroyed it put the whole people in danger.
 > In later Judaism, the teachers set up very strict rules before anyone could be sentenced to death: for example, two eyewitnesses and a warning beforehand. So the death penalty was almost never carried out. A court that sentenced one person to death in 70 years was called a “murderous court.”
-> The New Testament tells how a woman is caught in adultery and brought to Jesus. People want to stone her according to this law. Jesus says: “Is there anyone here who has never sinned? That person may throw the first stone at her.” One after another they go away. And Jesus says to her: “I don’t condemn you either. You may go. From now on, stop sinning” (John 8:1–11).
+> The New Testament tells how a woman is caught in adultery and brought to Jesus. People want to stone her according to this law. Jesus says: “Whoever among you has never sinned may throw the first stone at her.” One after another they go away. And Jesus says to her: “I don’t condemn you either. You may go. From now on, stop sinning” (John 8:1–11).
 > For verse 13, the same is true as for Leviticus 18:22: Jews and Christians understand this passage differently today. But it must never justify hatred or violence against people. The large Jewish and Christian communities today reject carrying out such punishments.
 > “Die without children” is not a punishment that people carry out. It means: God himself will judge this.
 

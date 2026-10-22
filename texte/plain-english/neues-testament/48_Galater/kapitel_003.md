@@ -24,9 +24,8 @@ and does miracles among you.
 Does he do it because of the works of the law,
 or because of hearing with faith?
 
-*bewitched* = put under a magic spell
-
 > **What does this mean?**
+> Bewitched means: put under a magic spell.
 > Verse 1: “Bewitched” is a strong picture. Paul is shocked at how quickly the Galatians let themselves be persuaded otherwise.
 > Verses 2–5: The Galatians received the Holy Spirit when they heard the Good News and believed, not because they had kept commandments. Why should they need something else now?
 > Verse 3: “Finish in the flesh” here means: by your own human strength, for example through circumcision.
@@ -73,15 +72,14 @@ who hangs on a tree.”
 through Christ Jesus,
 so that we might receive the promised Spirit through faith.
 
-*redeem* = to buy free
-
 > **What does this mean?**
+> Redeem means: to buy free.
 > Verse 6 quotes Genesis 15:6. Abraham trusted God long before there was the law at Sinai.
 > Verse 8 quotes Genesis 12:3 (compare 18:18). Abraham was already told: Through him all nations are to be blessed.
 > Verse 10 quotes Deuteronomy 27:26. Verse 11 quotes Habakkuk 2:4. Verse 12 quotes Leviticus 18:5. Verse 13 quotes Deuteronomy 21:23.
 > Verses 10–13 are difficult verses. Paul wants to tell the Galatians: If you rely on the law instead of on Christ, you have to keep everything perfectly. Christ has opened this way for us.
 > Important: Paul does not say that the Jewish people are under a curse. He is speaking to Christians from the nations who thought they also had to bind themselves to the law. These verses were often used against Jews. That was wrong.
-> Verse 13: On the cross Jesus was treated like someone cursed. But precisely in this way he brought the blessing to all people.
+> Verse 13: On the cross Jesus was treated like someone cursed. But in exactly this way he brought the blessing to all people.
 
 ---
 
@@ -103,7 +101,7 @@ That is Christ.
 [17] Now I mean this:
 God confirmed a covenant beforehand in Christ.
 The law,
-which came four hundred thirty years later,
+which came 430 years later,
 cannot cancel this covenant,
 so that the promise would be made useless.
 [18] For if the inheritance came from the law,
@@ -136,9 +134,8 @@ so that we might be made righteous by faith.
 [25] But now that faith has come,
 we are no longer under a tutor.
 
-*go-between* = someone who stands between two sides, a mediator
-
 > **What does this mean?**
+> Go-between means: someone who stands between two sides, a mediator.
 > Verse 16: Paul interprets the word “offspring” in the singular (for example Genesis 12:7) as referring to Christ. This is a way of interpreting that Jewish teachers also used at that time.
 > Verse 17: The promise to Abraham came first. The law came much later, at Sinai. It doesn’t cancel the earlier promise.
 > Verse 21: “Certainly not!” The law is not against God’s promises. Paul does not say that the law is bad.
@@ -161,9 +158,8 @@ For you are all one in Christ Jesus.
 then you are Abraham’s offspring
 and heirs according to the promise.
 
-*heirs* = people who receive an inheritance
-
 > **What does this mean?**
+> Heirs means: people who receive an inheritance.
 > Verse 27: “Put on Christ” is a picture: In baptism a person is completely joined to Christ, like putting on new clothes.
 > Verse 28 is one of the most important verses of the Bible about the equality of people. In Christ, background, social position and sex do not count as a ranking. All have the same dignity.
 > That doesn’t mean that differences disappear: Jews remain Jews, women remain women. But no difference makes one person more valuable before God than another.

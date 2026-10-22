@@ -59,9 +59,8 @@ worthy of God.
 He calls you into his own Kingdom
 and glory.
 
-*flattery* = praise that is not honest, given to win someone over
-
 > **What does this mean?**
+> Flattery means: praise that is not honest, given to win someone over.
 > Verse 2: In Philippi Paul and Silas were beaten and thrown into prison (Acts 16:22–24).
 > Verses 3–6: At that time many traveling preachers and speakers went through the cities to win money and fame. Paul says: We were not like that.
 > Verse 7: Paul compares himself to a mother nursing her baby. And in verse 11 to a father. He cared for the church with a mother’s and a father’s love.

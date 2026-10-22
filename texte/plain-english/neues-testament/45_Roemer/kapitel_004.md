@@ -55,11 +55,10 @@ but also walk in the steps of the faith
 that our father Abraham had
 while he was still uncircumcised.
 
-*accounted* = counted, credited
-*iniquities* = wrong deeds
-*seal* = a mark that confirms something
-
 > **What does this mean?**
+> Accounted means: counted, credited.
+> Iniquities means: wrong deeds.
+> Seal means: a mark that confirms something.
 > Abraham is the forefather of Israel. Paul uses him to show: At the very beginning there was faith, trust in God.
 > Verse 3 quotes Genesis 15:6. Paul quotes this verse several times.
 > Verse 5: “Him who justifies the ungodly”: God accepts people before they are good. That is grace.
@@ -101,9 +100,8 @@ and calls the things
 that are not,
 as though they were.
 
-*heir* = someone who receives an inheritance
-
 > **What does this mean?**
+> Heir means: someone who receives an inheritance.
 > Verse 13: “Heir of the world”: God had promised Abraham that all nations would be blessed through him (Genesis 12:3).
 > Verse 15: The law shows what is wrong. That is why it makes disobedience visible.
 > Verse 16: “The father of us all”: Abraham is the father of the Jews and of those who believe from all nations. Both belong to his offspring.
@@ -144,9 +142,8 @@ from the dead.
 and was raised
 for our justification.
 
-*trespasses* = wrongs, sins
-
 > **What does this mean?**
+> Trespasses means: wrongs, sins.
 > Verse 18: “Against hope, Abraham in hope believed”: He trusts God, although it seems humanly impossible.
 > Verse 18 quotes Genesis 15:5. God had shown Abraham the stars in the sky: You will have that many descendants.
 > Verse 19: Abraham was almost 100,

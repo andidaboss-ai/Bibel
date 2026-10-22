@@ -70,9 +70,8 @@ But go to my brothers and tell them:
 She told them that she had seen the Lord.
 And she told them what he had said to her.
 
-*ascend* = go up
-
 > **What does this mean?**
+> Ascend means: go up.
 > Verses 14–15: At first Mary doesn’t recognize Jesus. The risen Jesus is the same and yet changed.
 > Verse 16: When Jesus calls her by name, she recognizes him. This reminds us of the good shepherd, who calls his own sheep by name (10:3).
 > “Rabboni” is Aramaic and means “my teacher.”
@@ -99,9 +98,8 @@ He said to them, “Receive the Holy Spirit!
 [23] If you forgive anyone’s sins, they are forgiven.
 If you retain anyone’s sins, they are retained.”
 
-*retain* = here: not forgive
-
 > **What does this mean?**
+> Retain means: here: not forgive.
 > Verse 19: “Afraid of the Jews”: The disciples were Jews themselves. They were afraid of the leaders who had handed Jesus over.
 > “Peace be to you” (in Hebrew “shalom”) is the greeting of the risen Jesus. He doesn’t blame the disciples, even though they had run away.
 > Verse 20: The wounds show: The risen Jesus is really the one who was crucified.

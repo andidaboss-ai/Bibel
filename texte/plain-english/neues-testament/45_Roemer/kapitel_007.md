@@ -42,9 +42,8 @@ in which we were held.
 So we serve in the new way of the spirit,
 and not in the old way of the letter.
 
-*adulteress* = a married woman who is unfaithful to her husband
-
 > **What does this mean?**
+> Adulteress means: a married woman who is unfaithful to her husband.
 > Verses 1–3: Paul uses a picture from the marriage law of his time: When one spouse dies, the other is free. Here he is not giving a teaching about marriage and divorce, but a picture.
 > Verse 4: In the same way, the Christians have become free through the death of Christ, to belong to Christ.
 > Verse 5: “In the flesh” means: in the old life, ruled by human weakness.
@@ -85,9 +84,8 @@ so that it might be shown to be sin.
 So through the commandment sin was to become
 extremely sinful.
 
-*covet* = want something that belongs to someone else
-
 > **What does this mean?**
+> Covet means: want something that belongs to someone else.
 > Verse 7 quotes the tenth commandment (Exodus 20:17; Deuteronomy 5:21).
 > Verses 7–11: When people hear that something is forbidden, they sometimes want it even more. In this way sin even misuses the good commandment.
 > Verse 12 is very important: “The law indeed is holy, and the commandment holy, righteous, and good.” Paul doesn’t speak badly about the Torah. The problem is not the law, but the power of sin.
@@ -150,9 +148,8 @@ through Jesus Christ, our Lord!
 So then with the mind I myself serve God’s law,
 but with the flesh, sin’s law.
 
-*wretched* = very unhappy, miserable
-
 > **What does this mean?**
+> Wretched means: very unhappy, miserable.
 > Verses 15–19: Many people know this: You want to do something good and don’t manage it. You want to stop doing something bad and do it anyway. Paul describes this inner conflict very honestly.
 > Scholars think differently about who is speaking as “I” here: Paul himself as a Christian, Paul before his encounter with Jesus, or human beings in general. All three readings are found in the churches.
 > Verse 22: Paul delights in God’s law. The law is good.

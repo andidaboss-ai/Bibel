@@ -24,9 +24,8 @@ I didn’t want to make you sad,
 but I wanted you to know
 how great my love for you is.
 
-*anguish* = great pain and worry
-
 > **What does this mean?**
+> Anguish means: great pain and worry.
 > Paul had visited the church once, and it was a sad visit. Afterwards he wrote a letter “with many tears.” This letter has probably not survived. Some scholars think that parts of it are found in 2 Corinthians 10 to 13.
 > Verse 4: Paul writes strictly, but out of love. He doesn’t want to destroy the relationship, but to heal it.
 
@@ -93,9 +92,8 @@ with sincerity,
 as from God
 and in the sight of God.
 
-*aroma* = a pleasant smell
-
 > **What does this mean?**
+> Aroma means: a pleasant smell.
 > Verses 12–13: Troas was a port city in what is now Turkey. Paul waited there for Titus, who was to bring news from Corinth. Because Titus didn’t come, Paul was very restless. The story continues in chapter 7:5–7.
 > Verse 14: A “victory parade” was a Roman triumphal procession. Incense was often burned during it. Paul uses this picture: God leads him along, and everywhere a pleasant smell spreads: the message of Jesus.
 > Verse 16: The Good News has different effects: Some accept it, others reject it.

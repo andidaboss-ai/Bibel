@@ -20,9 +20,8 @@ I have called them to do a work.”
 [3] So they fasted and prayed.
 They laid their hands on Barnabas and Saul and sent them on their way.
 
-*tetrarch* = a ruler over part of a country
-
 > **What does this mean?**
+> Tetrarch means: a ruler over part of a country.
 > Verse 1: The leadership of the church in Antioch is very mixed. Niger is Latin and means “black.” Simeon perhaps came from Africa, like Lucius from Cyrene in today’s Libya. Manaen came from the circle of the royal court.
 > “Herod the tetrarch” is Herod Antipas, who had John the Baptizer killed.
 > Verses 2–3: The church prays and fasts. Then it sends the two out. Here Paul’s first great journey begins.
@@ -62,9 +61,8 @@ He went around looking for someone to lead him by the hand.
 Then he believed.
 He was amazed at the teaching about the Lord.
 
-*proconsul* = a Roman governor of a province
-
 > **What does this mean?**
+> Proconsul means: a Roman governor of a province.
 > Verse 4: Cyprus was Barnabas’ home (4:36).
 > Verse 5: “John” is John Mark (12:25).
 > Verse 7: Sergius Paulus was the Roman governor of Cyprus, a proconsul.
@@ -152,10 +150,9 @@ Wonder, and then die!
 I am doing a work in your days.
 You would never believe it, even if someone told you about it.’”
 
-*justified* = made right with God, set free from guilt
-*scoffers* = people who mock
-
 > **What does this mean?**
+> Justified means: made right with God, set free from guilt.
+> Scoffers means: people who mock.
 > Verse 13: The text doesn’t say why John Mark goes back. Later there is a dispute about it (15:36–38).
 > Verse 14: This Antioch is in Pisidia, in today’s Turkey. It is not the Antioch in Syria.
 > Verse 15: This is how a service in the synagogue went: a reading from the Torah and the Prophets, then an explanation. Guests were allowed to speak. It is still like this in many synagogues today.

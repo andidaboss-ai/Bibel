@@ -78,9 +78,8 @@ I say nothing except what the prophets and Moses said would happen:
 [23] The Christ would suffer.
 By rising from the dead, he would be the first to bring the message of light to these people and to the Gentiles.”
 
-*goad* = a pointed stick used to drive oxen
-
 > **What does this mean?**
+> Goad means: a pointed stick used to drive oxen.
 > Verses 10–11: Paul tells honestly and with shame how much he persecuted the Christians.
 > Verse 14: The voice says: “It is hard for you to kick against the goads.” That was a saying. An ox that kicks against the pointed stick only hurts itself. It means: There is no point in fighting against God.
 > Verses 17–18: Paul is to “open their eyes.” He himself was blind and was given his sight again (chapter 9).

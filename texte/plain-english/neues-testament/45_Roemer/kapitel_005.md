@@ -34,10 +34,9 @@ So we can be even more sure that the life of his Son will save us.
 We also rejoice in God through our Lord Jesus Christ.
 Through him we have now been reconciled with God.
 
-*perseverance* = keeping going in hard times
-*reconciled* = made friends again after being apart
-
 > **What does this mean?**
+> Perseverance means: keeping going in hard times.
+> Reconciled means: made friends again after being apart.
 > Verse 1: “Peace with God”: The relationship with God is whole again. We no longer need to be afraid of God.
 > Verses 3–5: Suffering is not good. But Paul says: Even in hard times something can grow: perseverance, proven character, hope. This doesn’t mean that you should look for suffering. Whoever suffers may lament and get help.
 > Verse 5: God’s love is like water that flows into our hearts.
@@ -79,10 +78,9 @@ But where sin grew, grace grew even more.
 In the same way grace now rules through righteousness.
 It brings eternal life through Jesus Christ our Lord.
 
-*foreshadowing* = a picture or sign of something that comes later
-*condemnation* = being judged guilty
-
 > **What does this mean?**
+> Foreshadowing means: a picture or sign of something that comes later.
+> Condemnation means: being judged guilty.
 > Verse 12: Paul recalls Adam, the first human being (Genesis 3). With him sin entered the world. From this verse Christians later developed the teaching of *original sin*. The churches understand it in different ways. It means: All people are born into a world in which there is guilt and harm.
 > Verse 14: Adam is a “foreshadowing” of Christ: As Adam stands for all people, so does Christ. But Christ brings life instead of death.
 > Verses 15–19: Paul compares again and again: what came through Adam, and what comes through Christ. Grace is always greater.

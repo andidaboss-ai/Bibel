@@ -52,7 +52,8 @@ God deals with you as with his children.
 For what child is there whom his father doesn’t discipline?
 [8] But if you are without discipline,
 which all have received,
-then you are not true children.
+then you are illegitimate
+and not true children.
 [9] Besides, we had our earthly fathers
 who disciplined us,
 and we respected them.
@@ -76,7 +77,7 @@ but rather healed.
 > **What does this mean?**
 > Verses 5–6 quote Proverbs 3:11–12.
 > Verses 5–11: The author compares hard experiences in life with the training by a father. At that time strictness in raising children was normal.
-> Very important: These verses give no one the right to hit, humiliate or mistreat children. Children have a right to be raised without violence. Help for children and parents: In the US: Childhelp 1-800-422-4453. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Very important: These verses give no one the right to hit, humiliate or mistreat children. Children have a right to be raised without violence. Help for children and parents: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453.
 > Important: Not every suffering is a punishment or training from God. Sickness, misfortune or violence are not a punishment from God. The letter wants to give persecuted Christians courage: Hard times too can make us more mature, and God is with us in them.
 > Verses 12–13 take up Isaiah 35:3 and Proverbs 4:26: Help one another to get strength again.
 
@@ -99,8 +100,8 @@ who sold his birthright for one meal.
 [17] For you know:
 When he later wanted to inherit the blessing,
 he was rejected.
-He found no way to change things,
-though he sought it with tears.
+He found no chance for a change of mind,
+though he looked for it eagerly with tears.
 
 > **What does this mean?**
 > Verse 14: “Peace with all people”: not only with Christians, but with everyone.
@@ -136,8 +137,8 @@ to the city of the living God,
 the heavenly Jerusalem,
 to countless angels,
 [23] to the festal gathering
-and the assembly of the firstborn
-who are written in heaven,
+and the church of the firstborn
+whose names are written in heaven,
 to God,
 the Judge of all,
 to the spirits of righteous people made perfect,

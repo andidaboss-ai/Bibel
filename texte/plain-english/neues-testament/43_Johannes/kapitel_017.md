@@ -72,9 +72,8 @@ In the same way, I have sent them into the world.
 [19] I sanctify myself for them,
 so that they also will be sanctified in truth.
 
-*sanctify* = make holy, set apart for God
-
 > **What does this mean?**
+> Sanctify means: make holy, set apart for God.
 > Verse 9: “I don’t pray for the world”: Here Jesus prays especially for his disciples. That does not mean that he doesn’t care about the world. God loves the world (3:16), and the disciples are sent into the world (verse 18).
 > Verse 11: “Then they will be one”: Jesus prays for the unity of his disciples.
 > Verse 12: “The son of destruction” means Judas.

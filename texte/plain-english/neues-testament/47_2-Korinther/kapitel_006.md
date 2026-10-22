@@ -52,9 +52,8 @@ yet making many rich,
 as having nothing
 and yet possessing all things.
 
-*salvation* = being saved, rescued by God
-
 > **What does this mean?**
+> Salvation means: being saved, rescued by God.
 > Verse 2 quotes Isaiah 49:8. Paul says: The time the prophet spoke about has come now. Now is the time to accept God’s grace.
 > Verses 4–10: Paul describes his life as an apostle: full of hardship, but carried by God. He shows opposites: What looks like defeat from the outside is in truth riches.
 > Verse 7: “The armor of righteousness” is a picture. It means truth and righteousness, not real weapons.
@@ -100,9 +99,8 @@ and I will receive you.
 You will be my sons and daughters,’
 says the Lord Almighty.”
 
-*yoke* = a wooden bar that joins two animals so they can pull together
-
 > **What does this mean?**
+> Yoke means: a wooden bar that joins two animals so they can pull together.
 > Verse 14: “Unequally yoked” is a picture from farming: You didn’t put two very different animals under the same yoke (compare Deuteronomy 22:10). Paul means: Christians should not get so involved with idol worship that their faith suffers.
 > Important: In 1 Corinthians 7:12–14 Paul clearly said that Christians should stay in a marriage with a partner who is not a Christian. So this verse is not a command to separate from people of other faiths. Nor is it permission to despise people of other faiths.
 > Verse 15: “Belial” is a Hebrew name for Satan, the power of evil.

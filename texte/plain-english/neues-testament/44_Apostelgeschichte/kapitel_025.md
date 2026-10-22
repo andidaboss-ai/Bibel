@@ -63,9 +63,8 @@ and answered,
 “You have appealed to Caesar.
 To Caesar you shall go.”
 
-*appeal* = ask a higher court to decide
-
 > **What does this mean?**
+> Appeal means: ask a higher court to decide.
 > Festus was the Roman governor of Judea from about AD 59/60.
 > Verses 2–3: Some leading men in Jerusalem are again planning a murder. “The Jews” here means this small group of powerful men, not the people.
 > Verse 8: Paul says: I have done nothing against the Jewish law or the temple. He remains a faithful Jew.
@@ -163,9 +162,8 @@ to write.
 to send a prisoner
 without stating the charges against him.”
 
-*pomp* = a grand show of wealth and power
-
 > **What does this mean?**
+> Pomp means: a grand show of wealth and power.
 > Verse 24: “All the multitude of the Jews”: Festus is exaggerating. He means the accusers and their followers.
 > Verse 25: Again a Roman official says: Paul is innocent.
 > Verse 26: “My lord” is the emperor in Rome, at that time Nero.

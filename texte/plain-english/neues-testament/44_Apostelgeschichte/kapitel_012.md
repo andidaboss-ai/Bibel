@@ -18,9 +18,8 @@ Herod planned to bring Peter out to the people after the Passover.
 [5] So Peter was kept in prison.
 But the church kept praying hard to God for him.
 
-*unleavened bread* = bread made without yeast, eaten at Passover
-
 > **What does this mean?**
+> Unleavened bread means: bread made without yeast, eaten at Passover.
 > Verse 1: This Herod is Herod Agrippa I, a grandson of Herod the Great. He was king over Judea from AD 41 to 44. He worked closely with the Romans.
 > Verse 2: James is one of the Twelve, a son of Zebedee. He is the first apostle to be killed for his faith.
 > Verse 3: “The Jews” here means people in Jerusalem who were against the Christians, probably mainly influential circles. Not all Jews. After all, the Christians in Jerusalem were Jews themselves.

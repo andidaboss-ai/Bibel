@@ -156,9 +156,8 @@ They were glad that they had been counted worthy to suffer shame for the name of
 [42] Every day, in the temple and at home, they kept on teaching.
 They never stopped telling the good news of Jesus, the Christ.
 
-*census* = counting of the people
-
 > **What does this mean?**
+> Census means: counting of the people.
 > Verse 28: “Bring this man’s blood on us” means: You want to blame us for his death. The leaders are defending themselves against this accusation.
 > Verse 29: “We must obey God rather than men.” Later this sentence gave many people courage to resist injustice and dictatorships.
 > Verse 30: “Hanging him on a tree” means the cross (compare Deuteronomy 21:22–23). Here Peter is speaking to the council, not to the Jewish people.

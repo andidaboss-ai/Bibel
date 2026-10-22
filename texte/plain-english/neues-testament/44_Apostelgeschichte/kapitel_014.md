@@ -103,9 +103,8 @@ he got up
 and went into the city.
 On the next day he went with Barnabas to Derbe.
 
-*garlands* = wreaths of flowers
-
 > **What does this mean?**
+> Garlands means: wreaths of flowers.
 > Verses 8–10: The healing reminds us of the healing of the lame man by Peter (3:1–10).
 > Verse 12: The WEB uses the Roman names Jupiter and Mercury. In Greek they are called Zeus and Hermes. Hermes was considered the messenger of the gods; that is why they took Paul, the speaker, for him.
 > Verse 14: Tearing one’s clothes was a sign of horror.

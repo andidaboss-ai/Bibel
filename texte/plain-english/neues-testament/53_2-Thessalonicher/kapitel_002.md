@@ -57,10 +57,9 @@ so that they believe the lie.
 who didn’t believe the truth,
 but took pleasure in unrighteousness.
 
-*rebellion* = turning away from God
-*delusion* = a false belief that someone holds on to
-
 > **What does this mean?**
+> Rebellion means: turning away from God.
+> Delusion means: a false belief that someone holds on to.
 > Verse 2: Some in the church claimed that *the day of the Lord* had already come. Perhaps there was even a forged letter in Paul’s name. That unsettled people and made them afraid.
 > Verse 3: The letter says: Stay calm. Some things still have to happen first. The WEB says “man of sin.” Some old manuscripts say *man of lawlessness*.
 > Verse 4: The “man of sin” is a figure who puts himself in God’s place. This recalls rulers like the Syrian king Antiochus IV. In 167 BC he had defiled the temple in Jerusalem (compare Daniel 11:36). The Roman emperor Caligula also wanted to have his statue set up in the temple.
@@ -100,9 +99,8 @@ and good hope through grace,
 and strengthen you
 in every good work and word.
 
-*sanctification* = being made holy
-
 > **What does this mean?**
+> Sanctification means: being made holy.
 > Verse 13: After the serious words comes comfort: God has loved and chosen you. You don’t need to be afraid.
 > Verse 15: “Traditions” are the teachings that Paul passed on to the church. Some were written down, others told by word of mouth.
 > Different churches understand this verse differently: The Catholic and Orthodox churches also see in it a basis for church tradition alongside the Bible. Protestant churches stress that the Bible is the standard for all tradition.

@@ -62,9 +62,8 @@ Every tongue will confess to God.’ ”
 [12] So then each one of us
 will give account of himself to God.
 
-*despise* = look down on someone
-
 > **What does this mean?**
+> Despise means: look down on someone.
 > There was conflict in the church in Rome. Some Christians didn’t eat meat, for example because they worried it might have been offered to idols or not prepared according to the Jewish food laws. Others ate everything. Some kept certain feast days, others didn’t.
 > “Weak” and “strong”: Paul calls the careful ones “weak in faith.” This is not an insult. He asks all sides to respect one another.
 > Verse 3: “God has accepted him.” Whoever God accepts, we should accept too.
@@ -125,9 +124,8 @@ And whatever
 is not done in faith
 is sin.
 
-*stumbling block* = something that makes someone trip and fall
-
 > **What does this mean?**
+> Stumbling block means: something that makes someone trip and fall.
 > Verse 14: “Nothing is unclean of itself”: For Christians from the nations, the Jewish food laws are not an obligation. But Paul respects those who keep them. For Jews, the food laws are still an important part of their life with God today.
 > Verses 15 and 21: Love is more important than your own rights. Whoever is free should be considerate of others.
 > Verse 17: God’s Kingdom is not about food rules, but about righteousness, peace and joy.

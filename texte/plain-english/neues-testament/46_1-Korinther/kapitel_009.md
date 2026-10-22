@@ -67,10 +67,9 @@ that those
 who proclaim the Good News
 should live from the Good News.
 
-*seal* = a stamp that proves something is real
-*muzzle* = to tie an animal’s mouth shut
-
 > **What does this mean?**
+> Seal means: a stamp that proves something is real.
+> Muzzle means: to tie an animal’s mouth shut.
 > Verse 1: Some in Corinth doubted whether Paul was a real apostle. Paul says: I have seen the risen Jesus (Acts 9).
 > Verse 5: The other apostles, the brothers of Jesus and Peter (“Cephas”) were married. Their wives traveled with them.
 > Verse 5: “The brothers of the Lord”: Christians understand this in different ways: as Jesus’ own brothers, as half-brothers or as close relatives.

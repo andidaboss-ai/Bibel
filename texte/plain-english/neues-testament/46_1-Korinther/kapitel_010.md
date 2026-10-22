@@ -54,10 +54,9 @@ you to be tempted beyond what you are able.
 But with the temptation he will also make the way of escape,
 so that you may be able to endure it.
 
-*idolater* = someone who worships idols
-*temptation* = something that pulls you toward doing wrong
-
 > **What does this mean?**
+> Idolater means: someone who worships idols.
+> Temptation means: something that pulls you toward doing wrong.
 > Verses 1–4: Paul recalls Israel’s exodus from Egypt (Exodus 13–17). The cloud led the people. They passed through the sea. God gave them manna to eat and water from the rock. Paul sees in this pictures of baptism and the Lord’s Supper.
 > Verse 4: “The rock was Christ”: Paul says: Christ was already with his people back then. Jewish interpreters told a story that the rock went along with the people.
 > Verse 7 quotes Exodus 32:6 (the golden calf). Verse 8 recalls Numbers 25:1–9. There 24,000 dead are mentioned. Paul says 23,000. Verse 9 recalls Numbers 21:4–9. Verse 10 recalls Numbers 14 and 16.

@@ -123,9 +123,8 @@ now preaches the faith
 that he once tried to destroy.”
 [24] And they praised God because of me.
 
-*revelation* = something God shows
-
 > **What does this mean?**
+> Revelation means: something God shows.
 > Verses 13–14: Paul was a very zealous Jew. He persecuted the Christians because he thought he had to defend God’s honor.
 > Verses 15–16: Paul describes his calling with words that recall the calling of the prophets (for example Jeremiah 1:5 and Isaiah 49:1). He doesn’t see himself as someone who changed his religion, but as someone whom God gave the task of telling the nations about Jesus.
 > Verse 17: “Arabia” probably means the area east and south of Damascus, the kingdom of the Nabataeans.

@@ -94,9 +94,8 @@ come into my house
 and stay.”
 And she persuaded us.
 
-*colony* = here: a city where many Roman citizens lived, with Roman rights
-
 > **What does this mean?**
+> Colony means: here: a city where many Roman citizens lived, with Roman rights.
 > Verse 12: Philippi was a Roman colony. Many former Roman soldiers lived there. Later Paul wrote a letter to the church there, the letter to the Philippians.
 > Verse 13: There was probably no synagogue there. Jewish and God-fearing women met by the river to pray.
 > Verse 14: Lydia is the first person in Europe of whom the Bible tells that she believed in Jesus. She was an independent businesswoman. Purple was an expensive dye for cloth.
@@ -145,10 +144,9 @@ to keep them safely.
 he threw them into the inner prison
 and fastened their feet in the stocks.
 
-*magistrates* = the city judges
-*stocks* = a wooden frame that holds a prisoner’s feet tight
-
 > **What does this mean?**
+> Magistrates means: the city judges.
+> Stocks means: a wooden frame that holds a prisoner’s feet tight.
 > Verse 16: The young woman was a slave. Other people made money from her. That is exploitation.
 > Verse 18: Paul sets her free. After that she is “worthless” to her masters. Her masters only care about their money, not about the person.
 > Verses 20–21: Here hostility toward Jews among the Romans shows itself: “Being Jews” is used as an accusation. The Bible tells this as an injustice.

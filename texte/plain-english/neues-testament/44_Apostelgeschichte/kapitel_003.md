@@ -32,9 +32,8 @@ He walked and jumped and praised God.
 He was the man who used to sit and beg at the Beautiful Gate of the temple.
 They were filled with wonder and amazement at what had happened to him.
 
-*lame* = not able to walk
-
 > **What does this mean?**
+> Lame means: not able to walk.
 > Verse 1: Peter and John keep praying in the temple, like devout Jews. The ninth hour is about three in the afternoon, the time of the afternoon prayer.
 > Verse 2: At that time people with disabilities often had to live from gifts. They sat at the gates because many people passed by there.
 > Verses 4–6: Peter looks at the man. He sees him as a person. He has no money, but he gives him something greater.
@@ -89,10 +88,9 @@ He said to Abraham, ‘All the families of the earth will be blessed through you
 He sent him to you first, to bless you.
 He blesses you by turning each of you away from your evil ways.”
 
-*ignorance* = not knowing
-*blot out* = wipe away completely
-
 > **What does this mean?**
+> Ignorance means: not knowing.
+> Blot out means: wipe away completely.
 > Verse 11: Solomon’s porch was a large hall with columns at the edge of the temple square.
 > Verse 12: Peter says: We didn’t do this. He takes no honor for himself.
 > Verse 13: “The God of Abraham, Isaac, and Jacob”: Peter is speaking of the God of Israel. It is the same God in whom Jews and Christians believe.

@@ -106,9 +106,8 @@ that was entrusted to you,
 through the Holy Spirit
 who lives in us.
 
-*immortality* = life that never ends
-
 > **What does this mean?**
+> Immortality means: life that never ends.
 > Verse 8: At that time being a prisoner was a disgrace. Many were ashamed to be connected with Paul. Paul asks Timothy: Stand by me and by the Good News.
 > Verse 9: Salvation is God’s gift, not something we earn.
 > Verse 10: “He abolished death”: Death no longer has the last word.

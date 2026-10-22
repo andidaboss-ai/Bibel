@@ -34,9 +34,8 @@ He has also shone in our hearts,
 so that the knowledge of the glory of God
 shines out in the face of Jesus Christ.
 
-*ministry* = service for God
-
 > **What does this mean?**
+> Ministry means: service for God.
 > Verse 2: Paul works openly and honestly. He has nothing to hide.
 > Verse 4: “The god of this world” means Satan, the power of evil. Paul says: When people don’t understand the Good News, it is not God’s fault.
 > Verse 5: Paul doesn’t want to make himself great. He is a servant.

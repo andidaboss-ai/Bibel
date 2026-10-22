@@ -146,9 +146,8 @@ should send relief to the brothers who lived in Judea.
 They sent the help to the elders
 by the hands of Barnabas and Saul.
 
-*relief* = help for people in need
-
 > **What does this mean?**
+> Relief means: help for people in need.
 > Verse 28: Claudius was Roman emperor from AD 41 to 54. In his time there were several severe famines in different regions. “All over the world” here means the Roman Empire.
 > Verse 29: The young church in Antioch helps the church in Jerusalem. Each gives as much as he can.
 > Verse 30: “The elders” were the leaders of the church in Jerusalem.

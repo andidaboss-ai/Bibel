@@ -25,9 +25,8 @@ what is good,
 well-pleasing,
 and perfect.
 
-*conformed* = made the same as everyone else
-
 > **What does this mean?**
+> Conformed means: made the same as everyone else.
 > Verse 1: In the past people brought animals to God as sacrifices. Paul says: Give yourselves to God, with your whole life. “Living” means: not dying, but living in a way that pleases God. It is not about harming yourself.
 > Verse 1: “Bodies” here means the whole person, with everything they do in everyday life.
 > Verse 1: “Spiritual service”: The Greek word can also mean *reasonable* or *fitting*. It means: A life for God is the true worship.
@@ -68,10 +67,9 @@ let them do it with diligence.
 Whoever shows mercy,
 let them do it with cheerfulness.
 
-*members* = here: parts of the body
-*diligence* = careful, eager effort
-
 > **What does this mean?**
+> Members means: here: parts of the body.
+> Diligence means: careful, eager effort.
 > Verses 4–5: Paul compares the church to a body. Every part is important, even if it has a different task. A similar picture is found in 1 Corinthians 12.
 > Verses 6–8: Every person has gifts from God. No one is unimportant. The gifts are different, but all serve the community.
 > Verse 6: “Prophecy” here doesn’t mean fortune-telling, but: encouraging, warning and comforting on God’s behalf.
@@ -133,10 +131,9 @@ you will heap coals of fire on his head.”
 [21] Don’t be overcome by evil,
 but overcome evil with good.
 
-*hypocrisy* = pretending to be better than you are
-*hospitality* = welcoming guests kindly
-
 > **What does this mean?**
+> Hypocrisy means: pretending to be better than you are.
+> Hospitality means: welcoming guests kindly.
 > Verse 9: “Without hypocrisy” means: real, not just acted.
 > Verse 13: “The saints” are the Christians, for example poor churches. Hospitality was very important for the first Christians.
 > Verse 14: Christians should wish good even for their persecutors. Jesus also taught this (Matthew 5:44).

@@ -70,7 +70,7 @@ He went out
 without knowing
 where he was going.
 [9] By faith he lived as a foreigner in the land of promise,
-as in a foreign land.
+as in a land that was not his own.
 He lived in tents
 with Isaac and Jacob,
 who were heirs with him of the same promise.

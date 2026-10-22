@@ -46,9 +46,8 @@ through our faith in him.
 Don’t lose heart because of my troubles for you.
 They are your glory.
 
-*mystery* = here: God’s plan that was hidden for a long time and is now revealed
-
 > **What does this mean?**
+> Mystery means: here: God’s plan that was hidden for a long time and is now revealed.
 > Verse 1: The letter was written in prison. Paul was often in prison because he preached the Good News.
 > Verse 6: The “mystery” is: The people from the nations also belong to God’s people. They are “fellow heirs,” they inherit together with Israel. They stand beside Israel, not in its place.
 > Verse 8: “To me, the very least of all saints”: Paul sees himself humbly. He knows that he once persecuted Christians.

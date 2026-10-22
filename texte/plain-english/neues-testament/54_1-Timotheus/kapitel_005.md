@@ -76,9 +76,8 @@ The church should not be burdened,
 so that it can help those
 who are truly widows.
 
-*pledge* = a solemn promise
-
 > **What does this mean?**
+> Pledge means: a solemn promise.
 > Verse 3: Widows had a very hard life at that time. There was no pension and no social security. Without a husband or children they were often poor. The church took care of them. That was an early social welfare system.
 > Verses 4 and 8: Children and grandchildren are to take care of their old parents. That is a command of love and recalls the commandment *Honor your father and mother*.
 > Verses 9–10: Apparently there was a “list of widows.” These widows were provided for by the church and probably also had tasks: praying, welcoming guests, helping the sick.
@@ -127,10 +126,9 @@ And those
 that are not
 can’t stay hidden either.
 
-*muzzle* = to tie an animal’s mouth shut
-*treads out the grain* = walks on grain to separate the kernels from the stalks
-
 > **What does this mean?**
+> Muzzle means: to tie an animal’s mouth shut.
+> Treads out the grain means: walks on grain to separate the kernels from the stalks.
 > Verse 17: “Double honor” probably also means pay. Whoever works for the church should be able to live from it.
 > Verse 18: The first sentence quotes Deuteronomy 25:4 (compare also 1 Corinthians 9:9). The second sentence is a saying of Jesus (Luke 10:7).
 > Verse 19: Two or three witnesses: This rule comes from Deuteronomy 19:15. It protects against false accusations.

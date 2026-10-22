@@ -175,9 +175,8 @@ in order to arrest me.
 [33] But I was let down in a basket through a window in the wall.
 So I escaped his hands.
 
-*lashes* = blows with a whip
-
 > **What does this mean?**
+> Lashes means: blows with a whip.
 > Verse 22: Paul stresses: He is a Jew, an Israelite, a descendant of Abraham. He is proud of it.
 > Verse 24: The “40 lashes minus one” were a punishment of the synagogue courts (compare Deuteronomy 25:3). The fact that Paul accepted this punishment shows: He still saw himself as a member of the Jewish community. This verse is not a judgment on the Jewish people.
 > Verse 25: “Beaten with rods” was a Roman punishment (compare Acts 16:22–23). Acts 14:19 tells about the stoning.

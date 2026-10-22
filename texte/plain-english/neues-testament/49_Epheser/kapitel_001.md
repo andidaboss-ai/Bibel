@@ -76,9 +76,8 @@ were sealed with the promised Holy Spirit.
 until God fully sets free his own possession,
 to the praise of his glory.
 
-*pledge* = something given as a guarantee that a promise will be kept
-
 > **What does this mean?**
+> Pledge means: something given as a guarantee that a promise will be kept.
 > In Greek, verses 3–14 are one single very long sentence, a great song of praise to God. We have divided it into short sentences.
 > Verses 4–5: “Chose” and “decided beforehand”: God’s love for us was already there before we lived. Christians have thought much about these words and thought differently about them. Here they are mainly meant to comfort: God wanted us.
 > Verse 10: God wants to bring together again in Christ everything that is broken and separated.
@@ -119,8 +118,8 @@ that is named,
 not only in this age,
 but also in the age to come.
 [22] He put all things under his feet.
-And he gave him to the assembly as head over all things.
-[23] The assembly is his body,
+And he gave him to the church as head over all things.
+[23] The church is his body,
 the fullness of him
 who fills all in all.
 

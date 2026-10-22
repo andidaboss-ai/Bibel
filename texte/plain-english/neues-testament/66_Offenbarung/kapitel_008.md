@@ -60,7 +60,7 @@ and the same happened to the night.
 > At that time trumpets were signal horns. They announced something important: a war, a feast or the coming of a king.
 > The plagues recall the plagues in Egypt (Exodus 7–10): hail, water turning into blood, darkness. Back then, God wanted to free his people. So it is here, too: God frees his people from everything that oppresses them.
 > “One third”: Not everything is destroyed. The plagues are warnings. God still gives people time to repent (compare 9:20–21).
-> Verse 11: Wormwood is a very bitter plant. In the Bible it is a picture for bitterness and suffering (for example Jeremiah 9:14, in some Bibles 9:15).
+> Verse 11: Wormwood is a very bitter plant. In the Bible it is a picture for bitterness and suffering (for example Jeremiah 9:15, in some Bibles 9:14).
 > These pictures are not a prediction of particular disasters today. Some people have equated them with disasters in our time. That is speculation and only makes people afraid.
 
 ---

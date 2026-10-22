@@ -99,7 +99,7 @@ Hide us from the anger of the Lamb.
 Who is able to stand?”
 
 > **What does this mean?**
-> Verses 12–14: These pictures come from the prophets (for example Isaiah 34:4 and Joel 3:4, in some Bibles Joel 2:31). They say: When God comes, everything that seemed firm is shaken. They are pictures, not a scientific description.
+> Verses 12–14: These pictures come from the prophets (for example Isaiah 34:4 and Joel 2:31, in some Bibles Joel 3:4). They say: When God comes, everything that seemed firm is shaken. They are pictures, not a scientific description.
 > Verse 15: All the powerful people of the world have no more power before God. Before God all are equal, kings and slaves.
 > Verse 16 recalls Hosea 10:8.
 > “The anger of the Lamb” is a surprising picture. God’s anger is not a fit of rage. It is God’s No to injustice and violence.

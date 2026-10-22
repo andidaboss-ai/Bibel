@@ -18,9 +18,8 @@ who benefit from their service
 are believers and beloved.
 Teach and urge these things.
 
-*yoke* = a wooden bar put on animals so they can pull loads; here a picture for slavery
-
 > **What does this mean?**
+> Yoke means: a wooden bar put on animals so they can pull loads; here a picture for slavery.
 > At the time of the letter there were very many slaves in the Roman Empire. There were slaves and masters in the churches too.
 > Verse 1: The letter wanted to avoid the young church being seen as a danger to public order and being persecuted.
 > Verse 2: Even when slave and master were both Christians and so “brothers,” slavery continued. That is hard to understand. But the word “brothers” already showed: Before God they are equal.
@@ -68,10 +67,9 @@ Some, in their greed for it,
 have been led astray from the faith.
 And they have pierced themselves with many sorrows.
 
-*contentment* = being satisfied with what you have
-*snare* = a trap
-
 > **What does this mean?**
+> Contentment means: being satisfied with what you have.
+> Snare means: a trap.
 > Verse 5: There were teachers who wanted to make money from the faith. That exists today too. Whoever promises that God will make you rich if you donate money is misusing the faith.
 > Verses 6–8: Contentment is a great treasure. Whoever has enough to live on is rich.
 > Verse 7: A thought that recalls Job 1:21: We come into the world with nothing and leave with nothing.

@@ -35,11 +35,10 @@ of which we accuse him.”
 and claimed
 that these things were so.
 
-*sect* = a group with its own teaching
-*profane* = make something holy unclean
-
 > **What does this mean?**
-> About the numbering: In the WEB this chapter has 26 verses. Some Bibles have 27. There, verses 6–8 have a few more words: The accusers say they wanted to judge Paul by their law, but Lysias took him away from them. These words are missing in the oldest manuscripts. That is why the WEB leaves them out. Our verses 7–26 are verses 8–27 in Some Bibles.
+> Sect means: a group with its own teaching.
+> Profane means: make something holy unclean.
+> About the numbering: In the WEB this chapter has 26 verses. Some Bibles have 27. There, verses 6–8 have a few more words: The accusers say they wanted to judge Paul by their law, but Lysias took him away from them. These words are missing in the oldest manuscripts. That is why the WEB leaves them out. Our verses 7–26 are verses 8–27 in some Bibles.
 > Verses 2–4: Tertullus flatters the governor. In reality Felix was known for his harshness.
 > Verse 5: “Nazarenes” was a name for the Christians, after Jesus of Nazareth.
 > Verse 8: “The Jews” here means the accusers from Jerusalem: the high priest and some elders.
@@ -66,7 +65,7 @@ or in the city.
 [12] Nor can they prove to you
 the things of which they now accuse me.
 [13] But this I confess to you:
-I serve the God of our fathers
+I serve the God of our ancestors
 according to the Way,
 which they call a sect.
 I believe all things
@@ -97,10 +96,10 @@ when I stood before the council.
 that I cried out
 as I stood among them:
 ‘Concerning the resurrection of the dead
-I am being judged before you today!’ ”
+I am being judged before you today!’”
 
 > **What does this mean?**
-> Verse 13: Paul says: I serve the God of our fathers. I believe everything that is written in the law and in the prophets. He does not see his faith in Jesus as falling away from Judaism, but as part of it.
+> Verse 13: Paul says: I serve the God of our ancestors. I believe everything that is written in the law and in the prophets. He does not see his faith in Jesus as falling away from Judaism, but as part of it.
 > Verse 14: Paul shares the hope of the resurrection with many Jews, especially with the Pharisees.
 > Verse 16: Paul brought a collection of money for the poor in Jerusalem. He wanted to help his people.
 > Verse 17: “Some Jews from Asia”: This is about a few particular people. They didn’t even come as witnesses.
@@ -143,9 +142,8 @@ Felix was followed in office by Porcius Festus.
 Felix wanted to do the Jews a favor
 and left Paul in chains.
 
-*custody* = being held as a prisoner
-
 > **What does this mean?**
+> Custody means: being held as a prisoner.
 > Verse 22: Paul is allowed to have visitors. Friends take care of him. Prisoners depend on help from outside.
 > Verse 23: Drusilla was a daughter of King Herod Agrippa I (chapter 12).
 > Verse 24: Paul speaks about righteousness and self-control. This hits Felix, who was known for injustice.

@@ -29,9 +29,8 @@ for the destruction of the flesh,
 so that the spirit may be saved
 in the day of the Lord Jesus.
 
-*Gentiles* = people who are not Jews
-
 > **What does this mean?**
+> Gentiles means: people who are not Jews.
 > Verse 1: “One has his father’s wife.” This probably means his stepmother. Such a relationship was forbidden in the law of Israel (Leviticus 18:8) and also under Roman law.
 > Verse 2: Paul scolds not only the man, but above all the church. It was proud of its “freedom” and looked away.
 > Verse 5: “Hand such a one over to Satan” is a difficult phrase. It probably means: The man is to be excluded from the fellowship of the church. Outside, he should notice what he has lost. The goal is not his destruction, but his rescue: “so that the spirit may be saved.”
@@ -56,9 +55,8 @@ nor with the yeast of malice and wickedness,
 but with the unleavened bread
 of sincerity and truth.
 
-*unleavened* = without yeast
-
 > **What does this mean?**
+> Unleavened means: without yeast.
 > Before the Passover feast, Jewish families still remove all yeast from the house today. Then they eat unleavened bread (Exodus 12:15–20).
 > Paul uses this picture: Just as a little yeast goes through the whole dough, a bad example can change the whole church.
 > Verse 7: Paul compares Jesus with the Passover lamb. Jesus died at the time of the Passover feast.
@@ -93,10 +91,9 @@ who are inside?
 [13] But those who are outside, God judges.
 “Put away the wicked man from among yourselves.”
 
-*idol* = a statue or image that people worship as a god
-*slander* = to tell lies about others
-
 > **What does this mean?**
+> Idol means: a statue or image that people worship as a god.
+> Slander means: to tell lies about others.
 > Verse 9: Paul had already written an earlier letter to the Corinthians. This letter has not survived.
 > Verses 10–12: Christians should not cut themselves off from the world. They should not judge people outside the church. But inside the church they should look out for one another.
 > Verse 13 takes up a saying that comes often in Deuteronomy (for example Deuteronomy 17:7 and 22:24).

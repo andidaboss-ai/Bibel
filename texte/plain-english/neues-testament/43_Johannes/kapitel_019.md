@@ -55,11 +55,10 @@ The chief priests answered, “We have no king but Caesar!”
 [16] So Pilate handed him over to them to be crucified.
 They took Jesus and led him away.
 
-*flog* = beat hard with a whip
-*Caesar* = the Roman emperor
-*the sixth hour* = about noon
-
 > **What does this mean?**
+> Flog means: beat hard with a whip.
+> Caesar means: the Roman emperor.
+> The sixth hour means: about noon.
 > Flogging was a cruel Roman punishment. The crown of thorns and the purple garment are mockery: They dress Jesus up as a king.
 > Verse 5: “Look, here is the man!” (in Latin *Ecce homo*). Pilate shows a tortured, humiliated human being. Christians see in this: In Jesus God is very close to a suffering human being.
 > Verse 6: Here John says exactly who is shouting: the chief priests and the temple guards. That is not the Jewish people.
@@ -108,11 +107,10 @@ He said to his mother, “Woman, here is your son!”
 [27] Then he said to the disciple, “Here is your mother!”
 From that hour on, the disciple took her into his own home.
 
-*title* = here: a sign with writing on it
-*tunic* = a long shirt worn under the outer clothes
-*cast lots* = decide something by chance, like throwing dice
-
 > **What does this mean?**
+> Title means: here: a sign with writing on it.
+> Tunic means: a long shirt worn under the outer clothes.
+> Cast lots means: decide something by chance, like throwing dice.
 > Golgotha was a place of execution outside the gates of Jerusalem.
 > Verses 19–20: The title gave the reason for the sentence. Everyone could read it in the three most important languages. Without wanting to, Pilate proclaims: Jesus is King.
 > Verses 23–24: This quotes Psalm 22:18 (in the Hebrew Bible and in some Bibles 22:19). The soldiers even take Jesus’ clothes from him.
@@ -149,10 +147,9 @@ He tells it so that you also may believe.
 “Not one of his bones will be broken.”
 [37] And another Scripture says, “They will look at the one they pierced.”
 
-*vinegar* = here: sour wine
-*hyssop* = a plant with small, bushy branches
-
 > **What does this mean?**
+> Vinegar means: here: sour wine.
+> Hyssop means: a plant with small, bushy branches.
 > Verse 28: “I am thirsty” reminds us of Psalm 69:21 (in the Hebrew Bible and in some Bibles 69:22) and Psalm 22:15 (in the Hebrew Bible and in some Bibles 22:16). Jesus really suffers, as a human being.
 > Verse 29: At the first Passover, hyssop was used to put the blood of the lambs on the doors (Exodus 12:22).
 > Verse 30: “It is finished!” Jesus’ work is complete. This is not a cry of despair, but of completion.
@@ -183,9 +180,8 @@ No one had ever been laid in it.
 [42] It was the Jews’ Day of Preparation, and the tomb was close by.
 So they laid Jesus there.
 
-*myrrh and aloes* = sweet-smelling spices used for burial
-
 > **What does this mean?**
+> Myrrh and aloes means: sweet-smelling spices used for burial.
 > Verses 38–39: Two respected Jewish men bury Jesus: Joseph of Arimathaea and Nicodemus, a Pharisee. They show courage and love.
 > “Afraid of the Jews”: This means afraid of the powerful leaders. Joseph was a Jew himself.
 > Verse 39: A Roman pound was a little less than our pound. So 100 Roman pounds are about 75 pounds (33 kilograms). That is a burial fit for a king.

@@ -105,9 +105,8 @@ they returned to Jerusalem.
 On the way they preached the Good News
 in many villages of the Samaritans.
 
-*sorcery* = magic
-
 > **What does this mean?**
+> Sorcery means: magic.
 > Verse 5: The Samaritans were related to the Jews, but there had been hostility between them for a long time (compare John 4:9). Now the good news comes to them too. In this way what Jesus said comes true (1:8).
 > This Philip is one of the seven helpers from chapter 6, not the apostle Philip.
 > Verse 7: “Unclean spirits”: At that time many illnesses were understood this way. Important: Mental illnesses are not possession. They can be treated.
@@ -187,10 +186,9 @@ He passed through the land
 and preached the Good News to all the cities,
 until he came to Caesarea.
 
-*eunuch* = a man who had been castrated; such men often served at royal courts
-*chariot* = a carriage pulled by horses
-
 > **What does this mean?**
+> Eunuch means: a man who had been castrated; such men often served at royal courts.
+> Chariot means: a carriage pulled by horses.
 > Important about the numbering: The WEB has 39 verses in this chapter. Some Bibles have 40. There is an additional verse 37: Philip asks about the man’s faith, and the man confesses Jesus Christ as the Son of God. This verse is missing in the oldest manuscripts. That is why the WEB leaves it out. Our verses 37–39 are verses 38–40 in those Bibles.
 > Verse 27: At that time Ethiopia meant the kingdom south of Egypt, in today’s Sudan. Candace was a title of the queens there. Eunuchs often served at royal courts. According to Deuteronomy 23:1 (in the Hebrew Bible and in some Bibles 23:2), they were not allowed to enter the assembly of the Lord. But the prophet Isaiah had promised: God will accept them too (Isaiah 56:3–5).
 > Verses 32–33 quote Isaiah 53:7–8 in the Greek translation. Christians understand this passage about the suffering servant of God as pointing to Jesus. In Judaism it is often related to the people of Israel.

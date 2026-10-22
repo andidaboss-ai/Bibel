@@ -49,9 +49,8 @@ when they heard these things.
 [9] They took security from Jason and the rest
 and then let them go.
 
-*security* = here: money paid as a guarantee
-
 > **What does this mean?**
+> Security means: here: money paid as a guarantee.
 > Thessalonica is today’s Thessaloniki in Greece. Later Paul wrote two letters to the church there.
 > Verse 2: Paul goes to the synagogue first, “as was his custom.” He remains connected with Judaism.
 > Verse 4: Some Jews, many devout Greeks and leading women come to faith.
@@ -189,10 +188,9 @@ a member of the Areopagus,
 and a woman named Damaris,
 and others with them.
 
-*babbler* = someone who talks a lot of nonsense
-*offspring* = children, descendants
-
 > **What does this mean?**
+> Babbler means: someone who talks a lot of nonsense.
+> Offspring means: children, descendants.
 > Verse 16: Athens was the most famous city of philosophy. Statues of gods stood everywhere.
 > Verse 18: Epicureans and Stoics were two well-known schools of philosophy. The Epicureans sought a calm, happy life. The Stoics taught that a divine reason fills everything.
 > Verse 18: “Jesus and the resurrection”: Some probably thought these were two new gods.

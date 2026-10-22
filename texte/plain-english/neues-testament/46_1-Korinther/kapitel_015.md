@@ -48,9 +48,8 @@ which was with me.
 This is what we preach,
 and this is what you believed.
 
-*resurrection* = rising from the dead to new life
-
 > **What does this mean?**
+> Resurrection means: rising from the dead to new life.
 > Verses 3–5 are one of the oldest confessions of faith of the Christians. Paul himself had received it, probably only a few years after Jesus’ death.
 > The core sentences are: Christ died, he was buried, he was raised, he appeared.
 > Verse 5: “Cephas” is Peter.
@@ -128,9 +127,8 @@ then the Son himself will also be subject to him
 who put all things in subjection to him,
 so that God may be all in all.
 
-*first fruit* = the first part of the harvest
-
 > **What does this mean?**
+> First fruit means: the first part of the harvest.
 > Verse 20: The WEB says “first fruit,” the first fruit of the harvest. The first fruit is the sign that the whole harvest is coming. In the same way, the resurrection of Jesus is the sign that we will also rise.
 > Verses 21–22: Adam stands for the human being who dies. Christ stands for the new human being who lives.
 > Verse 26: “The last enemy that will be done away with is death.” In the end God will defeat death too.
@@ -238,10 +236,9 @@ so are those who are heavenly.
 made of dust,
 so let’s also bear the image of the heavenly one.
 
-*perishable* = something that decays and comes to an end
-*imperishable* = something that never decays
-
 > **What does this mean?**
+> Perishable means: something that decays and comes to an end.
+> Imperishable means: something that never decays.
 > Verses 36–38: Paul compares the resurrection with a seed. You put a small grain into the ground. A completely new plant grows from it. In the same way our body will be changed.
 > Verses 42–44: The new body is imperishable, full of power and glory. We cannot know exactly what it will look like.
 > Verse 45 quotes Genesis 2:7. The WEB says “living soul” there, a living being. “The last Adam” means Christ.
@@ -288,10 +285,9 @@ Always do more and more in the Lord’s work.
 For you know:
 Your work is not in vain in the Lord.
 
-*mortal* = something that must die
-*immortality* = never dying
-
 > **What does this mean?**
+> Mortal means: something that must die.
+> Immortality means: never dying.
 > Verses 51–52: Paul expects that Jesus will come again soon. Then the dead will rise, and the living will be changed.
 > Verse 54 takes up Isaiah 25:8. Verse 55 takes up Hosea 13:14.
 > Verse 55: The WEB says “Hades.” That is the Greek word for the realm of the dead.

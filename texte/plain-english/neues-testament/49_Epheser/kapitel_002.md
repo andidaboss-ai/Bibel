@@ -98,10 +98,9 @@ and grows into a holy temple in the Lord.
 [22] In him you also are built in
 to become a dwelling of God in the Spirit.
 
-*commonwealth* = a community of citizens who belong together
-*cornerstone* = the most important stone of a building
-
 > **What does this mean?**
+> Commonwealth means: a community of citizens who belong together.
+> Cornerstone means: the most important stone of a building.
 > Verse 12: The letter reminds the Christians from the nations: Israel had God’s covenants and promises. You were once shut out from them. Israel is the starting point.
 > Verse 13: “Far off” means the people from the nations. Through Christ they have been brought near, near to God and near to Israel.
 > Verse 14: “The dividing wall”: In the temple in Jerusalem there was a wall. Non-Jews were not allowed to go further in. The letter says: In Christ this separation is overcome.

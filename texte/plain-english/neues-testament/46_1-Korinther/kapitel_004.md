@@ -26,9 +26,8 @@ and he will reveal
 the intentions of the hearts.
 Then each one will get his praise from God.
 
-*steward* = a manager who takes care of someone else’s house or property
-
 > **What does this mean?**
+> Steward means: a manager who takes care of someone else’s house or property.
 > Verses 1–2: In those days a steward managed someone else’s house or property. He had to be faithful. In the same way, the leaders in the church should faithfully pass on God’s gifts.
 > Verses 3–4: Paul doesn’t depend on what others think of him. He doesn’t even judge himself. Only God can truly judge a person.
 > Verse 5: “Judge nothing before the time”: We don’t know another person’s heart. So we shouldn’t judge others too quickly.
@@ -44,8 +43,8 @@ to myself and Apollos as an example,
 for your sake.
 From us you should learn:
 “Not beyond what is written.”
-Then none of you will be puffed up,
-for one and against another.
+Then none of you will be puffed up
+against one another.
 [7] For who makes you different?
 What do you have
 that you didn’t receive?
@@ -106,7 +105,7 @@ even until now.
 to shame you,
 but to warn you
 as my beloved children.
-[15] For even if you have ten thousand tutors in Christ,
+[15] For even if you have 10,000 tutors in Christ,
 you don’t have many fathers.
 For in Christ Jesus
 I became your father through the Good News.
@@ -115,7 +114,7 @@ Follow my example.
 [17] That is why I have sent Timothy to you.
 He is my beloved and faithful child in the Lord.
 He will remind you of my ways in Christ,
-as I teach everywhere in every assembly.
+as I teach everywhere in every church.
 [18] But some of you are puffed up,
 as though I were not coming to you.
 [19] But I will come to you soon,
@@ -128,11 +127,11 @@ but in power.
 Shall I come to you with a rod,
 or in love and a spirit of gentleness?
 
-*tutor* = here: a guardian who looked after children
-
 > **What does this mean?**
+> Tutor means: here: a guardian who looked after children.
 > Verse 15: In those days a “tutor” was often a slave who took the children to school and watched over them. Paul says: You have many teachers, but I founded the church. So I am like a father to you.
 > Verse 16: “Follow my example”: Paul means his life of simplicity, patience and love (verses 11–13).
 > Verse 17: Timothy was a close co-worker of Paul (Acts 16:1–3).
 > Verse 21: “With a rod” is a picture for a strict warning. But Paul wishes to come with love and gentleness.
-> Important: This picture from the way children were raised back then is no permission to hit children. Children have a right to grow up without violence. Help for parents and children: In the US, call or text Childhelp at 1-800-422-4453. In the UK, children can call Childline at 0800 1111, and parents can call the NSPCC helpline at 0808 800 5000.
+> Important: This picture from the way children were raised back then is no permission to hit children. Children have a right to grow up without violence. Help for parents and children: In the US: Childhelp 1-800-422-4453. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+

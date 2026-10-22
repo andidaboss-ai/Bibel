@@ -103,9 +103,8 @@ with my understanding,
 so that I teach others too,
 than 10,000 words in another language.
 
-*interpret* = to explain what something means
-
 > **What does this mean?**
+> Interpret means: to explain what something means.
 > Verses 7–11: Paul uses pictures: An instrument that doesn’t give clear notes is no use. A trumpet must sound clearly, or no one knows what to do.
 > Verse 15: Faith needs heart and mind.
 > Verse 16: “Amen” means *So it is* or *So be it*. You can only say Amen if you understand what was prayed.

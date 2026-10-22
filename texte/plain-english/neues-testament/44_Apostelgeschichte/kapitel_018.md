@@ -128,9 +128,8 @@ Then he left
 and went through the region of Galatia and Phrygia, place by place.
 He strengthened all the disciples.
 
-*vow* = a solemn promise made to God
-
 > **What does this mean?**
+> Vow means: a solemn promise made to God.
 > Verse 18: Paul takes a vow, as devout Jews did (compare Numbers 6). He continues to live as a devout Jew.
 > Verses 19–20: The Jews in Ephesus ask Paul to stay longer. They are open to his message.
 > Verse 21: Paul wants to go to Jerusalem for the feast. Some Bibles don’t have the sentence about the feast. It is missing in some old manuscripts. The WEB has it.
@@ -166,10 +165,9 @@ in public.
 He showed from the Scriptures
 that Jesus was the Christ.
 
-*eloquent* = good at speaking
-*refute* = prove that something is wrong
-
 > **What does this mean?**
+> Eloquent means: good at speaking.
+> Refute means: prove that something is wrong.
 > Verse 24: Alexandria in Egypt was a city of great learning with a large Jewish community.
 > Verse 25: Apollos knew a lot about Jesus, but not yet everything.
 > Verse 26: Priscilla and Aquila teach the educated Apollos kindly and in private, not in public. Again Priscilla is named first. A woman teaches a learned man.

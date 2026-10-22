@@ -35,9 +35,8 @@ Jesus Christ.
 Through him are all things,
 and we live through him.
 
-*sacrificed* = offered as a gift to a god
-
 > **What does this mean?**
+> Sacrificed means: offered as a gift to a god.
 > In Corinth there were many temples for Greek and Roman gods. Animals were sacrificed there. Afterwards the meat was eaten or sold at the market. The Christians asked: May we eat such meat?
 > Verse 1: That “we all have knowledge” was probably a saying from Corinth. Some Christians were proud of their knowledge. Paul answers: Knowledge alone makes people proud, but love builds up.
 > Verse 3: More important than our knowledge about God is that God knows and loves us.
@@ -82,10 +81,9 @@ if food causes my brother to stumble,
 I will never eat meat again,
 so that I don’t cause my brother to stumble.
 
-*conscience* = the inner voice that tells us what is right and wrong
-*stumbling block* = something that makes someone fall, here: fall away from faith
-
 > **What does this mean?**
+> Conscience means: the inner voice that tells us what is right and wrong.
+> Stumbling block means: something that makes someone fall, here: fall away from faith.
 > Verse 7: Some Christians had worshiped idols themselves before. When they ate sacrificed meat, they felt pulled back into their old life. Their conscience troubled them.
 > Verses 9–12: Paul says: Even if you know that idols are nothing, you should care for others. Your freedom must not harm others.
 > Verse 13: Paul is ready to give up something that he is allowed to do, for the sake of others. Love is more important than your own rights.

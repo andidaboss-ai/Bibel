@@ -105,9 +105,8 @@ to meet the Lord in the air.
 And so we will be with the Lord forever.
 [18] So comfort one another with these words.
 
-*archangel* = a leading angel
-
 > **What does this mean?**
+> Archangel means: a leading angel.
 > Verse 13: Some Christians in Thessalonica had died. The others were afraid: Have those who died now missed the return of Jesus? Paul comforts them.
 > “Fallen asleep” is a gentle way of saying *died*. It expresses hope: Whoever sleeps will wake up again.
 > Important: Paul doesn’t say: *You should not grieve.* He says: “don’t grieve like the rest, who have no hope.” Grief is allowed and important. Jesus too wept when his friend Lazarus had died (John 11:35). If you need support in your grief, you can find it, for example, with a grief counselor. If your grief becomes too heavy, in the US call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

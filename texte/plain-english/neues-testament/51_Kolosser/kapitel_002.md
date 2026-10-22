@@ -37,20 +37,21 @@ and how firm your faith in Christ is.
 ## Stay rooted in Christ (Verses 6–15)
 
 [6] You received Christ Jesus as Lord.
-So now walk in him,
+So now live in him,
 [7] rooted and built up in him.
 Stay firm in the faith,
 just as you were taught,
 and overflow with thanksgiving.
 [8] Be careful
-that no one captures you
+that no one robs you
 through his philosophy and empty deceit.
 They are based on human tradition
 and on the elemental spirits of the world,
 and not on Christ.
 [9] For in him all the fullness of the Deity lives in bodily form.
+Deity means: God’s nature, being God.
 [10] And in him you too are made full.
-He is the head over all rule and power.
+He is the head over all rulers and powers.
 [11] In him you were also circumcised
 with a circumcision
 not made with hands.
@@ -68,12 +69,10 @@ He forgave us all our wrongs.
 that stood against us with its rules.
 He took it away
 and nailed it to the cross.
+A record of debt is a signed list of what someone owes.
 [15] He disarmed the rulers and powers
 and made a public show of them.
 On the cross he triumphed over them.
-
-*Deity* = God’s nature, being God
-*record of debt* = a signed list of what someone owes
 
 > **What does this mean?**
 > Verse 7: Like a tree with deep roots and like a house on a firm foundation: This is how firm faith in Christ should be.
@@ -93,11 +92,12 @@ or about a feast day,
 a new moon
 or a Sabbath day.
 [17] These are a shadow of the things
-that were to come.
+that are to come.
 But the reality belongs to Christ.
 [18] Let no one rob you of your prize
 who delights in self-abasement
 and the worshiping of angels.
+Self-abasement means: making yourself small and low in a showy way.
 Such a person relies on things
 that he has not seen.
 He is puffed up for no reason
@@ -123,8 +123,6 @@ with humility
 and with severity to the body.
 But they are of no value
 against the desires of the flesh.
-
-*self-abasement* = making yourself small and low in a showy way
 
 > **What does this mean?**
 > Verse 16: This is about teachers in Colossae who wanted to force strict rules on the Christians from the nations, together with the worship of angels and fasting. It was a mix of different religions.

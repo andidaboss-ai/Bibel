@@ -31,10 +31,9 @@ but a son.
 And if you are a son,
 then you are also an heir of God through Christ.
 
-*elemental powers* = powers that people felt dependent on
-*adopted* = taken into a family as a child
-
 > **What does this mean?**
+> Elemental powers means: powers that people felt dependent on.
+> Adopted means: taken into a family as a child.
 > Verses 1–2: A child who will one day receive a large inheritance has no say yet while still a child. That is how people were before Jesus came.
 > Verse 3: “Elemental powers of the world”: This probably means powers that people felt dependent on, for example stars, gods or fixed religious rules. Interpreters understand the word in different ways.
 > Verse 4: “Born to a woman, born under the law”: Jesus was a real human being and a Jew who lived according to the Torah.
@@ -156,9 +155,8 @@ for the son of the servant woman will not inherit with the son of the free woman
 we are not children of the servant woman,
 but of the free woman.
 
-*barren* = not able to have children
-
 > **What does this mean?**
+> Barren means: not able to have children.
 > Verses 21–31: Paul interprets the story of Hagar and Sarah (Genesis 16 and 21) as a picture. This is an unusual interpretation. Paul uses it in his argument with the Christian teachers in Galatia, who demanded circumcision from Christians from the nations.
 > Very important: This text is not a judgment on the Jewish people or on Judaism. It must not be read as if Jews were *children of the servant woman* and Christians *children of the free woman*. This interpretation has caused much harm in church history. Paul says clearly in the letter to the Romans: God has not rejected his people (Romans 11:1–2).
 > It is also important: In the Bible God himself cares for Hagar and her son Ishmael. He hears their crying, rescues them and blesses Ishmael (Genesis 16:7–13; 21:17–20). Hagar is the first person in the Bible who gives God a name.

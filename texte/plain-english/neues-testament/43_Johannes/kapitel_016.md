@@ -15,9 +15,8 @@ So when the time comes, you will remember that I told you about them.
 I didn’t tell you these things at the beginning,
 because I was with you.
 
-*stumble* = here: lose your faith
-
 > **What does this mean?**
+> Stumble means: here: lose your faith.
 > Verse 2: Here John probably reflects the experience of his church: Christians who were themselves of Jewish background were put out of synagogues. There were also persecutions.
 > Important: In later history it was the other way around: For many centuries Christians persecuted and killed Jews, often believing that they were offering a service to God. This is exactly what this verse warns against. Whoever kills in God’s name does not know God (verse 3). That is true for all people and all religions.
 > For today: Violence in God’s name is always wrong.
@@ -50,9 +49,8 @@ He will take what is mine and tell it to you.
 [15] Everything the Father has is mine.
 That is why I said that the Spirit will take what is mine and tell it to you.
 
-*convict* = show clearly who is guilty and what is true
-
 > **What does this mean?**
+> Convict means: show clearly who is guilty and what is true.
 > Verse 7: Jesus says: My going away is good for you. For then the Holy Spirit will come. He is everywhere and with everyone at the same time.
 > Verse 8: “Convict” means: to show, to uncover, to make clear what is true.
 > Verse 11: “The ruler of this world” is the power of evil. Through Jesus’ death and resurrection it is already defeated.
@@ -94,9 +92,8 @@ The Father will give you whatever you ask him for in my name.
 Ask, and you will receive.
 Then your joy will be complete.
 
-*lament* = cry out loudly in grief
-
 > **What does this mean?**
+> Lament means: cry out loudly in grief.
 > Verse 16: “A little while”: Jesus is speaking about his death and about Easter. After three days the disciples will see him again.
 > Verse 21: Jesus compares sorrow with the pain of giving birth. After the pain comes new life. This is a picture from the experience of many women.
 > Important: Not every birth goes well. Whoever has lost a child may grieve as long as needed. Help is offered, for example, by The Compassionate Friends (compassionatefriends.org in the US, tcf.org.uk in the UK). In a crisis: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
@@ -135,9 +132,8 @@ In the world you have trouble.
 But cheer up!
 I have overcome the world.”
 
-*figures of speech* = pictures and comparisons
-
 > **What does this mean?**
+> Figures of speech means: pictures and comparisons.
 > Verse 27: “The Father himself loves you.” God doesn’t need a go-between in order to love us. He already loves us.
 > Verse 32: The disciples will leave Jesus alone when he is arrested. But Jesus is never completely alone: The Father is with him.
 > Verse 33: “Trouble” means: distress, need, fear. Jesus does not promise a life without difficulties. But he promises: Trouble does not have the last word; God does.

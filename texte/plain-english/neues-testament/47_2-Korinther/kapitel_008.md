@@ -35,9 +35,8 @@ in all earnestness
 and in your love for us.
 So see that you are also rich in this grace.
 
-*generosity* = being glad to give
-
 > **What does this mean?**
+> Generosity means: being glad to give.
 > Paul was collecting money for the poor Christians in Jerusalem (compare 1 Corinthians 16:1–4 and Romans 15:25–27).
 > Verses 2–3: The churches in Macedonia, for example in Philippi and Thessalonica, were poor themselves. Even so, they gave with joy.
 > Paul calls giving “grace.” Generosity is a gift from God.

@@ -28,14 +28,14 @@ But you prepared a body for me.
 [7] Then I said,
 ‘Look,
 I have come
-– in the scroll of the book it is written of me –
+(in the scroll of the book it is written of me)
 to do your will,
 O God.’”
 [8] First he says,
 “You didn’t want sacrifices and offerings,
 whole burnt offerings and sin offerings,
-and you had no pleasure in them”
-– which are offered according to the law.
+and you had no pleasure in them.”
+These are the ones offered according to the law.
 [9] Then he says,
 “Look,
 I have come
@@ -141,7 +141,7 @@ Again,
 to fall into the hands of the living God.
 
 > **What does this mean?**
-> Verses 26–31: As in Chapter 6 this is about people who reject Jesus very deliberately and with contempt (“trampled under foot,” “insulted”). It is not about people who are weak, doubt or regret mistakes.
+> Verses 26–31: As in Chapter 6 this is about people who reject Jesus very deliberately and with contempt (“trampled the Son of God under foot,” “insulted”). It is not about people who are weak, doubt or regret mistakes.
 > Very important: Whoever is afraid of not being forgiven any more may know: God accepts everyone who comes to him. The worry itself shows that God matters to you. If such thoughts torment you, talk to a pastor or a counselor. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verse 30: “Vengeance belongs to me.” This is a quotation from Deuteronomy 32:35–36. It also means: People are not to take revenge themselves (compare Romans 12:19).
 
@@ -155,7 +155,7 @@ you endured a hard struggle with sufferings.
 [33] Partly you were publicly insulted and oppressed.
 Partly you stood by those
 who were treated this way.
-[34] For you had compassion on the prisoners.
+[34] For you had compassion on me in my chains.
 And you accepted with joy
 that your possessions were taken from you.
 For you knew
@@ -169,7 +169,7 @@ and receive what was promised.
 he who comes
 will come,
 and will not wait.
-[38] But my righteous one will live by faith.
+[38] But the righteous one will live by faith.
 If he shrinks back,
 my soul has no pleasure in him.”
 [39] But we are not of those
@@ -178,6 +178,6 @@ but of those
 who have faith and save their soul.
 
 > **What does this mean?**
-> Verses 32–34: The church had already experienced persecution. Some were insulted, others lost their possessions. And they visited prisoners. The author reminds them of their courage.
+> Verses 32–34: The church had already experienced persecution. Some were insulted, others lost their possessions. And they cared for the author when he was in chains. The author reminds them of their courage.
 > Verses 37–38 quote Habakkuk 2:3–4 in the form of the old Greek translation. Paul also quotes these words: “But the righteous shall live by faith” (Romans 1:17).
 > Verse 39: An encouraging ending: You belong to those who trust.

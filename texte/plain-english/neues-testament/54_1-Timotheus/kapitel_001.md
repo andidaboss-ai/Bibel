@@ -79,10 +79,9 @@ that is contrary to sound doctrine.
 [11] This is according to the Good News of the glory of the blessed God,
 which was entrusted to me.
 
-*doctrine* = teaching
-*perjurers* = people who lie under oath
-
 > **What does this mean?**
+> Doctrine means: teaching.
+> Perjurers means: people who lie under oath.
 > Verse 4: “Myths and endless family trees”: Some teachers busied themselves with speculation and long lists of ancestors. This led to disputes, but not to a better life.
 > Verse 5 is the heart of it: The goal of all teaching is love.
 > Verse 8: “The law is good”: The law that God gave Israel is good and holy (compare Romans 7:12). This is about people who misuse it.
@@ -131,9 +130,8 @@ be honor and glory
 forever and ever.
 Amen.
 
-*blasphemer* = someone who mocks or insults God
-
 > **What does this mean?**
+> Blasphemer means: someone who mocks or insults God.
 > Verse 13: Paul once persecuted Christians (Acts 8:3 and 9:1–2). He doesn’t hide this.
 > Verse 15 is one of the most important sentences of the letter: Jesus came to save sinners. No one is too bad for God’s grace.
 > Verse 16: If God forgave even a persecutor like Paul, then every person can have hope.

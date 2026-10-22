@@ -97,9 +97,8 @@ and keep me safe for his heavenly Kingdom.
 To him be the glory forever and ever.
 Amen.
 
-*parchments* = writing material made from animal skin
-
 > **What does this mean?**
+> Parchments means: writing material made from animal skin.
 > Verses 10–11: Paul is lonely. Some have left him. Only Luke, the doctor, is with him.
 > Verse 11: Mark had once parted from Paul (Acts 15:37–39). Now Paul specifically asks for him. Reconciliation is possible.
 > Verse 13: A very human wish: Paul is cold in prison and needs his cloak. And he wants to read his books.

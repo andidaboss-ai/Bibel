@@ -39,9 +39,8 @@ that can’t be condemned.
 Then the opponent will be ashamed,
 because he has nothing bad to say about us.
 
-*incorruptibility* = not letting yourself be bribed or led astray
-
 > **What does this mean?**
+> Incorruptibility means: not letting yourself be bribed or led astray.
 > Verses 2–6: There is advice for each group: older men, older women, young women and young men. All are to be “sensible.”
 > Verse 3: Older women are to be “teachers of that which is good.” Women had an important task as teachers of other women.
 > Verses 4–5: These roles reflect the family order of that time. The reason is given: “so that no one speaks evil of God’s word.” The young church did not want to give offense in its surroundings.

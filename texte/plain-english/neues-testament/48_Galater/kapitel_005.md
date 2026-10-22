@@ -48,9 +48,8 @@ that those
 who are troubling you
 would cut themselves off completely!
 
-*yoke* = a wooden bar put on animals so they can pull loads; here a picture for a heavy burden
-
 > **What does this mean?**
+> Yoke means: a wooden bar put on animals so they can pull loads; here a picture for a heavy burden.
 > Verse 1: Christ has set us free. Christians should not make themselves dependent again on rules by which they want to earn salvation.
 > Verses 2–4: Here Paul is speaking to Christians from the nations in Galatia. They thought they also had to be circumcised in order to truly belong to God. Paul says: Whoever does that no longer relies on Christ.
 > Important: These verses say nothing against the circumcision of Jewish boys. For the Jewish people circumcision is still a sign of the covenant with God today (Genesis 17). Paul himself was circumcised. He also had Timothy circumcised (Acts 16:3).
@@ -96,7 +95,7 @@ They are:
 adultery,
 sexual immorality,
 uncleanness,
-lack of self-control,
+wild lust,
 [20] idolatry,
 sorcery,
 hatred,
@@ -134,9 +133,8 @@ let’s also walk by the Spirit.
 provoking one another
 and envying one another.
 
-*sorcery* = magic used to harm or control others
-
 > **What does this mean?**
+> Sorcery means: magic used to harm or control others.
 > Verses 16–17: “Flesh” here doesn’t mean the body, but a life that only looks at itself. “Spirit” means a life led by God’s Spirit.
 > Verses 19–21: Paul lists what destroys community. Many points concern how people live together: hatred, strife, envy, divisions.
 > Verse 20: “Sorcery” here probably means magical practices used to harm others or to gain power over them.

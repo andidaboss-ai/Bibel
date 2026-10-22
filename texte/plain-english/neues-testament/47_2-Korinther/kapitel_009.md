@@ -78,10 +78,9 @@ which is in you.
 [15] Thanks be to God for his gift,
 which is too wonderful for words!
 
-*sow* = to put seeds in the ground
-*reap* = to harvest
-
 > **What does this mean?**
+> Sow means: to put seeds in the ground.
+> Reap means: to harvest.
 > Verse 6: A picture from farming: Whoever sows a lot can harvest a lot. Generosity bears fruit.
 > Verse 7: Giving should be voluntary and joyful. No one should be put under pressure.
 > Important: Some preachers promise that God will make people rich if they give a lot of money to their church. This text doesn’t teach that. Paul is concerned with help for the poor, not with wealth for the givers. No one should give more than they can (8:12).

@@ -63,9 +63,8 @@ or free person.
 But Christ is all,
 and in all.
 
-*Scythian* = a member of a people near the Black Sea who at that time were seen as especially wild
-
 > **What does this mean?**
+> Scythian means: a member of a people near the Black Sea who at that time were seen as especially wild.
 > Verse 5: “Put to death” is a picture. It means: Stop these things completely. It does not mean that you should harm your body. If you are thinking about hurting yourself, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verse 5: “Greed is idolatry”: Whoever always wants more makes possessions into their god (compare Ephesians 5:5).
 > Verses 9–10: Like changing clothes: old clothes off, new ones on. This is a picture of baptism.

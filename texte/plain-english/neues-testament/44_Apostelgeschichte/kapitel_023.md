@@ -38,9 +38,8 @@ He said, “Cheer up, Paul!
 You have been my witness in Jerusalem.
 You must also be my witness in Rome.”
 
-*whitewashed* = painted white on the outside
-
 > **What does this mean?**
+> Whitewashed means: painted white on the outside.
 > Verse 3: “Whitewashed wall” means: beautiful on the outside, bad on the inside. Paul accuses the high priest of acting against the law. For an accused person was not to be struck without a verdict.
 > Verse 5: Paul quotes Exodus 22:28 (in the Hebrew Bible and in some Bibles 22:27). He apologizes and respects the law.
 > Verse 6: “I am a Pharisee”: Paul says this in the present tense. He still sees himself as a Pharisee.
@@ -54,7 +53,7 @@ You must also be my witness in Rome.”
 [12] When it was day, some of the Jews got together and made a plan.
 They swore an oath and put themselves under a curse.
 They would not eat or drink anything until they had killed Paul.
-[13] More than forty men were part of this plot.
+[13] More than 40 men were part of this plot.
 [14] They went to the chief priests and the elders.
 They said, “We have put ourselves under a strong curse.
 We will not eat anything until we have killed Paul.
@@ -74,11 +73,11 @@ He has something to tell you.”
 [19] The commanding officer took the young man by the hand.
 He went off to the side with him.
 He asked him privately, “What do you have to tell me?”
-[20] The young man said, “The Jews have agreed to ask you a favor.
-They want you to bring Paul down to the council tomorrow.
+[20] The young man said, “The Jews have agreed to ask you
+to bring Paul down to the council tomorrow.
 They will act as if they want to question him more closely.
 [21] But don’t do what they ask!
-More than forty men are hiding and waiting for him.
+More than 40 men are hiding and waiting for him.
 They have put themselves under a curse.
 They will not eat or drink until they have killed him.
 They are ready now.
@@ -86,10 +85,9 @@ They are only waiting for you to say yes.”
 [22] The commanding officer let the young man go.
 He told him, “Don’t tell anyone that you told me this.”
 
-*ambush* = a hidden attack
-
 > **What does this mean?**
-> Verse 12: “Some of the Jews”: This is about a group of about forty men. Not about the Jewish people. Their plan was a crime.
+> Ambush means: a hidden attack.
+> Verse 12: “Some of the Jews”: This is about a group of about 40 men. Not about the Jewish people. Their plan was a crime.
 > Verses 14–15: Some leaders know about the murder plot and help with it. That is a serious injustice.
 > Verse 16: Here we learn: Paul had a sister in Jerusalem. Her son saves his life. A brave young person.
 > For today: Anyone who learns about a planned crime should report it. Call the police: 911 in the US, 999 in the UK.
@@ -99,8 +97,8 @@ He told him, “Don’t tell anyone that you told me this.”
 ## Paul is brought to Caesarea (Verses 23–35)
 
 [23] Then the commanding officer called two of the centurions.
-He said, “Get two hundred soldiers ready to go to Caesarea.
-Also get seventy horsemen and two hundred men with spears.
+He said, “Get 200 soldiers ready to go to Caesarea.
+Also get 70 horsemen and 200 men with spears.
 Leave at the third hour of the night.
 [24] Get some animals for Paul to ride on.
 Bring him safely to Felix the governor.”
@@ -132,9 +130,8 @@ He learned that Paul was from Cilicia.
 [35] Then he said, “I will hear your case when your accusers arrive too.”
 He ordered that Paul be kept under guard in Herod’s palace.
 
-*third hour of the night* = about 9 o’clock in the evening
-
 > **What does this mean?**
+> Third hour of the night means: about 9 o’clock in the evening.
 > Verse 23: Almost 500 soldiers protect one prisoner. That is how seriously the Roman takes the danger.
 > Verse 26: Now we learn the name of the commanding officer: Claudius Lysias. Felix was the Roman governor of Judea, from about AD 52 to 60.
 > Verse 27: In the letter Lysias presents himself a little better than things really were: He only learned later that Paul was a Roman (22:25–29).

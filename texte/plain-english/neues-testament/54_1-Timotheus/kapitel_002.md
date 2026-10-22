@@ -33,11 +33,10 @@ I am not lying.
 I am a teacher of the nations
 in faith and truth.
 
-*intercessions* = prayers for other people
-*mediator* = someone who brings two sides together
-*ransom* = money paid to set a prisoner or slave free
-
 > **What does this mean?**
+> Intercessions means: prayers for other people.
+> Mediator means: someone who brings two sides together.
+> Ransom means: money paid to set a prisoner or slave free.
 > Verses 1–2: Christians are to pray for all people, including those who govern. At that time that was the Roman emperor, who was not a Christian and sometimes persecuted Christians. Still they were to pray for him.
 > For today: Praying for politicians doesn’t mean agreeing with everything. You can pray for someone and still criticize them.
 > Verse 4 is very important: God wants all people to be saved. No one is excluded from God’s love.

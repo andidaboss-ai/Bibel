@@ -63,7 +63,7 @@ Amen.”
 > **What does this mean?**
 > Verse 9: John hears a number (144,000), but he sees a crowd that no one can count. This recalls Chapter 5: There he hears “Lion” and sees a Lamb. God’s people are much larger than people think.
 > The people come from all peoples and languages. With God there are no borders of origin, skin color or language.
-> Palm branches are a sign of victory and joy. They recall the Jewish Feast of Tabernacles and Jesus’ entry into Jerusalem (John 12:13).
+> Palm branches are a sign of victory and joy. They recall the Jewish Feast of Booths and Jesus’ entry into Jerusalem (John 12:13).
 > Verse 10: Salvation comes from God. No one saves himself.
 
 ---

@@ -105,9 +105,8 @@ and was baptized.
 and became strong again.
 Saul stayed several days with the disciples in Damascus.
 
-*instrument* = here: a tool, someone God uses
-
 > **What does this mean?**
+> Instrument means: here: a tool, someone God uses.
 > Verse 11: The street called Straight still exists in Damascus today. Tarsus was Saul’s hometown, in the south of today’s Turkey.
 > Verses 13–14: Ananias is afraid. That is understandable. Saul was dangerous. But he obeys God anyway.
 > Verse 17: “Brother Saul”: Ananias calls his former persecutor “brother.” That is forgiveness.
@@ -238,9 +237,8 @@ And many believed in the Lord.
 [43] Peter stayed many days in Joppa
 with a tanner named Simon.
 
-*tanner* = someone who makes leather from animal skins
-
 > **What does this mean?**
+> Tanner means: someone who makes leather from animal skins.
 > Verse 32: “The saints” is a name for all Christians. Holy means: belonging to God.
 > Verse 34: “Jesus Christ heals you”: Peter makes clear who heals.
 > Verse 36: Tabitha is one of the few women in the New Testament who are explicitly called a disciple. Tabitha is Aramaic, Dorcas is Greek. Both mean gazelle.

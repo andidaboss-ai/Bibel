@@ -15,9 +15,8 @@ So they put them in custody until the next day.
 [4] But many of those who had heard the message believed.
 The number of men grew to about 5,000.
 
-*custody* = prison, being held by guards
-
 > **What does this mean?**
+> Custody means: prison, being held by guards.
 > The Sadducees were a group among the temple leaders. They didn’t believe in the resurrection of the dead (compare Luke 20:27). That is why it especially angers them that the apostles speak about the resurrection.
 > The captain of the temple was responsible for order in the temple.
 > Verse 4: The church grows in spite of the arrest. Only the men are counted, as was usual then. Women and children came in addition.
@@ -73,10 +72,9 @@ Everyone was praising God for what had happened.
 [22] The man who had been healed by this miracle was more than 40 years old.
 
 
-*the head of the corner* = the most important stone in a building
-*unlearned* = without schooling in the Scriptures
-
 > **What does this mean?**
+> The head of the corner means: the most important stone in a building.
+> Unlearned means: without schooling in the Scriptures.
 > The council (in Greek “Sanhedrin”) was the highest Jewish authority in Jerusalem. We already know Annas and Caiaphas from the trial of Jesus (John 18).
 > Verse 10: “Whom you crucified”: Here Peter is speaking to the leaders who had handed Jesus over to Pilate. He is not speaking to the Jewish people as a whole. The people praise God for the healing (verse 21).
 > Verse 11 quotes Psalm 118:22.
@@ -111,10 +109,9 @@ Let signs and wonders happen through the name of your holy Servant Jesus.”
 They were all filled with the Holy Spirit.
 And they spoke the word of God boldly.
 
-*vain* = useless, in vain
-*Gentiles* = people who are not Jews
-
 > **What does this mean?**
+> Vain means: useless, in vain.
+> Gentiles means: people who are not Jews.
 > Verse 24: The church prays to the Creator. This reminds us of Psalm 146:6.
 > Verses 25–26 quote Psalm 2:1–2.
 > Verse 27: Some Bibles also have the words in this city here. These words are in some old manuscripts; the WEB doesn’t have them.

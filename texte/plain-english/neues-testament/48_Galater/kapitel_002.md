@@ -6,12 +6,12 @@
 ## The meeting in Jerusalem (Verses 1–10)
 
 [1] Then,
-after fourteen years,
+after 14 years,
 I went up again to Jerusalem
 with Barnabas.
 I also took Titus with me.
 [2] I went up
-because God had shown me to.
+because God had shown me that I should.
 I laid before them the Good News
 that I preach among the Gentiles.
 But I did it privately,
@@ -58,10 +58,9 @@ and they to the circumcised.
 to remember the poor.
 And that is the very thing I was eager to do.
 
-*circumcised* = here: Jews
-*uncircumcised* = here: people who are not Jews
-
 > **What does this mean?**
+> Circumcised means: here: Jews.
+> Uncircumcised means: here: people who are not Jews.
 > Verses 1–10: Paul tells about an important meeting in Jerusalem (compare Acts 15). The leaders of the church in Jerusalem, James, Peter (Cephas) and John, agreed: People from the nations don’t have to be circumcised to be Christians.
 > Verse 3: Titus was a Greek, so not a Jew. He was not forced to be circumcised.
 > Verses 7–9: The tasks were divided: Peter went mainly to the Jews, Paul mainly to the other nations. Both preached the same Good News.
@@ -92,11 +91,10 @@ and not like the Jews.
 How then can you force the Gentiles
 to live like the Jews?
 
-*hypocrisy* = pretending to be different from how you really are
-
 > **What does this mean?**
 > Antioch was a large city in Syria. There was a church there with Christians of Jewish background and Christians from other nations. They ate together.
 > Verse 12: When visitors came from Jerusalem, Peter suddenly stopped eating with the Christians from the nations. In this way he divided the church.
+> Verse 13: Hypocrisy means: pretending to be different from how you really are.
 > Verse 13: “The rest of the Jews” here means the other Christians of Jewish background in Antioch, not the Jewish people in general.
 > For Paul, eating together was very important: It shows that everyone belongs to the church equally.
 > For today: Church leaders can make mistakes too. It is right to disagree openly and honestly when people are being shut out.
@@ -105,7 +103,7 @@ to live like the Jews?
 
 ## Made right through faith (Verses 15–21)
 
-[15] We are Jews by birth
+[15] “We are Jews by birth
 and not Gentile sinners.
 [16] But we know:
 A person is not made righteous by the works of the law,
@@ -137,9 +135,8 @@ and gave himself for me.
 For if righteousness could come through the law,
 then Christ died for nothing!”
 
-*righteous* = right with God
-
 > **What does this mean?**
+> Righteous means: living right before God.
 > Verse 15: “Gentile sinners” was a common way among Jews at that time to speak of people who didn’t know God’s commandments. Paul quotes it in order to show right away: Before God everyone needs grace.
 > Verse 16: This is a key sentence of Paul: You are not made righteous before God by your own achievements, but by trusting Jesus Christ. The Greek words for *faith in Jesus Christ* can also be translated as *the faithfulness of Jesus Christ*. Both belong together.
 > “The works of the law” here means mainly commandments like circumcision and food laws, which set Jews apart from other nations. Paul says: These differences must not divide people in the church.

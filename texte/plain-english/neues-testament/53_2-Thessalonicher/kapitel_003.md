@@ -73,9 +73,8 @@ so that he may be ashamed.
 [15] But don’t count him as an enemy,
 but admonish him as a brother.
 
-*busybodies* = people who meddle in other people’s affairs
-
 > **What does this mean?**
+> Busybodies means: people who meddle in other people’s affairs.
 > Verses 6–11: Some in the church had stopped working. Perhaps they thought Jesus would come soon anyway. They let others provide for them and meddled in everything.
 > Verses 8–9: As an apostle Paul would have had the right to be provided for by the church. He gave up this right and worked himself.
 > Verse 10: Very important: It says here “If anyone is not willing to work,” not *if anyone is not able to work*. This sentence is not directed against the sick, people with disabilities, the elderly, children or the unemployed. The church is to help them. The Bible calls again and again for caring for the poor and the weak. This verse must not be used to look down on people in need.

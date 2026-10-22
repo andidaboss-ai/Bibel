@@ -75,9 +75,8 @@ Then he can encourage with sound teaching
 and correct those
 who contradict.
 
-*steward* = someone who manages things for the owner
-
 > **What does this mean?**
+> Steward means: someone who manages things for the owner.
 > Verses 5–9: Similar to 1 Timothy 3. For leaders, character counts: not quick-tempered, not violent, not greedy for money, but hospitable, fair and self-controlled.
 > Verses 5 and 7: “Elders” and “overseer” probably mean the same people here: the leaders of the local church.
 > Verse 6: The children are not to live in a “wild or unruly” way. That doesn’t mean that parents are to blame for everything their adult children do.
@@ -116,10 +115,9 @@ They are detestable,
 disobedient
 and unfit for any good work.
 
-*gluttons* = people who eat far too much
-*defiled* = made unclean
-
 > **Important note**
+> Gluttons means: people who eat far too much.
+> Defiled means: made unclean.
 > Verses 10–16 contain harsh words. They must never be used against Jews or against the people of any nation.
 
 > **What does this mean?**

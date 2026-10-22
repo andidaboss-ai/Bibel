@@ -105,10 +105,9 @@ and how you welcomed him with fear and trembling.
 [16] I rejoice
 that I can be confident about you in everything.
 
-*repentance* = turning away from wrong and turning back to God
-*indignation* = anger about something unjust
-
 > **What does this mean?**
+> Repentance means: turning away from wrong and turning back to God.
+> Indignation means: anger about something unjust.
 > Verses 5–7: Here the story from 2:12–13 continues. Paul was full of fear. Then Titus came with good news from Corinth: The church has made peace with Paul.
 > Verse 6: “God, who comforts the downcast, comforted us by the coming of Titus.” God often comforts through other people, here through Titus.
 > Verses 8–10: Paul distinguishes two kinds of sadness: a sadness that leads to repentance and a new beginning, and a sadness that only pulls you down.

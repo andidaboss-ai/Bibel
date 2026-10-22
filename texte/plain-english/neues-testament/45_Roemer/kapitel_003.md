@@ -66,9 +66,8 @@ The whole world must stand before God’s judgment.
 [20] For no one will be justified before God by the works of the law.
 The law only shows us what sin is.
 
-*justified* = declared righteous by God
-
 > **What does this mean?**
+> Justified means: declared righteous by God.
 > Verse 9: “We” here probably means the Jews, to whom Paul himself belongs. He says: We are not better, but not worse either. All people, Jews and non-Jews, need God’s grace.
 > Verses 10–18 are a collection of quotations from the Bible of Israel: Psalm 14:1–3 (and Psalm 53), Psalm 5:9 (in the Hebrew Bible and in some Bibles 5:10), Psalm 140:3 (in the Hebrew Bible and in some Bibles 140:4), Psalm 10:7, Isaiah 59:7–8 and Psalm 36:1 (in the Hebrew Bible and in some Bibles 36:2).
 > “The works of the law” (verse 20) means: doing what the law requires. Paul says: No one can make themselves righteous before God by their own achievement. Verse 20 recalls Psalm 143:2.
@@ -112,10 +111,9 @@ And he will justify the uncircumcised through faith.
 Of course not!
 No, faith makes the law stand firm.
 
-*redemption* = being set free, being bought free
-*atoning sacrifice* = an offering that makes peace between God and people
-
 > **What does this mean?**
+> Redemption means: being set free, being bought free.
+> Atoning sacrifice means: an offering that makes peace between God and people.
 > Verses 21–26 are the heart of the letter
  to the Romans. The message is: God makes people righteous. Not because they deserve it, but as a gift, by grace, through Jesus Christ.
 > Verse 23: “All have sinned”: No one is without guilt. But no one is shut out from God’s grace either.

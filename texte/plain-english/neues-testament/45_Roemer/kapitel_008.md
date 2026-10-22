@@ -60,9 +60,8 @@ Through him we call out, “Abba! Father!”
 We will inherit from God, and we will inherit together with Christ.
 This is true if we suffer with him, so that we will also share in his glory.
 
-*adoption* = taking someone as your own child
-
 > **What does this mean?**
+> Adoption means: taking someone as your own child.
 > Verse 13: “If by the Spirit you put to death the deeds of the body, you will live.” This is a picture. It means: not letting evil rule within you. It does not mean that you should harm your body. If you are thinking about hurting yourself, please get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 15: “Abba” is Aramaic and means *father*, the loving way a child speaks to a father. Jesus himself prayed to God like this (Mark 14:36).
 > Verse 15: “Spirit of adoption”: God takes us as his children.
@@ -111,9 +110,8 @@ So his Son would be the firstborn among many brothers.
 Those he called, he also made righteous.
 Those he made righteous, he also gave glory.
 
-*first fruits* = the first part of a harvest; a first gift that promises more to come
-
 > **What does this mean?**
+> First fruits means: the first part of a harvest; a first gift that promises more to come.
 > Verses 19–22: Not only people, but the whole creation, animals, plants and the earth, are waiting for redemption. Many Christians see this as a task to care for creation.
 > Verse 22: “The pains of childbirth”: The suffering of the world is like pain during a birth. After it comes something new.
 > Verse 26: When we don’t know what to pray, the Spirit prays for us. Even a quiet sigh is a prayer.

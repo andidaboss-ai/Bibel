@@ -46,10 +46,9 @@ to whom respect is owed,
 honor
 to whom honor is owed.
 
-*authorities* = people who govern, such as rulers and officials
-*customs* = taxes on goods
-
 > **Important note**
+> Authorities means: people who govern, such as rulers and officials.
+> Customs means: taxes on goods.
 > These verses are among the most misused passages in the Bible. Rulers and also churches have often used them to demand that people obey every government, even an unjust one. During the time of National Socialism in Germany, many Christians behaved this way. That was a grave mistake.
 
 > **What does this mean?**
@@ -107,9 +106,8 @@ and not in strife and jealousy.
 And make no provision for the flesh,
 to satisfy its lusts.
 
-*provision* = making plans for something
-
 > **What does this mean?**
+> Provision means: making plans for something.
 > Verses 11–12: Paul compares the time to the early morning. The night is coming to an end; God’s day is coming. That is why Christians should be awake and live with care.
 > Verse 12: “The armor of light” is a picture. It means good deeds, truth and love, not real weapons.
 > Verse 14: “Put on the Lord Jesus Christ” is also a picture: to live so closely connected with Christ that you become like him, as you put on new clothes.

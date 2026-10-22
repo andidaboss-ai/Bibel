@@ -43,9 +43,8 @@ and they have failed in the faith.
 For their foolishness will be obvious to all,
 as it was with those two.
 
-*gullible* = easily fooled
-
 > **What does this mean?**
+> Gullible means: easily fooled.
 > Verse 1: For the New Testament, “the last days” means the whole time since Jesus. It is not about a particular date.
 > Verses 2–5: The list describes people who think only of themselves. The worst thing: They act pious, but their lives are not changed by God (verse 5).
 > Verses 6–7: These teachers deliberately looked for people who were unsure or burdened, in order to influence them. At that time women usually had no chance of a good education. That is why they were easier to deceive. This is no judgment about women in themselves.
@@ -95,9 +94,8 @@ who belongs to God
 may be complete
 and well equipped for every good work.
 
-*impostors* = people who pretend to be someone they are not
-
 > **What does this mean?**
+> Impostors means: people who pretend to be someone they are not.
 > Verse 11: Paul was persecuted in these cities. In Lystra he was even stoned (Acts 14:19). Timothy came from this region and probably saw it happen.
 > Verse 12: Whoever takes their faith seriously may face opposition because of it. But that doesn’t mean you should seek suffering.
 > Verses 14–15: Timothy came to know the holy Scriptures as a child, from his mother and grandmother (compare 1:5). This means the Scriptures of Israel, our Old Testament.

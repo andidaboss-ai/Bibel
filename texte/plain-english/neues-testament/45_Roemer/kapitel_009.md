@@ -28,9 +28,8 @@ And Christ, as a human being, comes from them.
 He is over all, God, blessed forever.
 Amen.
 
-*covenant* = a solemn agreement between God and people
-
 > **What does this mean?**
+> Covenant means: a solemn agreement between God and people.
 > Verses 1–3: Paul loves his people so much that he would even wish to be lost himself if that would help them. Moses had prayed for Israel like this too (Exodus 32:32).
 > Verses 4–5: Paul lists what God has given Israel: God has taken Israel as his children. Israel has the glory of God, the covenants, the Torah, the worship, the promises, the ancestors Abraham, Isaac and Jacob. And Jesus himself is a Jew. Paul writes “Theirs is,” in the present tense. These gifts still hold today.
 > Verse 5: The end of the sentence can also be understood differently: as praise of God the Father. The WEB understands it as a statement about Christ: “He is over all, God, blessed forever.” In Greek there were no punctuation marks.
@@ -112,10 +111,9 @@ He will do it quickly and in righteousness.”
 we would have become like Sodom.
 We would have been like Gomorrah.”
 
-*vessel* = a pot or jar
-*remnant* = the part that is left over
-
 > **What does this mean?**
+> Vessel means: a pot or jar.
+> Remnant means: the part that is left over.
 > Verse 15 quotes Exodus 33:19. Verse 17 quotes Exodus 9:16.
 > Verses 20–21: The picture of the potter comes from the Bible of Israel (Isaiah 29:16; 45:9; Jeremiah 18:1–6). Paul says: People cannot call God to account. God is free.
 > Verses 14–23 are among the most difficult passages in the Bible. Christians have argued about them a lot. Important: In chapter 11 Paul ends with the thought that God has shut up all people in disobedience so that he may have mercy on all (11:32). God’s last word is mercy.

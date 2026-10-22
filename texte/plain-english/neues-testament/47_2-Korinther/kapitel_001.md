@@ -137,10 +137,9 @@ that I didn’t come to Corinth.
 but we are fellow workers with you for your joy.
 For you stand firm in faith.
 
-*fickle* = changing your mind all the time, unreliable
-*anointed* = chosen by God and given a task
-
 > **What does this mean?**
+> Fickle means: changing your mind all the time, unreliable.
+> Anointed means: chosen by God and given a task.
 > Verses 15–17: Paul had changed his travel plans. Some in Corinth accused him of being unreliable. Paul explains: I wanted to spare you (verse 23).
 > Verse 20: The “Yes” means Jesus. All of God’s promises are fulfilled in Jesus. That is why Christians say “Amen.” It means: *So it is*.
 > Verse 22: The WEB says “down payment.” The Holy Spirit is like a first installment. He guarantees that God will keep his whole promise.

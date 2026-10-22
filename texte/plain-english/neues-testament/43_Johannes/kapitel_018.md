@@ -44,10 +44,9 @@ The servant’s name was Malchus.
 The Father has given me this cup.
 Shall I not drink it?”
 
-*detachment* = a group of soldiers
-*sheath* = the cover for a sword
-
 > **What does this mean?**
+> Detachment means: a group of soldiers.
+> Sheath means: the cover for a sword.
 > The brook Kidron lies between Jerusalem and the Mount of Olives. In Matthew and Mark the garden is called Gethsemane.
 > Verse 3: A “detachment of soldiers” were probably Roman soldiers. Temple guards came along too. The Romans and the temple leaders acted together.
 > Verses 5–6: “I am he” is literally “I am,” like the name of God. The soldiers fall back. John shows: Jesus is not helpless. He gives himself up freely.

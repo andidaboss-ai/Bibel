@@ -108,10 +108,9 @@ made holy
 and useful to the master of the house,
 prepared for every good work.
 
-*gangrene* = a disease in which flesh rots and the damage keeps spreading
-*vessels* = containers such as dishes, jars and bowls
-
 > **What does this mean?**
+> Gangrene means: a disease in which flesh rots and the damage keeps spreading.
+> Vessels means: containers such as dishes, jars and bowls.
 > Verse 14: Arguing about words helps no one. It only does harm.
 > Verse 15: Whoever explains God’s word should do it carefully and honestly, like a good craftsman.
 > Verse 18: Hymenaeus and Philetus taught: The resurrection has already happened, but only spiritually. In this way they denied the hope of a future resurrection.
@@ -146,9 +145,8 @@ Then they can escape from the snare of the devil,
 who has taken them captive
 to do his will.
 
-*repentance* = turning around, changing your heart and life
-
 > **What does this mean?**
+> Repentance means: turning around, changing your heart and life.
 > Verse 22: “Youthful lusts” probably doesn’t mean only sexual desires, but also impatience, love of quarreling and ambition.
 > Verses 24–25: Important advice for everyone who has responsibility in the church: Don’t quarrel, but be gentle, patient and kind, even toward opponents.
 > Verses 25–26: The goal is not to defeat the other person, but to help them find the truth. God gives repentance, not pressure.

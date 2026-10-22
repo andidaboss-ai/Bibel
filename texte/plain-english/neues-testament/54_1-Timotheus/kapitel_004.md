@@ -27,9 +27,8 @@ if it is received with thanksgiving.
 [5] For it is made holy
 through the word of God and prayer.
 
-*hypocrisy* = pretending to be good while acting differently
-
 > **What does this mean?**
+> Hypocrisy means: pretending to be good while acting differently.
 > Verses 1–3: There were teachers who forbade marriage and banned certain foods. They thought everything physical was bad.
 > Verse 4 is very important: Everything God created is good. This recalls the story of creation: *God saw that it was good* (Genesis 1). The body, food and marriage are good gifts from God.
 > Verse 5: Giving thanks before eating: Saying grace at meals reminds us that food is a gift from God.
@@ -60,9 +59,8 @@ He is the Savior of all people,
 especially of those who believe.
 [11] Command and teach these things.
 
-*godliness* = a life that honors God
-
 > **What does this mean?**
+> Godliness means: a life that honors God.
 > Verse 7: “Old wives’ fables” was a fixed expression at that time for silly, made-up stories. It is no statement about older women. Today we might say *nonsense* or *fairy tales*.
 > Verses 7–8: A picture from sports: Just as you train your body, you are also to *train* your faith, for example through prayer, reading the Bible and good deeds. Sports are good, but faith is even more important.
 > Verse 10: God is the “Savior of all people.” His love is for everyone, not only for a small group.
@@ -99,9 +97,8 @@ you will save both yourself
 and those
 who hear you.
 
-*elders* = leaders of the church
-
 > **What does this mean?**
+> Elders means: leaders of the church.
 > Verse 12: Timothy was still fairly young. The letter says: Age is not what matters. Young people too can be an example in faith.
 > Verse 13: “The public reading”: In worship the holy Scriptures were read aloud, at that time mainly the Scriptures of Israel, our Old Testament.
 > Verse 14: The laying on of hands is a sign of blessing and of being sent for a task. To this day many churches bless people for a ministry in this way, for example at ordination.

@@ -44,9 +44,8 @@ He took the bread and gave it to them.
 He did the same with the fish.
 [14] This was now the third time that Jesus showed himself to his disciples after he had risen from the dead.
 
-*cubit* = an old measure of length, about 18 inches (45 centimeters)
-
 > **What does this mean?**
+> Cubit means: an old measure of length, about 18 inches (45 centimeters).
 > The Sea of Tiberias is the Sea of Galilee. The disciples are back at home and working as fishermen.
 > Verse 3: Without Jesus they catch nothing. This reminds us of Luke 5:1–11.
 > Verse 7: While working, Peter was probably wearing very little. Out of respect he puts on his coat before he goes to Jesus.
@@ -81,9 +80,8 @@ He will carry you where you do not want to go.”
 [19] Jesus said this to show by what kind of death Peter would bring glory to God.
 After he said this, he said to Peter, “Follow me.”
 
-*tend* = take care of
-
 > **What does this mean?**
+> Tend means: take care of.
 > Peter had denied Jesus three times (18:17, 25–27). Now Jesus asks him three times whether he loves him. Three times Peter may say his love. In this way he is set back on his feet.
 > In Greek there are two different words for “love” here. The WEB tells them apart: “love” and “have affection.” The third time, Jesus takes up Peter’s word. Some scholars see an important difference in this; others think the words mean almost the same.
 > “Feed my sheep”: Peter is to take care of the church like a shepherd. The Catholic Church sees here a basis for the office of the pope. Other churches understand it as a task given to Peter and to all who have responsibility in the church.

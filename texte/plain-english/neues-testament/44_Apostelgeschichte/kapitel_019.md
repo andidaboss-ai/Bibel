@@ -104,9 +104,8 @@ They counted the price of the books:
 [20] So the word of the Lord grew
 and became mighty.
 
-*exorcist* = someone who tries to drive out evil spirits
-
 > **What does this mean?**
+> Exorcist means: someone who tries to drive out evil spirits.
 > Verse 9: “The Way” is an early name for the Christian faith. Some reject the message, not all.
 > Verse 10: Jews and Greeks in the province of Asia hear the good news. Perhaps the churches in Colossae and Laodicea also began at this time.
 > Verse 12: People hope for healing, even through cloths from Paul. But the healing comes from God (verse 11).
@@ -216,10 +215,9 @@ We wouldn’t be able to give an account of this commotion.”
 [41] When he had said this,
 he dismissed the assembly.
 
-*shrine* = here: a small model of a temple
-*Asiarchs* = respected leading men of the province of Asia
-
 > **What does this mean?**
+> Shrine means: here: a small model of a temple.
+> Asiarchs means: respected leading men of the province of Asia.
 > Verse 21: Paul plans to go to Rome. This becomes the goal of the whole book.
 > Verse 24: The temple of Artemis in Ephesus was one of the seven wonders of the ancient world. Demetrius sold small souvenirs of the temple.
 > Verses 25–27: Demetrius is worried most of all about his money. For him religion is also a business.

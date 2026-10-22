@@ -73,10 +73,9 @@ God raised him from the dead:
 Jesus,
 who rescues us from the wrath to come.
 
-*affliction* = great trouble and suffering
-*idols* = images of false gods
-
 > **What does this mean?**
+> Affliction means: great trouble and suffering.
+> Idols means: images of false gods.
 > Verse 3: Faith, love and hope: For Paul these three always belong together (compare 1 Corinthians 13:13). Here they are named together for the first time. Faith shows itself in deeds, love takes effort, hope gives perseverance.
 > Verse 5: The Good News is not only a teaching. It has power and changes people.
 > Verse 6: “In much affliction”: The Christians in Thessalonica had opponents from the beginning and faced hostility (Acts 17:5–9). Still they had joy.

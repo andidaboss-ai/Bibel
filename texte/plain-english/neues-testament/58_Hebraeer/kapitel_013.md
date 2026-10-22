@@ -6,7 +6,7 @@
 ## How Christians are to live (Verses 1–6)
 
 [1] Let love among brothers and sisters continue.
-[2] Don’t forget to show hospitality.
+[2] Don’t forget to show hospitality to strangers.
 For by doing so some have welcomed angels
 without knowing it.
 [3] Remember the prisoners,
@@ -112,7 +112,7 @@ Amen.
 
 > **What does this mean?**
 > Verse 17: Church leaders have a great responsibility. They must give account before God.
-> Very important: This verse gives no one the right to misuse power in the church. No leader may control people, put them under pressure or exploit them. Whoever experiences spiritual abuse may resist and seek help. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Very important: This verse gives no one the right to misuse power in the church. No leader may control people, put them under pressure or exploit them. Whoever experiences spiritual abuse may resist and seek help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
 > Verses 20–21 are a blessing that is spoken in many worship services to this day. Jesus is the “great shepherd” who cares for his sheep.
 
 ---
@@ -121,7 +121,7 @@ Amen.
 
 [22] But I urge you,
 brothers:
-Accept this word of encouragement.
+Bear with this word of encouragement.
 For I have written to you only briefly.
 [23] You should know:
 Our brother Timothy has been set free.
@@ -142,12 +142,12 @@ Amen.
 ## Looking back: What have we read in the letter to the Hebrews?
 
 > **What does this mean?**
-> **God has spoken through his Son:** Jesus is the radiance of God’s glory, greater than the angels (chapters 1 to 2).
-> **Jesus is our brother:** He became a human being, suffered and understands our weaknesses (chapters 2 and 4).
-> **Jesus, the high priest:** With pictures from the temple the letter explains what Jesus means for Christians: one sacrifice once for all, forgiveness forever (chapters 5 to 10).
-> **The new covenant:** The promise from Jeremiah 31. God has not canceled his covenant with Israel. The teaching that the church has replaced Israel is wrong (chapter 8).
-> **The cloud of witnesses:** The great people of faith of Israel are examples for everyone (chapter 11).
-> **Run with endurance:** Look to Jesus and don’t give up (chapter 12).
-> **Love in everyday life:** Hospitality, compassion for prisoners, faithfulness, contentment, sharing (chapter 13).
+> **God has spoken through his Son:** Jesus is the radiance of God’s glory, greater than the angels (Chapters 1–2).
+> **Jesus is our brother:** He became a human being, suffered and understands our weaknesses (Chapters 2 and 4).
+> **Jesus, the high priest:** With pictures from the temple the letter explains what Jesus means for Christians: one sacrifice once for all, forgiveness forever (Chapters 5–10).
+> **The new covenant:** The promise from Jeremiah 31. God has not canceled his covenant with Israel. The teaching that the church has replaced Israel is wrong (Chapter 8).
+> **The cloud of witnesses:** The great people of faith of Israel are examples for everyone (Chapter 11).
+> **Run with endurance:** Look to Jesus and don’t give up (Chapter 12).
+> **Love in everyday life:** Hospitality, compassion for prisoners, faithfulness, contentment, sharing (Chapter 13).
 > **For today:** Jesus Christ is the same yesterday, today and forever. You can rely on him.
 > **What comes next?** Next comes the letter of James. It says very practically: Faith shows itself in deeds.

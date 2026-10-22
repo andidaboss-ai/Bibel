@@ -58,10 +58,9 @@ and the parts of your body to God as tools of righteousness.
 For you are not under law,
 but under grace.
 
-*dominion* = power, rule
-*mortal* = able to die
-
 > **What does this mean?**
+> Dominion means: power, rule.
+> Mortal means: able to die.
 > Verse 1: A possible objection: If God’s grace is so great, can we simply go on sinning? Paul says: Of course not!
 > Verses 3–4: Baptism is like dying and rising again with Christ. In the early days people were completely immersed: under the water (as if buried) and out again (as if risen). After that a new life begins.
 > Verse 6: “Our old self” means the old life that was ruled by sin.
@@ -115,9 +114,8 @@ And the result is eternal life.
 but the free gift of God is eternal life
 in Christ Jesus our Lord.
 
-*wages* = pay for work
-
 > **What does this mean?**
+> Wages means: pay for work.
 > Verses 16–18: Paul uses a picture from his time: Slaves belonged to their master. He says: Every person serves something. The only question is: what? Whoever serves God becomes free.
 > Important: With the picture of slavery, Paul is not describing a good order. Slavery is a grave injustice. The picture only shows how strong the power of sin is.
 > Verse 19: “I speak in human terms”: Paul himself says that he uses a human picture so that people understand him.

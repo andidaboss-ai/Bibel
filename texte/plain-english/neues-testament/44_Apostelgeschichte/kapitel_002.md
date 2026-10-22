@@ -34,10 +34,9 @@ They said to one another, “What does this mean?”
 [13] But others made fun of them.
 They said, “They are full of new wine.”
 
-*devout* = deeply faithful to God
-*proselytes* = people who had become Jews
-
 > **What does this mean?**
+> Devout means: deeply faithful to God.
+> Proselytes means: people who had become Jews.
 > Pentecost (Greek for “the fiftieth day”) was a Jewish feast, 50 days after Passover. It is the Feast of Weeks, in Hebrew “Shavuot.” People gave thanks for the harvest. Later this feast also remembered the giving of the Torah at Mount Sinai. Many pilgrims came to Jerusalem for it.
 > Verses 2–3: In the Bible storm and fire are signs of God’s nearness, for example at Mount Sinai (Exodus 19:18).
 > Verses 4–11: People from many countries understand the message in their own language. Many scholars see this as the opposite of the tower of Babel (Genesis 11): There the languages were confused, here people understand one another again.
@@ -112,10 +111,9 @@ But he says:
 God has made this Jesus both Lord and Christ.
 He is the Jesus whom you crucified.”
 
-*prophesy* = speak a message from God
-
 
 > **What does this mean?**
+> Prophesy means: speak a message from God.
 > Verse 15: The third hour is about nine in the morning. People are not drunk that early.
 > Verses 17–21 quote Joel 2:28–32 (in the Hebrew Bible and in some Bibles Joel 3:1–5). Important: The Spirit comes on everyone, on sons and daughters, young and old, male and female servants. Women and men prophesy.
 > “All flesh” means: all people.
@@ -141,9 +139,8 @@ He gave witness and urged them, “Save yourselves from this crooked generation!
 [41] Those who gladly accepted his message were baptized.
 About 3,000 people were added to them that day.
 
-*repent* = turn your life around toward God
-
 > **What does this mean?**
+> Repent means: turn your life around toward God.
 > Verse 37: The listeners are deeply moved. They ask: What shall we do?
 > Verse 38: “Repent” means: to turn your life toward God in a new way. Baptism is the sign of this. God forgives and gives his Spirit.
 > Verse 39: “For all who are far off”: The good news is for all people and all times.
@@ -168,9 +165,8 @@ They ate their meals with joy and with sincere hearts.
 [47] They praised God, and they had favor with all the people.
 Every day the Lord added to the church those who were being saved.
 
-*fellowship* = community, sharing life together
-
 > **What does this mean?**
+> Fellowship means: community, sharing life together.
 > Verse 43: “Fear” here means awe before God, not being afraid.
 > Verse 42 describes four marks of the church: the apostles’ teaching, the fellowship, the breaking of bread (the Lord’s Supper or Eucharist) and prayer. Up to today they belong to worship.
 > Verses 44–45: The first Christians shared their possessions so that no one would be in need. This was voluntary (compare 5:4).

@@ -87,9 +87,8 @@ looked at him intently.
 They saw his face
 like the face of an angel.
 
-*blasphemous* = insulting God
-
 > **What does this mean?**
+> Blasphemous means: insulting God.
 > Verse 9: “The Libertines” (that is, the freed people) were probably Jews who themselves or whose parents had been taken to Rome as slaves and later set free. These people had their own synagogue in Jerusalem.
 > Verses 11–13: False witnesses are used against Stephen, as with Jesus (Mark 14:56–58). The Bible itself says: The accusation is false.
 > Verse 14: The temple (“this holy place”) and the law of Moses were very important to the Jews. That is why the accusation was serious.

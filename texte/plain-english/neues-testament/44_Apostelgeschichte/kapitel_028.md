@@ -52,10 +52,9 @@ And when we sailed,
 they put on board the things
 we needed.
 
-*viper* = a poisonous snake
-*dysentery* = a serious illness of the bowels
-
 > **What does this mean?**
+> Viper means: a poisonous snake.
+> Dysentery means: a serious illness of the bowels.
 > Verse 2: The people of Malta help strangers who have been shipwrecked. Hospitality toward people in need is a sign of humanity.
 > Verse 4: “Justice” (in Greek *Dike*) was a goddess for the people there. They thought: Whoever goes through something terrible must be guilty. That is not true. Misfortune is not a punishment.
 > Verse 6: First they think Paul is a murderer, then a god. Both are wrong. He is a human being who trusts God.
@@ -91,9 +90,8 @@ But Paul was allowed to live by himself,
 with the soldier
 who guarded him.
 
-*figurehead* = a carved figure on the front of a ship
-
 > **What does this mean?**
+> Figurehead means: a carved figure on the front of a ship.
 > Verse 11: “The Twin Brothers” were Castor and Pollux, two gods who, as sailors believed, protected ships.
 > Verse 14: There are already Christians in Italy. Paul is not the first to bring the good news to Italy.
 > Verse 15: The Christians from Rome walk a long way to meet Paul. The Market of Appius was about 40 miles (65 kilometers) from Rome. Paul takes courage: He is not alone.
@@ -172,9 +170,8 @@ and they will listen.”
 the Jews left
 and argued strongly among themselves.
 
-*lodging* = a place where someone lives for a while
-
 > **What does this mean?**
+> Lodging means: a place where someone lives for a while.
 > Verses 17–20: Paul calls the Jews in Rome “Brothers.” He says: I have nothing against my people. He is bound with this chain “because of the hope of Israel.” Paul stays connected with his people to the very end.
 > Verse 24: Some Jews come to faith, others don’t. The people are not against Paul; they are divided.
 > Verses 26–27 quote Isaiah 6:9–10. The prophet Isaiah said these words to his own people. They are a lament from within Israel, not a judgment from outside.

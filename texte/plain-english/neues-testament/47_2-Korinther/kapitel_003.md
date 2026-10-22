@@ -33,9 +33,8 @@ but of the Spirit.
 For the letter kills,
 but the Spirit gives life.
 
-*letter of recommendation* = a letter that says someone can be trusted
-
 > **What does this mean?**
+> Letter of recommendation means: a letter that says someone can be trusted.
 > Verse 1: Other preachers came to Corinth with letters of recommendation. Paul says: I don’t need any. The church itself is my letter of recommendation.
 > Verse 3: Here Paul takes up words of the prophets. In Jeremiah 31:31–33 God promises a new covenant in which he writes his law on people’s hearts. In Ezekiel 36:26 God promises a heart of flesh instead of a heart of stone. These promises were first given to Israel.
 > Verse 6: “The letter kills, but the Spirit gives life”: Paul doesn’t mean that God’s commandments are bad (compare Romans 7:12). He means: Written rules alone cannot change a person. Only God’s Spirit can do that.
@@ -66,9 +65,8 @@ came with glory,
 then what remains
 is much more glorious.
 
-*condemnation* = being judged guilty
-
 > **What does this mean?**
+> Condemnation means: being judged guilty.
 > Verse 7: Paul recalls Exodus 34:29–35. When Moses came down from Mount Sinai, his face shone because he had talked with God.
 > Verses 7–11: Paul compares: The gift of the Torah at Sinai was already full of glory. Paul says this clearly. But in Christ he sees an even greater glory.
 > “The service of death” and “the service of condemnation” are hard words. Paul means: The commandment shows people their guilt, but it alone cannot save them. He does not say that the Torah is worthless.
@@ -101,9 +99,8 @@ from glory to glory,
 as it comes from the Lord,
 the Spirit.
 
-*veil* = a cloth that covers the face
-
 > **What does this mean?**
+> Veil means: a cloth that covers the face.
 > Verse 13: Paul interprets the story from Exodus 34:33–35 in his own way.
 > Verses 14–15: Paul describes why many of his own people do not recognize Jesus as the Christ. He speaks as a Jew about his own people, with pain, not with contempt.
 > Very important: In church history these verses were often used against Jews. In the Middle Ages, the “Synagogue” was shown as a woman with her eyes blindfolded. Such pictures encouraged contempt and hatred. That was wrong. Paul himself says in the letter to the Romans: God has not rejected his people (Romans 11:1–2), and his gifts and his calling can never be taken back (Romans 11:29).

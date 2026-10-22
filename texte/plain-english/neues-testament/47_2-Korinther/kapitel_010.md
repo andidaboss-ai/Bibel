@@ -37,9 +37,8 @@ to obey Christ.
 to punish all disobedience
 once your obedience is complete.
 
-*stronghold* = a fortress, a strong building that is hard to capture
-
 > **What does this mean?**
+> Stronghold means: a fortress, a strong building that is hard to capture.
 > Verse 1: The opponents said about Paul: He writes bold letters, but when he is here, he is weak.
 > Verses 3–5: Paul speaks of a fight. But that is a picture. His “weapons” are words, truth and prayer. It is about wrong ideas, not about violence against people.
 > Important: These verses give no one the right to use violence in the name of faith.

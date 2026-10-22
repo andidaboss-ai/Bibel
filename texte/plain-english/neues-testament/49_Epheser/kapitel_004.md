@@ -78,9 +78,8 @@ Each individual part works according to its measure.
 In this way the body grows
 and builds itself up in love.
 
-*evangelists* = people who spread the Good News
-
 > **What does this mean?**
+> Evangelists means: people who spread the Good News.
 > Verse 8 takes up Psalm 68:18 (in the Hebrew Bible and in some Bibles 68:19). The letter applies the psalm to Christ.
 > Verse 9: “The lower parts of the earth”: Some understand this as Jesus coming to earth, others as his way into the realm of the dead.
 > Verses 11–12: Leaders in the church have the task of equipping all the others for their service. Every Christian has a service.
@@ -159,9 +158,8 @@ and tenderhearted.
 Forgive one another,
 just as God also forgave you in Christ.
 
-*slander* = saying bad and untrue things about others
-
 > **What does this mean?**
+> Slander means: saying bad and untrue things about others.
 > Verse 25 recalls Zechariah 8:16.
 > Verse 26: “Be angry, and don’t sin.” These words take up Psalm 4:4 (in the Hebrew Bible and in some Bibles 4:5). Anger in itself is not sin. But you should not hold on to it. Good advice: Settle a quarrel on the same day if you can.
 > Important: Whoever has experienced injustice or violence may be angry. That is a healthy feeling. Forgiveness often needs time, and it does not mean that you have to accept injustice. If you experience violence at home, you can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247.

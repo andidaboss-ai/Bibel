@@ -72,10 +72,9 @@ They should not eat what is strangled, and they should not eat blood.
 [21] For a very long time, in every city there have been people who preach Moses.
 His books are read aloud in the synagogues every Sabbath.”
 
-*yoke* = a wooden bar put on the necks of animals that pull a load
-*strangled* = here: meat from animals killed without letting the blood drain out
-
 > **What does this mean?**
+> Yoke means: a wooden bar put on the necks of animals that pull a load.
+> Strangled means: here: meat from animals killed without letting the blood drain out.
 > Verses 7–9: Peter recalls Cornelius (chapter 10). God gave non-Jews the Spirit, without circumcision.
 > Verse 10: A “yoke” is a piece of wood with which animals pull a cart. Peter means: You are putting a burden on the new Christians.
 > Important: For devout Jews the Torah is not a burden, but a gift and a joy (Psalm 119). Here Peter does not say that the law is bad. He says: Salvation comes by grace, for Jews and non-Jews alike (verse 11).

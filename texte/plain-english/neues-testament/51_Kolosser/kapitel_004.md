@@ -104,9 +104,8 @@ Remember my chains.
 Grace be with you.
 Amen.
 
-*physician* = doctor
-
 > **What does this mean?**
+> Physician means: doctor.
 > Verse 9: Onesimus was a slave from Colossae. The letter to Philemon tells about him. Here it says: Tychicus comes “together with Onesimus, the faithful and beloved brother.” In the church he is a brother of equal worth.
 > Verse 10: Mark had once parted from Paul (Acts 15:37–39). Now they are reconciled again. Many connect him with the Gospel of Mark.
 > Verse 11: “Jesus” was a common Jewish name at that time. Paul is glad about Jewish coworkers who stand by him.

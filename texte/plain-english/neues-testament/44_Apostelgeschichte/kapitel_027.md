@@ -60,9 +60,8 @@ and spend the winter there.
 That is a port of Crete,
 facing southwest and northwest.
 
-*shelter* = here: the side of an island protected from the wind
-
 > **What does this mean?**
+> Shelter means: here: the side of an island protected from the wind.
 > Verse 1: From here on Luke again tells the story in the “we” form. He was probably on the ship.
 > Verse 3: The Roman centurion Julius is kind to Paul. People who believe differently can also act kindly.
 > Verse 9: “The Fast” is the Jewish Day of Atonement, Yom Kippur, in the fall. After that, sailing on the Mediterranean was dangerous because of the storms.
@@ -131,9 +130,8 @@ that it will be just
 as it has been told to me.
 [26] But we must run aground on an island.”
 
-*sea anchor* = a device dragged behind a ship to slow it down
-
 > **What does this mean?**
+> Sea anchor means: a device dragged behind a ship to slow it down.
 > Verse 14: “Euroclydon” was a dangerous northeast wind.
 > Verse 17: The Syrtis are dangerous sandbars off the coast of North Africa, in today’s Libya.
 > Verse 20: Without sun and stars, the sailors couldn’t know where they were. Everyone loses hope.
@@ -220,9 +218,8 @@ some on planks
 and some on other pieces of the ship.
 So they all got safely to land.
 
-*fathom* = a measure of depth, about 6 feet (1.8 meters)
-
 > **What does this mean?**
+> Fathom means: a measure of depth, about 6 feet (1.8 meters).
 > Verse 27: At that time the “Adriatic Sea” meant the whole sea between Greece, Italy and Africa.
 > Verse 28: Twenty fathoms are about 120 feet (36 meters).
 > Verse 35: Paul takes bread, gives thanks to God and breaks it, as Jesus did. In the middle of the storm a meal becomes a sign of hope.

@@ -63,9 +63,8 @@ in believing,
 so that you may overflow with hope
 in the power of the Holy Spirit.
 
-*reproaches* = insults, blame
-
 > **What does this mean?**
+> Reproaches means: insults, blame.
 > Verse 1: Whoever is strong should be considerate of the weaker. This continues chapter 14.
 > Verse 3 quotes Psalm 69:9 (in the Hebrew Bible and in some Bibles 69:10).
 > Verse 4: The Scriptures of Israel, the Old Testament, are written for Christians too. They give comfort and hope.

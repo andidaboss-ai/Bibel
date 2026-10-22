@@ -29,9 +29,8 @@ And it will be done for you.
 [8] “My Father is glorified when you bear much fruit.
 In this way, you will be my disciples.
 
-*prune* = cut back a plant so that it grows better
-
 > **What does this mean?**
+> Prune means: cut back a plant so that it grows better.
 > “I am the true vine” is the seventh and last “I am” saying in John.
 > In the Old Testament the vineyard or the vine is a picture for Israel (Isaiah 5:1–7; Psalm 80:8–16, in the Hebrew Bible and in some Bibles 80:9–17). Jesus takes up this picture.
 > Important: “The true vine” does not mean that Israel is a “false” vine. Jesus himself is a Jew and belongs to Israel. He says: Whoever is connected with me has life.
@@ -103,9 +102,8 @@ When he comes, he will tell about me.
 [27] And you will also tell about me,
 because you have been with me from the beginning.”
 
-*persecute* = hunt down and treat cruelly because of their faith
-
 > **What does this mean?**
+> Persecute means: hunt down and treat cruelly because of their faith.
 > In John, “the world” often means: everything that sets itself against God. It does not mean a certain group of people.
 > Verses 18–21: The first Christians experienced rejection and persecution. Jesus prepares his disciples for it.
 > Important: These verses do not give Christians the right to feel superior or to label others as “the world.” God loves the world (3:16).

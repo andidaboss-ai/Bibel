@@ -46,9 +46,8 @@ whether we wake or sleep.
 and build each other up,
 just as you are already doing.
 
-*sober* = clear-headed, not drunk
-
 > **What does this mean?**
+> Sober means: clear-headed, not drunk.
 > Verses 1–2: No one knows when Jesus will come again. So you should not calculate dates either. Jesus himself used the picture of the thief (Matthew 24:43–44).
 > Verse 3: “Peace and safety” was a slogan of the Roman Empire. Paul says: True safety is not given by the emperor, but by God.
 > Verses 5–8: Christians are to live awake and sober, as if it were already day. That means: attentive, sensible, not indifferent.
@@ -91,10 +90,9 @@ in Christ Jesus for you.
 and hold firmly to what is good.
 [22] Keep away from every kind of evil.
 
-*fainthearted* = fearful, easily discouraged
-*quench* = to put out, like a fire
-
 > **What does this mean?**
+> Fainthearted means: fearful, easily discouraged.
+> Quench means: to put out, like a fire.
 > Verses 12–13: The church already had people who carried responsibility. They deserve respect because they work hard. But they too must not misuse their power.
 > Verse 14: Every person needs something different: Some need a clear word, others encouragement, others support. And everyone needs patience.
 > Verse 15: Not returning evil for evil: Jesus taught this (Matthew 5:38–48). It applies “for all,” not only to Christians.

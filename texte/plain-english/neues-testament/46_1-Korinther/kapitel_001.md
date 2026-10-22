@@ -31,10 +31,9 @@ both theirs and ours.
 from God our Father
 and the Lord Jesus Christ.
 
-*church* = the community of Christians
-*sanctified* = made holy, belonging to God
-
 > **What does this mean?**
+> Church means: the community of Christians.
+> Sanctified means: made holy, belonging to God.
 > Verse 1: Sosthenes was perhaps the leader of the synagogue in Corinth that Acts 18:17 tells about. That is not certain.
 > Verse 2: “Saints” are not especially pious people, but all Christians. They belong to God.
 > Verse 2: Paul writes not only to Corinth, but to all Christians in every place. The letter is meant for us too.
@@ -174,12 +173,11 @@ as it is written:
 “He who boasts,
 let him boast in the Lord.”
 
-*scribe* = a teacher of the Scriptures
-*righteousness* = living right before God
-*redemption* = being set free
-
 
 > **What does this mean?**
+> Scribe means: a teacher of the Scriptures.
+> Righteousness means: living right before God.
+> Redemption means: being set free.
 > Verse 18: A crucified savior sounded like nonsense to many people at that time. Crucifixion was the worst and most shameful death penalty. Paul says: It is precisely in the cross that God’s power shows itself.
 > Verse 19 quotes Isaiah 29:14. Verse 31 takes up Jeremiah 9:24 (in the Hebrew Bible and in some Bibles 9:23).
 > Verse 21: “In the wisdom of God”: God in his wisdom arranged it this way. People cannot find God by their own reason alone. God shows himself, in the message about Jesus.

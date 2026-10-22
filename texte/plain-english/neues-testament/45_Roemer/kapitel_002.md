@@ -54,10 +54,9 @@ to the Jew first,
 and also to the Greek.
 [11] For there is no partiality with God.
 
-*forbearance* = holding back punishment, patience
-*partiality* = treating some people better than others
-
 > **What does this mean?**
+> Forbearance means: holding back punishment, patience.
+> Partiality means: treating some people better than others.
 > Verse 1: Paul turns around. He has just described the sins of the world. Now he says: Whoever points a finger at others is also meant.
  No one is better than the others.
 > Verse 4: A beautiful sentence: The goodness of God leads to repentance. God doesn’t threaten first; he invites.
@@ -98,9 +97,8 @@ when God will judge the secrets of people
 through Jesus Christ,
 as my Good News says.
 
-*conscience* = the inner voice that tells us what is right and wrong
-
 > **What does this mean?**
+> Conscience means: the inner voice that tells us what is right and wrong.
 > Verse 12: “The law” is the Torah, which God gave to Israel. The other nations didn’t know it.
 > Verses 14–15: People who don’t know the Bible also have a conscience. They often know what is good and evil. God has written it in their hearts.
 > For today: The conscience is a gift from God. Many people of other religions or of no religion do good.
@@ -163,9 +161,8 @@ not in the letter.
 His praise does not come from people,
 but from God.
 
-*circumcision* = cutting away the foreskin; the sign of God’s covenant with Israel
-
 > **What does this mean?**
+> Circumcision means: cutting away the foreskin; the sign of God’s covenant with Israel.
 > Important: Paul is a Jew himself. Here he writes like a prophet who warns his own people. He speaks to an imagined partner in a conversation, as teachers did at that time. This is not about the Jews as a whole.
 > Verses 17–20: Paul lists the real gifts of Israel: the law, the knowledge of God’s will, the task of being a light for the nations. These are great gifts from God.
 > Verses 21–23: Paul warns against hypocrisy: teaching others but acting differently yourself. This warning is for all people, and especially for Christians.
