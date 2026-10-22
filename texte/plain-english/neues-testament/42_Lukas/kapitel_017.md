@@ -49,7 +49,7 @@ you should say,
 We have only done our duty.’”
 
 > **What does this mean?**
-> Verses 1–2: “These little ones” are children and people whose faith is still weak or who are easily hurt. Whoever leads them into evil or destroys their faith takes on heavy guilt. Jesus speaks of things that make people fall into sin. Older Bibles call them “occasions of stumbling.” A millstone was a heavy stone for grinding grain.
+> Verses 1–2: “These little ones” are children and people whose faith is still weak or who are easily hurt. Whoever leads them into evil or destroys their faith takes on heavy guilt. Jesus speaks of things that make people fall into sin. The WEB, our English source text, calls them “occasions of stumbling.” A millstone was a heavy stone for grinding grain.
 > Important: These words show how seriously Jesus takes the protection of the weak. This applies most of all to the abuse of children, including in churches. In the US, call RAINN at 1-800-656-4673, or call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111.
 > Verse 3: The words “against you” are not in all manuscripts.
 > Verses 3–4: Forgiveness should be generous, again and again. But Jesus also says: Wrong should be spoken about. Telling someone that they did wrong should be done clearly, but with love.
@@ -60,12 +60,12 @@ We have only done our duty.’”
 
 ---
 
-## Ten lepers are healed (Verses 11–19)
+## 10 lepers are healed (Verses 11–19)
 
 [11] Jesus was on his way to Jerusalem.
 He was traveling along the border between Samaria and Galilee.
 [12] He was going into a village.
-Ten men who had leprosy came to meet him.
+10 men who had leprosy came to meet him.
 They stood at a distance.
 [13] They called out loudly,
 “Jesus, Master,
@@ -83,7 +83,7 @@ at the feet of Jesus
 and thanked him.
 This man was a Samaritan.
 [17] Jesus asked,
-“Weren’t all ten men made clean?
+“Weren’t all 10 men made clean?
 Where are the other nine?
 [18] Only this foreigner came back
 to give praise to God.
@@ -94,10 +94,10 @@ Your faith has healed you.”
 
 > **What does this mean?**
 > People with leprosy had to keep their distance (Leviticus 13:45–46). That is why they call out from far away.
-> Verse 14: According to the law of Moses, a priest had to confirm that someone was well again (Leviticus 14). The ten set out before they are healed. That is trust.
+> Verse 14: According to the law of Moses, a priest had to confirm that someone was well again (Leviticus 14). The 10 set out before they are healed. That is trust.
 > The other nine do nothing wrong. They do what Jesus told them. But only one comes back to say thank you.
 > The thankful one is a Samaritan, a foreigner. Back then Jews and Samaritans were enemies. In their shared need they were together.
-> Verse 19: All ten became well. But only to this one does Jesus say: “Your faith has healed you.” The Greek word can also mean “saved.” He received more than health: an encounter with God.
+> Verse 19: All 10 became well. But only to this one does Jesus say: “Your faith has healed you.” The Greek word can also mean “saved.” He received more than health: an encounter with God.
 > For today: Saying thank you is important, to God and to people.
 
 ---

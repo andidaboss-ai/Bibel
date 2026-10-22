@@ -15,14 +15,14 @@ in the daily serving of food.
 and said,
 “It is not right
 for us to neglect the word of God
-and serve tables.
+and serve at tables.
 [3] So, brothers,
 choose from among you seven men
 who have a good reputation,
 full of the Holy Spirit and of wisdom.
 We will appoint them over this task.
-[4] But we will continue steadfastly in prayer
-and in the ministry of the word.”
+[4] But we will keep on faithfully with prayer
+and with serving the word.”
 [5] These words pleased the whole crowd.
 They chose Stephen,
 a man full of faith and of the Holy Spirit,

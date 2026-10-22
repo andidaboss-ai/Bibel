@@ -50,7 +50,7 @@ He said to the people who were following him,
 I have not found such great faith in anyone, not even in Israel.
 [11] I tell you:
 Many people will come from the east and from the west.
-They will sit at the table with Abraham, Isaac and Jacob in the Kingdom of Heaven.
+They will sit at the table with Abraham, Isaac, and Jacob in the Kingdom of Heaven.
 [12] But the children of the Kingdom will be thrown out into the darkness outside.
 There will be weeping and grinding of teeth there.”
 [13] Then Jesus said to the centurion,
@@ -58,10 +58,10 @@ There will be weeping and grinding of teeth there.”
 And his servant was healed in that very hour.
 
 > **What does this mean?**
-> A centurion was a Roman officer who commanded about a hundred soldiers. He was not a Jew, and he belonged to the occupying power. Even so, he comes to Jesus, and not for himself, but for his sick servant.
+> A centurion was a Roman officer who commanded about 100 soldiers. He was not a Jew, and he belonged to the occupying power. Even so, he comes to Jesus, and not for himself, but for his sick servant.
 > Verse 8: The centurion knows that according to the rules of that time, a devout Jew did not like to enter the house of a non-Jew. He says: You don’t have to come. One word from you is enough. These words are still prayed today in the Catholic Mass: “Lord, I’m not worthy …”
 > Verse 9: He knows about giving orders and trusts that Jesus speaks with authority.
-> Verses 10–12: Jesus is amazed at the faith of this foreigner. Many people from all nations will sit at the table with Abraham, Isaac and Jacob in the Kingdom of God. “The children of the Kingdom” are those who were sure of their place. This is a warning to everyone who thinks their place with God is safe, Christians too. It is not a statement that God has rejected the Jewish people (compare Romans 11:1–2).
+> Verses 10–12: Jesus is amazed at the faith of this foreigner. Many people from all nations will sit at the table with Abraham, Isaac, and Jacob in the Kingdom of God. “The children of the Kingdom” are those who were sure of their place. This is a warning to everyone who thinks their place with God is safe, Christians too. It is not a statement that God has rejected the Jewish people (compare Romans 11:1–2).
 > “Weeping and grinding of teeth” is a picture for despair and regret.
 
 ---
@@ -168,7 +168,7 @@ When they saw him,
 they begged him to leave their area.
 
 > **What does this mean?**
-> Verse 28: The region lay on the east side of the lake, where mostly non-Jews lived. That is why there were herds of pigs there, which were unclean for Jews. The name of the place is written differently in the old manuscripts: “Gergesenes” (as in the WEB), “Gadarenes” or “Gerasenes” (compare Mark 5:1; Luke 8:26).
+> Verse 28: The region lay on the east side of the lake, where mostly non-Jews lived. That is why there were herds of pigs there, which were unclean for Jews. The name of the place is written differently in the old manuscripts: “Gergesenes” (as in the WEB, our English source text), “Gadarenes,” or “Gerasenes” (compare Mark 5:1; Luke 8:26).
 > The two men lived in tombs, cast out and feared. Matthew speaks of two men; Mark and Luke tell about one.
 > Tombs: graves carved into the rock, like small caves.
 > Verse 29: The demons recognize at once who Jesus is: the Son of God.

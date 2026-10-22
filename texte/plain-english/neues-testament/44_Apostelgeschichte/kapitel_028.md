@@ -109,7 +109,7 @@ When they had come together,
 he said to them,
 “Brothers,
 I have done nothing against our people
-or the customs of our fathers.
+or the customs of our ancestors.
 Still I was handed over as a prisoner from Jerusalem
 into the hands of the Romans.
 [18] They questioned me
@@ -150,13 +150,13 @@ Others did not believe.
 and left.
 Before that, Paul spoke one more message:
 “The Holy Spirit spoke rightly
-through Isaiah the prophet to our fathers.
+through Isaiah the prophet to our ancestors.
 [26] He said,
 ‘Go to this people and say:
 You will hear and hear,
 but will in no way understand.
 You will see and see,
-but will in no way perceive.
+but will in no way really see.
 [27] For this people’s heart has grown hard.
 Their ears hear with difficulty.
 They have closed their eyes.

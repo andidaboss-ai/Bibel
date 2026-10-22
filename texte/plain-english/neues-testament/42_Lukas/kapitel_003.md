@@ -108,7 +108,6 @@ He locked John up in prison.
 
 > **What does this mean?**
 > John criticizes the powerful Herod. Herod had married his brother’s wife, which was forbidden by the law of Moses (Leviticus 18:16).
-> Rebuked: told off sharply for doing wrong.
 > Luke already tells about the arrest here, even though it happened later. In this way he finishes the story of John before the story of Jesus begins.
 > John is an example of courage: He tells the powerful the truth.
 

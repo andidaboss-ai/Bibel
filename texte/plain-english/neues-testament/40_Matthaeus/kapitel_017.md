@@ -5,7 +5,8 @@
 
 ## The transfiguration on the mountain (Verses 1–8)
 
-[1] Six days later, Jesus took Peter, James and John, the brother of James, with him.
+[1] Six days later, Jesus took Peter, James and John with him.
+John was the brother of James.
 He led them up a high mountain.
 They were alone there.
 [2] There Jesus was changed in front of them.
@@ -99,9 +100,9 @@ They asked,
 “Why were we not able to drive it out?”
 [20] He said to them,
 “Because you do not believe enough.
-I tell you the truth:
-Your faith may be as small as a mustard seed.
-Then you will say to this mountain,
+For most certainly I tell you:
+If you have faith like a mustard seed,
+you will say to this mountain,
 ‘Move from here to there,’
 and it will move.
 Nothing will be impossible for you.

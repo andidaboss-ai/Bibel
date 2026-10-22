@@ -50,7 +50,7 @@ He gave them authority over the unclean spirits.
 to take nothing for the journey
 except a walking staff:
 no bread, no bag,
-no money in their belts.
+no money in their purses.
 [9] They were to wear sandals,
 but not put on two tunics.
 [10] He said to them,
@@ -92,7 +92,7 @@ That is why these powers are at work in him.”
 “He is Elijah.”
 Still others said,
 “He is a prophet,
-like one of the prophets.”
+or like one of the prophets.”
 [16] But when Herod heard this,
 he said,
 “This is John,
@@ -172,8 +172,7 @@ and laid it in a tomb.
 They told him everything
 that they had done and taught.
 [31] He said to them,
-“Come away to a deserted place,
-where you can be by yourselves,
+“Come away to a deserted place
 and rest a while.”
 For so many people were coming and going
 that they didn’t even have time to eat.
@@ -184,6 +183,7 @@ to be by themselves.
 and recognized him.
 They ran there on foot from all the towns
 and arrived ahead of them.
+They gathered around him.
 [34] When Jesus got out of the boat,
 he saw a large crowd.
 He had compassion on them,
@@ -201,7 +201,7 @@ For they have nothing to eat.”
 “You give them something to eat!”
 They asked him,
 “Shall we go
-and buy two hundred denarii worth of bread
+and buy 200 denarii worth of bread
 and give them something to eat?”
 [38] He said to them,
 “How many loaves do you have?
@@ -213,7 +213,7 @@ they said,
 to have everyone sit down in groups
 on the green grass.
 [40] They sat down in groups,
-by hundreds and by fifties.
+in groups of 100 and of 50.
 [41] He took the five loaves and the two fish,
 looked up to heaven,
 blessed,
@@ -222,7 +222,7 @@ and gave them to his disciples
 to set before the people.
 He also divided the two fish among them all.
 [42] They all ate and were filled.
-[43] They picked up twelve baskets full of broken pieces
+[43] They picked up 12 baskets full of broken pieces
 and also of the fish.
 [44] Those who ate the loaves
 were 5,000 men.
@@ -230,7 +230,7 @@ were 5,000 men.
 > **What does this mean?**
 > Verse 31: Jesus takes care of his disciples. After a lot of work they should rest. Breaks and rest are good and important.
 > Verse 34: “Like sheep without a shepherd”: A picture from the Old Testament (Numbers 27:17; Ezekiel 34:5). Jesus is the good shepherd who takes care of his people.
-> Verse 37: A denarius was about a day’s wage for a worker. So two hundred denarii were about the wages for two hundred days of work. The disciples think it is impossible.
+> Verse 37: A denarius was about a day’s wage for a worker. So 200 denarii were about the wages for 200 days of work. The disciples think it is impossible.
 > Verse 39: Only Mark mentions the “green grass.” That reminds us of Psalm 23:2, where God lets us lie down in green pastures.
 > The words took, looked up, blessed, broke and gave remind Christians of the Lord’s Supper (14:22).
 > Verse 44: In those days often only the men were counted. Matthew adds that women and children were there too (Matthew 14:21).

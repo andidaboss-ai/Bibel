@@ -8,10 +8,10 @@
 [1] Jesus was full of the Holy Spirit.
 He came back from the Jordan River.
 The Spirit led him into the wilderness.
-[2] There the devil tempted him for forty days.
+[2] There the devil tempted him for 40 days.
 Tempting means: trying to get someone to do wrong.
 Jesus ate nothing during those days.
-When the forty days were over, he was hungry.
+When the 40 days were over, he was hungry.
 [3] The devil said to him,
 “If you are the Son of God,
 tell this stone to become bread.”
@@ -51,7 +51,7 @@ Then you will not hit your foot against a stone.’”
 So he left him until another time.
 
 > **What does this mean?**
-> Forty days in the wilderness remind us of the forty years that Israel wandered through the wilderness. There Israel was often put to the test. Jesus passes the test.
+> The 40 days in the wilderness remind us of the 40 years that Israel wandered through the wilderness. There Israel was often put to the test. Jesus passes the test.
 > Each time, Jesus answers with words from Deuteronomy: Deuteronomy 8:3; 6:13; 6:16. He lives from the Holy Scriptures of Israel.
 > In Luke the order is different from Matthew (Matthew 4:1–11): The last temptation is in Jerusalem, at the temple. Jerusalem is especially important for Luke.
 > The devil even quotes the Bible (Psalm 91:11–12). Bible words can also be misused.
@@ -133,7 +133,7 @@ and went on his way.
 > In the synagogue, passages from the law of Moses and from the prophets were read aloud. Afterward someone explained the text. To do this, he sat down.
 > Verses 18–19 quote Isaiah 61:1–2 and one line from Isaiah 58:6. This is like a program for Jesus’ whole work: good news for the poor, freedom for prisoners, light for the blind, freedom for the oppressed.
 > Anointed: chosen by God for a task. In the past, oil was poured on a person’s head for this.
-> “The year when the Lord shows his favor” reminds us of the “Year of Jubilee” in Leviticus 25: Every fifty years debts were to be canceled and slaves set free.
+> “The year when the Lord shows his favor” reminds us of the “Year of Jubilee” in Leviticus 25: Every 50 years debts were to be canceled and slaves set free.
 > The words “to heal people whose hearts are broken” are missing in some old manuscripts.
 > Verse 21: “Today”: Jesus says that this promise is coming true now, with him.
 > Verses 25–27: Jesus recalls two stories from the books of Kings. Elijah helped a foreign widow in Zarephath (1 Kings 17:8–24). Elisha healed Naaman the Syrian (2 Kings 5). Both helped people who did not belong to Israel. Jesus shows: God’s goodness is also for foreigners.
@@ -151,7 +151,7 @@ On the Sabbath day he taught the people.
 [32] They were amazed at his teaching,
 because his words had authority.
 [33] In the synagogue there was a man
-who had an evil spirit, an unclean demon.
+who had the spirit of an unclean demon.
 He shouted with a loud voice,
 [34] “Ah! What do you want with us,
 Jesus of Nazareth?
@@ -202,7 +202,7 @@ But Jesus spoke sharply to them.
 He did not let them speak,
 because they knew that he was the Christ.
 [42] When the day came,
-Jesus went out to a lonely place.
+Jesus went out to a place where no one lived.
 The crowds looked for him.
 They came to him
 and tried to hold on to him.

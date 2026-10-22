@@ -85,7 +85,7 @@ A demon can’t open the eyes of blind people, can it?”
 > For today: The churches are different, but Jesus wants all who belong to him to be one. That is a call to unity among Christians.
 > Verse 18: Jesus goes his way freely. No one can take his life from him unless he gives it himself.
 > Verses 19–21: “The Jews” here are listeners who do not agree with each other. Many are open to Jesus.
-> Important: Mental illnesses are not possession. “Insane” was used here as an insult. People with mental illnesses deserve respect and help.
+> Important: Mental illnesses are not possession. “Out of his mind” was used here as an insult. People with mental illnesses deserve respect and help.
 
 ---
 
@@ -150,7 +150,8 @@ But everything John said about this man is true.”
 > Verse 23: Solomon’s porch was a covered row of columns at the edge of the temple square.
 > Verses 28–29: A great comfort: No one can tear those who belong to Jesus out of God’s hand.
 > Verse 30: “I and the Father are one.” Christians see in this a reason for their faith in the triune God: Father, Son and Holy Spirit are one God.
-> Verses 31–33: To the opponents this sounds like blasphemy. According to the law, blasphemy was severely punished (Leviticus 24:16). Their concern for God’s honor was serious.
+> Verses 31–33: To the opponents this sounds like blasphemy, that is, speaking against God.
+ According to the law, blasphemy was severely punished (Leviticus 24:16). Their concern for God’s honor was serious.
 > Verse 34 quotes Psalm 82:6. There judges are called “gods,” because they judge on God’s behalf. Jesus argues like a Jewish teacher.
 > Verse 35: “The Scriptures can’t be broken”: Jesus holds the Holy Scriptures of Israel to be valid.
 > Important: “The Jews” here means opponents in an argument in the temple. It is not a judgment on the Jewish people. At the end of the chapter “many believed in him” (verse 42).
