@@ -18,7 +18,7 @@ He told the people to turn away from their sins and be baptized.
 Then God would forgive their sins.
 [4] This is what is written in the book of Isaiah the prophet:
 “A voice calls out in the wilderness,
-‘Prepare the way for the Lord.
+‘Make ready the way of the Lord.
 Make his paths straight.
 [5] Every valley will be filled.
 Every mountain and every hill will be made low.
@@ -27,7 +27,7 @@ The rough roads will become smooth.
 [6] All people will see how God saves.’”
 
 > **What does this mean?**
-> Like a historian, Luke names the exact rulers. The 15th year of Emperor Tiberius was about AD 28 or 29.
+> Like a historian, Luke names the exact rulers. The fifteenth year of Emperor Tiberius was about AD 28 or 29.
 > “Herod” here is Herod Antipas, a son of Herod the Great. Tetrarch: a ruler over part of a country.
 > Annas had been high priest earlier. His son-in-law Caiaphas held the office at this time (compare John 18:13). But Annas still had great influence.
 > The word of God comes to John as it came to the prophets in the Old Testament.
@@ -120,8 +120,8 @@ He locked John up in prison.
 Jesus was baptized too.
 While he was praying,
 the sky opened.
-[22] The Holy Spirit came down on him.
-The Spirit had a body like a dove.
+[22] The Holy Spirit came down on him
+in bodily form, like a dove.
 And a voice came from the sky:
 “You are my Son. I love you.
 I am very pleased with you.”
@@ -136,7 +136,7 @@ I am very pleased with you.”
 
 ## The family tree of Jesus (Verses 23–38)
 
-[23] Jesus was about thirty years old
+[23] Jesus was about 30 years old
 when he began to teach.
 People thought that he was the son of Joseph.
 Joseph was the son of Heli,
@@ -216,7 +216,7 @@ the son of Adam,
 the son of God.
 
 > **What does this mean?**
-> At about thirty years old, Jesus begins his public work. The priests also began their service at thirty (Numbers 4:3), and David became king at thirty (2 Samuel 5:4).
+> At about 30 years old, Jesus begins his public work. The priests also began their service at 30 (Numbers 4:3), and David became king at 30 (2 Samuel 5:4).
 > “People thought that he was the son of Joseph”: Luke has told us that Jesus was conceived through the Holy Spirit (1:35). By law, Jesus counted as Joseph’s son.
 > Matthew also has a family tree (Matthew 1:1–17). It begins with Abraham and goes down to Jesus. Luke goes from Jesus back to Adam and to God. He shows: Jesus belongs to all of humanity, not only to one people.
 > The two family trees are very different between David and Joseph. In Matthew the line goes through Solomon, in Luke through Nathan, another son of David. There are different explanations for this. One old explanation is: Luke gives the family tree of Mary. Others think of brother-in-law marriages or adoption. No one knows for sure.

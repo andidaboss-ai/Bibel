@@ -11,8 +11,8 @@ and he became angry.
 “Please, LORD, isn’t this what I said
 when I was still in my own country?
 That is why I hurried to run away to Tarshish.
-For I knew that you are a kind and merciful God.
-You are slow to get angry and full of loving kindness.
+For I knew that you are a gracious and merciful God.
+You are slow to become angry and full of loving kindness.
 You change your mind about doing harm.
 [3] So now, LORD, please take my life from me.
 For it is better for me to die than to live.”
@@ -91,7 +91,7 @@ And there are also many animals.”
 > **Prayer from the depths:** In the belly of the fish, Jonah prays: “Salvation belongs to the LORD” (2:9).
 > **A second chance:** God calls Jonah a second time (3:1).
 > **The enemies turn back:** The sailors who did not know God and the whole city of Nineveh turn to God. And God has mercy.
-> **God’s mercy upsets Jonah:** “For I knew that you are a kind and merciful God” (4:2).
+> **God’s mercy upsets Jonah:** “For I knew that you are a gracious and merciful God” (4:2).
 > **God loves all people:** “So shouldn’t I feel sorry for Nineveh, that great city?” (4:11). God’s love is for all peoples, even for enemies.
 > **Jonah and Jesus:** Jesus speaks about the “sign of Jonah”: As Jonah was in the fish for three days, he will be in the grave for three days (Matthew 12:39–41).
 > **For today:** Whom do I not want to receive God’s grace? Where am I running away from what God wants from me? And: God gives second chances, to me too.

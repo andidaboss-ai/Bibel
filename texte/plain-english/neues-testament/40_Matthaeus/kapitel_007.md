@@ -20,7 +20,7 @@ when there is a beam in your own eye?
 First take the beam out of your own eye,
 and then you can see clearly
 to take the speck out of your brother’s eye.
-[6] Don’t give what is holy to the dogs,
+[6] “Don’t give what is holy to the dogs,
 and don’t throw your pearls to the pigs,
 or they may trample them under their feet,
 and turn and tear you to pieces.
@@ -34,7 +34,7 @@ and turn and tear you to pieces.
 
 ## Ask, and it will be given to you (Verses 7–12)
 
-[7] Ask, and it will be given to you.
+[7] “Ask, and it will be given to you.
 Seek, and you will find.
 Knock, and the door will be opened to you.
 [8] For everyone who asks receives.
@@ -63,7 +63,7 @@ For this is the law and the prophets.
 
 ## The narrow gate (Verses 13–14)
 
-[13] Enter through the narrow gate.
+[13] “Enter through the narrow gate.
 For the gate is wide and the road is broad
 that leads to destruction,
 and there are many who go in by it.
@@ -80,7 +80,7 @@ and there are few who find it!
 
 ## You will know them by their fruits (Verses 15–23)
 
-[15] Beware of false prophets,
+[15] “Beware of false prophets,
 who come to you in sheep’s clothing,
 but inside they are hungry wolves.
 [16] By their fruits you will know them.
@@ -93,7 +93,7 @@ and a rotten tree can’t produce good fruit.
 [19] Every tree that doesn’t produce good fruit
 is cut down and thrown into the fire.
 [20] So by their fruits you will know them.
-[21] Not everyone who says to me, ‘Lord, Lord,’
+[21] “Not everyone who says to me, ‘Lord, Lord,’
 will enter into the Kingdom of Heaven,
 but the one who does the will of my Father in heaven.
 [22] Many will say to me on that day,
@@ -106,14 +106,14 @@ Go away from me, you who do evil!’
 
 > **What does this mean?**
 > Verses 15–20: From the outside, false prophets look harmless and devout like sheep, but inside they want to harm others. How can you recognize them? By their “fruits,” that is, by how they live and what their actions bring about.
-> For today: When religious leaders take advantage of people, put them under pressure, squeeze money out of them or abuse them, those are bad fruits, no matter how devoutly they talk. Whoever experiences pressure, manipulation or abuse in a religious group may get help, for example from counseling services for cults and spiritual abuse. In the US, you can call RAINN at 1-800-656-4673. Elsewhere, find help at findahelpline.com.
-> Verses 21–23: Devout words and even spectacular deeds are not enough. What matters is whether someone does God’s will: justice, mercy and love.
+> For today: When religious leaders take advantage of people, put them under pressure, squeeze money out of them, or abuse them, those are bad fruits, no matter how devoutly they talk. Whoever experiences pressure, manipulation, or abuse in a religious group may get help, for example from counseling services for cults and spiritual abuse. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
+> Verses 21–23: Devout words and even spectacular deeds are not enough. What matters is whether someone does God’s will: justice, mercy, and love.
 
 ---
 
 ## The house on the rock (Verses 24–29)
 
-[24] So everyone who hears these words of mine and does them
+[24] “So everyone who hears these words of mine and does them
 is like a wise man
 who built his house on the rock.
 [25] The rain came down,
@@ -136,7 +136,7 @@ and not like the scribes.
 
 > **What does this mean?**
 > The parable of the two houses ends the Sermon on the Mount. Two men build a house. From the outside both houses may look the same. You only notice the difference when the storm comes.
-> The rock is: hearing Jesus’ words and acting on them. Whoever lives like this has a firm foundation, even in the storms of life such as illness, loss or crises.
+> The rock is: hearing Jesus’ words and acting on them. Whoever lives like this has a firm foundation, even in the storms of life such as illness, loss, or crises.
 > Verses 28–29: The people are amazed. The scribes usually explained the Scriptures by pointing to earlier teachers. Jesus speaks with his own authority: “But I tell you.” This does not put down the Jewish scribes. Many of them were serious and devout teachers, and Jesus himself was called “Rabbi” (teacher).
 
 ---
@@ -144,10 +144,10 @@ and not like the scribes.
 ## Looking back: What have we read in the Sermon on the Mount (Chapters 5–7)?
 
 > **What does this mean?**
-> **The Beatitudes:** God turns to the poor, to those who mourn, to the gentle, to those who show mercy and to those who make peace (5:3–12).
+> **The Beatitudes:** God turns to the poor, to those who mourn, to the gentle, to those who show mercy, and to those who make peace (5:3–12).
 > **Salt and light:** “You are the salt of the earth. … You are the light of the world” (5:13–14).
 > **God’s commandment from the heart:** Not only not killing, but making peace. Not only not committing adultery, but being faithful in your heart. No revenge, but love for your enemies (5:21–48).
-> **True faith:** Doing good, praying and fasting, not for show, but for God (6:1–18).
+> **True faith:** Doing good, praying, and fasting, not for show, but for God (6:1–18).
 > **The Lord’s Prayer:** The prayer that Jesus taught his disciples (6:9–13).
 > **Trust instead of worry:** “Seek first God’s Kingdom” (6:33).
 > **The Golden Rule:** “Whatever you want people to do to you, you shall also do to them” (7:12).

@@ -26,17 +26,17 @@ who owed his master something.
 He asked the first one,
 ‘How much do you owe my master?’
 [6] The man said,
-‘A hundred batos of oil.’
+‘100 batos of oil.’
 The manager said to him,
 ‘Here is your bill.
-Sit down quickly and write fifty.’
+Sit down quickly and write 50.’
 [7] Then he asked another one,
 ‘How much do you owe?’
 The man said,
-‘A hundred cors of wheat.’
+‘100 cors of wheat.’
 The manager said to him,
 ‘Here is your bill.
-Write eighty.’
+Write 80.’
 [8] The master praised the dishonest manager,
 because he had acted cleverly.
 The children of this world
@@ -95,12 +95,12 @@ commits adultery.”
 > **What does this mean?**
 > Verse 14: Here Luke says of certain Pharisees that they loved money.
 > Important: This is not a judgment on all Pharisees or on the Jewish people. Many Pharisees lived simple, devout lives. The love of money is a danger for all people, including Christians and churches.
-> Verse 15: God does not look at the outside, but at the heart (1 Samuel 16:7). Older Bibles say: an “abomination” to God, something God finds disgusting.
+> Verse 15: God does not look at the outside, but at the heart (1 Samuel 16:7). The WEB says: an “abomination” to God, something God finds disgusting.
 > Verse 16: With John the Baptizer a new time begins. “Everyone is forcing his way into it” is understood in different ways: Many people badly want to get into God’s Kingdom. Or: You have to try with all your strength.
 > Verse 17: God’s law stays valid. Jesus does not cancel the Torah. That is important for the relationship between Christians and Jews.
 > Verse 18: Back then a man could easily divorce his wife. The woman was then often left without protection or support. With these words Jesus especially protects women. Adultery means breaking the faithfulness of a marriage.
 > Today the churches deal with divorce in different ways. The Catholic Church holds that a marriage cannot be dissolved, but it has a process for declaring a marriage null. Protestant and Orthodox churches allow a new marriage under certain circumstances.
-> Important: No one has to stay in a marriage where they experience violence. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US).
+> Important: No one has to stay in a marriage where they experience violence. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -130,7 +130,7 @@ Send Lazarus to dip the tip of his finger in water
 and cool my tongue.
 I am suffering terribly in this fire!’
 [25] But Abraham said,
-‘My son, remember:
+‘Son, remember:
 During your life you received good things.
 And in the same way, Lazarus received bad things.
 But now he is comforted here,
@@ -163,7 +163,7 @@ even if someone rises from the dead.’”
 > Purple was very expensive. Only kings and very rich people wore purple.
 > Verse 21: Dogs counted as unclean. The poor man is so weak that he cannot defend himself against them. Sores: open wounds on the skin.
 > The rich man does nothing bad to Lazarus. But he overlooks him every day, right at his door. That is his guilt.
-> “Abraham’s side” (in older Bibles: Abraham’s bosom) is a picture of the place of honor at God’s feast, very close to Abraham.
+> “Abraham’s side” (the WEB says “Abraham’s bosom”) is a picture of the place of honor at God’s feast, very close to Abraham.
 > Verse 23: “Hades” is the place of the dead. Here Jesus uses pictures that people back then knew. The parable does not want to describe exactly what it is like after death. It wants to warn: How I live now matters.
 > Verses 29–31: “Moses and the prophets” are the Holy Scriptures of Israel. They already say everything you need to know about justice and the poor (for example Deuteronomy 15:7–11).
 > Verse 31: Christians think of Jesus’ resurrection here. Even that does not convince everyone.

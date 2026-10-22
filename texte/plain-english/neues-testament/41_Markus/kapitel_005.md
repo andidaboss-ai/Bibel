@@ -68,7 +68,7 @@ the man who had been possessed by demons begged him
 that he might be with him.
 [19] But Jesus didn’t allow it.
 Instead he said to him,
-“Go to your house, to your own people,
+“Go to your house, to your friends,
 and tell them
 what great things the Lord has done for you
 and how he had mercy on you.”
@@ -79,10 +79,10 @@ And everyone was amazed.
 
 > **What does this mean?**
 > Jesus is now on the east shore of the Sea of Galilee, in an area where mostly non-Jews lived. That is why there are pigs there. For Jews pigs were considered unclean (Leviticus 11:7).
-> Verse 1: The manuscripts name the place differently: Gerasenes, Gadarenes or Gergesenes. The WEB has “Gadarenes.” Many other Bibles have Gerasenes.
+> Verse 1: The manuscripts name the place differently: Gerasenes, Gadarenes or Gergesenes. The WEB has “Gadarenes.” Some Bibles have Gerasenes.
 > The man is in a terrible situation: He lives alone among the graves, is chained up, cries out day and night and hurts himself. People in those days saw this as the work of demons.
 > Today we would probably think of a severe mental illness. Important: People with mental illnesses are not possessed by demons. They need help from doctors and therapists, and they need people who don’t shut them out.
-> Whoever hurts themselves or thinks about it is not alone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US).
+> Whoever hurts themselves or thinks about it is not alone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > “Legion” was a Roman troop of about 5,000 to 6,000 soldiers. Some interpreters also see in it a hint at the Roman occupation, which tormented the land.
 > At the end the man sits there calmly, “clothed, and in his right mind.” Jesus has given him back his life and his dignity.
 > The people are afraid and ask Jesus to leave. Perhaps because of the loss of the pigs, perhaps out of fear of such great power.
@@ -117,7 +117,7 @@ and pressed against him from all sides.
 ## The woman who touches his clothes (Verses 25–34)
 
 [25] There was a woman
-who had suffered from bleeding for twelve years.
+who had suffered from bleeding for 12 years.
 [26] She had suffered many things from many doctors
 and had spent everything she had.
 But she was no better.
@@ -151,7 +151,7 @@ Go in peace,
 and be healed of your disease.”
 
 > **What does this mean?**
-> The woman had suffered from bleeding for twelve years. According to the Law of Moses a woman with bleeding was considered unclean (Leviticus 15:25–27). She was not allowed to take part in worship, and whoever touched her also became unclean. So she was not only sick, but also shut out and had become poor.
+> The woman had suffered from bleeding for 12 years. According to the Law of Moses a woman with bleeding was considered unclean (Leviticus 15:25–27). She was not allowed to take part in worship, and whoever touched her also became unclean. So she was not only sick, but also shut out and had become poor.
 > Important: Monthly bleeding and women’s illnesses are nothing to be ashamed of. They are not a sign of sin.
 > Verse 26: In those days the doctors could not help her. That is no reason not to go to the doctor today. Doctors and medicine are a gift.
 > She does not dare to come to Jesus openly. Secretly she touches his clothes.
@@ -194,7 +194,7 @@ That means,
 “Girl, I tell you, get up!”
 [42] Immediately the girl got up
 and walked around.
-For she was twelve years old.
+For she was 12 years old.
 And they were completely amazed.
 [43] He strictly ordered them
 that no one should know about this.
@@ -202,7 +202,7 @@ And he told them
 to give her something to eat.
 
 > **What does this mean?**
-> Mark weaves two stories into each other: While Jesus is helping the woman, the girl dies. Both stories have the number twelve: The woman was sick for twelve years, the girl is twelve years old.
+> Mark weaves two stories into each other: While Jesus is helping the woman, the girl dies. Both stories have the number 12: The woman was sick for 12 years, the girl is 12 years old.
 > Verse 36: “Don’t be afraid, only believe.” Jesus gives courage to the desperate father when everything seems lost.
 > Verse 38: When someone died, there was loud mourning. Often paid mourning women and flute players came too.
 > Verse 39: “Is asleep”: For Jesus death is not the end. He can wake people from death as from sleep.

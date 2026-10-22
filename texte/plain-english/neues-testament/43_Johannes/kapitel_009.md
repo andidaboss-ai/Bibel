@@ -1,5 +1,5 @@
 # John – Chapter 9
-### “Though I was blind, now I see”
+### “I was blind, but now I can see”
 
 ---
 
@@ -33,7 +33,7 @@ The man himself said, “I am he.”
 [10] So they asked him,
 “How were your eyes opened?”
 [11] He answered,
-“The man called Jesus made mud.
+“A man called Jesus made mud.
 He spread it on my eyes.
 He told me, ‘Go to the pool of Siloam and wash.’
 So I went and washed, and now I can see.”
@@ -95,8 +95,8 @@ We know that this man is a sinner.”
 [25] He answered,
 “I don’t know if he is a sinner.
 I know one thing:
-I used to be blind.
-Now I can see.”
+I was blind,
+but now I can see.”
 [26] They asked him again,
 “What did he do to you?
 How did he open your eyes?”
@@ -115,7 +115,8 @@ But we don’t know where this man comes from.”
 You don’t know where he comes from.
 And yet he opened my eyes.
 [31] We know that God doesn’t listen to sinners.
-But God listens to anyone who honors him and does what he wants.
+But God listens to anyone who worships him and does what he wants.
+
 [32] Since the world began, no one has ever heard of anyone who opened the eyes of a person born blind.
 [33] If this man were not from God, he could do nothing.”
 [34] They answered him,
@@ -128,7 +129,7 @@ Then they threw him out.
 > Verse 16: The Pharisees do not agree with each other. Some are open to Jesus. Luke and John show again and again: There was no such thing as “the” Pharisees.
 > Verse 22: “Put out of the synagogue”: Many scholars think that John is also reflecting here the experience of his own church at the end of the first century. At that time Jewish and Christian communities painfully separated from one another. That is where the harsh language about “the Jews” in this Gospel comes from.
 > Important: “The Jews” here means certain leaders. The healed man, his parents, Jesus and the disciples are Jews themselves. These verses must not be used against Jewish people.
-> Verse 25: “I used to be blind. Now I can see.” The man stands by what he has experienced. He grows braver and braver.
+> Verse 25: “I was blind, but now I can see.” The man stands by what he has experienced. He grows braver and braver.
 > Verse 34: The opponents say he was “born in sins.” That is exactly what Jesus rejected in verse 3.
 > For today: Whoever has experienced something with God may tell about it, even if others do not want to believe it.
 

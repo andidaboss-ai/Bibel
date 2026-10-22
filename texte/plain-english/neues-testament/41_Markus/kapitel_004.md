@@ -30,16 +30,16 @@ The thorns grew up and choked it,
 and it produced no fruit.
 [8] Other seed fell on good ground.
 It came up, grew, and produced fruit:
-some thirty times as much,
-some sixty times,
-and some one hundred times as much.”
+some 30 times as much,
+some 60 times,
+and some 100 times as much.”
 [9] And he said,
 “Whoever has ears to hear, let him hear!”
 
 > **What does this mean?**
 > This parable is also in Matthew 13:1–9. Mark tells it in a similar way.
 > In those days people sowed by throwing the seeds across the field by hand. Some seed was lost. But in the end there is still a great harvest.
-> In Mark the harvest grows: thirty, sixty, one hundred. God’s word produces more and more fruit.
+> In Mark the harvest grows: 30, 60, 100. God’s word produces more and more fruit.
 > Jesus himself explains the parable in verses 14–20.
 
 ---
@@ -99,9 +99,9 @@ And it produces no fruit.
 are those who hear the word,
 accept it,
 and bear fruit:
-some thirty times as much,
-some sixty times,
-and some one hundred times.”
+some 30 times as much,
+some 60 times,
+and some 100 times.”
 
 > **What does this mean?**
 > The seed is God’s word. The different kinds of ground are different ways in which people respond to it.
