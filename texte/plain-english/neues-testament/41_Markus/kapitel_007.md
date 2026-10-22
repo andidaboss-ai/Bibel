@@ -69,7 +69,7 @@ And you do many things like this.”
 
 ## What makes a person unclean (Verses 14–23)
 
-[14] He called the whole crowd to himself again
+[14] He called the whole crowd to himself
 and said to them,
 “Listen to me, all of you, and understand!
 [15] There is nothing from outside a person

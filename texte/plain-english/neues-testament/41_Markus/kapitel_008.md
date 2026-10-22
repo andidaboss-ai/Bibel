@@ -5,7 +5,7 @@
 
 ## Jesus feeds 4,000 people (Verses 1–10)
 
-[1] In those days there was again a very large crowd.
+[1] In those days there was a very large crowd.
 They had nothing to eat.
 So Jesus called his disciples to himself
 and said to them,
@@ -93,7 +93,7 @@ Don’t you remember?
 [19] When I broke the five loaves for the 5,000,
 how many baskets full of broken pieces did you pick up?”
 They told him,
-“Twelve.”
+“12.”
 [20] “And when I broke the seven loaves for the 4,000,
 how many baskets full of broken pieces did you pick up?”
 They told him,
@@ -157,7 +157,7 @@ Others, one of the prophets.”
 “But who do you say that I am?”
 Peter answered,
 “You are the Christ.”
-[30] He strictly ordered them
+[30] He ordered them
 to tell no one about him.
 
 > **What does this mean?**
@@ -222,6 +222,6 @@ with the holy angels.”
 
 > **What does this mean?**
 > “Deny himself”: no longer putting yourself at the center, but God and others. “Take up his cross”: being ready to bear disadvantages for your faith too.
-> Very important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US).
+> Very important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verses 35–37: The Greek word for “life” can also mean “soul.” A life lived only for possessions and success is lost in the end.
 > Verse 38: “Adulterous” is a picture used by the prophets for being unfaithful to God. Jesus encourages: Stand by me, even when it is hard.

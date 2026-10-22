@@ -54,7 +54,7 @@ You have charged interest and profit on loans.
 You have greedily made money from your neighbors by oppressing them.
 And you have forgotten me,”
 says the Lord GOD.
-[13] “‘“So look, I strike my hands together
+[13] “So look, I strike my hands together
 against the dishonest profit you have made,
 and against the blood that has been shed in you.
 [14] Will your heart stay strong?

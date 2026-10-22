@@ -1,5 +1,5 @@
 # Matthew – Chapter 9
-### Jesus forgives, calls and heals
+### Jesus forgives, calls, and heals
 
 ---
 
@@ -110,7 +110,7 @@ But come and lay your hand on her,
 and she will live.”
 [19] Jesus got up and followed him,
 and so did his disciples.
-[20] A woman who had suffered from bleeding for twelve years
+[20] A woman who had suffered from bleeding for 12 years
 came up behind him
 and touched the fringe of his garment.
 [21] For she said to herself,
@@ -135,7 +135,7 @@ and the girl got up.
 
 > **What does this mean?**
 > Verse 18: A “ruler,” probably the leader of a synagogue, comes to Jesus. Mark and Luke give his name: Jairus (Mark 5:22). His daughter has just died, but he trusts Jesus.
-> Verse 20: The woman had suffered from bleeding for twelve years. According to the law, this made her unclean (Leviticus 15:25). She was probably shut out and lonely. That is why she only dares to come up secretly from behind. The “fringe” was a tassel on the corner of the garment that devout Jews wore (Numbers 15:38).
+> Verse 20: The woman had suffered from bleeding for 12 years. According to the law, this made her unclean (Leviticus 15:25). She was probably shut out and lonely. That is why she only dares to come up secretly from behind. The “fringe” was a tassel on the corner of the garment that devout Jews wore (Numbers 15:38).
 > Verse 22: Jesus lovingly calls her “daughter.” She does not have to be ashamed. He heals her and gives her back her dignity.
 > “Your faith has made you well”: This does not mean that people who do not get well have too little faith. Illness is not a punishment for a lack of faith.
 > Verse 23: At that time flute players and women who mourned aloud were part of every funeral.
@@ -186,7 +186,7 @@ And the crowds were amazed and said,
 [35] Jesus went through all the towns and villages.
 He taught in their synagogues,
 preached the Good News of the Kingdom,
-and healed every disease and every sickness.
+and healed every disease and every sickness among the people.
 [36] When he saw the crowds,
 he was moved with compassion for them,
 because they were worn out and scattered
@@ -199,4 +199,4 @@ that he will send out workers into his harvest.”
 
 > **What does this mean?**
 > Verse 36: Jesus sees the people and is moved with compassion for them. The Greek word means a deep feeling of sympathy that goes all the way into your gut. The people are like sheep without a shepherd (compare Zechariah 10:2; Ezekiel 34:5).
-> Verses 37–38: A picture from farming: The field is ripe, but there are too few helpers for the harvest. Many people are waiting for help and for the good news. Jesus asks his disciples to pray that God will send helpers. In the next chapter he then sends out the twelve apostles.
+> Verses 37–38: A picture from farming: The field is ripe, but there are too few helpers for the harvest. Many people are waiting for help and for the good news. Jesus asks his disciples to pray that God will send helpers. In the next chapter he then sends out the 12 apostles.

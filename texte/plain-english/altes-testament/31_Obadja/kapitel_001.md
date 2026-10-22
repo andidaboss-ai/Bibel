@@ -158,7 +158,7 @@ And the kingdom will belong to the LORD.
 
 ---
 
-## Looking back: What did we read in the book of Obadiah?
+## Looking back: What have we read in the book of Obadiah?
 
 > **What does this mean?**
 > **The shortest book:** Obadiah has only 21 verses. It is a word against Edom, the brother people of Israel.

@@ -108,7 +108,7 @@ says the LORD your God.
 
 ---
 
-## Looking back: What did we read in the book of Amos?
+## Looking back: What have we read in the book of Amos?
 
 > **What does this mean?**
 > **A shepherd as a prophet:** Amos was a simple herdsman and farmer from Tekoa, not a professional prophet. God sent him to the rich northern kingdom of Israel (7:14–15).

@@ -83,7 +83,7 @@ And there are also many animals.”
 
 ---
 
-## Looking back: What did we read in the book of Jonah?
+## Looking back: What have we read in the book of Jonah?
 
 > **What does this mean?**
 > **A prophet runs away:** Jonah is supposed to go to Nineveh, the capital of the enemies, and he runs away in the other direction (Chapter 1).

@@ -62,7 +62,7 @@ But let’s go to him.”
 
 [17] When Jesus arrived, he learned that Lazarus had already been in the tomb for four days.
 [18] Bethany was near Jerusalem.
-It was fifteen stadia away, almost 2 miles.
+It was about 15 stadia away, almost 2 miles.
 [19] Many Jews had come to Martha and Mary.
 They wanted to comfort them because their brother had died.
 [20] Martha heard that Jesus was coming.
@@ -87,7 +87,7 @@ You are the one who was to come into the world.”
 
 > **What does this mean?**
 > Verse 17: Four days in the tomb: According to a Jewish idea that was written down later, the soul stays near the dead person for three days. After four days it was completely certain for everyone that Lazarus was dead.
-> Verse 18: Fifteen stadia are almost 2 miles (3 kilometers).
+> Verse 18: A distance of 15 stadia is almost 2 miles (about 3 kilometers).
 > Verse 19: Many Jews come to comfort the sisters. Visiting people who are grieving was (and is) an important good deed in Judaism. Here “the Jews” is meant in a completely friendly way: They are friends and neighbors.
 > Verse 21: Martha says honestly what she thinks, including her disappointment. You may tell God everything, even your complaints.
 > Verse 24: Martha believes in the resurrection at the end of time. The Pharisees also believed this.
@@ -129,7 +129,7 @@ Couldn’t he also have kept Lazarus from dying?”
 > Verse 33: Jesus “was deeply moved in his spirit and very upset.” The Greek word describes deep inner agitation, perhaps also anger at the power of death.
 > Verse 35: “Jesus cried.” In many Bibles this is the shortest verse of the Bible. Jesus weeps with those who are grieving, even though he knows that he will raise Lazarus. He takes their pain seriously.
 > Verse 36: The Jews who are mourning with Mary see Jesus’ love. Here too “the Jews” is meant in a completely positive way.
-> For today: Grief is not a weakness and not a lack of faith. Jesus wept too. Whoever is grieving may weep. Help is available from grief groups in churches and hospices. In a crisis: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123.
+> For today: Grief is not a weakness and not a lack of faith. Jesus wept too. Whoever is grieving may weep. Help is available from grief groups in churches and hospices. In a crisis: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
 
@@ -185,7 +185,7 @@ They will take away our place and our nation.”
 He was high priest that year.
 He said to them,
 “You don’t know anything at all.
-[50] You don’t understand that it is better for you if one man dies for the people.
+[50] You don’t understand that it is better for us if one man dies for the people.
 Then the whole nation will not be destroyed.”
 [51] He did not say this on his own.
 He was high priest that year.
@@ -210,7 +210,8 @@ so that they could arrest him.
 
 > **What does this mean?**
 > Verse 45: Many Jews believe in Jesus. John shows this again and again.
-> Verse 48: “Our place” probably means the temple. The leaders are afraid: If a movement forms around Jesus, the Romans could step in and destroy everything. This fear was not without reason. In the year AD 70 the Romans really did destroy the temple.
+> Verse 48: “Our place” probably means the temple. The leaders are afraid: If a movement forms around Jesus, the Romans could step in and destroy everything. This fear was not without reason. In AD 70
+ the Romans really did destroy the temple.
 > Verses 49–50: Caiaphas was high priest from about AD 18 to 36. He thinks politically: Better for one to die than many.
 > Verses 51–52: John sees in this an unintended prophecy: Jesus really dies “for” everyone, for Israel and for the whole world.
 > Important: This decision was made by a small group of powerful people in a politically dangerous situation, under Roman occupation. The Jewish people were not involved. And at the same time many people in the temple are looking for Jesus (verse 56). The church teaches clearly: The death of Jesus may not be blamed on the Jews (*Nostra Aetate*, 1965).
