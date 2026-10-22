@@ -22,9 +22,10 @@ fell on me.”
 were written before
 were written
 for our learning.
-Through perseverance
-and through the encouragement of the Scriptures
-we are to have hope.
+So we can have hope
+through perseverance
+and through the encouragement of the Scriptures.
+
 [5] Now may the God of perseverance and of encouragement
 grant you
 to be of the same mind with one another
@@ -39,7 +40,7 @@ to the glory of God.
 Christ has become a servant of the circumcised
 for the sake of the truth of God.
 He was to confirm the promises
-given to the fathers.
+given to the ancestors.
 [9] And the Gentiles were to glorify God
 for his mercy.
 As it is written,

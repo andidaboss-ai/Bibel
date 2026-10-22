@@ -7,7 +7,7 @@
 
 [1] Brothers,
 we want to tell you about the grace of God
-which has been given to the assemblies of Macedonia.
+which has been given to the churches of Macedonia.
 [2] They were severely tested by great trouble.
 But their overflowing joy
 and their deep poverty
@@ -20,9 +20,8 @@ and they did it of their own free will.
 [4] They begged us very earnestly
 to let them take part in this grace
 and in the fellowship of serving the saints.
-[5] And it was not only
-as we had expected.
-But first they gave themselves to the Lord,
+[5] They did more than we had expected.
+First they gave themselves to the Lord,
 and then to us,
 through the will of God.
 [6] So we urged Titus:
@@ -99,9 +98,9 @@ who puts the same eagerness for you into the heart of Titus.
 But because he himself is very eager,
 he is coming to you of his own accord.
 [18] We are sending with him the brother
-whom all the assemblies praise for his work for the Good News.
+whom all the churches praise for his work for the Good News.
 [19] And not only that:
-The assemblies also appointed him
+The churches also appointed him
 to travel with us
 to bring this gift.
 We do this service for the glory of the Lord
@@ -121,9 +120,9 @@ because he has great confidence in you.
 [23] As for Titus:
 He is my partner and fellow worker for you.
 And as for our brothers:
-They are the apostles of the assemblies,
+They are the apostles of the churches,
 the glory of Christ.
-[24] So show them before the assemblies
+[24] So show them before the churches
 the proof of your love
 and that we are right to be proud of you.
 
@@ -131,4 +130,4 @@ and that we are right to be proud of you.
 > Verses 18 and 22: Paul doesn’t name these brothers. We don’t know who they were.
 > Verses 20–21: Paul deals with the money very carefully. Several people travel with the gift. So no one can accuse him of dishonesty.
 > For today: Whoever manages donations should do so openly and honestly.
-> Verse 23: “Apostles of the assemblies” here means messengers sent by the churches.
+> Verse 23: The WEB says “apostles.” Here this means messengers who were sent by the churches.

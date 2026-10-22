@@ -25,7 +25,7 @@ But he stayed two more days in the place where he was.
 “Rabbi, the Jews there were trying to stone you just a short time ago.
 And you want to go back there?”
 [9] Jesus answered,
-“Doesn’t the day have twelve hours of light?
+“Doesn’t the day have 12 hours of light?
 Whoever walks during the day doesn’t trip,
 because he sees the light of this world.
 [10] But whoever walks at night trips,

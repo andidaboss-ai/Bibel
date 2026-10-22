@@ -6,7 +6,7 @@
 ## Growing further in faith (Verses 1–3)
 
 [1] So let’s leave behind the first teaching about Christ
-and move on to full understanding.
+and press on toward perfection.
 Let’s not lay the foundation again:
 turning away from dead works,
 faith toward God,
@@ -43,14 +43,14 @@ for those
 who farm it,
 receives blessing from God.
 [8] But if it bears thorns and thistles,
-it is worthless
+it is rejected
 and near being cursed.
 In the end it is burned.
 
 > **What does this mean?**
 > Verses 4–6 are among the most difficult verses of the Bible. They speak of people who very deliberately and publicly rejected and mocked Christ after they knew him well.
 > Christians understand these verses in different ways. Many stress: This is about a deliberate, final turning away from Christ, not about doubt, weakness or sins that people regret.
-> Very important: Whoever is afraid of being abandoned by God or lost is exactly not lost. This worry shows that God matters to them. God accepts everyone who turns back to him (compare Luke 15, the parable of the lost son).
+> Very important: Whoever is afraid of being abandoned by God or lost is, in fact, not lost. This worry shows that God matters to them. God accepts everyone who turns back to him (compare Luke 15, the parable of the lost son).
 > If such thoughts torment you very much, talk to a pastor or a counselor. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verses 7–8: A picture from farming: Good land brings good fruit. The author wants to wake the church up, not frighten it.
 
@@ -76,7 +76,7 @@ to the end.
 [12] Don’t become lazy,
 but follow the example of those
 who through faith and patience
-inherit the promises.
+inherited the promises.
 
 > **What does this mean?**
 > Verse 9: Right after the serious warning comes encouragement: About you I am confident.
@@ -109,7 +109,8 @@ set before us.
 [19] We have this hope like an anchor of the soul,
 sure and steadfast.
 It reaches behind the curtain,
-[20] where Jesus entered ahead of us for us.
+[20] where Jesus went in for us
+as the one who goes ahead of us.
 He has become a high priest forever
 after the order of Melchizedek.
 
@@ -117,4 +118,4 @@ after the order of Melchizedek.
 > Verses 13–14: God gave Abraham a promise and confirmed it with an oath (Genesis 22:16–17).
 > Verse 18: “Two things that cannot change”: God’s promise and God’s oath. You can rely completely on both.
 > Verse 19: A beautiful picture: Hope is like an anchor. An anchor holds a ship firm, even when storm and waves come. In the same way hope holds us firm when life is stormy.
-> “Behind the curtain”: In the temple a curtain separated off the Most Holy Place. Only the high priest was allowed to go in, once a year. Jesus has “gone in” for us, into God’s presence.
+> “Behind the curtain”: In the temple a curtain separated off the Most Holy Place. Only the high priest was allowed to go in, once a year. Jesus “went in for us,” into God’s presence.

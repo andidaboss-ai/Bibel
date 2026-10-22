@@ -56,6 +56,7 @@ have much more glory?
 [9] For if the service of condemnation has glory,
 then the service of righteousness
 is even richer in glory.
+Righteousness means: living right before God.
 [10] For what was made glorious
 has in this respect no glory at all,
 compared with the glory

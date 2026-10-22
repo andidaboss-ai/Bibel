@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In this chapter too John often writes “the Jews.” He mainly means the chief priests and their servants (verses 6 and 15). The Jewish people are not meant. Jewish women and a Jewish disciple stand under the cross. Two Jewish council members, Joseph and Nicodemus, bury Jesus.
 > Crucifixion was a Roman punishment, ordered by the Roman governor Pilate. No one may use these texts to accuse or hate Jews (*Nostra Aetate*, 1965).
 
@@ -23,7 +23,7 @@ I want you to know that I find no reason to charge him with anything.”
 [5] So Jesus came out.
 He was wearing the crown of thorns and the purple robe.
 Pilate said to them, “Look, here is the man!”
-[6] The chief priests and the officers saw him.
+[6] The chief priests and the temple guards saw him.
 They shouted, “Crucify! Crucify!”
 Pilate said to them, “Take him yourselves and crucify him.
 I find no reason to charge him with anything.”
@@ -62,8 +62,9 @@ They took Jesus and led him away.
 > **What does this mean?**
 > Flogging was a cruel Roman punishment. The crown of thorns and the purple garment are mockery: They dress Jesus up as a king.
 > Verse 5: “Look, here is the man!” (in Latin *Ecce homo*). Pilate shows a tortured, humiliated human being. Christians see in this: In Jesus God is very close to a suffering human being.
-> Verse 6: Here John says exactly who is shouting: the chief priests and the officers. That is not the Jewish people.
-> Verse 7: The accusers appeal to the law against blasphemy (Leviticus 24:16).
+> Verse 6: Here John says exactly who is shouting: the chief priests and the temple guards. That is not the Jewish people.
+> Verse 7: The accusers appeal to the law against blasphemy, that is, speaking against God (Leviticus 24:16).
+
 > Verse 11: Pilate’s power is only borrowed. He remains responsible. Jesus doesn’t say who is meant by “the one who handed me over.” Some think of Caiaphas, others of Judas.
 > Verse 12: “Caesar’s friend” was a title of honor for loyal officials. Pilate is afraid for his position.
 > Verse 14: In John, Jesus is sentenced at the same time as the Passover lambs are being slaughtered in the temple. He is “the Lamb of God” (1:29).
@@ -172,7 +173,7 @@ So Joseph came and took Jesus’ body away.
 [39] Nicodemus came too.
 He was the one who had first come to Jesus at night.
 He brought a mixture of myrrh and aloes.
-It weighed about a hundred Roman pounds.
+It weighed about 100 Roman pounds (about 75 pounds).
 [40] So they took Jesus’ body.
 They wrapped it in strips of linen cloth with the spices.
 That is how the Jews bury their dead.
@@ -187,7 +188,7 @@ So they laid Jesus there.
 > **What does this mean?**
 > Verses 38–39: Two respected Jewish men bury Jesus: Joseph of Arimathaea and Nicodemus, a Pharisee. They show courage and love.
 > “Afraid of the Jews”: This means afraid of the powerful leaders. Joseph was a Jew himself.
-> Verse 39: A hundred Roman pounds are about 75 pounds (33 kilograms). That is a burial fit for a king.
+> Verse 39: A Roman pound was a little less than our pound. So 100 Roman pounds are about 75 pounds (33 kilograms). That is a burial fit for a king.
 > Verse 40: Jesus is buried according to Jewish custom, with love and dignity.
 > Verse 41: As creation began in a garden, so Jesus’ tomb also lies in a garden. There Easter will begin.
 > For today: Burying a person with dignity is a work of love. If you are grieving for someone, you can find help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Many churches and hospices also offer grief groups.

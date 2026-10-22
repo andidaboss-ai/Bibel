@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In chapters 18 and 19 John tells about Jesus’ arrest, his sentencing and his death. In doing so he often writes “the Jews.” Here he almost always means the temple leaders in Jerusalem and their servants, not the Jewish people.
 > For centuries these texts were misused to insult Jews as “Christ killers” and to persecute them. That is a grave guilt of Christians.
 > Jesus, Peter, John and all the disciples were Jews. Crucifixion was a Roman punishment. Today the churches teach clearly: The death of Jesus must not be blamed on all the Jews of that time nor on the Jews of today (*Nostra Aetate*, 1965).
@@ -20,15 +20,16 @@ He and his disciples went into it.
 Jesus often met there with his disciples.
 [3] So Judas came there.
 He brought a detachment of soldiers with him.
-He also brought officers from the chief priests and the Pharisees.
+He also brought temple guards from the chief priests and the Pharisees.
+
 They had lanterns, torches, and weapons.
 [4] Jesus knew everything that was going to happen to him.
 So he went out to them and asked, “Who are you looking for?”
 [5] They answered, “Jesus of Nazareth.”
 Jesus said to them, “I am he.”
 Judas, the one who betrayed him, was standing with them.
-[6] Jesus said to them, “I am he.”
-Then they stepped back and fell to the ground.
+[6] When Jesus said to them, “I am he,”
+they stepped back and fell to the ground.
 [7] So he asked them again, “Who are you looking for?”
 They said, “Jesus of Nazareth.”
 [8] Jesus answered, “I told you that I am he.

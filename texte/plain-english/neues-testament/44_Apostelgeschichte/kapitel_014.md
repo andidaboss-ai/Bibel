@@ -127,7 +127,7 @@ to continue in the faith.
 They said
 that through many hardships
 we must enter into God’s Kingdom.
-[23] They appointed elders for them in every assembly.
+[23] They appointed elders for them in every church.
 They prayed with fasting
 and entrusted them to the Lord
 in whom they had believed.
@@ -140,7 +140,7 @@ There they had been entrusted to the grace of God
 for the work
 which they had now completed.
 [27] When they had arrived,
-they gathered the assembly together.
+they gathered the church together.
 They reported all the things
 that God had done with them.
 And they told

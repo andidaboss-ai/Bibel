@@ -41,9 +41,9 @@ He went around the villages and taught.
 
 ---
 
-## Jesus sends out the twelve (Verses 7–13)
+## Jesus sends out the Twelve (Verses 7–13)
 
-[7] He called the twelve to himself
+[7] He called the Twelve to himself
 and began to send them out two by two.
 He gave them authority over the unclean spirits.
 [8] He commanded them

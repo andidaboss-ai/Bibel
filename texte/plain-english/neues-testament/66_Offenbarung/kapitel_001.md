@@ -62,7 +62,7 @@ To him who loves us
 and washed us from our sins by his blood
 [6] and who made us to be a Kingdom,
 priests to his God and Father,
-to him belong the glory and the dominion
+to him belong the glory and the power
 forever and ever.
 Amen.
 [7] Look,
@@ -82,7 +82,7 @@ the Almighty.”
 > Verse 4: “Asia” here is a Roman province in the west of today’s Turkey. The number seven in the Bible means: complete. The seven churches stand for the whole church.
 > “Who is and who was and who is to come” recalls the name of God that God told Moses (Exodus 3:14).
 > “The seven Spirits” probably means the Holy Spirit in all his fullness.
-> Verse 5: “The ruler of the kings of the earth”: Not the Roman emperor has the highest power, but Jesus.
+> Verse 5: “The ruler of the kings of the earth”: The Roman emperor doesn’t have the highest power. Jesus does.
 > Verse 6: All Christians are like priests: They may come directly to God. God said this first to Israel (Exodus 19:6).
 > Verse 7 recalls Daniel 7:13 and Zechariah 12:10.
 > Verse 8: Alpha is the first letter of the Greek alphabet, Omega the last. That means: God is the beginning and the end of everything.
@@ -137,8 +137,8 @@ and a golden sash around his chest.
 as white wool,
 like snow.
 His eyes were like a flame of fire.
-[15] His feet were like burnished brass,
-refined until it glows in a furnace.
+[15] His feet were like polished brass,
+as if it had been refined in a furnace.
 His voice was like the voice of many waters.
 [16] He had seven stars in his right hand.
 Out of his mouth came a sharp two-edged sword.
@@ -157,7 +157,6 @@ I am alive forever and ever.
 Amen.
 I have the keys of Death
 and of Hades.
-Hades is the world of the dead.
 [19] So write
 the things which you have seen,
 and the things which are,
@@ -173,5 +172,5 @@ And the seven lampstands are the seven churches.”
 > Verse 14: The white hair recalls God, the “Ancient of Days,” in Daniel 7:9. Jesus is described here with the glory of God.
 > Verse 16: The sword out of his mouth is not a real sword. It is a picture for his word. Jesus doesn’t fight with weapons, but with the truth.
 > Verse 17: “Don’t be afraid”: That is the first thing Jesus says. His hand on John is a gesture of care.
-> Verse 18: Jesus has the keys of Death. That means: Death doesn’t have the last word. Jesus is stronger than death.
+> Verse 18: Hades is the world of the dead. Jesus has the keys of Death. That means: Death doesn’t have the last word. Jesus is stronger than death.
 > Verse 20: Jesus is among his churches. He holds them in his hand. The “angels of the seven churches” are perhaps heavenly protectors, or perhaps the leaders of the churches.

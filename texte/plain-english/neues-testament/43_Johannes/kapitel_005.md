@@ -15,7 +15,7 @@ Some were blind. Some could not walk. Some were paralyzed.
 They were waiting for the water to move.
 [4] At certain times an angel went down into the pool and stirred up the water.
 After the water was stirred up, the first one to step in was healed of any disease he had.
-[5] A man was there who had been sick for thirty-eight years.
+[5] A man was there who had been sick for 38 years.
 [6] Jesus saw him lying there.
 He knew that the man had been sick for a long time.
 He asked him, “Do you want to be made well?”
@@ -116,7 +116,7 @@ I look for what my Father wants, who sent me.
 
 ## Witnesses for Jesus (Verses 31–47)
 
-[31] “If I am the only one who speaks for myself, what I say is not valid.
+[31] “If I speak for myself, what I say is not valid.
 [32] But there is someone else who speaks for me.
 And I know that what he says about me is true.
 [33] You sent messengers to John.

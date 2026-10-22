@@ -45,7 +45,7 @@ We have shown you this in every way and in all things.
 by humbling myself
 so that you might be lifted up?
 Because I preached God’s Good News to you free of charge?
-[8] I robbed other assemblies
+[8] I robbed other churches
 by taking wages from them
 so that I could serve you.
 [9] And when I was with you and in need,
@@ -83,7 +83,7 @@ Their end will match their deeds.
 > Verses 7–9: Paul took no money from the Corinthians. He lived from his own work and from gifts from other churches. His opponents said this showed that he was not a real apostle.
 > Verse 8: “Robbed” is a strong exaggeration. Paul means: Other churches paid for me.
 > Verses 13–15: Paul warns against people who look pious but deceive others.
-> For today: Today too there are people who pretend to be pious leaders and who use, manipulate or abuse others. If you experience this, you may get help, for example from counseling services for cults and spiritual abuse. If you have experienced sexual abuse: In the US, call RAINN at 1-800-656-4673. In the UK, call NAPAC at 0808 801 0331.
+> For today: Today too there are people who pretend to be pious leaders and who use, manipulate or abuse others. If you experience this, you may get help, for example from counseling services for cults and spiritual abuse. If you have experienced sexual abuse: In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Elsewhere, find help at findahelpline.com.
 
 ---
 
@@ -136,7 +136,7 @@ with far more hard work,
 far more often in prisons,
 with beatings beyond measure,
 often in danger of death.
-[24] Five times I received forty lashes minus one
+[24] Five times I received 40 lashes minus one
 from the Jews.
 [25] Three times I was beaten with rods.
 Once I was stoned.
@@ -158,7 +158,7 @@ often fasting,
 cold and not enough clothing.
 [28] And besides all that,
 there is what presses on me every day:
-my worry for all the assemblies.
+my worry for all the churches.
 [29] Who is weak,
 and I am not weak?
 Who is made to stumble,
@@ -179,8 +179,8 @@ So I escaped his hands.
 
 > **What does this mean?**
 > Verse 22: Paul stresses: He is a Jew, an Israelite, a descendant of Abraham. He is proud of it.
-> Verse 24: The “forty lashes minus one” were a punishment of the synagogue courts (compare Deuteronomy 25:3). The fact that Paul accepted this punishment shows: He still saw himself as a member of the Jewish community. This verse is not a judgment on the Jewish people.
+> Verse 24: The “40 lashes minus one” were a punishment of the synagogue courts (compare Deuteronomy 25:3). The fact that Paul accepted this punishment shows: He still saw himself as a member of the Jewish community. This verse is not a judgment on the Jewish people.
 > Verse 25: “Beaten with rods” was a Roman punishment (compare Acts 16:22–23). Acts 14:19 tells about the stoning.
-> Verse 26: Paul was in danger from people of his own people and from people of other nations, and even from “false brothers,” that is, Christians.
-> Verses 29–30: Paul doesn’t boast about his successes, but about his weakness. Precisely in that, God’s power shows itself.
+> Verse 26: Paul was in danger from his own people and from people of other nations, and even from “false brothers,” that is, Christians.
+> Verses 29–30: Paul doesn’t boast about his successes, but about his weakness. Especially in that, God’s power shows itself.
 > Verses 32–33: Acts 9:23–25 also tells about this escape.

@@ -33,14 +33,14 @@ and hated one another.
 [4] But then the kindness of God our Savior
 and his love toward mankind appeared.
 [5] He saved us,
-not because of works of righteousness
-that we had done,
+not because of right deeds
+that we ourselves had done,
 but because he is merciful.
 He saved us through the washing of new birth
 and renewing by the Holy Spirit.
 [6] He poured out the Spirit on us richly
 through Jesus Christ our Savior,
-[7] so that, being justified by his grace,
+[7] so that, being made right with God by his grace,
 we might become heirs
 according to the hope of eternal life.
 [8] This saying is trustworthy.
@@ -68,9 +68,9 @@ family trees,
 strife
 and disputes about the law.
 For they are useless and empty.
-[10] A person
-who causes divisions
-you should reject after a first and second warning.
+[10] After a first and second warning,
+avoid a person
+who causes divisions.
 [11] You know
 that such a person is twisted and sinful.
 He has condemned himself.
@@ -89,7 +89,7 @@ to come to me at Nicopolis.
 For I have decided
 to spend the winter there.
 [13] Send Zenas the lawyer and Apollos
-on their journey well supplied,
+on their journey quickly,
 so that they lack nothing.
 [14] Our people too are to learn
 to do good works,
@@ -113,11 +113,11 @@ Amen.
 ## Looking back: What have we read in the letter to Titus?
 
 > **What does this mean?**
-> **Good leaders:** Titus is to appoint leaders on Crete who have good character (chapter 1).
+> **Good leaders:** Titus is to appoint leaders on Crete who have good character (Chapter 1).
 > **A difficult passage:** The harsh words in chapter 1 must not be used against Jews or against any people. Sweeping judgments about people are wrong.
-> **For every age:** Advice for old and young, women and men. Some roles reflect the time back then (chapter 2).
-> **God’s grace has appeared:** It brings salvation to all people and helps us live well (chapter 2).
-> **God loves people:** He saves not because of our deeds, but out of mercy (chapter 3).
-> **Good works:** Whoever is saved is to help others in their need (chapter 3).
+> **For every age:** Advice for old and young, women and men. Some roles reflect the time back then (Chapter 2).
+> **God’s grace has appeared:** It brings salvation to all people and helps us live well (Chapter 2).
+> **God loves people:** He saves not because of our deeds, but out of mercy (Chapter 3).
+> **Good works:** Whoever is saved is to help others in their need (Chapter 3).
 > **For today:** God is a friend of people. That is why Christians too are to be kind to everyone.
 > **What comes next?** Next comes the short letter to Philemon. It is about a runaway slave who has become a brother.

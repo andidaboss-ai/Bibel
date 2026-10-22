@@ -3,9 +3,9 @@
 
 ---
 
-## Jesus sends out seventy disciples (Verses 1–16)
+## Jesus sends out 70 disciples (Verses 1–16)
 
-[1] After this the Lord chose seventy other disciples.
+[1] After this the Lord chose 70 other disciples.
 He sent them out two by two ahead of him.
 They went to every town and place
 where he was going to come.
@@ -66,20 +66,20 @@ And whoever rejects me
 rejects the one who sent me.”
 
 > **What does this mean?**
-> Not only the twelve, but many more people are sent out. The WEB, our English source text, says “seventy.” Many old manuscripts say seventy-two. Both numbers remind us of the list of nations in Genesis 10: The message is to reach all nations.
+> Not only the Twelve, but many more people are sent out. The WEB, our English source text, says 70. Many old manuscripts say 72. Both numbers remind us of the list of nations in Genesis 10: The message is to reach all nations.
 > “Two by two”: No one is to travel alone. Two can help each other. And two witnesses were considered trustworthy.
 > Verse 4: “Don’t stop to greet anyone on the way”: Back then greetings were long and complicated. The messengers are not to let themselves be held up. It is not unfriendliness.
 > Verse 6: “A son of peace”: someone who is open to God’s peace.
 > Verse 7: “A worker deserves his pay” means: Whoever works has earned his pay. This sentence is quoted again later in 1 Timothy 5:18.
-> Verses 12–15: In the Bible, Sodom, Tyre and Sidon were cities known as godless. Chorazin, Bethsaida and Capernaum were on the Sea of Galilee. Jesus had done a lot there. The cry “How terrible it will be for you” (in older Bibles: “woe”) is a serious lament, as with the prophets.
+> Verses 12–15: In the Bible, Sodom, Tyre and Sidon were cities known as godless. Chorazin, Bethsaida and Capernaum were on the Sea of Galilee. Jesus had done a lot there. The cry “How terrible it will be for you” (in the WEB: “woe”) is a serious lament, as with the prophets.
 > “Sackcloth and ashes”: signs of mourning and being sorry. Sackcloth was rough cloth. Hades: the realm of the dead.
 > Important: The messengers are not to punish. Judgment is God’s business. They are to move on.
 
 ---
 
-## The seventy return (Verses 17–20)
+## The 70 return (Verses 17–20)
 
-[17] The seventy came back full of joy.
+[17] The 70 came back full of joy.
 They said,
 “Lord, even the demons obey us
 when we use your name!”
@@ -201,11 +201,11 @@ Jesus said to him,
 “Go and do the same.”
 
 > **What does this mean?**
-> A lawyer here is an expert in the law of Moses.
-> Verse 27: The lawyer joins two commandments from the Holy Scriptures of Israel: Deuteronomy 6:5 (loving God) and Leviticus 19:18 (loving your neighbor). Jesus agrees with him. This is a shared Jewish heritage.
+> An expert in the law was someone who studied and taught the law of Moses.
+> Verse 27: The expert in the law joins two commandments from the Holy Scriptures of Israel: Deuteronomy 6:5 (loving God) and Leviticus 19:18 (loving your neighbor). Jesus agrees with him. This is a shared Jewish heritage.
 > The road from Jerusalem to Jericho went about 3,300 feet (1,000 meters) downhill through the desert. It was dangerous and known for robbers.
 > Priests and Levites served in the temple. Why do they pass by? Jesus does not say. Some interpreters think of fear of robbers. Others think of the rule not to make yourself unclean by touching a dead body. But in Judaism too it was taught: Saving a human life is more important than almost all other commandments.
-> Important: The parable is not criticism of Judaism or of priests in general. Jesus and the lawyer are both Jews. The point is that religion without mercy is empty. That applies to all religions, including Christians.
+> Important: The parable is not criticism of Judaism or of priests in general. Jesus and the expert in the law are both Jews. The point is that religion without mercy is empty. That applies to all religions, including Christians.
 > The surprise: Of all people, a Samaritan helps. Back then Jews and Samaritans were enemies (compare Luke 9:52–53). The foreigner becomes the example.
 > Back then oil and wine were used as medicine: Wine cleaned the wounds, oil soothed them.
 > Two denarii were the pay for two days of work. That was enough for several days at the inn.
@@ -233,7 +233,7 @@ Tell her to help me!”
 you are worried and upset
 about many things.
 [42] But only one thing is needed.
-Mary has chosen what is good.
+Mary has chosen the good part.
 It will not be taken away from her.”
 
 > **What does this mean?**

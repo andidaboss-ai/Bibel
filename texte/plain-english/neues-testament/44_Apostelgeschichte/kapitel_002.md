@@ -49,7 +49,7 @@ They said, “They are full of new wine.”
 
 ## Peter’s sermon at Pentecost (Verses 14–36)
 
-[14] Then Peter stood up with the eleven.
+[14] Then Peter stood up with the Eleven.
 He spoke to the crowd in a loud voice:
 “You men of Judea, and all of you who live in Jerusalem!
 I want you to know this.
@@ -113,7 +113,7 @@ God has made this Jesus both Lord and Christ.
 He is the Jesus whom you crucified.”
 
 *prophesy* = speak a message from God
-*patriarch* = a forefather of the people
+
 
 > **What does this mean?**
 > Verse 15: The third hour is about nine in the morning. People are not drunk that early.
@@ -139,7 +139,7 @@ It is for everyone the Lord our God will call to himself.”
 [40] Peter said many more words to them.
 He gave witness and urged them, “Save yourselves from this crooked generation!”
 [41] Those who gladly accepted his message were baptized.
-About three thousand people were added to them that day.
+About 3,000 people were added to them that day.
 
 *repent* = turn your life around toward God
 
@@ -147,7 +147,7 @@ About three thousand people were added to them that day.
 > Verse 37: The listeners are deeply moved. They ask: What shall we do?
 > Verse 38: “Repent” means: to turn your life toward God in a new way. Baptism is the sign of this. God forgives and gives his Spirit.
 > Verse 39: “For all who are far off”: The good news is for all people and all times.
-> Verse 41: Three thousand people, all of them Jews and people who had become Jews. The first church was a Jewish community.
+> Verse 41: About 3,000 people, all of them Jews and people who had become Jews. The first church was a Jewish community.
 > The churches baptize in different ways: Some baptize small children, others only people who believe themselves and decide for it. All of them appeal to the Bible.
 
 ---

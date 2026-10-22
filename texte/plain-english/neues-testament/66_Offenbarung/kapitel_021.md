@@ -67,16 +67,16 @@ coming down out of heaven from God.
 [11] It had the glory of God.
 Its light was like a very precious stone,
 like a jasper stone, clear as crystal.
-[12] It had a great, high wall with twelve gates.
-At the gates were twelve angels.
+[12] It had a great, high wall with 12 gates.
+At the gates were 12 angels.
 Names were written on the gates.
-They are the names of the twelve tribes of the people of Israel.
+They are the names of the 12 tribes of the people of Israel.
 [13] There were three gates on the east,
 three gates on the north,
 three gates on the south,
 and three gates on the west.
-[14] The wall of the city had twelve foundation stones.
-On them were the twelve names of the twelve Apostles of the Lamb.
+[14] The wall of the city had 12 foundation stones.
+On them were the 12 names of the Twelve Apostles of the Lamb.
 [15] The angel who spoke with me had a golden measuring stick.
 He was to measure the city, its gates, and its walls.
 [16] The city is square.
@@ -101,17 +101,17 @@ the ninth topaz,
 the tenth chrysoprase,
 the eleventh jacinth,
 and the twelfth amethyst.
-[21] The twelve gates were twelve pearls.
+[21] The 12 gates were 12 pearls.
 Each gate was made of a single pearl.
 The street of the city was pure gold, like glass you can see through.
 
 > **What does this mean?**
-> Verses 12–14: On the gates are the names of the twelve tribes of Israel. On the foundations are the names of the twelve apostles. Israel and the church both belong to God’s city. Israel has not been replaced. God’s people are Israel and the church together.
+> Verses 12–14: On the gates are the names of the 12 tribes of Israel. On the foundations are the names of the 12 apostles. Israel and the church both belong to God’s city. Israel has not been replaced. God’s people are Israel and the church together.
 > Verse 13: There are gates in every direction. People from the whole world are welcome.
 > Verse 16: The city is a cube. The Most Holy Place in the temple was also a cube (1 Kings 6:20). The whole city is now like the Most Holy Place: God is very near everywhere.
 > The old measure is given in stadia. 12,000 stadia are about 1,400 miles (2,200 kilometers). The WEB has 12,012 stadia here. Most manuscripts have 12,000. The number means: unimaginably large, room for everyone.
 > Verse 17: The wall measures 144 cubits. A cubit is about 18 inches. 144 cubits are about 216 feet. 144 is 12 times 12, again the number of the whole people of God.
-> Verses 19–20: The precious stones recall the twelve stones on the breastpiece of the high priest (Exodus 28:17–21). The names of some stones are no longer completely certain today.
+> Verses 19–20: The precious stones recall the 12 stones on the breastpiece of the high priest (Exodus 28:17–21). The names of some stones are no longer completely certain today.
 > Verse 21: Each gate is made of a single huge pearl. Here gold is as common as paving stones. What counts most on earth is completely ordinary in God’s world.
 
 ---

@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In this chapter it sometimes says that “the Jews” opposed Paul (verses 45 and 50). Certain people in a certain city are meant. At the same time the text tells: Many Jews came to faith (verse 43). Paul and Barnabas were Jews themselves and preached first in synagogues.
 > No verse of this chapter may be used against the Jewish people. God has not rejected his people Israel (Romans 11:1–2).
 
@@ -16,7 +16,7 @@ They were Barnabas, Simeon (who was called Niger), and Lucius from Cyrene.
 There was also Manaen, who had grown up with Herod the tetrarch, and there was Saul.
 [2] They were serving the Lord and fasting.
 Then the Holy Spirit said, “Set apart Barnabas and Saul for me.
-I have called them to do a special work.”
+I have called them to do a work.”
 [3] So they fasted and prayed.
 They laid their hands on Barnabas and Saul and sent them on their way.
 
@@ -34,7 +34,7 @@ They laid their hands on Barnabas and Saul and sent them on their way.
 [4] The Holy Spirit had sent the two men out.
 They went down to Seleucia.
 From there they sailed to Cyprus.
-[5] When they arrived in Salamis, they told God’s word in the synagogues of the Jews.
+[5] When they arrived in Salamis, they proclaimed God’s word in the synagogues of the Jews.
 John was with them as their helper.
 [6] They traveled across the whole island to Paphos.
 There they met a sorcerer.
@@ -84,19 +84,19 @@ On the Sabbath day they went into the synagogue and sat down.
 [15] First the law and the prophets were read aloud.
 Then the leaders of the synagogue sent them a message:
 “Brothers, if you have a word of encouragement for the people, please speak.”
-[16] Paul stood up and waved his hand.
+[16] Paul stood up and motioned with his hand.
 He said, “Men of Israel, and you others who fear God, listen!
 [17] The God of this people chose our ancestors.
 He made the people great while they lived as foreigners in the land of Egypt.
-With his mighty arm he led them out of Egypt.
-[18] For about forty years he put up with them in the wilderness.
+With his raised arm he led them out of Egypt.
+[18] For about 40 years he put up with them in the wilderness.
 [19] He destroyed seven nations in the land of Canaan.
-He gave their land to our people as their own for about four hundred fifty years.
+He gave their land to our people as their own for about 450 years.
 [20] After that he gave them judges until the time of Samuel the prophet.
 [21] Then the people asked for a king.
 So God gave them Saul, the son of Kish.
 Saul was from the tribe of Benjamin.
-He was king for forty years.
+He was king for 40 years.
 [22] Then God removed Saul.
 He made David their king.
 God said about David:
@@ -104,14 +104,14 @@ God said about David:
 He is a man after my heart.
 He will do everything I want.’
 [23] God brought salvation to Israel from David’s offspring, as he had promised.
-[24] Before he came, John preached to all the people of Israel.
+[24] Before he came, John preached to the people of Israel.
 He told them to repent and be baptized.
 [25] When John was coming to the end of his work, he said:
 ‘Who do you think I am?
 I am not the one.
 But look, someone is coming after me.
 I am not even good enough to untie his sandals.’
-[26] Brothers, you children of Abraham’s family, and you others who fear God!
+[26] Brothers, you descendants of Abraham’s family, and you others who fear God!
 God has sent this message of salvation to you.
 [27] Those who live in Jerusalem, and their rulers, didn’t recognize Jesus.
 They also didn’t understand the words of the prophets.
@@ -161,8 +161,8 @@ You would never believe it, even if someone told you about it.’”
 > Verse 15: This is how a service in the synagogue went: a reading from the Torah and the Prophets, then an explanation. Guests were allowed to speak. It is still like this in many synagogues today.
 > Verse 16: Paul is speaking to Jews and to God-fearers, that is, non-Jews who honor the God of Israel.
 > Verses 17–22 briefly tell the history of Israel. Paul speaks lovingly of “our ancestors.”
-> Verse 19: In the WEB, the figure “about four hundred fifty years” stands in this verse. Other Bibles put the number in verse 20 and relate it to the time of the judges.
-> Verse 23: Many other Bibles name Jesus explicitly here as the Savior. The WEB only says: God has brought salvation to Israel. Jesus is meant.
+> Verse 19: In the WEB, the figure “about 450 years” stands in this verse. Other Bibles put the number in verse 20 and relate it to the time of the judges.
+> Verse 23: Some Bibles name Jesus explicitly here as the Savior. The WEB only says: God has brought salvation to Israel. Jesus is meant.
 > Verse 22 combines 1 Samuel 13:14 and Psalm 89:20 (in the Hebrew Bible and in some Bibles 89:21).
 > Verses 27–28: Paul names “those who live in Jerusalem, and their rulers.” He also says: They didn’t recognize him. It is not an accusation against all Jews.
 > Verse 33 quotes Psalm 2:7. Verse 34 quotes Isaiah 55:3. Verse 35 quotes Psalm 16:10. Verse 41 quotes Habakkuk 1:5.

@@ -176,7 +176,7 @@ and the last will be first.”
 Jesus was walking ahead of them.
 The disciples were amazed.
 And the people who followed were afraid.
-Again Jesus took the twelve aside.
+Again Jesus took the Twelve aside.
 He began to tell them
 what was going to happen to him:
 [33] “Look, we are going up to Jerusalem.

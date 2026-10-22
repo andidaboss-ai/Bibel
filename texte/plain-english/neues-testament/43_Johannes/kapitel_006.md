@@ -3,7 +3,7 @@
 
 ---
 
-## Jesus feeds five thousand people (Verses 1–15)
+## Jesus feeds 5,000 people (Verses 1–15)
 
 [1] After this, Jesus went away to the other side of the Sea of Galilee.
 It is also called the Sea of Tiberias.
@@ -19,7 +19,7 @@ He said to Philip,
 [6] He said this to test Philip.
 He himself already knew what he was going to do.
 [7] Philip answered him,
-“Bread for two hundred denarii would not be enough for them.
+“Bread for 200 denarii would not be enough for them.
 Each one would not even get a little.”
 [8] One of his disciples spoke to him.
 It was Andrew, the brother of Simon Peter.
@@ -29,7 +29,7 @@ But what is that for so many people?”
 [10] Jesus said, “Have the people sit down.”
 There was a lot of grass in that place.
 So the people sat down.
-There were about five thousand men.
+There were about 5,000 men.
 [11] Jesus took the loaves and gave thanks.
 He gave the bread to the disciples.
 And the disciples gave it to the people who were sitting there.
@@ -38,7 +38,7 @@ Everyone got as much as they wanted.
 [12] When they were full, he said to his disciples,
 “Gather up the pieces that are left over, so that nothing is lost.”
 [13] So they gathered them up.
-They filled twelve baskets with the pieces of the five barley loaves.
+They filled 12 baskets with the pieces of the five barley loaves.
 These pieces were left over by the people who had eaten.
 [14] The people saw the sign that Jesus had done.
 They said, “He really is the prophet who is to come into the world.”
@@ -48,7 +48,7 @@ So he went back up on the mountain by himself.
 > **What does this mean?**
 > The Sea of Galilee was also named after the city of Tiberias, which Herod Antipas had built there.
 > Verse 4: Once again Passover is coming soon. The feeding is a reminder of the manna with which God fed Israel in the wilderness (Exodus 16).
-> Verse 7: Two hundred denarii were the wages for more than half a year of work.
+> Verse 7: 200 denarii were the wages for more than half a year of work.
 > Verse 9: Barley bread was the bread of poor people. A boy gives the little he has. Out of it Jesus makes enough for everyone.
 > Verse 11: The words about handing the bread to the disciples, and the disciples to the people, are missing in the oldest manuscripts. There Jesus hands it out himself.
 > Verse 12: “So that nothing is lost”: God takes care with his gifts.
@@ -76,7 +76,7 @@ They were afraid.
 And right away the boat reached the shore where they were going.
 
 > **What does this mean?**
-> Twenty-five or thirty stadia are about 3 to 3½ miles (5 to 6 kilometers). The disciples were in the middle of the lake.
+> 25 or 30 stadia are about 3 to 3½ miles (5 to 6 kilometers). The disciples were in the middle of the lake.
 > Verse 20: “It is I” is in Greek simply “I am.” That is how God names himself in the Bible (Exodus 3:14). John is hinting: In Jesus we meet God.
 > In the Bible only God rules over the sea (Psalm 77:19, in the Hebrew Bible and in some Bibles 77:20).
 > For today: Even in darkness and storm Jesus says: “Don’t be afraid.”
@@ -214,23 +214,23 @@ He also knew who would betray him.
 “That is why I told you that no one can come to me unless my Father gives it to him.”
 [66] After this, many of his disciples turned back.
 They didn’t go along with him anymore.
-[67] So Jesus said to the twelve,
+[67] So Jesus said to the Twelve,
 “You don’t want to go away too, do you?”
 [68] Simon Peter answered him,
 “Lord, to whom would we go?
 You have the words of eternal life.
 [69] We have come to believe and to know that you are the Christ, the Son of the living God.”
 [70] Jesus answered them,
-“Didn’t I choose you, the twelve?
+“Didn’t I choose you, the Twelve?
 And yet one of you is a devil.”
 [71] He meant Judas, the son of Simon Iscariot.
-Judas was one of the twelve, and he would betray Jesus.
+Judas was one of the Twelve, and he would betray Jesus.
 
 > **What does this mean?**
 > Verse 60: Many disciples, too, find Jesus’ words too hard. Believing is not always easy.
 > Verse 63: Jesus says: His words should not be understood only in a literal, bodily way. God’s Spirit gives life.
 > Verse 66: Many go away. Jesus lets them go. He forces no one.
-> Verses 68–69: Peter answers for the twelve. His words are a confession of trust, even if he does not understand everything. Instead of the Christ, the Son of the living God, many old manuscripts have in verse 69: the Holy One of God.
+> Verses 68–69: Peter answers for the Twelve. His words are a confession of trust, even if he does not understand everything. Instead of the Christ, the Son of the living God, many old manuscripts have in verse 69: the Holy One of God.
 > Verses 70–71: “A devil” here means: someone who will work against Jesus. Judas is meant. Jesus chose him anyway and kept him with him.
 > Important: For centuries the name Judas was misused to insult Jews. That is wrong.
 > For today: Whoever has doubts may ask with Peter: “Lord, to whom would we go?”

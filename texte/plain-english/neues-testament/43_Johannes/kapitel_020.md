@@ -113,7 +113,7 @@ If you retain anyone’s sins, they are retained.”
 
 ## Jesus and Thomas (Verses 24–29)
 
-[24] Thomas, one of the twelve, was not with them when Jesus came.
+[24] Thomas, one of the Twelve, was not with them when Jesus came.
 He was also called Didymus.
 [25] So the other disciples told him, “We have seen the Lord!”
 But he said to them, “First I must see the marks of the nails in his hands.

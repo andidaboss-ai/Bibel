@@ -32,7 +32,7 @@ they were baptized in the name of the Lord Jesus.
 Then the Holy Spirit came on them.
 They spoke in other languages
 and prophesied.
-[7] They were about twelve men in all.
+[7] They were about 12 men in all.
 
 > **What does this mean?**
 > Ephesus was one of the largest cities in the Roman Empire, on the west coast of today’s Turkey. Paul stayed there for more than two years.

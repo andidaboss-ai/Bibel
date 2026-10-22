@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > With chapter 12 a new part of the letter to the Romans begins. In chapters 1 to 11 Paul explained what God has done for people. Now he shows how Christians can respond: in everyday life, in the church, and in how they treat all people.
 
 ---
@@ -58,9 +58,9 @@ according to the measure of their faith.
 [7] If someone has the gift of service,
 let them give themselves to serving.
 Whoever teaches,
-to their teaching.
+let them give themselves to teaching.
 [8] Whoever encourages,
-to encouraging.
+let them give themselves to encouraging.
 Whoever gives,
 let them do it with generosity.
 Whoever leads,
@@ -118,7 +118,7 @@ as much as it is up to you,
 be at peace with all people.
 [19] Don’t seek revenge yourselves,
 beloved,
-but leave room for God’s wrath.
+but leave room for God’s anger.
 For it is written,
 “Vengeance belongs to me;
 I will repay,
@@ -145,4 +145,5 @@ but overcome evil with good.
 > Verse 19 quotes Deuteronomy 32:35. Revenge is not our business. But we may bring injustice before God in lament and report it to the police or to a court. That is not revenge.
 > Verse 20: “Coals of fire on his head” is an old picture. Many scholars understand it like this: Kindness makes the enemy ashamed and can lead him to change his mind. The verse quotes Proverbs 25:21–22.
 > Verse 21: Violence and hatred are not overcome with more violence and hatred, but with good.
-> Important: These verses don’t mean that you simply have to put up with violence. Whoever experiences violence may protect themselves and get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call the police: 911 in the US, 999 in the UK.
+> Important: These verses don’t mean that you simply have to put up with violence. Whoever experiences violence may protect themselves and get help. US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+

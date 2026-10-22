@@ -113,11 +113,11 @@ Amen.
 
 > **What does this mean?**
 > **A church with many problems:** In Corinth there were quarrels, groups, pride and questions about the right way to live as a Christian.
-> **The message of the cross:** God shows his power precisely in weakness, in the crucified Christ (chapters 1 to 4).
+> **The message of the cross:** God shows his power especially in weakness, in the crucified Christ (chapters 1 to 4).
 > **Living with the body:** The body is a temple of the Holy Spirit. Paul speaks about sexuality, marriage and staying single (chapters 5 to 7).
 > **Freedom and care for others:** Christians are free. But they should not use their freedom against those who are weaker (chapters 8 to 10).
 > **Worship and the Lord’s Supper:** At the Lord’s Supper everyone should belong, especially the poor (chapter 11).
 > **Many gifts, one body:** Everyone in the church is important (chapter 12). Love is greater than all gifts (chapter 13). Worship should be understandable (chapter 14).
 > **The resurrection:** Christ is risen. Death is defeated (chapter 15).
 > **For today:** “Let all that you do be done in love” (16:14).
-> **What comes next?** Next comes Paul’s second letter to the Corinthians. In it Paul shares many personal things: about suffering and comfort, about weakness and God’s power. A famous word from it says, in short: God’s power shows itself precisely in weakness (2 Corinthians 12:9).
+> **What comes next?** Next comes Paul’s second letter to the Corinthians. In it Paul shares many personal things: about suffering and comfort, about weakness and God’s power. A famous word from it says, in short: God’s power shows itself especially in weakness (2 Corinthians 12:9).

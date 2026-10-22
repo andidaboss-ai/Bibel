@@ -28,13 +28,13 @@ He was naked, so he wrapped his coat around himself.
 Then he jumped into the sea.
 [8] The other disciples came in the little boat.
 They dragged the net full of fish behind them.
-They were not far from land, only about two hundred cubits away.
+They were not far from land, only about 200 cubits away (about 100 yards).
 [9] They got out onto the land.
 There they saw a charcoal fire.
 Fish and bread were lying on it.
 [10] Jesus said to them, “Bring some of the fish you have just caught.”
 [11] Simon Peter went up and pulled the net to land.
-It was full of big fish, one hundred fifty-three of them.
+It was full of big fish, 153 of them.
 There were so many, but the net still didn’t tear.
 [12] Jesus said to them, “Come and eat breakfast!”
 None of the disciples dared to ask him, “Who are you?”
@@ -50,7 +50,8 @@ He did the same with the fish.
 > The Sea of Tiberias is the Sea of Galilee. The disciples are back at home and working as fishermen.
 > Verse 3: Without Jesus they catch nothing. This reminds us of Luke 5:1–11.
 > Verse 7: While working, Peter was probably wearing very little. Out of respect he puts on his coat before he goes to Jesus.
-> Verse 8: Two hundred cubits are about 100 yards (90 meters).
+> Verse 8: A distance of 200 cubits is about 100 yards (90 meters).
+
 > Verse 9: Again a fire of coals. At a fire of coals Peter had denied Jesus (18:18).
 > Verse 11: It is not certain what the number 153 means. Some scholars think: That is how many kinds of fish people knew at that time. Then it would be a picture for all peoples. The net doesn’t tear: The church has room for everyone.
 > Verse 13: Jesus shares bread and fish, as at the feeding of the 5,000 (6:11).

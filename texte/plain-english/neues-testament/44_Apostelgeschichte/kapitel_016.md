@@ -23,7 +23,7 @@ that his father was a Greek.
 they passed on to the churches the decisions
 which the apostles and elders in Jerusalem had made.
 The churches were to keep them.
-[5] So the assemblies were strengthened in the faith
+[5] So the churches were strengthened in the faith
 and grew in number daily.
 
 > **What does this mean?**

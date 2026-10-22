@@ -65,7 +65,7 @@ after the order of Melchizedek.
 
 ## Grow in faith (Verses 11–14)
 
-[11] We have much to say about this,
+[11] We have much to say about him,
 and it is hard to explain,
 because you have become slow to hear.
 [12] For by this time you should already be teachers.

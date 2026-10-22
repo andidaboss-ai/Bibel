@@ -22,7 +22,7 @@ according to the Scriptures.
 He was raised on the third day
 according to the Scriptures.
 [5] He appeared to Cephas,
-then to the twelve.
+then to the Twelve.
 [6] Then he appeared to over 500 brothers at once.
 Most of them are still alive,
 but some have fallen asleep.

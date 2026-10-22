@@ -3,9 +3,9 @@
 
 ---
 
-## Jesus sends out the twelve (Verses 1–6)
+## Jesus sends out the Twelve (Verses 1–6)
 
-[1] Jesus called the twelve together.
+[1] Jesus called the Twelve together.
 He gave them power and authority
 to drive out all demons
 and to heal diseases.
@@ -25,7 +25,7 @@ stay there until you leave that town.
 When you leave their town,
 shake the dust off your feet.
 That will be a warning to them.”
-[6] So the twelve went out.
+[6] So the Twelve went out.
 They went from village to village.
 They told the Good News
 and healed people everywhere.
@@ -72,7 +72,7 @@ Jesus welcomed them.
 He told them about God’s Kingdom.
 And he healed the people who needed healing.
 [12] Late in the afternoon,
-the twelve came to Jesus.
+the Twelve came to Jesus.
 They said,
 “Send the crowd away.
 Then they can go to the villages and farms around here.

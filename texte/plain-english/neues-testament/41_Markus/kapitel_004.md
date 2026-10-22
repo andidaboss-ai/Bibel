@@ -48,7 +48,7 @@ and some 100 times as much.”
 
 [10] When he was alone,
 those who were around him,
-together with the twelve,
+together with the Twelve,
 asked him about the parables.
 [11] He said to them,
 “To you is given the mystery of God’s Kingdom.

@@ -21,7 +21,7 @@ Through him, everyone who believes is made right with God.
 > **What does this mean?**
 > Verse 1: Paul prays for his people. He loves Israel.
 > Verse 2: Paul praises how eager his people are for God. He knows this eagerness from his own experience.
-> Verse 4: The WEB says “fulfillment.” The Greek word *telos* can mean *goal*, *fulfillment* or *end*. Many scholars today say: Paul means that the law finds its goal in Christ. It does not mean that the law is worthless (compare 3:31 and 7:12).
+> Verse 4: The WEB, our English source text, says “fulfillment.” The Greek word *telos* can mean *goal*, *fulfillment* or *end*. Many scholars today say: Paul means that the law finds its goal in Christ. It does not mean that the law is worthless (compare 3:31 and 7:12).
 
 ---
 

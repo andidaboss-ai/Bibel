@@ -73,7 +73,7 @@ as they were walking on their way into the country.
 [13] They went
 and told it to the others.
 But they didn’t believe them either.
-[14] Later he appeared to the eleven themselves
+[14] Later he appeared to the Eleven themselves
 as they were sitting at the table.
 He rebuked them for their unbelief
 and hardness of heart,
@@ -82,7 +82,7 @@ who had seen him after he had risen.
 
 > **What does this mean?**
 > Verses 9–20 are missing in the oldest complete manuscripts, for example the Codex Sinaiticus and the Codex Vaticanus from the 4th century. They were probably added in the 2nd century. Even so, the church accepted them as part of the Bible. Many Bibles print them in brackets or with a note.
-> This ending sums up appearances that are also told in other Gospels: the meeting with Mary Magdalene (John 20:11–18), the two disciples on the way (Luke 24:13–35) and the appearance to the eleven (Luke 24:36–43).
+> This ending sums up appearances that are also told in other Gospels: the meeting with Mary Magdalene (John 20:11–18), the two disciples on the way (Luke 24:13–35) and the appearance to the Eleven (Luke 24:36–43).
 > Verse 9: Mary Magdalene is the first witness of the risen Jesus. “Seven demons” probably means a severe illness or great suffering (compare Luke 8:2). It does not mean that she was a bad woman. The old idea that Mary Magdalene was a prostitute is not in the Bible.
 > The disciples do not believe at first. Doubt is human. Even the first disciples had to find their way to faith.
 

@@ -13,7 +13,7 @@ not made with hands,
 eternal, in the heavens.
 [2] For in this tent we groan
 and long
-to be clothed with our dwelling from heaven.
+to be clothed with our home from heaven.
 [3] When we are clothed with it,
 we will not be found naked.
 [4] For we

@@ -190,7 +190,7 @@ he asked them,
 On the way they had argued with each other
 about who was the greatest.
 [35] Jesus sat down.
-He called the twelve disciples
+He called the 12 disciples
 and said to them,
 “If anyone wants to be first,
 he must be the last of all

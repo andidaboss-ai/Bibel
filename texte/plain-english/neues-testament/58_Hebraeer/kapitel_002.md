@@ -10,7 +10,7 @@ to the things that we have heard,
 so that we don’t drift away.
 [2] For even the word
 that was spoken through angels
-was valid.
+proved firm.
 And every wrongdoing and every disobedience
 received a just punishment.
 [3] How will we escape then
@@ -81,22 +81,22 @@ That is why he is not ashamed
 to call them brothers.
 [12] He says,
 “I will declare your name to my brothers.
-In the middle of the assembly I will sing your praise.”
+In the middle of the congregation I will sing your praise.”
 [13] Again,
 “I will put my trust in him.”
 Again,
 “Look,
-here am I and the children
+here I am with the children
 whom God has given me.”
 [14] The children share in flesh and blood.
 That is why he himself also shared in the same way.
-So through death he wanted to bring to nothing him
+So through death he wanted to destroy the one
 who had the power of death,
 that is, the devil.
 [15] And he wanted to free all
 who through the fear of death
 were slaves all their lives.
-[16] For he doesn’t help angels,
+[16] For certainly he doesn’t help angels,
 but he helps the offspring of Abraham.
 [17] That is why he had to be made like his brothers in all things,
 so that he might become a merciful and faithful high priest before God,
@@ -112,5 +112,5 @@ who are tempted.
 > Verse 12 quotes Psalm 22:22 (in some Bibles 22:23). Verse 13 quotes Isaiah 8:17–18.
 > Verses 14–15: Many people are afraid of death. Jesus died himself and defeated death. He wants to set us free from this fear.
 > Verse 16: “The offspring of Abraham”: This means Israel and all who believe like Abraham (compare Galatians 3:7).
-> Verse 17: The “high priest” was the most important priest in the temple in Jerusalem. Once a year, on the Day of Atonement, he brought the sacrifice for the whole people (Leviticus 16). The letter to the Hebrews uses this picture for Jesus. It writes a lot about it in the next chapters.
+> Verse 17: The “high priest” was the most important priest in the temple in Jerusalem. Once a year, on the Day of Atonement, he brought the sacrifice for the whole people (Leviticus 16). To “make atonement” means: to take away sin and make things right between God and people. The letter to the Hebrews uses this picture for Jesus. It writes a lot about it in the next chapters.
 > Verse 18: Jesus knows temptation and suffering from his own experience. That is why he understands us when things are hard for us.

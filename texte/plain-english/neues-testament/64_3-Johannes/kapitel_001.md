@@ -16,9 +16,9 @@ The third letter of John has only 1 chapter.
 ## Greeting and joy (Verses 1–4)
 
 [1] The elder writes
-to Gaius the beloved,
+to my dear friend Gaius,
 whom I love in truth.
-[2] Beloved,
+[2] Dear friend,
 I pray
 that you may prosper in all things
 and be healthy,
@@ -44,7 +44,7 @@ that my children live in the truth.
 
 ## Praise for Gaius (Verses 5–8)
 
-[5] Beloved,
+[5] Dear friend,
 you act faithfully
 in everything you do for the brothers,
 even though they are strangers.
@@ -54,13 +54,13 @@ You do well
 to send them on their journey
 in a way that pleases God.
 [7] For they went out for the sake of the Name
-and take nothing from the Gentiles.
+and took nothing from the Gentiles.
 [8] That is why we should receive such people,
 so that we may become fellow workers for the truth.
 
 > **What does this mean?**
 > Verses 5–6: Gaius takes traveling Christians into his home, even when he doesn’t know them at all. He gives them food and everything they need for the rest of their journey.
-> Verse 7: “For the sake of the Name” means: for Jesus. The messengers didn’t want to take money from people who didn’t believe in Jesus. That way no one would think that they were making business out of faith.
+> Verse 7: “For the sake of the Name” means: for Jesus. The messengers didn’t want to take money from people who didn’t believe in Jesus. That way no one would think that they were making money from their faith.
 > Verse 8: Whoever supports messengers works with them, even if they themselves stay at home.
 
 ---
@@ -70,7 +70,7 @@ so that we may become fellow workers for the truth.
 [9] I wrote to the church.
 But Diotrephes,
 who loves to be first among them,
-doesn’t accept us.
+doesn’t accept what we say.
 [10] So,
 if I come,
 I will call attention to his deeds.
@@ -78,11 +78,10 @@ He talks unjustly about us
 with wicked words.
 And not content with that:
 He himself doesn’t receive the brothers.
-And those
-who want to receive them
-he forbids
+And some people want to receive them.
+But he forbids them to do it
 and throws them out of the church.
-[11] Beloved,
+[11] Dear friend,
 don’t imitate what is evil,
 but what is good.
 Whoever does good

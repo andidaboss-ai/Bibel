@@ -36,8 +36,8 @@ how great my love for you is.
 
 [5] But if anyone has caused sorrow,
 he has not caused sorrow to me,
-but in part to all of you,
-so that I don’t judge too harshly.
+but in part to all of you.
+I don’t want to say it too strongly.
 [6] For such a person the punishment
 which the majority of you gave him
 is enough.

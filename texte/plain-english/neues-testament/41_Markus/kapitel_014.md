@@ -15,7 +15,7 @@ to arrest Jesus by a trick and kill him.
 so that there won’t be a riot among the people.”
 
 > **What does this mean?**
-> The Passover (Pesach) recalls how Israel was freed from Egypt (Exodus 12). For a week people eat unleavened bread (matzah), bread made without yeast.
+> The Passover (Pesach) recalls how Israel was freed from Egypt (Exodus 12). For a week people eat bread without yeast (matzah).
 > A small group of leaders makes plans against Jesus. The people are more on his side, so the leaders are afraid of a riot.
 > Important: It is wrong to blame “the Jews” for the death of Jesus.
 
@@ -33,7 +33,7 @@ She broke the jar
 and poured the ointment over his head.
 [4] But some of the people there were angry and said to one another,
 “Why has this ointment been wasted?
-[5] It could have been sold for more than three hundred denarii,
+[5] It could have been sold for more than 300 denarii,
 and the money given to the poor.”
 And they grumbled at her.
 [6] But Jesus said,
@@ -53,7 +53,7 @@ what this woman has done will also be told
 in memory of her.”
 
 > **What does this mean?**
-> Nard oil was made from a plant from the faraway Himalayas. It was very expensive. Three hundred denarii were about the wages for a whole year of work.
+> Nard oil was made from a plant from the faraway Himalayas. It was very expensive. The 300 denarii were about the wages for a whole year of work.
 > The woman anoints Jesus like a king. “Christ” means “the Anointed One.” She has understood what the disciples do not yet understand: Jesus will soon die.
 > Verse 7: Jesus is not saying that the poor are unimportant. He reminds us of Deuteronomy 15:11: Because there will always be poor people, you shall help them. “Whenever you want to, you can do them good” (14:7) is only in Mark.
 > Verse 9: Jesus promises that this woman will be remembered everywhere. In Mark her name is not given.
@@ -62,7 +62,7 @@ in memory of her.”
 
 ## Judas wants to betray Jesus (Verses 10–11)
 
-[10] Judas Iscariot, one of the twelve,
+[10] Judas Iscariot, one of the Twelve,
 went to the chief priests
 to hand Jesus over to them.
 [11] When they heard it,
@@ -73,13 +73,13 @@ to hand him over.
 
 > **What does this mean?**
 > Mark does not say why Judas betrays Jesus.
-> Very important: In many languages the name “Judas” sounds like the word for “Jew.” For centuries Christians used Judas as a picture for “the Jews.” That was wrong and caused great injustice. All twelve disciples were Jews, and so was Jesus himself.
+> Very important: In many languages the name “Judas” sounds like the word for “Jew.” For centuries Christians used Judas as a picture for “the Jews.” That was wrong and caused great injustice. All 12 disciples were Jews, and so was Jesus himself.
 
 ---
 
 ## The Passover meal is prepared (Verses 12–16)
 
-[12] On the first day of Unleavened Bread,
+[12] On the first day of the Feast of Unleavened Bread,
 when the Passover lamb was sacrificed,
 his disciples asked him,
 “Where do you want us to go
@@ -113,7 +113,7 @@ and they prepared the Passover meal.
 ## The last meal (Verses 17–21)
 
 [17] When it was evening,
-he came with the twelve.
+he came with the Twelve.
 [18] As they were sitting at the table and eating,
 Jesus said,
 “Most certainly I tell you,
@@ -125,11 +125,11 @@ and began to ask him one after another,
 And another said,
 “Surely not I?”
 [20] He answered them,
-“It is one of the twelve,
+“It is one of the Twelve,
 the one who dips into the dish with me.
 [21] For the Son of Man is going his way,
 as it is written about him.
-But woe to that man
+But how terrible it will be for that man
 through whom the Son of Man is betrayed!
 It would be better for that man
 if he had not been born.”
@@ -244,7 +244,8 @@ for their eyes were very heavy.
 And they didn’t know what to answer him.
 [41] He came the third time
 and said to them,
-“Are you still sleeping and resting?
+“Sleep on now,
+and take your rest.
 It is enough.
 The hour has come.
 The Son of Man is betrayed into the hands of sinners.
@@ -264,7 +265,7 @@ The one who betrays me is here.”
 ## Jesus is arrested (Verses 43–52)
 
 [43] Immediately, while he was still speaking,
-Judas, one of the twelve, came.
+Judas, one of the Twelve, came.
 With him came a crowd with swords and clubs,
 sent by the chief priests,
 the scribes, and the elders.
@@ -313,7 +314,7 @@ right into the courtyard of the high priest.
 He was sitting with the guards
 and warming himself at the fire.
 [55] The chief priests and the whole council
-were looking for testimony against Jesus,
+were looking for witnesses against Jesus,
 so that they could put him to death.
 But they found none.
 [56] For many gave false testimony against him,

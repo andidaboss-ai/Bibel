@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > This chapter is the high point of chapters 9 to 11. Here Paul says very clearly: God has not rejected his people Israel (verses 1–2). He does not take back his gifts and his calling (verse 29). Christians are like branches that were grafted into an olive tree that was not their own. They must not boast over the original branches (verse 18).
 > This chapter is very important for the relationship between Christians and Jews today. The churches refer to it when they say: God’s covenant with Israel still holds.
 
@@ -91,7 +91,8 @@ If the root is holy, then the branches are holy too.
 > Verse 11: Israel did not fall in order to stay down. God has a good plan.
 > Verses 12 and 15: Paul expects something great for Israel: “fullness” and “life from the dead.” His hope for his people is huge.
 > Verse 15: “Rejection” here means a time in which many do not believe in Jesus. It is not God’s last word. Right after, Paul speaks of their “acceptance.”
-> Verse 16: “The first fruit”: In the law of Israel, the first piece of the bread dough was given to God (Numbers 15:17–21). “The root” probably means the fathers Abraham, Isaac and Jacob. Because they are holy, the whole people is dedicated to God.
+> Verse 16: “The first fruit”: In the law of Israel, the first piece of the bread dough was given to God (Numbers 15:17–21). “The root” probably means the ancestors Abraham, Isaac and Jacob.
+ Because they are holy, the whole people is dedicated to God.
 
 ---
 
@@ -150,7 +151,7 @@ when I take away their sins.”
 A covenant is a binding agreement.
 [28] When it comes to the Good News, they are enemies for your sake.
 But when it comes to God’s choosing, they are loved,
-because of their fathers.
+because of their ancestors.
 [29] God’s gifts and his calling can never be taken back.
 [30] In the past, you did not obey God.
 But now you have received mercy, because they did not obey.

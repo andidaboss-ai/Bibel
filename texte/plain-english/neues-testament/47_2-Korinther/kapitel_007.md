@@ -54,9 +54,9 @@ about your sorrow
 and about your zeal for me.
 So I rejoiced even more.
 [8] For even if I made you sad with my letter,
-I don’t regret it.
-I did regret it for a while,
-for I see
+I don’t regret it,
+even though I did regret it before.
+For I see
 that this letter made you sad,
 though only for a short time.
 [9] But now I rejoice.

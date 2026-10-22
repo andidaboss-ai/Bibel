@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In chapters 9 to 11 Paul writes about his own people Israel. He writes with great pain and great love (9:1–3). His question is: Has God abandoned his people because many Jews do not believe in Jesus as the Christ? His answer at the end is: No! God’s gifts and his calling cannot be taken back (11:29). And: In this way all Israel will be saved (11:26).
 > These three chapters must always be read together. Individual verses from chapter 9 or 10 have often been torn out of context in history and used against Jews. That was a grave injustice.
 > Today the churches teach: God’s covenant with the Jewish people has never been revoked (*Nostra Aetate*, 1965; many Protestant synods since 1980).
@@ -57,7 +57,6 @@ It depends on God, who calls.
 [12] So God said to Rebekah: “The older will serve the younger.”
 [13] As it is written: “Jacob I loved, but Esau I hated.”
 
-*election* = God’s choosing
 
 > **What does this mean?**
 > Verse 6: “It is not as though the word of God has come to nothing”: God’s promise to Israel still holds.

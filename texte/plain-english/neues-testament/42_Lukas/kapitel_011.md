@@ -78,7 +78,7 @@ to those who ask him!”
 > **What does this mean?**
 > Back then hospitality was a sacred duty. Leaving a guest without food was not possible. That is why the man goes to his neighbor in the middle of the night.
 > In a simple house the whole family slept in one room. Getting up would have woken everyone.
-> The man does not give up. He asks again and again. Older Bibles call this “persistence.”
+> The man does not give up. He asks again and again. The WEB, our English source text, calls this “persistence.”
 > Jesus says: If even a tired neighbor helps, how much more will God help, who loves us. You may keep on praying.
 > Verse 11: The words about bread and a stone are missing in some old manuscripts.
 > Verse 13: “Even though you are evil” means: You are not perfect. Even so, parents do good things for their children. God is much better still.
@@ -113,8 +113,7 @@ that I drive out demons with the help of Beelzebul.
 [19] If I drive out demons with Beelzebul’s help,
 then whose help do your children use to drive them out?
 So your children will be your judges.
-[20] But I drive out demons by God’s finger.
-If that is so,
+[20] But if I drive out demons by God’s finger,
 then God’s Kingdom has come to you.
 [21] When a strong man with all his weapons
 guards his own house,
@@ -232,7 +231,7 @@ as when a lamp shines brightly on you.”
 
 ## Jesus criticizes Pharisees and lawyers (Verses 37–54)
 
-> **An important note first**
+> **Important note first**
 > In this section Jesus speaks very harsh words. Later they were often misused to despise and persecute Jews. That is a grave injustice.
 > Here Jesus speaks as a Jew to other Jews, like the prophets of Israel. He even eats with a Pharisee. His criticism is aimed at hypocrisy and injustice, which exist in every religion, including among Christians.
 > The Pharisees were devout people who wanted to live out God’s commandments in everyday life. Later rabbinic Judaism grew out of them. Today the church teaches: The Jewish people are loved by God and not rejected (Romans 11:1–2,29; *Nostra Aetate* 1965).
@@ -307,7 +306,7 @@ so that they could accuse him.
 > Verses 39–41: Jesus says: Outward purity is good. But the heart is more important. Whoever shares with the poor is pure inside.
 > Verse 42: The “tithe” was an offering for the temple and the poor: a tenth of the harvest (Deuteronomy 14:22). Mint and rue are garden herbs. Jesus does not say that tithing is wrong: “You should do these things, without leaving the other things undone” (11:42). But justice and love are more important. The prophets said this too (Micah 6:8).
 > Verse 44: Whoever touched a grave became unclean (Numbers 19:16). Jesus says: Whoever is a hypocrite makes others unclean without their noticing. The words “scribes and Pharisees, hypocrites” (11:44) are missing in many old manuscripts. The WEB has them.
-> The “experts in the law” (in older Bibles: lawyers) knew the law of Moses very well. They were similar to the scribes.
+> The “experts in the law” (in the WEB: lawyers) knew the law of Moses very well. They were similar to the scribes.
 > Verses 47–48: Many prophets were persecuted in the history of Israel (for example Jeremiah). The Bible of Israel itself tells this honestly.
 > Verse 51: Abel is the first person who was murdered (Genesis 4:8). Zachariah was stoned in the temple courtyard (2 Chronicles 24:20–22). In the Hebrew Bible the Book of Chronicles comes at the end. So “from the blood of Abel to the blood of Zachariah” (11:51) means: from the beginning to the end of the Holy Scriptures.
 > Verses 50–51: “This generation”: This is the language of the prophets. It is not a judgment on the whole Jewish people. The Bible says clearly: Each person is responsible only for their own guilt (Ezekiel 18:20).

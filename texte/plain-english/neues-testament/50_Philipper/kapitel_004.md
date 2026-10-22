@@ -6,11 +6,11 @@
 ## Stand firm and stay together (Verses 1–3)
 
 [1] So,
-my beloved brothers,
-whom I long for,
+my dear brothers,
+whom I love and long for,
 my joy and crown:
 Stand firm in the Lord in this way,
-my beloved.
+my dear friends.
 [2] I urge Euodia,
 and I urge Syntyche:
 Be of one mind in the Lord.
@@ -37,15 +37,15 @@ Their names are in the book of life.
 [4] Rejoice in the Lord
 always!
 Again I will say:
-Rejoice!
+“Rejoice!”
 [5] Let your gentleness be known to all people.
 The Lord is at hand.
-[6] In nothing be anxious.
+[6] Don’t worry about anything.
 But in everything bring your requests to God,
 by prayer and petition
 with thanksgiving.
 [7] And the peace of God,
-which surpasses all understanding,
+which is greater than all understanding,
 will guard your hearts and your thoughts
 in Christ Jesus.
 [8] Finally,
@@ -55,10 +55,11 @@ whatever is honorable,
 whatever is just,
 whatever is pure,
 whatever is lovely,
-whatever is of good report,
+whatever has a good reputation,
 if there is any virtue
 and anything worthy of praise:
 think about these things.
+Virtue means: a good quality in a person.
 [9] What you learned
 and received
 and heard
@@ -66,13 +67,11 @@ and saw in me,
 do that.
 And the God of peace will be with you.
 
-*virtue* = a good quality in a person
-
 > **What does this mean?**
 > Verse 4: Paul writes this sentence in prison. Joy “in the Lord” doesn’t depend on everything going well. It comes from trusting God.
 > Important: Christians don’t always have to be cheerful. Sadness, fear and lament also have a place before God. The Psalms are full of them.
 > Verse 5: “The Lord is at hand” can mean: Jesus is coming again soon. It can also mean: God is near to us now.
-> Verse 6: “In nothing be anxious” is no reproach to people who have worries. It is an invitation: Bring your worries to God. If you suffer from strong fears or worries, you may also get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Verse 6: “Don’t worry about anything” is no reproach to people who have worries. It is an invitation: Bring your worries to God. If you suffer from strong fears or worries, you may also get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verse 7: God’s peace is greater than we can understand. It guards our hearts like a guard watches over a city.
 > Verse 8: Paul lists values that many people outside the church also knew and valued. Christians may value what is good wherever they find it.
 
@@ -80,7 +79,7 @@ And the God of peace will be with you.
 
 ## Thanks for the church’s help (Verses 10–20)
 
-[10] I rejoiced greatly in the Lord
+[10] I rejoice greatly in the Lord
 that now at last you could think of me again.
 You did indeed think of me,
 but you had no opportunity
@@ -103,7 +102,7 @@ to share in my trouble.
 you Philippians:
 In the beginning of the Good News,
 when I left Macedonia,
-no assembly shared with me in giving and receiving
+no church shared with me in giving and receiving
 but you only.
 [16] For even in Thessalonica you sent me something for my needs
 more than once.
@@ -156,7 +155,7 @@ Amen.
 > **What does this mean?**
 > **Joy in spite of prison:** Paul is in prison and doesn’t know whether he will survive. And yet he writes again and again about joy (chapters 1 to 4).
 > **To live is Christ:** Paul holds on to life because others need him. And he is not afraid of death, because then he will be with Christ (chapter 1).
-> **The song of Christ:** Jesus humbled himself to the point of death on the cross. God exalted him. That is the example for all Christians: to serve one another, not to rule (chapter 2).
+> **The song of Christ:** Jesus humbled himself to the point of death on the cross. God raised him to the highest place. That is the example for all Christians: to serve one another, not to rule (chapter 2).
 > **Good friends:** Timothy and Epaphroditus show how to be there for one another (chapter 2).
 > **Everything for Christ:** Paul was proud of his Jewish background. But Christ is even more valuable to him. He runs toward the goal like a runner (chapter 3).
 > **Bringing worries to God:** prayer, thanks and God’s peace, which is greater than our understanding (chapter 4).

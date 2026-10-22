@@ -68,7 +68,7 @@ in memory of her.”
 
 ## Judas wants to betray Jesus (Verses 14–16)
 
-[14] Then one of the twelve,
+[14] Then one of the 12 disciples,
 who was called Judas Iscariot,
 went to the chief priests
 [15] and said,
@@ -81,13 +81,13 @@ to betray him.
 > **What does this mean?**
 > Matthew does not say exactly why Judas betrayed Jesus. Here it is about money. Other reasons have been suggested, but they are not certain.
 > 30 pieces of silver remind us of Zechariah 11:12. There it is the wage with which the shepherd is fobbed off. According to Exodus 21:32 it was the price of a slave.
-> Very important: In many languages the name “Judas” sounds like the word for “Jew.” For centuries Christians used Judas as a picture for “the Jews.” That was wrong and caused great injustice. All twelve disciples were Jews, Peter too, John too. And Jesus himself was a Jew.
+> Very important: In many languages the name “Judas” sounds like the word for “Jew.” For centuries Christians used Judas as a picture for “the Jews.” That was wrong and caused great injustice. All 12 disciples were Jews, Peter too, John too. And Jesus himself was a Jew.
 
 ---
 
 ## The last Passover meal (Verses 17–25)
 
-[17] On the first day of Unleavened Bread,
+[17] On the first day of the Feast of Unleavened Bread,
 the disciples came to Jesus and asked him,
 “Where do you want us to prepare the Passover meal for you?”
 [18] He said,
@@ -99,7 +99,7 @@ I will celebrate the Passover at your house with my disciples.”’”
 [19] The disciples did as Jesus had told them
 and prepared the Passover meal.
 [20] When evening came,
-he was reclining at the table with the twelve disciples.
+he was reclining at the table with the 12 disciples.
 [21] While they were eating, he said,
 “Most certainly I tell you,
 one of you will betray me.”
@@ -111,7 +111,7 @@ and each one began to ask him,
 will betray me.
 [24] The Son of Man is going his way,
 as it is written about him.
-But woe to that man
+But how terrible it will be for that man
 through whom the Son of Man is betrayed!
 It would be better for that man
 if he had not been born.”
@@ -259,7 +259,7 @@ The one who betrays me is here.”
 ## Jesus is arrested (Verses 47–56)
 
 [47] While he was still speaking,
-Judas, one of the twelve, came.
+Judas, one of the 12 disciples, came.
 With him came a large crowd with swords and clubs,
 sent by the chief priests and the elders of the people.
 [48] The betrayer had given them a sign:
@@ -284,7 +284,7 @@ For all those who take the sword
 will die by the sword.
 [53] Or do you think
 that I couldn’t ask my Father,
-and he would at once send me more than twelve legions of angels?
+and he would at once send me more than 12 legions of angels?
 [54] But then how would the Scriptures be fulfilled
 that say it must happen this way?”
 [55] At that hour Jesus said to the crowd,

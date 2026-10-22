@@ -25,7 +25,7 @@ Remember what he told you while he was still in Galilee.
 He said that they would crucify him, and that he would rise again on the third day.”
 [8] Then the women remembered his words.
 [9] They went back from the tomb.
-They told all these things to the eleven and to all the others.
+They told all these things to the Eleven and to all the others.
 [10] The women were Mary Magdalene, Joanna, and Mary the mother of James.
 The other women with them also told these things to the apostles.
 [11] But the apostles thought these words were nonsense.
@@ -50,7 +50,7 @@ He wondered what had happened.
 ## The disciples on the road to Emmaus (Verses 13–35)
 
 [13] On that same day, two of them were walking to a village named Emmaus.
-It was sixty stadia from Jerusalem, about 7 miles.
+It was 60 stadia from Jerusalem, about 7 miles.
 [14] They were talking with each other about all the things that had happened.
 [15] While they were talking and asking each other questions, Jesus himself came near.
 He walked along with them.
@@ -101,7 +101,7 @@ And he disappeared from their sight.
 “Weren’t our hearts burning inside us while he talked with us on the road?
 Weren’t they burning while he explained the Scriptures to us?”
 [33] They got up that same hour and went back to Jerusalem.
-There they found the eleven and the others with them.
+There they found the Eleven and the others with them.
 They were all gathered together.
 [34] They were saying,
 “The Lord really has risen!
@@ -111,7 +111,7 @@ They told how they had recognized Jesus when he broke the bread.
 
 > **What does this mean?**
 > Only Luke tells this story. It is one of the most beautiful in the Bible.
-> Verse 13: Sixty stadia are about 7 miles (11 kilometers). Some manuscripts have one hundred sixty stadia. Where exactly Emmaus was is not certain.
+> Verse 13: 60 stadia are about 7 miles (11 kilometers). Some manuscripts have 160 stadia. Where exactly Emmaus was is not certain.
 > Verse 16: The two are so sad and disappointed that they do not recognize Jesus.
 > Verse 18: Cleopas is one of the two. Luke does not give the name of the other. Some interpreters think it was his wife.
 > Verse 20: The two disciples are Jews themselves. They speak of “our rulers.” What is meant is certain leaders, not the people. Important: No guilt of the Jews may be drawn from this.
@@ -182,7 +182,7 @@ There they praised God and blessed him.
 Amen.
 
 > **What does this mean?**
-> This is the Ascension of Jesus. Christians celebrate it forty days after Easter (compare Acts 1:3–11).
+> This is the Ascension of Jesus. Christians celebrate it 40 days after Easter (compare Acts 1:3–11).
 > Verses 50–51: The last thing the disciples see of Jesus: He blesses them. With this blessing they go into the future.
 > Verses 51–52: The words about being carried up into heaven and about worshiping him are missing in some old manuscripts. The WEB has them.
 > “Heaven” is not a place above the clouds. It means: Jesus is with God, in God’s reality. From there he is near to all people.
@@ -201,7 +201,7 @@ Amen.
 > **Women:** In Luke women play a big role: Mary and Elizabeth, the prophetess Anna, the women who travel with Jesus and support him, Martha and Mary, the widows. Women are the first witnesses of the resurrection.
 > **Famous parables:** Only Luke tells of the Good Samaritan, the lost son, the rich farmer, the rich man and poor Lazarus, the Pharisee and the tax collector.
 > **Prayer and the Holy Spirit:** In Luke Jesus prays before all the important moments. And he promises the Holy Spirit.
-> **Mercy and forgiveness:** Zacchaeus, the woman who anoints Jesus’ feet, the criminal on the cross. And on the cross Jesus prays: “Father, forgive them” (23:34). The Son of Man came “to seek and to save” what was lost (19:10).
+> **Mercy and forgiveness:** Zacchaeus, the woman who anoints Jesus’ feet, the criminal on the cross. And on the cross Jesus prays: “Father, forgive them” (23:34). The Son of Man came “to look for the lost and to save them” (19:10).
 > **An important note:** Luke begins and ends in the temple in Jerusalem. Jesus, Mary, the disciples and the first Christians lived as Jews. Again and again Luke shows how “all the people” listen to Jesus and mourn for him. No text of this Gospel may be used against Jews.
 > **For today:** Like the disciples on the road to Emmaus, we too can meet Jesus: when we hear the Holy Scriptures and share the bread.
 > **What comes next?** Next comes the Gospel of John. It is different from the other three Gospels. It begins with the Word that was there in the beginning. John tells of great signs of Jesus and of long speeches in which Jesus says who he is: the bread of life, the light of the world, the good shepherd.

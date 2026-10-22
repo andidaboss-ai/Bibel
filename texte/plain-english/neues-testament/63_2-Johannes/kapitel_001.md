@@ -33,13 +33,13 @@ in truth and love.
 
 > **What does this mean?**
 > “The chosen lady”: At the end (verse 13) the children of her “chosen sister” send greetings. That is why many think: Two churches are meant, which are like sisters.
-> Truth and love belong together. Truth without love becomes hard. Love without truth becomes anything goes.
+> Truth and love belong together. Truth without love becomes hard. Love without truth means that anything goes.
 
 ---
 
 ## Love one another (Verses 4–6)
 
-[4] I rejoiced greatly
+[4] I am very glad
 that I have found some of your children
 living in the truth,
 just as we received a commandment from the Father.
@@ -88,7 +88,7 @@ takes part in his evil deeds.
 
 > **Important note**
 > Verses 10–11 sound very harsh. At that time teachers traveled from church to church. They stayed with Christians, and the church met in houses. Whoever took in a teacher gave him a stage in the church. So what is meant is: Don’t give false teachers a place to teach in your church.
-> The verse is no permission to treat people unkindly or to shut out people who believe differently. Jesus ate with everyone. Christians are to respect all people and be kind.
+> These verses do not give permission to treat people unkindly or to shut out people who believe differently. Jesus ate with everyone. Christians are to respect all people and be kind.
 
 ---
 
@@ -104,7 +104,7 @@ so that our joy may be complete.
 Amen.
 
 > **What does this mean?**
-> Verse 12: A very human sentence: Some things are better said in person than in a letter. Nothing can replace real meeting.
+> Verse 12: A very human sentence: Some things are better said in person than in a letter. Nothing can replace meeting in person.
 > Verse 13: The “chosen sister” is probably another church where the elder is at the moment.
 
 ---

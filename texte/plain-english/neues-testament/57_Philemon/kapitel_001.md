@@ -5,12 +5,11 @@
 
 ## Before we begin: The letter to Philemon
 
-The letter to Philemon is the shortest letter of Paul. Almost all scholars agree that Paul wrote it himself.
+The letter to Philemon is the shortest letter of Paul. It has only one chapter. Almost all scholars agree that Paul wrote it himself.
 Philemon was a well-off Christian, probably in Colossae. A church met in his house.
 Onesimus was a slave of Philemon. He went away from him, perhaps he ran away. He came to Paul, who was in prison. There Onesimus became a Christian.
 Now Paul sends him back to Philemon, with this letter. Paul asks Philemon to receive Onesimus no longer as a slave, but as a beloved brother.
 **An important note:** The letter does not openly demand the end of slavery. But it puts slavery in a new light: A slave is a brother. Later this message led many Christians to fight against slavery.
-The letter to Philemon has 1 chapter.
 
 ---
 
@@ -25,7 +24,7 @@ our beloved fellow worker,
 [2] to the beloved Apphia,
 to Archippus,
 our fellow soldier,
-and to the assembly in your house:
+and to the church in your house:
 [3] Grace to you and peace
 from God our Father
 and the Lord Jesus Christ.
@@ -33,7 +32,7 @@ and the Lord Jesus Christ.
 > **What does this mean?**
 > Verse 1: Paul calls himself “a prisoner of Christ Jesus.” He is in prison, but he sees himself as someone who belongs to Christ.
 > Verse 2: Apphia was probably Philemon’s wife. She is named specifically. Archippus is also mentioned in Colossians 4:17.
-> “The assembly in your house”: The first Christians had no church buildings. They met in private homes.
+> “The church in your house”: The first Christians had no church buildings. They met in private homes.
 > In verse 2 the WEB says “the beloved Apphia.” Some old manuscripts say *Apphia, the sister*.
 
 ---
@@ -107,7 +106,7 @@ that you owe me your very self.
 [20] Yes,
 brother,
 let me have joy from you in the Lord.
-Refresh my heart in Christ.
+Refresh my heart in the Lord.
 [21] I write to you
 because I am confident
 of your obedience.

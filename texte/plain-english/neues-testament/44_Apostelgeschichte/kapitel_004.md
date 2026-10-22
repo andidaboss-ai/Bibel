@@ -13,7 +13,7 @@ The apostles were telling them that in Jesus the dead rise again.
 It was already evening.
 So they put them in custody until the next day.
 [4] But many of those who had heard the message believed.
-The number of men grew to about five thousand.
+The number of men grew to about 5,000.
 
 *custody* = prison, being held by guards
 
@@ -70,7 +70,8 @@ Is it right in God’s eyes to listen to you rather than to God?
 Then they let them go.
 They found no way to punish them, because of the people.
 Everyone was praising God for what had happened.
-[22] The man who had been healed by this miracle was more than forty years old.
+[22] The man who had been healed by this miracle was more than 40 years old.
+
 
 *the head of the corner* = the most important stone in a building
 *unlearned* = without schooling in the Scriptures

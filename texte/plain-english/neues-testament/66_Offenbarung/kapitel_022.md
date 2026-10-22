@@ -10,7 +10,7 @@ It was as clear as crystal.
 It flowed out from the throne of God and of the Lamb
 [2] down the middle of the city’s street.
 On both sides of the river was the tree of life.
-It bears twelve kinds of fruit.
+It bears 12 kinds of fruit.
 It gives its fruit every month.
 The leaves of the tree were for the healing of the nations.
 [3] There will be no more curse.

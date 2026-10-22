@@ -3,9 +3,9 @@
 
 ---
 
-## The ten young women (Verses 1–13)
+## The 10 young women (Verses 1–13)
 
-[1] “Then the Kingdom of Heaven will be like ten young women.
+[1] “Then the Kingdom of Heaven will be like 10 young women.
 They took their lamps
 and went out to meet the bridegroom.
 [2] Five of them were foolish,
@@ -45,7 +45,7 @@ when the Son of Man is coming.”
 > **What does this mean?**
 > At a wedding in those days, the bridegroom went to fetch the bride and brought her to his house. Young women from the town went with him carrying lamps or torches. The WEB says virgins, meaning young, unmarried women, bridesmaids.
 > The bridegroom is a picture of Jesus, who will come again. He comes later than expected.
-> All ten fall asleep, even the wise ones. That is not criticized. The difference is: The wise ones were prepared.
+> All 10 fall asleep, even the wise ones. That is not criticized. The difference is: The wise ones were prepared.
 > The “oil” is a picture. Many interpreters say: It stands for what you cannot lend, for example your own faith, good deeds or a living relationship with God. No one can give that to you.
 > Verse 12: “I don’t know you” is a serious word (compare 7:23). It shows: You should not keep putting off God’s invitation.
 > Important: This parable does not teach that you should not help others. It is about something every person has to do for themselves.
@@ -58,9 +58,12 @@ when the Son of Man is coming.”
 who was going to travel to another country.
 He called his servants
 and entrusted his wealth to them.
-[15] To one he gave five talents,
-to another two,
-to another one,
+[15] To one he gave five talents
+(about 375 pounds of silver),
+to another two
+(about 150 pounds),
+to another one
+(about 75 pounds),
 to each according to his own ability.
 Then he went on his journey.
 [16] The one who had received the five talents
@@ -110,7 +113,7 @@ and gather where I didn’t scatter seed.
 Then when I came back
 I would have received what is mine with interest.
 [28] So take the talent away from him
-and give it to the one who has the ten talents.
+and give it to the one who has the 10 talents.
 [29] For to everyone who has, more will be given,
 and he will have more than enough.
 But from the one who doesn’t have,
@@ -120,7 +123,7 @@ out into the outer darkness.
 There will be weeping and grinding of teeth.’”
 
 > **What does this mean?**
-> In those days a “talent” was not a gift or ability, but a large sum of money: as much as the wages for many years of work. Because this parable is so well known, today we use the word “talent” for an ability.
+> In those days a “talent” was not a gift or ability, but a large sum of money: about 75 pounds of silver, as much as the wages for many years of work. Because this parable is so well known, today we use the word “talent” for an ability.
 > The master entrusts a lot to his servants, “to each according to his own ability.” No one gets too much. And the one with two talents is praised just like the one with five. What matters is not how much you have, but what you do with it.
 > The third servant is afraid. He sees his master as hard and harsh. That is why he risks nothing. The parable shows: A false, fearful picture of God can paralyze you.
 > The message: God has given every person gifts. We should use them boldly, for God and for others.

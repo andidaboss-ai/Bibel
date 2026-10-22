@@ -8,7 +8,7 @@
 [1] A great sign appeared in heaven:
 a woman dressed with the sun.
 The moon was under her feet.
-On her head was a crown of twelve stars.
+On her head was a crown of 12 stars.
 [2] She was pregnant.
 She cried out in pain, because she was in labor and about to give birth.
 [3] Another sign appeared in heaven.
@@ -27,7 +27,7 @@ There they will feed her and take care of her for 1,260 days.
 
 > **What does this mean?**
 > Here a new part begins. John now shows what is behind everything: the battle between God and evil.
-> Verse 1: The woman with twelve stars recalls the people of Israel with its twelve tribes (compare Joseph’s dream, Genesis 37:9). The Messiah comes from Israel.
+> Verse 1: The woman with 12 stars recalls the people of Israel with its 12 tribes (compare Joseph’s dream, Genesis 37:9). The Messiah comes from Israel.
 > Christians understand the woman in different ways: as a picture for Israel, for the church or for Mary, the mother of Jesus. Especially in the Catholic and Orthodox churches, the woman is often connected with Mary. All these interpretations have something to them.
 > Verse 3: The dragon is the devil (verse 9). Seven heads and ten horns show his great power. Red is the color of blood and violence.
 > Verse 5: The child is Jesus, the Messiah (compare Psalm 2:9). “Caught up” means his resurrection and ascension into heaven. The dragon can’t harm him.

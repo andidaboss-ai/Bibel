@@ -48,7 +48,7 @@ They stayed there for a few days.
 > Verse 6: A metretes was about 10 gallons (39 liters). So each jar held about 20 to 30 gallons (80 to 120 liters). Together that is over 120 gallons (500 liters), a huge amount of wine.
 > The jars were meant for ritual washing, a good devout custom. Jesus fills them with new content. This shows: With Jesus comes God’s abundance and joy.
 > Verse 11: John calls Jesus’ miracles “signs.” They show who Jesus is.
-> Important: In the Bible wine belongs to a celebration. Whoever has problems with alcohol is not worse than others. Help is available from addiction counseling services and self-help groups.
+> Important: In the Bible wine belongs to a celebration. Whoever has problems with alcohol is not worse than others. Help is available from addiction counseling services and self-help groups. In the US, call the SAMHSA National Helpline at 1-800-662-4357.
 > Verse 12: About Jesus’ “brothers,” see the boxes at Luke 8:19–21: The churches understand this in different ways.
 > For today: Jesus celebrates with people. He gives joy in abundance.
 
@@ -75,7 +75,7 @@ So what sign will you show us?”
 [19] Jesus answered them,
 “Destroy this temple, and I will raise it up again in three days.”
 [20] Then the Jews said,
-“It took forty-six years to build this temple!
+“It took 46 years to build this temple!
 And you will raise it up in three days?”
 [21] But the temple Jesus was talking about was his body.
 [22] Later he was raised from the dead.

@@ -6,7 +6,7 @@
 ## Before we begin: The letter of James
 
 The letter names itself a letter of James. According to an old tradition this is James, the brother of Jesus. He was an important leader of the church in Jerusalem (Acts 15 and Galatians 1:19). Many scholars think that the letter was written later in the spirit of James. Others consider James himself the author.
-The letter is addressed to “the twelve tribes which are in the Dispersion.” This probably means Christians who lived outside the land of Israel, above all Christians of Jewish background.
+The letter is addressed to “the 12 tribes which are in the Dispersion.” This probably means Christians who lived outside the land of Israel, above all Christians of Jewish background.
 The letter is very practical. It recalls the wisdom books of the Bible, for example Proverbs, and the Sermon on the Mount of Jesus.
 The big theme is: Faith shows itself in deeds. The letter stands up strongly for the poor and warns the rich.
 At the time of the Reformation people argued about this letter, because it says that faith without works is dead. Today most Christians see: Paul and James complement each other.
@@ -19,7 +19,7 @@ The letter of James has 5 chapters.
 [1] James,
 a servant of God
 and of the Lord Jesus Christ,
-greets the twelve tribes which are in the Dispersion.
+greets the 12 tribes which are in the Dispersion.
 [2] My brothers,
 count it all joy
 when you fall into various temptations.
@@ -45,7 +45,7 @@ that he will receive anything from the Lord.
 unstable in all his ways.
 
 > **What does this mean?**
-> Verse 1: “The twelve tribes”: Israel was made up of twelve tribes. The letter speaks to the Christians as part of God’s people.
+> Verse 1: “The 12 tribes”: Israel was made up of 12 tribes. The letter speaks to the Christians as part of God’s people.
 > Verse 2: The WEB says “temptations.” Here the Greek word means above all trials and hard times.
 > Verses 2–4: Hard times are not nice. But they can make us stronger. “Joy” doesn’t mean that you have to think suffering is good.
 > Verse 5: God gives gladly and doesn’t blame us when we ask him for help.

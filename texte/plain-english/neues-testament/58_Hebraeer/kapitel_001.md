@@ -15,7 +15,7 @@ The letter to the Hebrews has 13 chapters.
 
 ## God speaks through his Son (Verses 1–4)
 
-[1] Long ago God spoke to the fathers
+[1] Long ago God spoke to our ancestors
 at many times and in many ways,
 through the prophets.
 [2] Now at the end of these days
@@ -28,7 +28,7 @@ He holds up all things by his powerful word.
 He himself made us clean from our sins.
 After that he sat down
 at the right hand of the Majesty on high.
-[4] He has become so much greater than the angels
+[4] He has become as much greater than the angels
 as the name
 that he has inherited
 is greater than their name.
@@ -75,7 +75,7 @@ The heavens are the works of your hands.
 [11] They will perish,
 but you remain.
 They will all grow old like a garment.
-[12] You will roll them up like a mantle,
+[12] You will roll them up like a cloak,
 and they will be changed.
 But you are the same.
 Your years will not fail.”
@@ -93,7 +93,7 @@ who will inherit salvation?
 > Verse 5: Psalm 2:7 and 2 Samuel 7:14. At first these are words about the king from David’s family.
 > Verse 6: The quotation follows the Greek translation of Deuteronomy 32:43. It also recalls Psalm 97:7.
 > Verse 7: Psalm 104:4.
-> Verses 8–9: Psalm 45:6–7 (in some Bibles 45:7–8). At first a song for the king’s wedding.
+> Verses 8–9: Psalm 45:6–7 (in some Bibles 45:7–8). At first a song for the king’s wedding. A scepter is the staff of a king. Righteousness means: living right before God.
 > Verses 10–12: Psalm 102:25–27 (in some Bibles 102:26–28). There God the Creator is meant. The letter applies this to the Son.
 > Verse 13: Psalm 110:1.
 > Important: These psalms first had their own meaning for Israel. The Jewish people read them in their own way to this day. The letter to the Hebrews reads them as a Christian in the light of Jesus.

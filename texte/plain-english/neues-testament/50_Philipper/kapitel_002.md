@@ -19,11 +19,10 @@ or out of conceit.
 But be humble.
 Each one should count others better
 than himself.
+Conceit means: thinking too highly of yourself.
 [4] Each of you should not only look to his own things,
 but also to the things
-of others and what they need.
-
-*conceit* = thinking too highly of yourself
+of others.
 
 > **What does this mean?**
 > Verses 1–2: Paul wishes that the church sticks together. That makes him glad, even though he is in prison.
@@ -37,18 +36,18 @@ of others and what they need.
 [5] Have the same attitude
 that Christ Jesus also had:
 [6] He existed in the form of God.
-But he didn’t hold on to
+But he didn’t think of
 equality with God
-as a thing to be grasped.
+as something to hold on to.
 [7] Rather, he emptied himself.
 He took the form of a servant
-and was made in the likeness of men.
+and was made like human beings.
 [8] And when he lived as a human being,
 he humbled himself.
 He became obedient to the point of death,
 yes,
-the death of the cross.
-[9] Therefore God also highly exalted him.
+even death on a cross.
+[9] Therefore God also raised him to the highest place.
 He gave him the name
 which is above every name.
 [10] So at the name of Jesus
@@ -66,7 +65,7 @@ This happens to the glory of God the Father.
 > Verse 6: Jesus did not use his power for himself. He did not cling to it like a prize grabbed in war.
 > Verse 7: “He emptied himself”: He gave up his glory and became fully human. Christians have discussed a lot how exactly to understand this.
 > Verse 8: Death on the cross was the cruelest and most shameful punishment of the Romans. No one could sink lower.
-> Verses 10–11 take up Isaiah 45:23: *To me every knee shall bow, every tongue shall take an oath.* There God speaks, the God of Israel. The song says: Whoever honors Jesus as Lord honors God the Father by doing so.
+> Verses 10–11 take up Isaiah 45:23: “To me every knee will bow, every tongue will swear loyalty.” There God speaks, the God of Israel. The song says: Whoever honors Jesus as Lord honors God the Father by doing so.
 > Verse 5: The beginning is important: This song is to be our example. Christians are not to strive to get to the top, but to serve one another, just as Jesus did.
 
 ---
@@ -74,7 +73,7 @@ This happens to the glory of God the Father.
 ## Live out your faith (Verses 12–18)
 
 [12] So then,
-my beloved:
+my dear friends:
 You have always obeyed,
 not only
 when I was with you,
@@ -90,9 +89,9 @@ as it pleases him.
 [14] Do all things
 without complaining
 and arguing,
-[15] so that you may be blameless and pure,
+[15] so that you may be blameless and innocent,
 children of God without fault,
-in the middle of a crooked and perverse generation.
+in the middle of a crooked and twisted generation.
 Among them you shine
 as lights in the world.
 [16] Hold up the word of life.
@@ -107,14 +106,12 @@ I am glad and rejoice with you all.
 [18] In the same way, you also should be glad
 and rejoice with me.
 
-*drink offering* = wine that was poured out at a sacrifice
-
 > **What does this mean?**
 > Verses 12–13: These two verses belong together. We are to make an effort in our faith. But at the same time we know: God himself works in us. Salvation is not earned, but it is to become visible in our lives.
 > “With fear and trembling” doesn’t mean: living in fear of God. It means: taking the matter seriously.
 > Verse 14 recalls Israel in the wilderness, which often complained (compare Exodus 16). Verse 15 takes up words from Deuteronomy 32:5.
 > Verse 15: “Lights in the world”: Christians are to show through their lives how good God is. This is no arrogance toward others.
-> Verse 17: Paul is thinking that he might be executed. Still he speaks of joy.
+> Verse 17: A drink offering was wine that was poured out at a sacrifice. Paul is thinking that he might be executed. Still he speaks of joy.
 
 ---
 
@@ -174,8 +171,7 @@ And hold such people in honor.
 [30] For because of the work of Christ
 he came near to death.
 He risked his life
-to supply what was lacking in your service toward me,
-because you could not be here yourselves.
+to supply what was lacking in your service toward me.
 
 > **What does this mean?**
 > Verse 25: Epaphroditus came from Philippi. The church had sent him to Paul with a gift of money (compare 4:18). The WEB calls him “your apostle,” that is, the messenger sent by the church.

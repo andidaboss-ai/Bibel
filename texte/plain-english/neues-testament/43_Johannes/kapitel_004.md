@@ -35,7 +35,7 @@ So where do you get that living water?
 [12] Are you greater than our father Jacob?
 He gave us this well.
 He drank from it himself.
-His sons and his animals drank from it too.”
+His children and his animals drank from it too.”
 [13] Jesus answered her,
 “Everyone who drinks this water will get thirsty again.
 [14] But whoever drinks the water I give him will never be thirsty again.

@@ -16,7 +16,7 @@ they were worse sinners than all the other people in Galilee?
 [3] No, I tell you.
 But if you do not turn away from your sins,
 you will all be lost, just like them.
-[4] Or think about the eighteen people in Siloam.
+[4] Or think about the 18 people in Siloam.
 The tower fell on them and killed them.
 Do you think they were more guilty
 than all the other people who live in Jerusalem?
@@ -29,7 +29,7 @@ you will all be lost, just like them.”
 > Verse 4: Siloam was a pool in Jerusalem. A tower had collapsed there.
 > Back then many people thought: Whoever suffers misfortune is being punished by God. Jesus says clearly: No! The victims of violence and accidents were not worse than others.
 > Important: Today too, accidents, illnesses, natural disasters or acts of violence are not a punishment from God for the victims.
-> To turn away from your sins (repent) means: turn around, change your life and turn back to God. To be lost (older Bibles: perish) means: to die and be lost.
+> To turn away from your sins (repent) means: turn around, change your life and turn back to God. To be lost (in the WEB: perish) means: to die and be lost.
 > Jesus turns the question around: Instead of judging others, each person should look at their own life and turn back.
 
 ---
@@ -57,7 +57,7 @@ If not, then you can cut it down.’”
 
 > **What does this mean?**
 > A fig tree takes a few years before it bears fruit. After that it should bring fruit every year.
-> The vine dresser is the gardener who takes care of the vineyard. He asks for time and does everything so that the tree can bear fruit. Many interpreters see in this a picture of Jesus, who speaks up for people before God.
+> The man who takes care of the vineyard (in the WEB: the vine dresser) asks for time and does everything so that the tree can bear fruit. Many interpreters see in this a picture of Jesus, who speaks up for people before God.
 > God is patient. He gives time to turn back. But this time should be used.
 > For today: God does not give up on anyone quickly. It is never too late to start again.
 
@@ -67,7 +67,7 @@ If not, then you can cut it down.’”
 
 [10] On a Sabbath day Jesus was teaching in one of the synagogues.
 [11] A woman was there.
-For eighteen years a spirit had made her sick.
+For 18 years a spirit had made her sick.
 She was bent over
 and could not stand up straight at all.
 [12] When Jesus saw her,
@@ -88,7 +88,7 @@ Don’t come on the Sabbath day!”
 On the Sabbath each of you unties his ox or his donkey from the stall.
 Then you lead it out to give it water.
 [16] This woman is a daughter of Abraham.
-Satan has kept her tied up for eighteen long years.
+Satan has kept her tied up for 18 long years.
 Shouldn’t she be set free from what tied her up,
 even on the Sabbath day?”
 [17] When Jesus said this,
@@ -97,10 +97,10 @@ But the whole crowd was happy
 about all the wonderful things he was doing.
 
 > **What does this mean?**
-> Only Luke tells this story. The woman had been bent over for eighteen years. She could not look anyone in the eye.
+> Only Luke tells this story. The woman had been bent over for 18 years. She could not look anyone in the eye.
 > “A spirit had made her sick”: That is the language of that time for an illness. Today we might think of a disease of the spine.
 > Important: Illness is not a punishment and not possession. Whoever is sick is not less devout.
-> The Sabbath is the holy day of rest (Exodus 20:8–11). The ruler of the synagogue wants to protect the commandment. That is a serious concern.
+> The Sabbath is the holy day of rest (Exodus 20:8–11). The leader of the synagogue wants to protect the commandment. That is a serious concern.
 > But Jesus says: The Sabbath is a very good day to set people free. The Sabbath is a reminder of the freedom from Egypt (Deuteronomy 5:15).
 > In Judaism too it is taught: To save a life, you may break the Sabbath. Jesus goes even further: A person who has suffered for a long time should not have to wait even one more day.
 > Verse 16: “A daughter of Abraham”: Jesus gives her back her dignity. She belongs fully to God’s people. Being tied up means: not being free.
@@ -214,6 +214,6 @@ until you say,
 > “Fox” was a picture for a sly and unimportant ruler. Jesus does not let himself be frightened.
 > Verses 32–33: “Today and tomorrow. And on the third day …”: This means a short time set by God. Christians also think of the resurrection on the third day.
 > Verse 33: With bitter irony Jesus says: Jerusalem is the place where prophets die. But Jerusalem is also God’s holy city, which he loves.
-> Verse 34: Jesus laments with great love, like a mother who wants to protect her children. A brood is a group of young chicks. In the Bible God is also described with motherly pictures.
+> Verse 34: Jesus laments with great love, like a mother who wants to protect her children. In the Bible God is also described with motherly pictures.
 > Verse 35: “Your house” probably means the temple and the city. Jesus foresees their destruction. It happened in the year AD 70 through the Romans. The words “Blessed is he who comes in the name of the Lord” come from Psalm 118:26.
 > Important: This is a prophet’s lament out of love. It is not a curse on the Jewish people. The end even shows hope: Jerusalem will one day bless him.

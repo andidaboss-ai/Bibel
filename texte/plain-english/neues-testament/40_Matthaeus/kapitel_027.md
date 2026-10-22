@@ -54,7 +54,7 @@ as the Lord commanded me.”
 > **What does this mean?**
 > Judas regrets what he has done. He says honestly: “I have sinned.” But the priests leave him alone. No one helps him.
 > Judas takes his own life. That is very sad. Matthew tells it without passing judgment.
-> Important: Whoever is thinking about suicide is not alone. There is help, even if you feel great guilt. Please reach out: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Important: Whoever is thinking about suicide is not alone. There is help, even if you feel great guilt. Please reach out: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Christians believe: No guilt is so great that God cannot forgive it. Peter failed too, and he found a new beginning.
 > Whoever has lost someone to suicide should know: Today the churches no longer condemn people who have taken their own lives. They are usually given a Christian funeral today. God is merciful.
 > Verses 9–10: Matthew names the prophet Jeremiah. But the words about the 30 pieces of silver are mainly found in Zechariah (Zechariah 11:12–13). Jeremiah tells about a potter and about buying a field (Jeremiah 18:1–4; 19:1–2; 32:6–9). Matthew probably combines these passages and names the better-known prophet.
@@ -131,7 +131,7 @@ and handed him over to be crucified.
 > Verse 24: Pilate washes his hands. From this comes the saying that someone washes their hands of something. But Pilate is not innocent. He had the power, and he gave the sentence. The Christian creed says that Jesus suffered under Pontius Pilate.
 
 > **A very important note on verse 25**
-> This verse is one of the most terribly misused verses in the Bible. For almost 2,000 years Christians used it to insult Jews as God-killers, to persecute them, to drive them from their homes and to kill them. This hatred of Jews helped prepare the way for the Holocaust, the murder of six million Jews.
+> This verse is one of the most terribly misused verses in the Bible. For almost 2,000 years Christians used it to insult Jews as God-killers, to persecute them, to drive them from their homes and to kill them. This hatred of Jews helped prepare the way for the Holocaust, the murder of 6 million Jews.
 > That is a terrible guilt of Christians.
 > That is why it must be said clearly:
 > What is meant is a crowd on one particular morning in Jerusalem that was persuaded by some leaders (verse 20). It was not “the Jewish people” of all times.

@@ -49,9 +49,9 @@ if you hear his voice,
 [8] don’t harden your hearts
 as in the rebellion,
 on the day of testing in the wilderness.
-[9] There your fathers put me to the test
+[9] There your ancestors put me to the test
 and tried me.
-And they saw my works for forty years.
+And they saw my works for 40 years.
 [10] That is why I was displeased with that generation.
 And I said,
 ‘They always go astray in their heart.
@@ -66,7 +66,7 @@ and turns away from the living God.
 [13] But encourage one another every day,
 as long as it is called “today,”
 so that none of you is hardened by the deceitfulness of sin.
-[14] For we have become partakers of Christ,
+[14] For we have come to share in Christ,
 if we hold on to our first confidence
 firm to the end.
 [15] As it is said,
@@ -78,7 +78,7 @@ as in the rebellion.”
 when they heard?
 Wasn’t it all
 who came out of Egypt led by Moses?
-[17] With whom was God displeased for forty years?
+[17] With whom was God displeased for 40 years?
 Wasn’t it with those
 who sinned
 and whose bodies fell in the wilderness?
@@ -91,8 +91,8 @@ They were not able to enter in because of unbelief.
 
 > **What does this mean?**
 > Verses 7–11 quote Psalm 95:7–11. This psalm is prayed in Jewish worship to this day. It is a warning of Israel to itself: Listen to God and trust him.
-> The story behind it is in Exodus 17 and Numbers 14: The people of Israel went through the wilderness after leaving Egypt. They doubted God again and again. That is why this generation had to stay in the wilderness for forty years.
+> The story behind it is in Exodus 17 and Numbers 14: The people of Israel went through the wilderness after leaving Egypt. They doubted God again and again. That is why this generation had to stay in the wilderness for 40 years.
 > Important: The letter to the Hebrews uses this story as a warning for Christians. It does not say: Israel is bad. It says: The same can happen to us Christians if we don’t trust God. The Bible tells honestly about the weaknesses of God’s people, so that everyone can learn from them.
 > Verse 13: “Encourage one another every day”: Faith needs community. We are to help one another not to become tired.
 > “Today”: Every day is a new chance to listen to God.
-> “God’s rest”: At first this meant the promised land. In the next chapter the letter understands it more deeply: as rest and peace with God.
+> “My rest”: God’s rest at first meant the promised land. In the next chapter the letter understands it more deeply: as rest and peace with God.

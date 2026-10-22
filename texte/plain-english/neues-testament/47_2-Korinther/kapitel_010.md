@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > From chapter 10 on, the tone of the letter changes sharply. Paul becomes harsh and defends himself against opponents in Corinth. That is why some scholars think that chapters 10 to 13 were originally a separate letter, perhaps the letter written *with many tears* (2:4).
 > The opponents were Christian traveling preachers who praised themselves. Later Paul mockingly calls them the *very best apostles* (11:5).
 

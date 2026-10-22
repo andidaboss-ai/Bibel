@@ -198,10 +198,10 @@ who had come up with him to Jerusalem.
 ## Jesus is buried (Verses 42–47)
 
 [42] It was already evening.
-Because it was the Preparation Day,
-that is, the day before the Sabbath,
-[43] Joseph of Arimathaea came,
-a respected member of the council.
+It was the Preparation Day,
+that is, the day before the Sabbath.
+[43] So Joseph of Arimathaea came.
+He was a respected member of the council.
 He too was waiting for God’s Kingdom.
 He boldly went to Pilate
 and asked for Jesus’ body.

@@ -19,7 +19,7 @@ but bring them up in the discipline and instruction of the Lord.
 > **What does this mean?**
 > Verses 2–3 quote the commandment from Exodus 20:12 and Deuteronomy 5:16.
 > Verse 4: For that time this was new: Fathers also have duties. They must not provoke their children, treat them unfairly or discourage them.
-> Very important: “Obey your parents in the Lord” does not mean that children have to do everything their parents demand. No child has to put up with violence, abuse or humiliation. In many countries children have a legal right to be raised without violence. Children and young people can get help. In the US, call Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. Parents who need support can also call Childhelp, or in the UK the NSPCC at 0808 800 5000.
+> Very important: “Obey your parents in the Lord” does not mean that children have to do everything their parents demand. No child has to put up with violence, abuse or humiliation. In many countries children have a legal right to be raised without violence. Children and young people can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Parents who need support can also call Childhelp.
 
 ---
 
@@ -48,13 +48,12 @@ Stop threatening.
 For you know:
 You and they have the same Master in heaven.
 And there is no partiality with him.
-
-*partiality* = treating some people better than others
+Partiality means: treating some people better than others.
 
 > **What does this mean?**
 > Verse 5: The WEB says *servants* here. The Greek word means slaves. At the time of the letter there were very many slaves. Christians, too, were slaves or owned slaves.
 > Verse 9: What was new: The masters are also addressed. They must not threaten. Before God masters and slaves are equal.
-> Very important: Slavery is a grave injustice. These verses were later misused to justify slavery. That was wrong. Many Christians fought against slavery. Today there is still human trafficking and forced labor. Christians should stand up against it. If you know about trafficking or forced labor, you can get help. In the US, call the National Human Trafficking Hotline at 1-888-373-7888. In the UK, call the Modern Slavery Helpline at 08000 121 700.
+> Very important: Slavery is a grave injustice. These verses were later misused to justify slavery. That was wrong. Many Christians fought against slavery. Today there is still human trafficking and forced labor. Christians should stand up against it.
 > For today: These verses also don’t mean that employees have to put up with everything. You may speak up about exploitation and injustice at work and fight against them.
 
 ---
@@ -66,6 +65,7 @@ Be strong in the Lord
 and in the strength of his might.
 [11] Put on the whole armor of God,
 so that you can stand against the tricks of the devil.
+Armor is protective clothing for soldiers.
 [12] For our struggle is not against flesh and blood,
 but against the rulers,
 against the powers,
@@ -77,9 +77,10 @@ and,
 having done everything,
 stand firm.
 [14] So stand firm:
-Put on the belt of truth.
+Put on the belt of truth around your waist.
 Put on the breastplate of righteousness.
-[15] Put on as shoes the readiness
+A breastplate is a piece of armor that protects the chest.
+[15] As shoes for your feet, put on the readiness
 to proclaim the Good News of peace.
 [16] Above all, take up the shield of faith.
 With it you can put out all the flaming arrows of the evil one.
@@ -94,13 +95,10 @@ and pray for all the saints.
 that the right words may be given to me
 when I open my mouth,
 so that I boldly make known the mystery of the Good News.
-[20] For it I am an ambassador in chains.
+[20] For this Good News I am an ambassador in chains.
 Pray
 that I may speak boldly about it,
 as I ought to speak.
-
-*armor* = protective clothing for soldiers
-*breastplate* = a piece of armor that protects the chest
 
 > **What does this mean?**
 > Verse 12: “Not against flesh and blood”: Christians do not fight against people. They fight against evil, against lies, hatred and injustice.
@@ -116,7 +114,7 @@ as I ought to speak.
 [21] So that you also may know
 how I am and what I am doing,
 Tychicus will tell you everything.
-He is a beloved brother
+He is a dear brother
 and a faithful servant in the Lord.
 [22] I have sent him to you for this very purpose,
 so that you may know

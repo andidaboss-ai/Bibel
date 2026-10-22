@@ -1,5 +1,5 @@
 # Jude – Chapter 1
-### Contend for the faith
+### Fight for the faith
 
 ---
 
@@ -15,7 +15,7 @@ The letter of Jude has only 1 chapter.
 ---
 
 > **Important note first**
-> This letter uses very harsh words against false teachers. That is how people wrote about disputes at that time. The harsh words are no permission to insult people today who believe differently. Judgment on people belongs to God alone.
+> This letter uses very harsh words against false teachers. That is how people wrote about disputes at that time. The harsh words do not give permission to insult people today who believe differently. Judgment on people belongs to God alone.
 
 ---
 
@@ -35,15 +35,15 @@ be given to you in abundance.
 
 ---
 
-## Contend for the faith (Verses 3–4)
+## Fight for the faith (Verses 3–4)
 
-[3] Beloved,
+[3] Dear friends,
 I was very eager to write to you
 about our common salvation.
 But now I must write to you
 and urge you:
-Contend for the faith
-which was once for all delivered to the saints.
+Fight hard for the faith
+that was given once for all to God’s holy people.
 [4] For some people have secretly crept in.
 Long ago it was written about them
 that they would be condemned.
@@ -55,7 +55,7 @@ God, and Lord,
 Jesus Christ.
 
 > **What does this mean?**
-> Verse 3: “Contend” here doesn’t mean using violence. It means: standing up for the faith with all your strength and remaining with the truth.
+> Verse 3: “Fight hard” here doesn’t mean using violence. It means: standing up for the faith with all your strength and remaining with the truth.
 > Verse 4: The false teachers probably said: God forgives anyway, so everything is allowed. The letter says: That is a misuse of grace.
 > At the end of verse 4 it says: “our only Master, God, and Lord, Jesus Christ.” Some manuscripts don’t have the word “God” there.
 
@@ -104,10 +104,10 @@ He only said,
 “May the Lord rebuke you!”
 [10] But these people speak evil of whatever
 they don’t know.
-And what they understand by nature,
+And the things they understand by instinct,
 like animals without reason,
-in these things they are destroyed.
-[11] Woe to them!
+are the very things that destroy them.
+[11] How terrible it will be for them!
 For they have gone in the way of Cain.
 For money they have run into the error of Balaam.
 And they have perished in Korah’s rebellion.
@@ -123,8 +123,7 @@ twice dead
 and pulled up by the roots.
 [13] They are like wild waves of the sea,
 foaming out their own shame.
-They are like wandering stars
-that roam without a goal.
+They are like wandering stars.
 The blackest darkness
 is kept for them forever.
 
@@ -143,7 +142,7 @@ the seventh from Adam,
 also prophesied about these people.
 He said,
 “Look,
-the Lord came with ten thousands of his holy ones,
+the Lord came with tens of thousands of his holy ones,
 [15] to execute judgment on all.
 He will convict all the ungodly
 of all their ungodly works
@@ -166,7 +165,7 @@ to gain advantage.
 ## Keep yourselves in God’s love (Verses 17–23)
 
 [17] But you,
-beloved,
+dear friends,
 remember the words
 which were spoken before by the apostles
 of our Lord Jesus Christ.
@@ -178,7 +177,7 @@ who cause divisions.
 They live only by their natural instincts
 and don’t have the Spirit.
 [20] But you,
-beloved,
+dear friends,
 keep building yourselves up
 on your most holy faith
 and pray in the Holy Spirit.
@@ -202,13 +201,12 @@ stained by the body.
 
 ## Praise to God (Verses 24–25)
 
-[24] God is able to keep you
+[24] God is able to keep them
 from stumbling.
 He is able to present you without fault
 before his glory,
 with great joy.
-[25] To him,
-the only God,
+[25] To God,
 our Savior,
 who alone is wise,
 belong glory and majesty,
@@ -226,7 +224,7 @@ Amen.
 ## Looking back: What have we read in the letter of Jude?
 
 > **What does this mean?**
-> **Contend for the faith:** Remain with the message that you received (verse 3).
+> **Fight for the faith:** Remain with the message that you received (verse 3).
 > **Grace is no excuse:** Whoever uses God’s grace as a permission for everything misuses it (verse 4).
 > **Examples from the Hebrew Bible:** God sees evil and judges it (verses 5–16).
 > **Keep yourselves in God’s love:** Pray, grow in faith and have compassion on others (verses 20–23).

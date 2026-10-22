@@ -55,7 +55,7 @@ Then Paul answered,
 that you have been a judge of this nation for many years.
 So I gladly make my defense.
 [10] You can check:
-It is not more than twelve days
+It is not more than 12 days
 since I went up to Jerusalem
 to worship.
 [11] They didn’t find me in the temple

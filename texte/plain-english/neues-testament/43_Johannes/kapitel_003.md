@@ -94,7 +94,7 @@ You told people about him.
 Look, he is baptizing, and everyone is going to him.”
 [27] John answered,
 “A person can receive only what is given to him from heaven.
-[28] You yourselves heard me say, ‘I am not the Christ.’
+[28] You yourselves are witnesses that I said, ‘I am not the Christ.’
 I said, ‘I have been sent ahead of him.’
 [29] The bride belongs to the bridegroom.
 But the friend of the bridegroom stands there and listens for him.

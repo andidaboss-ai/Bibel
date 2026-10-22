@@ -241,7 +241,7 @@ But I do know him, and I hold on to his word.
 [56] Your father Abraham was full of joy at the thought of seeing my day.
 He saw it and was glad.”
 [57] So the Jews said to him,
-“You are not even fifty years old!
+“You are not even 50 years old!
 And you have seen Abraham?”
 [58] Jesus said to them,
 “I tell you the truth:

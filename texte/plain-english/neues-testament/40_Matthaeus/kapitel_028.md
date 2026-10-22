@@ -93,7 +93,7 @@ and is still told today.
 
 ## The great commission (Verses 16–20)
 
-[16] But the eleven disciples went to Galilee,
+[16] But the 11 disciples went to Galilee,
 to the mountain
 where Jesus had told them to go.
 [17] When they saw him,
@@ -118,7 +118,7 @@ Amen.
 
 > **What does this mean?**
 > Commission: an important task that someone is given.
-> There are only eleven disciples now, because Judas is dead.
+> There are only 11 disciples now, because Judas is dead.
 > Verse 17: “But some doubted”: Even when the disciples see the risen Jesus, some doubt. Jesus sends them out anyway. Doubts are part of faith. Even someone who doubts belongs.
 > Verse 18: Jesus has received all authority from God. This reminds us of Daniel 7:14.
 > Verse 19: At the beginning the disciples were sent only to Israel (10:5–6). Now they are to go to all nations. The good news is for all people.

@@ -60,17 +60,17 @@ with the tender love of Christ Jesus.
 [9] And so I pray
 that your love may grow richer and richer
 in knowledge
-and in all discernment,
+and in all discernment.
+Discernment means: the ability to judge well what is right.
 [10] so that you can test
 what is truly excellent.
 So may you be sincere
-and without offense
+and without blame
 until the day of Christ,
 [11] filled with the fruit of righteousness
 that comes through Jesus Christ,
 to the glory and praise of God.
-
-*discernment* = the ability to judge well what is right
+Righteousness means: living right before God.
 
 > **What does this mean?**
 > Verse 4: Already here we find the word “joy.” It runs through the whole letter.
@@ -127,24 +127,24 @@ This will turn out for my salvation,
 through your prayers
 and the help of the Spirit of Jesus Christ.
 [20] This is my eager expectation and hope:
-I will in no way be put to shame.
+I will in no way be disappointed.
 But with all boldness,
 as always,
 so now also,
-Christ will be magnified in my body,
+Christ will be honored in my body,
 whether by my life
 or by my death.
 [21] For to me to live is Christ,
 and to die is gain.
 [22] But if I go on living in this body,
 my work will bear fruit.
-I don’t know
+Yet I don’t know
 what I should choose.
 [23] I am torn between the two.
 I have the desire
 to depart and be with Christ.
 That would be far better.
-[24] But it is more needful for your sake
+[24] But it is more necessary for your sake
 that I remain in this body.
 [25] And because I am convinced of this,
 I know:
@@ -162,7 +162,7 @@ when I am with you again.
 > Verse 19: “Salvation” can mean here: being set free from prison. It can also mean: being saved by God, no matter how the trial ends.
 > Verse 21: A famous sentence. Paul means: My whole life belongs to Christ. And if I die, I lose nothing, because then I am with Christ.
 > Verses 22–24: Paul is in prison and has to expect to be executed. He says honestly: To be with Christ would be good. But he chooses life, because others need him.
-> Very important: These verses are no encouragement to end your own life. Paul chooses life (verses 24–25). If you long for death because life is too hard, you are not alone. Please talk to someone about it. Help is available around the clock. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people in the UK can call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Very important: These verses are no encouragement to end your own life. Paul chooses life (verses 24–25). If you long for death because life is too hard, you are not alone. Please talk to someone about it. Help is available around the clock. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

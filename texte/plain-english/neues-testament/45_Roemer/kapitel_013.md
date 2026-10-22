@@ -27,10 +27,10 @@ But if you do what is evil,
 be afraid.
 For it doesn’t bear the sword in vain.
 It is a servant of God,
-who punishes the one
-who does evil.
+who punishes in anger
+the one who does evil.
 [5] So you need to be subject,
-not only because of punishment,
+not only because of the anger,
 but also for conscience’ sake.
 [6] For this reason you also pay taxes.
 For the officials are servants of God,
@@ -49,7 +49,7 @@ to whom honor is owed.
 *authorities* = people who govern, such as rulers and officials
 *customs* = taxes on goods
 
-> **An important note**
+> **Important note**
 > These verses are among the most misused passages in the Bible. Rulers and also churches have often used them to demand that people obey every government, even an unjust one. During the time of National Socialism in Germany, many Christians behaved this way. That was a grave mistake.
 
 > **What does this mean?**
@@ -114,4 +114,5 @@ to satisfy its lusts.
 > Verse 12: “The armor of light” is a picture. It means good deeds, truth and love, not real weapons.
 > Verse 14: “Put on the Lord Jesus Christ” is also a picture: to live so closely connected with Christ that you become like him, as you put on new clothes.
 > Verses 13–14: In the year 386 these verses moved the church father Augustine so much that he changed his life.
-> For today: If you have problems with alcohol, you can get help from addiction counseling services and support groups such as Alcoholics Anonymous. In a crisis: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> For today: If you have problems with alcohol, you can get help from addiction counseling services and support groups such as Alcoholics Anonymous. US: SAMHSA 1-800-662-4357. In a crisis: In the US, call or text 988.
+ In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

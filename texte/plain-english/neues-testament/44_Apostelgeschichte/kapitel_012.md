@@ -100,8 +100,8 @@ After that Herod went down from Judea to Caesarea and stayed there.
 They came to him together.
 First they made Blastus their friend.
 Blastus was the king’s personal helper.
-Then they asked for peace.
-Their country got its food from the king’s country.
+Then they asked for peace,
+because their country got its food from the king’s country.
 [21] On a set day, Herod put on his royal clothes.
 He sat on his throne and gave a speech to them.
 [22] The people shouted, “This is the voice of a god, not of a man!”
@@ -116,5 +116,5 @@ They took John with them, who was also called Mark.
 > Verses 22–23: Herod lets himself be celebrated like a god. He doesn’t object. This is very different from Peter, who said: “I myself am also a man” (10:26).
 > Verse 23: The Jewish historian Josephus also reports that in AD 44, after a celebration, Herod Agrippa suddenly became very ill and died.
 > Verse 24: The persecutor dies, but the word of God keeps on growing.
-> Verse 25: Many old manuscripts have from Jerusalem instead of “to Jerusalem.” The WEB has “to Jerusalem.” Barnabas and Saul had brought the help to Jerusalem (11:30).
+> Verse 25: Many old manuscripts say that they returned from Jerusalem, not to Jerusalem. The WEB has “to Jerusalem.” Barnabas and Saul had brought the help to Jerusalem (11:30).
 > For today: No human being is God. Whoever has power should stay humble.

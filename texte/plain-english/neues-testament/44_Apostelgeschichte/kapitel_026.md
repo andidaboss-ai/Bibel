@@ -19,14 +19,14 @@ I lived as a Pharisee.
 The Pharisees are the strictest group in our religion.
 [6] And now I stand here on trial because of my hope.
 I hope for what God promised our ancestors.
-[7] Our twelve tribes hope to see this promise come true.
+[7] Our 12 tribes hope to see this promise come true.
 That is why they serve God with all their hearts, night and day.
 And because of this hope I am accused by the Jews, King Agrippa!
 [8] Why do you all think it is impossible to believe that God raises the dead?
 
 > **What does this mean?**
 > Verses 4–5: Paul stresses his Jewish background. He was a Pharisee, so he kept the law very carefully.
-> Verses 6–7: The hope for which Paul is accused is the hope of Israel: that God keeps his promise. “Our twelve tribes” means the whole people of Israel.
+> Verses 6–7: The hope for which Paul is accused is the hope of Israel: that God keeps his promise. “Our 12 tribes” means the whole people of Israel.
 > Verse 7: “I am accused by the Jews”: Paul means his accusers. In the same sentence he says: I share the hope of my people.
 > Verse 8: The resurrection of the dead is the heart of this hope.
 

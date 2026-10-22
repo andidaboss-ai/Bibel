@@ -27,7 +27,7 @@ whom he had chosen.
 [3] After he suffered,
 he showed himself alive to them
 by many proofs.
-He appeared to them over a period of forty days
+He appeared to them over a period of 40 days
 and spoke about God’s Kingdom.
 [4] While he was together with them,
 he commanded them,
@@ -53,7 +53,7 @@ and to the farthest parts of the earth.”
 
 > **What does this mean?**
 > Verse 1: “The first book” is the Gospel of Luke. There too Luke speaks to Theophilus (Luke 1:3). The name means friend of God.
-> Verse 3: Forty is a special number in the Bible: Israel was in the wilderness for 40 years, Jesus fasted for 40 days. That is why Christians celebrate Ascension Day 40 days after Easter.
+> Verse 3: The number 40 is special in the Bible: Israel was in the wilderness for 40 years, Jesus fasted for 40 days. That is why Christians celebrate Ascension Day 40 days after Easter.
 > Verse 5: John here is John the Baptizer.
 > Verse 6: The disciples are still hoping for a political kingdom for Israel. Jesus does not reject the question, but he says: God decides the time.
 > Verse 8 is like a table of contents for Acts: Jerusalem (chapters 1–7), Judea and Samaria (chapters 8–12), to the farthest parts of the earth (chapters 13–28).
@@ -103,7 +103,7 @@ and with his brothers.
 > Verse 9: In the Bible the cloud is a sign of God’s presence (for example Exodus 13:21). Jesus goes into God’s world. “Heaven” does not mean a place above the clouds, but being near God.
 > Verse 11: The two men in white are probably angels. They say: Don’t just stand around! Jesus will come back.
 > Verse 12: A Sabbath day’s journey was the distance a person was allowed to walk on the Sabbath. That was about half a mile (1 kilometer).
-> Verse 13: This is the list of the eleven apostles. A Zealot was someone who stood up very eagerly for God and the law. Some Zealots fought against the Romans.
+> Verse 13: This is the list of the 11 apostles. A Zealot was someone who stood up very eagerly for God and the law. Some Zealots fought against the Romans.
 > Verse 14: Women naturally belong to the first church. Mary, the mother of Jesus, is named here for the last time in the Bible. The brothers of Jesus are also there. The churches understand differently who exactly they were: brothers, half brothers or relatives.
 > For today: Praying together makes a community stronger.
 
@@ -113,7 +113,7 @@ and with his brothers.
 
 [15] In these days,
 Peter stood up in the middle of the disciples.
-About one hundred twenty people were together.
+About 120 people were together.
 He said,
 [16] “Brothers,
 this Scripture had to be fulfilled,
@@ -160,7 +160,7 @@ Judas turned away from it
 to go to his own place.”
 [26] They drew lots for them.
 The lot fell on Matthias.
-And he was counted with the eleven apostles.
+And he was counted with the 11 apostles.
 
 *desolate* = empty and ruined
 *draw lots* = decide something by chance, like throwing dice
@@ -173,4 +173,5 @@ And he was counted with the eleven apostles.
 > Important: If, like Judas, you feel heavy guilt and see no way out, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verses 21–22: An apostle had to be a witness of Jesus’ whole way and of his resurrection.
 > Verse 26: In Israel drawing lots was a way to ask for God’s will (for example Leviticus 16:8). They prayed first. After this, the New Testament never tells of drawing lots again.
-> The Twelve are complete again. The number twelve reminds us of the twelve tribes of Israel.
+> The Twelve are complete again. The number 12 reminds us of the 12 tribes of Israel.
+

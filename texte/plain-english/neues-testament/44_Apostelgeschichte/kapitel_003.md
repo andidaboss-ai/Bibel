@@ -15,7 +15,8 @@ There he begged for gifts from the people going into the temple.
 So he asked them for a gift.
 [4] Peter looked straight at him, and so did John.
 Peter said, “Look at us.”
-[5] The man looked at them.
+[5] The man paid attention to them.
+
 He expected to get something from them.
 [6] But Peter said, “I have no silver or gold.
 But what I have, I give you.

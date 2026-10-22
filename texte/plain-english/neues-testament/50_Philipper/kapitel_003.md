@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In this chapter Paul argues with other Christian teachers. They demanded that Christians from the nations be circumcised. Paul uses harsh words in doing so. These words are not directed against the Jewish people or the Jewish faith. Paul himself was a Jew and remained one all his life. These verses must never be used against Jews.
 
 ---
@@ -13,7 +13,7 @@
 [1] Finally,
 my brothers:
 Rejoice in the Lord!
-To write the same things to you again and again
+To write the same things to you
 is not tiresome for me.
 And for you it is safe.
 [2] Beware of the dogs.
@@ -44,8 +44,9 @@ from the tribe of Benjamin.
 I am a Hebrew of Hebrews.
 Concerning the law:
 I was a Pharisee.
+A Pharisee was a member of a Jewish group that took God’s law very seriously.
 [6] Concerning zeal:
-I persecuted the assembly.
+I persecuted the church.
 Concerning the righteousness in the law:
 I was found blameless.
 [7] But what was gain to me,
@@ -57,7 +58,9 @@ compared with the surpassing worth
 of knowing Christ Jesus,
 my Lord.
 For him I have lost all things.
-And I count them nothing but refuse,
+And I count them nothing but refuse.
+Refuse means: garbage, trash.
+I do this
 so that I may gain Christ
 [9] and be found in him.
 I don’t have a righteousness of my own
@@ -72,10 +75,7 @@ and the power of his resurrection.
 I want to share in his sufferings
 and become like him in his death,
 [11] so that by any means
-I may attain to the resurrection from the dead.
-
-*refuse* = garbage, trash
-*Pharisee* = member of a Jewish group that took God’s law very seriously
+I may reach the resurrection from the dead.
 
 > **What does this mean?**
 > Verses 5–6: Paul lists what he was proud of: his Jewish background, his faithfulness to the law, his zeal. All of this was good. He is not ashamed of it.
@@ -96,7 +96,7 @@ But I press on
 to take hold of it.
 For I too was taken hold of by Christ Jesus.
 [13] Brothers,
-I don’t imagine
+I don’t think
 that I have already taken hold of it.
 But one thing I do:
 I forget
@@ -113,7 +113,7 @@ think this way.
 And if you think otherwise about something,
 God will also reveal that to you.
 [16] But however far we have come:
-Let’s walk by the same rule.
+Let’s live by the same rule.
 Let’s be of the same mind.
 
 > **What does this mean?**
@@ -128,11 +128,11 @@ Let’s be of the same mind.
 ## Our home is in heaven (Verses 17–21)
 
 [17] Brothers,
-be imitators together of me.
-And note those
-who walk this way,
+together, follow my example.
+And pay attention to those
+who live this way,
 just as you have us for an example.
-[18] For many walk differently.
+[18] For many live differently.
 I have often told you about them,
 and now I tell you even weeping:
 They live as enemies of the cross of Christ.
@@ -150,7 +150,7 @@ He does this by the power
 with which he is able even to subject all things to himself.
 
 > **What does this mean?**
-> Verse 17: Paul can say “be imitators together of me” because he himself follows Christ (compare 1 Corinthians 11:1).
+> Verse 17: Paul can say “Together, follow my example” because he himself follows Christ (compare 1 Corinthians 11:1).
 > Verse 18: Paul weeps over these people. He doesn’t despise them; he is sad about them.
 > Verse 19: “Their god is the belly”: They live only for their own wishes and pleasures. Whom exactly Paul means is disputed among interpreters.
 > Verse 20: Philippi was a Roman colony. Many inhabitants were proud of their Roman citizenship. Paul says: Our most important citizenship is in heaven.

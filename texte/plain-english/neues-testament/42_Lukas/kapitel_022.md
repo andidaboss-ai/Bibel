@@ -12,7 +12,7 @@ were looking for a way to kill Jesus.
 But they were afraid of the people.
 [3] Then Satan entered into Judas,
 who was called Iscariot.
-Judas was one of the twelve.
+Judas was one of the Twelve.
 [4] He went to the chief priests
 and the captains of the temple guard.
 He talked with them
@@ -250,7 +250,7 @@ that you will not give in to temptation.”
 [47] Jesus was still speaking
 when a crowd came.
 The man called Judas,
-one of the twelve,
+one of the Twelve,
 was leading them.
 He came close to Jesus to kiss him.
 [48] But Jesus said to him,

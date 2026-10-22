@@ -96,7 +96,7 @@ What do you say about yourself?”
 “I am the voice of someone calling out in the wilderness,
 ‘Make the way straight for the Lord.’
 That is what Isaiah the prophet said.”
-[24] The messengers had been sent by the Pharisees.
+[24] The messengers were from the Pharisees.
 [25] They asked him,
 “If you are not the Christ, or Elijah, or the prophet,
 then why do you baptize?”
@@ -135,8 +135,8 @@ so that he would be shown to Israel.”
 “I saw the Spirit coming down from heaven like a dove.
 And the Spirit stayed on him.
 [33] I didn’t know who he was.
-But God sent me to baptize in water.
-And God said to me,
+But the one who sent me to baptize in water
+said to me,
 ‘You will see the Spirit come down on someone and stay on him.
 He is the one who baptizes in the Holy Spirit.’
 [34] I have seen it.

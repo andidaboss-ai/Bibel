@@ -112,7 +112,7 @@ It was night.
 > At festive meals people lay on cushions. So the disciple could lean his head against Jesus.
 > Verse 26: Handing someone a piece of bread was a sign of friendship and honor. Jesus offers Judas his friendship to the very end.
 > Verse 30: “It was night”: Night is a picture of the darkness into which Judas goes out.
-> Important: In this text Judas stands for every person who betrays Jesus. He does not stand for “the Jews.” All twelve disciples were Jews. Misusing the name Judas against Jews is wrong.
+> Important: In this text Judas stands for every person who betrays Jesus. He does not stand for “the Jews.” All 12 disciples were Jews. Misusing the name Judas against Jews is wrong.
 
 ---
 

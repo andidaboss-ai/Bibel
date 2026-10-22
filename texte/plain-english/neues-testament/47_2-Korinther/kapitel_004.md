@@ -85,7 +85,7 @@ and cause even more thanks to the glory of God.
 > Verse 7: “Clay jars” were simple, cheap pots that break easily. Paul says: We human beings are weak and fragile. But in us is a precious treasure: the Good News of Jesus.
 > Verses 8–9: Paul describes honestly how hard his life is. But each time he says: “yet not.” God doesn’t let him fall.
 > Verse 13 quotes Psalm 116:10 (in the Greek Bible 115:1).
-> For today: No one has to be strong to be used by God. Precisely in our weakness God’s power can be seen.
+> For today: No one has to be strong to be used by God. Especially in our weakness God’s power can be seen.
 
 ---
 

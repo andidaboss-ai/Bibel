@@ -58,7 +58,7 @@ Through him we call out, “Abba! Father!”
 [16] The Spirit himself tells our spirit that we are children of God.
 [17] And if we are children, then we will also inherit.
 We will inherit from God, and we will inherit together with Christ.
-But we must suffer with him, so that we will also share in his glory.
+This is true if we suffer with him, so that we will also share in his glory.
 
 *adoption* = taking someone as your own child
 
@@ -75,7 +75,7 @@ But we must suffer with him, so that we will also share in his glory.
 
 [18] I am sure of this:
 What we suffer now is nothing compared with the glory that will be shown to us.
-[19] The whole creation is waiting and longing for the children of God to be shown.
+[19] The creation is waiting and longing for the children of God to be shown.
 [20] The creation was made subject to emptiness.
 It was not its own choice.
 It happened because of the one who made it subject.
@@ -96,7 +96,7 @@ Who hopes for something he already sees?
 [25] But we hope for what we don’t see.
 So we wait for it patiently.
 [26] In the same way, the Spirit helps us in our weakness.
-We don’t know what we should pray for.
+We don’t know how we should pray.
 But the Spirit himself prays for us.
 He prays with groans that words cannot express.
 [27] God searches our hearts.
@@ -112,7 +112,6 @@ Those he called, he also made righteous.
 Those he made righteous, he also gave glory.
 
 *first fruits* = the first part of a harvest; a first gift that promises more to come
-*predestined* = chosen beforehand
 
 > **What does this mean?**
 > Verses 19–22: Not only people, but the whole creation, animals, plants and the earth, are waiting for redemption. Many Christians see this as a task to care for creation.
@@ -138,7 +137,8 @@ More than that, he was raised from the dead.
 He is at the right hand of God.
 And he speaks up for us.
 [35] Who can separate us from the love of Christ?
-Can trouble or fear?
+Can trouble or distress?
+
 Can persecution or hunger?
 Can having no clothes, or danger, or the sword?
 [36] As it is written:

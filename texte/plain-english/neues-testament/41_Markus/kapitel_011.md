@@ -47,7 +47,7 @@ Hosanna in the highest!”
 [11] Jesus went into Jerusalem and into the temple.
 He looked around at everything.
 It was already evening.
-So he went out to Bethany with the twelve disciples.
+So he went out to Bethany with the 12 disciples.
 
 > **What does this mean?**
 > Bethsphage and Bethany were villages on the Mount of Olives, east of Jerusalem.

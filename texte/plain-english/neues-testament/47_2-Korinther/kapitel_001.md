@@ -8,7 +8,7 @@
 Paul writes once more to the church in Corinth. After the first letter there had been new difficulties there. Some people in the church were against Paul. They doubted whether he was really an apostle.
 Paul probably visited the church in between. This visit was painful. Afterwards he wrote a letter *with many tears* (2:4). Meanwhile he has received good news: The church has been reconciled again (chapter 7).
 The letter was probably written around AD 55 or 56 in Macedonia. Some scholars think that several letters of Paul were put together here.
-In this letter Paul shares many personal things: about fear and suffering, about comfort and hope. He shows: God’s power shows itself precisely in human weakness.
+In this letter Paul shares many personal things: about fear and suffering, about comfort and hope. He shows: God’s power shows itself especially in human weakness.
 The second letter to the Corinthians has 13 chapters.
 
 ---
@@ -18,7 +18,7 @@ The second letter to the Corinthians has 13 chapters.
 [1] Paul,
 an apostle of Christ Jesus through the will of God,
 and Timothy our brother,
-write to the assembly of God which is at Corinth,
+write to the church of God which is at Corinth,
 with all the saints in the whole of Achaia.
 [2] Grace to you and peace
 from God our Father
@@ -103,7 +103,7 @@ that we are your reason to boast,
 as you also are ours,
 in the day of our Lord Jesus.
 [15] In this confidence I wanted to come to you first,
-so that you might have a double joy.
+so that you might have a second blessing.
 [16] I wanted to pass through your city into Macedonia
 and come back to you from Macedonia.
 Then you would send me on my journey to Judea.
@@ -123,7 +123,7 @@ But in him is “Yes.”
 [20] For however many promises of God there are,
 in him is the “Yes.”
 That is why through him we also say the “Amen,”
-to the glory of God.
+to the glory of God through us.
 [21] It is God
 who makes us firm in Christ together with you.
 And he has anointed us.

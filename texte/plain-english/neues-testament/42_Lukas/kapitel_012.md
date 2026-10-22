@@ -232,7 +232,7 @@ even more will be asked of him.”
 > Verse 37: A big surprise: The lord himself serves his servants! That is what Jesus did at the Last Supper (Luke 22:27).
 > Verse 38: The night was divided into watches. The second and third watches were the late hours of the night.
 > Verse 40: Christians believe that Jesus will come again. No one knows when.
-> The manager (in older Bibles: steward) is someone who manages a household for its owner.
+> The manager (in the WEB: steward) is someone who manages a household for its owner.
 > Verses 42–48: This applies especially to everyone who has responsibility, including in the church. They are to take care of others, not rule over them.
 > Important: The parables use pictures from the world of that time, in which slaves were beaten. That was cruel injustice. The pictures show how serious God’s judgment is. They never permit violence against people. The beatings here mean blows with a whip. Whoever experiences violence can find help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247.
 > Verses 47–48: God is just. Whoever knows more bears more responsibility.

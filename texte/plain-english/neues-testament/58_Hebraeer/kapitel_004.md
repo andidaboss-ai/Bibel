@@ -5,9 +5,9 @@
 
 ## A rest remains for God’s people (Verses 1–11)
 
-[1] So let’s be careful
-that none of you falls short,
-while the promise still stands
+[1] So let’s be afraid
+that any of you might seem to fall short
+of the promise
 to enter into God’s rest.
 [2] For the Good News was announced to us too,
 just as to them.
@@ -47,7 +47,7 @@ has also rested from his own works,
 as God did from his.
 [11] So let’s be eager
 to enter into that rest,
-so that no one falls by the same example of disobedience.
+so that no one falls by following the same example of disobedience.
 
 > **What does this mean?**
 > Verse 4 takes up Genesis 2:2: “And on the seventh day he rested from all the work he had done.” God rested after creation. That is why the Sabbath is a day of rest.
@@ -82,7 +82,7 @@ to whom we must give account.
 who has passed through the heavens:
 Jesus,
 the Son of God.
-That is why we should hold on to our confession.
+So let’s hold tightly to what we confess.
 [15] For we don’t have a high priest
 who can’t feel with us in our weaknesses.
 But he was tempted in all things just like we are,

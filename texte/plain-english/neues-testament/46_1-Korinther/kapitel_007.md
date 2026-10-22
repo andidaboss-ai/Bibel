@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In this chapter Paul answers questions that the church in Corinth asked him in a letter. We don’t know these questions exactly. Paul writes at a time when he believes that Jesus will come again very soon (verses 26 and 29). This shapes his advice.
 > Paul himself makes a difference: Some things are a command of the Lord (verse 10), some things are his own advice (verses 6, 12, 25 and 40).
 
