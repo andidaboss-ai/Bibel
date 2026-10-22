@@ -17,7 +17,7 @@ As surely as I live,” says the Lord GOD,
 “I will not let you ask me anything.”’
 [4] “Will you judge them, son of man?
 Will you judge them?
-Make them see the disgusting things their fathers did.
+Make them see the disgusting things their ancestors did.
 
 > **What does this mean?**
 > This is in the year 591 BC, about five years before the destruction of Jerusalem.
@@ -106,7 +106,7 @@ I did not put an end to them in the wilderness.
 ## In the wilderness: the second generation (Verses 18–26)
 
 [18] “‘“I said to their children in the wilderness,
-‘Do not live by the rules of your fathers.
+‘Do not live by the rules of your ancestors.
 Do not follow their laws,
 and do not make yourselves unclean with their idols.
 [19] I am the LORD your God.
@@ -132,7 +132,7 @@ and spread them through the countries.
 [24] I did this because they had not obeyed my laws.
 They had rejected my rules
 and dishonored my Sabbaths,
-and their eyes longed for their fathers’ idols.
+and their eyes longed for their ancestors’ idols.
 [25] I also gave them rules that were not good,
 and laws by which they could not live.
 [26] I let them make themselves unclean through their own gifts.
@@ -152,7 +152,7 @@ so that they would know that I am the LORD.”’
 
 [27] “So, son of man, speak to the people of Israel and tell them,
 ‘This is what the Lord GOD says:
-“Your fathers insulted me in this way too:
+“Your ancestors insulted me in this way too:
 they were unfaithful to me.
 [28] I brought them into the land
 that I had promised to give them.
@@ -175,7 +175,7 @@ That is why it is called Bamah to this day.”’
 
 [30] “So tell the people of Israel,
 ‘This is what the Lord GOD says:
-“Will you make yourselves unclean the way your fathers did?
+“Will you make yourselves unclean the way your ancestors did?
 Will you be unfaithful to me and chase after their disgusting idols?
 [31] When you bring your gifts,
 when you make your sons pass through the fire,
@@ -190,7 +190,7 @@ like the peoples of other countries,
 and serve wood and stone.’
 
 > **What does this mean?**
-> Now God comes to the present: The elders are doing the same as their fathers.
+> Now God comes to the present: The elders are doing the same as their ancestors.
 > Verse 32: Here it comes out what they really think: “We want to be like the nations, like the peoples of other countries, and serve wood and stone.” In exile, the temptation was great simply to fit in, to worship the gods of the Babylonians, and to give up their own identity.
 > But God says: That will not happen. God does not let go of his people.
 
@@ -210,7 +210,7 @@ and with anger poured out.
 [35] I will bring you into the wilderness of the peoples.
 There I will judge you
 face to face.
-[36] I judged your fathers in the wilderness of the land of Egypt.
+[36] I judged your ancestors in the wilderness of the land of Egypt.
 In the same way I will judge you,”
 says the Lord GOD.
 [37] “I will make you pass under the shepherd’s staff,
@@ -219,7 +219,7 @@ and I will bring you into the bond of the covenant.
 and those who disobey me.
 I will bring them out of the land where they are living as foreigners,
 but they will not come into the land of Israel.
-Then you will know that I am the LORD.
+Then you will know that I am the LORD.”
 
 > **What does this mean?**
 > God announces a new exodus, like the one from Egypt long ago, “by a mighty hand and by an outstretched arm” (compare Deuteronomy 5:15). This time it is out of Babylon and out of all the countries.
@@ -242,7 +242,7 @@ says the Lord GOD,
 will serve me in the land.
 There I will accept them.
 There I will ask for your offerings
-and the best of your gifts,
+and the first fruits of your offerings,
 with all your holy things.
 [41] I will accept you like a sweet-smelling offering
 when I bring you out from the peoples
@@ -251,7 +251,7 @@ I will show through you that I am holy
 while the nations watch.
 [42] You will know that I am the LORD
 when I bring you into the land of Israel,
-into the country I promised to give to your fathers.
+into the country I promised to give to your ancestors.
 [43] There you will remember your ways
 and all the things you did to make yourselves unclean.
 Then you will be disgusted with yourselves

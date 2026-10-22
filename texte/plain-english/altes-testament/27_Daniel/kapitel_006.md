@@ -6,7 +6,7 @@
 ## A plot against Daniel (Verses 1–9)
 
 [1] Darius decided
-to put one hundred twenty local governors over the kingdom.
+to put 120 local governors over the kingdom.
 They were to be all over the kingdom.
 [2] Over them he put three officials,
 and Daniel was one of them.
@@ -31,7 +31,7 @@ the deputies and the local governors,
 the advisers and the governors,
 have talked together.
 They want you to make a royal law and a strict order:
-For thirty days, whoever asks anything of any god or any human being,
+For 30 days, whoever asks anything of any god or any human being,
 except of you, O king,
 will be thrown into the lions’ den.
 [8] Now, O king, make this order
@@ -54,7 +54,7 @@ which cannot be changed.”
 
 [10] Daniel learned that the document had been signed.
 Then he went into his house.
-In his upstairs room, the windows were open toward Jerusalem.
+In his room, the windows were open toward Jerusalem.
 Three times a day he knelt down on his knees.
 He prayed and gave thanks to his God,
 just as he had done before.
@@ -63,7 +63,7 @@ They found Daniel praying and asking his God for help.
 [12] Then they went to the king
 and spoke to him about the king’s order:
 “Didn’t you sign an order
-that for thirty days, anyone who asks anything of any god or any human being,
+that for 30 days, anyone who asks anything of any god or any human being,
 except of you, O king,
 will be thrown into the lions’ den?”
 The king answered,

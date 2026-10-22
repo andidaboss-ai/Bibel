@@ -67,7 +67,7 @@ says the LORD.
 [11] That is why the Lord GOD says:
 “An enemy will overrun the land.
 He will tear down your strong places,
-and your palaces will be robbed.”
+and your fortresses will be robbed.”
 [12] The LORD says:
 “A shepherd may save two legs or a piece of an ear
 out of the mouth of the lion.
