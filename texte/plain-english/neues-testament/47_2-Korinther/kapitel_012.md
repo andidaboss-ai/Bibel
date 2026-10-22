@@ -9,7 +9,7 @@
 to boast.
 But I will come to visions and revelations of the Lord.
 [2] I know a man in Christ.
-Fourteen years ago he was caught up into the third heaven.
+He was caught up into the third heaven 14 years ago.
 Whether he was in the body,
 I don’t know.
 Or whether he was out of the body,
@@ -71,9 +71,9 @@ then I am strong.
 > **What does this mean?**
 > Verse 7: We don’t know what the “thorn in the flesh” was. Some think of an illness, for example of the eyes, or headaches. Others think of persecution or of his opponents.
 > Important: Illness or disability are not a punishment from God and not a sign of too little faith. Paul prayed three times for healing and was not healed. Even so, he was an apostle and loved by God.
-> Verse 9: This is one of the best-known words of the Bible. God doesn’t take away every hardship. But he says: My grace is enough. Precisely in weakness God’s power can work.
+> Verse 9: This is one of the best-known words of the Bible. God doesn’t take away every hardship. But he says: My grace is enough. Especially in weakness God’s power can work.
 > Verse 10: “When I am weak, then I am strong”: Paul doesn’t have to be strong. He trusts in the power of Christ.
-> Important: This text doesn’t mean that you should look for suffering or abuse or put up with it. If you experience violence, you may protect yourself and get help. Police: your local emergency number (911 in the US, 999 in the UK).
+> Important: This text doesn’t mean that you should look for suffering or abuse or put up with it. If you experience violence, you may protect yourself and get help. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -90,7 +90,7 @@ with signs,
 wonders
 and mighty works.
 [13] For in what way were you treated worse
-than the other assemblies?
+than the other churches?
 Only in this:
 that I myself was not a burden to you.
 Forgive me this wrong!

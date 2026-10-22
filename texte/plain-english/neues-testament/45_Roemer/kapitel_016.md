@@ -16,7 +16,7 @@ and of me too.
 > **What does this mean?**
 > Cenchreae was the port of the city of Corinth. Paul probably wrote this letter from there.
 > Phoebe probably carried the letter to Rome.
-> Verse 1: The WEB says “servant.” The Greek word is *diakonos*. It can simply mean *servant*, or it can name an office: *deacon*. Many Bibles and scholars today translate *deacon*.
+> Verse 1: The WEB, our English source text, says “servant.” The Greek word is *diakonos*. It can simply mean *servant*, or it can name an office: *deacon*. Many Bibles and scholars today translate *deacon*.
 > Verse 2: The word for “helper” can also mean *protector* or *patron*. Phoebe was probably a respected woman who supported Paul and others.
 
 ---
@@ -137,7 +137,8 @@ Amen.
 > **Everyone needs God’s grace:** Jews and people from the nations, all have sinned. No one can make themselves righteous (chapters 1 to 3).
 > **Made right through faith:** God makes people righteous, by grace, through faith in Jesus Christ. Abraham is the great example of faith (chapters 3 to 5).
 > **A new life:** Through baptism Christians belong to Christ. Sin is no longer to rule. The Holy Spirit makes people children of God. Nothing can separate us from God’s love (chapters 6 to 8).
-> **God remains faithful to Israel:** God has not rejected his people. His gifts and his calling are irrevocable. Christians are like branches grafted into the olive tree of Israel. They must not consider themselves better than Jews (chapters 9 to 11).
+> **God remains faithful to Israel:** God has not rejected his people. His gifts and his calling cannot be taken back.
+ Christians are like branches grafted into the olive tree of Israel. They must not consider themselves better than Jews (chapters 9 to 11).
 > **Living from love:** Christians are to accept one another, be considerate, overcome evil with good and live at peace with all people (chapters 12 to 15).
 > **A colorful church:** At the end Paul greets many women and men, among them Phoebe, Prisca and Junia (chapter 16).
 > **In history:** The letter to the Romans has strongly shaped the church, for example Augustine, Martin Luther and Karl Barth. In 1999 Catholic and Lutheran Christians declared together: At heart we understand justification by grace in the same way.

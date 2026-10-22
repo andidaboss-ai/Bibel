@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > The story of Ananias and Sapphira (verses 1–11) is hard to read. Two people die. The Bible doesn’t say that Peter killed them or cursed them. It says that God takes lying in the church seriously.
 > This story gives no one the right to threaten others with punishment or death, not even in a church. If you are being put under pressure in a religious group, you can find advice at counseling services for cults and spiritual abuse.
 
@@ -75,7 +75,8 @@ And all of them were healed.
 
 ## The apostles are set free (Verses 17–26)
 
-[17] But the high priest and all his friends took action.
+[17] But the high priest and all who were with him took action.
+
 They belonged to the party of the Sadducees.
 They were filled with jealousy.
 [18] They arrested the apostles and put them in the public prison.
@@ -134,7 +135,7 @@ He ordered that the apostles be taken outside for a little while.
 [35] Then he said to the council, “Men of Israel, be careful what you do to these men.
 [36] Some time ago Theudas rose up.
 He claimed to be somebody important.
-About four hundred men joined him.
+About 400 men joined him.
 He was killed.
 All his followers were scattered, and it came to nothing.
 [37] After him, Judas of Galilee rose up.

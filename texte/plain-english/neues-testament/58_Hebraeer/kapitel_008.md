@@ -51,7 +51,7 @@ says the Lord,
 with the house of Israel
 and with the house of Judah,
 [9] not like the covenant
-that I made with their fathers
+that I made with their ancestors
 on the day
 when I took them by the hand
 to lead them out of the land of Egypt.
@@ -76,9 +76,9 @@ And I will remember their sins and lawless deeds
 no more.”
 [13] When he says,
 “a new covenant,”
-he has declared the first one old.
-But what is becoming old and growing aged
-is near to disappearing.
+he has made the first one outdated.
+But what is becoming outdated and growing old
+is about to disappear.
 
 > **Important note**
 > In history this passage was often understood as if God had canceled the covenant with the Jewish people and put the church in Israel’s place. This teaching is called “replacement theology.” Today the major churches have clearly rejected it. God has not canceled his covenant with Israel (Romans 11:1–2, 29).

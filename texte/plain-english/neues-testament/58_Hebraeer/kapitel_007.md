@@ -58,7 +58,7 @@ when Melchizedek met him.
 > **What does this mean?**
 > Verses 1–2: The story is in Genesis 14:17–20. Melchizedek was king of Salem, probably the later Jerusalem. He brought Abraham bread and wine and blessed him.
 > Verse 3: The Bible tells nothing about Melchizedek’s parents, his birth or his death. The letter takes this as a picture: He is like a priest “forever,” similar to the Son of God.
-> Verse 5: The priests in Israel came from the tribe of Levi. They received a tenth of the harvest to live on.
+> Verse 5: The priests in Israel came from the tribe of Levi. They received a tenth of the harvest to live on. Such a tenth is called a tithe.
 > Verses 9–10: A thought game: Levi descended from Abraham. When Abraham gave Melchizedek a tenth, Levi was, so to speak, already “there.”
 
 ---
@@ -67,7 +67,7 @@ when Melchizedek met him.
 
 [11] Now if perfection had come
 through the priesthood of the Levites
-– for on that basis the people received the law –,
+(for on that basis the people received the law),
 why was it still necessary
 for another priest to come
 after the order of Melchizedek
@@ -92,7 +92,7 @@ but by the power of an endless life.
 after the order of Melchizedek.”
 [18] For an earlier commandment is set aside
 because of its weakness and uselessness
-[19] – for the law made nothing perfect –,
+[19] (for the law made nothing perfect),
 and a better hope is brought in.
 Through it we draw near to God.
 
@@ -118,7 +118,7 @@ after the order of Melchizedek.’”
 [23] And those became priests in great numbers,
 because death kept them
 from continuing in office.
-[24] But he has a priesthood that doesn’t pass away,
+[24] But he has a priesthood that never changes,
 because he lives forever.
 [25] That is why he is also able to save completely all
 who come to God through him.

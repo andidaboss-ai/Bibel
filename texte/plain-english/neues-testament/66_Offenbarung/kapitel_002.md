@@ -36,7 +36,6 @@ You hate what the Nicolaitans do.
 I hate it too.
 [7] Whoever has ears should listen to what the Spirit says to the churches.
 To the one who overcomes, I will give food from the tree of life.
-To overcome means: to win the victory and hold out to the end.
 The tree of life is in the Paradise of my God.’
 
 > **What does this mean?**
@@ -44,7 +43,8 @@ The tree of life is in the Paradise of my God.’
 > Verses 2–4: The church works hard and holds on to the right teaching. But it has lost love. Right faith without love is empty (compare 1 Corinthians 13).
 > Verse 5: The lampstand is the church (1:20). Without love, a church can lose its light.
 > Verse 6: We don’t know exactly who the Nicolaitans were. Perhaps a group that thought: Christians may take part in everything, even in feasts for idols.
-> Verse 7: The tree of life stood in the Garden of Eden (Genesis 2:9). At the end of the Bible it stands there again (Chapter 22). God gives the life that was lost at the beginning.
+> Verse 7: To overcome means: to win the victory and hold out to the end.
+> The tree of life stood in the Garden of Eden (Genesis 2:9). At the end of the Bible it stands there again (Chapter 22). God gives the life that was lost at the beginning.
 
 ---
 
@@ -60,11 +60,10 @@ But you are rich.
 And I know how some people speak evil against you.
 They say that they are Jews, but they are not.
 They are a synagogue of Satan.
-A synagogue is a place where people meet to pray and to hear God’s word.
 [10] Do not be afraid of what you are about to suffer.
 Look, the devil is going to throw some of you into prison
 to test you.
-You will suffer for ten days.
+You will suffer for 10 days.
 Be faithful, even if it means dying.
 Then I will give you the crown of life.
 [11] Whoever has ears should listen to what the Spirit says to the churches.
@@ -77,8 +76,9 @@ The one who overcomes will not be harmed by the second death.’
 
 > **What does this mean?**
 > Smyrna is today’s Izmir in Turkey.
+> Verse 9: A synagogue is a place where people meet to pray and to hear God’s word.
 > Verse 9: “Poor, but rich”: The Christians there had little money, but they were rich with God.
-> Verse 10: “Ten days”: a limited time. The suffering has an end. “The crown of life”: the victory wreath at sports contests. God gives eternal life.
+> Verse 10: “10 days”: a limited time. The suffering has an end. “The crown of life”: the victory wreath at sports contests. God gives eternal life.
 > Verse 11: “The second death” is a picture for being separated from God forever (compare 20:14). Whoever belongs to Jesus doesn’t need to be afraid of it.
 
 ---

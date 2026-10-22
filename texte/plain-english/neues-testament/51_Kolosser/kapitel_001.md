@@ -52,7 +52,7 @@ since the day
 you heard the grace of God
 and knew it in truth.
 [7] That is how you learned it from Epaphras,
-our beloved fellow servant.
+our dear fellow servant.
 He is a faithful servant of Christ for you.
 [8] He also told us about your love in the Spirit.
 
@@ -90,8 +90,6 @@ and brought us into the Kingdom of the Son he loves.
 [14] In him we have redemption:
 the forgiveness of sins.
 
-*redemption* = being set free, like a prisoner who is bought free
-
 > **What does this mean?**
 > Verses 9–10: Knowledge is not an end in itself. Whoever knows God’s will is to live by it.
 > Verse 11: Patience and endurance don’t come from your own strength. God gives the strength for them.
@@ -109,11 +107,12 @@ in the heavens and on the earth,
 visible things and invisible things:
 whether thrones or dominions
 or principalities or powers.
+Principalities means: rulers, powers.
 All things have been created through him and for him.
 [17] He is before all things.
 And in him all things hold together.
 [18] He is the head of the body,
-the assembly.
+the church.
 He is the beginning,
 the firstborn from the dead,
 so that in all things he might be first.
@@ -124,9 +123,7 @@ whether things on the earth
 or things in the heavens.
 He made peace
 through the blood of his cross.
-
-*principalities* = rulers, powers
-*reconcile* = to make peace again between people who were apart
+To reconcile means: to make peace again between people who were apart.
 
 > **What does this mean?**
 > Verses 15–20 are probably a song of the first Christians. It has two parts: Christ and creation (verses 15–17), and Christ and reconciliation (verses 18–20).
@@ -167,10 +164,10 @@ was made its servant.
 ## Paul serves the church (Verses 24–29)
 
 [24] Now I rejoice in my sufferings for you.
-What is still lacking of the afflictions of Christ,
+What is still lacking in the sufferings of Christ,
 I fill up in my own body
 for the sake of his body,
-the assembly.
+the church.
 [25] I was made its servant.
 God gave me this task for you:
 I am to proclaim the word of God fully,
@@ -187,11 +184,10 @@ and teach every person
 in all wisdom,
 so that we may present every person
 perfect in Christ Jesus.
+To admonish means: to warn and advise someone in a serious way.
 [29] For this I work hard and struggle,
 with his power
 that works mightily in me.
-
-*admonish* = to warn and advise someone in a serious way
 
 > **What does this mean?**
 > Verse 24 is hard to understand. It doesn’t mean that the suffering of Jesus on the cross was not enough. Interpreters usually understand it like this: Christ suffers along with his church. When Paul suffers for the church, he shares in this suffering.
