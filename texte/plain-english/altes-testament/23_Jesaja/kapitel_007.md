@@ -14,7 +14,7 @@ Then his heart trembled, and the heart of his people,
 as the trees of the forest tremble in the wind.
 [3] Then the LORD said to Isaiah,
 “Go out now to meet Ahaz,
-you and your son Shear-Jashub,
+you and your son Shearjashub,
 at the end of the water channel of the upper pool,
 on the road to the field where cloth is washed.
 [4] Tell him: ‘Be careful, and stay calm!
@@ -31,7 +31,7 @@ and set up a king in it, the son of Tabeel,”
 “It will not stand, and it will not happen.”
 [8] For the head of Syria is Damascus,
 and the head of Damascus is Rezin.
-Within sixty-five years, Ephraim will be broken to pieces,
+Within 65 years, Ephraim will be broken to pieces,
 so that it is no longer a people.
 [9] The head of Ephraim is Samaria,
 and the head of Samaria is the son of Remaliah.
@@ -39,7 +39,7 @@ If you will not believe, surely you will not be established.’”
 
 > **What does this mean?**
 > The situation: In the year 734 BC, two neighboring kings attack Jerusalem, the king of Syria and the king of the northern kingdom of Israel (also called “Ephraim”). They want to remove King Ahaz from power. Ahaz and his people tremble with fear.
-> Verse 3: Isaiah takes his son with him. His name “Shear-Jashub” means “A remnant will return.” The name itself is a message.
+> Verse 3: Isaiah takes his son with him. His name “Shearjashub” means “A remnant will return.” The name itself is a message.
 > Verse 4: “Stay calm! Don’t be afraid!” The two enemies are only “smoking stubs of torches”: They are still smoking, but their fire will soon be out.
 > Verse 9: “If you will not believe, surely you will not be established.” In Hebrew, this is a play on words: “believe” and “be established” come from the same word, from which “Amen” also comes. Whoever holds on to God has a firm footing.
 
@@ -67,7 +67,7 @@ will be abandoned.
 [17] The LORD will bring on you, on your people, and on your father’s house
 days such as have not come
 since the day that Ephraim broke away from Judah:
-the king of Assyria.”
+the king of Assyria.
 
 > **What does this mean?**
 > Verses 11–12: God offers Ahaz a sign. Ahaz refuses with a pious excuse. In reality, he has already decided to get help from the king of Assyria instead of from God (2 Kings 16:7).
@@ -82,7 +82,7 @@ the king of Assyria.”
 
 ## The land will be ruined (Verses 18–25)
 
-[18] On that day, the LORD will whistle for the fly
+[18] “On that day, the LORD will whistle for the fly
 that is at the farthest end of the rivers of Egypt,
 and for the bee that is in the land of Assyria.
 [19] They will come and all settle
@@ -99,18 +99,19 @@ that a man will keep alive a young cow and two sheep.
 he will eat butter,
 for everyone who is left in the land will eat butter and honey.
 [23] It will happen on that day
-that every place where there were a thousand vines,
-worth a thousand silver shekels,
+that every place where there were 1,000 vines,
+worth 1,000 silver shekels (about 25 pounds of silver),
 will turn into briers and thorns.
 [24] People will go there with arrows and bow,
 for the whole land will be full of briers and thorns.
 [25] And all the hills that were worked with the hoe,
 you will no longer go there for fear of briers and thorns,
 but they will be used for letting the cattle loose,
-and the sheep will trample on them.
+and the sheep will trample on them.”
 
 > **What does this mean?**
 > Verse 18: The armies of Egypt and Assyria will come like swarms of flies and bees.
 > Verse 20: A humiliating picture: The king of Assyria, whom Ahaz himself has “hired,” will shave Judah bald like a razor. Back then, prisoners of war were shaved to humiliate them.
+> Verse 23: A shekel is about 0.4 ounces of silver.
 > Verses 21–25: The fertile land becomes wilderness. Instead of vineyards, thorns grow. The few survivors keep only a few animals. Where there used to be fields, people only go hunting with bow and arrow.
 > The message to Ahaz: Whoever trusts in people instead of God brings disaster on himself in the end.

@@ -1,5 +1,5 @@
 # Jeremiah – Chapter 25
-### Seventy years and the cup of anger
+### 70 years and the cup of anger
 
 ---
 
@@ -11,7 +11,7 @@ in the fourth year of Jehoiakim, the son of Josiah, king of Judah.
 [2] Jeremiah the prophet spoke it to all the people of Judah,
 and to all the people of Jerusalem:
 [3] From the thirteenth year of Josiah, the son of Amon, king of Judah,
-until today, for these twenty-three years,
+until today, for these 23 years,
 the LORD’s word has come to me.
 I have spoken to you early and tirelessly,
 but you have not listened.
@@ -20,7 +20,7 @@ early and tirelessly,
 but you have not listened or paid attention.
 [5] They said, “Now, each of you, turn back from your evil way,
 and from the evil of your deeds.
-Then you can live in the land that the LORD has given to you and to your fathers,
+Then you can live in the land that the LORD has given to you and to your ancestors,
 from long ago and forever.
 [6] Don’t follow other gods to serve them or worship them,
 and don’t make me angry with the work of your hands.
@@ -36,7 +36,7 @@ and that only harms you.”
 
 ---
 
-## Seventy years (Verses 8–14)
+## 70 years (Verses 8–14)
 
 [8] That is why the LORD of Armies says:
 “Because you have not listened to my words,
@@ -55,8 +55,8 @@ the voice of the bridegroom and the voice of the bride,
 the sound of the millstones,
 and the light of the lamp.
 [11] This whole land will be a ruin and a horror,
-and these nations will serve the king of Babylon for seventy years.
-[12] “When the seventy years are over,
+and these nations will serve the king of Babylon for 70 years.
+[12] “When the 70 years are over,
 I will punish the king of Babylon and that nation for their guilt,” says the LORD.
 “I will make the land of the Chaldeans a waste forever.
 [13] I will bring on that land all the words which I have spoken against it,
@@ -69,7 +69,7 @@ and for the work of their hands.”
 > **What does this mean?**
 > Verse 9: Amazing: God calls Nebuchadnezzar, the enemy king, “my servant.” He is a tool in God’s hand without knowing it.
 > Verse 10: A very moving picture of a destroyed land: No more laughter, no more weddings, no more sound of the hand mills that ground flour every morning, no more light in the houses in the evening. Ordinary everyday life stops.
-> Verses 11–12: The “seventy years” are a round number for a human lifetime. From the first carrying away (605 BC) until the return home after the decree of Cyrus (538 BC), about 70 years passed. Later, Daniel (Daniel 9:2) and Chronicles (2 Chronicles 36:21) thought about this number.
+> Verses 11–12: The “70 years” are a round number for a human lifetime. From the first carrying away (605 BC) until the return home after the decree of Cyrus (538 BC), about 70 years passed. Later, Daniel (Daniel 9:2) and Chronicles (2 Chronicles 36:21) thought about this number.
 > Verses 12–14: Babylon too will be called to account. No power lasts forever.
 
 ---
@@ -100,7 +100,7 @@ Ashkelon, Gaza, Ekron, and what is left of Ashdod;
 all the kings of Sidon,
 and the kings of the islands across the sea;
 [23] Dedan, Tema, Buz,
-and all who cut the hair at the sides of their head;
+and all who cut off the corners of their beards;
 [24] and all the kings of Arabia,
 and all the kings of the mixed peoples who live in the wilderness;
 [25] and all the kings of Zimri,
@@ -133,7 +133,7 @@ says the LORD of Armies.”’
 ## The LORD roars like a lion (Verses 30–38)
 
 [30] “So prophesy all these words against them, and tell them,
-“‘The LORD will roar from on high,
+‘The LORD will roar from on high,
 and raise his voice from his holy home.
 He will roar loudly against his pasture.
 He will shout, like those who stamp on grapes,
@@ -141,7 +141,8 @@ against all the people who live on the earth.
 [31] A noise will reach the end of the earth,
 for the LORD has a case against the nations.
 He will go to court with all people.
-As for the wicked, he will hand them over to the sword,”’ says the LORD.”
+As for the wicked, he will hand them over to the sword,’ says the LORD.”
+
 [32] The LORD of Armies says,
 “Look, disaster will go out from nation to nation,
 and a great storm will be stirred up from the ends of the earth.”
@@ -164,7 +165,7 @@ for the LORD is destroying their pasture.
 because of the fierce anger of the LORD.
 [38] He has left his hiding place like a lion,
 for their land has become a horror
-because of the cruel sword,
+because of the fierce oppression,
 and because of his fierce anger.
 
 > **What does this mean?**

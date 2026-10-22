@@ -5,14 +5,14 @@
 
 ## Chaos among the leaders (Verses 1–12)
 
-[1] For look, the Lord, the LORD of Armies,
+[1] For the Lord, the LORD of Armies,
 is taking away from Jerusalem and from Judah
 supply and support,
 the whole supply of bread and the whole supply of water,
 [2] the hero and the soldier,
 the judge and the prophet,
 the fortune-teller and the elder,
-[3] the captain of fifty and the respected man,
+[3] the captain of 50 and the respected man,
 the adviser, the skilled craftsman,
 and the clever magician.
 [4] “I will give them boys as their princes,
@@ -20,7 +20,7 @@ and children will rule over them.
 [5] The people will be oppressed, one by another,
 and each by his neighbor.
 The young will rise up against the old,
-and the low against the respected.
+and the wicked against the respected.
 [6] Yes, a man will grab his brother in his father’s house and say,
 ‘You still have a coat, you be our leader,
 and let this heap of ruins be in your hands!’
@@ -104,8 +104,8 @@ and your heroes in war.
 She will sit on the ground, ruined.
 
 > **What does this mean?**
-> Isaiah criticizes the rich women of Jerusalem. They strut through the city with expensive jewelry and clothes while the poor suffer (Verse 15). Their luxury is paid for with the misery of the poor.
+> Isaiah criticizes the rich women of Jerusalem. They strut through the city with expensive jewelry and clothes while the poor suffer (verse 15). Their luxury is paid for with the misery of the poor.
 > Verses 18–23: A long list of jewelry and clothes, almost like a catalog. This shows how much wealth there was.
 > Verse 24: When war comes, they lose everything. Instead of perfume, a stench; instead of jewelry, a rope. “A brand”: Back then, prisoners of war were branded.
-> Important: The criticism is not aimed at women or at beauty, but at pride and luxury at the expense of the poor. Isaiah criticizes the men in the same way (Verses 14–15).
+> Important: The criticism is not aimed at women or at beauty, but at pride and luxury at the expense of the poor. Isaiah criticizes the men in the same way (verses 14–15).
 > Verses 25–26: War will strike everyone. In the end, Jerusalem sits mourning on the ground like a widow.

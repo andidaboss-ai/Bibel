@@ -56,7 +56,7 @@ He will come when he has the chance.
 > Verse 8: Paul writes this letter in Ephesus, a large city in what is now Turkey. At that time “Pentecost” was the Jewish Feast of Weeks, 50 days after Passover.
 > Verse 9: “A great and effective door has opened to me.” That means: There is a good opportunity to proclaim the Good News.
 > Verses 10–11: Timothy was still young. Paul asks the church to welcome him kindly.
-> Verse 12: Apollos was very popular in Corinth (chapter 1:12). Paul and Apollos were not opponents, but co-workers.
+> Verse 12: Apollos was very popular in Corinth (1 Corinthians 1:12). Paul and Apollos were not opponents, but co-workers.
 
 ---
 

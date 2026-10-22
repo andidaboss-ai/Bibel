@@ -89,7 +89,6 @@ His cities are burned down.
 No one lives in them.
 [16] The people of Memphis and Tahpanhes
 have also broken the crown of your head.
-That means: They have hurt you badly.
 [17] “You brought this on yourself, didn’t you?
 You left the LORD your God,
 while he was leading you on the way.
@@ -104,7 +103,7 @@ It is evil and bitter that you have left the LORD your God.
 It is evil and bitter that you do not fear me,” says the Lord, the LORD of Armies.
 
 > **What does this mean?**
-> Verses 14–16: Israel was free, but now it is being robbed by enemies, as if by lions. Memphis and Tahpanhes are cities in Egypt.
+> Verses 14–16: Israel was free, but now it is being robbed by enemies, as if by lions. Memphis and Tahpanhes are cities in Egypt. Verse 16: “Broken the crown of your head” means: They have hurt you badly.
 > Verse 18: The Shihor is a branch of the Nile in Egypt, “the River” is the Euphrates in Assyria. Judah looked for help sometimes from Egypt, sometimes from Assyria, instead of from God. That is like drinking water from foreign rivers instead of from your own spring.
 > Verse 19: The consequences of your own mistakes are themselves the punishment. Whoever leaves God realizes at some point how bitter that is.
 

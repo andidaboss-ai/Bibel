@@ -119,7 +119,7 @@ For the music director, on my stringed instruments.
 
 ---
 
-## Looking back: What did we read in the book of Habakkuk?
+## Looking back: What have we read in the book of Habakkuk?
 
 > **What does this mean?**
 > **A prophet asks God questions:** “LORD, how long will I cry for help, and you will not listen?” (1:2). Habakkuk brings his doubts and his complaint honestly to God.

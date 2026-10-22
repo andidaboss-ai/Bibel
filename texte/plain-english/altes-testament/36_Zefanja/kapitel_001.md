@@ -79,7 +79,7 @@ who fill their master’s house with violence and lies.
 and wailing from the Second Quarter,
 and a great crashing from the hills.
 [11] Wail, you who live in Maktesh!
-For all the traders are destroyed.
+For all the people of Canaan are destroyed.
 All who were loaded with silver are cut off.
 [12] At that time
 I will search Jerusalem with lamps.
@@ -95,7 +95,7 @@ They will plant vineyards but not drink their wine.”
 > Verse 7: A frightening picture: God is preparing a sacrifice meal and has already invited the guests. But the “sacrifice” is the guilty people themselves, and the “guests” are the enemies who will come.
 > Verse 8: The powerful people at the king’s court wear “foreign clothes”: They copy the fashion and maybe also the religion of foreign nations.
 > Verse 9: “Leap over the threshold” was maybe a superstitious custom (compare 1 Samuel 5:5). Others think of servants who break into other people’s houses to rob them.
-> Verses 10–11: The judgment hits the whole city: the Fish Gate, the Second Quarter (a newer part of the city), and Maktesh. Maktesh means “mortar,” a bowl for grinding. It was a part of the city, probably a market and trading quarter. The rich traders will lose everything. In the WEB, the traders are called “the people of Canaan,” because the Canaanites were known as traders.
+> Verses 10–11: The judgment hits the whole city: the Fish Gate, the Second Quarter (a newer part of the city), and Maktesh. Maktesh means “mortar,” a bowl for grinding. It was a part of the city, probably a market and trading quarter. The rich traders will lose everything. “The people of Canaan” here means the traders, because the Canaanites were known as traders.
 > Verse 12: God searches Jerusalem with lamps. No one can hide. He looks especially for the self-satisfied people who sit still “like wine on its dregs.” Dregs are the thick stuff that sinks to the bottom of wine. Wine that stands too long on it becomes thick and dull. These people say: “God does nothing anyway, neither good nor evil.” They live as if there were no God.
 > Verse 13: Whoever has used others for their own gain will have nothing from their own riches (compare Amos 5:11).
 
@@ -129,7 +129,7 @@ For he will make an end, yes, a terrible end,
 of all who live in the land.
 
 > **What does this mean?**
-> Verses 14–16: This is one of the most famous descriptions of the “day of the LORD” in the Bible. Five times it says “a day of …,” like the strokes of a bell.
+> Verses 14–16: This is one of the most famous descriptions of the “day of the LORD” in the Bible. Again and again it says “a day of …,” like the strokes of a bell.
 > In the Middle Ages, verse 15 became the basis of the Latin hymn “Dies irae.” That means: “Day of anger.” It became part of the Catholic Mass for the dead. Many composers set it to music, for example Mozart and Verdi in their Requiems.
 > Verse 18: Money cannot save anyone from God’s judgment. The rich, who trusted in what they owned, are left with empty hands.
 > The judgment came a few decades later, when the Babylonians conquered Jerusalem (587/586 BC). But Zephaniah also has a message of hope. It comes in the next chapters.

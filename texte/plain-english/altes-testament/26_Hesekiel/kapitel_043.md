@@ -89,7 +89,6 @@ From the smaller ledge up to the larger ledge, it is to be about 7 feet high,
 and the ledge about 21 inches wide.
 [15] The top part of the altar is to be about 7 feet high.
 From the hearth of the altar four horns are to stick up.
-The hearth is the place where the fire burns.
 [16] The hearth of the altar is to be about 21 feet long and about 21 feet wide.
 It is to be a square with four equal sides.
 [17] The ledge is to be about 24½ feet long and about 24½ feet wide,
@@ -99,7 +98,7 @@ and the gutter around it about 21 inches.
 Its steps are to face east.”
 
 > **What does this mean?**
-> The altar is built like a tower with steps, with several ledges one above the other. At the very top is the hearth, 12 by 12 cubits (about 21 by 21 feet), with four “horns” at the corners. A long cubit is about 21 inches.
+> The altar is built like a tower with steps, with several ledges one above the other. At the very top is the hearth, the place where the fire burns, 12 by 12 cubits (about 21 by 21 feet), with four “horns” at the corners. A long cubit is about 21 inches.
 > The horns of the altar were especially holy. Whoever needed protection could hold on to them (1 Kings 1:50).
 > All together the altar is about 11 cubits high, more than 19 feet.
 
@@ -123,7 +122,6 @@ and put it on the four horns of the altar,
 on the four corners of the ledge,
 and on the rim all around.
 That is how you will make it clean and make atonement for it.
-To make atonement means to take away guilt so that things are right with God again.
 [21] You must also take the bull for the sin offering.
 It must be burned at the place chosen for it in the temple area,
 outside the sanctuary.
@@ -152,6 +150,7 @@ says the Lord GOD.”
 
 > **What does this mean?**
 > Before the altar may be used, it is made clean and set apart for God for seven days. This is like the dedication of the first altar by Moses (Exodus 29:36–37).
+> Verse 20: To make atonement means to take away guilt so that things are right with God again.
 > Verse 24: The salt was a sign of the lasting covenant between God and his people (see Leviticus 2:13: “the salt of the covenant”).
 > Verse 27: At the end comes the goal: “Then I will accept you.” It is not about the ritual for its own sake, but about the restored relationship with God.
 > Christians believe that the sacrifices of the temple found their fulfillment in Jesus Christ (Hebrews 10:10–14). In Judaism today, without a temple, prayer, the study of the Torah, and good deeds take the place of the sacrifices.

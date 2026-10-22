@@ -83,7 +83,7 @@ will each wander off on their own way.
 There will be no one to save you.”
 
 > **What does this mean?**
-> Verses 8 and 10: Babylon says: “I am, and there is no one else besides me.” That is exactly what God says about himself (chapter 45:5–6). Babylon has put itself in God’s place. That is the deepest reason for its fall.
+> Verses 8 and 10: Babylon says: “I am, and there is no one else besides me.” That is exactly what God says about himself (Isaiah 45:5–6). Babylon has put itself in God’s place. That is the deepest reason for its fall.
 > Verse 9: To become a widow and childless was the worst misfortune for a woman in those days. For the city it means: It loses its king and its inhabitants.
 > Verses 12–13: Babylon was famous for astrology and spells. Isaiah mocks: Let the astrologers save you now!
 > Verse 14: Their wisdom burns like straw. There is not even a cozy fire left to warm yourself.

@@ -28,8 +28,8 @@ He learned to catch his prey.
 He ate people.
 [7] He knew their palaces
 and destroyed their cities.
-The land and everything in it was horrified
-at the sound of his roaring.
+The land and everything in it became empty
+because of the sound of his roaring.
 [8] Then the nations from the provinces
 attacked him from every side.
 They spread their net over him.

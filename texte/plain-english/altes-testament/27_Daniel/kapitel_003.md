@@ -6,7 +6,7 @@
 ## The golden statue (Verses 1–7)
 
 [1] King Nebuchadnezzar made a statue of gold.
-It was sixty cubits high, that is about 90 feet.
+It was 60 cubits high, that is about 90 feet.
 It was six cubits wide, that is about 9 feet.
 He set it up on the plain of Dura in the province of Babylon.
 [2] Then King Nebuchadnezzar sent messengers

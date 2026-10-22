@@ -83,7 +83,7 @@ This is the inheritance of the servants of the LORD,
 and their righteousness comes from me,” says the LORD.
 
 > **What does this mean?**
-> Verses 11–12: The destroyed city will be rebuilt more beautifully than ever before, out of sapphires, rubies and jewels. The book of Revelation takes up this picture for the “new Jerusalem” (chapter 21:18–21).
+> Verses 11–12: The destroyed city will be rebuilt more beautifully than ever before, out of sapphires, rubies and jewels. The book of Revelation takes up this picture for the “new Jerusalem” (Isaiah 21:18–21).
 > Verse 13: “All your children will be taught by the LORD.” Jesus quotes this verse (John 6:45).
 > Verse 14: A city without oppression and without fear: that is God’s goal.
 > Verses 16–17: The weapon makers, too, are God’s creatures. He has power over them. That is why no weapon will succeed against his people. This is a promise of protection, not a call to fight.

@@ -47,7 +47,7 @@ I have not sent them,” says the LORD.
 ## Thoughts of peace (Verses 10–14)
 
 [10] For the LORD says,
-“When seventy years are over for Babylon,
+“When 70 years are over for Babylon,
 I will come to you,
 and keep my good promise to you,
 to bring you back to this place.
@@ -85,8 +85,8 @@ your brothers who haven’t gone with you into captivity.
 I will make them like rotten figs
 that are so bad they can’t be eaten.
 [18] I will chase them with the sword, with famine, and with disease.
-I will make them a horror to all the kingdoms of the earth,
-something that shocks people, that people hiss at,
+I will make them be tossed back and forth among all the kingdoms of the earth.
+They will be a horror, something that shocks people, something people hiss at,
 and a disgrace among all the nations where I have driven them,
 [19] because they have not listened to my words,” says the LORD,
 “which I sent to them through my servants the prophets, early and tirelessly.
@@ -139,7 +139,8 @@ so that Jeremiah the prophet heard it.
 ‘The LORD says this about Shemaiah the Nehelamite:
 “Shemaiah has prophesied to you,
 though I didn’t send him,
-and he has made you trust in a lie.
+and he has made you trust in a lie.”
+
 [32] That is why the LORD says,
 “Look, I will punish Shemaiah the Nehelamite and his descendants.
 No man of his family will be left to live among this people.

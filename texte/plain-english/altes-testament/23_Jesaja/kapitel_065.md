@@ -27,7 +27,7 @@ a fire that burns all day long.
 [6] Look, it is written before me:
 I will not keep silent, but I will repay,
 yes, I will repay them in full,
-[7] your own wrongdoings and the wrongdoings of your fathers together,”
+[7] your own wrongdoings and the wrongdoings of your ancestors together,”
 says the LORD,
 “who burned incense on the mountains
 and insulted me on the hills.
@@ -88,7 +88,7 @@ and hidden from my eyes.
 > **What does this mean?**
 > Verse 8: A picture from winegrowing: If there is still some good juice in a bad cluster of grapes, you don’t throw it away. In the same way, God will not destroy the whole people, for the sake of the faithful.
 > Verse 10: Sharon in the west and the Valley of Achor in the east will become fertile pasture again.
-> Verse 11: “Fortune” (Gad) and “Destiny” (Meni) were names of gods to whom people offered sacrifices in order to have good luck. Today we might think of superstition or gambling. If you have problems with gambling, you can find help. US: SAMHSA 1-800-662-4357. Elsewhere, find help at findahelpline.com.
+> Verse 11: “Fortune” (Gad) and “Destiny” (Meni) were names of gods to whom people offered sacrifices in order to have good luck. Today we might think of superstition or gambling. If you have problems with gambling, you can find help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For addiction, US: SAMHSA 1-800-662-4357.
 > Verses 12–15: The ways part: The faithful eat, drink and rejoice; those who turn away go empty. This is a serious warning, not a task for people to judge or punish others. The judgment belongs to God.
 > Verse 16: God is called the “God of truth,” literally “God of Amen.” What he says holds true.
 
@@ -109,8 +109,8 @@ The sound of weeping will no longer be heard in her,
 nor the sound of crying.
 [20] There will no longer be a baby there who lives only a few days,
 nor an old person who does not live out his days.
-For whoever dies at a hundred will still be thought of as a child,
-and the sinner who is a hundred years old will be cursed.
+For a child will die at 100 years old,
+and the sinner who is 100 years old will be cursed.
 [21] They will build houses and live in them.
 They will plant vineyards and eat their fruit.
 [22] They will not build for someone else to live in.
@@ -132,7 +132,7 @@ on all my holy mountain,” says the LORD.
 > **What does this mean?**
 > This is one of the greatest hopes in the Bible: God creates new heavens and a new earth.
 > Verse 19: No more weeping and no more crying. The book of Revelation takes this up: “He will wipe away every tear from their eyes” (Revelation 21:4).
-> Verse 20: No baby dies young anymore. All people live long lives. Whoever dies at a hundred still counts as young. For all parents who have lost a child, this is a comforting hope.
+> Verse 20: No baby dies young anymore. All people live long lives. Whoever dies at 100 still counts as young. For all parents who have lost a child, this is a comforting hope.
 > Verses 21–23: No more exploitation: Whoever builds a house also lives in it. Whoever plants also eats the fruit. No one works for nothing.
 > Verse 24: God answers even before people call.
 > Verse 25: As in chapter 11:6–9: Wolf and lamb live together in peace. No one does evil anymore. A picture of perfect peace in all creation.

@@ -44,7 +44,7 @@ The LORD said to me,
 > Chapters 36–39 tell stories from the time of King Hezekiah. Almost exactly the same stories are also found in 2 Kings 18–20.
 > In the year 701 BC, the Assyrian king Sennacherib marches into Judah with a huge army. He captures 46 fortified cities. An Assyrian inscription, the so-called “Sennacherib Prism,” also reports this. Only Jerusalem is left.
 > “Rabshakeh” is a title, something like “chief cupbearer,” a high official.
-> He stands exactly at the spot where Isaiah once called King Ahaz to trust (chapter 7:3).
+> He stands exactly at the spot where Isaiah once called King Ahaz to trust (Isaiah 7:3).
 > His speech is clever war propaganda: Egypt is a broken reed that will hurt you. And your God? Hezekiah tore down his altars! (Hezekiah had closed the many places of worship and brought worship together in Jerusalem.) He even claims that God himself sent him.
 
 ---

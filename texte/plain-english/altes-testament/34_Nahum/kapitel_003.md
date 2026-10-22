@@ -39,7 +39,7 @@ says the LORD of Armies.
 I will show the nations your nakedness,
 and the kingdoms your shame.
 [6] I will throw disgusting filth on you.
-I will make you worthless.
+I will make you disgusting.
 I will put you on display.
 [7] And this will happen:
 Everyone who looks at you will run away from you.
@@ -49,7 +49,7 @@ Where can I find anyone to comfort you?”
 
 > **What does this mean?**
 > Verses 5–6: These verses are hard to read. They use the picture of a woman being shamed in public. In this way they describe the humiliation of the proud city of Nineveh. Nineveh had humiliated other peoples. Now it is humiliated itself.
-> Important: This is a picture for the end of a rule of violence. It does not justify violence against women. Sexual violence and public humiliation are always wrong. If you have experienced something like this, you can find help. In the US, call or text 988. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For violence at home, US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Important: This is a picture for the end of a rule of violence. It does not justify violence against women. Sexual violence and public humiliation are always wrong. If you have experienced something like this, you can find help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233.
 > Verse 7: “Who will mourn for her?” No one will weep for Nineveh, because the city had brought so much suffering on others. A sad end: a city that no one looks for comfort for.
 
 ---
@@ -128,7 +128,7 @@ For who has not felt your cruelty that never ended?
 
 ---
 
-## Looking back: What did we read in the book of Nahum?
+## Looking back: What have we read in the book of Nahum?
 
 > **What does this mean?**
 > **The end of a rule of violence:** Nahum announces the fall of Nineveh, the capital of the cruel Assyrian empire. In the year 612 BC the city really was destroyed.

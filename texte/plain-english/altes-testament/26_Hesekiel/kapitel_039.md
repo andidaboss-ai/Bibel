@@ -120,7 +120,7 @@ with mighty warriors and with all soldiers,”
 says the Lord GOD.’
 
 > **What does this mean?**
-> A horrifying picture: The birds and wild animals are invited to a “sacrifice meal,” and the “sacrifice” is the fallen warriors. The “rams, lambs, and bulls” are a picture for the leaders and the soldiers.
+> A horrifying picture: The birds and wild animals are invited to a “sacrifice meal,” and the “sacrifice” is the fallen warriors. The rams, lambs, goats, and bulls in verse 18 are a picture for the leaders and the soldiers.
 > The picture is cruel on purpose. It shows the complete end of the enemy’s power. Revelation takes up this picture (Revelation 19:17–18).
 > Pictures like this describe God’s judgment on tyrants. They are not joy over people’s death, and they do not give permission for violence.
 

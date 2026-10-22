@@ -19,7 +19,7 @@ and its villages will be burned with fire.
 Then Israel will take over the land of those who took over his land,”
 says the LORD.
 [3] “Wail, Heshbon, for Ai is laid waste!
-Cry out, you villages of Rabbah!
+Cry out, you daughters of Rabbah!
 Put on sackcloth.
 Mourn, and run back and forth among the walls,
 for Malcam will go into captivity,
@@ -99,12 +99,12 @@ says the LORD,
 “no one will live there,
 and no human being will stay there.
 [19] Look, someone will come up like a lion
-from the thickets of the Jordan
+from the thick forest of the Jordan
 against the strong pasture.
 For I will suddenly make Edom run away from it,
 and I will appoint over it whoever I choose.
 For who is like me?
-Who can summon me?
+Who can set a time for me?
 What shepherd can stand against me?”
 [20] So hear the plan that the LORD has made against Edom,
 and what he has decided against those who live in Teman:
@@ -133,8 +133,8 @@ will be like the heart of a woman in labor.
 “Hamath and Arpad are confused,
 for they have heard bad news.
 They melt away in fear.
-There is worry like a restless sea
-that cannot be calm.
+There is sorrow on the sea.
+It cannot be calm.
 [24] Damascus has grown weak.
 She turns to flee,
 and trembling has seized her.
@@ -179,7 +179,7 @@ that lives alone.
 [32] Their camels will be taken as loot,
 and their many cattle as plunder.
 I will scatter to every wind
-those who cut the corners of their hair,
+those who cut off the corners of their beards,
 and I will bring disaster on them from every side,” says the LORD.
 [33] “Hazor will become a home for jackals,
 a wasteland forever.

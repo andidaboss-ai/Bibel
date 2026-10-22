@@ -21,10 +21,9 @@ It will not be late.
 [4] Look, he is puffed up with pride.
 His soul is not honest within him.
 But the righteous will live by his faith.
-Righteous means: a person who does what is right in God’s eyes.
 [5] Yes, and what is more, wine betrays.
 A proud man does not stay at home.
-He opens his throat as wide as Sheol.
+He makes his greed as wide as Sheol (the world of the dead).
 He is like death and is never satisfied.
 He gathers all nations to himself
 and piles up all peoples for himself.
@@ -33,7 +32,7 @@ and piles up all peoples for himself.
 > Verse 1: Habakkuk takes his place on the wall like a watchman and waits patiently for God’s answer.
 > Verse 2: God says: Write it down big and clear, like on a poster. Everyone should be able to read it, even while walking past.
 > Verse 3: It will surely come true, even if it takes time. Wait patiently!
-> Verse 4: The key verse of the book. There are two kinds of people: The proud, who are puffed up and do not live honestly (this means Babylon especially). And the righteous, who live by their faith.
+> Verse 4: The key verse of the book. There are two kinds of people: The proud, who are puffed up and do not live honestly (this means Babylon especially). And the righteous, who live by their faith. Righteous means: living right before God.
 > The Hebrew word for “faith” also means “faithfulness” or “being reliable.” The righteous person trusts God and stays faithful to him, even when he does not yet see how God will act.
 > This verse is very important in the New Testament. Paul quotes it in his letter to the Romans (1:17) and in his letter to the Galatians (3:11): A person is made right with God through faith. It is also quoted in the letter to the Hebrews (10:38). For Martin Luther, it became the key to the Reformation.
 > Verse 5: The proud man can never get enough, like death. He always wants to rule over more nations.
@@ -43,7 +42,7 @@ and piles up all peoples for himself.
 ## The first and second “How terrible”: robbery and unjust gain (Verses 6–11)
 
 [6] Won’t all these sing a mocking song about him,
-a riddle about him, and say,
+a saying that makes fun of him, and say,
 ‘How terrible for him who piles up what is not his,
 and who makes himself rich by forcing money from others!
 How long will this go on?’
@@ -106,7 +105,7 @@ to every city, and to those who live in them.
 
 > **What does this mean?**
 > Verse 15: A picture for humiliating others: Someone gets others drunk to shame them and take advantage of them. That is how Babylon humiliated the nations.
-> The picture also describes a real wrong that still exists today: People are made helpless with alcohol or drugs and then used sexually. God clearly condemns this. If this has happened to you, it is not your fault. Help is there. In the US, call or text 988. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> The picture also describes a real wrong that still exists today: People are made helpless with alcohol or drugs and then used sexually. God clearly condemns this. If this has happened to you, it is not your fault. Help is there. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 16: The punishment: The one who did this must himself drink the “cup” of God’s judgment and is shamed himself.
 > Verse 17: Babylon cut down the forests of Lebanon and destroyed the animals. Destroying nature is also an injustice that God sees.
 

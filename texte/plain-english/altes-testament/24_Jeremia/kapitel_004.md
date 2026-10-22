@@ -57,7 +57,7 @@ and the prophets will be amazed.”
 [10] Then I said, “Oh, Lord GOD!
 Surely you have badly deceived this people and Jerusalem,
 by saying, ‘You will have peace,’
-while the sword reaches to the throat.”
+while the sword reaches to the heart.”
 [11] At that time it will be said to this people and to Jerusalem,
 “A hot wind blows from the bare hilltops in the wilderness
 toward the daughter of my people.
@@ -76,7 +76,7 @@ How long will your evil thoughts stay inside you?
 and makes disaster known from the hills of Ephraim:
 [16] “Tell the nations, look,
 announce it against Jerusalem:
-‘Besiegers are coming from a far country.
+‘Watchers are coming from a far country.
 They raise their voices against the cities of Judah.
 [17] Like guards of a field,
 they surround her on every side,
@@ -87,7 +87,7 @@ Yes, it is bitter.
 Yes, it reaches to your heart.”
 
 > **What does this mean?**
-> Verses 5–6: The horn (shofar) is blown, an alarm signal. Everyone is to flee into the fortified cities.
+> Verses 5–6: The trumpet, a ram’s horn (shofar), is blown as an alarm signal. Everyone is to flee into the fortified cities.
 > Verse 7: The “lion” is the army of Babylon, which swallows up whole nations.
 > Verse 10: Jeremiah accuses God: Have you deceived the people? There were prophets who had promised peace in God’s name. Jeremiah is in despair because these promises were false. He dares to express his despair openly before God.
 > Verses 11–13: The enemy comes like a burning desert wind, like a storm, faster than eagles.
@@ -156,7 +156,7 @@ For I am fainting before the murderers.”
 > **What does this mean?**
 > Verses 19–21: Jeremiah is not a cold prophet of judgment. He suffers with his people. He hears the war horn, and his heart hurts. He cannot keep quiet. Anyone who has ever been very afraid understands these words.
 > Verse 22: God laments: My people are skillful at doing evil, but they have forgotten how to do good.
-> Verses 23–26: A shocking vision: Jeremiah sees the earth “without form and empty,” the same words as in Genesis 1:2 before creation. No light, no human being, no birds. It is as if creation were being undone. That is how terrible war is.
+> Verses 23–26: A shocking vision: Jeremiah sees the earth “without form and empty,” in Hebrew the same words as in Genesis 1:2 before creation. No light, no human being, no birds. It is as if creation were being undone. That is how terrible war is.
 > Verse 27: And yet: “I will not make a complete end.” A small spark of hope.
 > Verse 30: Jerusalem is described as a woman who makes herself beautiful to win foreign lovers (foreign powers like Egypt). But they turn against her.
 > Verse 31: The daughter of Zion cries out like a woman in hard labor, without hope. A picture of the distress of people in war. Sadly, there are such cries in many wars to this day. If you are weighed down by war or violence, you can get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

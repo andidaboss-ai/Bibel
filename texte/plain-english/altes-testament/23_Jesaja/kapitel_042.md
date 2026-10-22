@@ -80,7 +80,7 @@ and I will not abandon them.
 [17] Those who trust in carved idols,
 who say to cast images, ‘You are our gods,’
 will be turned back.
-They will be completely put to shame.”
+They will be completely disappointed.”
 
 > **What does this mean?**
 > Verses 10–12: The whole world is to sing a new song to God: from the sea to the desert, from the islands to the mountains.
@@ -122,4 +122,4 @@ It burned him, but he did not take it to heart.”
 > Now Israel is addressed as God’s “servant,” but as a blind and deaf servant. The people were meant to be a light for the nations, but they themselves did not see and hear.
 > Verse 22: In exile, the people are like prisoners in holes, robbed, and no one helps.
 > Verses 24–25: This happened because the people did not listen to God. And even in their misfortune, they did not understand why.
-> This honesty about one’s own guilt is part of the Book of Comfort. But in the next chapter God says: “Do not be afraid, for I have redeemed you!” (chapter 43:1).
+> This honesty about one’s own guilt is part of the Book of Comfort. But in the next chapter God says: “Do not be afraid, for I have redeemed you!” (Isaiah 43:1).

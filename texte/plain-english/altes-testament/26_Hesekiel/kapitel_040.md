@@ -62,8 +62,8 @@ All three had the same size.
 The posts on each side also had the same size.
 [11] He measured the width of the opening of the gate. It was about 17½ feet.
 The length of the gateway was about 23 feet.
-[12] In front of the guard rooms was a low wall
-about 21 inches high on each side.
+[12] In front of the guard rooms was a border,
+about 21 inches on each side.
 The side rooms were about 10½ feet on each side.
 [13] He measured the gateway from the roof of one side room
 to the roof of the other.
@@ -92,7 +92,7 @@ Palm trees were carved on each post.
 [17] Then he brought me into the outer courtyard.
 Look, there were rooms there,
 and a stone pavement had been made all around the courtyard.
-Thirty rooms faced the pavement.
+30 rooms faced the pavement.
 [18] The pavement ran along the side of the gates.
 It was as long as the gates were deep.
 This was the lower pavement.
@@ -131,7 +131,7 @@ He measured from gate to gate toward the south. It was about 175 feet.
 > **What does this mean?**
 > The outer courtyard has three gates that are the same: in the east, in the north, and in the south. There is no gate in the west. That is where the temple building itself stands.
 > Seven steps lead up to the outer gates. So the temple is on higher ground. Whoever comes to God goes up.
-> The thirty rooms along the edge were probably for the people’s sacrifice meals.
+> The 30 rooms along the edge were probably for the people’s sacrifice meals.
 > The many measurements that are the same show order, harmony and perfection.
 
 ---

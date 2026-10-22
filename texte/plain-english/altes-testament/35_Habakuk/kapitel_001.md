@@ -23,7 +23,7 @@ and you will not listen?
 I cry out to you, “Violence!”
 and will you not save?
 [3] Why do you make me see wrongdoing?
-Why do you look at the misery?
+Why do you look at what is wrong?
 For destruction and violence are in front of me.
 There is fighting, and quarrels rise up.
 [4] That is why the law has no power,
@@ -32,7 +32,7 @@ For the wicked surround the righteous.
 That is why justice comes out twisted.
 
 > **What does this mean?**
-> Habakkuk begins with a complaint, as in many psalms: “How long?” He sees violence, fighting, and injustice among his own people in Judah. The courts no longer work. The wicked win.
+> Habakkuk begins with a complaint, as in many psalms: “How long?” He sees violence, fighting, and injustice among his own people in Judah. The courts no longer work. The wicked win. The righteous lose. Righteous means: living right before God.
 > And God seems to do nothing. Habakkuk accuses God: You do not listen! You do not save!
 > That is allowed: In the Bible, people may be honest with God, also with their disappointment, their anger, and their doubts. God can bear it.
 

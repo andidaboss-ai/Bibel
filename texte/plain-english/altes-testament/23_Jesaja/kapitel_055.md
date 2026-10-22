@@ -71,4 +71,4 @@ an everlasting sign that will never be cut off.”
 > Verses 10–11: A beautiful picture: Just as the rain does not fall for nothing but makes the earth fruitful, so God’s word works. It does not come back empty. What God says happens.
 > Verse 12: Those returning home leave Babylon with joy. All of nature celebrates with them: The mountains sing, the trees clap their hands.
 > Verse 13: Instead of thorns, beautiful trees grow. The world becomes whole again.
-> With chapter 55, the “Book of Comfort” (chapters 40–55) ends. It ends the way it began (chapter 40:8): with the promise that God’s word stands and does its work.
+> With chapter 55, the “Book of Comfort” (chapters 40–55) ends. It ends the way it began (Isaiah 40:8): with the promise that God’s word stands and does its work.

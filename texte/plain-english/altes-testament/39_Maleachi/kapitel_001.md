@@ -10,7 +10,7 @@ The name Malachi means “my messenger.” Maybe it is his name, maybe it is a t
 Malachi probably lived in the 5th century BC, a few decades after the second temple was built again (515 BC), maybe at the time of Ezra and Nehemiah. The first excitement was over. The priests were careless, and the people did not care. Many asked: “Is it even worth it to serve God?”
 The special thing about Malachi: The book is set up like an argument. God says something, the people object (“How? In what way?”), and God answers. This happens six times.
 At the end, Malachi announces that God will send a messenger, the prophet Elijah, before the great day of the LORD comes. In the New Testament, this is applied to John the Baptist.
-A note: In the WEB, Malachi has 4 chapters. In some Bibles there are only 3. There the WEB’s Chapter 4 is 3:19–24.
+A note: In the WEB, our English source text, Malachi has 4 chapters. In some Bibles there are only 3. There the WEB’s Chapter 4 is 3:19–24.
 
 ---
 
@@ -38,7 +38,7 @@ even beyond the border of Israel!”
 
 > **What does this mean?**
 > Verse 2: The first words of the book are God’s declaration of love: “I have loved you.” But the people doubt it: “How? We don’t notice any of it!”
-> Verses 2–3: God reminds them of the twins Jacob and Esau (Genesis 25). God chose Jacob, not Esau. Here “love” and “hate” are a Hebrew way of saying “choose” and “not choose,” or “prefer” and “prefer less.” It does not mean that God personally hated Esau. Jesus uses the same way of speaking when he says that people must “hate” father and mother in order to follow him (Luke 14:26; the WEB says “disregard” there). Compare Matthew 10:37: “Whoever loves father or mother more than me.”
+> Verses 2–3: God reminds them of the twins Jacob and Esau (Genesis 25). God chose Jacob, not Esau. Here “love” and “hate” are a Hebrew way of saying “choose” and “not choose,” or “prefer” and “prefer less.” It does not mean that God personally hated Esau. Jesus uses the same way of speaking when he says that people must “hate” father and mother in order to follow him (Luke 14:26; the WEB, our English source text, says “disregard” there). Compare Matthew 10:37: “Whoever loves father or mother more than me.”
 > Paul quotes this verse in the letter to the Romans (Romans 9:13), when he speaks about God’s free choice.
 > Verse 4: Edom (the people who came from Esau) had by then been driven out of its land by other nations. Israel, on the other hand, was allowed to come back. By this they are to see God’s love.
 > Verse 5: “The LORD is great, even beyond the border of Israel”: God is not only a God for Israel, but for the whole world.

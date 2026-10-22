@@ -100,7 +100,7 @@ and I was disciplined,
 like a calf that is not trained.
 Bring me back, and I will come back,
 for you are the LORD my God.
-[19] Truly, after I turned away, I was sorry.
+[19] Truly, after I was brought back, I was sorry.
 After I understood, I struck my thigh in grief.
 I was ashamed, yes, even disgraced,
 because I carried the disgrace of my youth.’
@@ -150,7 +150,7 @@ with the seed of people and with the seed of animals.
 to overthrow, to destroy, and to bring disaster,
 so I will watch over them to build and to plant,” says the LORD.
 [29] “In those days they will no longer say,
-“‘The fathers have eaten sour grapes,
+‘The fathers have eaten sour grapes,
 and the children’s teeth are set on edge.’
 [30] But everyone will die for his own guilt.
 Every person who eats the sour grapes,
@@ -169,7 +169,8 @@ his own teeth will be set on edge.
 [31] “Look, the days are coming,” says the LORD,
 “when I will make a new covenant
 with the house of Israel and with the house of Judah.
-[32] It will not be like the covenant that I made with their fathers
+[32] It will not be like the covenant that I made with their ancestors
+
 on the day that I took them by the hand
 to bring them out of the land of Egypt.
 They broke my covenant,

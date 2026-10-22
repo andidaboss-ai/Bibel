@@ -18,7 +18,6 @@ because you do not take it to heart.
 and I will spread dung on your faces,
 the dung from your feasts.
 And you will be carried away with it.
-Dung is animal waste.
 [4] Then you will know that I have sent you this command,
 so that my covenant with Levi may continue,”
 says the LORD of Armies.
@@ -43,6 +42,7 @@ because you have not kept my ways,
 but have favored some people when you teach the law.”
 
 > **What does this mean?**
+> Verse 3: Dung is animal waste.
 > Verses 2–3: Hard words to the priests. Because they do not honor God, their blessing becomes a curse. The picture of dung on their faces is meant to be shocking: The waste of the animals for sacrifice was burned outside the camp (Exodus 29:14). That is how unclean the priests have become.
 > Verses 4–7: God reminds them of the ideal: Levi, the ancestor of the priests, was faithful. A good priest speaks the truth, lives in peace with God, and helps others turn away from wrong. People are to find advice and teaching with him. He is a “messenger of the LORD.” In Hebrew this is the same word as “Malachi.”
 > Verses 8–9: But these priests have failed. They have led many people the wrong way and were unfair: They “favored some people,” that is, they gave the rich and powerful better treatment.
@@ -58,7 +58,7 @@ Why are we unfaithful to each other, each against his brother,
 and make the covenant of our ancestors unholy?
 [11] Judah has been unfaithful,
 and a disgusting thing has been done in Israel and in Jerusalem.
-For Judah has made unholy the holy place of the LORD, which he loves,
+For Judah has made unholy the holy things of the LORD, which he loves,
 and has married the daughter of a foreign god.
 [12] The LORD will cut off the man who does this
 from the tents of Jacob,
@@ -110,7 +110,7 @@ so that you are not unfaithful.
 
 ## Where is the God of justice? (Verse 17)
 
-[17] You have made the LORD tired with your words.
+[17] “You have made the LORD tired with your words.
 And you say, ‘How have we made him tired?’
 You do it when you say,
 ‘Everyone who does evil is good in the LORD’s eyes,

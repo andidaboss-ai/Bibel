@@ -45,7 +45,7 @@ That is why you, sons of Jacob, have not been destroyed.
 
 ## Return to me! (Verses 7–12)
 
-[7] Since the days of your ancestors
+[7] “Since the days of your ancestors
 you have turned away from my rules
 and have not kept them.
 Return to me,
@@ -56,7 +56,6 @@ says the LORD of Armies.
 Yet you rob me!
 But you say, ‘How have we robbed you?’
 In the tithes and the offerings.
-A tithe is a tenth part of what a person earns or harvests.
 [9] You are under a curse,
 for you rob me,
 yes, this whole nation does.
@@ -77,6 +76,7 @@ says the LORD of Armies.
 
 > **What does this mean?**
 > Verse 7: Again the invitation: “Return to me, and I will return to you” (as in Zechariah 1:3).
+> Verse 8: A tithe is a tenth part of what a person earns or harvests.
 > Verses 8–9: The people ask: “How should we return?” God names a clear example: the tithe. According to the law, the Israelites were to give a tenth of their harvest. This was what the Levites lived on, since they had no land of their own. And the poor, widows, orphans, and foreigners were also cared for with it (Deuteronomy 14:28–29). So whoever did not give the tithe also took something away from the poor.
 > Verse 10: “Test me!” This is one of the few places in the Bible where God tells people to put him to the test. Whoever gives generously will see that God blesses generously.
 > Important: This verse is sometimes misused to put pressure on people or to take their money, for example with the promise: “If you give money, you will get rich.” That is not what it means. No one can buy God’s blessing. The New Testament says: “Let each one give as he has decided in his heart, not reluctantly or under pressure. For God loves a cheerful giver” (2 Corinthians 9:7).
@@ -115,4 +115,4 @@ and the one who does not serve him.
 > Verses 14–15: Many people ask this question: Is it even worth it to believe in God and to live the right way? Those who do evil are doing much better! Psalm 73 asks this question too.
 > Verse 16: A quiet, beautiful scene: Those who are faithful to God talk with each other and encourage each other. And God listens! He writes their names in a “book to remember them.” No faithful person is forgotten.
 > Verse 17: They are God’s “own treasure,” something special that belongs to him (compare Exodus 19:5). He cares for them like a father for his child.
-> Verse 18: In the end it will be clear that it makes a difference whether people serve God or not.
+> Verse 18: Righteous means: living right before God. In the end it will be clear that it makes a difference whether people serve God or not.

@@ -26,7 +26,7 @@ the feet of the poor
 and the steps of the needy.”
 
 > **What does this mean?**
-> In contrast to the destroyed city of violence (chapter 25:2), here stands God’s strong city. Its walls are not made of stone, but of God’s salvation.
+> In contrast to the destroyed city of violence (Isaiah 25:2), here stands God’s strong city. Its walls are not made of stone, but of God’s salvation.
 > Verse 2: The gates open for all who are faithful.
 > Verse 3 is a well-known verse of comfort: Whoever trusts God finds “perfect peace.” In Hebrew it says “shalom, shalom,” double peace.
 > Verse 4: God is a rock that you can rely on forever.

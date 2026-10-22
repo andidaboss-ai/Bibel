@@ -31,8 +31,8 @@ I will also command the clouds
 not to rain any rain on it.”
 [7] For the vineyard of the LORD of Armies is the house of Israel,
 and the men of Judah are the plant he loves.
-He looked for justice, but look: oppression.
-For righteousness, but look: a cry of distress.
+He looked for justice, but there was oppression.
+He looked for righteousness, but there was a cry of distress.
 
 > **What does this mean?**
 > Isaiah begins like a singer at a festival: I will sing you a love song about my friend’s vineyard. At first, the listeners think of a love story.
@@ -53,7 +53,7 @@ and you live alone in the middle of the land!
 [9] In my ears, the LORD of Armies says:
 “Surely many houses will be empty,
 yes, great and beautiful ones, without anyone living in them.
-[10] For ten acres of vineyard will produce only one bath,
+[10] For 10 acres of vineyard will produce only one bath,
 and a homer of seed will produce only an ephah.”
 [11] How terrible for those who get up early in the morning
 to run after strong drink,
@@ -67,7 +67,7 @@ and they do not see what his hands are doing.
 because they lack knowledge.
 Their noble men are starving,
 and their crowds are dried up with thirst.
-[14] So Sheol, the world of the dead, has opened its throat wide
+[14] So Sheol (the world of the dead) has opened its throat wide
 and opened its mouth without limit.
 And their splendor, their crowds, their show,
 and whoever is cheerful among them go down into it.
@@ -129,7 +129,7 @@ but his hand is still stretched out.
 
 [26] He will raise a banner for the nations far away,
 and he will whistle for them from the end of the earth.
-Look, they will come quickly and fast.
+They will come quickly and swiftly.
 [27] None of them is tired or stumbles.
 None of them dozes or sleeps.
 The belt around their waist does not come loose,
@@ -145,7 +145,7 @@ carry it off, and no one rescues it.
 [30] On that day, they will roar against it
 like the roaring of the sea.
 If someone looks at the land,
-look, darkness and distress.
+there is darkness and distress.
 The light is darkened by its clouds.
 
 > **What does this mean?**

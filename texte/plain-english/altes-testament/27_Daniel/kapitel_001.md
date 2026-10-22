@@ -80,15 +80,15 @@ Then you would put my head in danger with the king.”
 [11] Then Daniel spoke to the guard
 whom the chief of the eunuchs had put in charge of Daniel, Hananiah, Mishael, and Azariah.
 [12] Daniel said,
-“Please test your servants for ten days.
+“Please test your servants for 10 days.
 Let them give us vegetables to eat and water to drink.
 [13] Then look at our faces
 and at the faces of the young men
 who eat the king’s fine food.
 Then do with your servants what you think is right.”
 [14] So the guard listened to them in this matter.
-He tested them for ten days.
-[15] At the end of the ten days,
+He tested them for 10 days.
+[15] At the end of the 10 days,
 their faces looked better and healthier.
 They were better fed
 than all the young men who ate the king’s fine food.
@@ -100,12 +100,12 @@ And he gave them vegetables.
 > Daniel does not want to eat the king’s food. Why? Probably because the meat was not prepared according to the Jewish food laws, or because it had first been offered to idols. Daniel wanted to stay faithful to God, even in a foreign land.
 > It is remarkable how Daniel does this: He does not rebel loudly. He asks politely and suggests a fair test. He looks for a solution that is also good for the guard.
 > Verse 9: “God made the chief of the eunuchs kind to Daniel.” God works in the background.
-> Verse 15: After ten days of vegetables and water, the four look healthier than the others. This is not a general rule for healthy eating. It shows: God blesses faithfulness.
+> Verse 15: After 10 days of vegetables and water, the four look healthier than the others. This is not a general rule for healthy eating. It shows: God blesses faithfulness.
 > For today: We too can live in a place where people have other values. Daniel shows how to stay true to what you believe without looking down on others.
 
 ---
 
-## Ten times wiser (Verses 17–21)
+## 10 times wiser (Verses 17–21)
 
 [17] God gave these four young men knowledge and skill
 in all kinds of learning and wisdom.
@@ -118,12 +118,12 @@ Among them all, there was no one like Daniel, Hananiah, Mishael, and Azariah.
 So they began to serve the king.
 [20] The king asked them about many things
 that needed wisdom and understanding.
-In every matter, he found them ten times better
+In every matter, he found them 10 times better
 than all the magicians and enchanters in his whole kingdom.
 Enchanters are people who try to use magic words.
 [21] Daniel stayed there until the first year of King Cyrus.
 
 > **What does this mean?**
 > The four learn all the knowledge of Babylon, and they are excellent at it. They do not refuse the foreign culture. They learn and work along with others, but they do not give up their faith.
-> Verse 20: “Ten times better” – God gives them wisdom that is greater than the wisdom of the Babylonian magicians.
+> Verse 20: “10 times better” – God gives them wisdom that is greater than the wisdom of the Babylonian magicians.
 > Verse 21: Daniel lives longer than the whole Babylonian Empire. He is still there when the Persian king Cyrus conquers Babylon (539 BC) and allows the Jews to return home. Kings come and go, but God’s faithful servant remains.

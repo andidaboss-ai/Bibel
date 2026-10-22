@@ -9,7 +9,7 @@ We know very little about the prophet Joel. His name means “The LORD is God.�
 The book does not say when he lived. Some scholars think of the time before the exile. Many think of the time after the exile (5th or 4th century BC), when the second temple was already standing.
 The reason for the book was a terrible plague of locusts together with a drought. Locusts are large grasshoppers that fly in huge swarms. Joel sees in this a sign of the coming “day of the LORD,” and he calls the people to turn back to God.
 Then everything turns out well: God has mercy, gives new rain, and promises: “I will pour out my Spirit on all people” (in the WEB 2:28). On the day of Pentecost, Peter quotes exactly these words (Acts 2:16–21).
-A note on the numbering: The WEB divides Joel into 3 chapters, like most English Bibles. Some other Bibles (for example, German and Hebrew Bibles) have 4 chapters. There, WEB 2:28–32 is Chapter 3, and WEB Chapter 3 is Chapter 4.
+A note on the numbering: The WEB divides Joel into 3 chapters, like most English Bibles. Some other Bibles (for example, Hebrew Bibles) have 4 chapters. There, WEB 2:28–32 is Chapter 3, and WEB Chapter 3 is Chapter 4.
 
 ---
 
@@ -19,7 +19,7 @@ A note on the numbering: The WEB divides Joel into 3 chapters, like most English
 [2] Listen to this, you elders!
 Listen, all you people who live in the land!
 Has anything like this ever happened in your days,
-or in the days of your fathers?
+or in the days of your ancestors?
 [3] Tell your children about it.
 Let your children tell their children,
 and let their children tell the next generation.

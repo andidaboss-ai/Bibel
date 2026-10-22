@@ -96,7 +96,7 @@ says the Lord GOD.
 
 ## The unfaithfulness (Verses 15–22)
 
-[15] “‘“But you trusted in your beauty.
+[15] “But you trusted in your beauty.
 You used your fame to become a prostitute.
 You poured out your prostitution on everyone who passed by.
 You gave yourself to anyone.
@@ -114,7 +114,7 @@ You set my oil and my incense in front of them.
 the fine flour, oil, and honey I fed you with,
 and you set it in front of them as a sweet-smelling offering.
 That is what happened,” says the Lord GOD.
-[20] “‘“You also took your sons and your daughters,
+[20] “You also took your sons and your daughters,
 whom you had given birth to for me,
 and you sacrificed them to the idols as food.
 Was your prostitution not bad enough?
@@ -136,9 +136,9 @@ and were kicking about in your blood.
 ## Alliances with foreign powers (Verses 23–34)
 
 [23] “‘“After all your wickedness
-– how terrible, how terrible for you! says the Lord GOD –
-[24] you built yourself a shrine with a vaulted roof,
-and you made yourself a raised place in every square.
+– how terrible, how terrible for you!” says the Lord GOD –
+[24] “you built yourself a shrine with a vaulted roof,
+and you made yourself a raised place in every street.
 [25] You built your raised place at the start of every road.
 You turned your beauty into something disgusting.
 You offered yourself to everyone who passed by,
@@ -162,7 +162,7 @@ And still this did not satisfy you.
 “since you do all these things,
 the things a shameless prostitute does!
 [31] You build your vaulted shrine at the start of every road,
-and you make your raised place in every square.
+and you make your raised place in every street.
 But you are not like a prostitute,
 because you refuse to be paid.
 [32] “‘“You are an unfaithful wife
@@ -178,7 +178,7 @@ That is why you are different.”’
 
 > **What does this mean?**
 > Now it is about politics: Jerusalem made alliances with Egypt, Assyria, and Babylon (Chaldea). Instead of trusting God, it looked for protection from the great powers, and in doing so it also took over their gods.
-> Verse 26: “With the big bodies”: The WEB says literally “great of flesh.” It is a crude picture for how attractive the great power Egypt was.
+> Verse 26: “With the big bodies”: The WEB, our English source text, says literally “great of flesh.” It is a crude picture for how attractive the great power Egypt was.
 > Verse 27: Even the Philistines, Israel’s old enemies, are ashamed of how Jerusalem behaves.
 > Verses 31–34: A bitter paradox: Jerusalem does not even get anything for its unfaithfulness. Instead it pays for it itself. This means the heavy tribute payments to foreign kings (compare 2 Kings 16:8). Jerusalem gives away its riches to those who will exploit it in the end.
 

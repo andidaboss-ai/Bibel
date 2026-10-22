@@ -8,9 +8,9 @@
 [1] At the beginning of the rule of Jehoiakim, the son of Josiah, king of Judah,
 this word came to Jeremiah from the LORD:
 [2] The LORD says to me:
-“Make straps and wooden bars for a yoke,
+“Make straps and bars,
 and put them on your neck.
-[3] Then send word to the king of Edom, to the king of Moab,
+[3] Then send them to the king of Edom, to the king of Moab,
 to the king of the people of Ammon, to the king of Tyre, and to the king of Sidon,
 through the messengers who come to Jerusalem to Zedekiah, king of Judah.
 [4] Give them a message for their masters. Say,
@@ -46,7 +46,8 @@ I will let that nation stay in its own land,’ says the LORD.
 ‘They will farm it and live in it.’”’”
 
 > **What does this mean?**
-> Verse 1: The WEB names King Jehoiakim here, like the Hebrew text. But from the rest of the chapter (verses 3 and 12) it becomes clear that this is about the time of King Zedekiah. That is why many translations have “Zedekiah” here.
+> Verse 1: The WEB, our English source text, names King
+ Jehoiakim here, like the Hebrew text. But from the rest of the chapter (verses 3 and 12) it becomes clear that this is about the time of King Zedekiah. That is why many translations have “Zedekiah” here.
 > Verse 2: Another acted-out sign: Jeremiah puts a yoke on his neck, like the yoke that is put on oxen. A yoke means: You have to serve someone.
 > Verse 3: Messengers from the neighboring countries were in Jerusalem to plan an uprising against Babylon together. Jeremiah sends them a message: Don’t do it!
 > Verses 5–7: God is the Creator of the whole world. He gives power to whoever he wants. Now he has given it to Nebuchadnezzar, but not forever: After three generations, it will be Babylon’s turn too.

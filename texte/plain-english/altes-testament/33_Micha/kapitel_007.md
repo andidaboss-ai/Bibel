@@ -133,7 +133,7 @@ in the days long ago.
 
 ---
 
-## Looking back: What did we read in the book of Micah?
+## Looking back: What have we read in the book of Micah?
 
 > **What does this mean?**
 > **A prophet from the countryside:** Micah of Morasheth lived in the time of Isaiah. He saw how the powerful took fields and houses away from ordinary people (2:1–2).

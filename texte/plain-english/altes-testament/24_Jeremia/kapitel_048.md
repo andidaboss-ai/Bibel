@@ -76,8 +76,8 @@ says the King, whose name is the LORD of Armies.
 and his misery is coming quickly.
 [17] All you who live around him, mourn for him!
 All you who know his name, say,
-‘How the strong scepter is broken,
-the glorious staff!’
+‘How the strong staff is broken,
+the beautiful rod!’
 
 > **What does this mean?**
 > Verses 11–12: A picture from winemaking: Wine that lies on its yeast for a long time and is never poured into another jar keeps its old taste. Moab never experienced war or deportation. It has become self-satisfied and has never changed. Now it is being “poured off,” that is, torn out of its comfort.
@@ -120,7 +120,7 @@ that every time you speak of him, you shake your head?
 [28] You who live in Moab,
 leave the cities, and live among the rocks.
 Be like the dove that makes her nest
-in the sides of the mouth of a gorge.
+above the opening of a deep gorge.
 
 > **What does this mean?**
 > Verses 21–24: A long list of cities: Every single one is struck by the judgment. Dibon is today Dhiban in Jordan. There, in 1868, the famous “Mesha Stone” was found, an inscription of King Mesha of Moab from the 9th century BC.
@@ -149,7 +149,7 @@ They reached as far as the sea of Jazer.
 The destroyer has fallen on your summer fruit
 and on your grape harvest.
 [33] Gladness and joy are taken away
-from the fruitful land of Moab.
+from the fruitful field and from the land of Moab.
 I have made the wine stop flowing from the winepresses.
 No one will tread the grapes with shouts of joy.
 The shouting will be no shouting of joy.
@@ -210,9 +210,9 @@ the year of their punishment,” says the LORD.
 [45] “Those who fled stand without strength
 in the shadow of Heshbon.
 For a fire has gone out from Heshbon,
-a flame from the house of Sihon.
-It has burned up the forehead of Moab,
-the skulls of the boastful.
+a flame from the middle of Sihon.
+It has burned up the corner of Moab,
+and the tops of the heads of the noisy ones.
 [46] How terrible for you, Moab!
 The people of Chemosh are lost.
 For your sons are taken away as captives,

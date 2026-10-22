@@ -22,7 +22,7 @@ and there has been no spring rain.
 Yet you have had the forehead of a prostitute,
 and you refused to be ashamed.
 [4] From now on, won’t you call out to me,
-‘My Father, you are the friend of my youth!’?
+‘My Father, you are the guide of my youth!’?
 [5] “‘Will he stay angry forever?
 Will he keep it up to the end?’
 Look, you have talked like this,
@@ -98,7 +98,7 @@ to the LORD’s name, to Jerusalem.
 They will no longer follow the stubbornness of their evil heart.
 [18] In those days the house of Judah will walk with the house of Israel.
 Together they will come out of the land of the north
-to the land that I gave to your fathers as an inheritance.
+to the land that I gave to your ancestors as an inheritance.
 
 > **What does this mean?**
 > Verses 12–13: God even calls back the northern kingdom that was destroyed long ago: “Come back, unfaithful Israel … for I am merciful.” Only one thing is needed: to admit your own guilt.
@@ -130,13 +130,13 @@ for you are the LORD our God.
 [23] Truly, the help from the hills,
 the noise on the mountains, is useless.
 Truly, the salvation of Israel is in the LORD our God.
-[24] But the shameful thing has eaten up what our fathers worked for, since our youth:
+[24] But the shameful thing has eaten up what our ancestors worked for, since our youth:
 their flocks and their herds,
 their sons and their daughters.
 [25] Let us lie down in our shame,
 and let our disgrace cover us.
 For we have sinned against the LORD our God,
-we and our fathers,
+we and our ancestors,
 from our youth until this day.
 We have not obeyed the voice of the LORD our God.”
 

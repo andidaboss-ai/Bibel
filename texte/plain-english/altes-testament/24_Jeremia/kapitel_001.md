@@ -23,7 +23,7 @@ the son of Amon, king of Judah,
 in the thirteenth year of his rule.
 [3] It came also in the days of Jehoiakim, the son of Josiah, king of Judah,
 until the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah,
-until Jerusalem was carried away as captives in the fifth month.
+until the people of Jerusalem were carried away as captives in the fifth month.
 [4] The LORD’s word came to me. He said:
 [5] “Before I formed you in the womb, I knew you.
 Before you were born, I made you holy.
@@ -46,7 +46,7 @@ to destroy and to overthrow,
 to build and to plant.”
 
 > **What does this mean?**
-> Verses 1–3: Jeremiah worked for about 40 years: from the 13th year of King Josiah (627 BC) until the destruction of Jerusalem (587 BC).
+> Verses 1–3: Jeremiah worked for about 40 years: from the thirteenth year of King Josiah (627 BC) until the destruction of Jerusalem (587 BC).
 > Verse 5: A wonderful verse: God already knew Jeremiah before he was born. Every person is wanted and known by God, even before birth.
 > Verse 6: Jeremiah resists: “I don’t know how to speak, because I am a child.” Many people feel too small for a big task. Moses also hesitated like this (Exodus 4:10).
 > Verses 7–8: God’s answer: “Don’t say, ‘I am a child.’ … Don’t be afraid of them, for I am with you.” God trusts young people with something too.

@@ -60,7 +60,6 @@ The birds of the sky lived in its branches.
 And every living creature was fed from it.
 [13] “As I lay on my bed, I saw in the visions in my head
 a holy watcher coming down from the sky.
-A watcher is an angel who keeps watch.
 [14] He called out loudly,
 ‘Cut down the tree!
 Cut off its branches!
@@ -91,6 +90,7 @@ for the spirit of the holy gods is in you.”
 
 > **What does this mean?**
 > In his dream, the king sees a huge tree that reaches up to the sky and gives shade and food to all living creatures. Then a “holy watcher,” an angel, calls out that it should be cut down. Only the stump stays, with a band of metal.
+> Verse 13: A watcher is an angel who keeps watch.
 > Verse 16: Suddenly the tree becomes a “him”: The tree is a human being, and he is to be given the heart of an animal.
 > “Seven times” are probably seven years, or simply a complete, long time.
 > Verse 17: That is the theme: Everyone should know “that the Most High rules over the kingdoms of human beings.” God can even make the lowest person a ruler.
@@ -138,7 +138,7 @@ Seven times will pass over you,
 until you know that the Most High rules over the kingdoms of human beings
 and gives them to whomever he wants.
 [26] It was ordered that the stump of the tree with its roots be left.
-That means: Your kingdom will be given back to you
+So your kingdom will be given back to you
 after you learn that Heaven rules.
 [27] So, O king, please accept my advice:
 Stop sinning, and do what is right.
@@ -156,7 +156,7 @@ Then maybe your peace will last longer.”
 ## It comes true (Verses 28–33)
 
 [28] All this happened to King Nebuchadnezzar.
-[29] Twelve months later, he was walking around in the royal palace of Babylon.
+[29] After 12 months, he was walking around in the royal palace of Babylon.
 [30] The king said,
 “Isn’t this great Babylon?
 I have built it as a royal home

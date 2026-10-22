@@ -38,7 +38,7 @@ They have forgotten their resting place.
 [7] All who found them have devoured them.
 Their enemies said, ‘We are not guilty,
 because they have sinned against the LORD,
-the true pasture of righteousness,
+the home of righteousness,
 the LORD, the hope of their ancestors.’
 [8] Flee out of the middle of Babylon!
 Go out of the land of the Chaldeans,
@@ -47,8 +47,8 @@ and be like the male goats that lead the flock.
 and bring them up against Babylon.
 They will take up their positions against her.
 From there she will be captured.
-Their arrows will be like those of a skilled warrior,
-who never comes back empty-handed.
+Their arrows will be like those of a skilled warrior.
+None of them will come back empty.
 [10] Chaldea will be plundered.
 All who plunder her will have their fill,” says the LORD.
 
@@ -66,7 +66,7 @@ All who plunder her will have their fill,” says the LORD.
 
 [11] “You are glad and you rejoice,
 you who plunder my inheritance.
-You frisk about like a young cow threshing grain,
+You jump around like a young cow threshing grain,
 and neigh like stallions.
 [12] So your mother will be deeply ashamed.
 She who gave birth to you will be disgraced.
@@ -93,7 +93,7 @@ and the one who swings the sickle at harvest time.
 For fear of the oppressor’s sword,
 each will return to his own people,
 and each will flee to his own land.
-[17] Israel is a scattered sheep.
+[17] Israel is a hunted sheep.
 The lions have driven him away.
 First the king of Assyria devoured him,
 and now at last Nebuchadnezzar, king of Babylon, has crushed his bones.”
@@ -210,7 +210,7 @@ and they will be plundered!
 and they will dry up!
 For it is a land of carved images,
 and they go mad over their idols.
-[39] So desert animals will live there with hyenas.
+[39] So desert animals will live there with the wolves.
 Ostriches will live there.
 No one will ever live there again.
 No one will settle there for all generations.
@@ -249,7 +249,7 @@ against the strong pasture.
 For I will suddenly make them run away from it,
 and I will appoint over it whoever I choose.
 For who is like me?
-Who can summon me?
+Who can set a time for me?
 What shepherd can stand against me?”
 [45] So hear the plan that the LORD has made against Babylon,
 and what he has decided against the land of the Chaldeans:

@@ -25,7 +25,7 @@ He planted it like a willow tree.
 [6] It grew and became a vine that spread out
 but stayed low.
 Its branches turned toward the eagle,
-and its roots stayed under it.
+and its roots stayed under the eagle.
 So it became a vine.
 It grew branches and sent out shoots.
 [7] “‘“There was also another great eagle
@@ -40,7 +40,7 @@ and be a fine vine.”’
 [9] “Say,
 ‘This is what the Lord GOD says:
 “Will it do well?
-Will the first eagle not pull up its roots
+Will he not pull up its roots
 and cut off its fruit, so that it dries up,
 so that all its fresh new leaves dry up?
 No strong arm and no crowd of people

@@ -55,8 +55,7 @@ For there is no end to the treasure,
 plenty of every kind of precious thing.
 [10] She is empty, bare, and ruined.
 Hearts melt with fear, knees knock together.
-Their bodies tremble,
-and all their faces turn pale.
+Their bodies and faces have turned pale.
 
 > **What does this mean?**
 > Verse 6: Nineveh lay on the Tigris River and had canals and floodgates. When the “gates of the rivers” are opened, the water floods the city. An ancient writer of history reports a flood that helped when the city was conquered. Historians argue about whether it really happened like that.

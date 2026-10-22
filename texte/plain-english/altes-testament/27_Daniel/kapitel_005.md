@@ -5,8 +5,8 @@
 
 ## Belshazzar’s feast (Verses 1–4)
 
-[1] King Belshazzar gave a great feast for a thousand of his nobles.
-He drank wine in front of the thousand.
+[1] King Belshazzar gave a great feast for 1,000 of his nobles.
+He drank wine in front of the 1,000.
 [2] While Belshazzar was tasting the wine,
 he gave an order to bring the gold and silver cups and bowls
 that his father Nebuchadnezzar had taken from the temple in Jerusalem.
@@ -177,7 +177,7 @@ And they announced
 that he would be the third ruler in the kingdom.
 [30] That same night, Belshazzar, the Chaldean king, was killed.
 [31] And Darius the Mede received the kingdom.
-He was about sixty-two years old.
+He was about 62 years old.
 
 > **What does this mean?**
 > The four words are Aramaic names of weights (mina, shekel, half a mina). At the same time, they sound like verbs:

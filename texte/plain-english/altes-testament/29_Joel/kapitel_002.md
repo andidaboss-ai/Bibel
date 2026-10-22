@@ -150,7 +150,7 @@ For he gives you the early rain in the right amount.
 He makes the rain come down for you,
 the early rain and the late rain, as before.
 [24] The threshing floors will be full of wheat.
-The tanks will overflow with new wine and oil.
+The vats will overflow with new wine and oil.
 [25] I will give you back what you lost in the years
 that the swarming locust has eaten,
 the great locust, the grasshopper, and the caterpillar,
@@ -175,7 +175,6 @@ And my people will never again be put to shame.
 [28] “And afterward, this will happen:
 I will pour out my Spirit on all people.
 Your sons and your daughters will prophesy.
-To prophesy means: to speak a message from God.
 Your old men will dream dreams.
 Your young men will see visions.
 [29] In those days, I will pour out my Spirit
@@ -194,7 +193,7 @@ Among those who are left, there will be those whom the LORD calls.”
 
 > **What does this mean?**
 > A note on the numbering: In some Bibles, these verses form their own Chapter 3 (Joel 3:1–5).
-> This is one of the greatest promises in the Bible. Before, God’s Spirit came only on individual people: prophets, kings, judges. Now God says: I will pour out my Spirit “on all people”! The WEB says: “on all flesh.”
+> This is one of the greatest promises in the Bible. Before, God’s Spirit came only on individual people: prophets, kings, judges. Now God says: I will pour out my Spirit “on all people”! The WEB says: “on all flesh.” To prophesy means: to speak a message from God.
 > And on all of them, without any difference:
 > – sons and daughters (men and women),
 > – old and young,

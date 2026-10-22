@@ -10,7 +10,7 @@
 ‘Write all the words that I have spoken to you in a book.
 [3] For look, the days are coming,’ says the LORD,
 ‘when I will turn around the fate of my people Israel and Judah,’ says the LORD.
-‘I will bring them back to the land that I gave to their fathers,
+‘I will bring them back to the land that I gave to their ancestors,
 and they will own it.’”
 
 > **What does this mean?**
@@ -102,8 +102,9 @@ and I will heal your wounds,” says the LORD,
 [18] The LORD says:
 “Look, I will turn around the fate of Jacob’s tents,
 and have compassion on his homes.
-The city will be built again on its own hill of ruins,
-and the palace will stand in its right place.
+The city will be built again on its own hill,
+and people will live in the palace in its own place.
+
 [19] Songs of thanks will come out of them,
 with the sound of people celebrating.
 I will make them many, and they will not be few.

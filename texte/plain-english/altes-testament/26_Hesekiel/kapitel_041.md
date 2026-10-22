@@ -39,7 +39,7 @@ He said to me,
 Each side room was about 7 feet wide.
 The side rooms went all around the temple on every side.
 [6] The side rooms were on three floors, one above the other,
-thirty on each floor.
+30 on each floor.
 They rested on ledges in the wall that belonged to the temple
 for the side rooms all around.
 So they were supported
@@ -80,7 +80,7 @@ He also measured the inner temple
 and the porches of the courtyard,
 
 > **What does this mean?**
-> Around the temple building, on three floors, there are thirty side rooms on each floor, so 90 rooms. They were probably storerooms for temple objects and gifts. Solomon’s temple also had buildings like this along its sides (1 Kings 6:5–10).
+> Around the temple building, on three floors, there are 30 side rooms on each floor, so 90 rooms. They were probably storerooms for temple objects and gifts. Solomon’s temple also had buildings like this along its sides (1 Kings 6:5–10).
 > Verse 6: The beams of the rooms were not to go into the holy temple wall. The wall became thinner step by step toward the top, and the beams rested on the steps. So the temple wall stayed undamaged.
 > Verse 12: Behind the temple, in the west, stands a large building. It does not say what it was used for.
 > Verses 13–15: Everything is exactly 100 cubits long and wide (about 175 feet). The numbers show: The temple is perfectly balanced and harmonious.

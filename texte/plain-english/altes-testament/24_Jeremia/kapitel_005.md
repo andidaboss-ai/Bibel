@@ -49,7 +49,7 @@ Each one neighed after his neighbor’s wife.
 > Verse 1: A famous verse: God says: Search all of Jerusalem for one single person who is righteous and looks for the truth, then I will forgive the whole city. This is a reminder of Abraham, who bargained for Sodom (Genesis 18).
 > Verses 4–5: At first Jeremiah thinks: The simple people don’t know any better. I will go to the educated and powerful. But it is exactly these people who have most ignored God’s commandments.
 > Verse 6: Lion, wolf and leopard are pictures of the enemies who will come.
-> Verses 7–8: There is unfaithfulness toward God, and also real unfaithfulness in marriages. God sees both. Faithfulness in marriage is a high value. If you experience violence or abuse in your marriage, you may get help: Domestic violence, US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> Verses 7–8: There is unfaithfulness toward God, and also real unfaithfulness in marriages. God sees both. Faithfulness in marriage is a high value. If you experience violence or abuse in your marriage, you may get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233.
 > Verse 9: “Revenge” here means that God restores justice. It is not permission for people to take revenge.
 
 ---
@@ -123,7 +123,7 @@ They have turned away and gone off.
 ‘Let’s fear the LORD our God,
 who gives rain, both the autumn rain and the spring rain, at the right time,
 who keeps for us the weeks set for the harvest.’
-[25] “Your sins have turned these things away.
+[25] “Your wrongdoings have turned these things away.
 Your sins have kept good things from you.
 [26] For wicked men are found among my people.
 They watch like bird hunters lying in wait.

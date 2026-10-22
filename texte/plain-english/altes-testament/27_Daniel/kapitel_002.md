@@ -93,7 +93,7 @@ and knowledge to those who have understanding.
 [22] He reveals what is deep and secret.
 He knows what is in the darkness,
 and the light lives with him.
-[23] I thank you and praise you, O God of my fathers.
+[23] I thank you and praise you, O God of my ancestors.
 You have given me wisdom and power.
 And now you have shown me what we asked you for.
 For you have shown us what the king wants to know.”
@@ -164,7 +164,6 @@ and broke them to pieces.
 [35] Then the iron, the clay, the bronze, the silver, and the gold
 were all broken to pieces together.
 They became like chaff on the threshing floors in summer.
-Chaff is the dry husk of grain that the wind blows away.
 The wind carried them away,
 so that no trace of them was found.
 But the stone that struck the statue
@@ -173,6 +172,7 @@ became a great mountain and filled the whole earth.
 > **What does this mean?**
 > The king saw a huge statue made of different metals. From top to bottom, they are less and less valuable (gold, silver, bronze, iron). And at the end it stands on feet of iron and clay, so it is not stable.
 > Then a stone comes, “but not by human hands.” So it is not made by human beings. It smashes the whole statue. And the stone becomes a mountain that fills the whole world.
+> Verse 35: Chaff is the dry husk of grain that the wind blows away.
 
 ---
 
@@ -197,14 +197,13 @@ Like iron that crushes all these things,
 it will break and crush them all.
 [41] You saw the feet and toes,
 partly of potter’s clay and partly of iron.
-That means: It will be a divided kingdom.
+It will be a divided kingdom.
 But some of the strength of iron will be in it,
 because you saw the iron mixed with soft, muddy clay.
 [42] The toes of the feet were partly iron and partly clay.
 In the same way, the kingdom will be partly strong and partly brittle.
-Brittle means: It breaks easily.
 [43] You saw the iron mixed with soft, muddy clay.
-That means: They will mix with other people through marriage.
+They will mix with other people through marriage.
 But they will not hold together,
 just as iron does not mix with clay.
 [44] “In the days of those kings,
@@ -222,6 +221,7 @@ and its meaning can be trusted.”
 
 > **What does this mean?**
 > The statue stands for four world empires that come one after the other. The head of gold is Babylon under Nebuchadnezzar.
+> Verse 42: Brittle means: It breaks easily.
 > Which empires are the others? There are two main explanations:
 > – Many interpreters: Babylon, Media, Persia, Greece (the empire of Alexander the Great and of the kings after him. They joined their families through marriage, but they stayed divided, verse 43).
 > – An old explanation that many people hold (already among Jewish and Christian interpreters in ancient times): Babylon, Media-Persia, Greece, Rome.

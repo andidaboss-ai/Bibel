@@ -14,7 +14,6 @@ because of my people, my own people Israel.
 They scattered them among the nations,
 and they divided up my land.
 [3] They threw lots for my people.
-Throwing lots was a kind of game of chance, a way to decide things.
 They traded a boy for a prostitute.
 They sold a girl for wine
 so that they could drink.
@@ -40,7 +39,7 @@ For the LORD has spoken.”
 > **What does this mean?**
 > A note on the numbering: In some Bibles, this is Chapter 4.
 > Verse 2: The “valley of Jehoshaphat” means “The LORD judges.” It is more a symbolic place than one particular valley: the place where God judges the nations. An old tradition connects it with the Kidron Valley near Jerusalem.
-> Verse 3: A terrible crime: The enemies sold children from Judah as slaves, a boy for a prostitute, a girl for a jug of wine. People, especially children, were treated like cheap goods. God sees this wrong and will judge it.
+> Verse 3: Throwing lots was a kind of game of chance, a way to decide things. A terrible crime: The enemies sold children from Judah as slaves, a boy for a prostitute, a girl for a jug of wine. People, especially children, were treated like cheap goods. God sees this wrong and will judge it.
 > Verse 6: Tyre and Sidon (Phoenician trading cities) sold people from Judah as slaves to Greece.
 > Verse 8: The punishment fits the crime: Whoever sold others as slaves will be sold themselves. This verse describes paying back in the way people thought at that time. It is not permission to make people slaves. Slavery and human trafficking are a serious wrong, then as now. The Bible itself forbids kidnapping people (Exodus 21:16).
 
@@ -65,10 +64,9 @@ For there I will sit
 to judge all the nations around.
 [13] Swing the sickle,
 for the harvest is ripe.
-A sickle is a curved knife for cutting grain.
 Come, trample the grapes,
 for the winepress is full.
-The tanks overflow,
+The vats overflow,
 for their evil is great.”
 [14] Crowds, crowds in the valley of decision!
 For the day of the LORD is near in the valley of decision.
@@ -86,7 +84,7 @@ Strangers will never again march through her.
 
 > **What does this mean?**
 > Verse 10: A remarkable sentence: “Hammer your plows into swords!” That is exactly the opposite of Isaiah 2:4 and Micah 4:3: “They will hammer their swords into plows.” Joel uses the picture with irony: Let the nations come with all their weapons. It will not help them against God. The hope of the Bible remains peace without weapons.
-> Verse 13: The pictures of the harvest and the winepress stand for judgment. Revelation takes them up (Revelation 14:14–20).
+> Verse 13: A sickle is a curved knife for cutting grain. The pictures of the harvest and the winepress stand for judgment. Revelation takes them up (Revelation 14:14–20).
 > Verse 14: “Crowds, crowds in the valley of decision!” Here the fate of the nations is decided.
 > Verse 16: In the middle of the shaking, God is a safe place for his people.
 > Verse 17: “Strangers will never again march through her” means enemy conquerors who had robbed Jerusalem again and again. It does not mean strangers who come in peace. Many prophets say that one day all nations will come to Jerusalem in peace (Isaiah 2:2–3).

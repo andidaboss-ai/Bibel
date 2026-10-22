@@ -16,7 +16,7 @@ Don’t leave out a word.
 [3] Perhaps they will listen,
 and each one will turn back from his evil way.
 Then I will change my mind about the disaster
-which I plan to bring on them because of the evil of their deeds.’
+which I plan to bring on them because of the evil of their deeds.’”
 [4] Tell them, “The LORD says:
 ‘If you will not listen to me,
 and walk in my law which I have set before you,
@@ -75,9 +75,10 @@ and spoke to the whole assembly of the people. They said,
 [18] “Micah the Morashtite prophesied in the days of Hezekiah, king of Judah.
 He spoke to all the people of Judah and said,
 ‘The LORD of Armies says:
-“‘Zion will be plowed like a field,
+“Zion will be plowed like a field,
 and Jerusalem will become heaps of ruins,
-and the mountain of the temple will become like hills covered with forest.’
+and the mountain of the temple will become like hills covered with forest.”’
+
 [19] Did Hezekiah, king of Judah, and all Judah put him to death?
 Didn’t he fear the LORD and ask the LORD for mercy?
 And the LORD changed his mind about the disaster

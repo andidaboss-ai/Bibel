@@ -71,7 +71,7 @@ but his hand is still stretched out.
 > **What does this mean?**
 > After the great hope, Isaiah returns to the hard present. Now it is about the northern kingdom of Israel (Ephraim, Samaria).
 > Verse 10: After a disaster, people proudly say: Never mind! We’ll build everything back even more beautiful! They do not ask why it happened, and they do not turn back.
-> The sentence “His hand is still stretched out” appears four times in this chapter like a chorus. The judgment is not over yet, because the people do not turn back.
+> The sentence “His hand is still stretched out” comes back again and again like a chorus: three times in this chapter and once more in 10:4. The judgment is not over yet, because the people do not turn back.
 
 ---
 

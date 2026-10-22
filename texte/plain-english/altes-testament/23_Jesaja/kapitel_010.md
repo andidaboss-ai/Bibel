@@ -122,7 +122,7 @@ and his yoke from your neck,
 and the yoke will be broken because of the anointing oil.
 
 > **What does this mean?**
-> Verses 20–21: “A remnant will return”: That is exactly the name of Isaiah’s son “Shear-Jashub” (chapter 7:3). Only a few will be left. But these few will rely completely on God.
+> Verses 20–21: “A remnant will return”: That is exactly the name of Isaiah’s son “Shearjashub” (Isaiah 7:3). Only a few will be left. But these few will rely completely on God.
 > Verse 21: “Mighty God” is the same title as in chapter 9:6.
 > Verses 24–26: A comfort for Jerusalem: Don’t be afraid of Assyria! Soon it will be over. God will set you free as he did back then from Egypt and from the Midianites (Judges 7:25).
 > Verse 27: The heavy yoke will be broken. “Because of the anointing oil” is hard to understand in Hebrew. Perhaps it means the anointed king from the house of David, perhaps it is a picture of strength and plenty.
@@ -155,4 +155,4 @@ and Lebanon will fall by the Mighty One.
 > **What does this mean?**
 > An exciting report like a live broadcast: The enemy army marches toward Jerusalem from the north, town by town, closer and closer. The villages flee in panic. Finally the enemy stands at Nob, right in front of Jerusalem, and shakes his fist.
 > Verses 33–34: But then the turn: God himself cuts down this mighty “forest” like a lumberjack. The proud enemy falls.
-> The next chapter continues: From the cut-down stump of Jesse, a new shoot grows (chapter 11:1).
+> The next chapter continues: From the cut-down stump of Jesse, a new shoot grows (Isaiah 11:1).

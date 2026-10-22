@@ -14,7 +14,7 @@ They make metal idols for themselves out of their silver,
 idols that they thought up themselves,
 all of them made by craftsmen.
 They say about them,
-‘They offer human sacrifices and kiss the calves.’
+“They offer human sacrifices and kiss the calves.”
 [3] So they will be like the morning mist,
 like the dew that disappears early,
 like the chaff that a whirlwind blows off the threshing floor,
@@ -64,7 +64,7 @@ And where are your judges?
 You said about them,
 ‘Give me a king and leaders.’
 [11] I gave you a king in my anger,
-and I took him away in my fury.
+and I took him away in my anger.
 [12] The guilt of Ephraim is stored up.
 His sin is kept on record.
 [13] Pains like those of a woman giving birth will come on him.
@@ -80,8 +80,7 @@ he does not come out of the womb.
 
 ## Death, where are your plagues? (Verses 14–16)
 
-[14] “I will pay the price to free them from the power of Sheol.
-Sheol is the world of the dead.
+[14] “I will pay the price to free them from the power of Sheol (the world of the dead).
 I will set them free from death!
 Death, where are your plagues?
 Sheol, where is your destruction?

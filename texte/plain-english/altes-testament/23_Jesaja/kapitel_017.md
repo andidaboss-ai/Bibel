@@ -77,4 +77,4 @@ and the lot of those who rob us.
 
 > **What does this mean?**
 > The enemy peoples rage against Jerusalem like a wild sea. But one word from God is enough, and they blow away like chaff in the wind.
-> Verse 14: Fear in the evening, and in the morning the enemy has disappeared. That is exactly what happened later, when the Assyrian army in front of Jerusalem was gone overnight (chapter 37:36).
+> Verse 14: Fear in the evening, and in the morning the enemy has disappeared. That is exactly what happened later, when the Assyrian army in front of Jerusalem was gone overnight (Isaiah 37:36).

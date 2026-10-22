@@ -38,7 +38,8 @@ They spoke of war, disaster and disease.
 [9] But a prophet may prophesy peace.
 When his word comes true,
 then people will know that the LORD has really sent him.”
-[10] Then the prophet Hananiah took the wooden bar off the neck of the prophet Jeremiah.
+[10] Then the prophet Hananiah took the bar off the neck
+ of the prophet Jeremiah.
 He broke it.
 [11] Hananiah spoke in front of all the people.
 He said, “This is what the LORD says:

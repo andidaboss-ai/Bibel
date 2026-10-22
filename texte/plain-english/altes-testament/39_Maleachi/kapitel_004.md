@@ -41,7 +41,7 @@ before the great and terrible day of the LORD comes.
 [6] He will turn the hearts of the fathers to their children
 and the hearts of the children to their fathers.
 Otherwise I would come
-and strike the land with a curse.”
+and strike the earth with a curse.”
 
 > **What does this mean?**
 > These are the last words of the Old Testament (in the Christian order):
@@ -75,7 +75,7 @@ and strike the land with a curse.”
 
 > **What does this mean?**
 > **In the beginning:** God creates the world and human beings in his image, male and female (Genesis 1–2). But people turn away from God, and violence and suffering come into the world.
-> **Abraham and the fathers of Israel:** God calls Abraham and promises: “Through you, all the families of the earth will be blessed” (Genesis 12:3). He leads Isaac, Jacob, and Joseph.
+> **Abraham and the ancestors of Israel:** God calls Abraham and promises: “Through you, all the families of the earth will be blessed” (Genesis 12:3). He leads Isaac, Jacob, and Joseph.
 > **Freedom:** God sets his people free from slavery in Egypt. At Mount Sinai he gives the Ten Commandments: rules for a life in freedom with God and with each other.
 > **In the promised land:** Under Joshua, the judges, and the kings Saul, David, and Solomon, Israel lives in the land. There are good times and bad times, faithfulness and unfaithfulness.
 > **The prophets:** Again and again God sends prophets. They call people to turn back, stand up for the poor, and give hope: Elijah, Isaiah, Jeremiah, Ezekiel, Amos, Hosea, Micah, and many others.

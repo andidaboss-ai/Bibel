@@ -76,4 +76,4 @@ A terebinth is a large tree.
 > Verses 9–10: A very hard task: Isaiah is to preach, but the people will not listen. It sounds as if God wants them not to turn back.
 > Many interpreters understand it like this: God tells Isaiah in advance how the people will react. His preaching will not soften their hearts; instead, they will become even harder. Jesus quotes these words when many people do not want to understand him (Matthew 13:13–15).
 > Verse 11: “Lord, how long?” The answer is hard: until the land is destroyed and the people are carried away.
-> Verse 13: But at the end, a sign of hope: When a tree is cut down, a stump remains. And something can grow out of a stump again. This “holy seed” is the remnant from which God will make a new beginning (compare chapter 11:1).
+> Verse 13: But at the end, a sign of hope: When a tree is cut down, a stump remains. And something can grow out of a stump again. This “holy seed” is the remnant from which God will make a new beginning (compare 11:1).

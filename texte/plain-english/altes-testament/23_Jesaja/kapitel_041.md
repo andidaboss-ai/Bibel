@@ -95,7 +95,7 @@ I, the God of Israel, will not abandon them.
 and springs in the middle of the valleys.
 I will make the wilderness a pool of water
 and the dry land springs of water.
-[19] I will put cedar, acacia, myrtle and olive trees in the wilderness.
+[19] I will put cedar, acacia, myrtle and oil trees in the wilderness.
 I will set cypress, pine and box trees together in the desert,
 [20] so that they may see, know, consider and understand together
 that the hand of the LORD has done this

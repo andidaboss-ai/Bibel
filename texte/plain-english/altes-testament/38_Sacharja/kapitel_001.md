@@ -103,7 +103,7 @@ and will again choose Jerusalem.”’”
 > Verse 7: This was about the middle of February 519 BC. In this night Zechariah has eight visions.
 > Verses 8–11: Riders on horses of different colors. They are like scouts that God has sent into the whole world. Their report: “The whole earth is at rest and in peace.” After some rebellions, the Persian Empire had just found peace again.
 > But for Jerusalem this “peace” is not good news: The nations live without a care, while Jerusalem still lies in ruins.
-> Verse 12: The angel prays for Jerusalem: “How long?” The “seventy years” are a reminder of Jeremiah’s prophecy (Jeremiah 25:11; 29:10). From the burning of the first temple to its rebuilding, it really was about seventy years (587/586 to 515 BC).
+> Verse 12: The angel prays for Jerusalem: “How long?” The “70 years” are a reminder of Jeremiah’s prophecy (Jeremiah 25:11; 29:10). From the burning of the first temple to its rebuilding, it really was about 70 years (587/586 to 515 BC).
 > Verses 13–17: God answers with comforting words: I love Jerusalem with a deep and passionate love. I am angry with the nations that went too far when they punished my people. I am coming back with mercy. My temple will be built. The city will be measured and built again.
 
 ---

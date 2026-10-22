@@ -7,19 +7,19 @@
 
 [1] The LORD said to me,
 “Take a large tablet and write on it in ordinary letters:
-‘For Maher-Shalal-Hash-Baz.’
+‘For Maher Shalal Hash Baz.’
 [2] And I will take reliable witnesses for myself to testify:
 Uriah the priest, and Zechariah the son of Jeberechiah.”
 [3] I went to the prophetess,
 and she became pregnant and gave birth to a son.
 Then the LORD said to me,
-“Name him ‘Maher-Shalal-Hash-Baz.’
+“Name him ‘Maher Shalal Hash Baz.’
 [4] For before the child knows how to say ‘My father’ and ‘My mother,’
 the riches of Damascus and the plunder of Samaria
 will be carried away by the king of Assyria.”
 
 > **What does this mean?**
-> Isaiah again has a son with a name that carries a message. “Maher-Shalal-Hash-Baz” means: “Quick to the plunder, swift to the spoil.”
+> Isaiah again has a son with a name that carries a message. “Maher Shalal Hash Baz” means: “Quick to the plunder, swift to the spoil.”
 > The message: Even before the child can say “Daddy” and “Mommy,” that is, in about a year, the two enemies, Syria (Damascus) and the northern kingdom of Israel (Samaria), will be robbed by Assyria. That is what happened in the year 732 BC.
 > Verse 3: “The prophetess” is Isaiah’s wife. She too was a prophet.
 
@@ -30,7 +30,7 @@ will be carried away by the king of Assyria.”
 [5] The LORD spoke to me again and said,
 [6] “Because this people has rejected the gently flowing waters of Shiloah
 and rejoices over Rezin and the son of Remaliah,
-[7] so, look, the Lord is bringing on them
+[7] so the Lord is bringing on them
 the mighty floodwaters of the River:
 the king of Assyria and all his glory.
 It will rise over all its channels
@@ -60,7 +60,7 @@ for God is with us.”
 [11] For this is what the LORD said to me when his hand took strong hold of me,
 and he warned me not to walk in the way of this people. He said,
 [12] “Don’t call everything a conspiracy that this people calls a conspiracy.
-Don’t fear what they fear,
+Don’t fear their threats,
 and don’t let yourselves be terrified.
 [13] The LORD of Armies is the one you must treat as holy.
 He is the one you must fear.
@@ -81,12 +81,12 @@ be snared, and be caught.”
 
 ## Waiting for the LORD (Verses 16–22)
 
-[16] Tie up the testimony!
+[16] Tie up the covenant!
 Seal the teaching among my disciples!
 [17] I will wait for the LORD,
 who is hiding his face from the house of Jacob,
 and I will look for him.
-[18] Look, I and the children whom the LORD has given me
+[18] I and the children whom the LORD has given me
 are signs and wonders in Israel
 from the LORD of Armies, who lives on Mount Zion.
 [19] When they say to you,
@@ -94,7 +94,7 @@ from the LORD of Armies, who lives on Mount Zion.
 who whisper and mutter,”
 shouldn’t a people ask their God?
 Should they ask the dead on behalf of the living?
-[20] Turn to the teaching and to the testimony!
+[20] Turn to the teaching and to the covenant!
 If they do not speak according to this word,
 then there is no morning for them.
 [21] They will wander through the land, very troubled and hungry.

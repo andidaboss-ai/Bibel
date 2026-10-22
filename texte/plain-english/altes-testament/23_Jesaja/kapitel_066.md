@@ -17,7 +17,7 @@ the one who is poor and crushed in spirit
 and who trembles at my word.
 [3] Whoever kills an ox is like someone who kills a person.
 Whoever sacrifices a lamb is like someone who breaks a dog’s neck.
-Whoever brings a grain offering is like someone who offers pig’s blood.
+Whoever brings an offering is like someone who offers pig’s blood.
 Whoever burns incense is like someone who blesses an idol.
 Yes, they have chosen their own ways,
 and their soul delights in their disgusting things.

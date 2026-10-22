@@ -36,7 +36,7 @@ whom I have formed, yes, whom I have made.’”
 > **What does this mean?**
 > Verse 1 is one of the best-known verses in the Bible: “Do not be afraid, for I have redeemed you. I have called you by your name. You are mine.” Many people are given it as a Bible verse to take with them at their baptism or confirmation. God knows every person by name.
 > Verse 2: God does not promise that there will be no dangers, no water and no fire. But he promises: I am with you, right in the middle of it.
-> Verses 3–4: God says to his people: You are so precious to me that I would give up whole countries for you. This is the language of love. The WEB has “Ethiopia” here. It means Cush, the land south of Egypt. Later, the Persians did in fact conquer Egypt after they had set Israel free. This is not about other nations being worth less, but about how valuable Israel is to God.
+> Verses 3–4: God says to his people: You are so precious to me that I would give up whole countries for you. This is the language of love. The WEB, our English source text, has “Ethiopia” here. It means Cush, the land south of Egypt. Later, the Persians did in fact conquer Egypt after they had set Israel free. This is not about other nations being worth less, but about how valuable Israel is to God.
 > Verses 5–7: God will bring his children home from every direction, expressly sons and daughters.
 
 ---
@@ -88,7 +88,7 @@ the army and the warrior
 (they lie down together, they will not rise again;
 they are snuffed out, put out like a wick), says:
 [18] “Do not remember the former things,
-and do not dwell on the things of the past.
+and do not keep thinking about the things of the past.
 [19] Look, I am doing a new thing.
 Now it springs up. Don’t you see it?
 I will make a way in the wilderness

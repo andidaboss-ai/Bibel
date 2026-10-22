@@ -62,13 +62,12 @@ and serve him shoulder to shoulder.
 [10] From beyond the rivers of Cush,
 my worshipers, the daughter of my scattered people,
 will bring me my offering.
-“Daughter” here is a picture word for a people.
 
 > **What does this mean?**
 > Verse 8: Once more the judgment on the whole earth.
 > Verse 9: But then the great turning point! The goal of the judgment is not destruction but cleansing. God makes the lips of the nations “pure.” They will all call on God together, “shoulder to shoulder,” like people who carry a heavy load together.
 > This is a reminder of the tower of Babel (Genesis 11): There the languages were mixed up, and the people were scattered. Here the nations come together again.
-> Verse 10: Even from far-away Cush, south of Egypt, people will come to worship God. In the New Testament, a man from Cush (Ethiopia), a court official, is baptized (Acts 8:26–39).
+> Verse 10: “Daughter” here is a picture word for a people. Even from far-away Cush, south of Egypt, people will come to worship God. In the New Testament, a man from Cush (Ethiopia), a court official, is baptized (Acts 8:26–39).
 
 ---
 

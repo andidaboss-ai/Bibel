@@ -48,7 +48,6 @@ It will burn up the palaces of Ben Hadad.
 [5] I will break the bar on the gate of Damascus.
 I will cut off the people who live in the valley of Aven,
 and the one who holds the scepter in the house of Eden.
-A scepter is a staff that a king holds.
 And the people of Syria will be taken away as prisoners to Kir,”
 says the LORD.
 
@@ -57,6 +56,7 @@ says the LORD.
 > “Three times, yes, four times” is a typical way of speaking. It means: The measure is more than full.
 > Damascus was the capital of Aram (Syria). Hazael and Ben Hadad were kings of Aram.
 > The crime: They “threshed Gilead with threshing tools made of iron.” Gilead is an area east of the Jordan. A threshing tool was a heavy board with iron spikes. People used it to thresh grain. This is a picture for unbelievable cruelty in war against people.
+> Verse 5: A scepter is a staff that a king holds.
 
 ---
 
