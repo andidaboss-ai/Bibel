@@ -31,7 +31,7 @@ When you have found him, bring me word,
 so that I can also come and worship him.”
 
 > **What does this mean?**
-> Verse 1: Herod the Great was king over Judea by the favor of Rome. He died in the year 4 BC. So Jesus was born a little before the year “0.” (Our calendar was only fixed in the 6th century, and at that time people miscalculated by a few years.)
+> Verse 1: Herod the Great was king over Judea by the favor of Rome. He died in the year 4 BC. So Jesus was born a few years before the start of our calendar. (Our calendar was only fixed in the 6th century, and at that time people miscalculated by a few years.)
 > The “wise men” (in Greek “magoi”) were probably star readers and scholars from Persia or Babylonia. The Bible does not say that there were three of them or that they were kings. Later tradition concluded that from the three gifts.
 > Important: The first people who worship Jesus are people from foreign nations. This fits with the women from foreign peoples in the family tree (Chapter 1). Jesus came for all nations.
 > Verse 2: We do not know exactly what the “star” was. Some think of a special position of the planets (Jupiter and Saturn in the year 7 BC), of a comet, or of a miraculous sign.
@@ -105,7 +105,7 @@ from two years old and under,
 according to the exact time he had learned from the wise men.
 [17] Then what the prophet Jeremiah had said came true:
 [18] “A voice was heard in Ramah,
-lamentation, weeping and great mourning.
+lamentation, weeping, and great mourning.
 Rachel is weeping for her children
 and will not be comforted,
 because they are no more.”
@@ -114,7 +114,7 @@ because they are no more.”
 > A terrible crime: Herod has all the little boys in Bethlehem killed. Bethlehem was a small place; scholars estimate that there were perhaps 10 to 30 children. Other sources do not report it, but it fits with what we know about Herod’s cruelty.
 > Churches remember this on December 28 (the Feast of the Holy Innocents).
 > Verse 18: Matthew quotes Jeremiah 31:15. Rachel was Jacob’s favorite wife and the “mother” of the people. According to tradition, her grave was near Bethlehem. She weeps for her children. The Bible does not hide the suffering. It lets the pain and the lament stand.
-> For today: Even today children suffer from violence, war and the abuse of power. God is on their side. If you are a child or teenager and you experience violence: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> For today: Even today children suffer from violence, war, and the abuse of power. God is on their side. If you are a child or teenager and you experience violence: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -140,6 +140,6 @@ He will be called a Nazarene.
 
 > **What does this mean?**
 > Verses 19–21: After Herod’s death the family can return.
-> Verse 22: Archelaus, a son of Herod, was just as cruel as his father. The Romans removed him after about ten years. That is why Joseph moves to Galilee, in the north, where another son of Herod ruled.
+> Verse 22: Archelaus, a son of Herod, was just as cruel as his father. The Romans removed him after about 10 years. That is why Joseph moves to Galilee, in the north, where another son of Herod ruled.
 > Verse 23: Nazareth was a small, unimportant village. It is not mentioned in the Old Testament. “He will be called a Nazarene” is not found word for word anywhere in the prophets. Matthew also says “the prophets” (plural). Perhaps he is thinking of a play on words with the Hebrew word “netzer,” which means “branch” (Isaiah 11:1): Jesus is the branch from the root of Jesse. Others think of the “Nazirites,” people who were set apart for God in a special way (Judges 13:5).
 > So Jesus grows up in a small village, far from the capital city. He will be called “Jesus of Nazareth.”

@@ -41,7 +41,7 @@ says the LORD of Armies.
 says the LORD of Armies.”
 
 > **What does this mean?**
-> Verse 1: This was about the middle of October 520 BC, during the Feast of Tents.
+> Verse 1: This was about the middle of October 520 BC, during the Feast of Booths.
 > Verse 3: Some old people had still seen Solomon’s first temple, before it was destroyed 66 years earlier. Compared with its splendor, the new building looked poor. Many were disappointed (compare Ezra 3:12).
 > Verse 5: A covenant is a binding agreement.
 > Verses 4–5: God encourages them three times: “Be strong!” And: “I am with you. My Spirit is among you. Don’t be afraid!” What matters is not how splendid the building is, but that God is there.

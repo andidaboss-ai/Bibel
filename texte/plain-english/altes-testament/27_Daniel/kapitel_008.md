@@ -80,7 +80,7 @@ How long will it be about the daily burnt offering
 and the rebellion that causes ruin?
 How long will the holy place and the army be trampled underfoot?”
 [14] He said to me,
-“For two thousand three hundred evenings and mornings.
+“For 2,300 evenings and mornings.
 Then the holy place will be made clean again.”
 
 > **What does this mean?**
@@ -118,7 +118,7 @@ They are the kings of Media and Persia.
 [21] The hairy male goat is the king of Greece.
 The great horn between his eyes is the first king.
 [22] The horn was broken, and four horns grew up in its place.
-That means: Four kingdoms will rise from his nation,
+Four kingdoms will rise from his nation,
 but they will not have his power.
 [23] “In the last part of their rule,
 when the wrongdoers have become as bad as they can be,
@@ -139,7 +139,6 @@ and not by any human hand.
 [26] “The vision about the evenings and the mornings
 that has been told to you is true.
 But seal up the vision.
-That means: Keep it secret.
 For it is about a time many days from now.”
 [27] I, Daniel, fainted
 and was sick for several days.
@@ -153,4 +152,5 @@ but no one understood it.
 > Verse 17: Gabriel calls Daniel “son of man,” just as God called Ezekiel.
 > Verses 23–25: The king with “a fierce face” is again the cruel ruler (Antiochus IV). He is clever, deceitful, and violent. He even attacks God (“the Prince of princes”).
 > Verse 25: “He will be broken, and not by any human hand.” Antiochus IV died of an illness in the year 164 BC, not in battle.
+> Verse 26: “Seal up the vision” means: Keep it secret.
 > Verse 27: The vision is so heavy that Daniel becomes sick. But then he gets up and goes back to his work. Faith also means to keep doing your daily work faithfully, even when you have heavy thoughts.

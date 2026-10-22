@@ -40,8 +40,6 @@ It will burn it up,
 and there will be no one in Bethel to put it out.
 [7] You turn justice into wormwood.
 You throw righteousness down to the ground!
-Wormwood is a very bitter plant.
-Righteousness means: doing what is right.
 [8] Seek him who made the Pleiades and Orion.
 He turns the shadow of death into morning.
 He makes the day dark as night.
@@ -136,7 +134,7 @@ Very dark, with no brightness in it?
 
 ## I hate your feasts (Verses 21–27)
 
-[21] I hate your feasts. I despise them.
+[21] “I hate your feasts. I despise them.
 I cannot stand your holy gatherings.
 [22] Yes, even if you offer me your burnt offerings and grain offerings,
 I will not accept them.
@@ -146,7 +144,7 @@ I will not listen to the music of your harps.
 [24] But let justice roll on like rivers,
 and righteousness like a mighty stream.
 [25] “House of Israel, did you bring me sacrifices and offerings
-during the forty years in the wilderness?
+during the 40 years in the wilderness?
 [26] You also carried the tent of your king
 and the stand for your idols,
 the star of your god,
