@@ -6,7 +6,7 @@
 ## Before we begin: The second letter to Timothy
 
 This letter is like a farewell letter. Paul is in prison in Rome (1:17). He expects to be executed soon (4:6). Many have left him. Only Luke is still with him (4:11).
-Paul writes to Timothy, his *beloved child* in faith. He encourages him to stay faithful, even when it gets hard. And he asks him to come to him soon.
+Paul writes to Timothy, his *dear child* in faith. He encourages him to stay faithful, even when it gets hard. And he asks him to come to him soon.
 As with the first letter to Timothy, many scholars think that a student of Paul wrote the letter, in Paul’s spirit. Others consider Paul himself to be the author. This letter in particular contains many personal details.
 The second letter to Timothy has 4 chapters.
 
@@ -15,11 +15,11 @@ The second letter to Timothy has 4 chapters.
 ## Greeting (Verses 1–2)
 
 [1] Paul,
-an apostle of Christ Jesus through the will of God,
+an apostle of Jesus Christ through the will of God,
 according to the promise of the life
 which is in Christ Jesus,
 [2] writes to Timothy,
-his beloved child:
+his dear child:
 Grace,
 mercy
 and peace
@@ -34,7 +34,7 @@ and from Christ Jesus our Lord.
 ## Thanks and encouragement (Verses 3–7)
 
 [3] I thank God,
-whom I serve as my forefathers did,
+whom I serve as my ancestors did,
 with a pure conscience.
 Without ceasing I remember you in my prayers,
 night and day.
@@ -58,7 +58,7 @@ love
 and self-control.
 
 > **What does this mean?**
-> Verse 3: “As my forefathers did”: Paul sees himself in the tradition of his Jewish ancestors. He serves the same God as they did.
+> Verse 3: “As my ancestors did”: Paul sees himself in the tradition of his Jewish ancestors. He serves the same God as they did.
 > Verse 4: “Your tears”: Probably at their last farewell. Friendship and tears are part of faith.
 > Verse 5: Faith was passed on in the family, from grandmother Lois to mother Eunice and to Timothy. His mother was Jewish (Acts 16:1). Women passed on the faith.
 > Verse 6: “Stir up”: like a fire that is fanned again. Gifts can fall asleep if they are not used.
@@ -72,7 +72,7 @@ and self-control.
 [8] So don’t be ashamed of the testimony of our Lord,
 nor of me,
 his prisoner.
-But suffer hardship with me for the Good News,
+But endure hardship for the Good News,
 by the power of God.
 [9] He saved us
 and called us with a holy calling,

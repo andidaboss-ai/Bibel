@@ -13,7 +13,7 @@ that is in Christ Jesus.
 entrust to faithful people
 who will be able
 to teach others also.
-[3] So endure hardship with me
+[3] So endure hardship
 as a good soldier of Christ Jesus.
 [4] No soldier on duty
 gets tangled up in the affairs of everyday life.
@@ -27,7 +27,7 @@ who works hard
 should be the first to get a share of the crops.
 [7] Think about
 what I am saying.
-The Lord will give you understanding in all things.
+May the Lord give you understanding in all things.
 
 > **What does this mean?**
 > Verse 2: This is how faith is passed on: from Paul to Timothy, from Timothy to other faithful people, and from them on to others. To this day.
@@ -97,7 +97,7 @@ who are his.”
 And:
 “Let every one
 who names the name of the Lord
-depart from unrighteousness.”
+turn away from doing wrong.”
 [20] In a large house there are not only vessels of gold and silver,
 but also of wood and clay.
 Some are for honorable use,
@@ -114,7 +114,7 @@ prepared for every good work.
 > Verse 14: Arguing about words helps no one. It only does harm.
 > Verse 15: Whoever explains God’s word should do it carefully and honestly, like a good craftsman.
 > Verse 18: Hymenaeus and Philetus taught: The resurrection has already happened, but only spiritually. In this way they denied the hope of a future resurrection.
-> Verse 19: The first sentence recalls Numbers 16:5. There Moses says: *In the morning the LORD will show who are his.* God knows his own, even when people are wrong.
+> Verse 19: The first sentence recalls Numbers 16:5. There Moses says: “In the morning the LORD will show who belongs to him.” God knows his own, even when people are wrong.
 > Verses 20–21: A picture from the household: There are valuable dishes and simple ones. But every person can become a “vessel” that God can use.
 
 ---
@@ -147,6 +147,7 @@ to do his will.
 
 > **What does this mean?**
 > Repentance means: turning around, changing your heart and life.
+> Righteousness means: living right before God.
 > Verse 22: “Youthful lusts” probably doesn’t mean only sexual desires, but also impatience, love of quarreling and ambition.
 > Verses 24–25: Important advice for everyone who has responsibility in the church: Don’t quarrel, but be gentle, patient and kind, even toward opponents.
 > Verses 25–26: The goal is not to defeat the other person, but to help them find the truth. God gives repentance, not pressure.
