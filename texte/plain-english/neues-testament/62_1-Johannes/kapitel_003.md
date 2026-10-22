@@ -76,7 +76,7 @@ who doesn’t love his brother.
 > Verse 7: Righteous means: living right before God.
 > Verse 8: Jesus came to defeat evil.
 > Verse 9: “God’s seed” is a picture: God has put something of his life into people. It grows and changes them.
-> Verse 10: The measure is simple: righteousness and love. That is how you recognize who belongs to God, not by pious words.
+> Verse 10: The measure is simple: righteousness and love. That is how you recognize who belongs to God, not by words that only sound religious.
 
 ---
 

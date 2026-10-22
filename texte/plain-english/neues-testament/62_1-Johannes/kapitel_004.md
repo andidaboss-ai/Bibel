@@ -32,7 +32,7 @@ This is how we can tell the spirit of truth
 from the spirit of error.
 
 > **What does this mean?**
-> Verse 1: Not everything that sounds godly comes from God. Christians are to test and not believe everything. That applies today too, for example with preachers who frighten people or want money.
+> Verse 1: Not everything that sounds religious comes from God. Christians are to test and not believe everything. That applies today too, for example with preachers who frighten people or want money.
 > Verses 2–3: The test in the letter is: Does someone believe that Jesus really became a human being? The false teachers thought that Jesus only looked like a human being.
 > Verse 3: On the word “Antichrist” see the note in chapter 2. It is about false teaching in the church, not about a people or a religion.
 > Verse 4: An encouraging sentence: God in you is stronger than all evil in the world.
@@ -48,7 +48,7 @@ and knows God.
 [8] Whoever does not love does not know God,
 because God is love.
 [9] This is how God showed his love among us:
-God sent his one and only Son into the world,
+God sent his only Son into the world,
 so that we could live through him.
 [10] This is what love is:
 It is not that we loved God.

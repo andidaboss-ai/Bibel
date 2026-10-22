@@ -1,5 +1,5 @@
 # Luke – Chapter 8
-### He who has ears to hear, let him hear
+### Whoever has ears to hear should listen
 
 ---
 

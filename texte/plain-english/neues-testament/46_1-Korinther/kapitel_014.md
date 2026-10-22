@@ -134,7 +134,7 @@ But prophecy is a sign,
 not for unbelievers,
 but for those
 who believe.
-[23] So if the whole assembly comes together
+[23] So if the whole church comes together
 and all speak in other languages,
 and outsiders or unbelievers come in,
 won’t they say

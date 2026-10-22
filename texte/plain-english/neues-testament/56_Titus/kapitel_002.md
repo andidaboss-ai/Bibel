@@ -5,16 +5,17 @@
 
 ## Advice for old and young (Verses 1–8)
 
-[1] But you, say
-what fits sound teaching.
-[2] The older men are to be sober,
-respectable,
+[1] But as for you, say the things
+that fit sound teaching.
+[2] The older men are to be moderate,
 sensible,
+clear-minded,
 sound in faith,
 in love
 and in perseverance.
-[3] In the same way, the older women are to behave
-as is fitting for saints.
+[3] In the same way, the older women are to be
+reverent in how they behave.
+That means: they show deep respect for God.
 They must not be slanderers
 and not be enslaved to much wine.
 They are to be teachers of that which is good,
@@ -25,8 +26,8 @@ and to love their children,
 pure,
 workers at home,
 kind
-and in subjection to their own husbands,
-that God’s word may not be blasphemed.
+and submit to their own husbands,
+so that no one speaks evil of God’s word.
 [6] In the same way, urge the younger men
 to be sensible.
 [7] In all things show yourself an example of good works.
@@ -43,7 +44,7 @@ because he has nothing bad to say about us.
 > **What does this mean?**
 > Verses 2–6: There is advice for each group: older men, older women, young women and young men. All are to be “sensible.”
 > Verse 3: Older women are to be “teachers of that which is good.” Women had an important task as teachers of other women.
-> Verses 4–5: These roles reflect the family order of that time. The reason is given: “that God’s word may not be blasphemed.” The young church did not want to give offense in its surroundings.
+> Verses 4–5: These roles reflect the family order of that time. The reason is given: “so that no one speaks evil of God’s word.” The young church did not want to give offense in its surroundings.
 > Today many Christians understand marriage as a partnership of two people with equal rights. Others hold on to a special responsibility of the husband. All stress: It is about love, not about power.
 > Very important: These verses give no one the right to rule over their spouse or to use violence. Violence in marriage is a serious wrong and a crime. You can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Men can also call the Men’s Advice Line at 0808 801 0327. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
@@ -52,7 +53,7 @@ because he has nothing bad to say about us.
 ## A word to the slaves (Verses 9–10)
 
 [9] Urge servants
-to be in subjection to their own masters.
+to submit to their own masters.
 They are to please them in all things,
 not talk back,
 [10] not steal,

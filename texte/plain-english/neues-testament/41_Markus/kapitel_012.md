@@ -248,7 +248,7 @@ He watched
 how the people put money into them.
 Many rich people put in a lot.
 [42] Then a poor widow came.
-She put in two small copper coins.
+She put in two small brass coins.
 Together they were worth one quadrans.
 [43] Jesus called his disciples to him.
 He said to them,

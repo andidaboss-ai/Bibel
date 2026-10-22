@@ -51,7 +51,7 @@ It endures all things.
 > Many Christians read these verses and think of Jesus: That is how he lived.
 > This text is read very often at weddings. But Paul first wrote it for a church that was full of quarrels.
 > Verse 6: Love is not happy about what is wrong. It stands on the side of the truth.
-> Important about verse 7: “It endures all things” doesn’t mean that you have to put up with violence, abuse or humiliation. Love protects and stands up against wrong (verse 6). If you experience violence, you may protect yourself and get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247; men can also call the Men’s Advice Line at 0808 801 0327. Police: your local emergency number (911 in the US, 999 in the UK).
+> Important about verse 7: “It endures all things” doesn’t mean that you have to put up with violence, abuse or humiliation. Love protects and stands up against wrong (verse 6). If you experience violence, you may protect yourself and get help. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

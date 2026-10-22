@@ -62,24 +62,24 @@ will be lifted up.”
 
 ---
 
-## The woes (Verses 13–22)
+## “How terrible it will be for you” (Verses 13–22)
 
-[13] “Woe to you, scribes and Pharisees, you hypocrites!
+[13] “How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you eat up widows’ houses
 and make long prayers for show.
 That is why you will receive a harsher judgment.
-[14] But woe to you, scribes and Pharisees, you hypocrites!
+[14] But how terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you shut the Kingdom of Heaven in people’s faces.
 You don’t go in yourselves,
 and you don’t let those who want to go in
 enter.
-[15] Woe to you, scribes and Pharisees, you hypocrites!
+[15] How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you travel over sea and land
 to win a single person over to your faith.
 And when he has become one,
 you make him a son of Gehenna,
 twice as bad as yourselves.
-[16] Woe to you, you blind guides!
+[16] How terrible it will be for you, you blind guides!
 You say,
 ‘If anyone swears by the temple,
 it means nothing.
@@ -110,10 +110,10 @@ swears by the throne of God
 and by him who sits on it.”
 
 > **What does this mean?**
-> “Woe” is a cry of lament, as the prophets of Israel often used it (for example Isaiah 5:8–23). It is a serious warning, but also a lament full of pain.
-> Verses 13 and 14: The verse numbering differs in Bibles here. The woe about “widows’ houses” is missing in many old manuscripts. Something similar is found in Mark 12:40 and Luke 20:47. In the WEB it is verse 13. Many Bibles leave it out or put it in brackets as verse 14.
+> “How terrible it will be for you” (in the WEB: “Woe to you”) is a cry of lament, as the prophets of Israel often used it (for example Isaiah 5:8–23). It is a serious warning, but also a lament full of pain.
+> Verses 13 and 14: The verse numbering differs in Bibles here. The cry about “widows’ houses” is missing in many old manuscripts. Something similar is found in Mark 12:40 and Luke 20:47. In the WEB it is verse 13. Many Bibles leave it out or put it in brackets as verse 14.
 > “Eating up widows’ houses”: Widows were often poor and without protection. Whoever takes advantage of them while acting devout does something especially bad.
-> Verse 15: A “proselyte” is a person who converts to Judaism. Jesus does not criticize converting, but training people in a harsh, loveless kind of faith. About “Gehenna,” see the box on 5:22.
+> Verse 15: The WEB says “proselyte.” A proselyte is a person who converts to Judaism. Jesus does not criticize converting, but training people in a harsh, loveless kind of faith. About “Gehenna,” see the box on 5:22.
 > Verses 16–22: Some people made a difference between oaths that count and oaths that don’t count. Jesus says: Such tricks are dishonest. Every oath is valid before God. Compare 5:33–37: It is best simply to say an honest yes or no.
 > Important: “Blind guides” and “blind fools” are pictures for spiritual blindness. They say nothing about people with visual impairments.
 
@@ -121,7 +121,7 @@ and by him who sits on it.”
 
 ## The most important things in the law (Verses 23–28)
 
-[23] “Woe to you, scribes and Pharisees, you hypocrites!
+[23] “How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you give a tenth of mint, dill, and cumin.
 But you have neglected the more important things of the law:
 justice, mercy, and faithfulness.
@@ -130,13 +130,13 @@ without neglecting the others.
 [24] You blind guides!
 You strain out a gnat,
 but you swallow a camel.
-[25] Woe to you, scribes and Pharisees, you hypocrites!
+[25] How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you clean the outside of the cup and of the dish.
 But inside they are full of robbery and injustice.
 [26] You blind Pharisee!
 First clean the inside of the cup and of the dish,
 so that the outside may become clean too.
-[27] Woe to you, scribes and Pharisees, you hypocrites!
+[27] How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you are like tombs painted white.
 On the outside they look beautiful,
 but inside they are full of dead people’s bones
@@ -157,17 +157,17 @@ But inside you are full of hypocrisy and injustice.”
 
 ## The tombs of the prophets (Verses 29–36)
 
-[29] “Woe to you, scribes and Pharisees, you hypocrites!
+[29] “How terrible it will be for you, scribes and Pharisees, you hypocrites!
 For you build tombs for the prophets
 and decorate the graves of the righteous.
 [30] And you say,
-‘If we had lived in the days of our fathers,
+‘If we had lived in the days of our ancestors,
 we would not have taken part with them
 in shedding the blood of the prophets.’
 [31] So you testify against yourselves
 that you are children of those
 who killed the prophets.
-[32] Go on, then, and finish what your fathers started!
+[32] Go on, then, and finish what your ancestors started!
 [33] You snakes, you offspring of vipers!
 How will you escape the judgment of Gehenna?
 [34] So:

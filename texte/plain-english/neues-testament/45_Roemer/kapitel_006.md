@@ -8,7 +8,7 @@
 [1] What shall we say then?
 Shall we continue in sin,
 so that grace may increase?
-[2] May it never be!
+[2] Of course not!
 We died to sin.
 How could we live in it any longer?
 [3] Or don’t you know:
@@ -17,9 +17,9 @@ who were baptized into Christ Jesus
 were baptized into his death.
 [4] So we were buried with him
 through baptism into death.
-And just as Christ was raised from the dead
-through the glory of the Father,
-so we also might walk in newness of life.
+Christ was raised from the dead
+through the glory of the Father.
+In the same way we also should walk in a new life.
 [5] For if we have become united with him
 in the likeness of his death,
 we will also be part of his resurrection.
@@ -37,7 +37,8 @@ Christ has been raised from the dead
 and dies no more.
 Death no longer has dominion over him!
 [10] For the death that he died,
-he died to sin one time, once for all.
+he died to sin one time.
+
 But the life that he lives,
 he lives to God.
 [11] So consider yourselves also:
@@ -61,7 +62,7 @@ but under grace.
 *mortal* = able to die
 
 > **What does this mean?**
-> Verse 1: A possible objection: If God’s grace is so great, can we simply go on sinning? Paul says: May it never be!
+> Verse 1: A possible objection: If God’s grace is so great, can we simply go on sinning? Paul says: Of course not!
 > Verses 3–4: Baptism is like dying and rising again with Christ. In the early days people were completely immersed: under the water (as if buried) and out again (as if risen). After that a new life begins.
 > Verse 6: “Our old self” means the old life that was ruled by sin.
 > Verse 9: “Death no longer has dominion over him”: That is the Easter message.
@@ -76,7 +77,7 @@ but under grace.
 Shall we sin
 because we are not under law
 but under grace?
-May it never be!
+Of course not!
 [16] Don’t you know:
 When you offer yourselves as servants to someone
 and obey them,
