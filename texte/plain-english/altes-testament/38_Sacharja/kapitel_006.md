@@ -28,13 +28,13 @@ He said, “Go, go back and forth through the earth!”
 So they went back and forth through the earth.
 [8] Then he called to me and said to me,
 “Look, those who go toward the land of the north
-have given my Spirit rest in the land of the north.”
+have given my spirit rest in the land of the north.”
 
 > **What does this mean?**
 > The last of the eight visions is a reminder of the first one (1:8–11): Again it is about horses of different colors. This time they pull chariots.
 > The two mountains of bronze are maybe the gate to God’s home in heaven.
 > Verse 5: The chariots are “the four winds of the sky,” that is, God’s messengers who go out in all directions. God rules over the whole world.
-> Verse 8: In the “land of the north,” that is, in Babylon, where God’s people were held captive for so long, God has now “given his Spirit rest.” That means: His anger against Babylon is calmed. The judgment has been carried out.
+> Verse 8: In the “land of the north,” that is, in Babylon, where God’s people were held captive for so long, God has now “given his spirit rest.” That means: His anger against Babylon is calmed. The judgment has been carried out.
 > Here the eight visions of the night end. They have shown: God is at work. He punishes the enemies, makes his people clean, and builds Jerusalem again.
 
 ---

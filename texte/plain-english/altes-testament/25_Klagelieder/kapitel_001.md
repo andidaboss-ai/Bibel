@@ -163,7 +163,7 @@ and my heart is weak.”
 > **What does this mean?**
 > Verse 12 is one of the best-known verses: “Does it mean nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow.” The city calls out to the people walking by: Do you not see my suffering? Christians have often connected this verse with the suffering of Jesus on Good Friday.
 > Verse 16: “My eye, my eye runs with tears.” Tears without end.
-> Verse 18: In spite of everything: “The LORD is righteous.” Jerusalem admits its guilt.
+> Verse 18: In spite of everything: “The LORD is righteous.” Righteous means: he always does what is right. Jerusalem admits its guilt.
 > Verse 20: “Outside, the sword takes away the children. At home, it is like death.” War outside, hunger and sickness inside. There is no safe place anymore.
 > Verses 21–22: The city asks God to also hold the enemies responsible, the ones who are glad about its disaster. It leaves the judgment to God.
 > This poem shows: It is allowed to lament before God and to speak your own pain out loud. If you are grieving or in despair, you should not stay alone: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

@@ -65,9 +65,9 @@ None of the wicked will understand.
 But those who are wise will understand.
 [11] “The daily burnt offering will be taken away,
 and the disgusting thing that causes ruin will be set up.
-From that time on, there will be one thousand two hundred ninety days.
+From that time on, there will be 1,290 days.
 [12] Happy is the one who waits patiently
-and reaches the one thousand three hundred thirty-five days.
+and reaches the 1,335 days.
 [13] “But you, go your way until the end.
 You will rest.
 And at the end of the days, you will stand up to receive your share.”
@@ -93,4 +93,4 @@ And at the end of the days, you will stand up to receive your share.”
 > **Hope beyond death:** “Many of those who sleep in the dust of the earth will wake up” (12:2). The faithful teachers will shine like the stars.
 > **Be careful with calculations:** The numbers and pictures in Daniel are often hard to understand. They are meant to give courage, not fear. No one can use them to calculate the end of the world.
 > **For today:** Daniel shows how to stay faithful in a world with other values: polite, wise, hardworking, but firm in faith. And the book gives courage: No power in the world has the last word. God does.
-> **What comes next?** Now come the twelve “Minor Prophets.” They are called “minor” (small) because their books are shorter, not because they are less important. The first is Hosea. His marriage to an unfaithful woman becomes a picture of God’s love for his unfaithful people: a love that does not give up.
+> **What comes next?** Now come the 12 “Minor Prophets.” They are called “minor” (small) because their books are shorter, not because they are less important. The first is Hosea. His marriage to an unfaithful woman becomes a picture of God’s love for his unfaithful people: a love that does not give up.

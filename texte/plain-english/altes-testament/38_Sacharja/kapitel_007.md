@@ -19,7 +19,7 @@ To fast means to go without food for a time, to pray or to mourn.
 It said,
 [5] “Speak to all the people of the land and to the priests. Say,
 ‘When you fasted and mourned in the fifth and in the seventh month
-for these seventy years,
+for these 70 years,
 did you really fast for me, really for me?
 [6] And when you eat and when you drink,
 don’t you eat for yourselves
@@ -58,7 +58,6 @@ and closed their ears, so that they would not hear.
 so that they would not hear the law
 and the words that the LORD of Armies had sent by his Spirit
 through the earlier prophets.
-Flint is a very hard stone.
 That is why great anger came from the LORD of Armies.
 [13] And so it happened:
 As he called and they refused to listen,
@@ -77,6 +76,6 @@ For they made the lovely land a ruin.”
 > Do not treat the weakest people harshly: widows, orphans, foreigners, and the poor.
 > Do not even plan evil against others in your heart.
 > This is a reminder of Isaiah 58:6–7. There God says: The fast that I want is this: to break the chains of wickedness … and to share your bread with the hungry. And it is a reminder of Micah 6:8.
-> Verses 11–12: The ancestors did not want to hear this. They made their hearts “as hard as flint” (others translate “as hard as a diamond”).
+> Verses 11–12: The ancestors did not want to hear this. They made their hearts “as hard as flint” (others translate “as hard as a diamond”). Flint is a very hard stone.
 > Verses 13–14: That is why the exile came. Whoever does not listen to God when he calls will find that God is silent when he himself calls.
 > For today: How do we treat foreigners, poor people, and people who are alone? To God, this is more important than any religious practice.

@@ -38,7 +38,6 @@ says the LORD.
 says the LORD.
 [7] ‘Come, Zion!
 Escape, you who live with the daughter of Babylon!’
-“The daughter of Babylon” means the city of Babylon and its people.
 [8] For the LORD of Armies says:
 ‘For the sake of honor he has sent me to the nations
 that robbed you.
@@ -51,6 +50,7 @@ Then you will know that the LORD of Armies has sent me.
 > **What does this mean?**
 > Verses 6–7: This is a call to the Jews who still lived in Babylon (the “land of the north”): Come home! Not all of them had gone back with the first group. Many had built a new life in Babylon.
 > Babylon really lay in the east. But the road from there came into Israel from the north. That is why it is called the “land of the north.”
+> “The daughter of Babylon” means the city of Babylon and its people.
 > Verse 8: A famous picture: “Whoever touches you touches the apple of his eye.” The “apple of the eye” is the pupil, the dark center of the eye. It is the most sensitive part of the body. People protect it without thinking. That is how precious and how protected God’s people are to him (compare Deuteronomy 32:10; Psalm 17:8).
 > “The apple of his eye”: In Hebrew it is not quite clear whose eye is meant. The usual understanding: God’s own eye.
 > Who is speaking here (“he has sent me”)? Maybe the prophet, maybe the angel of the LORD. Interpreters disagree about this.

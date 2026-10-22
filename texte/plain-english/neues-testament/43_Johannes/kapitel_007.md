@@ -162,7 +162,7 @@ These asked them, “Why didn’t you bring him?”
 “No one has ever spoken like this man!”
 [47] The Pharisees answered them,
 “You haven’t been fooled too, have you?
-[48] Has any of the rulers or any of the Pharisees believed in him?
+[48] Have any of the rulers or any of the Pharisees believed in him?
 [49] But this crowd doesn’t know the law.
 They are under a curse.”
 [50] Nicodemus was one of them.
@@ -172,12 +172,12 @@ He said to them,
 It wants to know what he has done, doesn’t it?”
 [52] They answered him,
 “Are you from Galilee too?
-Study the Scriptures, and you will see:
+Search, and you will see:
 No prophet has ever come from Galilee.”
 [53] Then everyone went home.
 
 > **What does this mean?**
-> Verse 46: Even the officers are impressed by Jesus.
+> Verse 46: Even the temple guards are impressed by Jesus.
 > Verse 49: Some leaders look down on the ordinary people. That is a harsh, arrogant statement. Jesus, on the other hand, turns especially to ordinary people.
 > Verses 50–51: Nicodemus, a Pharisee and leader, stands up for a fair process. He appeals to the law of Moses (Deuteronomy 1:16–17). This shows: Among the Pharisees and leaders there were different opinions.
 > Verse 52: That is not quite true: The prophet Jonah came from Galilee (2 Kings 14:25). The opponents are speaking in anger.

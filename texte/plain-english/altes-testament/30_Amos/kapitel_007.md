@@ -31,7 +31,7 @@ For he is small.”
 > In Chapters 7–9, Amos has five visions.
 > Vision 1: Locusts eat the late crop. That was especially bad: The first harvest went to the king as a tax (“the king’s harvest”). The second harvest was what ordinary people had to live on.
 > Vision 2: A huge fire dries up even the sea.
-> Both times Amos speaks up for his people: “Forgive, please! Stop, please! How could Jacob stand? He is so small!” And God listens to him: “It will not happen.”
+> Both times Amos speaks up for his people: “Lord GOD, forgive, please!” and “Lord GOD, stop, please! How could Jacob stand? For he is small.” And God listens to him: “It will not happen.”
 > That is remarkable: Amos, the hard prophet of judgment, also prays for others. He loves his people. And God lets himself be moved by prayer. Prayer changes things.
 
 ---
@@ -73,7 +73,6 @@ and Israel will surely be taken away from its land as prisoners.’”
 “You seer, go, flee to the land of Judah.
 Earn your bread there,
 and prophesy there.
-A seer is a prophet who sees things from God.
 [13] But don’t prophesy at Bethel any more.
 For it is the king’s holy place,
 and it is a royal house!”
@@ -97,7 +96,7 @@ You yourself will die in an unclean land.
 And Israel will surely be taken away from its land as prisoners.’”
 
 > **What does this mean?**
-> Amaziah was the highest priest at the king’s holy place in Bethel. He reports Amos to the king: “He is plotting against you! The land cannot bear his words.”
-> Verses 12–13: Then he says to Amos: “You seer, go, flee to the land of Judah. Earn your bread there, and prophesy there.” That means: Make your money there by prophesying! And: “But don’t prophesy at Bethel any more. For it is the king’s holy place.” It is telling: He does not call it “God’s holy place,” but “the king’s holy place.” Religion serves politics.
+> Amaziah was the highest priest at the king’s holy place in Bethel. He reports Amos to the king: “Amos has made a secret plan against you … The land cannot bear all his words.”
+> Verses 12–13: A seer is a prophet who sees things from God. Then Amaziah says to Amos: “You seer, go, flee to the land of Judah. Earn your bread there, and prophesy there.” That means: Make your money there by prophesying! And: “But don’t prophesy at Bethel any more. For it is the king’s holy place.” It is telling: He does not call it “God’s holy place,” but “the king’s holy place.” Religion serves politics.
 > Verses 14–15: Amos’s famous answer: “I was not a prophet, and I was not a prophet’s son. I was a herdsman, and I grew sycamore figs.” That means: He is not a professional prophet. He does not earn money with it. And then: “The LORD took me away from following the flock.” Amos does not speak because he is paid for it. He speaks because God sent him.
 > Verse 17: A hard word to Amaziah. It describes what happens to a priest’s family when enemies conquer the land: The men are killed. The women become victims of sexual violence and exploitation. The land is divided up. And he himself dies in exile. That is a terrible injustice of war. The wife here is a victim, not guilty.

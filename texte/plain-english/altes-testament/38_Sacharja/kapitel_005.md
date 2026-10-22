@@ -11,7 +11,7 @@ a flying scroll.
 “What do you see?”
 I answered,
 “I see a flying scroll.
-It is twenty cubits long and ten cubits wide.”
+It is 20 cubits long and 10 cubits wide.”
 That is about 30 feet long and about 15 feet wide.
 [3] Then he said to me,
 “This is the curse
@@ -20,7 +20,6 @@ For everyone who steals
 will be cut off, as it says on one side.
 And everyone who swears falsely
 will be cut off, as it says on the other side.
-To swear falsely means to make a promise before God and lie.
 [4] I will send it out,”
 says the LORD of Armies,
 “and it will go into the house of the thief
@@ -29,8 +28,8 @@ It will stay in the middle of his house
 and destroy it, with its wood and its stones.”
 
 > **What does this mean?**
-> A huge scroll flies through the air: twenty cubits long and ten cubits wide, that is, about 30 by 15 feet, as big as a large billboard. A cubit is about 18 inches. Everyone can see it.
-> On the scroll is a curse against two kinds of wrong: stealing and swearing falsely (lying under oath). This is a reminder of the Ten Commandments: “You shall not steal” and “You shall not misuse the name of the LORD.”
+> A huge scroll flies through the air: 20 cubits long and 10 cubits wide, that is, about 30 by 15 feet, as big as a large billboard. A cubit is about 18 inches. Everyone can see it.
+> On the scroll is a curse against two kinds of wrong: stealing and swearing falsely. To swear falsely means to make a promise before God and lie. This is a reminder of the Ten Commandments: “You shall not steal” and “You shall not misuse the name of the LORD.”
 > Verse 4: The curse goes into the houses of those who do these things and destroys them from the inside. In the end, wrong destroys the life of the one who does it.
 > The message: In the new Jerusalem that God is building, there should be no more wrong. God is cleaning up.
 

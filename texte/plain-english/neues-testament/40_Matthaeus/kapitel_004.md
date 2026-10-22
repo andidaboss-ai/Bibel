@@ -8,7 +8,7 @@
 [1] Then the Spirit led Jesus up into the wilderness.
 There the devil was going to tempt him.
 To tempt means: to try to get someone to do wrong.
-[2] Jesus fasted for forty days and forty nights.
+[2] Jesus fasted for 40 days and 40 nights.
 After that he was hungry.
 [3] The tempter came to him.
 He said, “If you are the Son of God,
@@ -43,7 +43,7 @@ Serve only him.’”
 And angels came and took care of him.
 
 > **What does this mean?**
-> Verses 1–2: After his baptism Jesus goes into the wilderness and fasts for forty days. This reminds us of the forty years that Israel was in the wilderness, and of Moses and Elijah, who fasted for forty days (Exodus 34:28; 1 Kings 19:8). The Christian season of fasting before Easter (Lent) remembers this.
+> Verses 1–2: After his baptism Jesus goes into the wilderness and fasts for 40 days. This reminds us of the 40 years that Israel was in the wilderness, and of Moses and Elijah, who fasted for 40 days (Exodus 34:28; 1 Kings 19:8). The Christian season of fasting before Easter (Lent) remembers this.
 > To fast: to go without food for a time, often in order to pray.
 > The devil tempts Jesus three times:
 > 1. Bread from stones (verses 3–4): Use your power for yourself! Jesus answers with Deuteronomy 8:3: People need more than bread; they need God’s word.
@@ -127,7 +127,7 @@ Some had epilepsy.
 Some could not move their bodies.
 And Jesus healed them.
 [25] Large crowds followed him.
-They came from Galilee, from the Decapolis, from Jerusalem, from Judea
+They came from Galilee, from the Decapolis, from Jerusalem, from Judea,
 and from the other side of the Jordan.
 
 > **What does this mean?**

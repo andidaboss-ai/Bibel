@@ -140,8 +140,8 @@ He will rise up
 and become strong with only a few people.
 [24] At a time when people feel safe,
 he will come into the richest parts of the province.
-He will do what his fathers did not do,
-and what his fathers’ fathers did not do.
+He will do what his ancestors did not do,
+not even the ancestors before them.
 He will hand out loot, plunder, and riches among his followers.
 Yes, he will make plans against the strong cities,
 but only for a time.
@@ -212,12 +212,12 @@ He will lift himself up and make himself greater than every god.
 He will say shocking things against the God of gods.
 He will be successful until the time of God’s anger is over.
 For what has been decided will happen.
-[37] He will not care about the gods of his fathers,
+[37] He will not care about the gods of his ancestors,
 or about the god that women love,
 or about any god.
 For he will make himself greater than all of them.
 [38] Instead, he will honor the god of fortresses.
-He will honor a god that his fathers did not know.
+He will honor a god that his ancestors did not know.
 He will honor him with gold and silver,
 with precious stones and costly gifts.
 [39] With the help of a foreign god,

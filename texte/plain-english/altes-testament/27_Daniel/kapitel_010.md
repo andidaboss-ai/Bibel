@@ -80,7 +80,7 @@ and on humbling yourself before your God,
 your words were heard.
 And I have come because of your words.
 [13] But the prince of the kingdom of Persia
-stood against me for twenty-one days.
+stood against me for 21 days.
 Then Michael, one of the chief princes,
 came to help me,
 because I was left there with the kings of Persia.

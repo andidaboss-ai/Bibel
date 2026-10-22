@@ -71,7 +71,7 @@ and fear fell on him.
 “Don’t be afraid, Zacharias,
 because your prayer has been heard.
 Your wife, Elizabeth, will bear you a son,
-and you shall call his name John.
+and you are to name him John.
 [14] You will have joy and gladness,
 and many will rejoice at his birth.
 [15] For he will be great in the sight of the Lord.
@@ -125,7 +125,7 @@ among people.”
 > “Herod” here is Herod the Great. He ruled until 4 BC.
 > There were 24 divisions of priests. Each division served one week in the temple twice a year (compare 1 Chronicles 24:10). A priest could usually offer incense only once in his life. For Zacharias this was a special day.
 > Incense: a substance that gives off a sweet-smelling smoke when it is burned. In the temple it was offered to God.
-> Zacharias and Elizabeth are devout, righteous Jews. Luke begins the Gospel right in the middle of Israel’s faith, in the temple.
+> Zacharias and Elizabeth are devout, righteous Jews. Righteous means: living right before God. Luke begins the Gospel right in the middle of Israel’s faith, in the temple.
 > Verses 7 and 25: Back then, not having children was often seen as a disgrace. Important: Being childless is not a punishment from God and not a disgrace. Elizabeth was “righteous before God” (verse 6), even without a child. People who cannot have the children they long for are loved by God just as much.
 > Verse 13: “John” means “God is gracious.”
 > Verse 17 quotes Malachi 4:6 (in the Hebrew Bible and in some Bibles Malachi 3:24). John will be like the prophet Elijah.
@@ -158,7 +158,7 @@ what kind of greeting this might be.
 for you have found favor with God.
 [31] You will become pregnant
 and give birth to a son.
-You shall name him ‘Jesus.’
+You are to name him ‘Jesus.’
 [32] He will be great
 and will be called the Son of the Most High.
 The Lord God will give him the throne of his father David.
@@ -186,7 +186,7 @@ Let it be done to me according to your word.”
 Then the angel left her.
 
 > **What does this mean?**
-> Nazareth was a small, unimportant village. Mary was a young, simple woman, probably still very young. God does not choose the powerful, but the little ones.
+> Nazareth was a small, unimportant village. Mary was a simple woman, probably still very young. God does not choose the powerful, but the little ones.
 > Being “engaged” back then was already a firm bond, almost like being married. But the couple did not yet live together.
 > “Jesus” is the Greek form of the Hebrew name “Yeshua” or “Joshua.” It means: “God saves.”
 > Verses 32–33: God had promised David that his kingship would last forever (2 Samuel 7:12–16).
@@ -247,7 +247,7 @@ and has lifted up the lowly.
 He has sent the rich away empty.
 [54] He has helped Israel, his servant,
 and remembered his mercy,
-[55] as he promised our fathers,
+[55] as he promised our ancestors,
 Abraham and his offspring forever.”
 [56] Mary stayed with Elizabeth about three months.
 Then she returned home.
@@ -293,7 +293,7 @@ people talked about these things.
 [66] All who heard about it
 kept it in their hearts and said,
 “What then will this child be?”
-For the hand of the Lord was with him.
+The hand of the Lord was with him.
 
 > **What does this mean?**
 > Circumcision on the eighth day is a sign of the covenant between God and Israel (Genesis 17:12). To this day Jewish boys are circumcised on the eighth day. At that time the child receives his name.
@@ -316,7 +316,7 @@ in the house of his servant David,
 long ago:
 [71] salvation from our enemies
 and from the hand of all who hate us.
-[72] So he shows mercy to our fathers
+[72] So he shows mercy to our ancestors
 and remembers his holy covenant,
 [73] the oath which he swore to Abraham our father.
 [74] He grants to us

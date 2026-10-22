@@ -54,7 +54,7 @@ He will gather his wheat into the barn,
 but he will burn up the chaff with fire that can never be put out.”
 
 > **What does this mean?**
-> Verse 7: Pharisees and Sadducees were two important religious groups in the Judaism of that time. The Pharisees thought it was very important to keep the law exactly in everyday life. The Sadducees often belonged to the priests at the temple. John criticizes them harshly, the way the prophets in earlier times criticized the powerful. This is an argument within Judaism. It is not a statement about “the Jews” or about Judaism as a whole. John, Jesus and the disciples were Jews themselves.
+> Verse 7: Pharisees and Sadducees were two important religious groups in the Judaism of that time. The Pharisees thought it was very important to keep the law exactly in everyday life. The Sadducees often belonged to the priests at the temple. John criticizes them harshly, the way the prophets in earlier times criticized the powerful. This is an argument within Judaism. It is not a statement about “the Jews” or about Judaism as a whole. John, Jesus, and the disciples were Jews themselves.
 > Offspring of vipers: children of poisonous snakes. A very harsh insult.
 > Verses 8–9: Repentance has to show itself in life, in good deeds. It is not enough to rely on the right ancestry (“We have Abraham as our father”). The same is true for Christians: It is not enough to be baptized or to belong to a church.
 > Verses 10 and 12: Pictures from farming. A tree without fruit is cut down. When threshing, people throw the grain into the air with a fork: The heavy kernels fall down, the light chaff blows away and is burned. In the same way God will one day separate what lasts from what is worthless.
@@ -88,5 +88,5 @@ I am very pleased with him.”
 > Verses 13–14: Jesus comes to be baptized. John is amazed: Really, Jesus should baptize him!
 > Verse 15: Jesus answers: In this way we fulfill “all righteousness,” that is, what God wants. Jesus stands beside the people who come to be baptized. He joins the line, even though, according to Christian faith, he himself had no need to repent.
 > Verse 16: Heaven opens, and the Spirit of God comes on Jesus like a dove. Since then the dove has been a sign of the Holy Spirit and also of peace.
-> Verse 17: God’s voice says: “This is my Son. I love him.” The words remind us of Psalm 2:7 and Isaiah 42:1. Christians see the Father, the Son and the Holy Spirit together in this scene.
+> Verse 17: God’s voice says: “This is my Son. I love him.” The words remind us of Psalm 2:7 and Isaiah 42:1. Christians see the Father, the Son, and the Holy Spirit together in this scene.
 > For today: Before Jesus has done anything at all, God already says: I love you. Many Christians understand their own baptism in a similar way: God’s love comes first, not later as a reward.

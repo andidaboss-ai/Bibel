@@ -84,7 +84,7 @@ who had seen him after he had risen.
 > Verses 9–20 are missing in the oldest complete manuscripts, for example the Codex Sinaiticus and the Codex Vaticanus from the 4th century. They were probably added in the 2nd century. Even so, the church accepted them as part of the Bible. Many Bibles print them in brackets or with a note.
 > This ending sums up appearances that are also told in other Gospels: the meeting with Mary Magdalene (John 20:11–18), the two disciples on the way (Luke 24:13–35) and the appearance to the eleven (Luke 24:36–43).
 > Verse 9: Mary Magdalene is the first witness of the risen Jesus. “Seven demons” probably means a severe illness or great suffering (compare Luke 8:2). It does not mean that she was a bad woman. The old idea that Mary Magdalene was a prostitute is not in the Bible.
-> The disciples do not believe at first. Doubt is human. The first disciples too had to find their way to faith.
+> The disciples do not believe at first. Doubt is human. Even the first disciples had to find their way to faith.
 
 ---
 
@@ -112,7 +112,7 @@ and they will get well.”
 > Verse 16: A serious word. Christians understand it in different ways. Many stress: God alone judges people. God is merciful and wants all people to be saved (1 Timothy 2:4). No one should use this verse to frighten or condemn other people.
 > “New languages” reminds us of Pentecost (Acts 2:4). Acts 28:3–6 tells how Paul was bitten by a snake and was not harmed.
 > Very important: Verse 18 is not a call to test God! Some groups have handled poisonous snakes or drunk poison to prove their faith. People have died doing this. In the wilderness Jesus himself said: “Do not test the Lord your God” (Matthew 4:7). That means: You should not put God to the test. Please never do anything like this. In case of poisoning, call your local emergency number (911 in the US) at once, or Poison Control at 1-800-222-1222 in the US. In the UK, call 999 or NHS 111.
-> Whoever is sick may pray and should go to the doctor. Both belong together. Whoever does not get well has not believed too little.
+> Whoever is sick may pray and should go to the doctor. Both belong together. If someone does not get well, it is not because they believed too little.
 
 ---
 

@@ -106,7 +106,7 @@ on the network all around.
 > Verses 12–13: In the year 587 BC, Solomon’s temple was burned, after almost 400 years. To this day, Jews remember the destruction of the first and the second temple on the 9th day of the month of Av (Tisha B’Av). (Here it says the 10th day, in 2 Kings 25:8 the 7th day; the traditions give different days.)
 > Verse 16: Again the poorest are left in the land to work the fields.
 > Verses 17–23: An exact list of the temple objects. The huge bronze pillars (about 27 feet high), the great water basin (the “Sea”), and the 12 bronze bulls were smashed. The Bible lists them lovingly, the way people list what they lost in a disaster.
-> The Bible gives the measurements in cubits and fingers: 18 cubits, 12 cubits, 5 cubits, and four fingers. A cubit is about 18 inches. A finger is about ¾ of an inch.
+> The Bible gives the measurements in cubits and fingers: 18 cubits, 12 cubits, 5 cubits, and 4 fingers. A cubit is about 18 inches. A finger is about ¾ of an inch.
 
 ---
 

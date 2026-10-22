@@ -86,9 +86,9 @@ and gave them to the disciples.
 And the disciples gave them to the people.
 [20] They all ate and were full.
 They picked up the pieces that were left over:
-twelve baskets full.
+12 baskets full.
 [21] Those who had eaten
-were about five thousand men,
+were about 5,000 men,
 besides women and children.
 
 > **What does this mean?**
@@ -96,7 +96,7 @@ besides women and children.
 > The disciples think in practical terms: Send them away; they should take care of themselves. Jesus says: “You give them something to eat!” He makes his disciples take responsibility.
 > What looks like little becomes enough for everyone in Jesus’ hands. In the end there is even a lot left over.
 > Jesus says the blessing, as was usual at Jewish meals: You thank God for the bread. The words “took, looked up, blessed, broke, gave” remind Christians of the Lord’s Supper (26:26).
-> Twelve baskets: The number twelve reminds us of the twelve tribes of Israel and the twelve disciples.
+> The 12 baskets: The number 12 reminds us of the 12 tribes of Israel and the 12 disciples.
 > Verse 21: According to the custom of that time, only the men were counted. But Matthew says clearly: Women and children were there too, and they were also filled. So there were many more people.
 > The miracle reminds us of God, who fed Israel in the wilderness with manna (Exodus 16), and of the prophet Elisha (2 Kings 4:42–44).
 > For today: Many people still go hungry today. Jesus’ words “You give them something to eat” still apply.
@@ -108,7 +108,7 @@ besides women and children.
 [22] Right after this, Jesus made the disciples
 get into the boat
 and go ahead of him to the other side.
-Meanwhile he wanted to send the people home.
+Meanwhile he sent the people away.
 [23] After he had sent the people away,
 he went up the mountain by himself to pray.
 When evening came, he was there alone.

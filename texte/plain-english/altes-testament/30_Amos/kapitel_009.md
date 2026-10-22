@@ -13,9 +13,8 @@ Break them into pieces on the heads of all of them.
 I will kill the last of them with the sword.
 Not one of them will run away.
 Not one of them will escape.
-[2] Even if they dig down into Sheol,
+[2] Even if they dig down into Sheol (the world of the dead),
 my hand will take them from there.
-Sheol is the place of the dead.
 Even if they climb up to heaven,
 I will bring them down from there.
 [3] Even if they hide on the top of Carmel,
@@ -77,7 +76,7 @@ They are the ones who say,
 
 ## The tent of David will be set up again (Verses 11–15)
 
-[11] On that day I will set up again the tent of David that has fallen.
+[11] “On that day I will set up again the tent of David that has fallen.
 I will close up its cracks.
 I will set up its ruins again.
 I will build it as it was in the days long ago.

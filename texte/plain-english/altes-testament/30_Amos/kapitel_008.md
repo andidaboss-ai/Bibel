@@ -65,16 +65,15 @@ says the Lord GOD:
 I will make the earth dark in broad daylight.
 [10] I will turn your feasts into mourning,
 and all your songs into songs of sorrow.
-I will make all of you wear sackcloth around your waists.
+I will make all of you wear sackcloth.
 I will make every head bald.
-Sackcloth is rough cloth that people wore when they mourned.
 I will make it like the mourning for an only son.
 And its end will be like a bitter day.
 
 > **What does this mean?**
 > Verse 9: The sun goes down in the middle of the day. Maybe Amos is thinking of an eclipse of the sun. In the year 763 BC there was a great eclipse of the sun. Texts from Assyria mention it.
 > The Gospels report that when Jesus died, darkness came over the land at noon (Mark 15:33).
-> Verse 10: The mourning will be as deep as the mourning of parents for their only child. That is the greatest pain anyone can imagine.
+> Verse 10: Sackcloth is rough cloth that people wore when they mourned. The mourning will be as deep as the mourning of parents for their only child. That is the greatest pain anyone can imagine.
 
 ---
 

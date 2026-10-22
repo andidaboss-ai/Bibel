@@ -27,16 +27,16 @@ they dried up.
 The thorns grew up and choked them.
 [8] Others fell on good soil
 and produced fruit:
-some one hundred times as much,
-some sixty,
-and some thirty.
+some 100 times as much,
+some 60,
+and some 30.
 [9] Whoever has ears to hear, let him hear!”
 
 > **What does this mean?**
 > A parable is a short story from everyday life. It shows something about God and his Kingdom. You have to think about it in order to understand it.
 > Jesus sits in the boat; the people stand on the shore. That way many can hear him well.
 > At that time people sowed by throwing the seeds over the field by hand. Some of it also fell on the road, on stones or among thorns.
-> The amazing thing is the ending: In spite of all the losses, there is a great harvest. One hundred times as much was a huge amount.
+> The amazing thing is the ending: In spite of all the losses, there is a great harvest. A harvest of 100 times as much was a huge amount.
 > Jesus himself explains the parable further below (verses 18–23).
 
 ---
@@ -108,14 +108,14 @@ he falls away at once.
 is the person who hears the word.
 But the worries of this life
 and the deceitfulness of riches choke the word,
-and it produces no fruit.
+and he produces no fruit.
 [23] What was sown on good soil
 is the person who hears the word and understands it.
 He most certainly bears fruit
 and produces a crop:
-some one hundred times as much,
-some sixty,
-and some thirty.”
+some 100 times as much,
+some 60,
+and some 30.”
 
 > **What does this mean?**
 > The seed is God’s word. The different kinds of soil are different people, or also different times in a person’s life.

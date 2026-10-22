@@ -111,7 +111,7 @@ and of the Holy Spirit.
 [20] And teach them
 to obey everything
 that I have commanded you.
-And remember:
+Look!
 I am with you always,
 even to the end of the age.”
 Amen.
