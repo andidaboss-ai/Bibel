@@ -55,7 +55,7 @@ Righteous means: living right before God.
 We urged each one of you,
 encouraged you
 and pleaded with you,
-as a father does with his own children.
+as a father does with his own children,
 [12] to live in a way
 worthy of God.
 He calls you into his own Kingdom

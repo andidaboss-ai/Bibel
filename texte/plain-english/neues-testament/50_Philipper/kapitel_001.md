@@ -62,7 +62,7 @@ that your love may grow richer and richer
 in knowledge
 and in all discernment.
 Discernment means: the ability to judge well what is right.
-[10] so that you can test
+[10] So that you can test
 what is truly excellent.
 So may you be sincere
 and without blame
