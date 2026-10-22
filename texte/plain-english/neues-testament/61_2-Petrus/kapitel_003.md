@@ -30,7 +30,7 @@ They live by their own desires.
 [4] And they say,
 “Where is the promise
 of his coming?
-Since the fathers died,
+Since our ancestors died,
 all things continue
 as they were from the beginning of the creation.”
 [5] For they deliberately forget:
@@ -56,11 +56,11 @@ when ungodly people are destroyed.
 
 [8] But don’t forget this one thing,
 beloved:
-With the Lord one day is like a thousand years,
-and a thousand years like one day.
+With the Lord one day is like 1,000 years,
+and 1,000 years like one day.
 [9] The Lord is not slow about his promise,
 as some think he is slow.
-But he is patient with you.
+But he is patient with us.
 For he doesn’t want
 anyone to be lost.
 He wants
@@ -74,7 +74,7 @@ And the earth and the works that are in it
 will be burned up.
 
 > **What does this mean?**
-> Verse 8 recalls Psalm 90:4: For God a thousand years are like one day. God measures time differently from us.
+> Verse 8 recalls Psalm 90:4: For God 1,000 years are like one day. God measures time differently from us.
 > Verse 9 is one of the most beautiful sentences in this letter: That Jesus has not come back yet is no sign of weakness. It is patience. God wants **all** people to be saved. He waits for everyone.
 > Verse 10: “Like a thief in the night”: No one knows when the time will come (compare 1 Thessalonians 5:2). That is why no one should calculate a date.
 > At the end of verse 10 it says: “And the earth and the works that are in it will be burned up.” Some old manuscripts say something else there: The earth and everything that people have done on it will be found. That means: It will be uncovered before God.

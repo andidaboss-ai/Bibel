@@ -34,7 +34,7 @@ and all his men.
 > Saul is in great distress because of the archers. He is afraid that the Philistines will catch him alive, torture him, and mock him, as they had done with Samson (Judges 16). So he asks his armor bearer to kill him. When he refuses, Saul takes his own life.
 > The Bible tells this without comment, honestly and sadly. It does not condemn Saul here, and it does not praise what he did either. It is the end of a man who had lost God and knew only fear.
 > In 2 Samuel 1 an Amalekite tells a different version of Saul’s death. We will read there what is true about it.
-> An important note: If you yourself are in great distress or are thinking about taking your own life, you are not alone. Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Important note: If you yourself are in great distress or are thinking about taking your own life, you are not alone. Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

@@ -42,7 +42,7 @@ and especially for his own household,
 he has denied the faith.
 He is worse than an unbeliever.
 [9] Let no one be put on the list of widows
-who is under sixty years old,
+who is under 60 years old,
 and she must have been the wife of one man.
 [10] She must be known for good works:
 if she has brought up children,
@@ -132,7 +132,7 @@ can’t stay hidden either.
 > Verse 17: “Double honor” probably also means pay. Whoever works for the church should be able to live from it.
 > Verse 18: The first sentence quotes Deuteronomy 25:4 (compare also 1 Corinthians 9:9). The second sentence is a saying of Jesus (Luke 10:7).
 > Verse 19: Two or three witnesses: This rule comes from Deuteronomy 19:15. It protects against false accusations.
-> Very important: This rule must not lead to abuse by leaders being covered up. Victims of abuse often have no witnesses. What they say must be taken seriously. Verses 20–21 say clearly: Whoever sins is held accountable, without partiality, even if he is a leader. You can get help. In the US, call the RAINN hotline at 1-800-656-4673. In the UK, call NAPAC at 0808 801 0331.
+> Very important: This rule must not lead to abuse by leaders being covered up. Victims of abuse often have no witnesses. What they say must be taken seriously. Verses 20–21 say clearly: Whoever sins is held accountable, without partiality, even if he is a leader. You can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
 > Verse 22: Laying on hands here means: appointing someone to an office. That should not happen too quickly.
-> Verse 23: A personal piece of advice to Timothy. At that time wine was also considered a medicine, and the water was often not clean. For today: Whoever has problems with alcohol should rather do without it completely. Help is available at addiction counseling services. In the US, call the SAMHSA National Helpline at 1-800-662-4357. In the UK, call Drinkline at 0300 123 1110.
+> Verse 23: A personal piece of advice to Timothy. At that time wine was also considered a medicine, and the water was often not clean. For today: Whoever has problems with alcohol should rather do without it completely. Help is available at addiction counseling services. US: SAMHSA 1-800-662-4357. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 > Verses 24–25: Not everything is visible right away. But God sees everything, the bad and the good.

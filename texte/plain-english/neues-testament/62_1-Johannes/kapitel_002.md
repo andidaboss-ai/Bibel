@@ -114,7 +114,7 @@ they would have stayed with us.
 But they left.
 This made it clear that none of them belong to us.
 [20] But you have an anointing from the Holy One.
-And all of you know the truth.
+And all of you have knowledge.
 To anoint means: to pour oil on someone as a sign that God has chosen them.
 [21] I am not writing to you because you do not know the truth.
 I am writing because you do know it.
@@ -137,7 +137,8 @@ The anointing you received from him remains in you.
 So you do not need anyone to teach you.
 His anointing teaches you about everything.
 It is true. It is not a lie.
-It has taught you, so remain in him.
+It has taught you,
+and so you will remain in him.
 
 > **Important note**
 > The word “Antichrist” appears in the Bible only in the letters of John. It means: someone who is against Christ. Here it means teachers who had left the church and taught wrongly about Jesus.

@@ -10,7 +10,7 @@ According to an old church tradition, it was written by John Mark. He was a comp
 Mark tells his story in a lively and fast way. One of his favorite words is “immediately.” He reports fewer speeches than Matthew, but more of the things Jesus did. He often tells small details that the others leave out.
 A big theme in Mark is the question: Who is Jesus? For a long time the disciples don’t understand. Jesus often does not want people to call him the Christ yet. Only at the cross does a Roman centurion say that this man was truly the Son of God (15:39).
 Many stories from Mark are also in Matthew and Luke, often with almost the same words. That is why scholars think: Matthew and Luke knew and used the Gospel of Mark.
-An important note: In Mark, too, there are arguments between Jesus and other Jewish teachers. These were arguments within Judaism. Jesus and all his disciples were Jews. These texts must never be used to look down on Jews.
+Important note: In Mark, too, there are arguments between Jesus and other Jewish teachers. These were arguments within Judaism. Jesus and all his disciples were Jews. These texts must never be used to look down on Jews.
 The Gospel has 16 chapters.
 
 ---

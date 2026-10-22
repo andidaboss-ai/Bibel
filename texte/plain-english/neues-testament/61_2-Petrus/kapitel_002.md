@@ -13,7 +13,7 @@
 
 [1] But there were also false prophets among the people.
 In the same way there will be false teachers among you.
-They will secretly bring in destructive heresies.
+They will secretly bring in destructive false teachings.
 They even deny the Master
 who bought them.
 So they bring swift destruction on themselves.
@@ -122,7 +122,7 @@ and stopped the madness of the prophet.
 and clouds driven by a storm.
 The blackest darkness
 is kept for them forever.
-[18] For they make big, swollen words
+[18] For they speak big, boastful words
 that are empty.
 With the desires of the body
 and with wild living

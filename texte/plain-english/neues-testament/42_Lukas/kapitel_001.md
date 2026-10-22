@@ -10,7 +10,7 @@ According to old church tradition, it was written by Luke, a doctor and companio
 Luke writes carefully and in a well-ordered way. As he says himself, he did research first (1:1–4). He probably knew the Gospel of Mark and other traditions as well.
 Luke especially shows: Jesus turns to the poor, the sick, women, sinners and foreigners. God’s salvation is for all people.
 Many famous texts are found only in Luke: the Christmas story with the manger and the shepherds, the Magnificat (the song of Mary), the parables of the Good Samaritan and the lost son, the story of Zacchaeus and the disciples on the road to Emmaus.
-An important note: Luke begins and ends in the temple in Jerusalem. The story of Jesus is deeply rooted in the history and faith of Israel. Debates with other Jewish groups were arguments within Judaism. They must never be used against Jews.
+Important note: Luke begins and ends in the temple in Jerusalem. The story of Jesus is deeply rooted in the history and faith of Israel. Debates with other Jewish groups were arguments within Judaism. They must never be used against Jews.
 The Gospel has 24 chapters.
 
 ---

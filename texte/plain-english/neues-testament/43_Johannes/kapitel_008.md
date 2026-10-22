@@ -135,7 +135,7 @@ because I always do what pleases him.”
 
 ---
 
-> **An important note before the next section**
+> **Important note before the next section**
 > The following verses (8:31–59) contain some of the harshest words in the whole New Testament, especially verse 44: “Your father is the devil, and you belong to him.” For centuries this sentence was misused to slander Jews as children of the devil. That led to hatred, persecution and murder, all the way to the Holocaust. That is grave guilt on the part of Christians.
 > You need to know: Here Jews are arguing with Jews. Jesus is a Jew. He is speaking to a certain group in a certain, very heated argument. He is not speaking about the Jewish people. In the same Gospel Jesus says that “salvation is from the Jews” (4:22).
 > Sharp words were common in debates back then, also among Jewish groups themselves. They describe behavior (lying and wanting to kill), not descent.

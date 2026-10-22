@@ -54,7 +54,7 @@ and deserves
 to be accepted by all.
 [10] For this is why we labor
 and suffer insults:
-because we have set our hope on the living God.
+because we have put our trust in the living God.
 He is the Savior of all people,
 especially of those who believe.
 [11] Command and teach these things.

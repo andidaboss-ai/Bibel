@@ -19,14 +19,14 @@ The first letter to Timothy has 6 chapters.
 an apostle of Jesus Christ
 by the command of God
 our Savior
-and of Christ Jesus
+and of the Lord Jesus Christ,
 our hope,
 [2] writes to Timothy,
 his true child in faith:
 Grace,
 mercy
 and peace
-from God the Father
+from God our Father
 and from Christ Jesus our Lord.
 
 > **What does this mean?**
@@ -81,6 +81,7 @@ which was entrusted to me.
 
 > **What does this mean?**
 > Doctrine means: teaching.
+> Righteous means: living right before God.
 > Perjurers means: people who lie under oath.
 > Verse 4: “Myths and endless family trees”: Some teachers busied themselves with speculation and long lists of ancestors. This led to disputes, but not to a better life.
 > Verse 5 is the heart of it: The goal of all teaching is love.
@@ -88,7 +89,7 @@ which was entrusted to me.
 > Verses 9–10: This list roughly follows the Ten Commandments: honoring parents, not killing, not committing adultery, not stealing (“slave-traders” stole people), not giving false testimony.
 > Verse 10: The WEB translates a difficult Greek word as “homosexuals.” It is the same word as in 1 Corinthians 6:9 (*arsenokoitai*). It means roughly: men who sleep with men. The word *homosexual* has only existed since the 19th century. That is why other Bibles translate it in very different ways.
 > Churches understand this passage in different ways today. Some see in it a lasting command against same-sex sexuality. Others say: What was meant was exploitation and abuse as it existed at that time, for example in connection with human trafficking and slavery (the next word in the list), not loving, faithful partnerships as we know them today.
-> Very important: This text gives no one the right to despise people, to insult them or to use violence against them. Every human being has the same dignity before God. If you experience exclusion or violence because of your sexual orientation, you can get help. Young LGBTQ people can contact The Trevor Project. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Very important: This text gives no one the right to despise people, to insult them or to use violence against them. Every human being has the same dignity before God. If you experience exclusion or violence because of your sexual orientation, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 10: “Slave-traders”: Whoever kidnaps and sells people commits a grave injustice. That is also true today of human trafficking and forced labor.
 
 ---
@@ -124,7 +125,7 @@ and receive eternal life.
 [17] Now to the King eternal,
 immortal,
 invisible,
-the only God,
+to God,
 who alone is wise,
 be honor and glory
 forever and ever.

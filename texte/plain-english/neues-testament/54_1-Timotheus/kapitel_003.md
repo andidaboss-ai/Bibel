@@ -24,7 +24,7 @@ and not covetous.
 [4] He must manage his own household well
 and guide his children to obey with all respect.
 [5] For if someone doesn’t know how to manage his own household,
-how could he take care of God’s assembly?
+how could he take care of God’s church?
 [6] He must not be new in the faith.
 Otherwise he might become puffed up
 and fall into the same condemnation as the devil.
@@ -39,7 +39,7 @@ and into the snare of the devil.
 > Verses 2–7: The list shows: For leadership, character matters most, not power or wealth. Leaders are to be gentle, honest, not violent and not greedy for money.
 > Verse 2: “The husband of one wife” is understood in different ways: Some think he should be married only once. Others think he should be faithful to his wife and not have several wives. In the Catholic Church priests today live unmarried. In Orthodox and Protestant churches pastors may be married.
 > Verse 4: The leader is to raise his children with respect. That does not mean with violence. Violence against children is never right.
-> Very important: These rules are meant to protect the church. Whoever has responsibility in the church must never misuse it. If you have experienced abuse in a church, you can get help. In the US, call the RAINN hotline at 1-800-656-4673. In the UK, call NAPAC at 0808 801 0331.
+> Very important: These rules are meant to protect the church. Whoever has responsibility in the church must never misuse it. If you have experienced abuse in a church, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673.
 
 ---
 
@@ -80,7 +80,7 @@ to come to you soon.
 [15] But if I am delayed,
 you should know
 how people ought to behave in God’s house.
-That is the assembly of the living God,
+That is the church of the living God,
 the pillar and foundation of the truth.
 [16] Without question,
 the mystery of godliness is great:

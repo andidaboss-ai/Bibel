@@ -77,6 +77,6 @@ and his word is not in us.
 > Verse 5: “God is light”: With God there is nothing evil and nothing hidden. He is completely good.
 > Verses 6–7: To “live in the light” means: living honestly, hiding nothing, living in a way that fits God.
 > Verses 8 and 10: No one is without faults. Whoever claims that is fooling themselves.
-> Verse 9 is a great comfort: Whoever honestly admits their guilt is forgiven by God. You don’t have to be perfect. You may be honest.
+> Verse 9 is a great comfort: Whoever honestly admits their guilt is forgiven by God. You don’t have to be perfect. You may be honest. “Righteous” here means: God always does what is right.
 > “Confessing” can happen in prayer directly before God. In some churches there is also confession to a pastor or priest.
 > Verse 7: “The blood of Jesus” means his death on the cross. Christians believe: Through his death God gives forgiveness.

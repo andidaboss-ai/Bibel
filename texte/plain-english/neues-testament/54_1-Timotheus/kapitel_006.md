@@ -15,7 +15,7 @@ because they are brothers.
 But rather they are to serve them all the more,
 because those
 who benefit from their service
-are believers and beloved.
+are believers and dearly loved.
 Teach and urge these things.
 
 > **What does this mean?**
@@ -23,7 +23,7 @@ Teach and urge these things.
 > At the time of the letter there were very many slaves in the Roman Empire. There were slaves and masters in the churches too.
 > Verse 1: The letter wanted to avoid the young church being seen as a danger to public order and being persecuted.
 > Verse 2: Even when slave and master were both Christians and so “brothers,” slavery continued. That is hard to understand. But the word “brothers” already showed: Before God they are equal.
-> Very important: Slavery is a grave injustice. These verses were later misused to justify slavery. That was wrong. Many Christians fought against slavery. Today there is still human trafficking and forced labor. Christians should stand up against it. If you know about trafficking or forced labor, you can get help. In the US, call the National Human Trafficking Hotline at 1-888-373-7888. In the UK, call the Modern Slavery Helpline at 08000 121 700.
+> Very important: Slavery is a grave injustice. These verses were later misused to justify slavery. That was wrong. Many Christians fought against slavery. Today there is still human trafficking and forced labor. Christians should stand up against it.
 
 ---
 

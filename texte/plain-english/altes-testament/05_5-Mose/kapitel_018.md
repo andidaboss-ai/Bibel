@@ -59,7 +59,7 @@ But as for you, the LORD your God has not allowed you to do that.
 > Back then, many nations tried to learn the future or to gain power: by reading signs, by magic, by asking the dead. Some even sacrificed their children (“make … pass through the fire”).
 > God says: None of this is for you. You do not need magic. You have me. I speak to you through my word and through my prophets.
 > “Without blame” means: Trust God alone, with your whole heart. Do not hold on to other powers on the side.
-> An important note: These verses were terribly misused in history. In the witch hunts in Europe, tens of thousands of innocent people, most of them women, were tortured and killed. That was a grave injustice. Here the Bible forbids Israelites to practice magic. It gives no one the right to accuse other people of being “witches” and to persecute them.
+> Important note: These verses were terribly misused in history. In the witch hunts in Europe, tens of thousands of innocent people, most of them women, were tortured and killed. That was a grave injustice. Here the Bible forbids Israelites to practice magic. It gives no one the right to accuse other people of being “witches” and to persecute them.
 
 ---
 

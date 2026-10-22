@@ -10,7 +10,7 @@ At its center is Jesus of Nazareth. He was a Jew and lived from about 4 BC until
 The New Testament begins with four “Gospels.” The word means “good news.” Each Gospel tells about the life, the teaching, the death, and the resurrection of Jesus, each in its own way: Matthew, Mark, Luke, and John.
 The Gospel of Matthew was probably written between AD 70 and 90, probably for Christians with a Jewish background. According to an old church tradition, it comes from Matthew, one of the 12 apostles, who had been a tax collector before (Matthew 9:9). Many scholars today think the author was an unknown teacher who was a Jewish Christian.
 Matthew especially shows: Jesus is the promised Messiah of Israel. Again and again he quotes the Old Testament and says that something happened so that what the Lord had spoken through the prophet would come true. Famous parts are the Sermon on the Mount (Chapters 5–7) with the Lord’s Prayer, and the Great Commission at the end (28:19–20).
-An important note: Matthew tells about fierce arguments between Jesus and other Jewish groups of his time, especially the Pharisees. These were arguments within Judaism. Later these texts were often misused to stir up hatred against Jews. That is a grave injustice. Jesus, Mary, Joseph, and all the apostles were Jews. Hatred of Jews has no place in the Christian faith.
+Important note: Matthew tells about fierce arguments between Jesus and other Jewish groups of his time, especially the Pharisees. These were arguments within Judaism. Later these texts were often misused to stir up hatred against Jews. That is a grave injustice. Jesus, Mary, Joseph, and all the apostles were Jews. Hatred of Jews has no place in the Christian faith.
 The Gospel has 28 chapters.
 
 ---
