@@ -105,7 +105,7 @@ Then everything that is written will come true.
 [23] How terrible it will be in those days for women who are pregnant!
 How terrible for mothers who are nursing babies!
 For there will be great trouble in the land.
-God’s anger will come on this people.
+There will be anger against this people.
 [24] They will be killed by the sword.
 They will be taken away as prisoners to all the nations.
 And the Gentiles will trample on Jerusalem
@@ -114,7 +114,7 @@ until the times of the Gentiles are over.”
 > **What does this mean?**
 > Here Luke describes very exactly what happened in the Jewish War: The Romans surrounded Jerusalem and conquered the city in the year AD 70. Many people died, many were made slaves.
 > “How terrible it will be in those days for women who are pregnant!”: Jesus has compassion on those who suffer the most. It is a lament, not a curse.
-> Important: The words “days of punishment” and “God’s anger will come on this people” (in older Bibles: “days of vengeance” and “wrath to this people”) were terribly misused in church history. People said the Jews were being punished “rightly.” That is wrong and has contributed to hatred and persecution. Jesus speaks as a Jewish prophet about his own people, with tears (Luke 19:41). The prophets of Israel lamented in a similar way, for example Jeremiah.
+> Important: The words “days of punishment” and “anger against this people” (the WEB, our English source text, says “days of vengeance” and “wrath to this people”) were terribly misused in church history. People said the Jews were being punished “rightly.” That is wrong and has contributed to hatred and persecution. Jesus speaks as a Jewish prophet about his own people, with tears (Luke 19:41). The prophets of Israel lamented in a similar way, for example Jeremiah.
 > Verse 24: “Until the times of the Gentiles are over”: This time has an end. God’s story with Jerusalem and with Israel goes on (compare Romans 11:25–26).
 > “The Gentiles” here means the Romans.
 
@@ -132,13 +132,13 @@ For the powers in the heavens will be shaken.
 [27] Then people will see the Son of Man coming in a cloud
 with power and great glory.
 [28] When these things begin to happen,
-stand up straight and lift up your heads!
+look up and lift up your heads!
 For soon you will be set free.”
 
 > **What does this mean?**
 > Jesus uses pictures from the books of the prophets (for example Isaiah 13:10; Joel 2:30–31, in the Hebrew Bible and in some Bibles 3:3–4; Daniel 7:13–14). They describe God making the whole world new.
 > These pictures are not exact predictions. They want to show: In the end God comes, and evil does not have the last word.
-> Verse 28: While others are afraid, the disciples are to look up. For them the coming of Jesus is not a threat, but freedom. Older Bibles call this “redemption”: being set free.
+> Verse 28: While others are afraid, the disciples are to look up. For them the coming of Jesus is not a threat, but freedom. The WEB calls this “redemption”: being set free.
 > For today: Whoever is afraid of the future may lift up their head. God holds the world in his hand.
 
 ---

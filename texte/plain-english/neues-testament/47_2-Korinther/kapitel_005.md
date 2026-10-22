@@ -47,7 +47,7 @@ whether good or bad.
 > Verse 1: Paul compares our body with a tent: It is only for a time. Paul was a tentmaker himself. After death God gives a solid house, a new life with him.
 > Verses 2–4: “To be clothed”: Paul doesn’t hope simply to get rid of the body, but that God will give us a new life that overcomes death.
 > Verse 7: “We walk by faith, not by sight.” We don’t see God now. But we trust him.
-> Verse 8: Paul longs to be with Jesus. That does not mean that anyone should end their life. At the same time Paul wants to go on living and to serve others (compare Philippians 1:21–25). If you are thinking about suicide, get help right away. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Verse 8: Paul longs to be with Jesus. That does not mean that anyone should end their life. At the same time Paul wants to go on living and to serve others (compare Philippians 1:21–25). If you are thinking about suicide, get help right away. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 10: Every person is responsible to God for their life.
 
 ---

@@ -5,8 +5,8 @@
 
 ## An example from the wilderness (Verses 1–13)
 
-[1] I don’t want you to be ignorant, brothers:
-Our fathers were all under the cloud,
+[1] Brothers, I want you to know this:
+Our ancestors were all under the cloud,
 and all passed through the sea.
 [2] All were baptized into Moses
 in the cloud and in the sea.
@@ -30,7 +30,7 @@ and rose up
 to play.”
 [8] Let’s not commit sexual immorality,
 as some of them did,
-and in one day twenty-three thousand fell.
+and in one day 23,000 fell.
 [9] Let’s not test Christ,
 as some of them tested him
 and died by the snakes.
@@ -40,13 +40,11 @@ and died by the destroyer.
 [11] All these things happened to them
 as an example.
 They were written down
-to warn us,
-us
-on whom the ends of the ages have come.
-[12] So
-let him who thinks
-he stands
-be careful
+to warn us.
+The end of the ages has come to us.
+[12] So whoever thinks
+that he stands firm
+should be careful
 that he doesn’t fall.
 [13] No temptation has come to you
 except what is common to all people.
@@ -61,9 +59,9 @@ so that you may be able to endure it.
 
 > **What does this mean?**
 > Verses 1–4: Paul recalls Israel’s exodus from Egypt (Exodus 13–17). The cloud led the people. They passed through the sea. God gave them manna to eat and water from the rock. Paul sees in this pictures of baptism and the Lord’s Supper.
-> Verse 4: “The rock was Christ”: Paul says: Christ was already with his people back then. Jewish interpreters told that the rock went along with the people.
+> Verse 4: “The rock was Christ”: Paul says: Christ was already with his people back then. Jewish interpreters told a story that the rock went along with the people.
 > Verse 7 quotes Exodus 32:6 (the golden calf). Verse 8 recalls Numbers 25:1–9. There 24,000 dead are mentioned. Paul says 23,000. Verse 9 recalls Numbers 21:4–9. Verse 10 recalls Numbers 14 and 16.
-> Important: Paul doesn’t tell these stories to judge Israel. He speaks of “our fathers” and says: This is a warning for us, for Christians.
+> Important: Paul doesn’t tell these stories to judge Israel. He speaks of “our ancestors” and says: This is a warning for us, for Christians.
 > Verse 13 is a great comfort: God is faithful. He makes a way of escape. No one has to go through hard times alone.
 > For today: If you feel overwhelmed, you may look for help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
@@ -94,8 +92,7 @@ share in the altar?
 [19] What am I saying then?
 That a thing sacrificed to idols is anything?
 Or that an idol is anything?
-[20] No,
-but I say:
+[20] But I say:
 What the Gentiles sacrifice,
 they sacrifice to demons
 and not to God.
@@ -156,7 +153,7 @@ Do all to the glory of God.
 [32] Give no cause for stumbling,
 whether to Jews,
 or to Greeks,
-or to the assembly of God,
+or to the church of God,
 [33] just as I also try to please everyone in all things.
 I don’t seek my own advantage,
 but the advantage of the many,

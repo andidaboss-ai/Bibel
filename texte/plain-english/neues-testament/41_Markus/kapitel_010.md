@@ -37,7 +37,6 @@ So no one should separate them.”
 “If a man divorces his wife
 and marries another woman,
 he commits adultery against her.
-Adultery means: being unfaithful in marriage.
 [12] And if a woman divorces her husband
 and marries another man,
 she commits adultery.”
@@ -45,10 +44,10 @@ she commits adultery.”
 > **What does this mean?**
 > Moses allowed divorce and gave rules for it (Deuteronomy 24:1–4). In those days in Israel usually only the man could get a divorce. Afterward women were often poor and without protection.
 > Jesus goes back to the beginning (Genesis 1:27 and 2:24): God wants marriage to last. In this way he protects above all the women against being divorced at will.
-> Verse 11: “Against her”: Jesus sees the woman as someone who can be wronged. That was not taken for granted in those days.
+> Verse 11: Adultery means: being unfaithful in marriage. “Against her”: Jesus sees the woman as someone who can be wronged. That was not taken for granted in those days.
 > Verse 12: Under Roman law women could also get a divorce. Mark is probably also writing for readers who lived under Roman law.
 > Christians understand this saying in different ways. The Catholic Church holds that marriage cannot be dissolved. Protestant and Orthodox churches allow divorce and a new marriage under certain circumstances. Matthew gives an exception (Matthew 19:9).
-> Very important: No one has to stay in a marriage in which they are beaten, threatened or abused. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US).
+> Very important: No one has to stay in a marriage in which they are beaten, threatened or abused. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Divorced people are not worse Christians. God loves them.
 
 ---
@@ -154,11 +153,10 @@ or father or mother
 or wife or children
 or land
 because of me and because of the Good News.
-[30] Each one of them will receive one hundred times as much
+[30] Each one of them will receive 100 times as much
 now in this time:
 houses, brothers, sisters, mothers, children and land,
 together with persecutions.
-Persecutions means: being treated badly because of their faith.
 And in the world to come they will receive eternal life.
 [31] But many who are first will be last,
 and the last will be first.”
@@ -167,7 +165,7 @@ and the last will be first.”
 > Verse 24: Jesus tenderly calls his disciples “Children.” The words “who trust in riches” are missing in some old manuscripts.
 > Verse 25: The camel was the largest animal people knew, the eye of a needle the smallest hole. Jesus exaggerates on purpose. The explanation that there was a small city gate called the Needle’s Eye has no evidence behind it.
 > Verse 27: A great comfort: No one can save themselves. But God can.
-> Verse 30: Whoever follows Jesus finds a new, large family in the church. Notice: Fathers are not named a second time here. Some interpreters say: In the new family there is only one Father, God. And: Only Mark mentions “with persecutions.” Following Jesus is not always easy.
+> Verse 30: Whoever follows Jesus finds a new, large family in the church. Notice: Fathers are not named a second time here. Some interpreters say: In the new family there is only one Father, God. And: Only Mark mentions “with persecutions.” Persecutions means: being treated badly because of your faith. Following Jesus is not always easy.
 > Important: This does not mean that you should abandon your family (compare 7:10–13).
 
 ---
@@ -228,7 +226,7 @@ that I am baptized with.
 [40] But I cannot decide who sits at my right side or at my left side.
 Those places are for the people
 for whom they have been prepared.”
-[41] The other ten disciples heard about it.
+[41] The other 10 disciples heard about it.
 They became angry with James and John.
 [42] Jesus called them together
 and said to them,

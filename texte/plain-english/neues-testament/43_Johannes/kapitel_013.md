@@ -84,12 +84,13 @@ He said openly,
 One of you will betray me.”
 [22] The disciples looked at each other.
 They had no idea which one of them he meant.
-[23] One of his disciples was lying at the table close beside Jesus.
+[23] One of his disciples was at the table, leaning against Jesus’ chest.
 Jesus loved this disciple.
 [24] Simon Peter waved to him to get his attention.
 He said to him,
 “Ask him who he is talking about.”
-[25] So that disciple leaned back against Jesus.
+[25] So that disciple leaned back against Jesus’ chest.
+
 He asked him, “Lord, who is it?”
 [26] Jesus answered,
 “It is the one I will give this piece of bread to, after I dip it in the dish.”

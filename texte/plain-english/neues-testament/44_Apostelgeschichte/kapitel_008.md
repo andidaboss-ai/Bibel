@@ -7,12 +7,12 @@
 
 [1] Saul agreed to his death.
 On that day a great persecution began
-against the assembly in Jerusalem.
+against the church in Jerusalem.
 They were all scattered throughout the regions of Judea and Samaria,
 except for the apostles.
 [2] Devout men buried Stephen
 and mourned greatly over him.
-[3] But Saul was destroying the assembly.
+[3] But Saul was destroying the church.
 He went into every house,
 dragged both men and women off,
 and put them in prison.
@@ -27,7 +27,7 @@ and put them in prison.
 
 ## Philip in Samaria (Verses 4–25)
 
-[4] Those who were scattered
+[4] So those who were scattered
 went around
 preaching the word.
 [5] Philip went down to the city of Samaria
@@ -159,8 +159,8 @@ was this:
 As a lamb before his shearer is silent,
 so he doesn’t open his mouth.
 [33] In his humiliation,
-his justice was taken away.
-Who will tell of his descendants?
+his judgment was taken away.
+Who will tell about his generation?
 For his life is taken from the earth.”
 [34] The eunuch asked Philip,
 “Who is the prophet talking about?
@@ -191,7 +191,7 @@ until he came to Caesarea.
 *chariot* = a carriage pulled by horses
 
 > **What does this mean?**
-> Important about the numbering: The WEB has 39 verses in this chapter. Many other Bibles have 40. There is an additional verse 37: Philip asks about the man’s faith, and the man confesses Jesus Christ as the Son of God. This verse is missing in the oldest manuscripts. That is why the WEB leaves it out. Our verses 37–39 are verses 38–40 in those Bibles.
+> Important about the numbering: The WEB has 39 verses in this chapter. Some Bibles have 40. There is an additional verse 37: Philip asks about the man’s faith, and the man confesses Jesus Christ as the Son of God. This verse is missing in the oldest manuscripts. That is why the WEB leaves it out. Our verses 37–39 are verses 38–40 in those Bibles.
 > Verse 27: At that time Ethiopia meant the kingdom south of Egypt, in today’s Sudan. Candace was a title of the queens there. Eunuchs often served at royal courts. According to Deuteronomy 23:1 (in the Hebrew Bible and in some Bibles 23:2), they were not allowed to enter the assembly of the Lord. But the prophet Isaiah had promised: God will accept them too (Isaiah 56:3–5).
 > Verses 32–33 quote Isaiah 53:7–8 in the Greek translation. Christians understand this passage about the suffering servant of God as pointing to Jesus. In Judaism it is often related to the people of Israel.
 > Verse 36: “What is keeping me from being baptized?” The answer is: nothing. A man from Africa, a foreigner, a eunuch, is baptized without hesitation. No one is excluded.

@@ -63,7 +63,7 @@ Whoever is able to accept this, let him accept it.”
 > Verses 4–5 quote Genesis 1:27 and 2:24. Jesus goes back to the beginning: God wants marriage to last.
 > Verse 7: Moses allowed divorce and set rules for it (Deuteronomy 24:1–4). The certificate of divorce protected the woman: She could marry again.
 > Verse 9: Compare 5:31–32. Christians understand this saying in different ways. The Catholic Church holds that marriage cannot be dissolved. Protestant and Orthodox churches allow divorce and a new marriage under certain circumstances.
-> Very important: No one has to stay in a marriage in which he or she is hit, threatened or abused. Violence harms everything marriage is meant to be. Help is available: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Very important: No one has to stay in a marriage in which he or she is hit, threatened or abused. Violence harms everything marriage is meant to be. Help is available: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence: US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > People who are divorced are not “worse” Christians. Many have suffered a lot. God loves them.
 > Verse 12: Eunuchs were men who could not father children, often because they had been mutilated. Jesus speaks about them with respect. “For the sake of the Kingdom of Heaven” probably means people who choose to stay unmarried in order to be there fully for God. It is not a call to hurt yourself.
 > Jesus says: Not everyone can live like this. Marriage and staying single are both good ways.
@@ -156,15 +156,15 @@ What then will we have?”
 you who have followed me,
 in the renewal of the world,
 when the Son of Man sits on the throne of his glory,
-you will also sit on twelve thrones,
-judging the twelve tribes of Israel.
+you will also sit on 12 thrones,
+judging the 12 tribes of Israel.
 [29] And everyone who has left houses,
 or brothers or sisters,
 or father or mother,
 or wife or children,
 or fields,
 for my name’s sake,
-will receive one hundred times as much
+will receive 100 times as much
 and will inherit eternal life.
 [30] But many who are first will be last,
 and the last will be first.
@@ -173,6 +173,6 @@ and the last will be first.
 > Verse 24: The camel was the largest animal people knew in Israel. The eye of a needle is the smallest hole. Jesus exaggerates on purpose so that people will remember it: This is impossible. Some explain that there was a small city gate called “the Needle’s Eye.” But there is no reliable evidence for this.
 > The disciples are shocked. At that time many thought: Wealth is a sign of God’s blessing. If even the rich have a hard time, then who can be saved?
 > Verse 26: The answer is a comfort: No one can save himself, whether poor or rich. God can. Salvation is a gift.
-> Verse 28: “Renewal” (in the WEB: “regeneration”) means the new world that God will create at the end. The twelve disciples match the twelve tribes of Israel. The word “judging” here probably also means “leading” and “ruling,” as with the judges in the Old Testament.
+> Verse 28: “Renewal” (in the WEB: “regeneration”) means the new world that God will create at the end. The 12 disciples match the 12 tribes of Israel. The word “judging” here probably also means “leading” and “ruling,” as with the judges in the Old Testament.
 > Verse 29: Whoever gives something up for Jesus finds a new, large family in the church. That does not mean you should abandon your family. In 15:4–6 Jesus stressed how important it is to care for your parents.
 > Verse 30: With God, different standards apply. Whoever counts for little here below can be right at the front with God. The next chapter tells a parable about this.

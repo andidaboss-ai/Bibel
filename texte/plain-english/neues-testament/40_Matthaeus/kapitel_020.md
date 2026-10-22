@@ -72,7 +72,7 @@ but few are chosen.”
 ## Jesus announces his suffering a third time (Verses 17–19)
 
 [17] As Jesus was going up to Jerusalem,
-he took the twelve disciples aside.
+he took the 12 disciples aside.
 On the way he said to them,
 [18] “We are going up to Jerusalem.
 There the Son of Man
@@ -118,12 +118,12 @@ But the places on my right and on my left
 are not mine to give.
 They belong to those
 for whom my Father has prepared them.”
-[24] When the other ten heard this,
+[24] When the other 10 heard this,
 they were angry with the two brothers.
 [25] But Jesus called them to himself and said,
 “You know
 that the rulers of the nations lord it over them,
-and their great ones misuse their power over them.
+and their great ones use their power over them.
 [26] It shall not be so among you!
 But whoever wants to become great among you
 shall be your servant.

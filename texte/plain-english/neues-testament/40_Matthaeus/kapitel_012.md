@@ -29,10 +29,10 @@ you would not have condemned those who are not guilty.
 [8] For the Son of Man is Lord of the Sabbath.”
 
 > **What does this mean?**
-> The Sabbath is the seventh day of the week, a holy day of rest for God (Exodus 20:8–11). It is a great gift: a day on which the poor, servants and animals may also rest. In Judaism it is still celebrated today.
+> The Sabbath is the seventh day of the week, a holy day of rest for God (Exodus 20:8–11). It is a great gift: a day on which the poor, servants, and animals may also rest. In Judaism it is still celebrated today.
 > Verses 1–2: Picking heads of grain at the edge of a field was allowed (Deuteronomy 23:25). But some teachers counted picking grain on the Sabbath as “harvest work,” which was forbidden on the Sabbath. Jewish teachers had different opinions about this.
 > Verses 3–4: Jesus reminds them of King David, who in a time of need ate the holy bread from the sanctuary (1 Samuel 21:1–6).
-> Bread of the Presence: twelve loaves of bread that were laid out before God in the sanctuary.
+> Bread of the Presence: 12 loaves of bread that were laid out before God in the sanctuary.
 > Verse 5: The priests also work in the temple on the Sabbath, and that is right.
 > Verse 7: Again Jesus quotes Hosea 6:6: Mercy is more important to God than rules. Hungry people are more important.
 > Verse 8: Jesus claims great authority: He is “Lord of the Sabbath.”
@@ -124,7 +124,7 @@ then God’s Kingdom has come upon you.
 and steal his goods
 unless he first ties up the strong man?
 Only then will he rob his house.
-[30] Whoever is not with me is against me,
+[30] “Whoever is not with me is against me,
 and whoever doesn’t gather with me scatters.
 [31] So I tell you,
 every sin and blasphemy will be forgiven people,
@@ -134,7 +134,7 @@ will be forgiven.
 But whoever speaks against the Holy Spirit
 will not be forgiven,
 either in this age or in the age to come.
-[33] Either make the tree good, and its fruit will be good,
+[33] “Either make the tree good, and its fruit will be good,
 or make the tree rotten, and its fruit will be rotten.
 For the tree is known by its fruit.
 [34] You offspring of vipers!
@@ -177,11 +177,11 @@ and will condemn it,
 for she came from the ends of the earth
 to hear the wisdom of Solomon.
 And someone greater than Solomon is here.
-[43] When an unclean spirit has gone out of a person,
+[43] “When an unclean spirit has gone out of a person,
 it wanders through dry places, looking for rest, and doesn’t find it.
 [44] Then it says,
 ‘I will go back to my house that I came out of.’
-And when it comes, it finds the house empty, swept and put in order.
+And when it comes, it finds the house empty, swept, and put in order.
 [45] Then it goes and takes along seven other spirits
 more evil than itself.
 They go in and live there.
@@ -215,5 +215,5 @@ is my brother and sister and mother.”
 > **What does this mean?**
 > Jesus does not reject his family. He says: There is a new, larger family, the family of God. Everyone who does God’s will belongs to it. He also names “sister” on purpose: Women naturally belong to it.
 > About the “brothers of Jesus,” see the box on 1:25: Protestant Christians usually understand them as real brothers, Catholic and Orthodox Christians as close relatives.
-> Verse 47 is missing in some old manuscripts. The WEB has it.
+> Verse 47 is missing in some old manuscripts. The WEB, our English source text, has it.
 > For today: People who have no family, or who were hurt by their family, can find a home in God’s family.

@@ -63,7 +63,7 @@ But we must suffer with him, so that we will also share in his glory.
 *adoption* = taking someone as your own child
 
 > **What does this mean?**
-> Verse 13: “If by the Spirit you put to death the deeds of the body, you will live.” This is a picture. It means: not letting evil rule within you. It does not mean that you should harm your body. If you are thinking about hurting yourself, please get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Verse 13: “If by the Spirit you put to death the deeds of the body, you will live.” This is a picture. It means: not letting evil rule within you. It does not mean that you should harm your body. If you are thinking about hurting yourself, please get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 15: “Abba” is Aramaic and means *father*, the loving way a child speaks to a father. Jesus himself prayed to God like this (Mark 14:36).
 > Verse 15: “Spirit of adoption”: God takes us as his children.
 > Verse 17: Children are heirs. We receive a share in everything that belongs to God.

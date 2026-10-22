@@ -78,7 +78,7 @@ given to us through the prayers of many.
 > **What does this mean?**
 > Verses 3–4: God is the “God of all comfort.” Whoever has experienced comfort can comfort others.
 > Verses 8–9: Paul tells quite openly: He despaired and thought he would die. We don’t know exactly what happened in the province of Asia (in what is now Turkey).
-> For today: People with strong faith can despair too. That is no shame. If you don’t know how to go on, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> For today: People with strong faith can despair too. That is no shame. If you don’t know how to go on, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 11: Praying for one another connects people.
 
 ---

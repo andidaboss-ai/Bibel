@@ -67,7 +67,7 @@ When you meet, it does more harm than good.
 when you come together as a church.
 And I partly believe it.
 [19] There must be groups among you,
-so that it becomes clear which of you are faithful.
+so that it becomes clear which of you God approves.
 [20] So when you meet,
 it is not the Lord’s Supper that you eat.
 [21] When you eat, each person eats his own supper first.
@@ -82,7 +82,7 @@ No, in this I do not praise you.
 
 > **What does this mean?**
 > In those days Christians celebrated the Lord’s Supper as a shared meal in a home. The rich came earlier because they didn’t have to work. They were already eating before the poor and the slaves came after their work. So nothing was left for the poor.
-> Paul says: That is not the Lord’s Supper. Whoever shames the poor despises God’s assembly.
+> Paul says: That is not the Lord’s Supper. Whoever shames the poor despises God’s church.
 > For today: With God there are no first-class and second-class people. A church should make sure that everyone belongs, including the poor.
 
 ---
@@ -134,5 +134,5 @@ I will put the other things in order when I come.
 > Verse 24: The WEB says “broken for you.” Some old manuscripts only say *for you*.
 > Verse 26: At the Lord’s Supper, Christians remember the death of Jesus and wait for him to come again.
 > Verses 27–29: “In an unworthy way” here mainly means: the way it was happening in Corinth, without care for the poor. To “discern the Lord’s body” probably also means: to respect the church as the body of Christ (compare 10:17).
-> Important: No one has to be perfect to come to the Lord’s Supper. Precisely those who know their weakness are invited.
+> Important: No one has to be perfect to come to the Lord’s Supper. Especially people who know their weakness are invited.
 > Verse 30: Paul sees illnesses in Corinth as a result of these wrongs. That doesn’t mean that illness in general is a punishment from God. Jesus himself rejected that idea (John 9:2–3).

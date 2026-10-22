@@ -41,7 +41,7 @@ It is better to marry than to burn with passion.
 > **What does this mean?**
 > Verse 1: “It is good for a man not to touch a woman” was probably a sentence from the Corinthians’ letter. Some in Corinth thought that Christians should give up sexuality completely, even in marriage. Paul disagrees.
 > Verses 3–4: For that time this was very new: Paul speaks about husband and wife in exactly the same way. Both have the same rights and duties.
-> Very important: These verses give no one the right to force sex. Sexuality in marriage always needs the agreement of both (verse 5: “by consent for a season”). Violence and rape are a serious wrong in marriage too, and they are a crime. Help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247; men can also call the Men’s Advice Line at 0808 801 0327. Police: 911 (US), 999 (UK).
+> Very important: These verses give no one the right to force sex. Sexuality in marriage always needs the agreement of both (verse 5: “by consent for a season”). Violence and rape are a serious wrong in marriage too, and they are a crime. Help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247; men can also call the Men’s Advice Line at 0808 801 0327. Police: your local emergency number (911 in the US, 999 in the UK).
 > Verse 7: Paul himself was not married. He sees both marriage and staying single as a “gift from God.”
 
 ---
@@ -77,7 +77,7 @@ Husband, how do you know whether you will save your wife?
 > **What does this mean?**
 > Verses 10–11: Here Paul refers to a word of Jesus (compare Mark 10:9–12). Marriage should last a lifetime.
 > Churches today deal with divorce and remarriage in different ways. The Catholic Church holds firmly that marriage cannot be dissolved. Protestant and Orthodox churches allow a new marriage under certain circumstances.
-> Very important: No one has to stay in a marriage in which they experience violence. Safety comes first. Paul himself says: “God has called us to peace” (verse 15). In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Women’s shelters also offer protection. Police: 911 (US), 999 (UK).
+> Very important: No one has to stay in a marriage in which they experience violence. Safety comes first. Paul himself says: “God has called us to peace” (verse 15). In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Women’s shelters also offer protection. Police: your local emergency number (911 in the US, 999 in the UK).
 > Verses 12–14: If one partner is a Christian and the other is not, they should still stay together. The Christian partner makes the family “holy.” The children belong to God.
 
 ---
@@ -192,6 +192,6 @@ And I think that I also have God’s Spirit.
 
 > **What does this mean?**
 > Verses 36–38: These verses are hard to understand. The WEB understands them like this: A man (probably the father) decides whether his daughter marries. Other interpreters think: It is about an engaged couple who are thinking about whether to marry. In those days fathers often decided about their daughters’ marriages.
-> Important: Today the rule is: No one may be forced into a marriage. Forced marriage is against the law. If you are being threatened, you can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the Forced Marriage Unit at 020 7008 0151. Police: 911 (US), 999 (UK).
+> Important: Today the rule is: No one may be forced into a marriage. Forced marriage is against the law. If you are being threatened, you can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the Forced Marriage Unit at 020 7008 0151. Police: your local emergency number (911 in the US, 999 in the UK).
 > Verse 39: A widow may freely choose whom she marries. For that time this was a large piece of freedom.
 > Verse 40: Paul stresses once more: This is his opinion.

@@ -69,7 +69,7 @@ Love each other.
 > **What does this mean?**
 > Verse 11: Jesus wants his disciples to have joy, a joy that remains.
 > Verse 13: “No one has a greater love”: Jesus is speaking about his own death. He gives his life for those whom he loves.
-> Important: This verse does not mean that you should throw your life away. It describes how great Jesus’ love is. If you are thinking about ending your life, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Important: This verse does not mean that you should throw your life away. It describes how great Jesus’ love is. If you are thinking about ending your life, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 15: Jesus calls his disciples “friends,” not servants. That is a great honor. Abraham was called God’s friend (Isaiah 41:8).
 > Verse 16: God looks for people first. Faith begins with God’s call.
 

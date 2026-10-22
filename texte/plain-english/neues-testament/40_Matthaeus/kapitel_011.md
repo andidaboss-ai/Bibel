@@ -5,7 +5,7 @@
 
 ## John the Baptizer’s question (Verses 1–6)
 
-[1] When Jesus had finished giving instructions to his twelve disciples,
+[1] When Jesus had finished giving instructions to his 12 disciples,
 he went on from there
 to teach and preach in their towns.
 [2] When John heard in prison about the works of the Christ,
@@ -69,7 +69,7 @@ he is Elijah, who was to come.
 
 ## This generation (Verses 16–19)
 
-[16] But what shall I compare this generation to?
+[16] “But what shall I compare this generation to?
 It is like children sitting in the marketplaces
 who call out to their playmates:
 [17] ‘We played the flute for you,
@@ -93,13 +93,13 @@ Yet wisdom is proved right by her children.”
 
 ---
 
-## Woe to the towns that did not repent (Verses 20–24)
+## How terrible for the towns that did not repent (Verses 20–24)
 
 [20] Then he began to scold the towns
 in which most of his mighty works had been done,
 because they had not repented:
-[21] “Woe to you, Chorazin!
-Woe to you, Bethsaida!
+[21] “How terrible it will be for you, Chorazin!
+How terrible for you, Bethsaida!
 For if the mighty works had been done in Tyre and Sidon
 that were done in you,
 they would have repented long ago in sackcloth and ashes.
@@ -115,7 +115,7 @@ it would still be standing today.
 it will be easier for the land of Sodom on the day of judgment than for you.”
 
 > **What does this mean?**
-> Chorazin, Bethsaida and Capernaum were small places on the Sea of Galilee. Jesus had done many miracles there. Even so, the people had not changed their lives.
+> Chorazin, Bethsaida, and Capernaum were small places on the Sea of Galilee. Jesus had done many miracles there. Even so, the people had not changed their lives.
 > Tyre and Sidon were pagan port cities; Sodom was a well-known example of a place far from God. Jesus says: Even these cities would have repented if they had experienced so much.
 > Sackcloth and ashes: rough clothing and ashes on the head, signs of sorrow and repentance.
 > Whoever has received much from God carries more responsibility. That is true for everyone, Christians today too.
@@ -134,7 +134,7 @@ and revealed them to little children.
 No one knows the Son except the Father,
 and no one knows the Father except the Son
 and anyone to whom the Son wants to reveal him.
-[28] Come to me, all you who are weary and heavily burdened,
+[28] “Come to me, all you who are weary and heavily burdened,
 and I will give you rest.
 [29] Take my yoke on you and learn from me,
 for I am gentle and humble in heart.
@@ -145,6 +145,6 @@ and my burden is light.”
 > **What does this mean?**
 > Verses 25–26: Jesus thanks God: It is not the scholars and clever people who understand God’s secret, but the “little children,” the small and simple people. To know God you don’t need education, but an open heart.
 > Verse 27: Jesus has a unique relationship with God the Father. Through him people can come to know God.
-> Verse 28: One of the most beautiful and best-known sayings of Jesus: “Come to me, all you who are weary and heavily burdened.” Jesus invites everyone who is tired, worn out, overwhelmed, weighed down by worries, guilt or suffering.
+> Verse 28: One of the most beautiful and best-known sayings of Jesus: “Come to me, all you who are weary and heavily burdened.” Jesus invites everyone who is tired, worn out, overwhelmed, weighed down by worries, guilt, or suffering.
 > Verses 29–30: A yoke was a wooden beam with which two oxen pulled a plow together. It was also a picture for a teaching or a law that you follow. Jesus says: My yoke is easy. He is not harsh and strict, but “gentle and humble in heart.” With him you find rest.
 > If you feel worn out and overloaded and would like to talk to someone: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

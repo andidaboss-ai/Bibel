@@ -162,7 +162,7 @@ when I am with you again.
 > Verse 19: “Salvation” can mean here: being set free from prison. It can also mean: being saved by God, no matter how the trial ends.
 > Verse 21: A famous sentence. Paul means: My whole life belongs to Christ. And if I die, I lose nothing, because then I am with Christ.
 > Verses 22–24: Paul is in prison and has to expect to be executed. He says honestly: To be with Christ would be good. But he chooses life, because others need him.
-> Very important: These verses are no encouragement to end your own life. Paul chooses life (verses 24–25). If you long for death because life is too hard, you are not alone. Please talk to someone about it. Help is available around the clock. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people in the UK can call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US).
+> Very important: These verses are no encouragement to end your own life. Paul chooses life (verses 24–25). If you long for death because life is too hard, you are not alone. Please talk to someone about it. Help is available around the clock. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people in the UK can call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

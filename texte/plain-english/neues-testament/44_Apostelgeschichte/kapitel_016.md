@@ -234,7 +234,7 @@ and then left.
 > **What does this mean?**
 > Verse 25: In the middle of pain and imprisonment Paul and Silas pray and sing. Their faith gives them strength.
 > Verses 27–28: The jailer wants to kill himself because he thinks he will be punished harshly for the escape. Paul saves him: “Don’t harm yourself!”
-> Important: If you are thinking about ending your life, you are not alone. Help is available around the clock: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Important: If you are thinking about ending your life, you are not alone. Help is available around the clock: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verses 30–34: The jailer who locked them up now washes their wounds. Enemies become brothers.
 > Verse 37: Roman citizens were not allowed to be beaten without a trial. Paul insists on his rights. In this way he also protects the young church in Philippi.
 > For today: Christians may also stand up for their rights. Human rights apply to everyone.

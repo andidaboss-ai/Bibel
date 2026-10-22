@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > Stephen tells the history of Israel, his own people. At the end he speaks very harshly to the members of the council (verses 51–53). He speaks like the prophets of Israel, who also often warned their people harshly. Stephen is a Jew himself.
 > These words are addressed to certain people in a certain situation. They must never be used against the Jewish people (*Nostra Aetate*, 1965). And Stephen himself prays for his opponents as he dies (verse 60).
 
@@ -27,14 +27,14 @@ God promised this when Abraham still had no child.
 [6] God said this to him:
 His offspring would live as foreigners in a strange land.
 There they would be slaves.
-They would be treated badly for four hundred years.
+They would be treated badly for 400 years.
 [7] God said, ‘But I will judge the nation that makes them slaves.
 After that they will come out and serve me in this place.’
 [8] God gave Abraham the covenant of circumcision.
 Abraham became the father of Isaac.
 He circumcised Isaac on the eighth day.
 Isaac became the father of Jacob.
-And Jacob became the father of the twelve patriarchs.
+And Jacob became the father of the 12 patriarchs.
 [9] The patriarchs were jealous of Joseph.
 They sold him as a slave into Egypt.
 But God was with him.
@@ -50,29 +50,27 @@ That was their first trip.
 [13] On their second trip, Joseph told his brothers who he was.
 And Pharaoh learned about Joseph’s family.
 [14] Joseph sent for his father Jacob and all his relatives.
-There were seventy-five people.
+There were 75 people.
 [15] So Jacob went down to Egypt.
 There he died, and our ancestors died too.
 [16] Their bodies were brought back to Shechem.
 They were laid in the tomb there.
-Abraham had bought that tomb with silver from the children of Hamor of Shechem.
-
-*patriarchs* = the forefathers of the people
-*bondage* = slavery
+Abraham had bought that tomb with silver from the sons of Hamor of Shechem.
 
 > **What does this mean?**
 > Stephen had been accused of speaking against Moses, the law and the temple (6:11–14). He answers by telling the history of Israel. He shows: I honor the ancestors and Moses.
 > Verses 2–8 recall Genesis 11–21. Verse 3 quotes Genesis 12:1. Verses 6–7 recall Genesis 15:13–14 and Exodus 3:12.
+> Verse 8: The “patriarchs” are the forefathers of the people of Israel.
 > Important: God appears to Abraham outside the land of Israel, in Mesopotamia. God is not tied to one place.
 > Verses 9–16 briefly tell the story of Joseph (Genesis 37–50). Joseph too was in a foreign land, and God was with him.
-> Verse 14: “Seventy-five”: That is what the Greek translation of the Old Testament says. In the Hebrew text it is seventy (Genesis 46:27).
+> Verse 14: “75”: That is what the Greek translation of the Old Testament says. In the Hebrew text it is 70 (Genesis 46:27).
 > Verse 16: Here Stephen brings different traditions together. In the Old Testament Abraham buys a tomb in Hebron (Genesis 23), and Jacob buys a piece of land in Shechem (Genesis 33:19). The WEB translates exactly what the Greek text says.
 
 ---
 
 ## Moses (Verses 17–43)
 
-[17] The time came near for God to keep his promise to Abraham.
+[17] “The time came near for God to keep his promise to Abraham.
 God had promised it with an oath.
 The people grew and became very many in Egypt.
 [18] Then a different king came to power in Egypt.
@@ -88,7 +86,7 @@ Pharaoh’s daughter took him in.
 She raised him as her own son.
 [22] Moses was taught all the wisdom of the Egyptians.
 He was powerful in what he said and in what he did.
-[23] When Moses was forty years old, he decided to visit his brothers, the people of Israel.
+[23] When Moses was 40 years old, he decided to visit his brothers, the people of Israel.
 [24] He saw an Egyptian treating one of them unfairly.
 So he defended the man.
 He took revenge for him and struck down the Egyptian.
@@ -104,8 +102,8 @@ He said, ‘Who made you a ruler and a judge over us?
 [29] When Moses heard this, he fled.
 He lived as a foreigner in the land of Midian.
 There he had two sons.
-[30] Forty years passed.
-Then an angel of the Lord appeared to Moses in the wilderness near Mount Sinai.
+[30] After 40 years had passed,
+an angel of the Lord appeared to Moses in the wilderness near Mount Sinai.
 The angel was in the flame of a burning bush.
 [31] Moses saw it and was amazed at the sight.
 He went closer to look.
@@ -126,7 +124,7 @@ But God sent him to be their ruler and their deliverer.
 God did it through the angel who had appeared to Moses in the bush.
 [36] Moses led them out.
 He did wonders and signs in Egypt and at the Red Sea.
-He did them in the wilderness for forty years.
+He did them in the wilderness for 40 years.
 [37] This is the same Moses who said to the people of Israel:
 ‘The Lord our God will raise up a prophet for you from among your brothers.
 He will be like me.’
@@ -146,14 +144,11 @@ They celebrated what their own hands had made.
 [42] But God turned away from them.
 He let them serve the army of the sky.
 That is what is written in the book of the prophets:
-‘House of Israel, did you bring me animals and sacrifices for forty years in the wilderness?
-[43] No, you carried the tabernacle of Moloch.
+‘House of Israel, did you bring me slaughtered animals and sacrifices for 40 years in the wilderness?
+[43] You carried the tabernacle of Moloch.
 You carried the star of your god Rephan.
 These were the images you made so that you could worship them.
 So I will send you away beyond Babylon.’
-
-*deliverer* = rescuer
-*tabernacle* = tent used as a holy place
 
 > **What does this mean?**
 > Verses 17–36 tell the story of Moses (Exodus 1–14). Stephen speaks about Moses with great respect. In this way he shows: The accusation that he insults Moses is false.
@@ -161,17 +156,17 @@ So I will send you away beyond Babylon.’
 > Verse 20: “Very beautiful in God’s eyes” means: God was pleased with this child.
 > Verse 24: Moses kills an Egyptian. The Bible tells this honestly. Afterwards Moses had to flee. Violence doesn’t solve problems.
 > Verses 30–34 recall Exodus 3: God sees the suffering of his people and wants to rescue them.
-> Verse 35: Stephen shows a pattern: At first Moses was rejected, but God sent him as a deliverer. For Stephen this points to Jesus.
+> Verse 35: A deliverer is a rescuer. Stephen shows a pattern: At first Moses was rejected, but God sent him as a deliverer. For Stephen this points to Jesus.
 > Verse 37 quotes Deuteronomy 18:15.
 > Verses 40–41 recall the golden calf (Exodus 32).
-> Verse 42: “The army of the sky” means the stars, which people worshiped as gods. Verses 42–43 quote Amos 5:25–27 in the Greek translation. Moloch and Rephan were names of foreign gods.
+> Verse 42: “The army of the sky” means the stars, which people worshiped as gods. Verses 42–43 quote Amos 5:25–27 in the Greek translation. Moloch and Rephan were names of foreign gods. A tabernacle is a tent used as a holy place.
 > Important: The prophets of Israel themselves called their people to turn back to God. Stephen speaks in this tradition, as part of the people.
 
 ---
 
 ## The tent of meeting and the temple (Verses 44–53)
 
-[44] Our ancestors had the tabernacle of the testimony with them in the wilderness.
+[44] “Our ancestors had the tabernacle of the testimony with them in the wilderness.
 God had spoken to Moses and told him how to make it.
 Moses made it like the pattern he had seen.
 [45] Later our ancestors received it.
@@ -180,9 +175,9 @@ They took the land from the nations.
 God drove these nations out in front of our ancestors.
 The tabernacle was there until the days of David.
 [46] David found favor with God.
-He asked to find a dwelling place for the God of Jacob.
+He asked to find a home for the God of Jacob.
 [47] But it was Solomon who built a house for God.
-[48] But the Most High does not live in temples that people have made.
+[48] Yet the Most High does not live in temples that people have made.
 As the prophet says:
 [49] ‘The Lord says: Heaven is my throne.
 The earth is a footstool for my feet.
@@ -213,7 +208,7 @@ But you did not keep it!”
 [54] When the council heard this, it cut them to the heart.
 They ground their teeth at Stephen in anger.
 [55] But Stephen was full of the Holy Spirit.
-He looked up into heaven.
+He looked steadily up into heaven.
 He saw the glory of God.
 He saw Jesus standing at the right hand of God.
 [56] He said, “Look!

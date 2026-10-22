@@ -130,7 +130,7 @@ pouring rain and huge hailstones,
 fire and sulfur.
 [23] I will show how great and how holy I am.
 I will make myself known in the eyes of many nations.
-Then they will know that I am the LORD.”’
+Then they will know that I am the LORD.”’”
 
 > **What does this mean?**
 > When Gog attacks, it is not Israel that fights, but God himself. He sends an earthquake, rain, hail, fire and sulfur. And the enemies kill one another (verse 21).

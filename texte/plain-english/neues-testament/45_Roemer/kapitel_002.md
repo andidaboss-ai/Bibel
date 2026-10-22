@@ -5,9 +5,9 @@
 
 ## Whoever judges others (Verses 1–11)
 
-[1] So you are without excuse, O man,
-whoever you are
-who judge.
+[1] So you have no excuse,
+you human being who judges,
+whoever you are.
 For in the things you judge another,
 you condemn yourself.
 For you
@@ -17,7 +17,7 @@ do the same things.
 that the judgment of God
 against those who do such things
 is according to truth.
-[3] O man,
+[3] You human being,
 you judge those
 who do such things,
 and you do the same yourself.
@@ -30,19 +30,19 @@ Don’t you know
 that the goodness of God leads you to repentance?
 [5] But you have a hard heart
 that doesn’t want to repent.
-So you are storing up wrath for yourself
-for the day of wrath,
+So you are storing up anger for yourself
+for the day of anger,
 when the righteous judgment of God will be revealed.
 [6] He “will pay back to everyone according to their works”:
 [7] To those
 who patiently keep doing good
-and seek glory, honor and incorruptibility,
+and seek glory, honor and what never decays,
 he gives eternal life.
 [8] But to those
 who are self-seeking
 and don’t obey the truth,
 but obey unrighteousness,
-there will be wrath and anger,
+there will be anger and fury,
 [9] oppression and anguish
 on every human being
 who does evil,
@@ -58,7 +58,8 @@ and also to the Greek.
 *partiality* = treating some people better than others
 
 > **What does this mean?**
-> Verse 1: Paul turns around. He has just described the sins of the world. Now he says: Whoever points a finger at others now is meant himself. No one is better than the others.
+> Verse 1: Paul turns around. He has just described the sins of the world. Now he says: Whoever points a finger at others is also meant.
+ No one is better than the others.
 > Verse 4: A beautiful sentence: The goodness of God leads to repentance. God doesn’t threaten first; he invites.
 > Verse 6 quotes Psalm 62:12 (in the Hebrew Bible and in some Bibles 62:13) and Proverbs 24:12.
 > Verses 9–10: “To the Jew first, and also to the Greek”: Israel has a special place with God. But God measures everyone with the same measure.

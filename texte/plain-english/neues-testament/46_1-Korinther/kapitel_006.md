@@ -32,7 +32,7 @@ And you even do it to your own brothers.
 > Verse 1: The Christians in Corinth took small quarrels, for example about money, to the Roman courts. Paul thinks: Christians should settle their quarrels among themselves peacefully.
 > Verses 2–3: Paul writes “that the saints will judge the world.” He means the future, when God’s Kingdom comes.
 > Verse 7: Paul says: It is better to suffer wrong than to do wrong.
-> Important: This text is about small quarrels. It does not mean that crimes like violence or abuse should be handled inside the church. Such acts belong before the police and a court of the state. That protects the victims. Police: 911 (US), 999 (UK).
+> Important: This text is about small quarrels. It does not mean that crimes like violence or abuse should be handled inside the church. Such acts belong before the police and a court of the state. That protects the victims. Police: your local emergency number (911 in the US, 999 in the UK).
 > For today: Many churches offer conflict resolution and mediation.
 
 ---
@@ -64,7 +64,7 @@ and in the Spirit of our God.
 > Verses 9–10: Paul lists ways of behaving that don’t fit with God’s Kingdom. Many of them are about how we treat other people: cheating, greed, slander, robbery.
 > Verse 9: Two Greek words in this verse are hard to translate. The WEB translates them as “male prostitutes” and “homosexuals.” The first word (*malakoi*) literally means *the soft ones*. The second word (*arsenokoitai*) means something like *men who sleep with men*. It does not appear in any known text before Paul. The word “homosexual” has only existed since the 19th century. That is why other Bibles translate these words very differently.
 > The churches understand this passage differently today. Some see it as a lasting command against same-sex sexuality. Others say: Paul meant exploitation, prostitution and the abuse of boys as it existed in his time, not loving, faithful partnerships as we know them today. Many churches are seriously wrestling with this question.
-> Very important: This text gives no one the right to despise, insult or use violence against people. Every person has the same dignity before God. If you experience exclusion or violence because of your sexual orientation, you can get help. In the US, call or text 988; young LGBTQ people can also contact The Trevor Project. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Very important: This text gives no one the right to despise, insult or use violence against people. Every person has the same dignity before God. If you experience exclusion or violence because of your sexual orientation, you can get help. In the US, call or text 988; young LGBTQ people can also contact The Trevor Project. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 11 is the heart: “But you were washed. You were made holy. You were made righteous.” God changes people. No one is shut out from his grace.
 
 ---

@@ -117,7 +117,7 @@ And now I will show you a most excellent way.
 > Verses 12–27: The picture of the body was well known at that time. Paul uses it like this: The church is like a body. Every part is important, and all need one another.
 > Verse 13: In the church, differences of background and social position no longer count: Jews and Greeks, slaves and free people belong to the one body.
 > Verses 15–16: No one should think that they are not important.
-> Verses 21–22: And no one should say to another: “I have no need for you.” Precisely those who seem weak cannot be done without.
+> Verses 21–22: And no one should say to another: “I have no need for you.” Especially those who seem weak are needed.
 > For today: People with disabilities, old, sick and poor people belong as a matter of course. A church in which they are missing is not complete.
 > Verse 26: “When one member suffers, all the members suffer with it.” Compassion is part of what the church is.
 > Verse 31: The “most excellent way” is love. The next chapter is about that.

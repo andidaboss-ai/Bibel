@@ -210,7 +210,7 @@ Jesus said to him,
 > Back then oil and wine were used as medicine: Wine cleaned the wounds, oil soothed them.
 > Two denarii were the pay for two days of work. That was enough for several days at the inn.
 > Verse 36: Jesus turns the question around. Not: Who is my neighbor? But: To whom do I become a neighbor?
-> For today: Every person in need is my neighbor, no matter where they come from. In an accident or emergency: call your local emergency number (911 in the US) and give first aid.
+> For today: Every person in need is my neighbor, no matter where they come from. In an accident or emergency: call your local emergency number (911 in the US, 999 in the UK) and give first aid.
 
 ---
 

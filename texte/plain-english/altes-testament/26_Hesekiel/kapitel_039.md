@@ -64,7 +64,7 @@ says the Lord GOD.
 
 ## The burial in the valley of Hamon Gog (Verses 11–16)
 
-[11] “‘“On that day I will give Gog a burial place in Israel,
+[11] “On that day I will give Gog a burial place in Israel,
 the valley of the travelers, east of the sea.
 It will block the way of the travelers.
 There they will bury Gog and all his crowd of people.
@@ -75,7 +75,7 @@ to make the land clean.
 And they will become famous for it
 on the day I show my glory,”
 says the Lord GOD.
-[14] “‘“They will choose men whose full-time job
+[14] “They will choose men whose full-time job
 is to go through the land.
 These men will go with those who bury the bodies
 that are still lying on the ground,

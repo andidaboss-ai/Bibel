@@ -45,7 +45,7 @@ because he has nothing bad to say about us.
 > Verse 3: Older women are to be “teachers of that which is good.” Women had an important task as teachers of other women.
 > Verses 4–5: These roles reflect the family order of that time. The reason is given: “that God’s word may not be blasphemed.” The young church did not want to give offense in its surroundings.
 > Today many Christians understand marriage as a partnership of two people with equal rights. Others hold on to a special responsibility of the husband. All stress: It is about love, not about power.
-> Very important: These verses give no one the right to rule over their spouse or to use violence. Violence in marriage is a serious wrong and a crime. You can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Men can also call the Men’s Advice Line at 0808 801 0327. In an emergency, call 911 in the US or 999 in the UK.
+> Very important: These verses give no one the right to rule over their spouse or to use violence. Violence in marriage is a serious wrong and a crime. You can get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Men can also call the Men’s Advice Line at 0808 801 0327. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

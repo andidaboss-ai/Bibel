@@ -248,7 +248,7 @@ to fall away from God.
 It would be better for him
 to have a millstone tied around his neck
 and to be thrown into the sea.
-[43] If your hand causes you to sin,
+[43] If your hand causes you to stumble,
 cut it off.
 It is better for you
 to go into life with only one hand
@@ -256,7 +256,7 @@ than to have two hands and go into Gehenna,
 into the fire that never goes out,
 [44] ‘where their worm does not die,
 and the fire does not go out.’
-[45] If your foot causes you to sin,
+[45] If your foot causes you to stumble,
 cut it off.
 It is better for you
 to go into life with only one foot
@@ -264,7 +264,7 @@ than to have two feet and be thrown into Gehenna,
 into the fire that never goes out,
 [46] ‘where their worm does not die,
 and the fire does not go out.’
-[47] If your eye causes you to sin,
+[47] If your eye causes you to stumble,
 throw it away.
 It is better for you
 to go into God’s Kingdom with one eye
@@ -280,10 +280,10 @@ Have salt in yourselves.
 And live in peace with each other.”
 
 > **What does this mean?**
-> Verse 42: Jesus clearly takes the side of the weak and of children. Whoever harms them does great wrong. Whoever has experienced abuse or knows about it can find help: In the US, call RAINN at 1-800-656-4673. Children and young people: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111.
+> Verse 42: Jesus clearly takes the side of the weak and of children. Whoever harms them does great wrong. Whoever has experienced abuse or knows about it can find help. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Children and young people in the UK can call Childline at 0800 1111.
 > Millstone: a large, heavy stone for grinding grain.
 > Verses 43–47 are picture language. Jesus wants to say: Take evil very seriously. Separate yourself from everything that leads you to evil. He does not mean that anyone should really hurt themselves.
-> Whoever is thinking about hurting themselves, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Whoever is thinking about hurting themselves, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > “Gehenna” was a valley near Jerusalem. It became a picture for God’s judgment.
 > Verses 44 and 46 are missing in the best old manuscripts. They repeat verse 48. The WEB has them. The words come from Isaiah 66:24.
 > Verse 49 is hard to understand. Salt cleans and preserves. Perhaps it means: Whoever follows Jesus is tested and purified by hard things. The second part (“every sacrifice will be seasoned with salt”) is missing in some manuscripts. It reminds us of Leviticus 2:13.

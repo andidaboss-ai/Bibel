@@ -69,15 +69,15 @@ about what they could do to Jesus.
 
 ---
 
-## Jesus chooses the twelve apostles (Verses 12–16)
+## Jesus chooses the 12 apostles (Verses 12–16)
 
 [12] In those days Jesus went out to the mountain to pray.
 He prayed to God all night long.
 [13] When morning came,
 he called his disciples to him.
-From them he chose twelve.
+From them he chose 12.
 He also called them apostles.
-[14] These are the twelve:
+[14] These are the 12:
 Simon, whom he also named Peter,
 and Andrew, his brother,
 James and John,
@@ -91,7 +91,7 @@ who later became a traitor.
 
 > **What does this mean?**
 > Before an important decision, Jesus prays all night. In Luke, Jesus often prays.
-> “Apostle” means “one who is sent.” Twelve apostles, like the twelve tribes of Israel.
+> “Apostle” means “one who is sent.” There are 12 apostles, like the 12 tribes of Israel.
 > “Judas the son of James” is called “Thaddaeus” in Mark and Matthew. He probably had two names.
 > “Zealot” means someone who is full of zeal, eager and passionate. The Zealots were passionate Jews. Some of them wanted to fight against the Romans.
 
@@ -143,11 +143,11 @@ You will be hungry.
 How terrible it will be for you who laugh now!
 You will be sad and cry.
 [26] How terrible it will be for you when everyone speaks well of you!
-Their ancestors did the same things for the false prophets.”
+Their ancestors spoke well of the false prophets in the same way.”
 
 > **What does this mean?**
 > “Blessed” means: happy, blessed by God.
-> “How terrible it will be for you”: a cry of pain and warning. Older Bibles say “woe.” It means: Things will go badly for you.
+> “How terrible it will be for you”: a cry of pain and warning. The WEB, our English source text, says “woe.” It means: Things will go badly for you.
 > In Luke, Jesus speaks directly to the poor, the hungry and those who weep: “Blessed are you.” In Matthew it says: “Blessed are those who are poor in spirit” (Matthew 5:3). Luke very directly means people who are really poor.
 > God is on the side of the poor. Their suffering matters to him. He promises that it will be turned around. This reminds us of the song of Mary (1:52–53).
 > These “woe” sayings are found only in Luke. They are a serious warning to the rich and the full. Wealth is not evil in itself. But whoever thinks only of himself and forgets the poor has already received everything he can expect.
@@ -194,7 +194,7 @@ just as your Father is merciful.”
 > **What does this mean?**
 > Loving your enemies is one of the most important and hardest commandments of Jesus. Love here does not mean: having a good feeling. It means: doing good to the other person, praying for them and not meeting them with hatred.
 > Verse 29: Jesus wants to break the spiral of violence and revenge. Whoever hits back makes everything worse.
-> Very important: These words do not mean that you have to put up with violence, mistreatment or abuse! Whoever is beaten or mistreated may and should protect themselves and get help. That is not against Jesus’ will. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Children and young people in the US can call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US).
+> Very important: These words do not mean that you have to put up with violence, mistreatment or abuse! Whoever is beaten or mistreated may and should protect themselves and get help. That is not against Jesus’ will. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Children and young people in the US can call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 31 is the “Golden Rule.” Similar sayings exist in many religions. The Jewish teacher Hillel is said to have taught: What is hateful to you, do not do to your neighbor.
 > Verse 36: In Matthew it says “So you shall be perfect” (Matthew 5:48), in Luke: “Be merciful.” God is merciful, and we are to be merciful too.
 
@@ -276,7 +276,7 @@ That house was completely destroyed.”
 
 > **What does this mean?**
 > Verses 43–45: What a person does and says shows what is in their heart.
-> Verse 45: Older Bibles speak of the “abundance” of the heart. Abundance means: a great amount, more than enough.
+> Verse 45: The WEB speaks of the “abundance” of the heart. Abundance means: a great amount, more than enough.
 > Verse 46: It is not enough to say “Lord, Lord” in a pious way. What matters is doing Jesus’ words.
 > Verses 48–49: Whoever hears Jesus’ words and lives by them has a firm foundation. When storms come in life, the house stands.
 > For today: A faith that is lived out in everyday life holds firm in hard times too.

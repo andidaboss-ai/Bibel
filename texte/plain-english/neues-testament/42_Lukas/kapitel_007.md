@@ -44,7 +44,7 @@ not even in Israel.”
 They found the servant healthy again.
 
 > **What does this mean?**
-> A centurion was a Roman officer. He was in charge of about a hundred soldiers. He was not a Jew.
+> A centurion was a Roman officer. He was in charge of about 100 soldiers. He was not a Jew.
 > This centurion is a friend of the Jewish people. The Jewish elders speak up for him. This shows: Jews and non-Jews could be good neighbors.
 > The centurion is humble. Perhaps he also knows: Back then a devout Jew did not like to enter the house of a non-Jew. He does not want to make difficulties for Jesus.
 > Verses 7–8: The centurion knows about giving orders. He trusts: Jesus’ word has power, even from far away.
@@ -188,8 +188,8 @@ by all her children.”
 > Verses 24–26: John was not a swaying reed that bends with every wind. Nor was he a rich man at court. He was a brave prophet.
 > Verse 27 quotes Malachi 3:1. John prepares the way for Jesus.
 > Verse 28: John is great. But in God’s Kingdom something new counts: Whoever belongs to God’s Kingdom receives a gift that is even greater. This does not belittle John.
-> Lawyers: here, experts in the law of Moses.
-> Verses 29–30: Luke shows two reactions. The ordinary people and the tax collectors accept John. Many Pharisees and lawyers do not. “Said no to God’s plan for them” means: They say no to what God offers them.
+> Experts in the law: people who studied and taught the law of Moses.
+> Verses 29–30: Luke shows two reactions. The ordinary people and the tax collectors accept John. Many Pharisees and experts in the law do not. “Said no to God’s plan for them” means: They say no to what God offers them.
 > Important: This applies to certain people back then, not to all Pharisees and not to the Jewish people. Some Pharisees even invite Jesus to eat with them (verse 36).
 > Verses 31–34: The children in the marketplace want to play neither wedding nor funeral. That is how it is with some people: John is too strict for them, Jesus is too cheerful for them. No matter what God does, they always find something to complain about.
 > A glutton is someone who eats far too much. A drunkard is someone who drinks far too much.
@@ -221,8 +221,8 @@ She is a sinner!”
 Simon said,
 “Tell me, Teacher.”
 [41] “Two men owed money to a lender.
-One owed him five hundred denarii.
-The other owed him fifty.
+One owed him 500 denarii.
+The other owed him 50.
 [42] Neither of them could pay him back.
 So the lender forgave them both.
 Now which of them will love him more?”
@@ -235,7 +235,7 @@ He said to Simon,
 “Do you see this woman?
 I came into your house.
 You gave me no water for my feet.
-But she washed my feet with her tears
+But she has made my feet wet with her tears
 and dried them with her hair.
 [45] You did not greet me with a kiss.
 But she has not stopped kissing my feet
@@ -262,7 +262,7 @@ Go in peace.”
 > Alabaster: a soft, light-colored stone used for precious jars. Ointment: a sweet-smelling oil.
 > Luke does not say what sins the woman had. Later people often assumed she was a prostitute. That is not in the text. She is also not Mary Magdalene. Mary Magdalene is named only in Luke 8:2, as a new person.
 > Similar anointings are told in Matthew 26:6–13, Mark 14:3–9 and John 12:1–8. There it happens shortly before Jesus’ death in Bethany. Whether Luke means the same event or a different one is debated among interpreters.
-> Verse 41: A denarius was the pay for one day of work. So five hundred denarii is almost two years of work.
+> Verse 41: A denarius was the pay for one day of work. So 500 denarii is almost two years of work.
 > Verses 44–46: Water for the feet, a kiss of greeting and oil for the head were signs of hospitality. Simon did not give these signs. The woman does much more.
 > Verse 47 is understood in different ways. Some read it: She loves much because she has already been forgiven. That fits the parable in verses 41–43. Others stress: Her love shows the way to forgiveness. Verse 50 says: Her faith has saved her.
 > Simon is not condemned. Jesus talks with him, kindly and honestly. The story stays open: Will Simon understand?

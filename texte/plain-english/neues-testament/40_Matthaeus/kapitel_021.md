@@ -68,7 +68,9 @@ and the seats of those who sold doves.
 “It is written,
 ‘My house shall be called a house of prayer.’
 But you have made it a den of robbers!”
-[14] People who could not walk and blind people came to him in the temple,
+[14] People who could not walk
+and blind people
+came to him in the temple,
 and he healed them.
 [15] But the chief priests and scribes
 saw the wonderful things he did.
@@ -205,7 +207,7 @@ and believe him.”
 > The message: It is not beautiful words that count, but actions. And it is never too late to turn around.
 > The order and the answer in verses 29–31 are not the same everywhere in the old manuscripts. The WEB follows the form translated here.
 > Tax collectors and prostitutes were seen as the worst sinners. Jesus says: It was precisely they who listened to John and changed their lives. God’s Kingdom is open to everyone who turns around.
-> For today: Many women in prostitution are exploited, forced, or victims of human trafficking. Jesus does not look down on these people. He names them as an example of faith. Whoever needs help can contact, for example: In the US, the National Human Trafficking Hotline at 1-888-373-7888. Elsewhere, find help at findahelpline.com.
+> For today: Many women in prostitution are exploited, forced, or victims of human trafficking. Jesus does not look down on these people. He names them as an example of faith. Whoever needs help can find it: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US, the National Human Trafficking Hotline is 1-888-373-7888.
 
 ---
 

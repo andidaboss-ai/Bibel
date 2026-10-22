@@ -73,7 +73,7 @@ then I am strong.
 > Important: Illness or disability are not a punishment from God and not a sign of too little faith. Paul prayed three times for healing and was not healed. Even so, he was an apostle and loved by God.
 > Verse 9: This is one of the best-known words of the Bible. God doesn’t take away every hardship. But he says: My grace is enough. Precisely in weakness God’s power can work.
 > Verse 10: “When I am weak, then I am strong”: Paul doesn’t have to be strong. He trusts in the power of Christ.
-> Important: This text doesn’t mean that you should look for suffering or abuse or put up with it. If you experience violence, you may protect yourself and get help. Police: 911 (US), 999 (UK).
+> Important: This text doesn’t mean that you should look for suffering or abuse or put up with it. If you experience violence, you may protect yourself and get help. Police: your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
