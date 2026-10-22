@@ -5,8 +5,8 @@
 
 ## Zedekiah and the siege (Verses 1–11)
 
-[1] Zedekiah was twenty-one years old when he became king.
-He ruled for eleven years in Jerusalem.
+[1] Zedekiah was 21 years old when he became king.
+He ruled for 11 years in Jerusalem.
 His mother’s name was Hamutal, the daughter of Jeremiah of Libnah.
 [2] He did what was evil in the LORD’s sight,
 just as Jehoiakim had done.
@@ -40,7 +40,7 @@ There he passed judgment on him.
 [10] The king of Babylon killed Zedekiah’s sons in front of his eyes.
 He also killed all the leaders of Judah in Riblah.
 [11] He put out Zedekiah’s eyes.
-The king of Babylon bound him in bronze chains,
+The king of Babylon bound him in chains,
 took him to Babylon,
 and put him in prison until the day of his death.
 
@@ -69,7 +69,7 @@ tore down all the walls around Jerusalem.
 carried away as captives some of the poorest people,
 the rest of the people who were left in the city,
 the deserters who had gone over to the king of Babylon,
-and the rest of the craftsmen.
+and the rest of the crowd.
 [16] But Nebuzaradan, the captain of the guard,
 left some of the poorest people of the land
 to take care of the vineyards and fields.
@@ -85,27 +85,28 @@ the cups, the fire pans, the basins, the pots,
 the lampstands, the spoons, and the bowls,
 everything made of pure gold or pure silver.
 [20] The two pillars, the one Sea,
-and the twelve bronze bulls under the stands,
+and the 12 bronze bulls under the stands,
 which King Solomon had made for the LORD’s house:
 the bronze of all these things was too much to weigh.
 [21] As for the pillars,
-each pillar was eighteen cubits high,
-and it took a cord of twelve cubits to go around it.
-It was four fingers thick,
+each pillar was about 27 feet high,
+and it took a cord of about 18 feet to go around it.
+It was about 3 inches thick,
 and hollow.
 [22] On top of it was a bronze capital.
-The capital was five cubits high,
+The capital was about 7½ feet high,
 with a network and pomegranates all around it,
 all made of bronze.
 The second pillar was the same, with pomegranates.
-[23] There were ninety-six pomegranates on the sides.
-In all, there were one hundred pomegranates
+[23] There were 96 pomegranates on the sides.
+In all, there were 100 pomegranates
 on the network all around.
 
 > **What does this mean?**
 > Verses 12–13: In the year 587 BC, Solomon’s temple was burned, after almost 400 years. To this day, Jews remember the destruction of the first and the second temple on the 9th day of the month of Av (Tisha B’Av). (Here it says the 10th day, in 2 Kings 25:8 the 7th day; the traditions give different days.)
 > Verse 16: Again the poorest are left in the land to work the fields.
-> Verses 17–23: An exact list of the temple objects. The huge bronze pillars (over 26 feet, or 8 meters, high), the great water basin (the “Sea”), and the twelve bronze bulls were smashed. The Bible lists them lovingly, the way people list what they lost in a disaster.
+> Verses 17–23: An exact list of the temple objects. The huge bronze pillars (about 27 feet high), the great water basin (the “Sea”), and the 12 bronze bulls were smashed. The Bible lists them lovingly, the way people list what they lost in a disaster.
+> The Bible gives the measurements in cubits and fingers: 18 cubits, 12 cubits, 5 cubits, and four fingers. A cubit is about 18 inches. A finger is about ¾ of an inch.
 
 ---
 
@@ -118,7 +119,7 @@ and the three doorkeepers.
 seven of the king’s advisers who were found in the city,
 the secretary of the army commander,
 who called up the people of the land for the army,
-and sixty men of the people of the land
+and 60 men of the people of the land
 who were found in the city.
 [26] Nebuzaradan, the captain of the guard, took them,
 and brought them to the king of Babylon at Riblah.
@@ -126,13 +127,13 @@ and brought them to the king of Babylon at Riblah.
 and put them to death at Riblah in the land of Hamath.
 So Judah was carried away as captives out of its land.
 [28] This is the number of the people whom Nebuchadnezzar carried away as captives:
-in the seventh year, three thousand twenty-three Jews;
+in the seventh year, 3,023 Jews;
 [29] in the eighteenth year of Nebuchadnezzar,
-eight hundred thirty-two people from Jerusalem;
+832 people from Jerusalem;
 [30] in the twenty-third year of Nebuchadnezzar,
 Nebuzaradan, the captain of the guard,
-carried away seven hundred forty-five Jews.
-In all, there were four thousand six hundred people.
+carried away 745 Jews.
+In all, there were 4,600 people.
 
 > **What does this mean?**
 > Verses 24–27: The leading men of the city are executed, among them the chief priest Seraiah.

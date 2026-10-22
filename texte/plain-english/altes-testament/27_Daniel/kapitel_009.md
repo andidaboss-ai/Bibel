@@ -1,5 +1,5 @@
 # Daniel – Chapter 9
-### Daniel’s prayer and the seventy weeks
+### Daniel’s prayer and the 70 weeks
 
 ---
 
@@ -13,7 +13,7 @@ I, Daniel, learned from the books
 the number of years
 that the word of the LORD had told to Jeremiah the prophet.
 That was how long Jerusalem would lie in ruins:
-seventy years.
+70 years.
 [3] I turned my face to the Lord God.
 I looked for him with prayer and requests,
 with fasting, sackcloth, and ashes.
@@ -35,14 +35,13 @@ I said,
 “Oh, Lord, you great and awesome God!
 You keep your covenant and your loving kindness
 with those who love you and keep your commandments.
-A covenant is a binding agreement.
 [5] We have sinned.
 We have done wrong.
 We have done evil.
 We have rebelled against you.
 We have turned away from your commands and your laws.
 [6] We have not listened to your servants the prophets.
-They spoke in your name to our kings, our leaders, and our fathers,
+They spoke in your name to our kings, our leaders, and our ancestors,
 and to all the people of the land.
 [7] “Lord, you are in the right.
 But we are ashamed, as we are today:
@@ -52,7 +51,7 @@ those who are near and those who are far away,
 in all the countries where you have driven them.
 This is because they were unfaithful to you.
 [8] Lord, we are ashamed,
-we and our kings, our leaders, and our fathers,
+we and our kings, our leaders, and our ancestors,
 because we have sinned against you.
 [9] But the Lord our God is merciful and forgives,
 even though we have rebelled against him.
@@ -82,6 +81,7 @@ For the LORD our God is right in everything he does,
 and we have not obeyed his voice.
 
 > **What does this mean?**
+> Verse 4: A covenant is a binding agreement.
 > Daniel’s prayer is a great confession of sin. It is remarkable: Daniel himself was faithful. In the stories, no fault of his is reported. And still he does not say “they have sinned,” but “WE have sinned.” He stands together with his people and shares the guilt.
 > Verses 7 and 9: A strong contrast: “Lord, you are in the right. But we are ashamed.” But also: “The Lord our God is merciful and forgives.” Daniel knows: God is just, but he is also merciful.
 > This prayer has become an example for prayers of repentance, in Judaism and in Christianity. Repentance means: being sorry for sins and turning back to God.
@@ -98,7 +98,7 @@ We have done evil.
 [16] Lord, because you always do what is right,
 please turn your anger and your fury away
 from your city Jerusalem, your holy mountain.
-For because of our sins and the guilt of our fathers,
+For because of our sins and the guilt of our ancestors,
 Jerusalem and your people have become a joke
 to all the people around us.
 [17] “Now, our God,
@@ -152,28 +152,25 @@ and understand the vision.
 
 ---
 
-## Seventy weeks (Verses 24–27)
+## 70 weeks (Verses 24–27)
 
-[24] “Seventy weeks have been decided
+[24] “70 weeks have been decided
 for your people and for your holy city.
 Then the rebellion will be finished.
 Sins will come to an end.
 Guilt will be paid for and taken away.
 Righteousness that lasts forever will be brought in.
-Righteousness means: everything is right with God.
 Vision and prophecy will be sealed.
 And the most holy place will be anointed.
-To anoint means: to pour oil on something to make it holy for God.
 [25] “So know this and understand it:
 The order will go out
 to restore and to build Jerusalem again.
 From that time until the Anointed One, the prince, comes,
-there will be seven weeks and sixty-two weeks.
+there will be 7 weeks and 62 weeks.
 Jerusalem will be built again,
 with streets and a moat,
 even in troubled times.
-A moat is a deep ditch around a city.
-[26] After the sixty-two weeks,
+[26] After the 62 weeks,
 the Anointed One will be killed
 and will have nothing.
 The people of a prince who will come
@@ -190,6 +187,8 @@ God’s anger will be poured out on what lies in ruins.”
 
 > **What does this mean?**
 > Daniel had been thinking about the 70 years in Jeremiah. Gabriel answers with “70 weeks.” This probably means “weeks of years,” that is, 7 years each. 70 times 7 = 490 years. So the time until final salvation is much longer than Daniel thought.
+> Verse 24: Righteousness means: everything is right with God. To anoint means: to pour oil on something to make it holy for God.
+> Verse 25: A moat is a deep ditch around a city.
 > These verses are among the most discussed in the whole Bible. The Hebrew text is difficult, and there are different explanations:
 > – Many interpreters connect them with the time up to Antiochus IV: The “Anointed One” who is “killed” (verse 26) would be the rightful high priest Onias III, who was murdered in 171 BC. The “one who causes ruin” is Antiochus, who stopped the worship in the temple (verse 27). The end of verse 27 can be translated in different ways: The WEB says that the anger is poured out “on the desolate,” that is, on what lies in ruins. Other translations say it comes on the one who makes desolate, that is, on the one who causes ruin.
 > – Many Christians connect the verses with Jesus Christ, the “Anointed One” (Messiah), who was killed, and with the destruction of Jerusalem by the Romans in AD 70.

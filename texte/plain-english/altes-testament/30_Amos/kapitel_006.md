@@ -77,7 +77,6 @@ and the fruit of righteousness into bitterness.
 [13] You are happy about a thing of nothing.
 You say,
 ‘Haven’t we taken horns for ourselves by our own strength?’
-Horns are a picture of power.
 [14] “For look, I will make a nation rise up against you, house of Israel,”
 says the LORD, the God of Armies.
 “They will treat you harshly
@@ -85,5 +84,5 @@ from the entrance of Hamath to the brook of the Arabah.”
 
 > **What does this mean?**
 > Verse 12: Two silly questions: Do horses run over rocks? Does anyone plow rocks? No, that is crazy. Just as crazy is turning justice into poison. And that is exactly what you are doing!
-> Verse 13: There is probably a play on words here: Israel is happy about military victories. Many scholars think of the capture of the towns of Lo Debar (that sounds like “nothing”) and Karnaim (that means “horns”). They say: “We did this by our own strength!” Amos mocks them: You are happy about a “nothing.”
+> Verse 13: Horns are a picture of power. There is probably a play on words here: Israel is happy about military victories. Many scholars think of the capture of the towns of Lo Debar (that sounds like “nothing”) and Karnaim (that means “horns”). They say: “We did this by our own strength!” Amos mocks them: You are happy about a “nothing.”
 > Verse 14: God will send a nation (Assyria) that will oppress the whole land, from the north (Hamath) to the south (Arabah). That is exactly the area that King Jeroboam II had conquered (2 Kings 14:25).

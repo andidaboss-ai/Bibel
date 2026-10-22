@@ -34,7 +34,7 @@ Look, it is coming, and it will happen,
 says the Lord GOD.’”
 
 > **What does this mean?**
-> A note on the numbering: In some Bibles, Chapter 21 begins five verses earlier (with 20:45–49 of the WEB). So the verse numbers here are always 5 lower than in many other Bibles. We follow the numbering of the WEB.
+> A note on the numbering: In some Bibles, Chapter 21 begins five verses earlier (with 20:45–49 of the WEB). So the verse numbers here are always five lower than in many other Bibles. We follow the numbering of the WEB.
 > Now the picture of the forest fire (20:45–49) is explained: The “forest of the south” is Jerusalem. And the fire is a sword, that is, the army of the Babylonians.
 > Verses 3–4: “The righteous and the wicked” – in war everyone suffers, even innocent people. Ezekiel does not make this sound nicer than it is. This is an honest, painful description of what war is like.
 > Verses 6–7: Ezekiel is to sigh in public, with a broken heart. He does not announce the judgment coldly. He suffers with his people.
@@ -78,7 +78,7 @@ Oh! It is made like lightning.
 It is sharpened to kill.
 [16] Pull yourself together. Go to the right.
 Get ready. Go to the left,
-wherever your edge is turned.
+wherever your face is turned.
 [17] I will also clap my hands together,
 and I will let my anger come to rest.
 I, the LORD, have spoken.”
@@ -101,14 +101,13 @@ Both of them will start from the same land.
 And make a signpost.
 Put it where the road to the city begins.
 [20] Mark out one road
-for the sword to come to Rabbah of the Ammonites,
+for the sword to come to Rabbah of the people of Ammon,
 and one to Judah, to Jerusalem, the city with strong walls.
 [21] For the king of Babylon stood at the fork in the road,
 where the two roads begin,
 to ask for a sign about the future.
 He shook the arrows back and forth.
 He asked the teraphim.
-Teraphim are small idols of the household.
 He looked at the liver.
 [22] In his right hand was the lot for Jerusalem.
 It told him to set up battering rams,
@@ -130,7 +129,7 @@ you will be captured by force.
 
 > **What does this mean?**
 > Ezekiel is to draw a map: One road leads to Rabbah (the capital city of the Ammonites, today Amman in Jordan). The other road leads to Jerusalem. Both had rebelled against Babylon.
-> Verse 21: Nebuchadnezzar stands at the crossroads and asks his gods. He uses three methods: He draws arrows like lots, he asks household gods (teraphim), and he looks at the liver of an animal that was sacrificed (a well-known way of telling the future in Babylon).
+> Verse 21: Nebuchadnezzar stands at the crossroads and asks his gods. He uses three methods: He draws arrows like lots, he asks the teraphim (small household idols), and he looks at the liver of an animal that was sacrificed (a well-known way of telling the future in Babylon).
 > Verse 22: The lot falls on Jerusalem. The Bible does not say that telling the future works. But God is Lord even over the decisions of foreign kings.
 > Verse 23: The people in Jerusalem think this is wrong, because they had made an agreement with Babylon. But it was exactly this agreement that Zedekiah had broken (see Chapter 17).
 
@@ -164,7 +163,7 @@ And I will give it to him.”’
 
 [28] “You, son of man, prophesy and say,
 ‘This is what the Lord GOD says
-about the Ammonites and about their insults:
+about the people of Ammon and about their insults:
 “A sword! A sword is drawn!
 It is polished to kill,
 to devour,
