@@ -35,10 +35,10 @@ That is how they persecuted the prophets who lived before you.
 > **What does this mean?**
 > Here the Sermon on the Mount begins (Chapters 5–7). It is Jesus’ best-known speech. Moses received the law on Mount Sinai. In the same way, Jesus teaches on a mountain. He sits down, the way teachers sat when they taught back then.
 > “Blessed” means: You can be called happy. God gives you his gifts.
-> The surprise: Jesus does not call the rich, the strong and the successful happy. He calls the poor, those who mourn, the gentle, those who show mercy and those who make peace happy. God’s Kingdom turns the standards of the world upside down.
+> The surprise: Jesus does not call the rich, the strong, and the successful happy. He calls the poor, those who mourn, the gentle, those who show mercy, and those who make peace happy. God’s Kingdom turns the standards of the world upside down.
 > Verse 3: “Poor in spirit” means people who know that they need God, and who do not proudly trust in themselves.
 > Verse 5: This reminds us of Psalm 37:11.
-> Verse 9: “Those who make peace” means: not only being peaceful, but actively making peace, settling conflicts and seeking to make up.
+> Verse 9: “Those who make peace” means: not only being peaceful, but actively making peace, settling conflicts, and seeking to make up.
 > Verses 10–12: Whoever stands up for what is right often meets resistance. Jesus says: In this, you stand in the line of the prophets.
 > For today: The Beatitudes tell people who are having a hard time: God cares about you. If you are sad and need someone to talk to: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
@@ -64,7 +64,7 @@ and praise your Father who is in heaven.
 > **What does this mean?**
 > Salt gives flavor and keeps food from going bad. Light makes the darkness bright. Jesus says to his disciples: This is what you are to be for the world.
 > Important: Jesus does not say, “You are to become salt.” He says, “You are the salt.” This is a promise, not only a demand.
-> Verse 13: Real salt does not actually lose its flavor. But back then, salt was often mixed with other things. When the salt was washed out, only a worthless rest was left.
+> Verse 13: Real salt does not actually lose its flavor. But back then, salt was often mixed with other things. When the salt was washed out, only worthless leftovers remained.
 > Verse 15: A “measuring basket” is a container for measuring grain. If you put a lamp under it, it is useless.
 > Verse 16: Good deeds should not be done for your own honor, but so that people praise God.
 
@@ -127,7 +127,7 @@ until you have paid the last penny.
 > **What does this mean?**
 > Now six examples follow: “You have heard … But I tell you.” Jesus shows what the commandments mean at their deepest.
 > Verses 21–22: The commandment “You shall not murder” is one of the Ten Commandments (Exodus 20:13). It already begins with anger and with hurtful words. “Raca” is an Aramaic insult, something like “empty head.” Words can hurt people deeply.
-> “Without a cause” is not in all the old manuscripts. The WEB has it; many other translations leave it out.
+> “Without a cause” is not in all the old manuscripts. The WEB, our English source text, has it; many other translations leave it out.
 > “Gehenna” was a valley near Jerusalem. Long ago, children were sacrificed there, and later, garbage was burned there (compare Jeremiah 7:31). It became a picture for God’s judgment.
 > Verses 23–24: For Jesus, making peace is more important than worship! If you live in conflict with someone, you should first seek peace.
 > Verses 25–26: A picture from the courts: Settle a conflict early, before everything gets worse.
@@ -152,8 +152,8 @@ than for your whole body to be thrown into Gehenna.
 
 > **What does this mean?**
 > Verse 28: Jesus puts the responsibility on the man, not on the woman. It is not the woman’s fault when a man desires her. The man is responsible for how he looks at her and for his thoughts. Women are not objects.
-> Verses 29–30: This is picture language that exaggerates on purpose, as teachers often did back then. Jesus means: Take sin so seriously that you break completely with what leads you to do evil. He does not mean that you should hurt yourself. The church has never taught this word for word.
-> If you have thoughts of hurting yourself: Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Verses 29–30: This is picture language that exaggerates on purpose, as teachers often did back then. Jesus means: Take sin so seriously that you break completely with what leads you to do evil. He does not mean that you should hurt yourself. The church has never taught that these words should be taken literally.
+> If you have thoughts of hurting yourself: Please talk to someone. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 
@@ -171,8 +171,8 @@ commits adultery.
 
 > **What does this mean?**
 > Back then, a man could send his wife away very easily, sometimes for small reasons (compare Deuteronomy 24:1). The woman was then often left without support and protection. Jesus stands against this unfairness and so protects the women.
-> “Except because of sexual immorality”: This means serious unfaithfulness in marriage. Churches see differently how exactly this exception should be understood.
-> Important: Jesus wants to protect the weaker ones. These words must never be used to keep someone in a marriage where he or she experiences violence. If you experience violence at home, get help. US: 1-800-799-7233. Elsewhere, find help at findahelpline.com.
+> “Except because of sexual immorality”: This means serious unfaithfulness in marriage. Churches have different views on how exactly to understand this exception.
+> Important: Jesus wants to protect the weaker ones. These words must never be used to keep someone in a marriage where he or she experiences violence. If you experience violence at home, get help. For domestic violence, US: 1-800-799-7233. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
 
@@ -194,7 +194,7 @@ Anything more than this comes from the evil one.
 > **What does this mean?**
 > Back then, people often swore oaths to make their words stronger. And they used detours (“by heaven,” “by Jerusalem”) to leave themselves a back door.
 > Jesus says: Be so honest that you do not need an oath at all. A simple yes or no should be enough.
-> Churches see differently whether Christians may take an oath in court. Some groups (for example Mennonites and Quakers) refuse every oath.
+> Churches have different views on whether Christians may take an oath in court. Some groups (for example Mennonites and Quakers) refuse every oath.
 
 ---
 
@@ -206,8 +206,8 @@ Anything more than this comes from the evil one.
 Do not resist the person who does evil to you.
 If someone hits you on your right cheek,
 turn the other cheek to him as well.
-[40] If someone sues you to take your shirt,
-let him have your coat too.
+[40] If someone sues you to take your coat,
+let him have your cloak too.
 [41] If someone forces you to go one mile with him,
 go two miles with him.
 [42] Give to the one who asks you.
@@ -216,8 +216,10 @@ And do not turn away from the one who wants to borrow from you.
 > **What does this mean?**
 > Verse 38: “An eye for an eye” was first a rule for courts (Exodus 21:24), to limit revenge: The punishment must not be greater than the harm.
 > Verses 39–41: Jesus goes further: Give up revenge completely. Do not answer violence with violence, but break the cycle.
-> A blow on the right cheek, given with the right hand, was probably a blow with the back of the hand. That was meant to shame someone. Some Bible scholars think: Whoever turns the other cheek then shows: I am still a human being with dignity. Verse 41: Roman soldiers were allowed to force local people to carry their baggage for one mile.
-> Very important: These words do not mean that you have to put up with violence in the family, in a relationship or anywhere else. They must never be used to silence victims. It is right to protect yourself, to get help and to report wrongdoing. Help: In an emergency, call your local emergency number (911 in the US). For violence at home – US: 1-800-799-7233. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Elsewhere, find help at findahelpline.com.
+> A blow on the right cheek, given with the right hand, was probably a blow with the back of the hand. That was meant to shame someone. Some Bible scholars think: Whoever turns the other cheek then shows: I am still a human being with dignity.
+> Verse 40: The “coat” was the shirt-like garment worn next to the body. The “cloak” was the warm outer garment.
+> Verse 41: Roman soldiers were allowed to force local people to carry their baggage for one mile.
+> Very important: These words do not mean that you have to put up with violence in the family, in a relationship, or anywhere else. They must never be used to silence victims. It is right to protect yourself, to get help, and to report wrongdoing. Help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. For domestic violence, US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
 ---
 

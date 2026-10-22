@@ -108,7 +108,7 @@ for she keeps crying out after us.”
 “I was sent only to the lost sheep
 of the house of Israel.”
 [25] But she came,
-knelt down in front of him and said,
+worshiped him and said,
 “Lord, help me!”
 [26] But he answered,
 “It is not right
@@ -141,7 +141,10 @@ And her daughter was healed from that hour on.
 and came to the Sea of Galilee.
 He went up on the mountain and sat down there.
 [30] Many people came to him.
-They brought with them people who could not walk, who were blind, who could not speak, who were disabled,
+They brought with them people who could not walk,
+people who were blind,
+people who could not speak,
+people who were disabled,
 and many others.
 They laid them down at his feet.
 And he healed them.
@@ -185,7 +188,7 @@ And the disciples gave them to the people.
 They picked up the pieces that were left over:
 seven baskets full.
 [38] Those who had eaten
-were four thousand men,
+were 4,000 men,
 besides women and children.
 [39] Then he sent the people away,
 got into the boat

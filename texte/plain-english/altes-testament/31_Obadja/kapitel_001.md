@@ -35,7 +35,7 @@ says the LORD.
 
 > **What does this mean?**
 > Edom lived in a mountain land with steep rocks. The cities were high up. People thought no one could conquer them. (The famous rock city of Petra lies in this area. But it was built up only later by the Nabataeans.)
-> That is why Edom felt completely safe: “Who could ever bring me down?”
+> That is why Edom felt completely safe: “Who will bring me down to the ground?”
 > God answers: Your pride has fooled you. Even if you build your nest among the stars, I will bring you down.
 > For today: Whoever thinks no one can touch him easily becomes proud. Safety does not come from walls, wealth, or power.
 
@@ -74,7 +74,7 @@ And so everyone on the mountain of Esau will be cut off and killed.
 
 ## What Edom did to its brother (Verses 10–14)
 
-[10] Because of the violence you did to your brother Jacob,
+[10] “Because of the violence you did to your brother Jacob,
 shame will cover you.
 And you will be cut off forever.
 [11] On the day you stood by and watched,
@@ -110,7 +110,7 @@ on the day of trouble.
 
 ## The day of the LORD for all nations (Verses 15–16)
 
-[15] For the day of the LORD is near for all the nations!
+[15] “For the day of the LORD is near for all the nations!
 As you have done, it will be done to you.
 What you have done will come back on your own head.
 [16] For as you have drunk on my holy mountain,
@@ -126,7 +126,7 @@ And they will be as though they had never been.
 
 ## Rescue on Mount Zion (Verses 17–21)
 
-[17] But on Mount Zion there will be people who escape.
+[17] “But on Mount Zion there will be people who escape.
 And it will be holy.
 The house of Jacob will take back what belongs to them.
 [18] The house of Jacob will be a fire,

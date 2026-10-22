@@ -72,10 +72,10 @@ when the people who do what is right rise from the dead.”
 
 > **What does this mean?**
 > At feasts back then the seating order was very important. It showed how much honor someone had.
-> Verses 8–10 remind us of Proverbs 25:6–7: It is better to be invited to come up higher than to be sent lower.
+> Verses 8–10 remind us of Proverbs 25:6–7: “It is better that someone says to you, ‘Come up here!’”
 > Verse 11: God does not look at rank and honor. Whoever makes himself small, God makes great. Mary already sang about this in her song (Luke 1:52). Humbled: made low.
 > Verses 12–14: Jesus turns the rules upside down. Normally you invite those who will invite you back. Jesus says: Invite those who cannot give anything back.
-> The “crippled” (in older Bibles: maimed) were people with injuries or disabilities. Back then they were often shut out. Jesus says: They belong at the table, as honored guests.
+> The “crippled” (the WEB, our English source text, says “maimed”) were people with injuries or disabilities. Back then they were often shut out. Jesus says: They belong at the table, as honored guests.
 > Important: People with disabilities are not just people to feel sorry for. They have the same dignity as everyone.
 > For today: Whom do I invite? Who sits at our table, in the family, in the church, in society?
 
@@ -126,11 +126,11 @@ but few are chosen.’”
 
 > **What does this mean?**
 > Back then people were invited twice: first an invitation in advance, then a message when the meal was ready. Whoever first accepted and then cancelled insulted the host.
-> The excuses sound polite, but they are weak. You look at a field before you buy it. You try out oxen before you buy them. The five pairs of oxen pull together, two by two. Older Bibles call a pair a “yoke.”
+> The excuses sound polite, but they are weak. You look at a field before you buy it. You try out oxen before you buy them. The five pairs of oxen pull together, two by two. The WEB calls a pair a “yoke.”
 > Verse 20: According to Deuteronomy 24:5, a newly married man was free from military service. But he could still have come to a feast.
 > The supper is a picture of God’s Kingdom. God invites everyone. Whoever does not come shuts themselves out.
 > Verse 21: The poor, people with disabilities and people on the margins are invited. Verse 23: Then also the people far outside, in the countryside. Many interpreters think of the non-Jews here.
-> Important: Verse 23 (“Make the people come in”; in older Bibles: “compel them to come in”) was terribly misused in church history. People appealed to it to force others into the faith by violence, including Jews and people who thought differently. That was grave injustice. What is meant is: Invite people so warmly that they dare to come. Faith can never be forced.
+> Important: Verse 23 (“Make the people come in”; the WEB says “compel them to come in”) was terribly misused in church history. People appealed to it to force others into the faith by violence, including Jews and people who thought differently. That was grave injustice. What is meant is: Invite people so warmly that they dare to come. Faith can never be forced.
 > Important: The parable is also not a judgment on the Jewish people. It is a warning to everyone who does not take God’s invitation seriously, including Christians.
 > Verse 24: The words “For many are called, but few are chosen” are not in most old manuscripts of Luke. The WEB, our English source text, has them here. They are also in Matthew 22:14.
 
@@ -161,11 +161,11 @@ Then everyone who sees it will laugh at you.
 but he could not finish.’
 [31] Or suppose a king is going to war against another king.
 First he will sit down and think about it.
-He has ten thousand soldiers.
+He has 10,000 soldiers.
 Can he fight against the king
-who is coming with twenty thousand?
+who is coming with 20,000?
 [32] If he can’t,
-he will send messengers to the other king
+he will send a messenger to the other king
 while the other king is still far away.
 He will ask for peace.
 [33] In the same way, any of you
@@ -182,7 +182,7 @@ Whoever has ears to hear should listen!”
 > **What does this mean?**
 > Verse 26: The WEB says “disregard,” that is: not pay attention to, put second. In the Greek there is a word that is often translated “hate.” But in the language of the Bible it means: love less, put in second place (compare Genesis 29:30–31). Matthew says it this way: “Whoever loves father or mother more than me is not worthy of me” (Matthew 10:37).
 > Important: Jesus does not want anyone to hate their family or treat them without love. The commandment to honor your father and your mother still applies (Luke 18:20). Groups that force people to leave their families misuse these words. You can find advice, for example, from counseling services for cults and spiritual abuse.
-> Important: Putting your own life second also does not mean despising or harming yourself. If you are thinking about hurting yourself or ending your life, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
-> Verses 28–32: Two examples: building a tower, and a king before a war. Both say: Think carefully before you decide. Following Jesus is a decision for your whole life. The king sends messengers to negotiate.
-> Verse 33: Give up everything (in older Bibles: renounce). In Luke, freedom from possessions is very important. Not all disciples had to sell everything. But nothing should be more important than God.
+> Important: Putting your own life second also does not mean despising or harming yourself. If you are thinking about hurting yourself or ending your life, please get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> Verses 28–32: Two examples: building a tower, and a king before a war. Both say: Think carefully before you decide. Following Jesus is a decision for your whole life. The king sends a messenger to ask for peace.
+> Verse 33: Give up everything (the WEB says “renounce”). In Luke, freedom from possessions is very important. Not all disciples had to sell everything. But nothing should be more important than God.
 > Verses 34–35: Back then salt was often mixed with other substances and could lose its taste. Disciples are to be like good salt: They give the world flavor.

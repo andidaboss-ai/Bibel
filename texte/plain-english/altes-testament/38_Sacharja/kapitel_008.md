@@ -37,7 +37,7 @@ and I will be their God,
 in faithfulness and in righteousness.”
 
 > **What does this mean?**
-> Chapter 8 is full of promises. Ten times it says “This is what the LORD says.”
+> Chapter 8 is full of promises. 10 times it says “This is what the LORD says.”
 > Verse 3: Jerusalem gets a new name: “The City of Truth.” The Hebrew word also means “faithfulness”: a city where people can rely on each other.
 > Verses 4–5: This is one of the most beautiful pictures in the Bible: Old people sit in peace in the streets, and children play there. It is a picture of peace and safety. In war, the weak die first, the old people and the children. When they can live in peace, there really is peace.
 > Verse 6: For the small, poor community in the ruins, this sounds unbelievable. But God says: For me, nothing is impossible.
@@ -86,8 +86,7 @@ to do good to Jerusalem and to the house of Judah.
 Don’t be afraid.
 [16] These are the things you are to do:
 Each of you, speak the truth with his neighbor.
-In your courts, judge in a way that is true and brings peace.
-In those days, people met at the city gates to judge cases.
+At your city gates, judge in a way that is true and brings peace.
 [17] None of you should plan evil in his heart against his neighbor.
 And don’t love false oaths.
 For all these are things that I hate,”
@@ -97,6 +96,7 @@ says the LORD.
 > Verses 9–12: Just like in Haggai: Since the building of the temple started again, everything is turning to good. Before there were no wages and no peace, only fighting. Now “a seed of peace” is growing.
 > Verse 13: A great turning point: Until now, Israel was an example of curse and misfortune among the nations. Now it is to become a blessing. This is a reminder of the promise to Abraham: “You will be a blessing” (Genesis 12:2).
 > “Don’t be afraid. Let your hands be strong.” This is the encouragement.
+> Verse 16: In those days, people met at the city gates to judge cases.
 > Verses 16–17: And again the commands for everyday life: speak the truth, judge fairly, don’t plan evil against your neighbor, no false oaths. The letter to the Ephesians takes up verse 16: “Speak truth, each one with his neighbor” (Ephesians 4:25).
 
 ---
@@ -117,7 +117,7 @@ So love truth and peace!”
 > In the fifth month: The temple was burned (2 Kings 25:8–9).
 > In the seventh month: Gedaliah was murdered (2 Kings 25:25).
 > In the tenth month: The siege began (2 Kings 25:1).
-> In Judaism, some of these days of fasting are still kept today, especially Tisha B’Av (the 9th of Av), to remember the destruction of the temple.
+> In Judaism, some of these days of fasting are still kept today, especially Tisha B’Av (the ninth of Av), to remember the destruction of the temple.
 > “So love truth and peace!” That is the condition.
 
 ---
@@ -136,7 +136,7 @@ I will go too.’
 to seek the LORD of Armies in Jerusalem
 and to ask the LORD for his favor.”
 [23] This is what the LORD of Armies says:
-“In those days, ten men
+“In those days, 10 men
 from all the languages of the nations
 will take hold of the edge of the robe of a Jewish man and say,
 ‘We will go with you,
@@ -144,6 +144,6 @@ for we have heard that God is with you.’”
 
 > **What does this mean?**
 > At the end of the first part of the book there is a great view of the future: People from many nations will come to seek God. They invite each other: “Come, let’s go! I will go too!”
-> Verse 23: A strong picture: Ten people from different nations hold on to the edge of a Jewish man’s robe and say: “We will go with you, for we have heard that God is with you.”
+> Verse 23: A strong picture: 10 people from different nations hold on to the edge of a Jewish man’s robe and say: “We will go with you, for we have heard that God is with you.”
 > The Jewish people are to become a signpost to God for the world. For Christians, this came true because many people from all nations found the God of Israel through the Jew Jesus and his Jewish apostles.
 > This verse is also a warning against every form of hatred of Jews: The nations are to look at the Jewish people with respect and love.

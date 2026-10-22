@@ -161,7 +161,7 @@ even of the Sabbath.”
 > **What does this mean?**
 > The Sabbath is the holy day of rest (Exodus 20:8–11). It was allowed to pick heads of grain at the edge of someone else’s field (Deuteronomy 23:25; in the Hebrew Bible and in some Bibles 23:26). But some teachers saw picking grain on the Sabbath as harvest work. People had different opinions about this.
 > Verses 25–26: The story of David is in 1 Samuel 21:1–6 (in the Hebrew Bible and in some Bibles 21:2–7). There, however, the priest is called Ahimelech. Abiathar was his son and later became high priest. There are different explanations for this difference. Perhaps “at the time of Abiathar” simply means the time when Abiathar lived.
-> Show bread: twelve holy loaves of bread that were laid out before God in the house of God.
+> Show bread: 12 holy loaves of bread that were laid out before God in the house of God.
 > Verse 27 is told only by Mark. A similar sentence is also found in an old Jewish explanation of the Scriptures. It says, in effect: The Sabbath is there for you, not you for the Sabbath. So Jesus says something that other Jewish teachers also believed.
 > The Sabbath is God’s gift to people, so that they can rest and breathe again. It should not be a burden that harms people.
 > For today: People still need days of rest today. Sunday or another day off protects us from doing nothing but work.
