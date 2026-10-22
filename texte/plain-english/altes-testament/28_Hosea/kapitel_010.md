@@ -6,7 +6,7 @@
 ## A rich vine with a divided heart (Verses 1–8)
 
 [1] Israel is a rich, spreading vine
-that produces its fruit.
+that produces his fruit.
 The more fruit he had,
 the more altars he built.
 The better things went for his land,
@@ -55,15 +55,14 @@ and to the hills, “Fall on us!”
 
 [9] “Israel, you have sinned since the days of Gibeah.
 They have stayed there.
-Did not the battle against the wicked people
-reach them in Gibeah?
+The battle against the wicked people
+does not reach them in Gibeah.
 [10] When I want to, I will punish them.
 The nations will gather against them
 when they are tied to their two sins.
 [11] Ephraim is a trained young cow
 that loves to thresh grain.
 So I will put a yoke on her beautiful neck.
-A yoke is a wooden bar put on the neck of animals that pull a plow.
 I will put a rider on Ephraim.
 Judah will plow.
 Jacob will break up the clods of earth.
@@ -86,8 +85,8 @@ because of your great evil.
 At dawn, the king of Israel will be completely destroyed.”
 
 > **What does this mean?**
-> Verse 11: Israel was like a young cow that likes to thresh grain. When threshing, the cow was allowed to eat (Deuteronomy 25:4). It was pleasant work. Now it has to carry the heavy yoke of the plow.
-> Verse 12: A beautiful call: “Sow righteousness for yourselves. Then you will reap the fruit of kindness. Break up your unplowed ground.” Unplowed ground is a field that has not been used for a long time and has become hard. You have to break it up so that something can grow again. In the same way, the people should break up their hard hearts and start over. Compare Jeremiah 4:3.
+> Verse 11: Israel was like a young cow that likes to thresh grain. When threshing, the cow was allowed to eat (Deuteronomy 25:4). It was pleasant work. Now it has to carry the heavy yoke of the plow. A yoke is a wooden bar put on the neck of animals that pull a plow.
+> Verse 12: A beautiful call: “Sow righteousness for yourselves. Then you will reap the fruit of kindness. Break up your unplowed ground.” Righteousness means: living right before God. Unplowed ground is a field that has not been used for a long time and has become hard. You have to break it up so that something can grow again. In the same way, the people should break up their hard hearts and start over. Compare Jeremiah 4:3.
 > “It is time to look for the LORD.” It is never too late for a new beginning.
 > Verse 13: The opposite: Whoever plows evil reaps wrongdoing. Whoever trusts in their own strength and soldiers eats “the fruit of lies.”
 > Verse 14: Beth Arbel was a city that was cruelly destroyed. No one knows for sure who “Shalman” was. The sentence “There the mother was smashed to pieces together with her children” describes the cruelty of war. The Bible does not keep quiet about what war does to women and children. Violence like this is a terrible wrong. If you have experienced war and want to talk about it: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

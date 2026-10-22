@@ -101,7 +101,7 @@ who are killed by the sword.
 She is handed over to the sword.
 Drag her away with all her crowds.
 [21] The strongest of the mighty warriors will speak to him
-from the middle of Sheol, the world of the dead,
+from the middle of Sheol (the world of the dead),
 together with those who helped him.
 They will say,
 ‘They have gone down.

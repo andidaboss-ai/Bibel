@@ -82,9 +82,8 @@ with those who go down to the pit.’
 ## Down into the world of the dead (Verses 15–18)
 
 [15] “This is what the Lord GOD says:
-‘On the day he went down to Sheol,
+‘On the day he went down to Sheol (the world of the dead),
 I made everyone mourn.
-Sheol is the world of the dead.
 I covered the deep waters because of him.
 I held back their rivers.
 The great waters were stopped.

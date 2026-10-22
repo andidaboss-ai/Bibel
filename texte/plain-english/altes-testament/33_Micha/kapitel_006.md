@@ -29,6 +29,7 @@ so that you may know the righteous acts of the LORD.”
 > Verse 3: But God does not accuse coldly. He asks sadly: “My people, what have I done to you? How have I made you tired?” Like a disappointed father or a disappointed mother. Later these words became part of the Christian worship service on Good Friday (the “Reproaches”).
 > Verse 4: God reminds them of what he has done: He freed his people from slavery. And he sent them leaders: Moses, Aaron, and Miriam. It is remarkable: With Miriam, a woman is named here as a leader of the people.
 > Verse 5: King Balak wanted to have Israel cursed, but the seer Balaam had to bless it (Numbers 22–24). From Shittim to Gilgal: the last part of the way through the Jordan into the promised land (Joshua 3–4).
+> “The righteous acts of the LORD” are the good and right things he did for his people. Righteous means: living right before God.
 
 ---
 
@@ -39,7 +40,7 @@ and bow down before God most high?
 Should I come before him with burnt offerings,
 with calves a year old?
 [7] Will the LORD be pleased with thousands of rams,
-with ten thousands of rivers of oil?
+with tens of thousands of rivers of oil?
 Should I give my firstborn child for my disobedience,
 the child of my body for the sin of my soul?
 [8] Human being, he has shown you what is good.
@@ -67,7 +68,6 @@ And it is wisdom to fear your name.
 “Listen to the rod of punishment, and to the one who sent it.
 [10] Are there still treasures gained by evil in the house of the wicked?
 Is there still the short ephah that is cursed?
-An ephah is a measure for grain.
 [11] Should I put up with false scales,
 and a bag of weights that cheat?
 [12] Her rich men are full of violence.
@@ -91,6 +91,7 @@ You will carry the shame of my people.”
 
 > **What does this mean?**
 > Right after verse 8, Micah shows what things are really like:
+> Verse 10: An ephah is a measure for grain. A “short ephah” is a measure that is too small.
 > Verses 10–11: False measures, false scales, false weights. The traders cheat their customers (compare Amos 8:5).
 > Verse 12: The rich are full of violence, and people lie everywhere.
 > Verses 14–15: The punishment: What they gained in the wrong way will not help them. They work, but they get nothing from it. Similar words are in the law of Moses (Deuteronomy 28:38–40).

@@ -55,7 +55,6 @@ if their blossoms have opened,
 and if the pomegranate trees are in bloom.
 There I will give you my love.
 [13] The mandrakes give off their sweet smell.
-Mandrakes are plants with a strong smell.
 At our doors are all kinds of precious fruits,
 new and old.
 I have saved them for you, my beloved.
@@ -63,5 +62,5 @@ I have saved them for you, my beloved.
 > **What does this mean?**
 > Verse 10: “His desire is for me.” A remarkable sentence: In Genesis 3:16, after the fall into sin, it says that the woman’s desire will be for the man, and he will rule over her. Here it is the other way around, and there is no talk of ruling. In the Song of Songs, love is equal and goes both ways, as in paradise.
 > Verses 11–12: The woman takes the first step. She invites him to go out into nature with her.
-> Verse 13: Mandrakes were thought to be plants that encourage love (compare Genesis 30:14–16).
-> In many Bibles, for example in Hebrew and German, the verses of this chapter are shifted by one, because 6:13 is 7:1 there.
+> Verse 13: Mandrakes are plants with a strong smell. They were thought to be plants that encourage love (compare Genesis 30:14–16).
+> In some Bibles, and in the Hebrew text, the verses of this chapter are shifted by one, because 6:13 is 7:1 there.

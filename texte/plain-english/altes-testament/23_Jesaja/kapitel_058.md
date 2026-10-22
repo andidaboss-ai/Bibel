@@ -75,7 +75,7 @@ Restorer of Streets to Live In.
 > Verses 6–7: The fast that God wants: setting the oppressed free, sharing bread with the hungry, taking in the homeless, giving clothes to the naked. “Not to hide yourself from your own flesh and blood” means: Do not turn away from people who are just as human as you are.
 > Verses 8–10: To whoever acts like this, God promises: Your light will rise like the dawn. When you call, God says: “Here I am.” The “pointing of the finger,” that is, blaming and despising others, is to stop as well.
 > Verse 11: Whoever gives becomes like a watered garden themselves, like a spring that never runs dry.
-> Verse 12: Such people rebuild what has been destroyed. They “repair the breach”; they mend what is broken, in the city and in the community.
+> Verse 12: Such people rebuild what has been destroyed. They are called “Repairer of the Breach”: they mend what is broken, in the city and in the community.
 > On the Jewish Day of Atonement (Yom Kippur), a day of fasting, this chapter is read in the synagogue. Jesus says something similar: “I was hungry, and you gave me food to eat” (Matthew 25:35).
 
 ---

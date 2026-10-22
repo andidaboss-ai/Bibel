@@ -125,7 +125,8 @@ Then you will surely be ashamed and disgraced
 because of all your evil.
 [23] You who live in Lebanon,
 who make your nest in the cedars,
-how you will groan when pains come on you,
+how much you will be pitied when pains come on you,
+
 pain like that of a woman in labor!
 [24] “As surely as I live,” says the LORD,
 “even if Coniah, the son of Jehoiakim, king of Judah,

@@ -97,7 +97,7 @@ who prophesy out of their own hearts.
 Prophesy against them.
 [18] Say,
 ‘This is what the Lord GOD says:
-“How terrible it will be for the women who sew magic bands for everyone’s wrists
+“How terrible it will be for the women who sew magic bands on everyone’s elbows
 and make veils for the heads of people of every size,
 to hunt people’s souls!
 Will you hunt the souls of my people

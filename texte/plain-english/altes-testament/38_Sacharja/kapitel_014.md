@@ -156,7 +156,7 @@ On that day there will no longer be a Canaanite in the house of the LORD of Armi
 > **What God wants:** “Don’t treat the widow, the orphan, the foreigner, or the poor harshly” (7:10).
 > **Peace in the city:** Old people in the streets, children playing in the streets (8:4–5).
 > **The king on the donkey:** “Look, your King is coming to you … humble, and riding on a donkey” (9:9).
-> **The good shepherd:** He is rejected and paid off with thirty pieces of silver (11:12–13). “Strike the shepherd, and the sheep will be scattered” (13:7).
+> **The good shepherd:** He is rejected and paid off with 30 pieces of silver (11:12–13). “Strike the shepherd, and the sheep will be scattered” (13:7).
 > **The one who was pierced:** “They will look at me, the one they have pierced” (12:10).
 > **God is King over all:** “The LORD will be King over the whole earth. On that day the LORD will be one, and his name one” (14:9).
 > **Zechariah and Jesus:** No other book of the prophets is quoted as often as Zechariah in the reports about the last days of Jesus.

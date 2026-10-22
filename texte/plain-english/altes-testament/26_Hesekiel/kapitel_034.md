@@ -58,7 +58,7 @@ so that the sheep will not be food for them anymore.”
 [11] “‘For this is what the Lord GOD says:
 “Look, I myself, yes I,
 will search for my sheep
-and look after them.
+and seek them out.
 [12] A shepherd looks for his flock
 on the day he is among his scattered sheep.
 In the same way I will look for my sheep.

@@ -38,9 +38,8 @@ Yes, the calf of Samaria will be broken to pieces.
 
 [7] “For they sow the wind,
 and they will reap the whirlwind.
-A whirlwind is a violent storm.
-The grain has no stalks standing.
-The stalks will produce no flour.
+There is no grain standing in his fields.
+The stalks will produce no heads of grain.
 And even if they produce some,
 strangers will swallow it up.
 [8] Israel is swallowed up.
@@ -48,13 +47,13 @@ Now they are among the nations like something worthless.
 [9] For they have gone up to Assyria,
 like a wild donkey wandering alone.
 Ephraim has paid lovers for himself.
-[10] But even though they sell themselves among the nations,
+[10] But even though they have sold themselves among the nations,
 I will now gather them together.
 And they will begin to waste away
 under the heavy load of the king of mighty rulers.
 
 > **What does this mean?**
-> Verse 7: “They sow the wind, and they will reap the whirlwind.” This became a famous saying. It is still used today. It means: Whoever does bad things will in the end get back something much worse. Small wrong decisions can have big, terrible consequences.
+> Verse 7: “They sow the wind, and they will reap the whirlwind.” A whirlwind is a violent storm. This became a famous saying. It is still used today. It means: Whoever does bad things will in the end get back something much worse. Small wrong decisions can have big, terrible consequences.
 > Verse 9: A wild donkey wanders around alone. Israel is alone and lonely because it has separated itself from God. And it even has to pay its “lovers” (its allies), with high tribute payments to Assyria (compare 2 Kings 15:19–20). Tribute is money that a weaker country must pay to a stronger one.
 > Verse 10: The “king of mighty rulers” is the king of Assyria. The burden of tribute will crush Israel.
 

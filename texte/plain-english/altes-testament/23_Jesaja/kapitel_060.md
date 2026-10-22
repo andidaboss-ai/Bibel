@@ -57,7 +57,7 @@ but in my favor I have had mercy on you.
 [11] Your gates will always stand open.
 They will not be shut by day or by night,
 so that people can bring you the wealth of the nations,
-with their kings led in procession.
+with their kings led as captives.
 [12] For the nation and the kingdom that will not serve you
 will perish.
 Yes, those nations will be completely destroyed.
@@ -111,7 +111,7 @@ and the days of your mourning will come to an end.
 They will inherit the land forever,
 the shoot that I planted,
 the work of my hands, so that I may be glorified.
-[22] The smallest one will become a thousand,
+[22] The smallest one will become 1,000,
 and the least one a strong nation.
 I, the LORD, will do it quickly when the time comes.”
 

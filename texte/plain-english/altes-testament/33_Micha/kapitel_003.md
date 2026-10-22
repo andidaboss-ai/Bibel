@@ -78,4 +78,4 @@ and the mountain of the temple will become like hills covered with forest.
 > Verse 10: Jerusalem was built up in a splendid way, but with “blood” and “wrongdoing”: at the cost of the poor, through exploitation and maybe forced labor.
 > Verse 11: Everyone can be bought: judges, priests, prophets. And yet they feel safe: “Isn’t the LORD among us? No disaster will come on us.” They use God as insurance, without living the way he wants.
 > Verse 12: The answer: Zion will be plowed up like a field. The temple mountain will become an overgrown hill.
-> These words were so famous that people still quoted them a hundred years later. When the prophet Jeremiah was to be killed because of similar words, some elders reminded the people: Micah said this too, and King Hezekiah did not kill him, but turned back to God (Jeremiah 26:17–19).
+> These words were so famous that people still quoted them 100 years later. When the prophet Jeremiah was to be killed because of similar words, some elders reminded the people: Micah said this too, and King Hezekiah did not kill him, but turned back to God (Jeremiah 26:17–19).

@@ -9,11 +9,11 @@
 I have gathered my myrrh and my spice.
 I have eaten my honeycomb and my honey.
 I have drunk my wine and my milk.
-The friends say: Eat, friends!
+Friends: Eat, friends!
 Drink! Yes, drink all you want, you who love each other!
 
 > **What does this mean?**
-> The man she loves has accepted the invitation from chapter 4:16. He has come into “his garden.” This is a tender picture for the fulfillment of their love.
+> The man she loves has accepted the invitation in 4:16. He has come into “his garden.” This is a tender picture for the fulfillment of their love.
 > The friends are happy with the couple and wish that they may enjoy their love to the full.
 
 ---
@@ -36,7 +36,6 @@ My heart pounded for him.
 My hands dripped with myrrh.
 My fingers dripped with liquid myrrh
 onto the handles of the lock.
-Myrrh is a sweet-smelling oil.
 [6] I opened the door for my beloved.
 But my beloved had left.
 He was gone.
@@ -54,6 +53,7 @@ tell him that I am weak with love.
 > **What does this mean?**
 > A scene like a dream: She is already asleep when he knocks. She hesitates for a moment: “I’m already in bed!” When she then opens the door, he is gone.
 > Many people know this: You hesitate a moment too long and miss a chance. Afterward the longing is all the greater.
+> Verse 5: Myrrh is a sweet-smelling oil.
 > Verse 7: The watchmen treat her brutally when she is out alone at night. That is wrong. No one may use violence against a woman, no matter when and where she is out.
 > If you experience violence: US: 1-800-799-7233. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 
@@ -66,8 +66,7 @@ how is your beloved better than any other?
 How is your beloved better than any other,
 that you make us promise this?
 [10] My beloved is fair and ruddy.
-Ruddy means: with a healthy, reddish color.
-He is the best of ten thousand.
+He is the best of 10,000.
 [11] His head is like the purest gold.
 His hair is thick and wavy.
 It is black like a raven.
@@ -94,5 +93,6 @@ daughters of Jerusalem.
 > **What does this mean?**
 > The women ask: What is so special about the one you love?
 > Now the woman describes the one she loves from head to toe, just as he described her in chapter 4. For her, he is like a precious statue of gold, ivory and jewels.
+> Verse 10: Ruddy means: with a healthy, reddish color.
 > Verse 14: Beryl is a shining jewel. No one knows for sure exactly which stones are meant in Hebrew.
 > Verse 16: The most beautiful part: “This is my beloved, and this is my friend.” He is not only her lover, but also her friend. Love and friendship belong together.

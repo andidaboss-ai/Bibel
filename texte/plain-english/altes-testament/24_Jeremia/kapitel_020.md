@@ -103,9 +103,10 @@ Don’t let the day on which my mother gave birth to me be blessed.
 and said, “A son is born to you,”
 and made him very glad.
 [16] Let that man be like the cities
-which the LORD destroyed without pity.
+which the LORD destroyed without changing his mind.
 Let him hear a cry in the morning,
-and the alarm of war at noon,
+and shouting at noon,
+
 [17] because he didn’t kill me before I was born.
 Then my mother would have been my grave,
 and her womb would have stayed pregnant forever.

@@ -44,11 +44,11 @@ your own evil,
 and the evil of your wives,
 which they did in the land of Judah and in the streets of Jerusalem?
 [10] To this day they have not humbled themselves.
-They have not shown respect,
+They have not feared me,
 nor followed my law and my rules,
 which I set before you and before your ancestors.’
 [11] So the LORD of Armies, the God of Israel, says:
-‘Look, I have set my face against you for disaster,
+‘Look, I will set my face against you for disaster,
 to cut off all Judah.
 [12] I will take those who are left of Judah,
 who were determined to go to the land of Egypt to live there,
@@ -99,8 +99,9 @@ and have been coming to an end by the sword and by famine.”
 [19] And the women said,
 “When we burned incense to the queen of the sky,
 and poured out drink offerings to her,
-did we make cakes in her image and pour out drink offerings to her
-without our husbands’ consent?”
+did we make cakes for her to worship her,
+and pour out drink offerings to her,
+without our husbands?”
 
 > **What does this mean?**
 > The people’s answer is shockingly open: We will not listen to you!

@@ -145,11 +145,11 @@ and these are their shares,”
 says the Lord GOD.
 
 > **What does this mean?**
-> Five tribes live south of the holy area. Together with the seven in the north, there are twelve tribes. The whole people of Israel is united again. No tribe is forgotten, not even the tribes of the northern kingdom, which had been taken away more than 100 years before.
+> Five tribes live south of the holy area. Together with the seven in the north, there are 12 tribes. The whole people of Israel is united again. No tribe is forgotten, not even the tribes of the northern kingdom, which had been taken away more than 100 years before.
 
 ---
 
-## The city with twelve gates (Verses 30–35)
+## The city with 12 gates (Verses 30–35)
 
 [30] “These are the exits of the city:
 The north side is 4,500 rods (about 9 miles) long.
@@ -178,8 +178,8 @@ And from that day on, the name of the city will be,
 ‘The LORD is there.’”
 
 > **What does this mean?**
-> The city is a square with three gates on each side, twelve gates in all, each named after a tribe of Israel. Here Levi also has a gate, and Joseph stands for Ephraim and Manasseh together. All the tribes have access to the city.
-> Revelation takes up this picture: The new Jerusalem has twelve gates with the names of the twelve tribes of Israel (Revelation 21:12–13).
+> The city is a square with three gates on each side, 12 gates in all, each named after a tribe of Israel. Here Levi also has a gate, and Joseph stands for Ephraim and Manasseh together. All the tribes have access to the city.
+> Revelation takes up this picture: The new Jerusalem has 12 gates with the names of the 12 tribes of Israel (Revelation 21:12–13).
 > Verse 35: This is the last sentence of the book, and it is beautiful. The city is no longer called Jerusalem, but “The LORD is there” (in Hebrew “Yahweh Shammah”).
 > The book began with a man in exile, far from home, who saw God’s glory in a foreign land. It ends with the certainty: God lives among his people. He is there. Forever.
 

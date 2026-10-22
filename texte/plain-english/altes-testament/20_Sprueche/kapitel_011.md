@@ -10,7 +10,7 @@ but accurate weights please him.
 [2] When pride comes, then comes shame,
 but with humility comes wisdom.
 [3] The honesty of the upright guides them,
-but the twistedness of the unfaithful destroys them.
+but the crooked ways of the unfaithful destroy them.
 [4] Riches are no use on the day of anger,
 but righteousness saves from death.
 [5] The righteousness of the blameless makes his way straight,

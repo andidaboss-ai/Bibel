@@ -42,7 +42,7 @@ from the men who speak twisted things,
 [13] who leave the paths of uprightness
 to walk in the ways of darkness,
 [14] who are happy to do evil
-and enjoy the twistedness of evil,
+and enjoy the twisted ways of evil,
 [15] who are crooked in their ways
 and wrong in their paths.
 [16] She will save you from the strange woman,

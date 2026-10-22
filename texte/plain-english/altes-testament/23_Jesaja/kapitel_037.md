@@ -56,13 +56,13 @@ have done to all the lands,
 destroying them completely.
 And will you be rescued?
 [12] Did the gods of the nations rescue them,
-the nations my fathers destroyed:
+the nations my ancestors destroyed:
 Gozan, Haran, Rezeph, and the people of Eden who were in Telassar?
 [13] Where is the king of Hamath, and the king of Arpad,
 and the king of the city of Sepharvaim, of Hena and Ivvah?’”
 
 > **What does this mean?**
-> Sennacherib has to fight against an army from Cush and Egypt that is coming under King Tirhakah. The English source text (the WEB) says “Ethiopia.” That is why he sends a threatening letter to Jerusalem: Don’t think your God can save you!
+> Sennacherib has to fight against an army from Cush and Egypt that is coming under King Tirhakah. The WEB, our English source text, says “Ethiopia.” That is why he sends a threatening letter to Jerusalem: Don’t think your God can save you!
 > He lists the many cities and kings that Assyria has already defeated. He wants to frighten Hezekiah.
 
 ---

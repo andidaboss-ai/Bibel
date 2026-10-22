@@ -64,7 +64,8 @@ and he will burn it with fire.”’
 
 [11] “To the house of the king of Judah: Hear the LORD’s word!
 [12] House of David, the LORD says,
-‘Do justice every morning,
+‘Do justice in the morning,
+
 and rescue the one who has been robbed
 out of the hand of the oppressor.
 Otherwise my anger will go out like fire,

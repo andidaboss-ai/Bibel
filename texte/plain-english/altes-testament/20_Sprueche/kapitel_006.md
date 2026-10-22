@@ -55,7 +55,7 @@ is the one who goes around with a twisted mouth,
 [13] who winks with his eyes,
 who gives signals with his feet,
 who points with his fingers,
-[14] in whose heart is twistedness,
+[14] whose heart is twisted,
 who plans evil all the time,
 who always sows quarrels.
 [15] So his disaster will come suddenly.

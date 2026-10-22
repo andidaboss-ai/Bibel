@@ -18,7 +18,7 @@ He grazes among the lilies.
 
 > **What does this mean?**
 > The women offer to help her search. But the woman now knows where he is: in “his garden,” that is, with her.
-> Verse 3: As in chapter 2:16, but the other way around: “I belong to my beloved, and my beloved belongs to me.” This sentence is often found in wedding rings, in Hebrew “Ani le-dodi ve-dodi li.”
+> Verse 3: As in chapter 2:16, but the other way around: “I belong to my beloved, and my beloved belongs to me.” This sentence is often engraved in wedding rings, in Hebrew “Ani le-dodi ve-dodi li.”
 
 ---
 
@@ -37,7 +37,7 @@ Each of them has twins,
 and none of them has lost its young.
 [7] Your temples are like a piece of a pomegranate
 behind your veil.
-[8] There are sixty queens, eighty concubines,
+[8] There are 60 queens, 80 concubines,
 and young women without number.
 [9] My dove, my perfect one, is one of a kind.
 She is her mother’s only daughter.
@@ -75,4 +75,4 @@ as at the dance of Mahanaim?
 > Verse 12 is one of the hardest verses in Hebrew. No one knows exactly what it means. Perhaps: Her longing carries her away like a fast chariot.
 > Verse 13: Here the woman is named for the first time: “Shulammite.” Perhaps this means “the woman from Shunem” or “the peaceful one,” similar to the name Solomon (both are connected with “shalom,” peace).
 > The people call out: Turn around, we want to see you! The man she loves asks: Why are you staring at her as at a dance? “Mahanaim” is a place name and means “two camps.” What exactly this dance was is unknown.
-> In many Bibles, for example in Hebrew and German, verse 13 is the first verse of chapter 7.
+> In some Bibles, and in the Hebrew text, verse 13 is the first verse of chapter 7 (7:1).

@@ -1,5 +1,5 @@
 # Zechariah – Chapter 11
-### The good shepherd and the thirty pieces of silver
+### The good shepherd and the 30 pieces of silver
 
 ---
 
@@ -59,11 +59,11 @@ knew that it was the word of the LORD.
 [12] I said to them,
 “If you think it is right, give me my wages.
 If not, keep them.”
-So they weighed out thirty pieces of silver as my wages.
+So they weighed out 30 pieces of silver as my wages.
 [13] The LORD said to me,
 “Throw it to the potter,
 that fine price at which they valued me!”
-So I took the thirty pieces of silver
+So I took the 30 pieces of silver
 and threw them to the potter in the house of the LORD.
 [14] Then I broke my other staff, Union, in pieces.
 In this way I broke the brotherhood between Judah and Israel.
@@ -75,8 +75,8 @@ In this way I broke the brotherhood between Judah and Israel.
 > Verse 8: We do not know who the “three shepherds” are. There are very many different explanations.
 > Verse 9: The people reject the good shepherd. So he gives up. The terrible result: hunger and misery, so bad that people eat each other. This describes the horrors of a siege and a famine (compare 2 Kings 6:28–29). It is a warning, not a wish.
 > Verses 10–11: The staff “Favor” is broken: God takes back his grace that protected them. Only the weak ones of the flock understand what is happening.
-> Verses 12–13: The shepherd asks for his wages. They give him thirty pieces of silver. That was the price of a slave (Exodus 21:32). God calls it, with bitter irony, “that fine price at which they valued me” (Zechariah 11:13). That is how little God is worth to his people! The shepherd throws the money to the potter in the temple.
-> These verses are taken up in the New Testament: Judas betrays Jesus for thirty pieces of silver. Later he throws the money into the temple, and with it a potter’s field is bought (Matthew 26:15; 27:3–10). Matthew names the prophet Jeremiah there. He probably connects Zechariah with words of Jeremiah about a potter and a field (Jeremiah 18–19; 32).
+> Verses 12–13: The shepherd asks for his wages. They give him 30 pieces of silver. That was the price of a slave (Exodus 21:32). God calls it, with bitter irony, “that fine price at which they valued me” (Zechariah 11:13). That is how little God is worth to his people! The shepherd throws the money to the potter in the temple.
+> These verses are taken up in the New Testament: Judas betrays Jesus for 30 pieces of silver. Later he throws the money into the temple, and with it a potter’s field is bought (Matthew 26:15; 27:3–10). Matthew names the prophet Jeremiah there. He probably connects Zechariah with words of Jeremiah about a potter and a field (Jeremiah 18–19; 32).
 > Verse 14: The second staff, “Union,” is broken: The unity of the people breaks too.
 
 ---

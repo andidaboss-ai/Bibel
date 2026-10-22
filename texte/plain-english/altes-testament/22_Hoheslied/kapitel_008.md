@@ -35,7 +35,7 @@ There she was in labor and gave birth to you.
 [6] Put me like a seal on your heart,
 like a seal on your arm,
 for love is as strong as death.
-Its jealous passion is as cruel as Sheol, the world of the dead.
+Its jealous passion is as cruel as Sheol (the world of the dead).
 Its flames are flames of fire,
 a flame of Yah.
 [7] Many waters cannot put out love,
@@ -78,10 +78,10 @@ Then I was in his eyes like one who finds peace.
 
 [11] Solomon had a vineyard at Baal Hamon.
 He rented out the vineyard to keepers.
-Each was to bring a thousand pieces of silver for its fruit.
+Each was to bring 1,000 shekels of silver (about 25 pounds) for its fruit.
 [12] My own vineyard is before me.
-The thousand are for you, Solomon,
-and two hundred for those who tend its fruit.
+The 1,000 are for you, Solomon,
+and 200 for those who tend its fruit.
 [13] You who live in the gardens,
 the friends are listening.
 Let me hear your voice!
@@ -90,7 +90,7 @@ and be like a gazelle or a young deer
 on the mountains of spices!
 
 > **What does this mean?**
-> Verses 11–12: Solomon has a huge vineyard that brings in a lot of money. But the woman says: My vineyard, that is, I myself, belongs to me. I give myself to whom I want. He can keep his wealth. Love cannot be bought (compare verse 7).
+> Verses 11–12: Solomon has a huge vineyard that brings in a lot of money. A shekel is about 0.4 ounces of silver. But the woman says: My vineyard, that is, I myself, belongs to me. I give myself to whom I want. He can keep his wealth. Love cannot be bought (compare verse 7).
 > Verses 13–14: The book ends open: He asks to hear her voice. She calls him to come to her. The longing goes on. Love is never completely “finished.”
 
 ---

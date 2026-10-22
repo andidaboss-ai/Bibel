@@ -37,7 +37,7 @@ Whoever walks on them does not know peace.
 
 > **What does this mean?**
 > Verses 1–2: The people ask: Why doesn’t God help? The prophet answers: God’s hand is not too short and his ear is not deaf. But your guilt stands like a wall between you and God.
-> Verses 3–8: A list of injustice: violence, lies, unjust courts, murder of innocent people. The pictures are strong: Evil plans are like snake eggs that poison hatches from, and like spider webs that are no good for clothes.
+> Verses 3–8: A list of injustice: violence, lies, unjust courts, murder of innocent people. The pictures are strong: Evil plans are like snake eggs that hatch poison, and like spider webs that are no good for clothes.
 > Verses 7–8: Paul quotes these verses in his letter to the Romans (3:15–17) to show that all people need God’s grace.
 
 ---
@@ -46,7 +46,7 @@ Whoever walks on them does not know peace.
 
 [9] So justice is far from us,
 and righteousness does not reach us.
-We look for light, but look, darkness,
+We look for light, but there is darkness,
 for brightness, but we walk in gloom.
 [10] We grope for the wall like the blind.
 Yes, we grope like those who have no eyes.
@@ -66,7 +66,7 @@ speaking of oppression and revolt,
 thinking up lies in our hearts and speaking them.
 [14] Justice is pushed back,
 and righteousness stands far away.
-For truth has stumbled in the street,
+For truth has fallen in the street,
 and honesty cannot come in.
 [15] Yes, truth is missing,
 and whoever turns away from evil becomes prey.

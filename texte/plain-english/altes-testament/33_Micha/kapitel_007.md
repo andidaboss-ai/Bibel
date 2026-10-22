@@ -36,7 +36,7 @@ A man’s enemies are the people of his own house.
 > Verses 2–4: Everyone is corrupt. Even the best are like thorns: You get hurt by them.
 > Verses 5–6: Trust is broken, even in families. You cannot trust anyone any more, not your friend, not your own husband or wife, not your own children.
 > Jesus quotes verse 6 when he says that deciding for him can sometimes even divide families (Matthew 10:35–36).
-> For today: Where corruption and distrust rule, living together breaks apart. If you experience violence in your family, get help. US: 1-800-799-7233. For children and teenagers in the US: Childhelp 1-800-422-4453. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> For today: Where corruption and distrust rule, living together breaks apart. If you experience violence in your family, get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence, US: 1-800-799-7233. For children and teenagers in the US: Childhelp 1-800-422-4453.
 
 ---
 
@@ -119,7 +119,7 @@ He will trample our guilt under his feet.
 You will throw all their sins into the depths of the sea.
 [20] You will be faithful to Jacob
 and show mercy to Abraham,
-as you promised our fathers
+as you promised our ancestors
 in the days long ago.
 
 > **What does this mean?**

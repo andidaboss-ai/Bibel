@@ -23,7 +23,7 @@ Look, I will pray to the LORD your God as you have asked.
 Whatever the LORD answers you, I will tell you.
 I will keep nothing back from you.”
 [5] Then they said to Jeremiah,
-“May the LORD be a true and faithful witness against us,
+“May the LORD be a true and faithful witness among us,
 if we don’t do everything that the LORD your God sends you to tell us.
 [6] Whether it is good or bad,
 we will obey the voice of the LORD our God, to whom we are sending you,
@@ -39,7 +39,7 @@ when we obey the voice of the LORD our God.”
 
 ## God’s answer: Stay in the land! (Verses 7–22)
 
-[7] After ten days, the LORD’s word came to Jeremiah.
+[7] After 10 days, the LORD’s word came to Jeremiah.
 [8] Then he called Johanan, the son of Kareah,
 and all the army commanders who were with him,
 and all the people, from the least to the greatest.
@@ -101,7 +101,7 @@ that you will die by the sword, by famine, and by disease
 in the place where you want to go to live.”
 
 > **What does this mean?**
-> Verse 7: Jeremiah waits ten days for God’s answer. He does not answer from his own opinion, but waits patiently for God.
+> Verse 7: Jeremiah waits 10 days for God’s answer. He does not answer from his own opinion, but waits patiently for God.
 > Verse 10: God’s answer is full of kindness: Stay in the land, then I will build you up. “I am sorry about the disaster that I have brought on you.” God shows compassion for his suffering people.
 > Verses 11–12: Don’t be afraid of Babylon! I am with you.
 > Verse 14: Egypt seemed to be the safe place: no war, no hunger. But God warns: What you fear will catch up with you there.

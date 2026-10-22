@@ -16,7 +16,8 @@ Each one has a twin.
 Not one of them is missing.
 [3] Your lips are like a red thread.
 Your mouth is lovely.
-Behind your veil, your temples are like half a pomegranate.
+Your temples are like a piece of a pomegranate
+behind your veil.
 [4] Your neck is like the tower of David.
 It was built to store weapons.
 1,000 shields hang on it.

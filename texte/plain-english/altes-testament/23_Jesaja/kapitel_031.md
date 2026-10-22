@@ -38,7 +38,7 @@ it is not frightened by their shouting
 and does not cower at their noise,
 so the LORD of Armies will come down
 to fight on Mount Zion and on its hill.
-[5] Like birds hovering over their nest,
+[5] Like birds hovering,
 so the LORD of Armies will protect Jerusalem.
 He will protect it and rescue it.
 He will pass over it and keep it safe.”

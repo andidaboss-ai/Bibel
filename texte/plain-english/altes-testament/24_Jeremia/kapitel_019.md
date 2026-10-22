@@ -17,9 +17,10 @@ The LORD of Armies, the God of Israel, says,
 “Look, I will bring such a disaster on this place
 that the ears of everyone who hears about it will ring.
 [4] For they have left me,
-and have made this place foreign to me.
+and have made this place unclean.
 They have burned incense in it to other gods that they didn’t know:
-they, their fathers, and the kings of Judah.
+they, their ancestors, and the kings of Judah.
+
 They have filled this place with the blood of innocent people.
 [5] They have built the high places of Baal,
 to burn their children in the fire as burnt offerings to Baal.

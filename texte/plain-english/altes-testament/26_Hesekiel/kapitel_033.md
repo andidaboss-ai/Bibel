@@ -14,9 +14,8 @@ and make him their watchman.
 He blows the trumpet
 and warns the people.
 [4] Then whoever hears the sound of the trumpet
-and does not pay attention to the warning
-is responsible for his own death.
-If the sword comes and takes him away,
+and does not pay attention to the warning,
+if the sword comes and takes him away,
 his blood will be on his own head.
 [5] He heard the sound of the trumpet,
 but he did not let himself be warned.

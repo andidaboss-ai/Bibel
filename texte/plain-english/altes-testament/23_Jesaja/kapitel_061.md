@@ -57,7 +57,6 @@ They will have joy that lasts forever.
 I hate robbery and wrongdoing.
 I will give them their reward faithfully.
 I will make a covenant with them that lasts forever.
-A covenant is a binding agreement.
 [9] Their children will be known among the nations.
 Their descendants will be known among the peoples.
 All who see them will recognize them.
@@ -67,7 +66,7 @@ They will see: These are the children the LORD has blessed.”
 > Verse 4: Those returning home rebuild the destroyed cities.
 > Verses 5–6: All of Israel becomes “priests of the LORD.” Just as the priests were there for the people, Israel is to be there for the whole world and show God to the nations (compare Exodus 19:6). The other nations help it do this.
 > Verse 7: For the shame they suffered, there is double joy.
-> Verse 8: “I, the LORD, love justice. I hate robbery and wrongdoing.” That is a principle for everything God does.
+> Verse 8: “I, the LORD, love justice. I hate robbery and wrongdoing.” That is a principle for everything God does. A covenant is a binding agreement.
 
 ---
 

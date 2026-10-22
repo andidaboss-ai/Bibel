@@ -64,7 +64,7 @@ He will punish them for their sins.
 ## Like grapes in the wilderness (Verses 10–14)
 
 [10] “I found Israel like grapes in the wilderness.
-I saw your fathers
+I saw your ancestors
 like the first ripe figs on a fig tree in its first season.
 But they came to Baal Peor.
 They gave themselves to that shameful god.
