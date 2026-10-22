@@ -3,9 +3,9 @@
 
 ---
 
-## Before we begin: The twelve Minor Prophets and Hosea
+## Before we begin: The 12 Minor Prophets and Hosea
 
-Now the twelve “Minor Prophets” begin: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi. They are called “minor” (small) because their books are shorter than those of Isaiah, Jeremiah, and Ezekiel, not because they are less important. In Judaism, they form one single book together, the “Book of the Twelve.”
+Now the 12 “Minor Prophets” begin: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi. They are called “minor” (small) because their books are shorter than those of Isaiah, Jeremiah, and Ezekiel, not because they are less important. In Judaism, they form one single book together, the “Book of the Twelve.”
 Hosea lived in the 8th century BC in the northern kingdom of Israel, at about the same time as Amos, Isaiah, and Micah. It was a time when many people were doing well. But the people mixed the God of Israel with Baal, a god of fertility. Shortly afterward, in the year 722 BC, the northern kingdom was destroyed by the Assyrians.
 His name means “The LORD saves,” very similar to “Joshua” and “Jesus.”
 What is special about Hosea: He feels God’s pain in his own life. His own marriage to an unfaithful wife becomes a picture of God’s relationship with his unfaithful people.
@@ -61,7 +61,7 @@ To wean means: The child stops drinking its mother’s milk.
 [9] The LORD said,
 “Name him Lo-Ammi.
 For you are not my people,
-and I will not be yours.”
+and I will not be yours.
 
 > **What does this mean?**
 > The three children get names that are a message, like living posters:
@@ -75,7 +75,7 @@ and I will not be yours.”
 
 ## But then: children of the living God (Verses 10–11)
 
-[10] Yet the number of the people of Israel will be like the sand of the sea,
+[10] “Yet the number of the people of Israel will be like the sand of the sea,
 which cannot be measured or counted.
 And this will happen:
 In the place where people said to them,
@@ -85,7 +85,7 @@ they will be called ‘children of the living God.’
 will be gathered together.
 They will choose one leader for themselves.
 And they will go up out of the land.
-For the day of Jezreel will be great.
+For the day of Jezreel will be great.”
 
 > **What does this mean?**
 > A note on the numbering: In some Bibles, these two verses are 2:1–2. That is why the verse numbers in Chapter 2 of the WEB are two lower than in many other Bibles.

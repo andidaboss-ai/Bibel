@@ -49,9 +49,9 @@ of the yeast of the Pharisees and Sadducees!”
 why are you discussing among yourselves
 that you have no bread?
 [9] Don’t you understand yet?
-Don’t you remember the five loaves for the five thousand,
+Don’t you remember the 5 loaves for the 5,000,
 and how many baskets you picked up?
-[10] And the seven loaves for the four thousand,
+[10] And the 7 loaves for the 4,000,
 and how many baskets you picked up?
 [11] How is it that you don’t understand
 that I was not talking to you about bread?
@@ -89,14 +89,14 @@ For flesh and blood has not revealed this to you,
 but my Father in heaven.
 [18] And I tell you
 that you are Peter,
-and on this rock I will build my assembly.
+and on this rock I will build my church.
 And the gates of Hades
 will not overpower it.
 [19] I will give you the keys of the Kingdom of Heaven.
 Whatever you bind on earth
-will be bound in heaven.
+will have been bound in heaven.
 And whatever you release on earth
-will be released in heaven.”
+will have been released in heaven.”
 [20] Then he commanded the disciples
 to tell no one
 that he was Jesus the Christ.
@@ -105,7 +105,7 @@ that he was Jesus the Christ.
 > Caesarea Philippi is a town in the north, at the foot of Mount Hermon, near the springs of the Jordan.
 > “Christ” is Greek and means the same as the Hebrew “Messiah”: “the anointed one.” That is the king God promised.
 > Verse 17: “Flesh and blood” means: no human being. Peter did not figure this out himself. God showed it to him. “Bar Jonah” means “son of Jonah.”
-> Verse 18: There is a play on words here. “Peter” comes from the Greek word for “rock” or “stone.” The WEB says “assembly,” that is, a gathering or congregation. Many English Bibles translate “church.”
+> Verse 18: There is a play on words here. “Peter” comes from the Greek word for “rock” or “stone.” The WEB, our English source text, says “assembly,” that is, a gathering or congregation. Here we say “church,” as many Bibles do.
 > “The gates of Hades” (the realm of the dead): Not even death will defeat the church.
 > Christians understand verses 18–19 in different ways. Catholic Christians see here the task given to Peter and his successors, the popes. Protestant Christians often see the “rock” in Peter’s faith or confession, or in Christ himself. Orthodox Christians see Peter as the first among the apostles. All agree: Jesus builds his church, not a single human being.
 > Verse 19: “Binding and releasing” was a way of speaking used by Jewish teachers. It means, for example: forbidding or allowing something, or holding on to guilt or forgiving it. In 18:18 all the disciples receive this task.
@@ -173,7 +173,7 @@ coming in his Kingdom.”
 
 > **What does this mean?**
 > “To deny yourself” means: no longer putting yourself at the center, but Jesus. “To take up your cross”: Whoever follows Jesus must be ready to bear disadvantages or suffering too.
-> Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help. That is not against Jesus’ will. Help is available, for example: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help. That is not against Jesus’ will. Help is available, for example: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence: US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verses 25–26: The Greek word for “life” can also mean “soul.” A life only for possessions and success is lost in the end. A life for God and for others is never wasted.
 > Verse 27: Jesus will come again as judge. This reminds us of Psalm 62:12 (in the Hebrew Bible and in some Bibles 62:13).
 > Verse 28 is hard to understand. Some interpreters think it is about the transfiguration, which is told right after this (17:1–8). Others think of the resurrection or of Pentecost. There are different interpretations.

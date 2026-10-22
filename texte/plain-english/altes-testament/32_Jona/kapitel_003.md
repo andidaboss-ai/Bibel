@@ -15,7 +15,7 @@ It took three days to walk across it.
 [4] Jonah began to go into the city.
 He walked for one day.
 He cried out and said,
-“In forty days, Nineveh will be destroyed!”
+“In 40 days, Nineveh will be destroyed!”
 
 > **What does this mean?**
 > Verse 1: “A second time.” God gives Jonah a second chance. He does not give up on people, not even when they have run away.

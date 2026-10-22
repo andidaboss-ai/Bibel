@@ -112,7 +112,6 @@ Their names will no longer be spoken.
 with the animals of the field,
 with the birds of the sky,
 and with the creatures that crawl on the ground.
-A covenant is a binding agreement.
 I will break the bow and the sword and put an end to war in the land.
 I will let them lie down in safety.
 [19] I will make you my bride forever.
@@ -133,7 +132,7 @@ I will say to those who were not my people, ‘You are my people.’
 And they will say, ‘You are my God!’”
 
 > **What does this mean?**
-> Verse 18: A covenant of peace with all of creation. No more war. A picture of paradise.
+> Verse 18: A covenant is a binding agreement. Here it is a covenant of peace with all of creation. No more war. A picture of paradise.
 > Verses 19–20: God makes a new engagement, and he brings the “wedding gifts” himself: righteousness, justice, loving kindness, compassion, and faithfulness. In Judaism, these words are spoken every morning when the prayer straps (tefillin) are wound around the finger.
 > “You will know the LORD.” In Hebrew, “knowing” does not only mean knowledge, but a deep, personal relationship.
 > Verses 21–22: A chain of blessing: God answers the heavens, the heavens answer the earth (with rain), the earth answers the grain, and all together answer the people.

@@ -12,9 +12,9 @@ They said,
 “This man welcomes sinners
 and even eats with them.”
 [3] So Jesus told them this parable.
-[4] “Suppose one of you has one hundred sheep,
+[4] “Suppose one of you has 100 sheep,
 and one of them gets lost.
-Won’t he leave the ninety-nine sheep in the wilderness?
+Won’t he leave the 99 sheep in the wilderness?
 Won’t he go and look for the lost sheep
 until he finds it?
 [5] When he finds it,
@@ -29,7 +29,7 @@ I have found my sheep that was lost!’
 it is the same in heaven.
 There is more joy in heaven
 over one sinner who turns away from his sins
-than over ninety-nine good people
+than over 99 good people
 who do not need to turn away from their sins.”
 
 > **What does this mean?**
@@ -38,14 +38,14 @@ who do not need to turn away from their sins.”
 > A shepherd counted his sheep every evening. A sheep on its own was in great danger.
 > In the Old Testament God himself is the shepherd who looks for what is lost (Ezekiel 34:11–16; Psalm 23).
 > Verse 5: The shepherd does not scold. He carries the sheep home, full of joy.
-> Verse 7: “Ninety-nine good people who do not need to turn away from their sins”: This sounds almost a little ironic. Who doesn’t need to turn back?
+> Verse 7: “99 good people who do not need to turn away from their sins”: This sounds almost a little ironic. Who doesn’t need to turn back?
 > For today: No person is worth too little to God. He looks for every single one.
 
 ---
 
 ## The lost coin (Verses 8–10)
 
-[8] “Or suppose a woman has ten silver coins called drachmas,
+[8] “Or suppose a woman has 10 silver coins called drachmas,
 and she loses one of them.
 Won’t she light a lamp
 and sweep the house?
@@ -75,7 +75,7 @@ over one sinner who turns away from his sins.”
 [11] Jesus said,
 “A man had two sons.
 [12] The younger son said to his father,
-‘Father, give me my share of your property now.’
+‘Father, give me my share of your property.’
 So the father divided his property between his two sons.
 [13] A few days later the younger son packed up everything he had.
 He traveled to a country far away.
@@ -112,7 +112,7 @@ and kissed him.
 I am not good enough anymore
 to be called your son.’
 [22] But the father said to his servants,
-‘Quick! Bring the best robe and put it on him.
+‘Bring out the best robe and put it on him.
 Put a ring on his finger
 and sandals on his feet.
 [23] Bring the calf we have been fattening.
@@ -138,7 +138,7 @@ He did not want to go in.
 So his father came out
 and begged him to come in.
 [29] But the older son answered his father,
-‘Look! For so many years I have worked for you like a slave.
+‘Look! For so many years I have served you.
 I have never disobeyed your orders.
 But you never gave me even a young goat,
 so that I could celebrate with my friends.
@@ -146,7 +146,7 @@ so that I could celebrate with my friends.
 And when he comes home,
 you kill the fattened calf for him!’
 [31] The father said to him,
-‘My son, you are always with me.
+‘Son, you are always with me.
 Everything I have is yours.
 [32] But we had to celebrate and be glad.
 For this brother of yours was dead,
@@ -157,8 +157,8 @@ and now he is found.’”
 > **What does this mean?**
 > This parable is one of the best known in the Bible. Only Luke tells it. It is often called the “parable of the lost son,” sometimes also the parable of the loving father, because the father is the main character.
 > Verse 12: Asking for your inheritance while your father was still alive was a deep insult back then. It was almost like saying: I wish you were dead. Even so, the father gives in.
-> Verses 15–16: For Jews, pigs counted as unclean (Leviticus 11:7). The son could hardly sink any lower. The “pods” were probably the fruit of the carob tree, which was used as animal feed.
 > Verse 13: “Wild living” means: a wild, wasteful life.
+> Verses 15–16: For Jews, pigs counted as unclean (Leviticus 11:7). The son could hardly sink any lower. The “pods” were probably the fruit of the carob tree, which was used as animal feed.
 > Verse 17: “He came to his senses”: He sees honestly how things stand with him. That is the beginning of turning back.
 > Verse 20: The father waits and keeps watch. He runs to meet his son. For an older man back then, running was almost undignified. But love is greater than dignity.
 > Verse 21: The father does not even let the son finish the speech he had prepared. Some old manuscripts add here: “Let me be like one of your hired workers.”

@@ -20,7 +20,7 @@ don’t let your left hand know what your right hand is doing,
 Then your Father, who sees in secret, will reward you openly.
 
 > **What does this mean?**
-> In Chapter 6 Jesus speaks about three important ways of living out faith in Judaism: giving to the poor (verses 1–4), praying (verses 5–15) and fasting (verses 16–18). Jesus does not reject them. He only says: Do them for God, not in order to be admired.
+> In Chapter 6 Jesus speaks about three important ways of living out faith in Judaism: giving to the poor (verses 1–4), praying (verses 5–15), and fasting (verses 16–18). Jesus does not reject them. He only says: Do them for God, not in order to be admired.
 > “Hypocrite” was originally the Greek word for an actor. It means people who put their faith on show as if they were on a stage. That happens in every religion, among Christians too.
 > Verse 3: “Don’t let your left hand know what your right hand is doing” means: Don’t make a big fuss about your good deeds, not even to yourself.
 
@@ -28,7 +28,7 @@ Then your Father, who sees in secret, will reward you openly.
 
 ## Praying in secret (Verses 5–8)
 
-[5] And when you pray,
+[5] “And when you pray,
 you shall not be like the hypocrites.
 For they love to stand and pray in the synagogues and on the street corners,
 so that people will see them.
@@ -64,7 +64,7 @@ as we also forgive our debtors.
 but deliver us from the evil one.
 For yours is the Kingdom, the power, and the glory forever.
 Amen.’
-[14] For if you forgive people their wrongdoings,
+[14] “For if you forgive people their wrongdoings,
 your heavenly Father will also forgive you.
 [15] But if you don’t forgive people their wrongdoings,
 your Father will not forgive your wrongdoings either.
@@ -83,7 +83,7 @@ your Father will not forgive your wrongdoings either.
 
 ## Fasting in secret (Verses 16–18)
 
-[16] And when you fast,
+[16] “And when you fast,
 don’t be like the hypocrites with gloomy faces.
 For they change the look of their faces
 so that people will see that they are fasting.
@@ -103,21 +103,21 @@ And your Father, who sees in secret, will reward you.
 
 ## Treasures in heaven (Verses 19–24)
 
-[19] Don’t store up treasures for yourselves on the earth,
+[19] “Don’t store up treasures for yourselves on the earth,
 where moths and rust destroy them,
 and where thieves break in and steal.
 [20] Instead, store up treasures for yourselves in heaven,
 where neither moths nor rust destroy them,
 and where thieves don’t break in and steal.
 [21] For where your treasure is, there your heart will be also.
-[22] The eye is the lamp of the body.
+[22] “The eye is the lamp of the body.
 So if your eye is healthy,
 your whole body will be full of light.
 [23] But if your eye is evil,
 your whole body will be full of darkness.
 So if the light in you is darkness,
 how great that darkness is!
-[24] No one can serve two masters.
+[24] “No one can serve two masters.
 Either he will hate the one and love the other,
 or he will be devoted to one and despise the other.
 You can’t serve both God and Mammon.
@@ -131,7 +131,7 @@ You can’t serve both God and Mammon.
 
 ## Don’t worry (Verses 25–34)
 
-[25] So I tell you,
+[25] “So I tell you,
 don’t worry about your life,
 what you will eat or what you will drink,
 or about your body, what you will wear.
@@ -142,7 +142,7 @@ They don’t sow, they don’t reap,
 and they don’t gather into barns,
 yet your heavenly Father feeds them.
 Aren’t you worth much more than they are?
-[27] Which of you by worrying
+[27] “Which of you by worrying
 can add even one moment to your lifetime?
 [28] And why do you worry about clothing?
 Look at the lilies of the field, how they grow.
@@ -153,7 +153,7 @@ that even Solomon in all his glory was not dressed like one of these.
 which is here today and tomorrow is thrown into the oven,
 won’t he much more dress you,
 you of little faith?
-[31] So don’t worry, saying,
+[31] “So don’t worry, saying,
 ‘What will we eat?’,
 ‘What will we drink?’
 or, ‘What will we wear?’

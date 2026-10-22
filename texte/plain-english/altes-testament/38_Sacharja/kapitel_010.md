@@ -16,7 +16,7 @@ They have told false dreams.
 Their comfort is empty.
 That is why the people wander like sheep.
 They suffer because there is no shepherd.
-[3] “My anger burns against the shepherds,
+[3] My anger burns against the shepherds,
 and I will punish the male goats.
 For the LORD of Armies has taken care of his flock,
 the house of Judah.
@@ -40,7 +40,7 @@ And the riders on horses will be put to shame.
 
 ## I will bring them home (Verses 6–12)
 
-[6] I will make the house of Judah strong,
+[6] “I will make the house of Judah strong,
 and I will save the house of Joseph.
 I will bring them back,
 because I have mercy on them.
