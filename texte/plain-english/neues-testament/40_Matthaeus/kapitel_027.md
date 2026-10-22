@@ -24,7 +24,7 @@ and handed him over to Pontius Pilate, the governor.
 [3] Judas, who had betrayed him, saw
 that Jesus had been condemned.
 Then he felt sorry for what he had done.
-He brought the thirty pieces of silver
+He brought the 30 pieces of silver
 back to the chief priests and elders
 [4] and said,
 “I have sinned.
@@ -45,7 +45,7 @@ as a place to bury strangers.
 [8] That is why that field has been called
 “The Field of Blood” to this day.
 [9] Then what was spoken through Jeremiah the prophet was fulfilled:
-“They took the thirty pieces of silver,
+“They took the 30 pieces of silver,
 the price of the one on whom a price had been set,
 whom some of the people of Israel priced,
 [10] and they gave them for the potter’s field,
@@ -57,7 +57,7 @@ as the Lord commanded me.”
 > Important: Whoever is thinking about suicide is not alone. There is help, even if you feel great guilt. Please reach out: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. Children and young people: In the US, call or text Childhelp at 1-800-422-4453. In the UK, call Childline at 0800 1111. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Christians believe: No guilt is so great that God cannot forgive it. Peter failed too, and he found a new beginning.
 > Whoever has lost someone to suicide should know: Today the churches no longer condemn people who have taken their own lives. They are usually given a Christian funeral today. God is merciful.
-> Verses 9–10: Matthew names the prophet Jeremiah. But the words about the thirty pieces of silver are mainly found in Zechariah (Zechariah 11:12–13). Jeremiah tells about a potter and about buying a field (Jeremiah 18:1–4; 19:1–2; 32:6–9). Matthew probably combines these passages and names the better-known prophet.
+> Verses 9–10: Matthew names the prophet Jeremiah. But the words about the 30 pieces of silver are mainly found in Zechariah (Zechariah 11:12–13). Jeremiah tells about a potter and about buying a field (Jeremiah 18:1–4; 19:1–2; 32:6–9). Matthew probably combines these passages and names the better-known prophet.
 > The book of Acts tells about the death of Judas somewhat differently (Acts 1:18–19).
 
 ---

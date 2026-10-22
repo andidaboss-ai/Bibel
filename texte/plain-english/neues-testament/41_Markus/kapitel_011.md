@@ -17,8 +17,8 @@ Untie him and bring him here.
 [3] Someone may ask you,
 ‘Why are you doing this?’
 Then say,
-‘The Lord needs him.
-He will send him back here right away.’”
+‘The Lord needs him.’
+Then he will send him back here right away.”
 [4] The two disciples went.
 They found a young donkey.
 It was tied at a door outside in the street.
@@ -43,7 +43,7 @@ shouted,
 Blessed is he who comes in the name of the Lord!
 [10] Blessed is the coming kingdom of our father David!
 It comes in the name of the Lord!
-Hosanna in the highest heaven!”
+Hosanna in the highest!”
 [11] Jesus went into Jerusalem and into the temple.
 He looked around at everything.
 It was already evening.
@@ -53,7 +53,7 @@ So he went out to Bethany with the twelve disciples.
 > Bethsphage and Bethany were villages on the Mount of Olives, east of Jerusalem.
 > Jesus rides on a young donkey, not on a war horse. This reminds us of Zechariah 9:9: A king of peace comes, humble, riding on a donkey.
 > “On which no one has sat”: An animal for a holy purpose was not supposed to have been used yet (compare Numbers 19:2).
-> Verse 3: The WEB understands the sentence like this: Jesus will send the donkey back right away. So Jesus promises to give it back. The Greek can also be understood differently: The owner will send the donkey here right away.
+> Verse 3: The WEB understands the sentence like this: The owner will send the donkey here right away. The Greek can also be understood differently: Jesus will send the donkey back right away. Then Jesus would have promised to give it back.
 > “Hosanna” originally means “Please save us!” and became a shout of joy. The words come from Psalm 118:25–26, which pilgrims sang at the feast.
 > Verse 11: In Mark, Jesus only looks at everything on the first evening. Only on the next day does he act in the temple.
 > Christians remember this day on Palm Sunday.
@@ -102,7 +102,7 @@ to kill him.
 They were afraid of him,
 because the whole crowd was amazed at his teaching.
 [19] In the evening
-Jesus and his disciples went out of the city.
+Jesus went out of the city.
 
 > **What does this mean?**
 > In the outer court of the temple, animals for sacrifice were sold and money was changed. This was needed for the running of the temple. This court was also the only place where non-Jews were allowed to pray.

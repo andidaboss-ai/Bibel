@@ -43,8 +43,8 @@ They deserve to be condemned.
 [9] So what does this mean?
 Are we better than they are?
 No, not at all!
-We have already shown that all people are under the power of sin.
-That is true of Jews and of Greeks.
+We have already warned both Jews and Greeks
+that they are all under the power of sin.
 [10] As it is written:
 “There is no one righteous; no, not one.
 [11] There is no one who understands.
@@ -116,7 +116,8 @@ No, faith makes the law stand firm.
 *atoning sacrifice* = an offering that makes peace between God and people
 
 > **What does this mean?**
-> Verses 21–26 are a heart of the letter to the Romans. The message is: God makes people righteous. Not because they deserve it, but as a gift, by grace, through Jesus Christ.
+> Verses 21–26 are the heart of the letter
+ to the Romans. The message is: God makes people righteous. Not because they deserve it, but as a gift, by grace, through Jesus Christ.
 > Verse 23: “All have sinned”: No one is without guilt. But no one is shut out from God’s grace either.
 > Verse 25: “Atoning sacrifice”: This recalls the Day of Atonement in the temple (Leviticus 16). Christians believe: Through the death of Jesus God gives reconciliation. How exactly to understand this is something the churches still think about today.
 > Verse 28: In his German translation, Martin Luther added the word *alone* here. This word is not in the Greek text and not in the WEB either. There was a long argument about it. In the *Joint Declaration on the Doctrine of Justification* (1999), the Catholic Church and the Lutheran World Federation stated together: We are made righteous by grace alone, in faith, not because of our merits.

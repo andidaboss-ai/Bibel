@@ -74,13 +74,13 @@ went to the chief priests
 [15] and said,
 “What are you willing to give me
 if I hand him over to you?”
-They weighed out thirty pieces of silver for him.
+They weighed out 30 pieces of silver for him.
 [16] From then on he looked for a good opportunity
 to betray him.
 
 > **What does this mean?**
 > Matthew does not say exactly why Judas betrayed Jesus. Here it is about money. Other reasons have been suggested, but they are not certain.
-> Thirty pieces of silver remind us of Zechariah 11:12. There it is the wage with which the shepherd is fobbed off. According to Exodus 21:32 it was the price of a slave.
+> 30 pieces of silver remind us of Zechariah 11:12. There it is the wage with which the shepherd is fobbed off. According to Exodus 21:32 it was the price of a slave.
 > Very important: In many languages the name “Judas” sounds like the word for “Jew.” For centuries Christians used Judas as a picture for “the Jews.” That was wrong and caused great injustice. All twelve disciples were Jews, Peter too, John too. And Jesus himself was a Jew.
 
 ---

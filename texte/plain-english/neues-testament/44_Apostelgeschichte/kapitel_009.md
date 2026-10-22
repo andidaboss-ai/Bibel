@@ -47,7 +47,7 @@ nor drank.
 > **What does this mean?**
 > Verse 2: Damascus was a large city in Syria with many Jewish communities. “The Way” was one of the first names for the Christians. They followed the way of Jesus.
 > Verse 4: “Why do you persecute me?” Saul is persecuting the Christians. But Jesus says: You are persecuting me. Jesus is united with the people who suffer.
-> Verses 5–6: Many other Bibles, such as the King James Version, and Some Bibles have more words here. They are not in the oldest manuscripts. The WEB doesn’t have them.
+> Verses 5–6: Some Bibles, such as the King James Version, have more words here. They are not in the oldest manuscripts. The WEB doesn’t have them.
 > Verse 9: Three days of darkness, without food or drink. Saul has to learn to see everything in a new way.
 > People often speak of Paul’s “conversion.” But he doesn’t change his religion. He remains a Jew. He recognizes Jesus as the Christ and receives a new task. That is why many people today prefer to speak of his calling.
 > For today: No one is too far away from God. God can change any life.
@@ -92,9 +92,8 @@ and entered the house.
 He laid his hands on him
 and said,
 “Brother Saul,
-the Lord has sent me,
-Jesus,
-who appeared to you on the road
+the Lord has sent me.
+He appeared to you on the road
 by which you came.
 He sent me so that you may see again
 and be filled with the Holy Spirit.”
@@ -119,8 +118,8 @@ Saul stayed several days with the disciples in Damascus.
 
 ## Saul preaches Jesus (Verses 20–31)
 
-[20] Immediately he proclaimed in the synagogues
-that Jesus is the Son of God.
+[20] Immediately he proclaimed the Christ in the synagogues.
+He proclaimed that he is the Son of God.
 [21] All who heard him
 were amazed and said,
 “Isn’t this the man
@@ -132,7 +131,7 @@ to bring them tied up to the chief priests?”
 He confused the Jews
 who lived in Damascus.
 For he proved to them
-that Jesus is the Christ.
+that this is the Christ.
 [23] When many days had passed,
 the Jews plotted together
 to kill him.
@@ -163,7 +162,7 @@ But they were trying to kill him.
 [30] When the brothers found out,
 they brought him down to Caesarea
 and sent him off to Tarsus.
-[31] So the assemblies throughout all Judea, Galilee, and Samaria
+[31] So the churches throughout all Judea, Galilee, and Samaria
 had peace.
 They were built up
 and lived in the fear of the Lord.
@@ -176,7 +175,7 @@ they kept growing.
 > Verses 23–25: Paul himself tells about his escape in the basket (2 Corinthians 11:32–33).
 > Verses 26–27: The disciples are afraid of Saul. Barnabas, the “Son of Encouragement” (4:36), gives him a chance. He builds a bridge.
 > Verse 29: The Hellenists here are Greek-speaking Jews in Jerusalem.
-> Verse 31: Here the WEB has the plural “assemblies,” that is, churches. Many other Bibles have the singular, the church, following other manuscripts. All the churches in these regions are meant.
+> Verse 31: Here the WEB, our English source text, has the plural “assemblies,” that is, churches. Some Bibles have the singular, the church, following other manuscripts. All the churches in these regions are meant.
 > For today: Whoever makes a new beginning needs people like Barnabas who trust him.
 
 ---
@@ -209,9 +208,9 @@ they laid her in an upper room.
 [38] Lydda was near Joppa.
 The disciples heard
 that Peter was there.
-So they sent two men to him,
-begging him,
-“Please come to us without delay!”
+So they sent two men to him.
+They begged him
+to come to them without delay.
 [39] Peter got up
 and went with them.
 When he arrived,

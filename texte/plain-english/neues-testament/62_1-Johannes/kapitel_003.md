@@ -11,7 +11,7 @@ that the Father has given us:
 We should be called children of God!
 That is why the world doesn’t know us,
 because it didn’t know him.
-[2] Beloved,
+[2] Dear friends,
 now we are children of God.
 It is not yet revealed
 what we will be.
@@ -45,7 +45,7 @@ Whoever sins
 hasn’t seen him
 and doesn’t know him.
 [7] Little children,
-let no one lead you astray.
+don’t let anyone lead you the wrong way.
 Whoever does what is right
 is righteous,
 just as he is righteous.
@@ -73,9 +73,10 @@ who doesn’t love his brother.
 > No one has to despair because they still make mistakes. God forgives (1:9).
 
 > **What does this mean?**
+> Verse 7: Righteous means: living right before God.
 > Verse 8: Jesus came to defeat evil.
 > Verse 9: “God’s seed” is a picture: God has put something of his life into people. It grows and changes them.
-> Verse 10: The measure is simple: righteousness and love. That is how you recognize who belongs to God, not by godly words.
+> Verse 10: The measure is simple: righteousness and love. That is how you recognize who belongs to God, not by pious words.
 
 ---
 
@@ -112,7 +113,7 @@ and sees
 that his brother is in need,
 and then closes his heart against him,
 how can the love of God remain in him?
-[18] Little children,
+[18] My little children,
 let’s not love only with words
 or only with the tongue,
 but in deed and in truth.
@@ -136,7 +137,7 @@ And so we can reassure our heart before him.
 [20] For if our heart accuses us:
 God is greater than our heart,
 and he knows all things.
-[21] Beloved,
+[21] Dear friends,
 if our heart doesn’t accuse us,
 we have boldness toward God.
 [22] And whatever we ask,
@@ -146,7 +147,7 @@ and do the things that please him.
 [23] And this is his commandment:
 We should believe in the name of his Son Jesus Christ
 and love one another,
-just as he commanded us.
+just as he commanded.
 [24] Whoever keeps his commandments
 remains in God,
 and God remains in him.

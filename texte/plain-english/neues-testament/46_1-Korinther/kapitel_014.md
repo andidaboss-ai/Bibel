@@ -5,7 +5,7 @@
 
 ## Prophecy and other languages (Verses 1–5)
 
-[1] Follow after love!
+[1] Strive for love!
 Eagerly desire spiritual gifts,
 but most of all
 that you may prophesy.
@@ -22,7 +22,7 @@ and comforts them.
 [4] He who speaks in another language
 builds up himself.
 But he who prophesies
-builds up the assembly.
+builds up the church.
 [5] I would like
 all of you to speak in other languages,
 but even more
@@ -31,7 +31,7 @@ For he who prophesies
 is greater than he
 who speaks in other languages,
 unless he also interprets,
-so that the assembly may be built up.
+so that the church may be built up.
 
 > **What does this mean?**
 > “Speaking in another language” (often called *speaking in tongues*) was very popular in Corinth. People prayed in sounds that others didn’t understand.
@@ -75,7 +75,7 @@ will be a foreigner to me.
 [12] It is the same with you.
 Since you are so eager for spiritual gifts,
 seek to be rich
-in what builds up the assembly.
+in what builds up the church.
 [13] So let him
 who speaks in another language
 pray
@@ -98,10 +98,10 @@ what you are saying.
 but the other person is not built up.
 [18] I thank my God:
 I speak in other languages more than all of you.
-[19] But in the assembly I would rather speak five words
+[19] But in the church I would rather speak five words
 with my understanding,
 so that I teach others too,
-than ten thousand words in another language.
+than 10,000 words in another language.
 
 *interpret* = to explain what something means
 
@@ -174,7 +174,7 @@ or at the most three,
 one after the other.
 And let one interpret.
 [28] But if there is no interpreter,
-let him keep silent in the assembly.
+let him keep silent in the church.
 Let him speak to himself and to God.
 [29] Let two or three of the prophets speak,
 and let the others weigh what is said.
@@ -188,15 +188,15 @@ and all may be encouraged.
 are under the control of the prophets.
 [33] For God is not a God of confusion
 but of peace,
-as in all the assemblies of the saints.
-[34] Let the wives be quiet in the assemblies.
+as in all the churches of the saints.
+[34] Let the wives be quiet in the churches.
 For they are not permitted to talk,
 except in submission,
 as the law also says,
 [35] if they want to learn anything.
 “Let them ask their own husbands at home,
 for it is shameful for a wife
-to be talking in the assembly.”
+to be talking in the church.”
 [36] What!?
 Was it from you that the word of God went out?
 Or did it come only to you?

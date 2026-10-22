@@ -35,7 +35,7 @@ when there was no crowd around.
 
 ## The Passover meal is prepared (Verses 7–13)
 
-[7] Then the day of Unleavened Bread came.
+[7] Then the day of the Feast of Unleavened Bread came.
 On this day the Passover lamb had to be killed.
 [8] Jesus sent Peter and John.
 He said,
@@ -60,7 +60,7 @@ And they got the Passover meal ready.
 
 > **What does this mean?**
 > The Passover lambs were sacrificed in the temple and then eaten in the families, with bread without yeast, bitter herbs and wine.
-> Verse 10: Back then carrying water was usually women’s work. A man with a pitcher of water stood out. He was a good sign to recognize.
+> Verse 10: Back then carrying water was usually women’s work. A man with a jar of water stood out. He was a good sign to recognize.
 > Jesus has prepared everything. He goes his way knowingly.
 
 ---
@@ -68,7 +68,7 @@ And they got the Passover meal ready.
 ## The Last Supper (Verses 14–23)
 
 [14] When the time came,
-Jesus sat down at the table with the twelve apostles.
+Jesus sat down at the table with the 12 apostles.
 [15] He said to them,
 “I have wanted very much
 to eat this Passover meal with you
@@ -98,7 +98,7 @@ which is poured out for you.
 The man who is going to hand me over
 is here with me at the table.
 [22] The Son of Man will go the way
-that God has decided for him.
+that has been decided for him.
 But how terrible it will be for the man
 who hands him over!”
 [23] Then the apostles began to ask each other
@@ -121,7 +121,7 @@ They argued about which of them was the most important.
 [25] Jesus said to them,
 “The kings of the nations rule over their people with force.
 And those who have power over the people
-call themselves ‘benefactors.’
+are called ‘benefactors.’
 [26] But you must not be like that.
 The most important one among you
 should be like the youngest.
@@ -139,14 +139,14 @@ just as my Father gave a kingdom to me.
 [30] You will eat and drink at my table
 in my Kingdom.
 And you will sit on thrones,
-judging the twelve tribes of Israel.”
+judging the 12 tribes of Israel.”
 
 > **What does this mean?**
 > Of all times, at the last meal the disciples argue about who is the most important.
 > Verse 25: “Benefactors” (people who do good) was a title of honor that rulers liked to give themselves, even when they misused their power.
 > Verses 26–27: With Jesus everything is turned around. Whoever leads should serve. Jesus himself is like a servant. In the Gospel of John he washes his disciples’ feet (John 13).
 > Important: This applies to everyone who has responsibility in the church. Power in the church must never be misused.
-> Verse 30: “Judging the twelve tribes of Israel” here probably means: leading, ruling, like the judges in the Old Testament. The twelve stand for the whole people of Israel, whom God wants to gather.
+> Verse 30: “Judging the 12 tribes of Israel” here probably means: leading, ruling, like the judges in the Old Testament. The 12 tribes stand for the whole people of Israel, whom God wants to gather.
 
 ---
 
@@ -158,7 +158,7 @@ Satan has asked to have all of you.
 He wants to shake you like wheat in a sieve.
 [32] But I have prayed for you
 that your faith will not fail.
-And when you have come back to me,
+And when you have turned back,
 make your brothers strong.”
 [33] Peter said to Jesus,
 “Lord, I am ready to go to prison with you.
@@ -200,7 +200,7 @@ Jesus said to them,
 
 > **What does this mean?**
 > This passage is hard to understand. Jesus says: Now a hard time begins. The disciples will no longer be welcomed everywhere.
-> Verse 37 quotes Isaiah 53:12. Jesus will be treated like a criminal. Older Bibles say “transgressors”: people who break the law.
+> Verse 37 quotes Isaiah 53:12. Jesus will be treated like a criminal. The WEB, our English source text, says “transgressors”: people who break the law.
 > Verse 38: “That is enough” probably means: Enough of this! Once again the disciples take Jesus literally. Two swords would have been ridiculously few against an armed troop anyway.
 > Important: Jesus is not calling for violence. A few hours later he forbids the use of the sword and heals the man who was wounded (verses 49–51). No one may appeal to this passage to justify violence in the name of faith.
 
@@ -239,7 +239,7 @@ that you will not give in to temptation.”
 > In Matthew and Mark the garden on the Mount of Olives is called “Gethsemane.” Luke only names the Mount of Olives.
 > Verse 42: The “cup” is a picture for the suffering that awaits Jesus. Jesus is afraid, like every human being. But he entrusts himself to God.
 > Verses 43–44: These two verses are missing in many very old manuscripts. The WEB, our English source text, has them. They show how great Jesus’ distress was.
-> Verse 44: Luke says “like” drops of blood. It is a comparison: The sweat fell in large, heavy drops. Older Bibles say he was “in agony”: in very great fear and pain.
+> Verse 44: Luke says “like” drops of blood. It is a comparison: The sweat fell in large, heavy drops. The WEB says he was “in agony”: in very great fear and pain.
 > Verse 45: Only Luke says: The disciples were sleeping “because they were so sad.” He excuses them a little. Grief can make you tired.
 > For today: Jesus was afraid too. Whoever is afraid may pray and may tell God everything. Whoever is in great distress can find help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
@@ -303,8 +303,8 @@ He said,
 But Peter said,
 “Man, I am not!”
 [59] About an hour later another man said firmly,
-“This man was with Jesus, for sure.
-He is from Galilee too!”
+“This man was with Jesus too, for sure!
+He is from Galilee!”
 [60] But Peter said,
 “Man, I don’t know what you are talking about!”
 At that moment, while Peter was still speaking,

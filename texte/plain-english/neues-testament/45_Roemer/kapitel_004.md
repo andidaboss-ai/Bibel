@@ -80,7 +80,7 @@ who are of the law
 are the heirs,
 then faith is made empty
 and the promise is made of no effect.
-[15] For the law brings wrath.
+[15] For the law brings anger.
 For where there is no law,
 there is no disobedience either.
 [16] For this reason it is of faith,
@@ -121,7 +121,7 @@ as it had been told to him:
 [19] He was not weakened in faith.
 He didn’t look at his own body,
 which was already worn out,
-for he was about a hundred years old.
+for he was about 100 years old.
 And he didn’t look at the fact
 that Sarah’s womb was as good as dead.
 [20] He looked to the promise of God.
@@ -149,6 +149,7 @@ for our justification.
 > **What does this mean?**
 > Verse 18: “Against hope, Abraham in hope believed”: He trusts God, although it seems humanly impossible.
 > Verse 18 quotes Genesis 15:5. God had shown Abraham the stars in the sky: You will have that many descendants.
-> Verse 19: Abraham was almost a hundred, and Sarah was old. Still they had a son, Isaac (Genesis 21).
+> Verse 19: Abraham was almost 100,
+ and Sarah was old. Still they had a son, Isaac (Genesis 21).
 > Verses 24–25: What was true for Abraham is also true for us: God accepts us when we trust him. The center of faith is Jesus, who died for us and was raised.
 > For today: Even when a situation seems hopeless, you may trust God. If you can’t see any hope, you can get help. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

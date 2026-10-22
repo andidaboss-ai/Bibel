@@ -21,7 +21,7 @@ These women helped Jesus and his disciples
 with their own money and goods.
 
 > **What does this mean?**
-> Only Luke says this so clearly: Not only twelve men traveled with Jesus, but also many women. They truly belonged to the group.
+> Only Luke says this so clearly: Not only 12 men traveled with Jesus, but also many women. They truly belonged to the group.
 > The women provided for the group with their own money. Without them Jesus could not have traveled around like this.
 > Mary Magdalene came from Magdala on the Sea of Galilee. She was one of the most important companions of Jesus. Later she is the first witness of the resurrection (Luke 24:10; John 20:11–18).
 > Important: The Bible nowhere says that Mary Magdalene was a prostitute. That is a later guess. She is also not the woman from Luke 7. “Seven demons” means: She had suffered greatly. We do not know exactly from what.
@@ -50,7 +50,7 @@ The thorns grew up with it
 and choked the plants.
 [8] Some seed fell on good soil.
 It grew and produced a crop,
-one hundred times as much as was planted.”
+100 times as much as was planted.”
 When Jesus had said this,
 he called out,
 “Whoever has ears to hear should listen!”
@@ -93,7 +93,7 @@ and they produce fruit.”
 > Verse 10 freely quotes Isaiah 6:9. That sounds harsh. It does not mean that God shuts people out on purpose. Parables invite people in. Whoever is open and asks questions, like the disciples, understands more. Whoever closes themselves off stays outside.
 > Verse 13: Luke says “temptation,” which can also mean a test. Hard times can put faith to the test.
 > Verse 14: Worries, riches and pleasures can choke the word. In Luke, how we deal with possessions is a big theme.
-> Verse 15: Only Luke says that they “do not give up.” Older Bibles say “with perseverance.” Faith grows slowly, like a plant.
+> Verse 15: Only Luke says that they “do not give up.” The WEB, our English source text, says “with perseverance.” Faith grows slowly, like a plant.
 > For today: Everyone can ask: Which kind of ground am I right now? Ground can also change.
 
 ---
@@ -183,7 +183,7 @@ There a man from the town came to meet him.
 The man had had demons for a long time.
 He wore no clothes.
 He did not live in a house.
-He lived among the graves in the tombs.
+He lived in the tombs, where the dead were buried.
 [28] When he saw Jesus,
 he screamed and fell down in front of him.
 He shouted with a loud voice,
@@ -196,7 +196,7 @@ The unclean spirit had often taken control of him.
 People had guarded him.
 They had tied him up with chains and fetters.
 But he broke the chains.
-And the demon drove him out into lonely places.
+And the demon drove him out into the desert.
 [30] Jesus asked him,
 “What is your name?”
 He said,
@@ -261,11 +261,11 @@ He was a leader of the synagogue.
 He fell down at the feet of Jesus.
 He begged Jesus to come to his house.
 [42] For he had only one daughter.
-She was about twelve years old,
+She was about 12 years old,
 and she was dying.
 Jesus went with him.
 The crowds pushed against Jesus from all sides.
-[43] A woman was there who had been bleeding for twelve years.
+[43] A woman was there who had been bleeding for 12 years.
 She had spent all her money on doctors.
 But no one could heal her.
 [44] She came up behind Jesus
@@ -323,9 +323,9 @@ But Jesus ordered them
 not to tell anyone what had happened.
 
 > **What does this mean?**
-> Two stories are woven into each other. Both times it is about twelve years: The girl is twelve years old. The woman has been sick for twelve years.
-> Jairus is a respected man. A ruler of the synagogue led the worship services. In his need he falls down before Jesus. Here Luke tells of a Jewish leader who trusts Jesus.
-> According to the law, the sick woman counted as unclean (Leviticus 15:25–27). For twelve years she was shut out, poor and alone. That is why she comes secretly from behind.
+> Two stories are woven into each other. Both times it is about 12 years: The girl is 12 years old. The woman has been sick for 12 years.
+> Jairus is a respected man. A leader of the synagogue led the worship services. In his need he falls down before Jesus. Here Luke tells of a Jewish leader who trusts Jesus.
+> According to the law, the sick woman counted as unclean (Leviticus 15:25–27). For 12 years she was shut out, poor and alone. That is why she comes secretly from behind.
 > Verse 43: The words “She had spent all her money on doctors” are missing in some old manuscripts. In verse 45 the words “and you say, ‘Who touched me?’” and the words “and those with him” are also missing in some manuscripts. The WEB has them.
 > Verse 44: The “fringe” was the tassels on the cloak that devout Jews wore (Numbers 15:38–39).
 > Verses 47–48: Jesus does not want to shame her. He wants everyone to know: She is healed and clean again. He calls her “Daughter.” She belongs again.

@@ -17,7 +17,7 @@ But they would not come.
 and said,
 ‘Tell those who are invited,
 “I have prepared my dinner.
-My oxen and my fattened cattle have been killed,
+My cattle and my fattened animals have been killed,
 and everything is ready.
 Come to the wedding feast!”’
 [5] But they paid no attention
