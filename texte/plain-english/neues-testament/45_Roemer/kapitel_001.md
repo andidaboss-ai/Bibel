@@ -50,7 +50,7 @@ and the Lord Jesus Christ.
 > In those days a letter began with the name of the sender and a greeting. Paul turns this into a small confession of faith.
 > Verse 1: “Servant” means: Paul belongs completely to Jesus and serves him.
 > Verse 2: The Good News is not something completely new. God already promised it in the Bible of Israel.
-> Verse 3: The WEB says “according to the flesh.” That means: as a human being. Jesus was a descendant of King David, so he was a Jew.
+> Verse 3: The WEB, our English source text, says “according to the flesh.” That means: as a human being. Jesus was a descendant of King David, so he was a Jew.
 > Verse 7: “Saints” are all Christians. Holy means: belonging to God.
 > “Grace” and “peace”: Grace recalls the Greek greeting, peace (shalom) the Hebrew one. Paul joins the two.
 
@@ -93,8 +93,8 @@ I am eager
 to preach the Good News to you also who are in Rome.
 
 > **What does this mean?**
-> Verse 12: Paul doesn’t only want to give, but also to receive. Faith strengthens each other.
-> Verse 14: “Greeks and to foreigners”: This means all people, educated or not, from all cultures. Paul feels he owes something to all of them.
+> Verse 12: Paul doesn’t only want to give, but also to receive. They strengthen each other’s faith.
+> Verse 14: “To Greeks and to foreigners”: This means all people, educated or not, from all cultures. Paul feels he owes something to all of them.
 
 ---
 
@@ -117,13 +117,13 @@ As it is written,
 > Verses 16–17 are like a heading over the whole letter.
 > “For the Jew first”: For Paul, Israel has a special place. The Good News comes from Israel and is meant first for Israel.
 > Verse 17 quotes Habakkuk 2:4. “God’s righteousness” means: God makes people righteous. He gives them a good relationship with himself. This happens through faith, that is, through trusting God.
-> This verse was especially important for Martin Luther. It became a heart of the Reformation.
+> This verse was especially important for Martin Luther. It became the heart of the Reformation.
 
 ---
 
 ## All people need God (Verses 18–32)
 
-[18] For the wrath of God is revealed from heaven
+[18] For the anger of God is revealed from heaven
 against all ungodliness and unrighteousness of people
 who hold down the truth by unrighteousness.
 [19] For what can be known about God
@@ -197,21 +197,20 @@ unfaithful to promises,
 without natural affection,
 unforgiving
 and unmerciful.
-[32] They know the ordinance of God:
+[32] They know what God has ruled:
 Those who do such things
 are worthy of death.
 Yet they not only do the same themselves,
 but also approve of others
 who do them.
 
-*wrath* = great anger
 *slanderer* = someone who tells lies about others
 
 > **What does this mean?**
-> Verses 18–32: Paul describes what the world looks like when people don’t honor God: They make their own gods, and much injustice follows from that. “The wrath of God” means: God takes evil seriously. He lets people feel the results of what they do (“God gave them up”).
+> Verses 18–32: Paul describes what the world looks like when people don’t honor God: They make their own gods, and much injustice follows from that. “The anger of God” means: God takes evil seriously. He lets people feel the results of what they do (“God gave them up”).
 > Verse 20: You can recognize God in creation, in nature and its greatness.
 > Verses 29–31: The long list shows: It is about many kinds of wrong, including very everyday ones like envy, strife, gossip and arrogance. No one can leave themselves out.
 > Important: Right at the beginning of the next chapter Paul says that whoever judges others has no excuse, whoever they are (2:1). Whoever points at others is also meant. Paul wants to show: All people need God’s grace.
 > Verses 26–27: These verses speak about same-sex sexuality. Today the churches understand them in different ways. Some churches see them as a lasting command against same-sex relationships. Other churches say: Paul had mainly the practices of his time in mind, for example exploitation and cult practices, not loving, faithful partnerships as we know them today. Many churches are seriously wrestling with this question.
-> Very important: These verses give no one the right to despise, insult or persecute people or to use violence against them. Every person has the same dignity. If you experience exclusion or violence because of your sexual orientation, you can get help. In the US, call or text 988; young LGBTQ people can also contact The Trevor Project. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Very important: These verses give no one the right to despise, insult or persecute people or to use violence against them. Every person has the same dignity. If you experience exclusion or violence because of your sexual orientation, you can get help. In the US, call or text 988; young LGBTQ people can also contact The Trevor Project. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 32: “Worthy of death” describes God’s judgment on sin. It is not a call for people to kill or punish others.

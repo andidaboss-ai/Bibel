@@ -1,15 +1,15 @@
 # Matthew – Chapter 10
-### Jesus sends out the twelve apostles
+### Jesus sends out the 12 apostles
 
 ---
 
-## The twelve apostles (Verses 1–4)
+## The 12 apostles (Verses 1–4)
 
-[1] Jesus called his twelve disciples to himself
+[1] Jesus called his 12 disciples to himself
 and gave them authority over unclean spirits,
 to cast them out,
 and to heal every disease and every sickness.
-[2] These are the names of the twelve apostles:
+[2] These are the names of the 12 apostles:
 first, Simon, who is called Peter,
 and Andrew, his brother;
 James the son of Zebedee,
@@ -22,17 +22,17 @@ and Lebbaeus, who was also called Thaddaeus;
 and Judas Iscariot, who also betrayed him.
 
 > **What does this mean?**
-> Jesus chooses twelve disciples. The number twelve reminds us of the twelve tribes of Israel. With them God begins to gather his people anew.
+> Jesus chooses 12 disciples. The number 12 reminds us of the 12 tribes of Israel. With them God begins to gather his people anew.
 > “Disciple” means student. “Apostle” means “someone who is sent.” Now the students become messengers.
 > The group is very mixed: fishermen, a tax collector (Matthew), who had worked together with the Romans, and a “Zealot” (Simon). Zealots were people who were passionately zealous for God; some of them fought against the Romans. With Jesus, people sit together who would otherwise have been enemies.
-> “Lebbaeus, who was also called Thaddaeus”: In old manuscripts, sometimes one name appears here and sometimes the other. The WEB gives both.
+> “Lebbaeus, who was also called Thaddaeus”: In old manuscripts, sometimes one name appears here and sometimes the other. The WEB, our English source text, gives both.
 > Already here we are told that Judas will later betray Jesus.
 
 ---
 
 ## The task (Verses 5–15)
 
-[5] Jesus sent out these twelve
+[5] Jesus sent out these 12
 and commanded them,
 “Don’t go among the Gentiles,
 and don’t enter any town of the Samaritans.
@@ -46,8 +46,8 @@ Freely you received,
 so freely give.
 [9] Don’t take any gold, silver, or copper coins in your money belts,
 [10] no bag for your journey,
-no extra shirt,
-no sandals and no walking stick.
+no second coat,
+no sandals, and no walking stick.
 For the worker deserves his food.
 [11] Whenever you come into a town or village,
 find out who in it is worthy,
@@ -78,7 +78,7 @@ than for that town.
 
 ## Like sheep among wolves (Verses 16–25)
 
-[16] I am sending you out like sheep among wolves.
+[16] “I am sending you out like sheep among wolves.
 So be wise as snakes
 and innocent as doves.
 [17] But watch out for people.
@@ -91,7 +91,7 @@ don’t worry about how or what you will say.
 For you will be given what to say in that hour.
 [20] For it is not you who speak,
 but the Spirit of your Father who speaks in you.
-[21] Brother will hand over brother to death,
+[21] “Brother will hand over brother to death,
 and a father his child.
 Children will rise up against their parents
 and have them put to death.
@@ -102,7 +102,7 @@ flee into another one.
 For most certainly I tell you,
 you will not have gone through all the towns of Israel
 before the Son of Man comes.
-[24] A disciple is not above his teacher,
+[24] “A disciple is not above his teacher,
 and a servant is not above his master.
 [25] It is enough for the disciple to be like his teacher,
 and for the servant to be like his master.
@@ -131,7 +131,7 @@ proclaim on the housetops.
 [28] Don’t be afraid of those who kill the body
 but are not able to kill the soul.
 Rather, fear him who is able to destroy both soul and body in Gehenna.
-[29] Aren’t two sparrows sold for one small coin?
+[29] “Aren’t two sparrows sold for one small coin?
 Yet not one of them falls to the ground apart from your Father’s will.
 [30] But even the hairs of your head are all counted.
 [31] So don’t be afraid.
@@ -152,7 +152,7 @@ I will also deny before my Father in heaven.
 
 ## Not peace, but a sword (Verses 34–39)
 
-[34] Don’t think that I came to bring peace on the earth.
+[34] “Don’t think that I came to bring peace on the earth.
 I didn’t come to bring peace, but a sword.
 [35] For I came to set a man against his father,
 and a daughter against her mother,
@@ -171,14 +171,14 @@ And whoever loses his life for my sake will find it.
 > Verse 34: A difficult saying. The “sword” here is a picture for separation and decision, not for violence. Jesus rejected violence (compare 5:39; 26:52, where he tells Peter to put his sword away). What it means is: The message of Jesus calls for a decision, and this decision can divide people, even in families. No one may use this verse to justify violence in the name of faith.
 > Verses 35–36: Jesus quotes Micah 7:6.
 > Verse 37: Jesus does not demand that people neglect or hate their families. He says: God should come first. Those who follow Jesus often love their families even more and better.
-> Verse 38: “Whoever doesn’t take up his cross …”: The cross was the cruelest way the Romans executed people. Jesus is hinting at his own death. Following him can mean suffering. But that does not mean you should patiently put up with injustice, violence or abuse. Whoever experiences violence may and should get help.
+> Verse 38: “Whoever doesn’t take up his cross …”: The cross was the cruelest way the Romans executed people. Jesus is hinting at his own death. Following him can mean suffering. But that does not mean you should patiently put up with injustice, violence, or abuse. Whoever experiences violence may and should get help.
 > Verse 39: A paradox: Whoever desperately tries to hold on to their life loses it. Whoever gives it for God and for others gains true life.
 
 ---
 
 ## Whoever welcomes you (Verses 40–42)
 
-[40] Whoever welcomes you welcomes me.
+[40] “Whoever welcomes you welcomes me.
 And whoever welcomes me
 welcomes him who sent me.
 [41] Whoever welcomes a prophet because he is a prophet

@@ -84,7 +84,7 @@ That will show them that you are healed.”
 Great crowds came together.
 They wanted to hear him
 and to be healed of their sicknesses.
-[16] But Jesus went away to lonely places
+[16] But Jesus went away to places where no one lived
 and prayed.
 
 > **What does this mean?**
@@ -116,7 +116,7 @@ They let the man down on his mat through the tiles,
 into the middle of the crowd, right in front of Jesus.
 [20] Jesus saw their faith.
 He said to the man,
-“Friend, your sins are forgiven.”
+“Man, your sins are forgiven.”
 [21] The scribes and the Pharisees began to think,
 “Who is this man?
 He is insulting God!
@@ -174,7 +174,7 @@ with tax collectors and sinners?”
 [31] Jesus answered them,
 “Healthy people do not need a doctor.
 Sick people do.
-[32] I have not come to call good people.
+[32] I have not come to call righteous people.
 I have come to call sinners,
 so that they turn away from their sins.”
 
@@ -183,7 +183,7 @@ so that they turn away from their sins.”
 > Levi leaves “everything.” In Luke, letting go of possessions is very important.
 > Eating together meant: We belong together. Jesus eats with people whom others avoid.
 > Verse 30: The Pharisees wanted to keep God’s commandments very carefully, including about food. Their question is meant seriously.
-> Verse 32: Only Luke adds that sinners are to turn away from their sins (“to repentance”). Jesus accepts sinners so that they can begin a new life.
+> Verse 32: Only Luke adds that sinners are to turn away from their sins. This is called repentance. Jesus accepts sinners so that they can begin a new life.
 > For today: The church should be a place for everyone, especially for those who feel shut out.
 
 ---

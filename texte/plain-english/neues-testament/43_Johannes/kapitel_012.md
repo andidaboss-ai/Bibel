@@ -11,14 +11,14 @@ He had been dead, and Jesus had raised him from the dead.
 [2] There they made a dinner for Jesus.
 Martha served the food.
 Lazarus was one of the people sitting at the table with him.
-[3] Then Mary took a jar of very expensive perfume.
-It was pure nard, about 12 ounces.
+[3] Then Mary took about 12 ounces of very expensive perfume.
+It was pure nard.
 She poured it on Jesus’ feet and dried his feet with her hair.
 The whole house was filled with the sweet smell of the perfume.
 [4] One of Jesus’ disciples was Judas Iscariot, the son of Simon.
 He was the one who would later betray Jesus.
 He said,
-[5] “Why wasn’t this perfume sold for three hundred denarii?
+[5] “Why wasn’t this perfume sold for 300 denarii?
 The money could have been given to poor people.”
 [6] He did not say this because he cared about poor people.
 He said it because he was a thief.
@@ -36,8 +36,8 @@ They also wanted to see Lazarus, whom Jesus had raised from the dead.
 [11] Because of him, many Jews were going away and believing in Jesus.
 
 > **What does this mean?**
-> The jar held a “pound” (in Greek “litra”). That was about 12 ounces (a third of a kilogram). Nard is a very expensive fragrant oil made from a plant that grows in the Himalayas.
-> Three hundred denarii were about the wages for a whole year of work.
+> Verse 3: Mary took a “pound” (in Greek “litra”). That was about 12 ounces (a third of a kilogram). Nard is a very expensive fragrant oil made from a plant that grows in the Himalayas.
+> A sum of 300 denarii was about the wages for a whole year of work.
 > Mary gives lavishly out of love. She honors Jesus before his death. The dead were anointed with oil. Mary does it in advance.
 > Verse 6: John says Judas was a thief. Important: Later the name Judas was misused to insult all Jews as greedy and as traitors. That is a nasty anti-Jewish prejudice. All the disciples, and Mary, Martha and Lazarus too, were Jews.
 > Verse 8: “You will always have poor people with you” is a reminder of Deuteronomy 15:11. There it goes on to say that you shall open your hand wide to your brother, to the needy and to the poor in your land. So Jesus is not saying that we may forget the poor. He is saying: Now is a special hour.
@@ -68,7 +68,7 @@ They kept telling others about it.
 [18] That is why the crowd went out to meet him.
 They had heard that he had done this sign.
 [19] So the Pharisees said to each other,
-“You see, we are getting nowhere.
+“You see, you are getting nowhere.
 Look, the whole world is running after him.”
 
 > **What does this mean?**
@@ -115,7 +115,7 @@ Others said, “An angel has spoken to him.”
 It came for your sake.
 [31] Now is the time for this world to be judged.
 Now the ruler of this world will be thrown out.
-[32] And when I am lifted up from the earth, I will draw all people to myself.”
+[32] And if I am lifted up from the earth, I will draw all people to myself.”
 [33] He said this to show what kind of death he would die.
 [34] The crowd answered him,
 “We have heard from the law that the Christ will stay forever.
@@ -156,7 +156,7 @@ He has made their hearts hard.
 So they cannot see with their eyes.
 They cannot understand with their hearts.
 They cannot turn back to me, so that I could heal them.”
-[41] Isaiah said these things because he saw his glory.
+[41] Isaiah said these things when he saw his glory.
 He spoke about him.
 [42] Yet even many of the leaders believed in Jesus.
 But they did not say so openly because of the Pharisees.
@@ -179,7 +179,8 @@ They did not want to be put out of the synagogue.
 He believes in the one who sent me.
 [45] Whoever sees me sees the one who sent me.
 [46] I have come into the world as a light.
-Then whoever believes in me will not stay in the dark.
+So whoever believes in me will not stay in the dark.
+
 [47] If anyone hears my words but doesn’t believe, I don’t judge him.
 I did not come to judge the world.
 I came to save the world.

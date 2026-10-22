@@ -5,7 +5,7 @@
 
 ## The persistent widow (Verses 1–8)
 
-[1] Jesus told his disciples a parable.
+[1] Jesus told them a parable.
 He wanted to show them
 that they should always pray
 and never give up.
@@ -28,7 +28,7 @@ by coming again and again.’”
 “Listen to what this unjust judge says!
 [7] God’s chosen people cry out to him day and night.
 Won’t God see that they get justice?
-Will he keep them waiting?
+And he is patient with them.
 [8] I tell you,
 he will see that they get justice,
 and he will do it quickly.
@@ -78,7 +78,7 @@ will be lifted up.”
 > Important: This parable was often misused to pass judgment on the Pharisees or the Jews. Whoever does that makes exactly the mistake of the Pharisee in the parable: thanking God for not being like the others. The real Pharisees were devout people, and much of what the Pharisee does is good: praying, fasting, giving.
 > Verse 12: The law required fasting only on the Day of Atonement. The Pharisee does much more. His mistake is not his devout life, but that he looks down on others. He gives a tenth of what he earns to God. This is called a tithe.
 > Verse 13: Beating your chest was a sign of regret and sorrow. To this day the tax collector’s prayer is prayed, for example in the “Jesus Prayer” of the Orthodox Church, which asks Jesus Christ, the Son of God, to have mercy.
-> Verse 14: “Right with God” (in older Bibles: justified) means: put right with God. God accepts the one who honestly asks for grace.
+> Verse 14: “Right with God” (the WEB says “justified”) means: put right with God. God accepts the one who honestly asks for grace.
 > For today: Before God I don’t need to compare myself with others.
 
 ---
@@ -172,7 +172,7 @@ they will receive eternal life.”
 
 ## Jesus announces his suffering a third time (Verses 31–34)
 
-[31] Jesus took the twelve apostles aside.
+[31] Jesus took the 12 apostles aside.
 He said to them,
 “Listen! We are going up to Jerusalem.
 There everything will happen
@@ -219,7 +219,7 @@ Jesus asked him,
 He said,
 “Lord, I want to see again.”
 [42] Jesus said to him,
-“Then see!
+“Receive your sight!
 Your faith has healed you.”
 [43] At once the man could see.
 He followed Jesus

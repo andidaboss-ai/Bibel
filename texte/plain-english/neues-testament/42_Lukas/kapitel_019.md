@@ -63,8 +63,8 @@ went to a country far away.
 There he was to be made king.
 Then he was going to come back.
 [13] Before he left,
-he called ten of his servants.
-He gave them ten mina coins.
+he called 10 of his servants.
+He gave them 10 mina coins.
 He told them,
 ‘Do business with this money until I come back.’
 [14] But the people of his country hated him.
@@ -77,11 +77,11 @@ to whom he had given the money.
 He wanted to know
 how much each one had earned by doing business.
 [16] The first servant came and said,
-‘Master, your mina has earned ten more minas.’
+‘Master, your mina has earned 10 more minas.’
 [17] The king said to him,
 ‘Well done, you good servant!
 You were faithful with very little.
-So you shall rule over ten cities.’
+So you shall rule over 10 cities.’
 [18] The second servant came and said,
 ‘Master, your mina has earned five minas.’
 [19] The king said to him,
@@ -104,9 +104,9 @@ Then when I came back,
 I could have gotten it back with interest.’
 [24] The king said to the people standing there,
 ‘Take the mina away from him.
-Give it to the servant who has ten minas.’
+Give it to the servant who has 10 minas.’
 [25] They said to him,
-‘Master, he already has ten minas!’
+‘Master, he already has 10 minas!’
 [26] The king answered,
 ‘I tell you,
 everyone who has something will be given more.
@@ -117,7 +117,7 @@ who did not want me to be their king.
 Kill them in front of me.’”
 
 > **What does this mean?**
-> A mina was a sum of money, about the wages for a hundred days of work. Each servant receives the same amount.
+> A mina was a sum of money, about the wages for 100 days of work. Each servant receives the same amount.
 > The parable probably refers to a true story: Archelaus, a son of Herod the Great, traveled to Rome to be made king. A group of messengers from Judea traveled after him to prevent it. The historian Flavius Josephus reports this.
 > Verse 11: Jesus says: God’s Kingdom does not come immediately. Until then the disciples are to work with what God has entrusted to them.
 > Verses 20–21: The third servant is afraid. He has a false picture of his lord. That is why he does nothing.
