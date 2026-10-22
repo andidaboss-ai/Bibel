@@ -7,7 +7,7 @@
 
 Zechariah lived at the same time as Haggai, from the year 520 BC on, after the return from the exile in Babylon. Both of them encouraged the people to rebuild the temple (Ezra 5:1; 6:14).
 Zechariah probably came from a family of priests (compare Nehemiah 12:16). His name means: The LORD has remembered.
-Zechariah is the longest book of the twelve minor prophets. It has two parts:
+Zechariah is the longest book of the 12 minor prophets. It has two parts:
 Chapters 1–8: Eight visions in the night, with angels, horses, horns, a lampstand, a flying scroll, and other puzzling pictures. An angel explains to Zechariah what they mean. The message: God is with his people again. Jerusalem will be built again.
 Chapters 9–14: Words about the future, about a king who is coming, a good shepherd, and the day when God will be King over the whole earth. Many scholars think that this second part was written later.
 No other book of the prophets is quoted as often as Zechariah in the reports about the last days of Jesus: the king on the donkey (9:9), the 30 pieces of silver (11:12–13), “They will look at me, the one they have pierced” (12:10), and the shepherd who is struck (13:7).

@@ -48,7 +48,7 @@ I hate his strong places.
 That is why I will hand over the city
 with everything that is in it.
 [9] And this will happen:
-If ten men are left in one house,
+If 10 men are left in one house,
 they will die.
 [10] Then a relative will come to carry out the bodies.
 He is the one who will burn them.

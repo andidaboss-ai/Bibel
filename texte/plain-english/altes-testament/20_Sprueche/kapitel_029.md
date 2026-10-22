@@ -49,7 +49,7 @@ his throne will stand forever.
 > Verse 8: Whoever spreads hate stirs up a whole city. Wise people calm things down and bring people together.
 > Verse 11: Simply letting out your anger is not wise. Whoever controls himself is wise.
 > Verse 12: When a boss or ruler likes to hear lies, everyone around him becomes a liar.
-> Verse 13: The oppressor and the oppressed have the same eyesight from God. Both are God’s creatures. This gives the poor person his dignity and reminds the powerful of his responsibility.
+> Verse 13: The oppressor and the oppressed have the same eyesight from God. Both are God’s creatures. This gives the poor person his dignity and reminds the powerful of their responsibility.
 
 ---
 

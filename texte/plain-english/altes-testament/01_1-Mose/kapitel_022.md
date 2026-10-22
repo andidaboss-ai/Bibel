@@ -16,7 +16,7 @@ Offer him there as a burnt offering, on one of the mountains that I will tell yo
 > **What does this mean?**
 > This is one of the hardest and darkest stories in the Bible. Jews call it “the Binding of Isaac.”
 > The reader learns right at the beginning: It is a **test**. God does not really want Isaac to be killed. But Abraham does not know that.
-> God asks for the unthinkable: the son Abraham waited for for 25 years. The son through whom all of God’s promises are to come true.
+> God asks for the unthinkable: the son for whom Abraham waited 25 years. The son through whom all of God’s promises are to come true.
 > Notice how God describes Isaac: “your son, your only son, Isaac, whom you love.” Every word makes it harder. God knows exactly how much he is asking.
 > A burnt offering is an animal that is burned completely on an altar for God.
 > According to Jewish tradition, Moriah is the mountain in Jerusalem where the temple was later built (2 Chronicles 3:1).

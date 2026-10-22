@@ -31,7 +31,7 @@ They told the Good News
 and healed people everywhere.
 
 > **What does this mean?**
-> The twelve are to do what Jesus does: preach and heal. Now they are no longer only students, but messengers.
+> The Twelve are to do what Jesus does: preach and heal. Now they are no longer only students, but messengers.
 > Verse 3: They are to travel without supplies. In this way they show: We trust in God and in people’s hospitality. A staff is a walking stick. The “shirt” is a tunic, a simple shirt-like garment.
 > Verse 5: Shaking off the dust means: We let you go. Now you are responsible yourselves. It is a sign, not revenge and not violence.
 > For today: Whoever tells others about God does not need much. Trust is more important than money.

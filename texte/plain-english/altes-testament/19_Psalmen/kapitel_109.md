@@ -51,7 +51,7 @@ so that he may wipe out the memory of them from the earth.
 > There are two ways to understand these verses:
 > – It is the curse of the person praying against his enemy, coming out of his deepest hurt.
 > – Many interpreters think: It is a quotation. The person praying repeats what his enemies say against him. One reason for this view is that before and after this part, the psalm speaks of “they” (plural), but here it speaks of “he” (singular). Then the enemies would have spoken this curse over the person praying, and he brings it before God.
-> What matters: Children and family are not guilty for what their parents did (Ezekiel 18:20). These verses do not allow anyone to wish evil on others or to do evil to them.
+> What matters: Children and family are not guilty of what their parents did (Ezekiel 18:20). These verses do not allow anyone to wish evil on others or to do evil to them.
 > Verse 8 (“Let another take his office”) is quoted by Peter when a successor for Judas is chosen (Acts 1:20).
 > Jesus teaches a different way: “Bless those who curse you! Pray for those who mistreat you!” (Luke 6:28).
 

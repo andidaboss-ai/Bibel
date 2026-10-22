@@ -7,7 +7,7 @@
 
 [1] Soon after that, Jesus traveled through towns and villages.
 He preached and told the good news of God’s Kingdom.
-The twelve were with him.
+The Twelve were with him.
 [2] Some women were also with him.
 Jesus had healed them from evil spirits and sicknesses.
 Mary, who was called Magdalene, was one of them.

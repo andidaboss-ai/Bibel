@@ -22,7 +22,7 @@ Give us property among our father’s brothers!”
 > **What does this mean?**
 > Back then, only sons inherited the family’s land. If a man had no sons, his land went to other relatives. His name and his family disappeared.
 > Five sisters do not want to accept that. They bravely step in front of the whole assembly, before Moses, the priest and all the leaders. For women at that time, this was very unusual and brave.
-> They argue wisely: Our father was not a rebel like Korah. He died like everyone of his generation. He does not deserve to have his name wiped out.
+> They argue wisely: Our father was not a rebel like Korah. He died like every one of his generation. He does not deserve to have his name wiped out.
 
 ---
 

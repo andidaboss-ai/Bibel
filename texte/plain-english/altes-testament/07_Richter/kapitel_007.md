@@ -84,7 +84,7 @@ When I come to the edge of the camp, do just as I do.
 [18] When I blow the trumpet, I and all who are with me,
 then you also blow the trumpets all around the camp and shout,
 ‘For the LORD and for Gideon!’”
-[19] So Gideon and the hundred men who were with him came to the edge of the camp
+[19] So Gideon and the 100 men who were with him came to the edge of the camp
 at the beginning of the middle watch of the night, just after the guards had been changed.
 They blew the trumpets and smashed the jars that were in their hands.
 [20] The three groups blew the trumpets and broke the jars.

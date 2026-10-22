@@ -27,7 +27,7 @@ and princes walking on the ground like servants.
 > Verse 2: Back then, “right” stood for what is good and skillful, “left” for what is clumsy. This is a picture from the language, not a judgment about left-handed people.
 > Verse 3: A fool gives himself away as soon as he goes out into the street.
 > Verse 4: When your boss is angry with you, don’t run away. Stay calm. Calmness can settle a lot of trouble.
-> Verses 6–7: Sometimes the world is upside down: People who are not able get high positions, and able people are passed over.
+> Verses 6–7: Sometimes the world is upside down: People who are not capable get high positions, and capable people are passed over.
 
 ---
 
