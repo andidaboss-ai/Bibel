@@ -51,7 +51,6 @@ Live as children of light.
 in all goodness,
 righteousness
 and truth.
-Righteousness means: living right before God.
 [10] Test
 what pleases the Lord.
 [11] Have nothing to do with the deeds of darkness,

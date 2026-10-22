@@ -73,7 +73,7 @@ and self-controlled.
 as it was taught.
 Then he can encourage with sound teaching
 and correct those
-who contradict.
+who contradict him.
 
 > **What does this mean?**
 > Steward means: someone who manages things for the owner.
@@ -116,14 +116,14 @@ disobedient
 and unfit for any good work.
 
 > **Important note**
-> Gluttons means: people who eat far too much.
-> Defiled means: made unclean.
 > Verses 10–16 contain harsh words. They must never be used against Jews or against the people of any nation.
 
 > **What does this mean?**
+> Gluttons means: people who eat far too much.
+> Defiled means: made unclean.
 > Verse 10: “Those of the circumcision” were probably teachers within the Christian church who themselves came from Judaism. They demanded certain rules from the Christians from the nations. It is an argument among Christians, as in the letter to the Galatians.
-> Verse 14: “Jewish fables”: This probably means certain speculations and legends that these teachers spread. It is no judgment about the Jewish faith or the holy Scriptures of Israel. Paul himself was a Jew and held the Scriptures of Israel in high esteem (compare 2 Timothy 3:15–16).
 > Verse 12: The quotation probably comes from the Greek poet Epimenides, who himself came from Crete. It was a well-known saying at that time.
 > Very important: Sweeping judgments about the people of a nation are wrong. No people is “always” evil or dishonest. Prejudice against people because of where they come from hurts their dignity. God loves all people equally.
+> Verse 14: “Jewish fables”: This probably means certain speculations and legends that these teachers spread. It is no judgment about the Jewish faith or the holy Scriptures of Israel. Paul himself was a Jew and held the Scriptures of Israel in high esteem (compare 2 Timothy 3:15–16).
 > Verse 15: “To the pure, all things are pure”: similar to what Jesus says: Not what comes from outside makes a person unclean, but what comes out of the heart (Mark 7:15).
 > Verse 16: Faith shows itself in deeds, not only in words.
