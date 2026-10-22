@@ -37,7 +37,7 @@ and I will be their God,
 in faithfulness and in righteousness.”
 
 > **What does this mean?**
-> Chapter 8 is full of promises. 10 times it says “This is what the LORD says.”
+> Chapter 8 is full of promises. It says “This is what the LORD says” 10 times.
 > Verse 3: Jerusalem gets a new name: “The City of Truth.” The Hebrew word also means “faithfulness”: a city where people can rely on each other.
 > Verses 4–5: This is one of the most beautiful pictures in the Bible: Old people sit in peace in the streets, and children play there. It is a picture of peace and safety. In war, the weak die first, the old people and the children. When they can live in peace, there really is peace.
 > Verse 6: For the small, poor community in the ruins, this sounds unbelievable. But God says: For me, nothing is impossible.

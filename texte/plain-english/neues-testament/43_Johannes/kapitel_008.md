@@ -22,8 +22,8 @@ But Jesus bent down.
 He wrote on the ground with his finger.
 [7] They kept on asking him.
 So he looked up and said to them,
-“Is there anyone here who has never sinned?
-That person may throw the first stone at her.”
+“Whoever among you has never sinned
+may throw the first stone at her.”
 [8] Then he bent down again.
 He wrote on the ground with his finger.
 [9] They heard what he said.
@@ -46,10 +46,10 @@ From now on, stop sinning.”
 > According to the law of Moses, in a case of adultery both were to die, the man and the woman (Leviticus 20:10; Deuteronomy 22:22). Here only the woman is brought. Where is the man? That shows the injustice.
 > The question is a trap: If Jesus says to stone her, he goes against his own mercy, and only the Romans were allowed to carry out death sentences. If he says to let her go, he can be accused of disregarding the law.
 > We do not know what Jesus wrote on the ground.
-> Verse 7: “Is there anyone here who has never sinned? That person may throw the first stone at her.” No one is without sin. That is why no one has the right to judge others like this.
+> Verse 7: “Whoever among you has never sinned may throw the first stone at her.” No one is without sin. That is why no one has the right to judge others like this.
 > Verse 11: Jesus does not condemn the woman. He does not pretend there was no wrong, but he gives her a new start.
 > Important: This story is a strong word against violence toward women and against people taking justice into their own hands. In later Judaism, too, the death penalty was very strongly restricted.
-> For today: Whoever points a finger at others should first look at themselves. Whoever experiences violence can find help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247.
+> For today: Whoever points a finger at others should first look at themselves. Whoever experiences violence can find help. For domestic violence, US: 1-800-799-7233. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
 
 ---
 
@@ -87,7 +87,7 @@ because his hour had not come yet.
 > At the Feast of Booths, large lamps were lit in the temple that lit up all of Jerusalem. Here Jesus says: “I am the light of the world.” That is the second of the “I am” sayings.
 > In the Bible “light” is a picture for God and for life (Psalm 27:1). Whoever follows Jesus finds the way even in the dark.
 > Verse 17: The law requires two witnesses (Deuteronomy 19:15). “Your law” sounds distant, but Jesus himself lived by this law. John is writing here from the point of view of a later time.
-> Verse 20: The “treasury” was the area with the offering boxes in the Court of the Women.
+> Verse 20: The area with the offering boxes (the WEB calls it “the treasury”) was in the Court of the Women.
 
 ---
 
@@ -128,9 +128,9 @@ because I always do what pleases him.”
 
 > **What does this mean?**
 > Verses 24 and 28: “That I am he” literally means “that I am.” It is a reminder of God’s name (Exodus 3:14).
-> Verse 28: “Lifted up” means the crucifixion. On the cross it becomes visible who Jesus is.
+> Verse 28: “Lift up” means the crucifixion. On the cross it becomes visible who Jesus is.
 > Verse 22: In Judaism, taking one’s own life was seen as a grave sin. The question shows that the listeners do not understand.
-> Important: Whoever is thinking about suicide is not alone. Help is available day and night: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US).
+> Important: Whoever is thinking about suicide is not alone. Help is available day and night: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
 > Verse 30: Many believe in Jesus. The conversation continues with people who at first believed him.
 
 ---
@@ -181,7 +181,7 @@ I came from God, and now I am here.
 I did not come on my own.
 He sent me.
 [43] Why don’t you understand what I am saying?
-It is because you can’t stand to listen to my words.
+It is because you are not able to listen to my words.
 [44] Your father is the devil, and you belong to him.
 You want to do what your father wants.
 He was a murderer from the beginning.
@@ -254,6 +254,7 @@ He walked right through the middle of them and went on his way.
 > **What does this mean?**
 > Verse 48: Back then “Samaritan” was an insult for someone who strays from the true faith. Jesus is insulted here too. The argument is carried on with harsh words from both sides.
 > Verse 56: Abraham believed God’s promise. Jesus says: Abraham looked forward with joy to what God would do through Jesus.
-> Verse 58: “I AM” is God’s name from Exodus 3:14. Jesus says: I was there before Abraham, I belong to God. To the listeners that sounded like blasphemy. That is why they pick up stones (compare Leviticus 24:16). Blasphemy: speaking against God.
+> Verse 58: “I AM” is God’s name from Exodus 3:14. Jesus says: I was there before Abraham, I belong to God. To the listeners that sounded like blasphemy. That is why they pick up stones (compare Leviticus 24:16). Blasphemy means: speaking against God.
+
 > Verse 59: The words about going through the middle of them are missing in the oldest manuscripts. The WEB has them.
 > Important: The opponents here are a certain group in the temple, not “the Jews” as a whole. Just a few verses earlier it says: “many believed in him” (verse 30). No Christian may use these verses against Jewish people.

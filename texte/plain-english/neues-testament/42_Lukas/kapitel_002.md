@@ -171,18 +171,19 @@ the daughter of Phanuel, of the tribe of Asher.
 She was very old.
 After her wedding she had lived with her husband for seven years.
 [37] Then she had been a widow
-for about eighty-four years.
+for about 84 years.
 She did not leave the temple,
 but worshiped God night and day with fasting and prayer.
 [38] At that very hour she came up,
 gave thanks to the Lord,
 and spoke about the child to all
-who were waiting for the redemption of Jerusalem.
+who were waiting for redemption in Jerusalem.
 
 > **What does this mean?**
 > Anna is a prophetess, a woman through whom God speaks. Luke often names women and men side by side: Simeon and Anna, Zacharias and Elizabeth.
 > Verse 37: The sentence can also be understood to mean that Anna was 84 years old. The WEB understands it to mean that she had been a widow for about 84 years.
 > Anna tells everyone about the child. She is one of the first women to spread the good news.
+> Redemption: being set free and saved by God.
 > For today: Old people are precious. Simeon and Anna are examples of faithful waiting and of a living hope in old age.
 
 ---
@@ -204,10 +205,10 @@ and the grace of God was upon him.
 
 ---
 
-## Twelve-year-old Jesus in the temple (Verses 41–52)
+## Jesus at age 12 in the temple (Verses 41–52)
 
 [41] Every year his parents went to Jerusalem for the feast of the Passover.
-[42] When he was twelve years old,
+[42] When he was 12 years old,
 they went up again, as was the custom for the feast.
 [43] When the days of the feast were over
 and they were going home,
@@ -246,7 +247,7 @@ and in favor with God and people.
 > **What does this mean?**
 > Many Jews made a pilgrimage to Jerusalem for the Passover. People traveled in large groups with family and neighbors.
 > Pilgrimage: a journey to a holy place.
-> At twelve or thirteen, a Jewish boy took on religious responsibility. Today this is called “Bar Mitzvah.”
+> At 12 or 13, a Jewish boy took on religious responsibility. Today this is called “Bar Mitzvah.”
 > Jesus sits with the teachers in the temple, listens and asks questions. The Jewish teachers take the boy seriously and are amazed at him.
 > Verse 48: Mary and Joseph were very afraid. Parents know this fear. Mary says honestly how she feels.
 > Verse 49: Jesus’ first words in the Gospel of Luke: He calls God “my Father.” He knows to whom he belongs.

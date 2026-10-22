@@ -10,9 +10,8 @@ from the belly of the fish.
 [2] He said,
 “I called to the LORD because I was in trouble,
 and he answered me.
-I cried out from the belly of Sheol,
+I cried out from the belly of Sheol (the world of the dead),
 and you heard my voice.
-Sheol is the place of the dead.
 [3] For you threw me into the deep water,
 into the heart of the seas.
 The flood was all around me.
@@ -44,7 +43,7 @@ Salvation means: rescue.
 > At last Jonah prays, at the very bottom, in the belly of the fish. His prayer is a psalm of thanks. Many words remind us of the Psalms (for example Psalm 18; 42:7; 69:1–2; 120:1; in some Bibles 42:8; 69:2–3).
 > Verse 2: “Sheol”: Jonah was very close to death. He felt as if he were already in the place of the dead.
 > Verse 4: Even when he felt driven away from God, he did not give up hope: “But I will look again toward your holy temple.”
-> Verse 6: It cannot get any deeper. But: “But you have brought my life up from the pit.” That is the turning point.
+> Verse 6: It cannot get any deeper. Then comes the line: “But you have brought my life up from the pit.” That is the turning point.
 > Verse 8: A sentence that makes you think. Of all people, Jonah judges the people who worship idols harshly, even though the sailors who did not know God had just prayed to the LORD in Chapter 1.
 > Verse 9: “Salvation belongs to the LORD.” That is the heart of the whole book. God alone saves whom he wants, Jonah too, and later Nineveh too.
 > For today: Sometimes people only pray when they are at the very bottom. And even then God hears. If you yourself feel “at the very bottom” and do not know what to do: Help is there day and night. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.

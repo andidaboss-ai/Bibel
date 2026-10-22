@@ -67,12 +67,12 @@ not to make him known.
 
 ---
 
-## Jesus chooses the twelve apostles (Verses 13–19)
+## Jesus chooses the 12 apostles (Verses 13–19)
 
 [13] Jesus went up onto the mountain.
 He called to himself those whom he wanted,
 and they came to him.
-[14] He appointed twelve.
+[14] He appointed 12.
 They were to be with him,
 and he would send them out to preach
 [15] and to have authority to heal sicknesses
@@ -91,7 +91,7 @@ who later betrayed him.
 Then he went into a house.
 
 > **What does this mean?**
-> Twelve apostles, like the twelve tribes of Israel. Jesus gathers a renewed people of God.
+> There are 12 apostles, like the 12 tribes of Israel. Jesus gathers a renewed people of God.
 > Verse 14: The first thing is: “to be with him.” Only after that come preaching and healing.
 > “Peter” means “rock.” “Sons of Thunder”: Perhaps James and John had a fiery temper (compare Luke 9:54).
 > “Simon the Zealot”: The Zealots were zealous Jews, some of whom wanted to fight against the Romans. Matthew, on the other hand, was a tax collector who worked with the Romans. Jesus calls both. In his community very different people come together.
@@ -129,7 +129,7 @@ and steal his things
 unless he first ties up the strong man.
 Only then can he rob his house.
 [28] Most certainly I tell you,
-all sins will be forgiven people,
+people will be forgiven all their sins,
 including all the blasphemies they speak.
 [29] But whoever blasphemes against the Holy Spirit
 never has forgiveness,
