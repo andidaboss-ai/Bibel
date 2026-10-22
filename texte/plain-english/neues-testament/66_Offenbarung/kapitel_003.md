@@ -30,7 +30,7 @@ that he belongs to me.
 [6] Whoever has ears should listen to what the Spirit says to the churches.’
 
 > **What does this mean?**
-> Sardis was once a rich royal city. Its fortress was thought to be impossible to capture. Even so, it was conquered twice because the guards didn’t pay attention. That is why the word fits: “Wake up.”
+> Sardis was once a rich royal city. Its fortress was thought to be impossible to capture. Even so, it was conquered twice because the guards didn’t pay attention. That is why the word fits: “Wake up!”
 > Verse 1: From the outside the church looks alive. But inside, its faith has fallen asleep.
 > Verses 4–5: White garments are a sign of purity, joy and victory.
 > “The book of life” is a picture: God knows the names of the people who belong to him. Verse 5 is a promise: He doesn’t erase them.
@@ -57,7 +57,7 @@ They are lying.
 Look, I will make them come and worship before your feet.
 I will make them know that I have loved you.
 [10] You kept my command to hold out patiently.
-So I will also keep you safe in the hour of testing.
+So I will also keep you from the hour of testing.
 That hour is coming on the whole world.
 It will test the people who live on the earth.
 [11] I am coming soon!
@@ -129,5 +129,5 @@ and I sat down with my Father on his throne.
 > Verses 15–16: Laodicea had no good water of its own. The water came through a pipeline and was lukewarm and tasted bad. Nearby there were hot springs and cold, fresh water. Both are good. Lukewarm water you spit out. What is meant: a faith that helps no one and changes nothing.
 > Verse 17: Riches can make people blind. They think they need nothing, not even God.
 > Verse 19: Jesus criticizes out of love, not out of hate.
-> Verse 20 is a famous picture: Jesus doesn’t force himself on anyone. He knocks and waits. Whoever opens, with him he shares fellowship.
+> Verse 20 is a famous picture: Jesus doesn’t force himself on anyone. He knocks and waits. Whoever opens the door, he eats with them and shares his life with them.
 > Verse 21: A great promise: Whoever holds out belongs completely to Jesus.

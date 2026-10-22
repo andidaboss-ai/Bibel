@@ -8,7 +8,7 @@
 Timothy was a close coworker of Paul. His mother was Jewish and a Christian, his father a Greek (Acts 16:1). Paul calls him his *true child in faith*.
 The letter calls itself a letter from Paul to Timothy. Timothy has stayed in Ephesus to lead the church there. The letter gives him advice: how to deal with false teachings, how worship is celebrated and which people should carry responsibility in the church.
 The two letters to Timothy and the letter to Titus are together called the *Pastoral Letters*, that is, letters for shepherds of the church. Many scholars today think that they were written later by a student of Paul, in Paul’s spirit. Others consider Paul himself to be the author.
-**An important note:** In this letter there are rules about women, slaves and other groups. They reflect the society of that time. Christians and churches understand them in different ways today. We explain this fairly and honestly in the boxes.
+**Important note:** In this letter there are rules about women, slaves and other groups. They reflect the society of that time. Christians and churches understand them in different ways today. We explain this fairly and honestly in the boxes.
 The first letter to Timothy has 6 chapters.
 
 ---

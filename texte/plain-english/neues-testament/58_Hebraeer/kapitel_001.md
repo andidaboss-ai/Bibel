@@ -8,7 +8,7 @@
 We don’t know who wrote the letter to the Hebrews. In the past people thought of Paul. Today almost all scholars think that it comes from someone else. Some have thought of Apollos, Barnabas or Priscilla. Already in the early church people said: Only God knows who wrote it.
 The letter is more a long sermon than a letter. It is written to Christians who have become tired and are in danger of giving up their faith.
 The author knows the Scriptures of Israel very well. He quotes them often and uses their pictures to explain who Jesus is: the Son of God, greater than the angels, the true high priest.
-**An important note:** The letter to the Hebrews often compares the “old” and the “new” covenant. In history it was sometimes read as if God had rejected the Jewish people. That is wrong. Paul writes clearly: God has not rejected his people (Romans 11:1–2, 29). We explain this in the boxes.
+**Important note:** The letter to the Hebrews often compares the “old” and the “new” covenant. In history it was sometimes read as if God had rejected the Jewish people. That is wrong. Paul writes clearly: God has not rejected his people (Romans 11:1–2, 29). We explain this in the boxes.
 The letter to the Hebrews has 13 chapters.
 
 ---

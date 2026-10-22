@@ -48,9 +48,9 @@ and various washings,
 set until the time of renewal.
 
 > **What does this mean?**
-> Verses 2–5: Here the holy tent is described that Israel built in the wilderness (Exodus 25–26). It had two rooms: the Holy Place and the Most Holy Place. In the Most Holy Place stood the ark of the covenant with the tablets of the Ten Commandments.
+> Verses 2–5: Here the holy tent is described that Israel built in the wilderness (Exodus 25–26). It had two rooms: the Holy Place and the Most Holy Place. In the Most Holy Place stood the ark of the covenant with the tablets of the Ten Commandments. The show bread was holy bread that lay on the table before God. Cherubim are heavenly beings with wings.
 > “Mercy seat”: That was the lid of the ark of the covenant. On the Day of Atonement blood was sprinkled there.
-> Verse 7: On the Day of Atonement (in Hebrew *Yom Kippur*) the high priest went into the Most Holy Place (Leviticus 16). Yom Kippur is the highest Jewish holy day to this day. Since the destruction of the temple in the year 70, Jews keep it without sacrifices, with fasting, prayer and turning back to God.
+> Verse 7: On the Day of Atonement (in Hebrew *Yom Kippur*) the high priest went into the Most Holy Place (Leviticus 16). Yom Kippur is the highest Jewish holy day to this day. Since the destruction of the temple in AD 70, Jews keep it without sacrifices, with fasting, prayer and turning back to God.
 > Verses 9–10: The author sees the sacrifices as a picture and a preparation for Christ.
 
 ---
@@ -75,7 +75,7 @@ so that their body becomes clean,
 [14] how much more will the blood of Christ
 cleanse your conscience from dead works
 so that you serve the living God!
-Through the eternal Spirit he offered himself without blemish to God.
+Through the eternal Spirit he offered himself without defect to God.
 [15] That is why he is the mediator of a new covenant.
 Through his death redemption was to come
 from the wrongdoings under the first covenant,
@@ -117,7 +117,7 @@ there is no forgiveness.
 
 > **What does this mean?**
 > Verses 16–17: The Greek word *diatheke* can mean “covenant,” but also “will.” The author plays with both meanings: A will only takes effect after death. In the same way the new covenant came into effect through the death of Jesus.
-> Verses 19–20: This recalls Exodus 24:6–8. There Moses confirmed the covenant at Sinai with blood.
+> Verses 19–20: This recalls Exodus 24:6–8. There Moses confirmed the covenant at Sinai with blood. Hyssop is a small bushy plant. It was used for sprinkling.
 > Verse 22: At that time blood was seen as a sign of life (Leviticus 17:11). The author explains the death of Jesus in this way.
 > Important: At all times God also forgave those who honestly regretted and turned back to him. The psalms and prophets bear witness to this (for example Psalm 51). God’s mercy is greater than any rule.
 
@@ -127,7 +127,7 @@ there is no forgiveness.
 
 [23] So the copies of the heavenly things
 had to be cleansed in this way.
-But the heavenly things themselves
+But the heavenly things themselves had to be cleansed
 with better sacrifices than these.
 [24] For Christ hasn’t entered into a holy place
 made with hands,

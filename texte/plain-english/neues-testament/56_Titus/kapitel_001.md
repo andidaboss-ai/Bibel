@@ -9,7 +9,7 @@ Titus was a coworker of Paul. He was not a Jew, but a Greek (Galatians 2:3). Pau
 According to the letter, Paul left Titus behind on the island of Crete. Titus is to put the young churches in order there and appoint leaders.
 Together with the two letters to Timothy, the letter to Titus belongs to the *Pastoral Letters*. Many scholars think that a student of Paul wrote them, in Paul’s spirit. Others consider Paul himself to be the author.
 The great theme is: God’s grace has appeared. It changes life. Christians are to do good.
-**An important note:** In chapter 1 there are harsh words about “those of the circumcision,” about “Jewish fables” and about the people of Crete. In the boxes we explain why these words must not be used against Jews or against any people.
+**Important note:** In chapter 1 there are harsh words about “those of the circumcision,” about “Jewish fables” and about the people of Crete. In the boxes we explain why these words must not be used against Jews or against any people.
 The letter to Titus has 3 chapters.
 
 ---
@@ -119,7 +119,7 @@ and unfit for any good work.
 *gluttons* = people who eat far too much
 *defiled* = made unclean
 
-> **An important note**
+> **Important note**
 > Verses 10–16 contain harsh words. They must never be used against Jews or against the people of any nation.
 
 > **What does this mean?**

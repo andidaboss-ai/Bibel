@@ -202,6 +202,6 @@ Amen.
 > **Famous parables:** Only Luke tells of the Good Samaritan, the lost son, the rich farmer, the rich man and poor Lazarus, the Pharisee and the tax collector.
 > **Prayer and the Holy Spirit:** In Luke Jesus prays before all the important moments. And he promises the Holy Spirit.
 > **Mercy and forgiveness:** Zacchaeus, the woman who anoints Jesus’ feet, the criminal on the cross. And on the cross Jesus prays: “Father, forgive them” (23:34). The Son of Man came “to look for the lost and to save them” (19:10).
-> **An important note:** Luke begins and ends in the temple in Jerusalem. Jesus, Mary, the disciples and the first Christians lived as Jews. Again and again Luke shows how “all the people” listen to Jesus and mourn for him. No text of this Gospel may be used against Jews.
+> **Important note:** Luke begins and ends in the temple in Jerusalem. Jesus, Mary, the disciples and the first Christians lived as Jews. Again and again Luke shows how “all the people” listen to Jesus and mourn for him. No text of this Gospel may be used against Jews.
 > **For today:** Like the disciples on the road to Emmaus, we too can meet Jesus: when we hear the Holy Scriptures and share the bread.
 > **What comes next?** Next comes the Gospel of John. It is different from the other three Gospels. It begins with the Word that was there in the beginning. John tells of great signs of Jesus and of long speeches in which Jesus says who he is: the bread of life, the light of the world, the good shepherd.

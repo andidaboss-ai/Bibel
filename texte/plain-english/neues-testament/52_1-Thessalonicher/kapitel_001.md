@@ -10,7 +10,7 @@ Paul came to Thessalonica with Silas and Timothy and founded a church there (Act
 Paul is worried about the young church. He sends Timothy to it. When Timothy brings good news, Paul writes this letter, probably from Corinth.
 The letter is probably the oldest letter of Paul that we have, and so one of the oldest writings of the New Testament. It was written around AD 50.
 An important theme is hope: What about the Christians who have already died? Paul comforts the church with the hope that Jesus will come again.
-**An important note:** In chapter 2 there are very harsh words about *the Jews*. In the box we explain why these verses must never be used against Jews.
+**Important note:** In chapter 2 there are very harsh words about *the Jews*. In the box we explain why these verses must never be used against Jews.
 The first letter to the Thessalonians has 5 chapters.
 
 ---

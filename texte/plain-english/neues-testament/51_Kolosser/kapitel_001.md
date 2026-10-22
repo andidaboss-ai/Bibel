@@ -10,7 +10,7 @@ Paul did not found the church in Colossae himself. His coworker Epaphras preache
 The letter calls itself a letter from Paul and Timothy. It was written in prison (4:18). Many scholars today think that a student of Paul wrote it, in Paul’s spirit. Others consider Paul himself to be the author.
 In the church there were teachers who thought special rules, festival days and the worship of angels were necessary. The letter says against this: In Christ you already have everything. He is Lord over all creation.
 In chapter 1 there is a famous song about Christ. The letter is closely related to the letter to the Ephesians.
-**An important note:** In chapters 3 and 4 there are rules for married couples, children, parents, slaves and masters. They reflect the order of society at that time. In the boxes we explain how Christians understand them today.
+**Important note:** In chapters 3 and 4 there are rules for married couples, children, parents, slaves and masters. They reflect the order of society at that time. In the boxes we explain how Christians understand them today.
 The letter to the Colossians has 4 chapters.
 
 ---

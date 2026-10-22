@@ -98,6 +98,6 @@ Amen.
 > **A treasure in clay jars:** People are weak and fragile. But God’s power works through them (chapter 4).
 > **Generosity:** The collection for the poor Christians in Jerusalem shows: Christians share with one another, freely and with joy (chapters 8 and 9).
 > **Strong in weakness:** Paul doesn’t boast about his successes, but about his weaknesses. God says to him: My grace is enough for you (chapters 10 to 13).
-> **An important note:** In chapter 3 Paul speaks about the old and the new covenant. These words were often used against Jews. That was wrong. Paul himself is proud to be a Jew (11:22).
+> **Important note:** In chapter 3 Paul speaks about the old and the new covenant. These words were often used against Jews. That was wrong. Paul himself is proud to be a Jew (11:22).
 > **For today:** No one has to be strong or perfect to be loved and used by God.
 > **What comes next?** Next comes Paul’s letter to the churches in Galatia. In it Paul fights passionately for the freedom of Christians. A famous thought from it: In Christ all are one, whether Jew or Greek, slave or free, man or woman (Galatians 3:28).

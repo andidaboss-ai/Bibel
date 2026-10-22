@@ -97,7 +97,7 @@ so that they may be saved.
 So they always fill up the measure of their sins.
 But wrath has come on them to the uttermost.
 
-> **An important note**
+> **Important note**
 > Verses 14–16 are among the most difficult verses in the New Testament. In history they were terribly misused to despise, persecute and kill Jews. That was a grave injustice. These verses must never be used against Jews.
 
 > **What does this mean?**

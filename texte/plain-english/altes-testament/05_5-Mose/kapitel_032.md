@@ -171,7 +171,7 @@ What is coming for them is rushing toward them.”
 > **What does this mean?**
 > It is not quite clear who is meant in verses 28–33: Israel or the enemies. Many interpreters think: first Israel, who does not understand why it is losing. Then the enemies, whose “rock,” that is, their gods, is worthless, and whose wickedness is like poisonous wine.
 > Verse 30: Israel was not defeated because the enemies were so strong, but because God no longer protected his people.
-> “Revenge belongs to me”: That is a very important sentence. It means: Revenge is God’s business, not the business of people. Paul quotes it and says: “Don’t seek revenge yourselves, beloved, but leave room for God’s wrath” (Romans 12:19). So this sentence actually forbids human revenge.
+> “Revenge belongs to me”: That is a very important sentence. It means: Revenge is God’s business, not the business of people. Paul quotes it and says: “Don’t seek revenge yourselves, beloved, but leave room for God’s anger” (Romans 12:19). So this sentence actually forbids human revenge.
 
 ---
 

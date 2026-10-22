@@ -111,7 +111,7 @@ if possible.
 ## Paul says goodbye (Verses 17–38)
 
 [17] From Miletus Paul sent to Ephesus
-and called the elders of the assembly to himself.
+and called the elders of the church to himself.
 [18] When they had come to him,
 he said to them,
 “You yourselves know
@@ -159,7 +159,7 @@ I declared to you the whole plan of God.
 [28] So take care of yourselves
 and of all the flock.
 The Holy Spirit has made you overseers in it.
-You are to shepherd the assembly of the Lord and God
+You are to shepherd the church of the Lord and God
 which he bought with his own blood.
 [29] For I know
 that after I have left,
@@ -194,7 +194,7 @@ By working like this
 you ought to help the weak.
 And remember the words of the Lord Jesus.
 He himself said,
-‘It is more blessed to give than to receive.’ ”
+‘It is more blessed to give than to receive.’”
 [36] When he had said these things,
 he knelt down
 and prayed with them all.
@@ -214,7 +214,7 @@ Then they went with him to the ship.
 > Verses 22–24: Paul knows that danger is waiting for him. Still he goes. He trusts God.
 > Verse 26: “I am clean from the blood of all people” means: I have done my task. No one can say that I kept something from them.
 > Verse 28: “Overseer” in Greek is *episkopos*. The word “bishop” comes from it. The church leaders are to care for the church like shepherds.
-> Verse 28: The WEB writes “the assembly of the Lord and God.” The old manuscripts have different forms here: *the church of God* or *the church of the Lord*.
+> Verse 28: The WEB, our English source text, writes “the assembly of the Lord and God,” that is, the church of the Lord and God. The old manuscripts have different forms here: *the church of God* or *the church of the Lord*.
 > Verses 29–30: Paul warns against false teachers who want to tie people to themselves. Anyone who is put under pressure in a group can find advice at counseling services for cults and spiritual abuse.
 > Verse 35: “It is more blessed to give than to receive”: This saying of Jesus is not in the Gospels. Paul knew it from what was passed on by word of mouth.
 > Verses 37–38: A tearful farewell. The church loves Paul. Christians may show their feelings.

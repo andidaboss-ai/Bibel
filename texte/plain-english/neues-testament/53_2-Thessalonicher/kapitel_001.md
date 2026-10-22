@@ -9,7 +9,7 @@ This letter is addressed to the same church as the first letter to the Thessalon
 The church continued to face hostility and persecution. In addition, some claimed that *the day of the Lord* had already come. That made many afraid. Some even stopped working.
 The letter calls itself a letter from Paul, Silvanus and Timothy. Some scholars think that a student of Paul wrote it later. Others consider Paul himself to be the author, shortly after the first letter.
 The letter wants to comfort and calm: God is just. Don’t let yourselves be confused. Go on living calmly and do good.
-**An important note:** In chapters 1 and 2 there are pictures of God’s judgment. They are meant to give courage to persecuted people. They are no invitation to wish evil on other people or to do evil to them.
+**Important note:** In chapters 1 and 2 there are pictures of God’s judgment. They are meant to give courage to persecuted people. They are no invitation to wish evil on other people or to do evil to them.
 The second letter to the Thessalonians has 3 chapters.
 
 ---

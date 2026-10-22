@@ -9,7 +9,7 @@ Corinth was a large, rich port city in Greece. People from many countries lived 
 Paul had founded the church in Corinth himself. He lived there for about a year and a half (Acts 18). Later he wrote several letters to the church. He probably wrote this letter around AD 54 or 55 in Ephesus.
 The church had many problems: quarrels and groups, questions about marriage and sexuality, about food, about worship, about the gifts of the Spirit and about the resurrection. Paul answers all these questions.
 The first letter to the Corinthians contains some of the best-known texts of the Bible: the “Song of Love” (chapter 13), the words about the Lord’s Supper (chapter 11) and the great chapter about the resurrection (chapter 15).
-**An important note:** Some passages in this letter are about women in worship and about other questions that were much debated at that time. We translate everything exactly. In the boxes we explain how Christians understand these passages differently today.
+**Important note:** Some passages in this letter are about women in worship and about other questions that were much debated at that time. We translate everything exactly. In the boxes we explain how Christians understand these passages differently today.
 The first letter to the Corinthians has 16 chapters.
 
 ---
@@ -20,7 +20,7 @@ The first letter to the Corinthians has 16 chapters.
 called to be an apostle of Jesus Christ
 through the will of God,
 and our brother Sosthenes,
-[2] write to the assembly of God
+[2] write to the church of God
 which is at Corinth:
 to those who are sanctified in Christ Jesus,
 called saints,
@@ -31,7 +31,7 @@ both theirs and ours.
 from God our Father
 and the Lord Jesus Christ.
 
-*assembly* = church, the community of Christians
+*church* = the community of Christians
 *sanctified* = made holy, belonging to God
 
 > **What does this mean?**
@@ -175,7 +175,9 @@ as it is written:
 let him boast in the Lord.”
 
 *scribe* = a teacher of the Scriptures
+*righteousness* = living right before God
 *redemption* = being set free
+
 
 > **What does this mean?**
 > Verse 18: A crucified savior sounded like nonsense to many people at that time. Crucifixion was the worst and most shameful death penalty. Paul says: It is precisely in the cross that God’s power shows itself.

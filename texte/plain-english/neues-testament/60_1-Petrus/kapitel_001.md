@@ -8,7 +8,7 @@
 The letter names itself a letter of Peter, the apostle. Peter was one of the first disciples of Jesus. At the end of the letter Silvanus is named, who helped with the writing (5:12). Many scholars think that the letter was written later in the spirit of Peter. Others consider Peter himself the author.
 The letter is written to Christians in several regions of today’s Turkey. They were despised and treated with hostility because of their faith. The letter calls them “foreigners” in this world.
 The big theme is hope in suffering: Christ suffered and rose again. That is why the Christians also have a living hope.
-**An important note:** In chapters 2 and 3 there are rules for slaves and for wives. They reflect the order of that time. In the boxes we explain how Christians understand them today.
+**Important note:** In chapters 2 and 3 there are rules for slaves and for wives. They reflect the order of that time. In the boxes we explain how Christians understand them today.
 The first letter of Peter has 5 chapters.
 
 ---

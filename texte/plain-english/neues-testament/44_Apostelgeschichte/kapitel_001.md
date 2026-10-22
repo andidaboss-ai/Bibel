@@ -8,7 +8,7 @@
 The Acts of the Apostles continues the Gospel of Luke. Both books are written to a man named Theophilus. According to old church tradition, Luke wrote both books. He was a companion of the apostle Paul. Acts was probably written between AD 70 and 90. No one knows exactly.
 The book tells how the first Christian church came into being: Jesus goes to the Father, and at Pentecost the Holy Spirit comes. Then the good news spreads: from Jerusalem to Judea and Samaria and all the way to Rome, the capital of the world at that time. In the first part Peter is mostly at the center, in the second part Paul.
 An important theme is: The good news is for all people, for Jews and for people from all other nations.
-**An important note:** The first Christians were Jews. They prayed in the temple and kept the Jewish feasts. In Acts, too, there are conflicts between the apostles and Jewish leaders. Sometimes the text says “the Jews.” Then certain groups are meant, never the whole Jewish people. No text of this book may be used against Jews.
+**Important note:** The first Christians were Jews. They prayed in the temple and kept the Jewish feasts. In Acts, too, there are conflicts between the apostles and Jewish leaders. Sometimes the text says “the Jews.” Then certain groups are meant, never the whole Jewish people. No text of this book may be used against Jews.
 The Acts of the Apostles has 28 chapters.
 
 ---

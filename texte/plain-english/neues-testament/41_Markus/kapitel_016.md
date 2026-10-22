@@ -144,6 +144,6 @@ Amen.
 > **The way of serving:** Three times Jesus announces his suffering. And he says: “Even the Son of Man did not come to be served. He came to serve, and to give his life as a ransom for many” (10:45).
 > **Honest disciples:** The disciples often don’t understand, argue about who is the greatest, sleep in Gethsemane and flee. Peter denies Jesus. Mark tells this honestly. And yet Jesus does not give up on them (16:7).
 > **Faithful women:** The women stay at the cross, see the tomb and are the first to hear the message: “He has risen!”
-> **An important note:** The debates in Mark were arguments within Judaism. Jesus and all the disciples were Jews. A Jewish scribe hears from Jesus: “You are not far from God’s Kingdom” (12:34). These texts must never be used against Jews.
+> **Important note:** The debates in Mark were arguments within Judaism. Jesus and all the disciples were Jews. A Jewish scribe hears from Jesus: “You are not far from God’s Kingdom” (12:34). These texts must never be used against Jews.
 > **For today:** The open ending in verse 8 asks us: Will we pass on what we have heard?
 > **What comes next?** Next comes the Gospel of Luke. It is the longest of the four Gospels. Luke tells especially about how Jesus turns to the poor, to women, to the sick and to outcasts. In Luke we find the Christmas story with the manger in Bethlehem and famous parables like the Good Samaritan and the lost son.

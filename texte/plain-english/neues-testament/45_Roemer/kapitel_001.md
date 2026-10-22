@@ -8,7 +8,7 @@
 The letter to the Romans is a letter from the apostle Paul to the Christians in Rome. Paul probably wrote it around AD 56 or 57, probably in Corinth. He had never been to Rome, but he wanted to go there soon (compare Acts 19:21 and 28).
 The church in Rome was made up of Christians of Jewish background and Christians who came from other nations. Paul explains to them in detail what the Good News of Jesus means: God accepts all people, Jews and non-Jews, not because of what they achieve, but by grace, through faith.
 The letter to the Romans is one of the most important texts of Christianity. It deeply shaped people like Augustine and Martin Luther. The churches argued for a long time about some passages. Today they agree on many things, for example in the *Joint Declaration on the Doctrine of Justification* of 1999.
-**An important note:** In chapters 9 to 11 Paul writes in detail about Israel. He says: God has not rejected his people. His gifts and his calling cannot be taken back. Today these chapters are the basis for the churches recognizing God’s lasting covenant with the Jewish people.
+**Important note:** In chapters 9 to 11 Paul writes in detail about Israel. He says: God has not rejected his people. His gifts and his calling cannot be taken back. Today these chapters are the basis for the churches recognizing God’s lasting covenant with the Jewish people.
 Paul sometimes writes difficult and long sentences. We divide them into short sentences, but we leave nothing out.
 The letter to the Romans has 16 chapters.
 

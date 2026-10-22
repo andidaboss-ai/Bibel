@@ -81,7 +81,7 @@ in faith,
 love and holiness
 with good sense.
 
-> **An important note first**
+> **Important note first**
 > Verses 11–15 are among the most disputed verses of the Bible. In history they were often used to keep women down. We render them closely following the WEB and explain them fairly.
 
 > **What does this mean?**

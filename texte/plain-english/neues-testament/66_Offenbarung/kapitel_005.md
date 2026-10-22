@@ -32,7 +32,7 @@ He is the one who opens the book and its seven seals.”
 ## The Lamb (Verses 6–10)
 
 [6] Then I saw a Lamb standing in the middle of the throne and of the four living creatures,
-in the middle of the elders.
+and in the middle of the elders.
 The Lamb looked as if it had been killed.
 It had seven horns and seven eyes.
 These are the seven Spirits of God.
@@ -40,7 +40,7 @@ They are sent out into all the earth.
 [7] The Lamb came.
 He took the book out of the right hand of the one who sat on the throne.
 [8] When he had taken the book,
-the four living creatures and the twenty-four elders bowed down before the Lamb.
+the four living creatures and the 24 elders bowed down before the Lamb.
 Each of them had a harp.
 And they had golden bowls full of incense.
 The incense is the prayers of the saints.
@@ -67,7 +67,7 @@ And we will rule on the earth.”
 
 [11] I looked, and I heard something like the voice of many angels.
 They were around the throne, the living creatures, and the elders.
-There were ten thousands times ten thousands of them,
+There were tens of thousands times tens of thousands of them,
 and thousands times thousands.
 [12] They said with a loud voice,
 “The Lamb who was killed is worthy!

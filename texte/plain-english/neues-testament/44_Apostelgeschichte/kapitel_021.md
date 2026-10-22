@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In this chapter and the next ones the text often says “the Jews.” This means certain people who oppose Paul, for example “the Jews from Asia” (verse 27). At the same time the text tells of “many thousands” of Jews who believe in Jesus and faithfully keep the law (verse 20). Paul himself says: “I am a Jew” (verse 39).
 > These texts must never be used against the Jewish people (*Nostra Aetate*, 1965).
 

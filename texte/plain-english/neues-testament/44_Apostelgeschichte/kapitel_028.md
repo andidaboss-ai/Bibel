@@ -212,6 +212,6 @@ without hindrance.
 > **God shows no favoritism:** At the meeting of the apostles in Jerusalem (chapter 15) it is decided: People from all nations belong, without first having to become Jews.
 > **Peter and Paul:** Peter leads the church at the beginning. Paul, the former persecutor, becomes the great missionary to the nations. He travels through Asia Minor and Greece, and in the end he comes to Rome as a prisoner.
 > **Women in the church:** Tabitha, Lydia, Priscilla, the daughters of Philip and many others play an important role.
-> **An important note:** In Acts there is conflict between the apostles and some Jewish groups. But the apostles were Jews themselves. Many thousands of Jews came to faith. To the very end Paul calls the Jews “Brothers.” No text of this book may be used against the Jewish people.
+> **Important note:** In Acts there is conflict between the apostles and some Jewish groups. But the apostles were Jews themselves. Many thousands of Jews came to faith. To the very end Paul calls the Jews “Brothers.” No text of this book may be used against the Jewish people.
 > **For today:** The Holy Spirit makes people brave. The good news is there for all people. “Without hindrance”: God’s word cannot be stopped.
 > **What comes next?** Next comes Paul’s letter to the Romans. It is Paul’s longest and perhaps most important letter. He wrote it to the church in Rome before he came there himself. In it he explains how God makes people righteous: through faith, by grace.

@@ -9,7 +9,7 @@ Ephesus was a large port city in what is now Turkey. A famous temple of the godd
 The letter calls itself a letter from Paul. Many scholars today think that it was written by a student of Paul, in Paul’s spirit. Others consider Paul himself to be the author. The letter was probably written in prison (3:1; 4:1). Some old manuscripts don’t have the words *at Ephesus* in verse 1. Perhaps the letter was meant for several churches.
 The great theme is the one church: Jews and people from all nations have grown together into one people through Christ. Christ has overcome the separation between them.
 The second part (chapters 4 to 6) is about life as a Christian in everyday life.
-**An important note:** In chapters 5 and 6 there are rules for married couples, children, parents, slaves and masters. They reflect the order of society at that time. In the boxes we explain how Christians understand them today.
+**Important note:** In chapters 5 and 6 there are rules for married couples, children, parents, slaves and masters. They reflect the order of society at that time. In the boxes we explain how Christians understand them today.
 The letter to the Ephesians has 6 chapters.
 
 ---

@@ -174,6 +174,6 @@ Amen.
 > **God’s creation is good:** Food, the body and marriage are gifts from God (chapter 4).
 > **Caring for one another:** for widows, the elderly and those in need (chapter 5).
 > **Contentment instead of greed:** The love of money leads to ruin. The rich are to share (chapter 6).
-> **An important note:** The rules about slaves reflect the time back then. Slavery is a grave injustice.
+> **Important note:** The rules about slaves reflect the time back then. Slavery is a grave injustice.
 > **For today:** Faith shows itself in everyday life: in honesty, care, modesty and love.
 > **What comes next?** Next comes the second letter to Timothy. It is like a farewell letter from Paul in prison.

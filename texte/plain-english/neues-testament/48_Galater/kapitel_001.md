@@ -24,7 +24,7 @@ and God the Father,
 who raised him from the dead,
 [2] and all the brothers
 who are with me,
-write to the assemblies of Galatia:
+write to the churches of Galatia:
 [3] Grace to you and peace
 from God the Father
 and our Lord Jesus Christ.
@@ -88,11 +88,11 @@ and no one taught it to me.
 But it came to me through a revelation of Jesus Christ.
 [13] For you have heard
 how I used to live in the Jewish religion.
-I persecuted the assembly of God beyond measure
+I persecuted the church of God beyond measure
 and tried to destroy it.
 [14] In the Jewish religion I was ahead of many of my own age among my people.
 I was extremely zealous
-for the traditions of my fathers.
+for the traditions of my ancestors.
 [15] But God had set me apart from my mother’s womb
 and called me through his grace.
 When it pleased him
@@ -106,7 +106,7 @@ Instead I went away into Arabia
 and then returned to Damascus.
 [18] Only after three years did I go up to Jerusalem
 to get to know Peter.
-I stayed with him fifteen days.
+I stayed with him 15 days.
 [19] I saw none of the other apostles,
 except James,
 the Lord’s brother.
@@ -114,7 +114,7 @@ the Lord’s brother.
 I say before God:
 I am not lying.
 [21] Then I came to the regions of Syria and Cilicia.
-[22] The assemblies of Judea
+[22] The churches of Judea
 that belong to Christ
 still didn’t know me personally.
 [23] They only heard:

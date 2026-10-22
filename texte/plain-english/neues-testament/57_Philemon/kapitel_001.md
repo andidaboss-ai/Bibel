@@ -9,7 +9,7 @@ The letter to Philemon is the shortest letter of Paul. It has only one chapter. 
 Philemon was a well-off Christian, probably in Colossae. A church met in his house.
 Onesimus was a slave of Philemon. He went away from him, perhaps he ran away. He came to Paul, who was in prison. There Onesimus became a Christian.
 Now Paul sends him back to Philemon, with this letter. Paul asks Philemon to receive Onesimus no longer as a slave, but as a beloved brother.
-**An important note:** The letter does not openly demand the end of slavery. But it puts slavery in a new light: A slave is a brother. Later this message led many Christians to fight against slavery.
+**Important note:** The letter does not openly demand the end of slavery. But it puts slavery in a new light: A slave is a brother. Later this message led many Christians to fight against slavery.
 
 ---
 

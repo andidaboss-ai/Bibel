@@ -100,7 +100,7 @@ of those who had practiced magic
 brought their books together
 and burned them in the sight of all.
 They counted the price of the books:
-fifty thousand pieces of silver.
+50,000 pieces of silver.
 [20] So the word of the Lord grew
 and became mighty.
 
@@ -180,7 +180,7 @@ Most of them didn’t even know
 why they had come together.
 [33] They brought Alexander out of the crowd.
 The Jews pushed him forward.
-Alexander waved with his hand
+Alexander motioned with his hand
 and wanted to make a defense before the people.
 [34] But when they realized
 that he was a Jew,
