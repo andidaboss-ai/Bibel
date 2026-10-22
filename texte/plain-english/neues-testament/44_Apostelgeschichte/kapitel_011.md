@@ -101,7 +101,7 @@ and preached the good news about the Lord Jesus.
 [21] The hand of the Lord was with them.
 A great number believed
 and turned to the Lord.
-[22] The news about them came to the ears of the assembly in Jerusalem.
+[22] The news about them came to the ears of the church in Jerusalem.
 So they sent Barnabas to Antioch.
 [23] When he arrived
 and saw the grace of God,
@@ -115,13 +115,13 @@ And many people were added to the Lord.
 to look for Saul.
 [26] When he had found him,
 he brought him to Antioch.
-For a whole year they met with the assembly
+For a whole year they met with the church
 and taught many people.
 The disciples were first called Christians in Antioch.
 
 > **What does this mean?**
 > Verse 19: Phoenicia is today’s Lebanon. Antioch was a large city in Syria, today Antakya in Turkey. At that time it was one of the largest cities in the Roman Empire.
-> Verse 20: The Hellenists here are Greek-speaking people. Non-Jews are probably meant here too. Many other Bibles have Greeks, following other manuscripts.
+> Verse 20: The Hellenists here are Greek-speaking people. Non-Jews are probably meant here too. Some Bibles have Greeks, following other manuscripts.
 > Verses 23–24: Barnabas sees God’s grace and is glad. He encourages people. He is “a good man.”
 > Verses 25–26: Barnabas brings Saul to Antioch. Antioch becomes the starting point of Paul’s great journeys.
 > Verse 26: “Christians” means: people who belong to Christ. Perhaps at first it was a nickname given by others.

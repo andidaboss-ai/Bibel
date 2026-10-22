@@ -198,7 +198,7 @@ But you did not keep it!”
 > Verse 44: “The tabernacle of the testimony” is the holy tent, Israel’s portable sanctuary in the wilderness (Exodus 25–27).
 > Verses 47–50: Stephen doesn’t say that the temple is bad. He says: God is greater than any house. Solomon himself already said this when the temple was dedicated (1 Kings 8:27). Verses 49–50 quote Isaiah 66:1–2.
 > Verse 51: “Stiff-necked” means: stubborn, not willing to listen. “Uncircumcised in heart” is a picture from Israel’s Bible: The heart is closed to God (Deuteronomy 10:16; Jeremiah 4:4). Moses and the prophets already called their own people this (Exodus 32:9).
-> Verse 52: “The Righteous One” is Jesus.
+> Verse 52: “The Righteous One” is Jesus. Righteous means: living right before God.
 > Important: Here Stephen is speaking to the council. It is a prophetic warning within the Jewish people. It must not be read as a judgment on all Jews. Christians have often misused such verses. That was wrong.
 
 ---

@@ -23,7 +23,7 @@ He was raised on the third day
 according to the Scriptures.
 [5] He appeared to Cephas,
 then to the twelve.
-[6] Then he appeared to over five hundred brothers at once.
+[6] Then he appeared to over 500 brothers at once.
 Most of them are still alive,
 but some have fallen asleep.
 [7] Then he appeared to James,
@@ -34,7 +34,7 @@ as to one born at the wrong time.
 [9] For I am the least of the apostles.
 I am not worthy
 to be called an apostle,
-because I persecuted the assembly of God.
+because I persecuted the church of God.
 [10] But by the grace of God I am
 what I am.
 And his grace,

@@ -85,7 +85,7 @@ And by his power he will also raise us up.
 [15] Don’t you know that your bodies are parts of Christ’s body?
 So should I take parts of Christ’s body
 and make them parts of a prostitute’s body?
-Certainly not!
+Of course not!
 [16] Don’t you know that a man who joins himself to a prostitute
 becomes one body with her?
 For he says,

@@ -14,7 +14,7 @@ We love God and keep his commandments.
 [3] Loving God means keeping his commandments.
 And his commandments are not hard.
 [4] Everyone who is born of God wins the victory over the world.
-Our faith is the victory that has won over the world.
+Your faith is the victory that has won over the world.
 [5] Who wins the victory over the world?
 Only the one who believes that Jesus is the Son of God.
 
@@ -103,7 +103,7 @@ He has given us understanding,
 so that we can know the one who is true.
 And we are in the one who is true,
 in his Son Jesus Christ.
-He is the true God and eternal life.
+This is the true God and eternal life.
 [21] Little children,
 keep away from idols.
 

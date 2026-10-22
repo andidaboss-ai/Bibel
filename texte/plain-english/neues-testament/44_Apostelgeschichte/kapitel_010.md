@@ -38,11 +38,11 @@ from among those who served him personally.
 [8] He explained everything to them
 and sent them to Joppa.
 
-*centurion* = a Roman officer in charge of about a hundred soldiers
+*centurion* = a Roman officer in charge of about 100 soldiers
 *memorial* = something that keeps a person in memory
 
 > **What does this mean?**
-> Verse 1: Cornelius was a Roman officer, a centurion. He led about a hundred soldiers. He was not a Jew.
+> Verse 1: Cornelius was a Roman officer, a centurion. He led about 100 soldiers. He was not a Jew.
 > Verse 2: Cornelius honored the God of Israel, prayed and helped the poor. Such people were called God-fearers. They often went to the synagogue, but had not become Jews.
 > Verse 3: The ninth hour is about three in the afternoon, the time of the Jewish afternoon prayer. Cornelius prays at the same time as devout Jews.
 > Verse 4: The prayers and gifts have gone up “for a memorial” before God. God has seen them and won’t forget them.
@@ -244,7 +244,7 @@ will receive forgiveness of sins.”
 > Verse 36: “He is Lord of all”: Jesus doesn’t belong to only one people.
 > Verse 38: A short summary of Jesus’ life: He did good and healed.
 > Verse 39: “They” are those who had Jesus executed. Here Peter is not speaking to Jews, but to Romans.
-> Verse 42: The words *the living and the dead* are also found in the Creeds of the churches.
+> Verse 42: The words *the living and the dead* are also found in the creeds of the churches.
 
 ---
 

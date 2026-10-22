@@ -13,7 +13,7 @@
 
 [1] So I ask:
 Did God reject his people?
-Certainly not!
+Of course not!
 I myself am an Israelite.
 I am a descendant of Abraham, from the tribe of Benjamin.
 [2] God did not reject his people.
@@ -69,7 +69,7 @@ A snare is a trap.
 
 [11] So I ask:
 Did they stumble so that they would fall for good?
-Certainly not!
+Of course not!
 But because they fell, salvation has come to the Gentiles.
 Gentiles are people who are not Jews.
 This happened to make Israel jealous.

@@ -86,9 +86,9 @@ to take anything out of his house.
 [18] Whoever is in the field
 should not go back
 to get his clothes.
-[19] But woe to pregnant women
-and to mothers who are nursing a baby
-in those days!
+[19] But how terrible it will be in those days
+for pregnant women
+and for mothers who are nursing a baby!
 [20] Pray that you won’t have to flee in the winter
 or on a Sabbath.
 [21] For then there will be great suffering,
@@ -202,7 +202,7 @@ One will be taken,
 and one will be left.
 [42] So keep watch!
 For you don’t know
-on what day your Lord is coming.
+at what hour your Lord is coming.
 [43] But know this:
 If the owner of the house had known
 in which watch of the night the thief was coming,
@@ -248,4 +248,4 @@ There will be weeping and grinding of teeth.”
 > The evil servant thinks: My master won’t come so soon anyway. He misuses his power, beats others and lives without caring about anyone.
 > The message: Whoever has responsibility for others, whether in the family, at work or in the church, should use it well and faithfully. Violence and the abuse of power are against God’s will.
 > Verse 51: “Cut him to pieces” is a harsh picture from the parable. It shows how seriously God takes the abuse of power. It is not an instruction to use violence. The word can also mean: punish severely, or cut off from himself.
-> For today: Whoever is beaten or oppressed by someone who has power over them may get help: In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. Elsewhere, find help at findahelpline.com. In an emergency, call your local emergency number (911 in the US, 999 in the UK).
+> For today: Whoever is beaten or oppressed by someone who has power over them may get help: In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com. For domestic violence: US: 1-800-799-7233. In an emergency, call your local emergency number (911 in the US, 999 in the UK).

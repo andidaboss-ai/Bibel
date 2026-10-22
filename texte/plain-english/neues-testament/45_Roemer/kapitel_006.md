@@ -19,7 +19,7 @@ were baptized into his death.
 through baptism into death.
 Christ was raised from the dead
 through the glory of the Father.
-In the same way we also should walk in a new life.
+In the same way we too can now live a new life.
 [5] For if we have become united with him
 in the likeness of his death,
 we will also be part of his resurrection.

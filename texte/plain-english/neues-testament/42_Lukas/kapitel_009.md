@@ -59,7 +59,7 @@ And Herod wanted to see Jesus.
 
 ---
 
-## Jesus feeds five thousand people (Verses 10–17)
+## Jesus feeds 5,000 people (Verses 10–17)
 
 [10] The apostles came back.
 They told Jesus everything they had done.
@@ -83,9 +83,9 @@ For we are in a deserted place here.”
 They said,
 “We have only five loaves of bread and two fish.
 Do you want us to go and buy food for all these people?”
-[14] There were about five thousand men there.
+[14] There were about 5,000 men there.
 Jesus said to his disciples,
-“Have them sit down in groups of about fifty.”
+“Have them sit down in groups of about 50.”
 [15] The disciples did this.
 They had everyone sit down.
 [16] Jesus took the five loaves and the two fish.
@@ -96,7 +96,7 @@ He gave the pieces to the disciples
 to give to the crowd.
 [17] Everyone ate and had enough.
 The disciples picked up the pieces that were left over.
-They filled twelve baskets.
+They filled 12 baskets.
 
 > **What does this mean?**
 > This is the only miracle of Jesus that is told in all four Gospels (compare Matthew 14:13–21; Mark 6:30–44; John 6:1–15).
@@ -104,7 +104,7 @@ They filled twelve baskets.
 > Verse 13: “You give them something to eat.” Jesus makes the disciples responsible.
 > Verse 14: Back then often only the men were counted. So there were even more people there, with women and children.
 > Verse 16: Looking up, blessing, breaking, giving: These words remind us of the Last Supper (Luke 22:19). Christians think of Holy Communion or the Eucharist.
-> Twelve baskets are left over: God gives more than enough. The number twelve reminds us of the twelve tribes of Israel.
+> There are 12 baskets left over: God gives more than enough. The number 12 reminds us of the 12 tribes of Israel.
 > For today: A little can become a lot when it is shared.
 
 ---
@@ -159,7 +159,7 @@ before they see God’s Kingdom.”
 > Important: Verse 22 names certain leaders in Jerusalem, not the Jewish people. According to Luke 24:20 and Acts 4:27 the Romans were involved too. The Jewish people do not bear guilt for the death of Jesus (Council declaration *Nostra Aetate*, 1965).
 > Verse 23: “Take up his cross” is a picture: following Jesus even when it is hard. Say no to himself: not putting himself first. Many old manuscripts say that he should take up his cross daily. The WEB, our English source text, does not have “daily.”
 > Important: This does not mean that you simply have to put up with violence, abuse or injustice. Whoever experiences violence may and should get help.
-> Verse 25: “Throw it away”: Older Bibles say “forfeit,” that is, lose something as a penalty.
+> Verse 25: “Throw it away”: The WEB says “forfeit,” that is, lose something as a penalty.
 > Verse 27: These words are understood in different ways. Many interpreters think of the transfiguration, which follows right after, or of Easter and Pentecost.
 
 ---
@@ -257,7 +257,7 @@ And they were afraid to ask him about it.
 > The description reminds us of epilepsy: seizures, crying out, convulsions, foaming at the mouth. People back then explained such things by a spirit.
 > Convulsions: sudden, violent movements of the body that a person cannot control.
 > Important: Epilepsy is an illness of the brain. It has nothing to do with demons or sin. People with epilepsy need medical help and understanding, not fear.
-> Verse 41: Jesus’ lament is aimed at the whole generation, including the disciples who could not help. It is not aimed at the desperate father. Older Bibles say “perverse”: twisted, turned away from what is right.
+> Verse 41: Jesus’ lament is aimed at the whole generation, including the disciples who could not help. It is not aimed at the desperate father. The WEB, our English source text, says “perverse”: twisted, turned away from what is right.
 > Verse 42: Jesus “gave him back to his father”: as with the widow’s son in Nain (Luke 7:15).
 > Verses 44–45: The second time Jesus announces his suffering. The disciples do not understand it. Only after Easter will they understand (Luke 24:45).
 

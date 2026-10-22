@@ -3,7 +3,7 @@
 
 ---
 
-> **An important note first**
+> **Important note first**
 > In the history of the church the story of Jesus’ suffering was often misused to insult Jews as “Christ killers.” This led to terrible persecution and violence. That is grave guilt.
 > In 1965 the Catholic Church declared: What happened in Jesus’ suffering may not be blamed on all the Jews living at that time, nor on the Jews of today (*Nostra Aetate*). The Protestant churches have also clearly taken a stand against hostility toward Jews.
 > Jesus was crucified by the Romans. Crucifixion was a Roman punishment. Those involved were a few powerful people from the temple leadership together with the Roman governor Pilate. Jesus, his mother, the disciples and the women who wept for him were Jews.
@@ -146,7 +146,7 @@ They were criminals.
 There they crucified Jesus.
 They also crucified the criminals there, one on his right and the other on his left.
 [34] Jesus said, “Father, forgive them. They don’t know what they are doing.”
-The soldiers divided his clothes among themselves.
+They divided his clothes among themselves.
 They threw lots for them.
 [35] The people stood watching.
 The rulers also made fun of him.
@@ -197,7 +197,7 @@ After he said this, he breathed his last breath.
 [47] The centurion saw what had happened.
 He praised God and said,
 “This man really was righteous.”
-[48] Many crowds had come together to watch this.
+[48] All the crowds had come together to watch this.
 They saw what had happened.
 Then they went back home, beating their chests.
 [49] All the people who knew Jesus stood far away and watched these things.
@@ -207,7 +207,7 @@ The women who had followed him from Galilee were with them.
 > The sixth hour is about 12 noon, the ninth hour about 3 in the afternoon.
 > Verse 45: The curtain in the temple separated the Most Holy Place from the rest of the temple. Christians often understand its tearing like this: Through Jesus’ death the way to God is open for everyone.
 > Verse 46: Jesus prays with words from Psalm 31:5 (in the Hebrew Bible and in some Bibles 31:6). Devout Jews also prayed this prayer in the evening before going to sleep. Jesus dies trusting his Father.
-> Verse 47: A Roman officer recognizes: Jesus was innocent and righteous. Centurion: a Roman officer in charge of about a hundred soldiers.
+> Verse 47: A Roman officer recognizes: Jesus was innocent and righteous. Centurion: a Roman officer in charge of about 100 soldiers.
 > Verse 48: The people from the crowds beat their chests, a sign of grief and regret. Once again Luke shows: The people mourn for Jesus.
 > Verse 49: The women stay, even when it is dangerous. They will be the first witnesses of the resurrection.
 > For today: Whoever is dying or has to say goodbye may pray like Jesus, with the words “into your hands I commit my spirit.”

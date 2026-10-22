@@ -39,8 +39,8 @@ They brought fruit for death.
 [6] But now we have been released from the law.
 We have died to that
 in which we were held.
-So we serve in newness of the spirit,
-and not in oldness of the letter.
+So we serve in the new way of the spirit,
+and not in the old way of the letter.
 
 *adulteress* = a married woman who is unfaithful to her husband
 
@@ -48,7 +48,7 @@ and not in oldness of the letter.
 > Verses 1–3: Paul uses a picture from the marriage law of his time: When one spouse dies, the other is free. Here he is not giving a teaching about marriage and divorce, but a picture.
 > Verse 4: In the same way, the Christians have become free through the death of Christ, to belong to Christ.
 > Verse 5: “In the flesh” means: in the old life, ruled by human weakness.
-> Verse 6: “Newness of the spirit”: Christians live from the Holy Spirit, not only by written rules.
+> Verse 6: “The new way of the spirit”: Christians live from the Holy Spirit, not only by written rules.
 
 ---
 
@@ -56,7 +56,7 @@ and not in oldness of the letter.
 
 [7] What shall we say then?
 Is the law sin?
-May it never be!
+Of course not!
 But I wouldn’t have known sin
 except through the law.
 For I wouldn’t have known coveting
@@ -78,12 +78,12 @@ and through it killed me.
 [12] So the law indeed is holy,
 and the commandment holy, righteous, and good.
 [13] Did then that which is good become death to me?
-May it never be!
+Of course not!
 But sin produced death in me
 through that which is good,
 so that it might be shown to be sin.
 So through the commandment sin was to become
-exceedingly sinful.
+extremely sinful.
 
 *covet* = want something that belongs to someone else
 
@@ -157,4 +157,5 @@ but with the flesh, sin’s law.
 > Scholars think differently about who is speaking as “I” here: Paul himself as a Christian, Paul before his encounter with Jesus, or human beings in general. All three readings are found in the churches.
 > Verse 22: Paul delights in God’s law. The law is good.
 > Verses 24–25: The way out doesn’t come from our own strength, but from God, through Jesus Christ.
-> For today: If you are struggling with an addiction or a compulsion, you are not alone. It is no shame to look for help. Help is available from addiction counseling services and doctors. In the US, call or text 988. In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
+> For today: If you are struggling with an addiction or a compulsion, you are not alone. It is no shame to look for help. Help is available from addiction counseling services and doctors. In the US, call or text 988. US: SAMHSA 1-800-662-4357.
+ In the UK and Ireland, call Samaritans at 116 123. Elsewhere, find help at findahelpline.com.
