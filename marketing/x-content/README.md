@@ -42,7 +42,7 @@ Dieser Ordner enthält einen Redaktionsplan mit einem fertigen Post pro Tag für
 | Kanal | Tage | Bilder | Threads | sanfte CTAs |
 |---|---|---|---|---|
 | Bibel | 1–100 | 64 | 22 | 14 |
-| Bibel | 101–200 | 73 | 20 | 15 |
+| Bibel | 101–200 | 73 | 21 | 15 |
 | Klassiker | 1–100 | 45 | 7 | 14 |
 | Klassiker | 101–200 | 56 | 8 | 15 |
 
