@@ -1,6 +1,6 @@
 import re,json,os,glob,csv,sys
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
-import bib,bible_data,classics_data
+import bib,bible_data,classics_data,bible_data2,classics_data2
 REPO=os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'../../..')); OUT=REPO+'/marketing/x-content'
 def norm_map(s):
     rep={'’':"'",'‘':"'",'“':'"','”':'"','*':''}
@@ -63,7 +63,7 @@ def write(ch,day,e,parts,sources,img,style,times,cta):
 def run():
     rows={'bible-simply-explained':[],'ancient-book-wisdom':[]}
     for ch in rows: os.makedirs(f'{OUT}/{ch}',exist_ok=True)
-    for i,e in enumerate(bible_data.D,1):
+    for i,e in enumerate(bible_data.D+bible_data2.D,1):
         cta='link in bio' in ' '.join(e['p']).lower()
         sub={};srcs=[]
         for j,(q,ref) in enumerate(e['q']):
@@ -80,7 +80,7 @@ def run():
         check_inline(i,'bible',[strip_ins(p,sub) for p in parts],BIB_C)
         write('bible-simply-explained',i,e,parts,srcs,e['img'],BSTYLE,TB,cta)
         rows['bible-simply-explained'].append([i,e['t'],e['f'],'yes' if e['img'] else 'no','yes' if cta else 'no','; '.join(s.split(' — ')[0] for s in srcs)])
-    for i,e in enumerate(classics_data.D,1):
+    for i,e in enumerate(classics_data.D+classics_data2.D,1):
         cta='link in bio' in ' '.join(e['p']).lower()
         sub={};srcs=[]
         for j,(bk,dy) in enumerate(e['k']):

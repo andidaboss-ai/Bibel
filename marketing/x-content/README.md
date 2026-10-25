@@ -1,6 +1,6 @@
-# X-Content-Strategie: 100 Tage, 2 Kanäle
+# X-Content-Strategie: 200 Tage, 2 Kanäle
 
-Dieser Ordner enthält einen Redaktionsplan mit einem fertigen Post pro Tag für 100 Tage, für zwei englische X-Kanäle:
+Dieser Ordner enthält einen Redaktionsplan mit einem fertigen Post pro Tag für 200 Tage (Tag 1–100 plus Vorrat Tag 101–200), für zwei englische X-Kanäle:
 
 | Kanal | Handle | Inhalt | Quelle |
 |---|---|---|---|
@@ -32,10 +32,24 @@ Dieser Ordner enthält einen Redaktionsplan mit einem fertigen Post pro Tag für
 - **Bibel:** In Woche 1–2 kommen die bekanntesten Verse und Geschichten, um Reichweite aufzubauen. Danach folgen Angst und Mut, Freundschaft und Worte, Identität, schwere Zeiten, Vergebung und Hoffnung. Tag 100 schließt mit Offenbarung 21,4.
 - **Klassiker:** Die Wochenthemen sind Morgen und Mindset, Kontrolle, Ruhe, Mut, Worte und Gedanken, Umgang mit anderen, Arbeit, Einfachheit, Glaube, Rückschläge, Zeit, Dankbarkeit, Wachstum und Durchhalten.
 
+## Tag 101–200: Vorrat und zweiter Tages-Slot
+- Start: **ein Post pro Tag** (Tag 1–100), dazu täglich 10–20 Minuten aktiv kommentieren.
+- Nach etwa **4–6 Wochen** (oder ab ein paar hundert Followern) geht es auf **2 Posts pro Tag**: morgens ein kurzer Post, abends die ausführliche Lektion oder ein Thread mit Bild.
+- Die Tage 101–200 sind dafür der Vorrat: Sie füllen den zweiten Slot, sodass Tag 1–100 und 101–200 parallel laufen können. Kurze Posts eignen sich eher morgens, Threads und Bild-Posts eher abends.
+- Kein Vers und kein Zitat aus Tag 1–100 wird in Tag 101–200 wiederholt (per Skript geprüft). Gleicher 7-Tage-Rhythmus, gleiche Serien.
+- Inhalte: `werkzeug/bible_data2.py` und `werkzeug/classics_data2.py`. Neue Tao-Zitate (Kapitel 24, 33, 64, 67, 81) wurden in `kq.json` ergänzt.
+
+| Kanal | Tage | Bilder | Threads | sanfte CTAs |
+|---|---|---|---|---|
+| Bibel | 1–100 | 64 | 22 | 14 |
+| Bibel | 101–200 | 73 | 20 | 15 |
+| Klassiker | 1–100 | 45 | 7 | 14 |
+| Klassiker | 101–200 | 56 | 8 | 15 |
+
 ## Links und Kaufpfad
 - **Keine Links in Posts.** X zeigt Posts mit externen Links deutlich weniger Leuten.
 - **Ein Link in der Bio ist erlaubt und sinnvoll.** Er kann auf die spätere Website führen, von dort zu Amazon und Payhip. Alternativ kann ein angehefteter Post mit Link genutzt werden, oder der Link steht in der ersten Antwort unter einem Post (für Reichweite weniger schädlich).
-- Etwa jeder 7. Post enthält einen sanften Hinweis wie „link in bio“, insgesamt 14 von 100 pro Kanal.
+- Etwa jeder 7. Post enthält einen sanften Hinweis wie „link in bio“, insgesamt 14 von 100 pro Kanal (Tag 101–200: 15 von 100).
 - Der Kaufpfad: Post → Profil → Bio-Link → Website → Buch. Deshalb muss die Bio den Nutzen klar sagen.
 
 ## Wachstumstaktiken
@@ -47,10 +61,10 @@ Dieser Ordner enthält einen Redaktionsplan mit einem fertigen Post pro Tag für
 - Die Zeiten sind in UTC angegeben, für Publikum in den USA und Großbritannien. Für Berlin gilt im Winter UTC+1.
 
 ## Aufbau der Dateien
-- `bible-simply-explained/day-001.md` … `day-100.md` und `index.csv`
-- `ancient-book-wisdom/day-001.md` … `day-100.md` und `index.csv`
+- `bible-simply-explained/day-001.md` … `day-200.md` und `index.csv`
+- `ancient-book-wisdom/day-001.md` … `day-200.md` und `index.csv`
 - Jede Tagesdatei enthält Serie, Format, beste Uhrzeit, CTA ja/nein, den **fertigen Post-Text** (bei Threads nummerierte Teile mit Zeichenzahl), den Bild-Prompt, den Alt-Text und die Quelle mit Dateipfad.
-- `werkzeug/`: Die Inhalte stehen in `bible_data.py` und `classics_data.py`. `python3 werkzeug/gen.py` baut alle Dateien neu und prüft dabei:
+- `werkzeug/`: Die Inhalte stehen in `bible_data.py`/`bible_data2.py` und `classics_data.py`/`classics_data2.py`. `python3 werkzeug/gen.py` baut alle Dateien neu und prüft dabei:
   - jeden Teil auf höchstens 280 Zeichen (Emojis zählen doppelt),
   - jedes Zitat **wortgetreu** gegen die Quelldatei. Bibelzitate werden direkt aus den Versen in `texte/plain-english` übernommen, Klassikerzitate aus `projekt/book/text/original.md`.
 
