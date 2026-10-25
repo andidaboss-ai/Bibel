@@ -1,0 +1,135 @@
+{
+  "slug": "as-a-man-thinketh-out-from-the-heart",
+  "title": "As a Man Thinketh",
+  "kdp_title": "As a Man Thinketh and Out from the Heart (Annotated)",
+  "subtitle": "James Allen’s Two Classics on the Power of Thought – with a Plain-Language Note on Every Chapter and a 30-Day Practice",
+  "title_lines": [
+    "As a Man",
+    "Thinketh",
+    "& Out from the Heart"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "James Allen",
+  "author_years": "1864–1912",
+  "first_published": 1903,
+  "pd_statement": "<em>As a Man Thinketh</em> (1903) and <em>Out from the Heart</em> (1904) by James Allen (1864–1912) are in the public domain. This edition follows the early American printings; Allen’s wording and spelling are kept, the tables in <em>Out from the Heart</em> are set as lists, and obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Two classics on the power of thought",
+    "with a plain-language note on every chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "As a Man Thinketh",
+  "part_sub": "",
+  "epigraph": {
+    "text": "Man is the keeper of his heart; the watcher of his mind; the solitary sentinel of his citadel of life.",
+    "source": "James Allen, Out from the Heart"
+  },
+  "unnumbered": [
+    "Foreword"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "Key Thought",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "watched my thoughts",
+      "one kind act"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, a note on every chapter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": "Chapter"
+  },
+  "cover": {
+    "emblem": "seed",
+    "sky": [
+      "#1f3d4a",
+      "#0f222b",
+      "#050c10"
+    ],
+    "sub": [
+      "James Allen’s two classics on the power of thought",
+      "with a note on every chapter & a 30-day practice"
+    ],
+    "small_size": 78,
+    "title_size": 210,
+    "emblem_y": 1320,
+    "kicker": "James Allen",
+    "spine_sub": "James Allen"
+  },
+  "back": {
+    "kicker": "The classic of New Thought · Annotated Edition",
+    "headline": [
+      "Mind is the master.",
+      "Thought builds character.",
+      "Change your thinking."
+    ],
+    "paras": [
+      "“A man is literally what he thinks.” With these words James Allen, a self-taught English writer, gave the modern world one of its most quoted little books. Its sequel, Out from the Heart, turns the idea into daily discipline: how to watch the mind, form good habits and grow in character.",
+      "This beautifully designed annotated edition brings both classics together in one volume and adds what today’s reader needs: an introduction to Allen’s life and ideas, a plain-language note and a small practice after every chapter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "As a Man Thinketh and Out from the Heart, complete",
+      "A plain-language note on every chapter",
+      "A small practice and a key thought for every chapter",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder, a glossary and an afterword"
+    ],
+    "quote": [
+      "“Dreams are the seedlings",
+      "of realities.”"
+    ]
+  },
+  "parts": [
+    {
+      "first": "Foreword",
+      "title": "As a Man Thinketh",
+      "sub": "1903 · seven chapters",
+      "label": "Chapter",
+      "motto": [
+        "Mind is the Master power that moulds and makes,",
+        "And Man is Mind, and evermore he takes",
+        "The tool of Thought, and, shaping what he wills,",
+        "Brings forth a thousand joys, a thousand ills:—",
+        "He thinks in secret, and it comes to pass:",
+        "Environment is but his looking-glass."
+      ]
+    },
+    {
+      "first": "The Heart and the Life",
+      "title": "Out from the Heart",
+      "sub": "1904 · seven chapters",
+      "label": "Chapter",
+      "motto": [
+        "Make pure thy heart, and thou wilt make thy life",
+        "Rich, sweet, and beautiful, unmarred by strife;",
+        "Guard well thy mind, and, noble, strong, and free,",
+        "Nothing shall harm, disturb, or conquer thee;",
+        "For all thy foes are in thy heart and mind.",
+        "There also thy salvation thou wilt find."
+      ]
+    }
+  ],
+  "rh_max": 44,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character"
+}
