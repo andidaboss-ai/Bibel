@@ -1,0 +1,96 @@
+{
+  "slug": "tao-te-ching-legge",
+  "title": "Tao Te Ching",
+  "kdp_title": "Tao Te Ching (Annotated)",
+  "subtitle": "The Classic James Legge Translation – with a Plain-Language Note on Every Chapter, a Guide to Taoist Ideas and a 30-Day Practice",
+  "title_lines": [
+    "Tao Te Ching",
+    "the book of the Way and its virtue"
+  ],
+  "title_styles": [
+    "big",
+    "small"
+  ],
+  "author": "Lao Tzu",
+  "author_years": "traditionally 6th century BC",
+  "first_published": 1891,
+  "pd_statement": "The <em>Tao Te Ching</em> (in Legge’s spelling, <em>The Tâo Teh King</em>) is traditionally attributed to Lao Tzu. This edition uses the English translation by James Legge (1815–1897), first published in 1891 in <em>The Sacred Books of the East</em>, which is in the public domain. Legge’s wording, his numbering of the verses and his words in round brackets are kept; obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Translated by James Legge",
+    "with a plain-language note on every chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "Tao Te Ching",
+  "part_sub": "Eighty-one chapters · translated by James Legge",
+  "epigraph": {
+    "text": "Sincere words are not fine; fine words are not sincere.",
+    "source": "Lao Tzu, Chapter 81"
+  },
+  "unnumbered": [],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": true,
+  "compact_openers": true,
+  "labels": {
+    "key": "Key Line",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "sat in stillness",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, guide to Taoist ideas, a note on every chapter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": ""
+  },
+  "cover": {
+    "emblem": "way",
+    "sky": [
+      "#2f4a40",
+      "#17241f",
+      "#070c0a"
+    ],
+    "sub": [
+      "The classic James Legge translation",
+      "with a note on every chapter & a 30-day practice"
+    ],
+    "small_size": 80,
+    "title_size": 230,
+    "emblem_y": 1300
+  },
+  "back": {
+    "kicker": "The ancient classic · Annotated Edition",
+    "headline": [
+      "Yield and overcome.",
+      "Be still and know.",
+      "Let things flow."
+    ],
+    "paras": [
+      "For more than two thousand years, eighty-one short chapters have taught readers how water wears down stone, why the softest things overcome the hardest, and how a person can act without forcing. The Tao Te Ching is one of the most translated books in the world.",
+      "This beautifully designed annotated edition presents the complete text in James Legge’s classic translation and adds what today’s reader needs: a clear guide to Taoist ideas, a plain-language note and a small practice for every chapter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "All 81 chapters, James Legge translation",
+      "A plain-language note on every chapter",
+      "A small practice and a key line for every chapter",
+      "A guided 30-day practice with space to write",
+      "Taoism in brief, a glossary and a Quick Finder"
+    ],
+    "quote": [
+      "“The soft overcomes the hard,",
+      "and the weak the strong.”"
+    ]
+  }
+}

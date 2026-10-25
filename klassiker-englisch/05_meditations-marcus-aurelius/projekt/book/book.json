@@ -1,0 +1,95 @@
+{
+  "slug": "meditations-marcus-aurelius",
+  "title": "Meditations",
+  "kdp_title": "Meditations (Annotated)",
+  "subtitle": "The Classic George Long Translation – with Modern Commentary, a Guide to Stoic Living and a 30-Day Practice",
+  "title_lines": [
+    "Meditations",
+    "translated by George Long"
+  ],
+  "title_styles": [
+    "big",
+    "small"
+  ],
+  "author": "Marcus Aurelius",
+  "author_years": "121–180",
+  "first_published": 1862,
+  "pd_statement": "The <em>Meditations</em> were written in Greek by the Roman emperor Marcus Aurelius (121–180). This edition uses the English translation by George Long (1801–1879), first published in 1862, which is in the public domain. Long’s wording is kept; his footnotes and his marks for uncertain passages are left out, and obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Translated by George Long",
+    "with modern commentary, a guide to Stoic living",
+    "and a 30-day practice"
+  ],
+  "part_title": "Meditations",
+  "part_sub": "The twelve books · translated by George Long",
+  "epigraph": {
+    "text": "Consider that everything is opinion, and opinion is in thy power.",
+    "source": "Marcus Aurelius, Book XII"
+  },
+  "unnumbered": [],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "labels": {
+    "key": "Key Thought",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "reflected",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, guide to Stoic ideas, reflections, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": ""
+  },
+  "cover": {
+    "emblem": "laurel",
+    "sky": [
+      "#3a3226",
+      "#1c1813",
+      "#080706"
+    ],
+    "sub": [
+      "The Stoic classic with modern commentary",
+      "& a 30-day practice for daily life"
+    ],
+    "small_size": 88,
+    "title_size": 262,
+    "emblem_y": 1250
+  },
+  "back": {
+    "kicker": "The Stoic classic · Annotated Edition",
+    "headline": [
+      "Master your mind.",
+      "Accept what is.",
+      "Do what is right."
+    ],
+    "paras": [
+      "Nearly two thousand years ago, the most powerful man in the world sat in a military camp on the Danube and wrote notes to himself – about anger and patience, duty and death, and how to stay good in a hard world. He never meant them to be read. Today they are one of the most loved books ever written.",
+      "This beautifully designed annotated edition presents the complete twelve books in George Long’s classic translation and adds what today’s reader needs to live them: a clear guide to Stoic ideas, a reflection and a practice after every book, and a guided 30-day Stoic practice."
+    ],
+    "bullets": [
+      "The complete twelve books, George Long translation",
+      "A reflection and a practice after every book",
+      "A guided 30-day Stoic practice with space to write",
+      "A Quick Finder for everyday situations",
+      "Marcus’s life, Stoicism in brief and a glossary"
+    ],
+    "quote": [
+      "“While thou livest, while it is",
+      "in thy power, be good.”"
+    ]
+  },
+  "numbered_sections": true
+}

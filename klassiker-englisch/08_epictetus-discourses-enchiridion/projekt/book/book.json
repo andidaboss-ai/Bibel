@@ -1,0 +1,120 @@
+{
+  "slug": "epictetus-discourses-enchiridion",
+  "title": "Epictetus",
+  "kdp_title": "Epictetus: Discourses and Enchiridion (Annotated)",
+  "subtitle": "The Classic George Long Translation – with a Plain-Language Note on Every Discourse and Chapter, a Guide to Stoic Ideas and a 30-Day Practice",
+  "title_lines": [
+    "Epictetus",
+    "Discourses and Enchiridion"
+  ],
+  "title_styles": [
+    "big",
+    "small"
+  ],
+  "author": "Epictetus",
+  "author_years": "c. 50–c. 135",
+  "first_published": 1877,
+  "pd_statement": "The <em>Discourses</em> of Epictetus were written down by his pupil Arrian in the second century; the <em>Encheiridion</em>, or <em>Manual</em>, is Arrian’s summary of the teaching. This edition follows <em>A Selection from the Discourses of Epictetus with the Encheiridion</em> in the English translation by George Long (1800–1879), which is in the public domain. Long’s wording and his words in round brackets are kept; his Greek terms in brackets are left out, and the key terms are explained in the glossary. Obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Translated by George Long",
+    "with a plain-language note on every discourse and chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "A Selection from the Discourses",
+  "part_sub": "Sixty-six discourses · translated by George Long",
+  "epigraph": {
+    "text": "You may fetter my leg, but my will not even Zeus himself can overpower.",
+    "source": "Epictetus, Discourses"
+  },
+  "unnumbered": [
+    "George Long’s Note on Epictetus"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": false,
+  "compact_openers": true,
+  "labels": {
+    "key": "Key Line",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "judged an impression",
+      "one choice made"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, guide to Stoic ideas, a note on every discourse and chapter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": ""
+  },
+  "cover": {
+    "emblem": "portico",
+    "sky": [
+      "#4a3a2a",
+      "#241a12",
+      "#0c0806"
+    ],
+    "sub": [
+      "The classic George Long translation",
+      "with a note on every chapter & a 30-day practice"
+    ],
+    "small_size": 76,
+    "title_size": 250,
+    "emblem_y": 1300,
+    "kicker": "The Stoic Classic",
+    "spine_sub": "Discourses · Enchiridion"
+  },
+  "back": {
+    "kicker": "The Stoic classic · Annotated Edition",
+    "headline": [
+      "Some things are yours.",
+      "Others are not.",
+      "Know the difference."
+    ],
+    "paras": [
+      "Born a slave, lamed in body, banished from Rome by an emperor, Epictetus became the most practical teacher of the Stoic school. His lessons, written down by his pupil Arrian, have guided soldiers, statesmen and ordinary readers for nearly two thousand years.",
+      "This beautifully designed annotated edition presents George Long’s classic selection from the Discourses and the complete Enchiridion, and adds what today’s reader needs: a clear guide to Stoic ideas, a plain-language note and a small practice for every discourse and chapter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "66 discourses and the complete Enchiridion",
+      "A plain-language note on every discourse and chapter",
+      "A small practice and a key line for each",
+      "A guided 30-day practice with space to write",
+      "Stoicism in brief, a glossary and a Quick Finder"
+    ],
+    "quote": [
+      "“Men are disturbed not by the things",
+      "which happen, but by the opinions",
+      "about the things.”"
+    ]
+  },
+  "parts": [
+    {
+      "first": "George Long’s Note on Epictetus",
+      "title": "A Selection from the Discourses",
+      "sub": "Sixty-six discourses · translated by George Long",
+      "label": "Discourse"
+    },
+    {
+      "first": "Chapter 1",
+      "title": "The Encheiridion, or Manual",
+      "sub": "Fifty-two chapters · translated by George Long",
+      "label": "",
+      "toc": false,
+      "rh": "The Encheiridion"
+    }
+  ],
+  "rh_max": 44,
+  "crisis_note": true,
+  "practice_kind": "a philosophical practice"
+}

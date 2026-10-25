@@ -1,0 +1,95 @@
+{
+  "slug": "thoughts-are-things",
+  "title": "Thoughts Are Things",
+  "kdp_title": "Thoughts Are Things (Annotated)",
+  "subtitle": "Thirteen Classic Essays on the Power of Thought – with Modern Commentary and a 30-Day Practice",
+  "title_lines": [
+    "Thoughts",
+    "are",
+    "Things"
+  ],
+  "title_styles": [
+    "big",
+    "small",
+    "big"
+  ],
+  "author": "Prentice Mulford",
+  "author_years": "1834–1891",
+  "first_published": 1920,
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Thirteen classic essays on the power of thought",
+    "with modern commentary and a 30-day practice"
+  ],
+  "part_title": "Thoughts Are Things",
+  "part_sub": "Essays from the White Cross Library · with notes",
+  "epigraph": {
+    "text": "Our thought is the unseen magnet, ever attracting its correspondence in things seen and tangible.",
+    "source": "Prentice Mulford"
+  },
+  "unnumbered": [
+    "Preface"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "labels": {
+    "key": "Key Thought",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "practised",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, historical notes, reflections, practices, the 30-Day Practice, the Quick Finder, the afterword",
+    "chapter": "Essay"
+  },
+  "cover": {
+    "emblem": "crystal",
+    "sky": [
+      "#1f3f72",
+      "#10213f",
+      "#060b18"
+    ],
+    "sub": [
+      "Thirteen classic essays on the power of thought",
+      "with modern commentary & a 30-day practice"
+    ],
+    "small_size": 130
+  },
+  "back": {
+    "kicker": "The New Thought pioneer · Annotated Edition",
+    "headline": [
+      "Every thought",
+      "is a seed.",
+      "Choose yours."
+    ],
+    "paras": [
+      "Gold miner, sailor, teacher, journalist – Prentice Mulford lived a dozen lives before he retired to a cabin in the New Jersey woods and wrote the essays that made him one of the first voices of New Thought. His message was bold and simple: thoughts are real forces, and the mind we cultivate shapes the life we live.",
+      "This beautifully designed annotated edition presents thirteen of his best essays and adds what today’s reader needs to put them into practice – with honest notes on what still holds up and what belongs to his time."
+    ],
+    "bullets": [
+      "Thirteen complete essays from the White Cross Library",
+      "A reflection and a practice after every essay",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder for everyday situations",
+      "Mulford’s adventurous life and the world of New Thought"
+    ],
+    "quote": [
+      "“We need to be careful",
+      "of what we think and talk.”"
+    ]
+  },
+  "pd_statement": "The essays of Prentice Mulford (1834–1891) first appeared from 1886 onwards in the series known as the White Cross Library. This selection, <em>Thoughts Are Things</em>, was published in London by G. Bell and Sons; this edition follows the printing of 1920. All of it is in the public domain. Spelling and wording are kept; obvious printing errors are corrected."
+}

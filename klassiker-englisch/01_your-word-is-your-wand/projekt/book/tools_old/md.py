@@ -1,0 +1,70 @@
+"""Tiny Markdown reader for the book texts (headings, paragraphs, quotes, lists, dividers, *italic*, **bold**)."""
+import html, re
+
+
+def smart(t):
+    """Straight quotes → typographic quotes (American style)."""
+    t = re.sub(r"(\w)'(\w)", "\\1’\\2", t)                 # don't, Shinn's
+    t = re.sub(r"""(^|[\s(\[—–*_“"-])'""", "\\1‘", t)
+    t = t.replace("'", "’")
+    t = re.sub(r'(^|[\s(\[—–*_“-])"', "\\1“", t)
+    t = t.replace('"', "”")
+    t = t.replace("...", "…").replace(" -- ", " — ")
+    return t
+
+
+def inline(t):
+    t = html.escape(smart(t), quote=False)
+    t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
+    t = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<em>\1</em>", t)
+    return t
+
+
+def blocks(md):
+    """Markdown → list of (kind, payload). kinds: h1 h2 h3 h4 p quote ul ol hr."""
+    out, para, kind = [], [], None
+
+    def flush():
+        nonlocal para, kind
+        if para:
+            out.append((kind, para if kind in ("ul", "ol") else " ".join(para)))
+        para, kind = [], None
+
+    for line in md.split("\n"):
+        s = line.rstrip()
+        if not s.strip():
+            flush(); continue
+        if s.strip() == "* * *":
+            flush(); out.append(("hr", "")); continue
+        m = re.match(r"^(#{1,4}) (.*)", s)
+        if m:
+            flush(); out.append((f"h{len(m.group(1))}", m.group(2).strip())); continue
+        if s.startswith(">"):
+            if kind != "quote": flush(); kind = "quote"
+            para.append(s.lstrip("> ").strip()); continue
+        m = re.match(r"^\s*([-*]|\d+\.)\s+(.*)", s)
+        if m and kind in (None, "ul", "ol"):
+            k = "ol" if m.group(1)[0].isdigit() else "ul"
+            if kind != k: flush(); kind = k
+            para.append(m.group(2)); continue
+        if kind in ("ul", "ol") and para:
+            para[-1] += " " + s.strip(); continue
+        if kind not in (None, "p"): flush()
+        kind = "p"; para.append(s.strip())
+    flush()
+    return out
+
+
+def sections(md, level="h2"):
+    """Split at headings of the given level → list of (title, blocks)."""
+    res, cur = [], None
+    for k, v in blocks(md):
+        if k == level:
+            cur = (v, []); res.append(cur)
+        elif cur is not None:
+            cur[1].append((k, v))
+    return res
+
+
+def slug(t):
+    return re.sub(r"[^a-z0-9]+", "-", re.sub(r"[*_]", "", t).lower()).strip("-")

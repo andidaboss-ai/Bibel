@@ -1,0 +1,99 @@
+{
+  "slug": "practice-of-the-presence-of-god",
+  "title": "The Practice of the Presence of God",
+  "kdp_title": "The Practice of the Presence of God (Annotated)",
+  "subtitle": "The Classic Conversations and Letters of Brother Lawrence – with a Plain-Language Note on Every Chapter and a 30-Day Practice",
+  "title_lines": [
+    "The Practice",
+    "of the Presence of God"
+  ],
+  "title_styles": [
+    "big",
+    "small"
+  ],
+  "author": "Brother Lawrence",
+  "author_years": "c. 1614–1691",
+  "first_published": 1692,
+  "pd_statement": "The conversations and letters of Brother Lawrence (Nicolas Herman, c. 1614–1691) were first published in French in 1692 and 1694. This edition follows the anonymous English translation published by the Fleming H. Revell Company, New York, which is in the public domain. The translator’s wording and notes are kept; obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "The conversations and letters",
+    "with a plain-language note on every chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "The Practice of the Presence of God",
+  "part_sub": "Four conversations · fifteen letters",
+  "epigraph": {
+    "text": "A little lifting up of the heart suffices.",
+    "source": "Brother Lawrence, Third Letter"
+  },
+  "unnumbered": [
+    "Preface"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "Key Line",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "paused with God",
+      "one task offered"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, a note on every conversation and letter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": ""
+  },
+  "cover": {
+    "emblem": "lamp",
+    "sky": [
+      "#3a2f4f",
+      "#1d1729",
+      "#0a0810"
+    ],
+    "sub": [
+      "The classic conversations and letters",
+      "with a note on every chapter & a 30-day practice"
+    ],
+    "small_size": 80,
+    "title_size": 200,
+    "emblem_y": 1300
+  },
+  "back": {
+    "kicker": "The Christian classic · Annotated Edition",
+    "headline": [
+      "Find God in the kitchen.",
+      "Pray without ceasing.",
+      "Live in His presence."
+    ],
+    "paras": [
+      "In a busy seventeenth-century Paris monastery kitchen, a lay brother called Lawrence discovered a way of prayer so simple that anyone can begin it today: turning the heart to God, again and again, in the middle of ordinary work.",
+      "This beautifully designed annotated edition presents the complete conversations and letters in the classic translation and adds what today’s reader needs: an introduction to Brother Lawrence and his world, a plain-language note and a small practice for every conversation and letter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "All four conversations and fifteen letters",
+      "A plain-language note on every chapter",
+      "A small practice and a key line for every chapter",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder, a glossary and an afterword"
+    ],
+    "quote": [
+      "“There is not in the world a kind of life",
+      "more sweet and delightful than that",
+      "of a continual conversation with God.”"
+    ]
+  }
+}

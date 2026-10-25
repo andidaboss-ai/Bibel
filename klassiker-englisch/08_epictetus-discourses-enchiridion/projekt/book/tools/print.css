@@ -1,0 +1,162 @@
+/* ============================================================================
+   CLASSICS BLUEPRINT – print interior, 6 × 9 in
+   Body EB Garamond 11.4/16 pt, headings Cormorant Garamond, labels Jost.
+   Running heads and folios are set afterwards as an overlay (tools/build.py),
+   so every page can follow book conventions:
+   verso = book title, recto = chapter title, none on openers and blank pages.
+   ========================================================================== */
+
+@page { size: 6in 9in; margin: 0.86in 0.66in 0.92in 0.9in; }
+@page :left  { margin-left: 0.66in; margin-right: 0.9in; }
+@page :right { margin-left: 0.9in;  margin-right: 0.66in; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body {
+  margin: 0; color: #141414;
+  font-family: EBG, serif; font-size: 11.4pt; line-height: 16pt;
+  text-align: justify; hyphens: auto; -webkit-hyphens: auto;
+  hyphenate-limit-chars: 7 3 3; text-wrap: pretty;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-kerning: normal; font-feature-settings: "kern", "liga", "onum";
+  orphans: 2; widows: 2;
+}
+p { margin: 0; text-indent: 1.15em; }
+p.first { text-indent: 0; }
+em { font-style: italic; }
+.mk { float: left; width: 0; height: 0; font-size: 1pt; line-height: 1pt; color: #fff; white-space: nowrap; text-indent: 0; }
+
+/* page control */
+.recto { break-before: right; }
+.page  { break-before: page; }
+.padpage { break-before: page; height: 1pt; }
+h2, h3, h4, .label, .afflabel, .num, .opener { break-after: avoid; }
+
+/* ---------- front matter ---------- */
+.half { text-align: center; padding-top: 2.5in; font-family: CG; font-weight: 500; font-size: 22pt; letter-spacing: .015em; }
+.half .orn { margin-top: 14pt; }
+.title { text-align: center; padding-top: .9in; }
+.title .au { font-family: Jost; font-size: 8.4pt; letter-spacing: .44em; text-transform: uppercase; color: #333; padding-left: .44em; }
+.title .t1 { font-family: CG; font-weight: 600; font-size: 44pt; line-height: .95; margin-top: .5in; }
+.title .t2 { font-family: CG; font-style: italic; font-size: 25pt; line-height: 1.15; }
+.title .ed { font-family: Jost; font-size: 8pt; letter-spacing: .38em; text-transform: uppercase; margin-top: .42in; padding-left: .38em; }
+.title .sub { font-family: CG; font-style: italic; font-size: 13.5pt; line-height: 1.3; margin-top: .12in; }
+.title .by { font-family: Jost; font-size: 7.6pt; letter-spacing: .3em; text-transform: uppercase; margin-top: 1.55in; color: #333; padding-left: .3em; }
+.copy { font-size: 8.6pt; line-height: 12.6pt; text-align: left; padding-top: 3.55in; hyphens: manual; }
+.copy p { text-indent: 0; margin-bottom: 6.5pt; }
+.epigraph { text-align: center; padding-top: 2.7in; }
+.epigraph .q { font-family: CG; font-style: italic; font-size: 17pt; line-height: 1.3; }
+.epigraph .s { font-family: Jost; font-size: 7.4pt; letter-spacing: .34em; text-transform: uppercase; margin-top: 12pt; color: #333; padding-left: .34em; }
+
+/* contents */
+.toc-h { font-family: CG; font-weight: 600; font-size: 24pt; text-align: center; margin: .55in 0 0; }
+.toc { list-style: none; margin: 14pt 0 0; padding: 0; columns: 1; }
+.toc li { display: flex; align-items: baseline; font-size: 10.6pt; line-height: 15pt; text-align: left; break-inside: avoid; }
+.toc li .t { white-space: nowrap; }
+.toc li .d { flex: 1; border-bottom: 0.45pt dotted #8a8a8a; margin: 0 5pt 3pt; }
+.toc li .n { font-variant-numeric: oldstyle-nums; }
+.toc li.part { display: block; font-family: Jost; font-size: 7pt; letter-spacing: .34em; text-transform: uppercase; color: #333; margin: 11pt 0 3pt; }
+.toc.two li:not(.part) { font-size: 10pt; line-height: 13.6pt; }
+
+/* ---------- headings & ornaments ---------- */
+.orn { text-align: center; line-height: 0; margin: 12pt 0 18pt; }
+.orn svg { width: 70pt; height: 9pt; }
+.front-h { text-align: center; padding-top: .7in; }
+.front-h h2 { font-family: CG; font-weight: 600; font-size: 23pt; line-height: 1.15; margin: 0; }
+.front-h .kick { font-family: Jost; font-size: 7pt; letter-spacing: .4em; text-transform: uppercase; color: #444; margin-bottom: 8pt; padding-left: .4em; }
+
+/* chapter opener: sunk start, numeral, title, ornament, drop cap */
+.opener { text-align: center; padding-top: 1.05in; }
+.opener .num { font-family: CG; font-weight: 400; font-size: 13pt; letter-spacing: .3em; color: #333; padding-left: .3em; }
+.opener .num span { font-family: Jost; font-size: 6.8pt; text-transform: uppercase; letter-spacing: .44em; display: block; margin-bottom: 4pt; color: #444; padding-left: .44em; }
+.opener h2 { font-family: CG; font-weight: 600; font-variant-numeric: lining-nums; font-size: 27pt; line-height: 1.08; margin: 6pt 0 0; letter-spacing: .005em; }
+.initial { float: left; font-family: CG; font-weight: 600; font-size: 39pt; line-height: 30pt; padding: 3.2pt 3.5pt 0 0; margin-bottom: -3pt; color: #111; font-variant-numeric: lining-nums; }
+.sc { font-variant-caps: all-small-caps; letter-spacing: .06em; font-feature-settings: "smcp", "c2sc", "onum"; }
+p.lead { text-indent: 0; }
+
+/* the 1906 chapter summary ("argument") from the original contents, set under the chapter title */
+p.summary { text-indent: 0; text-align: center; font-family: CG; font-style: italic; font-size: 10.6pt; line-height: 14pt; color: #333; margin: -6pt .3in 16pt; hyphens: manual; text-wrap: balance; }
+
+/* numbered sections (e.g. Marcus Aurelius) */
+p.sec { text-indent: 0; margin-top: 7pt; }
+p.sec .sn { font-family: CG; font-weight: 700; font-size: 11.6pt; color: #222; margin-right: 7pt; font-variant-numeric: lining-nums; font-feature-settings: "lnum"; letter-spacing: .02em; }
+
+/* verse passages (e.g. Legge's rhymed lines) */
+.verse { margin: 8pt 0 8pt .32in; position: relative; text-align: left; hyphens: manual; }
+.verse p { text-indent: 0; font-family: CG; font-style: italic; font-weight: 500; font-size: 12.6pt; line-height: 16pt; text-align: left; }
+.verse .sn { position: absolute; left: -.32in; top: 1pt; font-family: CG; font-weight: 700; font-style: normal; font-size: 11.6pt; color: #222; }
+.compact .opener { padding-top: .45in; }
+
+/* sub-headings inside the text */
+.chapter-text h3 { font-family: CG; font-weight: 600; font-size: 15pt; text-align: center; margin: 18pt 0 8pt; }
+.chapter-text h4 { font-family: Jost; font-weight: 500; font-size: 6.8pt; letter-spacing: .4em; text-transform: uppercase; text-align: center; margin: 14pt 0 6pt; padding-left: .4em; }
+
+/* ---------- the author's affirmations ---------- */
+.afflabel { font-family: Jost; font-weight: 500; font-size: 6.8pt; letter-spacing: .46em; text-transform: uppercase; text-align: center; margin: 20pt 0 10pt; color: #222; padding-left: .46em; }
+.afflabel::before, .afflabel::after { content: ""; display: inline-block; width: 18pt; border-top: .45pt solid #777; vertical-align: middle; margin: 0 9pt 2pt; }
+p.aff { text-indent: 0; text-align: center; font-family: CG; font-style: italic; font-weight: 500; font-size: 13.2pt; line-height: 17pt; margin: 0 .12in 2pt; hyphens: manual; text-wrap: balance; }
+.div { text-align: center; line-height: 0; margin: 7pt 0 8pt; }
+.div svg { width: 7pt; height: 7pt; }
+blockquote { margin: 11pt .22in; text-align: center; hyphens: manual; }
+blockquote p { text-indent: 0; font-family: CG; font-style: italic; font-weight: 500; font-size: 13pt; line-height: 17pt; text-wrap: balance; }
+
+/* the author's boxed maxims at the end of a chapter (printed on a framed page in 1912) */
+.maxims { margin: 22pt .1in 4pt; padding: 16pt 18pt 14pt; border: .6pt solid #333; outline: .4pt solid #888; outline-offset: 2.5pt; text-align: center; break-inside: avoid; }
+.maxims .mt { font-family: Jost; font-weight: 500; font-size: 6.8pt; letter-spacing: .42em; text-transform: uppercase; margin-bottom: 10pt; padding-left: .42em; }
+.maxims p { text-indent: 0; font-family: CG; font-style: italic; font-weight: 500; font-size: 12.2pt; line-height: 15.6pt; text-align: center; hyphens: manual; text-wrap: balance; }
+.maxims .ms { line-height: 0; margin: 6pt 0 7pt; }
+.maxims .ms svg { width: 6pt; height: 6pt; }
+.longitalic p { font-style: italic; }
+.longitalic p + p { text-indent: 1.15em; }
+.longitalic p:first-child { text-indent: 0; }
+.creed .chapter-text p.aff { font-size: 13.4pt; line-height: 17.4pt; margin-bottom: 7pt; }
+
+/* ---------- the editor's companion after each chapter ---------- */
+.companion { margin-top: 24pt; break-before: auto; }
+.companion .cap { text-align: center; margin-bottom: 12pt; }
+.companion .cap svg { width: 100%; height: 9pt; }
+.label { font-family: Jost; font-weight: 500; font-size: 6.8pt; letter-spacing: .44em; text-transform: uppercase; color: #222; text-align: center; margin: 0 0 7pt; padding-left: .44em; }
+.companion p { font-size: 10.6pt; line-height: 14.8pt; }
+.companion .label.sub { margin-top: 15pt; }
+.companion ol, .companion ul { margin: 2pt 0 0; padding: 0 0 0 1.25em; text-align: left; font-size: 10.6pt; line-height: 14.8pt; }
+.companion li { margin-bottom: 3pt; padding-left: .2em; }
+.companion li::marker { font-family: CG; font-weight: 600; }
+.key { margin: 18pt .12in 0; padding: 12pt 10pt 13pt; border-top: .6pt solid #333; border-bottom: .6pt solid #333; text-align: center; break-inside: avoid; position: relative; }
+.key .label { margin-bottom: 6pt; }
+.key blockquote { margin: 0; }
+.key blockquote p { font-size: 13.6pt; line-height: 18pt; }
+.lines { break-inside: avoid; margin-top: 18pt; }
+.lines .label { text-align: left; padding-left: 0; border: 0 !important; height: auto !important; margin-bottom: 0; }
+.lines div { border-bottom: .45pt solid #9a9a9a; height: 24pt; }
+
+/* ---------- 30-day practice ---------- */
+.day { break-before: page; text-align: center; height: 7.2in; display: flex; flex-direction: column; overflow: hidden; }
+.day .lines.fill { flex: 1 1 auto; display: flex; flex-direction: column; min-height: 72pt; margin-top: 12pt; }
+.day .lines.fill .ruled { flex: 1 1 0; border: 0; height: auto; overflow: hidden; }
+.day .lines.fill .ruled div { border-bottom: .45pt solid #9a9a9a; height: 24pt; }
+.day .dnum { font-family: Jost; font-size: 6.8pt; letter-spacing: .5em; text-transform: uppercase; color: #333; padding-top: .15in; padding-left: .5em; }
+.day .big { font-family: CG; font-weight: 400; font-variant-numeric: lining-nums; font-size: 48pt; line-height: 1; margin: 2pt 0 0; }
+.day h2 { font-family: CG; font-weight: 600; font-size: 18pt; margin: 4pt 0 0; }
+.day blockquote { margin: 4pt .1in 6pt; }
+.day .src { font-family: Jost; font-size: 6.6pt; letter-spacing: .3em; text-transform: uppercase; color: #444; margin: 0 0 13pt; padding-left: .3em; }
+.day p:not(.first) { text-indent: 0; }
+.day p { text-align: left; }
+.day blockquote p { text-align: center; font-size: 16pt; line-height: 20pt; }
+
+.check { font-family: Jost; font-size: 7.4pt; letter-spacing: .12em; margin-top: 12pt; color: #222; text-align: left; }
+
+/* finder */
+.finder ul { list-style: none; padding: 0; margin: 0; text-align: left; }
+.finder li { font-size: 10.6pt; line-height: 14.6pt; margin-bottom: 7pt; padding-left: 1em; text-indent: -1em; }
+.finder li strong { font-family: CG; font-weight: 600; font-size: 12pt; }
+
+/* overlay (running heads and folios) */
+.ov { width: 6in; height: 9in; position: relative; break-after: page; overflow: hidden; }
+.ov .rh { position: absolute; top: .48in; font-family: Jost; font-weight: 400; font-size: 6.6pt; letter-spacing: .36em; text-transform: uppercase; color: #3a3a3a; white-space: nowrap; }
+.ov .fo { position: absolute; bottom: .5in; font-family: EBG; font-size: 9.6pt; color: #222; font-variant-numeric: oldstyle-nums; width: .6in; }
+
+/* letters: salutation, closing, footnotes; divine names in small caps */
+.dn { font-variant: small-caps; font-feature-settings: "smcp", "c2sc" 0; letter-spacing: .03em; }
+p.salute { text-indent: 0; font-style: italic; margin: 0 0 6pt; }
+p.close { text-indent: 0; text-align: right; font-style: italic; margin-top: 6pt; }
+p.fnote { text-indent: 0; font-size: 9.4pt; line-height: 12.6pt; margin: 3pt 0; text-align: left; }
+.opener h2.long { font-size: 20pt; line-height: 1.14; padding: 0 .2in; text-wrap: balance; }

@@ -1,0 +1,130 @@
+{
+  "slug": "imitation-of-christ",
+  "title": "The Imitation of Christ",
+  "kdp_title": "The Imitation of Christ (Annotated)",
+  "subtitle": "The Classic William Benham Translation – with a Plain-Language Note on Every Chapter and a 30-Day Practice",
+  "title_lines": [
+    "The Imitation",
+    "of Christ"
+  ],
+  "title_styles": [
+    "big",
+    "small"
+  ],
+  "author": "Thomas à Kempis",
+  "author_years": "c. 1380–1471",
+  "first_published": 1874,
+  "pd_statement": "<em>The Imitation of Christ</em> was written in Latin in the early fifteenth century and is traditionally attributed to Thomas à Kempis (c. 1380–1471). This edition follows the English translation by William Benham (1831–1910), as printed with an introductory note in the Harvard Classics (1909); both are in the public domain. Benham’s wording, his numbering of the paragraphs and his Scripture references are kept; obvious printing errors are corrected.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Translated by William Benham",
+    "with a plain-language note on every chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "The First Book",
+  "part_sub": "",
+  "epigraph": {
+    "text": "Let it be our most earnest study, therefore, to dwell upon the life of Jesus Christ.",
+    "source": "Thomas à Kempis, Book One, Chapter 1"
+  },
+  "unnumbered": [
+    "Introductory Note",
+    "A Devout Exhortation to the Holy Communion"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": true,
+  "compact_openers": true,
+  "labels": {
+    "key": "Key Line",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "prayed",
+      "one act of love"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, a note on every chapter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": "Chapter"
+  },
+  "cover": {
+    "emblem": "cross",
+    "sky": [
+      "#4a1f24",
+      "#2a1013",
+      "#0e0506"
+    ],
+    "sub": [
+      "The classic William Benham translation",
+      "with a note on every chapter & a 30-day practice"
+    ],
+    "small_size": 96,
+    "title_size": 230,
+    "emblem_y": 1300,
+    "kicker": "Thomas à Kempis",
+    "spine_sub": "Thomas à Kempis"
+  },
+  "back": {
+    "kicker": "The Christian classic · Annotated Edition",
+    "headline": [
+      "Seek the inner life.",
+      "Follow Christ.",
+      "Find true peace."
+    ],
+    "paras": [
+      "After the Bible, no Christian book has been read more widely. Written in a quiet Dutch monastery almost six hundred years ago, The Imitation of Christ still speaks with startling directness about humility, inner peace, temptation, friendship with Christ and the love that makes every burden light.",
+      "This beautifully designed annotated edition presents the complete four books in William Benham’s classic translation and adds what today’s reader needs: an introduction to Thomas à Kempis and his world, a plain-language note and a small practice for every chapter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "All four books and 114 chapters, complete",
+      "A plain-language note on every chapter",
+      "A small practice and a key line for every chapter",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder, a glossary and an afterword"
+    ],
+    "quote": [
+      "“Love is a great thing, a good above all others,",
+      "which alone maketh every heavy burden light.”"
+    ]
+  },
+  "parts": [
+    {
+      "first": "Introductory Note",
+      "title": "The First Book",
+      "sub": "Admonitions Profitable for the Spiritual Life",
+      "label": "Chapter"
+    },
+    {
+      "first": "Of the inward life",
+      "title": "The Second Book",
+      "sub": "Admonitions Concerning the Inner Life",
+      "label": "Chapter"
+    },
+    {
+      "first": "Of the inward voice of Christ to the faithful soul",
+      "title": "The Third Book",
+      "sub": "On Inward Consolation",
+      "label": "Chapter"
+    },
+    {
+      "first": "A Devout Exhortation to the Holy Communion",
+      "title": "The Fourth Book",
+      "sub": "Of the Sacrament of the Altar",
+      "label": "Chapter"
+    }
+  ],
+  "rh_max": 44,
+  "crisis_note": false,
+  "practice_kind": "a spiritual practice"
+}

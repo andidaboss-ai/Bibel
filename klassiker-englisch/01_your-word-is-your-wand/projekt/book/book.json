@@ -1,0 +1,83 @@
+{
+  "slug": "your-word-is-your-wand",
+  "title": "Your Word Is Your Wand",
+  "kdp_title": "Your Word Is Your Wand (Annotated)",
+  "subtitle": "The Classic Book of Affirmations with Modern Commentary and a 30-Day Practice",
+  "title_lines": [
+    "Your Word",
+    "is your",
+    "Wand"
+  ],
+  "author": "Florence Scovel Shinn",
+  "author_years": "1871–1940",
+  "first_published": 1928,
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "The classic book of affirmations",
+    "with modern commentary and a 30-day practice"
+  ],
+  "part_title": "Your Word Is Your Wand",
+  "part_sub": "The text of 1928 · with notes",
+  "epigraph": {
+    "text": "Death and life are in the power of the tongue.",
+    "source": "Proverbs 18:21"
+  },
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "labels": {
+    "key": "Key Affirmation",
+    "lines": "My own words",
+    "day_lines": "Today I speak",
+    "checks": [
+      "spoken aloud",
+      "written down",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "Affirmations",
+    "new_material": "Introduction, biography, historical notes, reflections, practices, the 30-Day Practice, the Affirmation Finder, the afterword"
+  },
+  "cover": {
+    "emblem": "wand",
+    "sky": [
+      "#3a2a6e",
+      "#1d1846",
+      "#0a0b1f"
+    ],
+    "sub": [
+      "The classic book of affirmations",
+      "with modern commentary & a 30-day practice"
+    ]
+  },
+  "back": {
+    "kicker": "The 1928 classic · Annotated Edition",
+    "headline": [
+      "Speak it.",
+      "Believe it.",
+      "Watch it unfold."
+    ],
+    "paras": [
+      "In 1928, the New York artist and teacher Florence Scovel Shinn gathered the words that had changed her students’ lives: short, joyful, fearless affirmations for success, love, money, forgiveness, guidance and health.",
+      "Almost a century later, her little book still speaks. This annotated edition keeps every word of the original and adds what today’s reader needs to put it into practice."
+    ],
+    "bullets": [
+      "The complete original text of 1928",
+      "A reflection and a practice after every chapter",
+      "A guided 30-day affirmation practice with journal space",
+      "An Affirmation Finder for everyday situations",
+      "Her life story and the world of New Thought"
+    ],
+    "quote": [
+      "“Man’s word is his wand",
+      "filled with magic and power!”"
+    ]
+  }
+}

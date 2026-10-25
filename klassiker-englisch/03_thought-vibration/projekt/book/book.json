@@ -1,0 +1,97 @@
+{
+  "slug": "thought-vibration",
+  "title": "Thought Vibration",
+  "kdp_title": "Thought Vibration (Annotated)",
+  "subtitle": "or the Law of Attraction in the Thought World – The 1906 Classic with Modern Commentary and a 30-Day Practice",
+  "title_lines": [
+    "Thought",
+    "Vibration",
+    "or the Law of Attraction",
+    "in the Thought World"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small",
+    "small"
+  ],
+  "author": "William Walker Atkinson",
+  "author_years": "1862–1932",
+  "first_published": 1906,
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "The 1906 classic of the Law of Attraction",
+    "with modern commentary and a 30-day practice"
+  ],
+  "part_title": "Thought Vibration",
+  "part_sub": "The text of 1906 · with notes",
+  "epigraph": {
+    "text": "We generally see that for which we look.",
+    "source": "William Walker Atkinson, 1906"
+  },
+  "unnumbered": [
+    "Preface",
+    "Foreword",
+    "My Working Creed"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "labels": {
+    "key": "Key Thought",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "practised",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, historical notes, reflections, practices, the 30-Day Practice, the Quick Finder, the afterword"
+  },
+  "cover": {
+    "emblem": "vibration",
+    "sky": [
+      "#5c2340",
+      "#301226",
+      "#12060f"
+    ],
+    "sub": [
+      "The 1906 classic of the Law of Attraction",
+      "with modern commentary & a 30-day practice"
+    ],
+    "small_size": 92
+  },
+  "back": {
+    "kicker": "The 1906 classic · Annotated Edition",
+    "headline": [
+      "Like attracts like.",
+      "Thought is a force.",
+      "Learn to use it."
+    ],
+    "paras": [
+      "More than a century before the Law of Attraction became a worldwide phenomenon, William Walker Atkinson – editor of the magazine New Thought in Chicago – explained it in plain, lively lessons: how thought works like a wave, why fear and worry attract more of the same, and how will, desire and calm attention can change a life.",
+      "This beautifully designed annotated edition keeps the complete 1906 text and adds what today’s reader needs to put it into practice, with honest notes on what the science of 1906 got right – and what it did not."
+    ],
+    "bullets": [
+      "The complete original text of 1906",
+      "A reflection and a practice after every chapter",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder for everyday situations",
+      "Atkinson’s life and the world of New Thought"
+    ],
+    "quote": [
+      "“Get into action and convert",
+      "yourself into a living sun.”"
+    ]
+  }
+}
