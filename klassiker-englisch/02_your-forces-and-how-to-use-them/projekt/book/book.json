@@ -3,37 +3,73 @@
   "title": "Your Forces and How to Use Them",
   "kdp_title": "Your Forces and How to Use Them (Annotated)",
   "subtitle": "The 1912 Classic on Mind Power, Will and Character – with the Original Optimist Creed, Modern Commentary and a 30-Day Practice",
-  "title_lines": ["Your Forces", "and how to", "Use Them"],
+  "title_lines": [
+    "Your Forces",
+    "and how to",
+    "Use Them"
+  ],
   "author": "Christian D. Larson",
   "author_years": "1874–1954",
   "first_published": 1912,
   "editor": "Andreas Rupp",
   "edition": "Annotated Edition",
-  "title_page_sub": ["The classic on mind power, will and character", "with the original Optimist Creed, modern commentary", "and a 30-day practice"],
+  "title_page_sub": [
+    "The classic on mind power, will and character",
+    "with the original Optimist Creed, modern commentary",
+    "and a 30-day practice"
+  ],
   "part_title": "Your Forces and How to Use Them",
   "part_sub": "The text of 1912 · with notes",
-  "epigraph": {"text": "There are a million energies in man. What may we not become when we learn to use them all.", "source": "Quoted by Christian D. Larson, 1912"},
-  "unnumbered": ["Foreword", "Promise Yourself"],
+  "epigraph": {
+    "text": "There are a million energies in man. What may we not become when we learn to use them all.",
+    "source": "Quoted by Christian D. Larson, 1912"
+  },
+  "unnumbered": [
+    "Foreword",
+    "Promise Yourself"
+  ],
   "creed": "Promise Yourself",
-  "trim": [6, 9],
+  "trim": [
+    6,
+    9
+  ],
   "health_note": true,
   "labels": {
     "key": "Key Thought",
     "lines": "My own notes",
     "day_lines": "Today I will",
-    "checks": ["read", "reflected", "one step taken"],
-    "toc_parts": ["Before You Begin", "Putting It into Practice", "After the Book"],
+    "checks": [
+      "read",
+      "reflected",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
     "practice_word": "The practices in this book",
     "new_material": "Introduction, biography, historical notes, reflections, practices, the 30-Day Practice, the Quick Finder, the afterword"
   },
   "cover": {
     "emblem": "radiance",
-    "sky": ["#14524b", "#0b2d30", "#04121a"],
-    "sub": ["The 1912 classic on mind power, will & character", "with the original Optimist Creed & a 30-day practice"]
+    "sky": [
+      "#155a3c",
+      "#0b3122",
+      "#04130d"
+    ],
+    "sub": [
+      "The 1912 classic on mind power, will & character",
+      "with the original Optimist Creed & a 30-day practice"
+    ]
   },
   "back": {
     "kicker": "The 1912 classic · Annotated Edition",
-    "headline": ["Know your powers.", "Train your mind.", "Become more."],
+    "headline": [
+      "Know your powers.",
+      "Train your mind.",
+      "Become more."
+    ],
     "paras": [
       "Long before “mindset” was a buzzword, Christian D. Larson set out to map every force a person has – the conscious mind, the subconscious, will, imagination, character and faith – and to show, step by step, how to use them in daily life.",
       "This beautifully designed annotated edition keeps the complete 1912 text, including the first appearance of Larson’s famous “Promise Yourself” – the creed millions know as The Optimist Creed – and adds what today’s reader needs to put it into practice."
@@ -45,6 +81,9 @@
       "A guided 30-day practice with space to write",
       "Larson’s life and the world of New Thought"
     ],
-    "quote": ["“Promise yourself to be so strong", "that nothing can disturb your peace of mind.”"]
+    "quote": [
+      "“Promise yourself to be so strong",
+      "that nothing can disturb your peace of mind.”"
+    ]
   }
 }
