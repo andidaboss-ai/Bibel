@@ -231,7 +231,7 @@ def toc_entries(c):
         if new:
             e.append(("part", new["title"]))
             if new.get("toc") is False:
-                e.append(("i", new["title"]))
+                e.append(("i", new["title"], "part-" + slug(new["title"])))
         if part.get("toc") is not False:
             e.append(("i", t, key))
     e += [("part", P[1])] + [("i", t) for t, _ in c["days"]] + [("i", t) for t, _ in c["finder"]]
@@ -271,7 +271,7 @@ def print_html(c, pages):
     for i, ((t, b, nb), (new, lab, num, part)) in enumerate(zip(c["chapters"], part_plan(c["chapters"]))):
         s = chapter_keys(c)[i]
         if new:
-            h.append(f'<div class="half recto" style="padding-top:2.9in">{mk("F", "part")}{mk("S", slug(new["title"]))}{html.escape(new["title"])}{ORN}'
+            h.append(f'<div class="half recto" style="padding-top:2.9in">{mk("F", "part")}{mk("S", "part-" + slug(new["title"]))}{html.escape(new["title"])}{ORN}'
                      f'<div style="font-family:Jost;font-size:7pt;letter-spacing:.42em;text-transform:uppercase;padding-left:.42em">'
                      f'{html.escape(new.get("sub", ""))}</div>'
                      + (f'<div class="motto">' + "".join(f"<p>{inline(x)}</p>" for x in new["motto"]) + '</div>' if new.get("motto") else "")
@@ -411,7 +411,7 @@ def build_pdf(c):
     for (t, _, _), (new, _, _, part), key in zip(c["chapters"], part_plan(c["chapters"]), chapter_keys(c)):
         titles[key] = part.get("rh") or (t if len(t) <= B.get("rh_max", 60) and t not in B.get("rh_part_for", []) else part["title"])
         if new:
-            titles[slug(new["title"])] = new["title"]
+            titles["part-" + slug(new["title"])] = new["title"]
     titles.update({slug(t): t for t, _ in c["front"] + c["days"] + c["finder"] + c["back"]})
     pages, pad = {}, set()
     for _ in range(12):

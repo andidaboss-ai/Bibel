@@ -1,0 +1,173 @@
+{
+  "slug": "wattles-gesammelte-werke",
+  "title": "Gesammelte Werke",
+  "kdp_title": "Wallace D. Wattles – Gesammelte Werke",
+  "subtitle": "Die Wissenschaft des Reichwerdens, des Gesundseins und des Großseins und sieben weitere Werke – vollständige deutsche Ausgabe",
+  "title_lines": [
+    "Wallace D.",
+    "Wattles",
+    "Gesammelte Werke"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "Wallace D. Wattles",
+  "author_years": "1860–1911",
+  "first_published": 1910,
+  "pd_statement": "Die Werke von Wallace D. Wattles (1860–1911) erschienen zwischen 1905 und 1910 und sind gemeinfrei.",
+  "editor": "Andreas Rupp",
+  "edition": "Vollständige deutsche Ausgabe",
+  "title_page_sub": [
+    "Zehn Werke in einem Band",
+    "vollständig aus dem Amerikanischen übertragen"
+  ],
+  "part_title": "",
+  "part_sub": "",
+  "epigraph": {
+    "text": "Das Allerbeste, was Sie für die ganze Welt tun können, ist, das Beste aus sich selbst zu machen.",
+    "source": "Wallace D. Wattles, Die Wissenschaft des Reichwerdens"
+  },
+  "unnumbered": [
+    "Vorwort",
+    "Vorwort der Herausgeber (1905)"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": false,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "",
+    "lines": "",
+    "day_lines": "",
+    "checks": [],
+    "toc_parts": [
+      "Zu Beginn",
+      "",
+      ""
+    ],
+    "practice_word": "",
+    "new_material": "",
+    "chapter": "Kapitel"
+  },
+  "cover": {
+    "emblem": "ascent",
+    "sky": [
+      "#24304f",
+      "#121a2e",
+      "#05070e"
+    ],
+    "sub": [
+      "Die Wissenschaft des Reichwerdens, des Gesundseins",
+      "und des Großseins – und sieben weitere Werke"
+    ],
+    "small_size": 96,
+    "title_size": 215,
+    "emblem_y": 1380,
+    "kicker": "Zehn Werke in einem Band",
+    "spine_sub": "Wallace D. Wattles"
+  },
+  "back": {
+    "kicker": "Der Klassiker des New Thought",
+    "headline": [
+      "Auf die bestimmte Weise denken.",
+      "Auf die bestimmte Weise handeln.",
+      "Werden, was Sie sein können."
+    ],
+    "paras": [
+      "1910 veröffentlichte Wallace D. Wattles ein schmales Buch, das seither nie vergriffen war: Die Wissenschaft des Reichwerdens – das Werk, das später den Weltbestseller The Secret inspirierte. Im selben Jahr erschienen Die Wissenschaft des Gesundseins und Die Wissenschaft des Großseins.",
+      "Diese sorgfältig gestaltete Ausgabe vereint zehn seiner Werke in einem Band – jedes vollständig und Satz für Satz aus den amerikanischen Originalausgaben übertragen: von den drei „Wissenschafts“-Büchern über seine Schriften zu Erfolg, Gesundheit und den Lehren Jesu bis zu seinem einzigen Roman, Höllenfeuer-Harrison."
+    ],
+    "bullets": [
+      "Zehn Werke vollständig in einem Band",
+      "Neu und vollständig aus dem Original übertragen",
+      "Die drei „Wissenschafts“-Bücher und sieben weitere Werke",
+      "Mit Vorwort und Hinweisen zu den Quellen",
+      "Elegant gesetzt, angenehm zu lesen"
+    ],
+    "quote": [
+      "„Sie sollen erschaffen,",
+      "nicht um das konkurrieren,",
+      "was bereits erschaffen ist.“"
+    ],
+    "headline_size": 0.3
+  },
+  "parts": [
+    {
+      "first_index": 0,
+      "title": "Die Wissenschaft des Reichwerdens",
+      "sub": "1910 · siebzehn Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 18,
+      "title": "Die Wissenschaft des Gesundseins",
+      "sub": "1910 · siebzehn Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 36,
+      "title": "Die Wissenschaft des Großseins",
+      "sub": "1910",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 58,
+      "title": "Wie man bekommt, was man will",
+      "sub": "fünf Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 63,
+      "title": "Den Mann formen, der es kann",
+      "sub": "1909 · neun Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 72,
+      "title": "Die neue Wissenschaft des Lebens und Heilens",
+      "sub": "neun Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 81,
+      "title": "Was ist Wahrheit?",
+      "sub": "The Nautilus · 1909 · sieben Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 88,
+      "title": "Ein neuer Christus",
+      "sub": "acht Kapitel",
+      "label": "Kapitel"
+    },
+    {
+      "first_index": 96,
+      "title": "Jesus: Der Mensch und sein Werk",
+      "sub": "ein Vortrag · 1905",
+      "label": ""
+    },
+    {
+      "first_index": 98,
+      "title": "Höllenfeuer-Harrison",
+      "sub": "ein Roman · 1910",
+      "label": ""
+    }
+  ],
+  "rh_max": 46,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character",
+  "lang": "de",
+  "byline": "Herausgegeben von Andreas Rupp",
+  "contents_label": "Inhalt",
+  "rh_part_for": [
+    "Vorwort",
+    "Vorwort der Herausgeber (1905)"
+  ],
+  "copyright_html": "<p><em>Wallace D. Wattles – Gesammelte Werke</em><br>Vollständige deutsche Ausgabe</p><p>Die Werke von Wallace D. Wattles (1860–1911) erschienen zwischen 1905 und 1910 und sind gemeinfrei. Übersetzung, Vorwort, Satz und Gestaltung dieser Ausgabe © 2026 Andreas Rupp. Alle Rechte vorbehalten.</p><p><strong>Bitte beachten Sie:</strong> Dieses Buch gibt die Lehren eines Autors aus dem frühen 20. Jahrhundert wieder. Seine Ansichten über Ernährung, Fasten, Krankheit und Heilung entsprechen nicht dem heutigen Stand der Medizin und sind keine medizinische Empfehlung. Fasten oder Mahlzeiten auszulassen kann gefährlich sein, etwa bei Diabetes, in der Schwangerschaft, bei Essstörungen oder unter Medikamenten. Bei Beschwerden wenden Sie sich bitte an eine Ärztin oder einen Arzt. Das Buch verspricht weder Reichtum noch Heilung.</p><p>Herausgegeben von Andreas Rupp</p>"
+}

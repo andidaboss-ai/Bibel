@@ -18,7 +18,7 @@ In the personal application of the Science of Being Well, as in that of the Scie
 
 The perfectly natural performance of function constitutes health; and the perfectly natural performance of function results from the natural action of the Principle of Life. There is a Principle of Life in the universe; it is the One Living Substance from which all things are made. This Living Substance permeates, penetrates, and fills the interspaces of the universe; it is in and through all things, like a very refined and diffusible ether. All life comes from it; its life is all the life there is.
 
-Man is a form of this Living Substance, and has within him a Principle of Health. (The word Principle is used as meaning source.) The Principle of Health in man, when in full constructive activity, causes all the voluntary functions of his life to be perfectly performed.
+Man is a form of this Living Substance, and has within him a Principle of Health. (The word Principle is used as meaning source.) The Principle of Health in man, when in full constructive activity, causes all the involuntary functions of his life to be perfectly performed.
 
 It is the Principle of Health in man which really works all healing, no matter what "system" or "remedy" is employed; and this Principle of Health is brought into Constructive Activity by thinking in a Certain Way.
 
@@ -510,7 +510,7 @@ Never, at any time, allow yourself to think that you are giving way to weakness;
 
 What shall I do about that great bugaboo which scares millions of people to death every year—Constipation?
 
-Do nothing. Read Horace Fletcher on "The A B Z or Our Own Nutrition," and get the full force of his explanation of the fact that when you live on this scientific plan you need not, and indeed cannot, have an evacuation of the bowels every day; and that an operation in from once in three days to once in two weeks is quite sufficient for perfect health. The gross feeders who eat from three to ten times as much as can be utilized in their systems have a great amount of waste to eliminate; but if you live in the manner we have described it will be otherwise with you.
+Do nothing. Read Horace Fletcher on "The A B Z of Our Own Nutrition," and get the full force of his explanation of the fact that when you live on this scientific plan you need not, and indeed cannot, have an evacuation of the bowels every day; and that an operation in from once in three days to once in two weeks is quite sufficient for perfect health. The gross feeders who eat from three to ten times as much as can be utilized in their systems have a great amount of waste to eliminate; but if you live in the manner we have described it will be otherwise with you.
 
 If you eat only when you have an EARNED HUNGER, and chew every mouthful to a liquid, and if you stop eating the instant you BEGIN to be conscious of an abatement of your hunger, you will so perfectly prepare your food for digestion and assimilation that practically all of it will be taken up by the absorbents; and there will be little—almost nothing—remaining in the bowels to be excreted. If you are able to entirely banish from your memory all that you have read in "doctor books" and patent medicine advertisements concerning constipation, you need give the matter no further thought at all. The Principle of Health will take care of it.
 
