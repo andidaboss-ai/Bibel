@@ -7,12 +7,12 @@
 | Kindle eBook | `wattles-gesammelte-werke.epub` | `wattles-gesammelte-werke-cover-10000px.jpg` (6250 × 10000 px, KDP-Maximum) |
 | Taschenbuch | `wattles-gesammelte-werke-interior.pdf` | `wattles-gesammelte-werke-cover-paperback.pdf` |
 
-**Kein Hardcover in diesem Format:** Das Buch hat 571 Seiten, KDP erlaubt beim Hardcover höchstens 550 Seiten.
+**Kein Hardcover in diesem Format:** Das Buch hat 576 Seiten, KDP erlaubt beim Hardcover höchstens 550 Seiten.
 
-**Innenteil:** 6 × 9 Zoll, 571 Seiten, ohne Beschnitt. Alle Schriften sind eingebettet.
+**Innenteil:** 6 × 9 Zoll, 576 Seiten, ohne Beschnitt. Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 13,536 × 9,25 Zoll, Rücken 1,286 Zoll
+- 13,547 × 9,25 Zoll, Rücken 1,297 Zoll
 - 0,125 Zoll Beschnitt, 600 dpi
 
 **Prüfungen:**
@@ -28,9 +28,9 @@ Wenn die alte deutsche Ausgabe schon bei KDP liegt, haben Sie zwei Möglichkeite
 ## Einstellungen bei KDP
 - **Sprache:** Deutsch. Hauptmarkt ist amazon.de.
 - **Taschenbuch:** Schwarzweiß-Innenteil, weißes Papier, Trim **6 × 9 in** (15,24 × 22,86 cm), **kein Beschnitt**, Cover **matt**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (571 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (576 Seiten, weißes Papier).
 - **Druckvorschau:** jede Seite durchsehen.
-- **Preis:** Der Druck kostet bei 571 Seiten etwa 7,70 €. Sinnvoll ist ein Listenpreis von 19,99–22,99 €. Für das eBook passen 4,99–7,99 € (70 % Tantieme).
+- **Preis:** Der Druck kostet bei 576 Seiten etwa 7,70 €. Sinnvoll ist ein Listenpreis von 19,99–22,99 €. Für das eBook passen 4,99–7,99 € (70 % Tantieme).
 
 ## Angaben
 - **Titel:** Wallace D. Wattles – Gesammelte Werke

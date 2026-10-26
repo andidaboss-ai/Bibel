@@ -7,14 +7,14 @@
 | Kindle eBook | `wattles-collected-works.epub` | `wattles-collected-works-cover-10000px.jpg` (6250 × 10000 px, KDP-Maximum) |
 | Taschenbuch | `wattles-collected-works-interior.pdf` | `wattles-collected-works-cover-paperback.pdf` |
 
-**Kein Hardcover in diesem Format:** Das Buch hat 674 Seiten. KDP erlaubt beim Hardcover höchstens 550 Seiten. Eine Hardcover-Ausgabe im größeren Format 7 × 10 Zoll kann später nachgereicht werden.
+**Kein Hardcover in diesem Format:** Das Buch hat 679 Seiten. KDP erlaubt beim Hardcover höchstens 550 Seiten. Eine Hardcover-Ausgabe im größeren Format 7 × 10 Zoll kann später nachgereicht werden.
 
 **Innenteil:**
-- 6 × 9 Zoll, 674 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 679 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 13,768 × 9,25 Zoll, Rücken 1,518 Zoll.
+- 13,779 × 9,25 Zoll, Rücken 1,529 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
@@ -25,9 +25,9 @@
 ## Einstellungen bei KDP
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (674 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (679 Seiten, weißes Papier).
 - **Print Previewer:** jede Seite durchsehen.
-- **Preis:** Der Druck kostet bei 674 Seiten etwa 9 US-Dollar. Ein Listenpreis von etwa 19,99–24,99 US-Dollar ist sinnvoll.
+- **Preis:** Der Druck kostet bei 679 Seiten etwa 9 US-Dollar. Ein Listenpreis von etwa 19,99–24,99 US-Dollar ist sinnvoll.
 
 ## Angaben (auf Englisch eintragen)
 - **Title:** The Collected Works of Wallace D. Wattles (Annotated)
