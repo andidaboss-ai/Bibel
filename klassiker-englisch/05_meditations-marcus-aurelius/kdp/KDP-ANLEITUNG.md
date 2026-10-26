@@ -9,16 +9,16 @@
 | Hardcover | `meditations-marcus-aurelius-interior.pdf` (dieselbe Datei) | `meditations-marcus-aurelius-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 218 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 217 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,741 × 9,25 Zoll, Rücken 0,491 Zoll.
+- 12,739 × 9,25 Zoll, Rücken 0,489 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,256 × 10,418 Zoll, Rücken 0,680 Zoll.
+- 14,254 × 10,418 Zoll, Rücken 0,678 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -29,7 +29,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (218 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (217 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)

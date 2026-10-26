@@ -9,16 +9,16 @@
 | Hardcover | `tao-te-ching-legge-interior.pdf` (dieselbe Datei) | `tao-te-ching-legge-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 228 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 225 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,763 × 9,25 Zoll, Rücken 0,513 Zoll.
+- 12,757 × 9,25 Zoll, Rücken 0,507 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,278 × 10,418 Zoll, Rücken 0,702 Zoll.
+- 14,272 × 10,418 Zoll, Rücken 0,696 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -29,7 +29,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (228 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (225 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)

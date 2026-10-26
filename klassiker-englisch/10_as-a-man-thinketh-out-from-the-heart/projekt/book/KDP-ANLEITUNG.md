@@ -9,16 +9,16 @@
 | Hardcover | `as-a-man-thinketh-out-from-the-heart-interior.pdf` (dieselbe Datei) | `as-a-man-thinketh-out-from-the-heart-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 132 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 133 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,547 × 9,25 Zoll, Rücken 0,297 Zoll.
+- 12,550 × 9,25 Zoll, Rücken 0,300 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,062 × 10,418 Zoll, Rücken 0,486 Zoll.
+- 14,065 × 10,418 Zoll, Rücken 0,489 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -29,7 +29,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (132 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (133 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)

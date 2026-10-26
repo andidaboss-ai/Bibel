@@ -9,16 +9,16 @@
 | Hardcover | `your-word-is-your-wand-interior.pdf` (dieselbe Datei) | `your-word-is-your-wand-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 157 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 155 Seiten, ohne Beschnitt.
 - Alle Schriften eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,604 × 9,25 Zoll, Rücken 0,354 Zoll.
+- 12,599 × 9,25 Zoll, Rücken 0,349 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,119 × 10,418 Zoll, Rücken 0,543 Zoll.
+- 14,114 × 10,418 Zoll, Rücken 0,538 Zoll.
 - Einschlag 0,591/0,709 Zoll.
 - 600 dpi.
 
@@ -30,7 +30,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Vor dem Hochladen:** Vergleiche die Umschlagmaße mit dem KDP Cover Calculator (157 Seiten, weißes Papier).
+- **Vor dem Hochladen:** Vergleiche die Umschlagmaße mit dem KDP Cover Calculator (155 Seiten, weißes Papier).
 - **Vor der Freigabe:** Sieh dir das Buch im Print Previewer an. Bestelle am besten ein Probeexemplar.
 
 ## Angaben (auf Englisch eintragen)

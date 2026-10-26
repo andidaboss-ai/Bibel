@@ -353,16 +353,23 @@ def build_pdf(c):
         open(src, "w", encoding="utf-8").write(place_rectos(print_html(c, pages), pad))
         pdf(src, raw)
         pm = page_map(raw)
-        new, wrong = {}, set()
+        new, rectos = {}, []
         for i, (marks, _) in enumerate(pm):
             for k, s in marks:
                 if k == "S" and s not in new:
                     new[s] = i + 1
-                if k == "R" and (i + 1) % 2 == 0:
-                    wrong.add(int(s[1:]))
+                if k == "R":
+                    rectos.append((int(s[1:]), i + 1))
+        # toggling a pad page shifts every later page by one, so decide in order, carrying the shift parity
+        wrong, shift = set(), 0
+        for n, p in sorted(rectos):
+            if (p + shift) % 2 == 0:
+                wrong.add(n); shift ^= 1
         if new == pages and not wrong:
             break
         pages, pad = new, pad ^ wrong
+    else:
+        print("WARNING: page layout did not converge")
     heads = running_heads(pm, titles)
     ov_src, ov_pdf = os.path.join(OUT, "_ov.html"), os.path.join(OUT, "_ov.pdf")
     open(ov_src, "w", encoding="utf-8").write(overlay_html(heads))

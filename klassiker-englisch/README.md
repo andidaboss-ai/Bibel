@@ -17,16 +17,16 @@ Each folder:
 
 | No. | Book | Author / translator | Pages | Series |
 |---|---|---|---|---|
-| 01 | Your Word Is Your Wand (Annotated) | Florence Scovel Shinn (1928) | 157 | Annotated New Thought Classics 1 |
-| 02 | Your Forces and How to Use Them (Annotated) | Christian D. Larson (1912) | 302 | Annotated New Thought Classics 2 |
+| 01 | Your Word Is Your Wand (Annotated) | Florence Scovel Shinn (1928) | 155 | Annotated New Thought Classics 1 |
+| 02 | Your Forces and How to Use Them (Annotated) | Christian D. Larson (1912) | 303 | Annotated New Thought Classics 2 |
 | 03 | Thought Vibration (Annotated) | William Walker Atkinson (1906) | 169 | Annotated New Thought Classics 3 |
-| 04 | Thoughts Are Things (Annotated) | Prentice Mulford | 221 | Annotated New Thought Classics 4 |
-| 05 | Meditations (Annotated) | Marcus Aurelius, tr. George Long (1862) | 218 | Annotated Ancient Wisdom 1 |
-| 06 | Tao Te Ching (Annotated) | Lao Tzu, tr. James Legge (1891) | 228 | Annotated Ancient Wisdom 2 |
-| 07 | The Practice of the Presence of God (Annotated) | Brother Lawrence, Revell translation | 127 | Annotated Christian Classics 1 |
-| 08 | Epictetus: Discourses and Enchiridion (Annotated) | Epictetus, tr. George Long (1877) | 263 | Annotated Ancient Wisdom 3 |
+| 04 | Thoughts Are Things (Annotated) | Prentice Mulford | 219 | Annotated New Thought Classics 4 |
+| 05 | Meditations (Annotated) | Marcus Aurelius, tr. George Long (1862) | 217 | Annotated Ancient Wisdom 1 |
+| 06 | Tao Te Ching (Annotated) | Lao Tzu, tr. James Legge (1891) | 225 | Annotated Ancient Wisdom 2 |
+| 07 | The Practice of the Presence of God (Annotated) | Brother Lawrence, Revell translation | 126 | Annotated Christian Classics 1 |
+| 08 | Epictetus: Discourses and Enchiridion (Annotated) | Epictetus, tr. George Long (1877) | 261 | Annotated Ancient Wisdom 3 |
 | 09 | The Imitation of Christ (Annotated) | Thomas à Kempis, tr. William Benham | 295 | Annotated Christian Classics 2 |
-| 10 | As a Man Thinketh and Out from the Heart (Annotated) | James Allen (1903, 1904) | 132 | Annotated New Thought Classics 5 |
+| 10 | As a Man Thinketh and Out from the Heart (Annotated) | James Allen (1903, 1904) | 133 | Annotated New Thought Classics 5 |
 | 11 | The Collected Works of Wallace D. Wattles (Annotated) | Wallace D. Wattles (1905–1910), ten works | 679 (paperback + e-book only) | Annotated New Thought Classics 6 |
 
 KDP: add "(Annotated)" to the title, start the description with the list of new material, declare AI-generated

@@ -9,16 +9,16 @@
 | Hardcover | `your-forces-and-how-to-use-them-interior.pdf` (dieselbe Datei) | `your-forces-and-how-to-use-them-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 302 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 303 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,930 × 9,25 Zoll, Rücken 0,680 Zoll.
+- 12,932 × 9,25 Zoll, Rücken 0,682 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,445 × 10,418 Zoll, Rücken 0,869 Zoll.
+- 14,447 × 10,418 Zoll, Rücken 0,871 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -29,7 +29,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (302 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (303 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)

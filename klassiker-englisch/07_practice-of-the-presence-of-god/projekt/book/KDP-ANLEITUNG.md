@@ -9,17 +9,17 @@
 | Hardcover | `practice-of-the-presence-of-god-interior.pdf` (dieselbe Datei) | `practice-of-the-presence-of-god-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 127 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 126 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,536 × 9,25 Zoll, Rücken 0,286 Zoll.
+- 12,534 × 9,25 Zoll, Rücken 0,284 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 - Die Rückenschrift ist klein und hält den Mindestabstand von 0,0625 Zoll zum Rand ein.
 
 **Umschlag Hardcover:**
-- 14,051 × 10,418 Zoll, Rücken 0,475 Zoll.
+- 14,049 × 10,418 Zoll, Rücken 0,473 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -30,7 +30,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (127 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (126 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)

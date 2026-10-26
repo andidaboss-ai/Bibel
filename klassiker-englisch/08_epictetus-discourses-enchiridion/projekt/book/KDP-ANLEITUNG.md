@@ -9,16 +9,16 @@
 | Hardcover | `epictetus-discourses-enchiridion-interior.pdf` (dieselbe Datei) | `epictetus-discourses-enchiridion-cover-hardcover.pdf` |
 
 **Innenteil:**
-- 6 × 9 Zoll, 263 Seiten, ohne Beschnitt.
+- 6 × 9 Zoll, 261 Seiten, ohne Beschnitt.
 - Alle Schriften sind eingebettet.
 
 **Umschlag Taschenbuch:**
-- 12,842 × 9,25 Zoll, Rücken 0,592 Zoll.
+- 12,838 × 9,25 Zoll, Rücken 0,588 Zoll.
 - 0,125 Zoll Beschnitt.
 - 600 dpi.
 
 **Umschlag Hardcover:**
-- 14,357 × 10,418 Zoll, Rücken 0,781 Zoll.
+- 14,353 × 10,418 Zoll, Rücken 0,777 Zoll.
 - 600 dpi.
 
 **Prüfungen:**
@@ -29,7 +29,7 @@
 - **Sprache:** English. Hauptmarkt ist amazon.com.
 - **Taschenbuch:** Black & white interior, white paper, Trim **6 × 9 in**, **No bleed**, Cover **Matte**.
 - **Hardcover:** genauso, Trim **6 × 9 in**.
-- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (263 Seiten, weißes Papier).
+- **Umschlagmaße:** Vor dem Hochladen mit dem KDP Cover Calculator vergleichen (261 Seiten, weißes Papier).
 - **Print Previewer:** jede Ausgabe vor der Freigabe durchsehen.
 
 ## Angaben (auf Englisch eintragen)
