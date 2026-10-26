@@ -1,0 +1,177 @@
+{
+  "slug": "wattles-collected-works",
+  "title": "The Collected Works",
+  "kdp_title": "The Collected Works of Wallace D. Wattles (Annotated)",
+  "subtitle": "The Science of Getting Rich, The Science of Being Well, The Science of Being Great and Seven More Works – with a Plain-Language Note on Every Chapter and a 30-Day Practice",
+  "title_lines": [
+    "Wallace D.",
+    "Wattles",
+    "The Collected Works"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "Wallace D. Wattles",
+  "author_years": "1860–1911",
+  "first_published": 1910,
+  "pd_statement": "The works of Wallace D. Wattles (1860–1911) collected here were first published between 1905 and 1910 and are in the public domain. This edition follows the first editions or early printings where available: <em>The Science of Getting Rich</em>, <em>The Science of Being Well</em> and <em>The Science of Being Great</em> (Elizabeth Towne, Holyoke, 1910); <em>Hell-Fire Harrison</em> (L. C. Page &amp; Company, Boston, 1910); <em>What Is Truth?</em> (<em>The Nautilus</em>, 1909); <em>The New Science of Living and Healing</em> (1924 reissue, without the later commentary); <em>A New Christ</em>, <em>Jesus: The Man and His Work</em>, <em>Making the Man Who Can</em> and <em>How to Get What You Want</em> from later printings. Wattles’ wording and spelling are kept; obvious printing errors are corrected. The chapter titles of <em>How to Get What You Want</em> are editorial.",
+  "editor": "Andreas Rupp",
+  "edition": "Annotated Edition",
+  "title_page_sub": [
+    "Ten works in one volume",
+    "with a plain-language note on every chapter",
+    "and a 30-day practice"
+  ],
+  "part_title": "As a Man Thinketh",
+  "part_sub": "",
+  "epigraph": {
+    "text": "The very best thing you can do for the whole world is to make the most of yourself.",
+    "source": "Wallace D. Wattles, The Science of Getting Rich"
+  },
+  "unnumbered": [
+    "About This Work",
+    "Foreword",
+    "Preface"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": true,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "Key Thought",
+    "lines": "My own notes",
+    "day_lines": "Today I will",
+    "checks": [
+      "read",
+      "held my vision",
+      "one step taken"
+    ],
+    "toc_parts": [
+      "Before You Begin",
+      "Putting It into Practice",
+      "After the Book"
+    ],
+    "practice_word": "The practices in this book",
+    "new_material": "Introduction, biography, introductions to each work, a note on every chapter, practices, the 30-Day Practice, the Quick Finder, the glossary, the afterword",
+    "chapter": "Chapter"
+  },
+  "cover": {
+    "emblem": "ascent",
+    "sky": [
+      "#24304f",
+      "#121a2e",
+      "#05070e"
+    ],
+    "kicker": "Ten Works in One Volume",
+    "sub": [
+      "The Science of Getting Rich, of Being Well",
+      "and of Being Great – and seven more works"
+    ],
+    "small_size": 96,
+    "title_size": 215,
+    "emblem_y": 1380,
+    "spine_sub": "Wallace D. Wattles"
+  },
+  "back": {
+    "kicker": "The classic of New Thought · Annotated Edition",
+    "headline": [
+      "Think in the Certain Way.",
+      "Act in the Certain Way.",
+      "Become what you can be."
+    ],
+    "paras": [
+      "In 1910 Wallace D. Wattles published a slim book that has never gone out of print: The Science of Getting Rich, the work that later inspired the bestseller The Secret. In the same year he wrote The Science of Being Well and The Science of Being Great – and much more.",
+      "This beautifully designed annotated edition gathers ten of his works in one volume, from the three ‘Science’ books to his writings on success, health and the teachings of Jesus, and his only novel, Hell-Fire Harrison – each complete, with an introduction, a plain-language note and a small practice for every chapter, and a guided 30-day practice."
+    ],
+    "bullets": [
+      "Ten works complete in one volume",
+      "An introduction to every work",
+      "A plain-language note on every chapter",
+      "A guided 30-day practice with space to write",
+      "A Quick Finder, a glossary and an afterword"
+    ],
+    "quote": [
+      "“You are to create, not to compete",
+      "for what is already created.”"
+    ]
+  },
+  "parts": [
+    {
+      "first_index": 0,
+      "title": "The Science of Getting Rich",
+      "sub": "1910 · seventeen chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 19,
+      "title": "The Science of Being Well",
+      "sub": "1910 · seventeen chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 38,
+      "title": "The Science of Being Great",
+      "sub": "1910",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 61,
+      "title": "How to Get What You Want",
+      "sub": "five chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 67,
+      "title": "Making the Man Who Can",
+      "sub": "1909 · nine chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 77,
+      "title": "The New Science of Living and Healing",
+      "sub": "nine chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 87,
+      "title": "What Is Truth?",
+      "sub": "The Nautilus · 1909 · seven chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 95,
+      "title": "A New Christ",
+      "sub": "eight chapters",
+      "label": "Chapter"
+    },
+    {
+      "first_index": 104,
+      "title": "Jesus: The Man and His Work",
+      "sub": "a lecture · 1905",
+      "label": ""
+    },
+    {
+      "first_index": 107,
+      "title": "Hell-Fire Harrison",
+      "sub": "a novel · 1910",
+      "label": ""
+    }
+  ],
+  "rh_max": 46,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character",
+  "lang": "en-US",
+  "byline": "Introduction and notes by Andreas Rupp",
+  "contents_label": "Contents",
+  "rh_part_for": [
+    "About This Work",
+    "Preface",
+    "Foreword"
+  ]
+}
