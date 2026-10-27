@@ -1,0 +1,173 @@
+{
+  "slug": "wattles-obras-reunidas-pt",
+  "title": "Obras Reunidas",
+  "kdp_title": "Wallace D. Wattles – Obras Reunidas",
+  "subtitle": "A Ciência de Ficar Rico, A Ciência de Ser Saudável, A Ciência de Ser Grande e mais sete obras – edição completa em português",
+  "title_lines": [
+    "Wallace D.",
+    "Wattles",
+    "Obras Reunidas"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "Wallace D. Wattles",
+  "author_years": "1860–1911",
+  "first_published": 1910,
+  "pd_statement": "As obras de Wallace D. Wattles (1860–1911) foram publicadas entre 1905 e 1910 e são de domínio público.",
+  "editor": "Andreas Rupp",
+  "edition": "Edição completa em português",
+  "title_page_sub": [
+    "Dez obras em um volume",
+    "traduzidas integralmente do inglês"
+  ],
+  "part_title": "",
+  "part_sub": "",
+  "epigraph": {
+    "text": "A melhor coisa que você pode fazer pelo mundo inteiro é tirar o máximo proveito de si mesmo.",
+    "source": "Wallace D. Wattles, A Ciência de Ficar Rico"
+  },
+  "unnumbered": [
+    "Prefácio",
+    "Prefácio dos editores (1905)"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": false,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "",
+    "lines": "",
+    "day_lines": "",
+    "checks": [],
+    "toc_parts": [
+      "Para começar",
+      "",
+      ""
+    ],
+    "practice_word": "",
+    "new_material": "",
+    "chapter": "Capítulo"
+  },
+  "cover": {
+    "emblem": "ascent",
+    "sky": [
+      "#24304f",
+      "#121a2e",
+      "#05070e"
+    ],
+    "sub": [
+      "A Ciência de Ficar Rico, de Ser Saudável",
+      "e de Ser Grande – e mais sete obras"
+    ],
+    "small_size": 96,
+    "title_size": 215,
+    "emblem_y": 1380,
+    "kicker": "Dez obras em um volume",
+    "spine_sub": "Wallace D. Wattles"
+  },
+  "back": {
+    "kicker": "O clássico do Novo Pensamento",
+    "headline": [
+      "Pensar de uma Certa Maneira.",
+      "Agir de uma Certa Maneira.",
+      "Tornar-se o que você pode ser."
+    ],
+    "paras": [
+      "Em 1910, Wallace D. Wattles publicou um livro breve que nunca deixou de ser reeditado: A Ciência de Ficar Rico, a obra que mais tarde inspirou o sucesso mundial O Segredo. No mesmo ano, vieram A Ciência de Ser Saudável e A Ciência de Ser Grande.",
+      "Esta edição cuidadosa reúne dez de suas obras em um só volume, cada uma traduzida integralmente, frase por frase, das edições originais norte-americanas: dos três livros da “ciência”, passando por seus escritos sobre sucesso, saúde e os ensinamentos de Jesus, até seu único romance, Harrison, o Infernal."
+    ],
+    "bullets": [
+      "Dez obras completas em um volume",
+      "Tradução nova e integral do original",
+      "Os três livros da “ciência” e mais sete obras",
+      "Com prefácio e notas sobre as fontes",
+      "Diagramação elegante, leitura agradável"
+    ],
+    "quote": [
+      "“Você deve criar,",
+      "e não competir pelo que",
+      "já está criado.”"
+    ],
+    "headline_size": 0.3
+  },
+  "parts": [
+    {
+      "first_index": 0,
+      "title": "A Ciência de Ficar Rico",
+      "sub": "1910 · dezessete capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 18,
+      "title": "A Ciência de Ser Saudável",
+      "sub": "1910 · dezessete capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 36,
+      "title": "A Ciência de Ser Grande",
+      "sub": "1910",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 58,
+      "title": "Como Conseguir o que Você Quer",
+      "sub": "cinco capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 63,
+      "title": "Formando o Homem que Pode",
+      "sub": "1909 · nove capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 72,
+      "title": "A Nova Ciência de Viver e Curar",
+      "sub": "nove capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 81,
+      "title": "O que É a Verdade?",
+      "sub": "The Nautilus · 1909 · sete capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 88,
+      "title": "Um Novo Cristo",
+      "sub": "oito capítulos",
+      "label": "Capítulo"
+    },
+    {
+      "first_index": 96,
+      "title": "Jesus: o Homem e Sua Obra",
+      "sub": "uma conferência · 1905",
+      "label": ""
+    },
+    {
+      "first_index": 98,
+      "title": "Harrison, o Infernal",
+      "sub": "um romance · 1910",
+      "label": ""
+    }
+  ],
+  "rh_max": 46,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character",
+  "lang": "pt-BR",
+  "byline": "Edição de Andreas Rupp",
+  "contents_label": "Sumário",
+  "rh_part_for": [
+    "Prefácio",
+    "Prefácio dos editores (1905)"
+  ],
+  "copyright_html": "<p><em>Wallace D. Wattles – Obras Reunidas</em><br>Edição completa em português</p><p>As obras de Wallace D. Wattles (1860–1911) foram publicadas entre 1905 e 1910 e são de domínio público. Tradução, prefácio, diagramação e projeto gráfico desta edição © 2026 Andreas Rupp. Todos os direitos reservados.</p><p><strong>Aviso:</strong> Este livro reproduz os ensinamentos de um autor do início do século XX. Suas ideias sobre alimentação, jejum, doença e cura não correspondem ao conhecimento médico atual e não constituem recomendação médica. Jejuar ou pular refeições pode ser perigoso, por exemplo em caso de diabetes, gravidez, transtornos alimentares ou uso de medicamentos. Em caso de qualquer problema de saúde, consulte um médico. O livro não promete riqueza nem cura.</p><p>Edição de Andreas Rupp</p>"
+}
