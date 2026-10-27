@@ -24,7 +24,7 @@
 - Die Rechtschreibung ist mit LanguageTool (pt-BR) geprüft, nach dem Novo Acordo Ortográfico.
 - Einheitliches Glossar: „a Certa Maneira“, „Substância sem Forma“, „o homem que avança“.
 - Bibelzitate folgen dem Stil der klassischen Almeida-Übersetzung.
-- Die Titelschrift (Cormorant Garamond) zeichnete â, ê und ô fehlerhaft. Diese Zeichen sind in den Schriftdateien dieser Ausgabe repariert.
+- Die Titelschrift (Cormorant Garamond) zeichnete â ê î ô û und à è ì ò ù fehlerhaft. Diese Zeichen sind in den Schriftdateien dieser Ausgabe repariert.
 
 ## Märkte und Formate
 - **amazon.com.br:** Hauptmarkt. Das eBook ist dort sicher verfügbar.

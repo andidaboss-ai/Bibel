@@ -11,4 +11,4 @@ Jede Ausgabe enthält:
 - `cover-preview.jpg`
 - `projekt/`: Quelltexte und Werkzeuge.
 
-Die Schriften liegen in `klassiker-englisch/11_wattles-collected-works/projekt/fonts`. Ausnahme sind die Cormorant-Garamond-Dateien in `projekt/fonts/`: Darin sind die Zeichen â, ê und ô repariert, siehe `tools/fix_circumflex.py`.
+Die Schriften liegen in `klassiker-englisch/11_wattles-collected-works/projekt/fonts`. Ausnahme sind die Cormorant-Garamond-Dateien in `projekt/fonts/`: Darin sind die Zeichen â, ê, î, ô, û sowie à, è, ì, ò, ù repariert, siehe `tools/fix_circumflex.py`.
