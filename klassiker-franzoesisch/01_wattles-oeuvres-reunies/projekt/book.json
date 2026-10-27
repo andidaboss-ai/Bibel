@@ -1,0 +1,173 @@
+{
+  "slug": "wattles-oeuvres-reunies",
+  "title": "Œuvres réunies",
+  "kdp_title": "Wallace D. Wattles – Œuvres réunies",
+  "subtitle": "La Science de l'enrichissement, La Science de la santé, La Science de la grandeur et sept autres œuvres – édition intégrale en français",
+  "title_lines": [
+    "Wallace D.",
+    "Wattles",
+    "Œuvres réunies"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "Wallace D. Wattles",
+  "author_years": "1860–1911",
+  "first_published": 1910,
+  "pd_statement": "Les œuvres de Wallace D. Wattles (1860–1911) ont paru entre 1905 et 1910 et appartiennent au domaine public.",
+  "editor": "Andreas Rupp",
+  "edition": "Édition intégrale en français",
+  "title_page_sub": [
+    "Dix œuvres en un volume",
+    "traduites intégralement de l’anglais"
+  ],
+  "part_title": "",
+  "part_sub": "",
+  "epigraph": {
+    "text": "La meilleure chose que vous puissiez faire pour le monde entier est de tirer de vous-même le meilleur parti possible.",
+    "source": "Wallace D. Wattles, La Science de l’enrichissement"
+  },
+  "unnumbered": [
+    "Préface",
+    "Préface des éditeurs (1905)"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": false,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "",
+    "lines": "",
+    "day_lines": "",
+    "checks": [],
+    "toc_parts": [
+      "Pour commencer",
+      "",
+      ""
+    ],
+    "practice_word": "",
+    "new_material": "",
+    "chapter": "Chapitre"
+  },
+  "cover": {
+    "emblem": "ascent",
+    "sky": [
+      "#24304f",
+      "#121a2e",
+      "#05070e"
+    ],
+    "sub": [
+      "La Science de l’enrichissement, de la santé",
+      "et de la grandeur – et sept autres œuvres"
+    ],
+    "small_size": 96,
+    "title_size": 215,
+    "emblem_y": 1380,
+    "kicker": "Dix œuvres en un volume",
+    "spine_sub": "Wallace D. Wattles"
+  },
+  "back": {
+    "kicker": "Le classique de la Nouvelle Pensée",
+    "headline": [
+      "Penser d’une Certaine Manière.",
+      "Agir d’une Certaine Manière.",
+      "Devenir ce que vous pouvez être."
+    ],
+    "paras": [
+      "En 1910, Wallace D. Wattles publia un petit livre qui n’a jamais cessé d’être réédité : La Science de l’enrichissement, l’ouvrage qui inspira plus tard le succès mondial Le Secret. La même année parurent La Science de la santé et La Science de la grandeur.",
+      "Cette édition soignée réunit dix de ses œuvres en un seul volume, chacune traduite intégralement, phrase après phrase, des éditions originales américaines : des trois livres de la « science » à son unique roman, Harrison l’Infernal, en passant par ses écrits sur la réussite, la santé et l’enseignement de Jésus."
+    ],
+    "bullets": [
+      "Dix œuvres intégrales en un volume",
+      "Traduction nouvelle et complète de l’original",
+      "Les trois livres de la « science » et sept autres œuvres",
+      "Avec préface et notes sur les sources",
+      "Mise en page élégante, lecture agréable"
+    ],
+    "quote": [
+      "« Vous devez créer,",
+      "et non rivaliser pour ce",
+      "qui est déjà créé. »"
+    ],
+    "headline_size": 0.3
+  },
+  "parts": [
+    {
+      "first_index": 0,
+      "title": "La Science de l’enrichissement",
+      "sub": "1910 · dix-sept chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 18,
+      "title": "La Science de la santé",
+      "sub": "1910 · dix-sept chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 36,
+      "title": "La Science de la grandeur",
+      "sub": "1910",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 58,
+      "title": "Comment obtenir ce que vous voulez",
+      "sub": "cinq chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 63,
+      "title": "Former l’homme qui peut",
+      "sub": "1909 · neuf chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 72,
+      "title": "La Nouvelle Science de la vie et de la guérison",
+      "sub": "neuf chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 81,
+      "title": "Qu’est-ce que la vérité ?",
+      "sub": "The Nautilus · 1909 · sept chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 88,
+      "title": "Un nouveau Christ",
+      "sub": "huit chapitres",
+      "label": "Chapitre"
+    },
+    {
+      "first_index": 96,
+      "title": "Jésus : l’homme et son œuvre",
+      "sub": "une conférence · 1905",
+      "label": ""
+    },
+    {
+      "first_index": 98,
+      "title": "Harrison l’Infernal",
+      "sub": "un roman · 1910",
+      "label": ""
+    }
+  ],
+  "rh_max": 46,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character",
+  "lang": "fr",
+  "byline": "Édition établie par Andreas Rupp",
+  "contents_label": "Table des matières",
+  "rh_part_for": [
+    "Préface",
+    "Préface des éditeurs (1905)"
+  ],
+  "copyright_html": "<p><em>Wallace D. Wattles – Œuvres réunies</em><br>Édition intégrale en français</p><p>Les œuvres de Wallace D. Wattles (1860–1911) ont paru entre 1905 et 1910 et appartiennent au domaine public. Traduction, préface, mise en page et conception graphique de cette édition © 2026 Andreas Rupp. Tous droits réservés.</p><p><strong>Avertissement :</strong> Ce livre reproduit les enseignements d’un auteur du début du XX<sup>e</sup> siècle. Ses idées sur l’alimentation, le jeûne, la maladie et la guérison ne correspondent pas à l’état actuel de la médecine et ne constituent pas un avis médical. Jeûner ou sauter des repas peut être dangereux, par exemple en cas de diabète, de grossesse, de troubles alimentaires ou de traitement médicamenteux. En cas de problème de santé, consultez un médecin. Ce livre ne promet ni richesse ni guérison.</p><p>Édition établie par Andreas Rupp</p>"
+}
