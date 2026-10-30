@@ -1,0 +1,52 @@
+/* ---------- Japanese edition: overrides for print.css ----------
+   Body Noto Serif CJK JP 9.6/16.2 pt (Latin figures from EB Garamond), headings Noto Serif CJK JP,
+   labels Noto Sans CJK JP. No italics (CJK has none): emphasis = sesame dots (傍点),
+   quotations in a slightly smaller size; no hyphenation, strict Japanese line breaking (禁則). */
+body.ja { font-size: 9.4pt; line-height: 15.8pt; hyphens: manual; -webkit-hyphens: manual; text-wrap: auto;
+  line-break: strict; word-break: normal; overflow-wrap: anywhere; text-align: justify; text-justify: inter-character;
+  font-variant-numeric: lining-nums proportional-nums; font-feature-settings: "kern"; letter-spacing: 0; }
+.ja p { text-indent: 1em; }
+.ja p.first, .ja p.lead { text-indent: 1em; }
+.ja em { font-style: normal; -webkit-text-emphasis: filled sesame; text-emphasis: filled sesame; -webkit-text-emphasis-position: over right; text-emphasis-position: over right; }
+.ja blockquote em, .ja .maxims em, .ja .longitalic em, .ja p.summary em, .ja .verse em, .ja p.aff em, .ja .toc em, .ja h2 em, .ja h3 em { -webkit-text-emphasis: none; text-emphasis: none; }
+.ja .longitalic p, .ja p.salute, .ja p.close, .ja .verse p, .ja p.aff, .ja p.summary, .ja .maxims p { font-style: normal; }
+
+/* quotations: indented block, left-aligned, attribution on its own line */
+.ja blockquote { margin: 9pt 1.6em 9pt 2em; text-align: justify; }
+.ja blockquote p { font-family: EBG; font-style: normal; font-weight: 400; font-size: 9.2pt; line-height: 15.4pt; text-indent: 1em; text-wrap: auto; color: #222; }
+.ja blockquote p + p { margin-top: 2pt; }
+.ja blockquote p.vq { text-indent: 0; margin: 3pt 0 3pt 1em; text-align: left; }
+.ja blockquote p.attr { text-indent: 0; text-align: right; font-size: 8.6pt; color: #333; margin-top: 2pt; }
+
+/* headings */
+.ja .opener { padding-top: .9in; }
+.ja .opener .num { font-family: CG; font-weight: 400; font-size: 10.5pt; letter-spacing: .3em; padding-left: .3em; color: #333; }
+.ja .opener h2 { font-family: CG; font-weight: 600; font-size: 19pt; line-height: 1.35; letter-spacing: .06em; margin-top: 8pt; }
+.ja .opener h2.long { font-size: 15pt; }
+.ja .front-h h2 { font-weight: 600; font-size: 18pt; letter-spacing: .08em; }
+.ja .chapter-text h3 { font-weight: 600; font-size: 11.6pt; letter-spacing: .06em; margin: 16pt 0 8pt; }
+.ja .half { font-weight: 600; font-size: 19pt; letter-spacing: .1em; }
+.ja .half > div { letter-spacing: .2em !important; font-size: 8pt !important; font-weight: 400; }
+.ja p.summary { font-size: 9pt; line-height: 14.6pt; text-align: center; margin: -4pt .25in 14pt; text-indent: 0; text-wrap: balance; }
+.ja p.fnote { font-size: 8.4pt; line-height: 13pt; text-indent: 0; }
+.ja ul, .ja ol { margin: 6pt 0 6pt 0; padding-left: 2.2em; }
+.ja li { margin-bottom: 2pt; }
+
+/* title pages */
+.ja .title .au { font-family: CG; font-size: 12pt; letter-spacing: .3em; text-transform: none; }
+.ja .title .t1 { font-family: CG; font-weight: 600; font-size: 40pt; line-height: 1.2; letter-spacing: .12em; margin-top: .25in; }
+.ja .title .t2 { font-family: CG; font-style: normal; font-weight: 400; font-size: 17pt; letter-spacing: .1em; margin-top: .5in; }
+.ja .title .ed { font-family: Jost; font-size: 9pt; letter-spacing: .4em; }
+.ja .title .sub { font-family: CG; font-style: normal; font-size: 11pt; line-height: 1.7; letter-spacing: .08em; }
+.ja .title .by { font-size: 8.6pt; letter-spacing: .3em; }
+.ja .copy { font-size: 7.8pt; line-height: 12.6pt; text-align: justify; }
+.ja .epigraph .q { font-style: normal; font-size: 13pt; line-height: 1.8; letter-spacing: .04em; padding: 0 .2in; }
+.ja .epigraph .s { font-size: 8pt; letter-spacing: .14em; }
+
+/* contents */
+.ja .toc-h { font-weight: 600; font-size: 18pt; letter-spacing: .3em; padding-left: .3em; }
+.ja .toc li { font-size: 9pt; line-height: 14.2pt; }
+.ja .toc.two li:not(.part) { font-size: 8.6pt; line-height: 13pt; }
+.ja .toc li.part { font-size: 8pt; letter-spacing: .14em; margin: 9pt 0 2pt; font-weight: 500; }
+.ja .toc li .n { font-variant-numeric: lining-nums; }
+.ja .title .au { display: none; }
