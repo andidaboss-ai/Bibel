@@ -9,7 +9,9 @@ import { B, esc } from './book.mjs';
 const require = createRequire(import.meta.url);
 let chromium;
 try { ({ chromium } = require('playwright')); }
-catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+catch { try { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+  catch { ({ chromium } = createRequire(process.env.PW_NODE || '/workspace/pwnode/')('playwright-core')); } }
+const LAUNCH = process.env.CHROME_PATH || (await import('fs')).existsSync('/usr/bin/google-chrome') ? { executablePath: process.env.CHROME_PATH || '/usr/bin/google-chrome' } : {};
 
 const [, , out, W_in, H_in, S_in, EX_in, EY_in, F_in, dpiArg] = process.argv;
 const PX = 96; // CSS pixels per inch
@@ -65,7 +67,7 @@ ${spine}
 const fs = await import('fs');
 const tmp = out.replace(/\.png$/, '.html');
 fs.writeFileSync(tmp, html);
-const browser = await chromium.launch();
+const browser = await chromium.launch(LAUNCH);
 const page = await browser.newPage({ viewport: { width: Math.round(W), height: Math.round(H) }, deviceScaleFactor: scale });
 await page.goto('file://' + tmp);
 await page.evaluate(() => document.fonts.ready);

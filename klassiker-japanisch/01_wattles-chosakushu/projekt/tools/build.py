@@ -36,7 +36,7 @@ def _roman(n):
     return r
 
 
-ROMAN = [_roman(i) for i in range(1, 200)]
+ROMAN = [str(i) for i in range(1, 200)]
 
 
 def part_plan(chapters):
@@ -58,10 +58,7 @@ def part_plan(chapters):
     return plan
 
 STAR = '<svg viewBox="0 0 10 10"><path d="M5 0C5.4 4.6 5.4 4.6 10 5C5.4 5.4 5.4 5.4 5 10C4.6 5.4 4.6 5.4 0 5C4.6 4.6 4.6 4.6 5 0Z" fill="#555"/></svg>'
-ORN = ('<div class="orn"><svg viewBox="0 0 70 9"><line x1="0" y1="4.5" x2="27" y2="4.5" stroke="#444" stroke-width=".5"/>'
-       '<path d="M35 0C35.5 3.9 35.5 3.9 39.5 4.5C35.5 5.1 35.5 5.1 35 9C34.5 5.1 34.5 5.1 30.5 4.5C34.5 3.9 34.5 3.9 35 0Z" fill="#222"/>'
-       '<circle cx="29.2" cy="4.5" r=".7" fill="#444"/><circle cx="40.8" cy="4.5" r=".7" fill="#444"/>'
-       '<line x1="43" y1="4.5" x2="70" y2="4.5" stroke="#444" stroke-width=".5"/></svg></div>')
+ORN = ('<div class="orn"><svg viewBox="0 0 60 32"><line x1="44.62" y1="16.66" x2="57.29" y2="13.76" stroke="#9a7b3c" stroke-width=".45"/><line x1="43.51" y1="13.49" x2="51.62" y2="9.58" stroke="#9a7b3c" stroke-width=".45"/><line x1="41.72" y1="10.64" x2="51.89" y2="2.54" stroke="#9a7b3c" stroke-width=".45"/><line x1="39.35" y1="8.27" x2="44.96" y2="1.23" stroke="#9a7b3c" stroke-width=".45"/><line x1="36.50" y1="6.48" x2="42.14" y2="-5.22" stroke="#9a7b3c" stroke-width=".45"/><line x1="33.33" y1="5.37" x2="35.34" y2="-3.39" stroke="#9a7b3c" stroke-width=".45"/><line x1="30.00" y1="5.00" x2="30.00" y2="-7.99" stroke="#9a7b3c" stroke-width=".45"/><line x1="26.66" y1="5.37" x2="24.65" y2="-3.39" stroke="#9a7b3c" stroke-width=".45"/><line x1="23.49" y1="6.48" x2="17.85" y2="-5.22" stroke="#9a7b3c" stroke-width=".45"/><line x1="20.64" y1="8.27" x2="15.03" y2="1.23" stroke="#9a7b3c" stroke-width=".45"/><line x1="18.27" y1="10.64" x2="8.10" y2="2.54" stroke="#9a7b3c" stroke-width=".45"/><line x1="16.48" y1="13.49" x2="8.37" y2="9.58" stroke="#9a7b3c" stroke-width=".45"/><line x1="15.37" y1="16.66" x2="2.70" y2="13.76" stroke="#9a7b3c" stroke-width=".45"/><circle cx="30" cy="20" r="11" fill="none" stroke="#9a7b3c" stroke-width=".8"/><clipPath id="cc"><circle cx="30" cy="20" r="10.3"/></clipPath><g clip-path="url(#cc)"><circle cx="30" cy="20.5" r="4.2" fill="#9a7b3c"/><path d="M18 31 L24 22 L27 25 L31 19.5 L35 24 L38 21.5 L43 31Z" fill="#2b2b2b"/><path d="M18 31 L24 22 L27 25 L31 19.5 L35 24 L38 21.5 L43 31" fill="none" stroke="#9a7b3c" stroke-width=".5"/></g></svg></div>')
 CAP = ('<div class="cap"><svg viewBox="0 0 300 9" preserveAspectRatio="xMidYMid meet"><line x1="0" y1="4.5" x2="138" y2="4.5" stroke="#555" stroke-width=".5"/>'
        '<path d="M150 0C150.5 3.9 150.5 3.9 154.5 4.5C150.5 5.1 150.5 5.1 150 9C149.5 5.1 149.5 5.1 145.5 4.5C149.5 3.9 149.5 3.9 150 0Z" fill="#222"/>'
        '<line x1="162" y1="4.5" x2="300" y2="4.5" stroke="#555" stroke-width=".5"/></svg></div>')
@@ -391,7 +388,7 @@ def place_rectos(doc, pad):
         nonlocal n
         n += 1
         cls = re.sub(r"\brecto\b", "page", m.group(2))
-        before = '<div class="padpage"></div>' if n in pad else ""
+        before = ""
         return f'{before}<{m.group(1)} class="{cls}"{m.group(3)}>{mk("R", f"r{n}")}'
     return re.sub(r'<(div|section) class="([^"]*\brecto\b[^"]*)"([^>]*)>', rep, doc)
 
@@ -428,12 +425,7 @@ def running_heads(pm, titles):
                 cur = s; front = False
         opener = "O" in kinds or "F" in kinds
         recto = i % 2 == 0
-        if front or not visible or "F" in kinds:
-            heads.append((recto, "", False))
-        elif opener:
-            heads.append((recto, "", True))
-        else:
-            heads.append((recto, B["title"] if not recto else titles.get(cur, ""), True))
+        heads.append((recto, "", bool(visible)))
     return heads
 
 
@@ -443,7 +435,7 @@ def overlay_html(heads):
          f'{open(os.path.join(TOOLS, "print.css"), encoding="utf-8").read().split("/* overlay")[1].split("*/", 1)[1]}'
          f'{".ov .rh{letter-spacing:.12em;font-size:7.4pt}" if JA else ""}</style></head><body>']
     for i, (recto, head, folio) in enumerate(heads):
-        inner, outer = (0.9, 0.66) if recto else (0.66, 0.9)
+        inner, outer = (0.75, 0.55) if recto else (0.55, 0.75)
         rh = ""
         if head:
             pos = f"right:{outer}in" if recto else f"left:{outer if not recto else inner}in"

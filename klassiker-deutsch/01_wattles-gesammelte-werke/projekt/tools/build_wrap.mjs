@@ -9,7 +9,9 @@ import { B, esc } from './book.mjs';
 const require = createRequire(import.meta.url);
 let chromium;
 try { ({ chromium } = require('playwright')); }
-catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+catch { try { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+  catch { ({ chromium } = createRequire(process.env.PW_NODE || '/workspace/pwnode/')('playwright-core')); } }
+const LAUNCH = process.env.CHROME_PATH || (await import('fs')).existsSync('/usr/bin/google-chrome') ? { executablePath: process.env.CHROME_PATH || '/usr/bin/google-chrome' } : {};
 
 const [, , out, W_in, H_in, S_in, EX_in, EY_in, F_in, dpiArg] = process.argv;
 const PX = 96; // CSS pixels per inch
@@ -40,10 +42,10 @@ const backBody = `
 
 const spine = S >= 0.25 * PX ? `
 <div style="position:absolute;left:${panelW}px;top:0;width:${S}px;height:${H}px;display:flex;align-items:center;justify-content:center">
-  <div style="transform:rotate(90deg);white-space:nowrap;display:flex;align-items:center;gap:${0.22 * PX}px">
-    <span class="goldtext" style="font-family:CG;font-weight:600;font-size:${Math.min(S * 0.42, 0.4 * PX)}px;letter-spacing:.03em">${esc(B.title)}</span>
+  <div style="${(B.lang || '').startsWith('ja') ? 'writing-mode:vertical-rl;text-orientation:upright;' : 'transform:rotate(90deg);'}white-space:nowrap;display:flex;align-items:center;gap:${0.22 * PX}px">
+    <span class="goldtext" style="font-family:CG;font-weight:600;font-size:${(B.lang || '').startsWith('ja') ? Math.min(S * 0.34, 0.3 * PX) : Math.min(S * 0.42, 0.4 * PX)}px;letter-spacing:${(B.lang || '').startsWith('ja') ? '.06em' : '.03em'}">${esc(B.title)}</span>
     <span style="color:#e9cf96;font-size:${Math.min(S * 0.3, 0.12 * PX)}px">✦</span>
-    <span style="font-family:Jost;font-size:${Math.min(S * 0.2, 0.15 * PX)}px;letter-spacing:.3em;color:#e9cf96;text-transform:uppercase">${esc(B.cover.spine_sub || B.author)}</span>
+    <span style="font-family:Jost;font-size:${Math.min(S * 0.2, (B.lang || '').startsWith('ja') ? 0.12 * PX : 0.15 * PX)}px;letter-spacing:${(B.lang || '').startsWith('ja') ? '.08em' : '.3em'};color:#e9cf96;text-transform:uppercase">${esc(B.cover.spine_sub || B.author)}</span>
   </div>
 </div>` : '';
 
@@ -65,7 +67,7 @@ ${spine}
 const fs = await import('fs');
 const tmp = out.replace(/\.png$/, '.html');
 fs.writeFileSync(tmp, html);
-const browser = await chromium.launch();
+const browser = await chromium.launch(LAUNCH);
 const page = await browser.newPage({ viewport: { width: Math.round(W), height: Math.round(H) }, deviceScaleFactor: scale });
 await page.goto('file://' + tmp);
 await page.evaluate(() => document.fonts.ready);

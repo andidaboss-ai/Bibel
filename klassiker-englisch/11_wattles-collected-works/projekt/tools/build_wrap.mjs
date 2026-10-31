@@ -9,7 +9,9 @@ import { B, esc } from './book.mjs';
 const require = createRequire(import.meta.url);
 let chromium;
 try { ({ chromium } = require('playwright')); }
-catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+catch { try { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+  catch { ({ chromium } = createRequire(process.env.PW_NODE || '/workspace/pwnode/')('playwright-core')); } }
+const LAUNCH = process.env.CHROME_PATH || (await import('fs')).existsSync('/usr/bin/google-chrome') ? { executablePath: process.env.CHROME_PATH || '/usr/bin/google-chrome' } : {};
 
 const [, , out, W_in, H_in, S_in, EX_in, EY_in, F_in, dpiArg] = process.argv;
 const PX = 96; // CSS pixels per inch
@@ -25,7 +27,7 @@ const K = B.back;
 const backBody = `
 <div style="position:absolute;left:${EX + 0.55 * PX}px;top:${EY + 0.75 * PX}px;width:${TRIM_W - 1.1 * PX}px;color:#efe6d4">
   <div style="font-family:Jost;font-weight:500;font-size:${0.105 * PX}px;letter-spacing:.38em;color:#e9cf96;text-transform:uppercase">${esc(K.kicker)}</div>
-  <div class="goldtext" style="font-family:CG;font-weight:600;font-size:${0.42 * PX}px;line-height:1.02;margin-top:${0.16 * PX}px">${K.headline.map(esc).join('<br>')}</div>
+  <div class="goldtext" style="font-family:CG;font-weight:600;font-size:${(K.headline_size || 0.42) * PX}px;line-height:1.02;margin-top:${0.16 * PX}px">${K.headline.map(esc).join('<br>')}</div>
   <div style="font-family:CG;font-size:${0.165 * PX}px;line-height:1.45;margin-top:${0.24 * PX}px">
     ${K.paras.map((p, i) => `<p style="margin:0 0 ${i < K.paras.length - 1 ? 0.1 * PX : 0}px">${esc(p)}</p>`).join('')}
   </div>
@@ -65,7 +67,7 @@ ${spine}
 const fs = await import('fs');
 const tmp = out.replace(/\.png$/, '.html');
 fs.writeFileSync(tmp, html);
-const browser = await chromium.launch();
+const browser = await chromium.launch(LAUNCH);
 const page = await browser.newPage({ viewport: { width: Math.round(W), height: Math.round(H) }, deviceScaleFactor: scale });
 await page.goto('file://' + tmp);
 await page.evaluate(() => document.fonts.ready);

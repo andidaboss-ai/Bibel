@@ -1,3 +1,5 @@
+> **Stand 31.10.2026 – neues Gold-Layout (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **358 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 358 pages, cover 13.056 x 9.250 in, spine 0.806 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 358 pages, cover 14.571 x 10.418 in, spine 0.995 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
+
 # KDP-Anleitung: „Wallace D. Wattles – Dzieła zebrane“ (polnische Ausgabe)
 
 > **Wichtig:** Dies ist ein **NEUES Buch** bei KDP („Neuen Titel erstellen“). Bitte nicht als neue Ausgabe oder Version einer anderen Sprachausgabe anlegen. Jede Sprache ist bei KDP ein eigener Titel.

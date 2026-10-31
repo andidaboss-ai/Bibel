@@ -1,3 +1,5 @@
+> **Stand 31.10.2026 – neues Gold-Layout (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **397 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 397 pages, cover 13.144 x 9.250 in, spine 0.894 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 397 pages, cover 14.659 x 10.418 in, spine 1.083 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
+
 # KDP-Anleitung: „Wallace D. Wattles – Gesammelte Werke“ (deutsche Ausgabe)
 
 ## Dateien

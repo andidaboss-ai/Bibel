@@ -19,8 +19,8 @@ body.ja { font-size: 9.4pt; line-height: 15.8pt; hyphens: manual; -webkit-hyphen
 .ja blockquote p.attr { text-indent: 0; text-align: right; font-size: 8.6pt; color: #333; margin-top: 2pt; }
 
 /* headings */
-.ja .opener { padding-top: .9in; }
-.ja .opener .num { font-family: CG; font-weight: 400; font-size: 10.5pt; letter-spacing: .3em; padding-left: .3em; color: #333; }
+.ja .opener { padding-top: .45in; }
+.ja .opener .num { font-family: CG; font-weight: 400; font-size: 10.5pt; letter-spacing: .3em; padding-left: .3em; color: #9a7b3c; font-size: 14pt; }
 .ja .opener h2 { font-family: CG; font-weight: 600; font-size: 19pt; line-height: 1.35; letter-spacing: .06em; margin-top: 8pt; }
 .ja .opener h2.long { font-size: 15pt; }
 .ja .front-h h2 { font-weight: 600; font-size: 18pt; letter-spacing: .08em; }

@@ -11,7 +11,9 @@ import { B } from './book.mjs';
 const require = createRequire(import.meta.url);
 let chromium;
 try { ({ chromium } = require('playwright')); }
-catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+catch { try { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwright')); }
+  catch { ({ chromium } = createRequire(process.env.PW_NODE || '/workspace/pwnode/')('playwright-core')); } }
+const LAUNCH = process.env.CHROME_PATH || (await import('fs')).existsSync('/usr/bin/google-chrome') ? { executablePath: process.env.CHROME_PATH || '/usr/bin/google-chrome' } : {};
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const out = process.argv[2] || path.join(here, '..', 'output', 'ebook', `${B.slug}-cover.jpg`);
@@ -21,7 +23,7 @@ const html = `<!doctype html><html><head><meta charset="utf-8"><style>${fontFace
 html,body{margin:0;padding:0}</style></head><body>${front(1600, 2560)}</body></html>`;
 const tmp = path.join(here, '..', 'output', '_cover.html');
 fs.writeFileSync(tmp, html);
-const browser = await chromium.launch();
+const browser = await chromium.launch(LAUNCH);
 const page = await browser.newPage({ viewport: { width: 1600, height: 2560 }, deviceScaleFactor: +(process.env.COVER_SCALE || 2) });
 await page.goto('file://' + tmp);
 await page.evaluate(() => document.fonts.ready);

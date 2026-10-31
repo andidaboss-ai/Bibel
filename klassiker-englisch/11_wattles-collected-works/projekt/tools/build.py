@@ -20,6 +20,12 @@ B = json.load(open(os.path.join(ROOT, "book.json"), encoding="utf-8"))
 import md as _md
 LANG_ATTR = B.get("lang", "en-US")
 _md.LANG = B.get("lang", "en")
+JA = B.get("lang", "").startswith("ja")
+KANJI = "〇一二三四五六七八九"
+def kanji_num(n):
+    if n < 10: return KANJI[n]
+    t, o = divmod(n, 10)
+    return ("" if t == 1 else KANJI[t]) + "十" + (KANJI[o] if o else "")
 NAME, TRIM, YEAR = B["slug"], tuple(B["trim"]), datetime.date.today().year
 
 def _roman(n):
@@ -30,7 +36,7 @@ def _roman(n):
     return r
 
 
-ROMAN = [_roman(i) for i in range(1, 200)]
+ROMAN = [str(i) for i in range(1, 200)]
 
 
 def part_plan(chapters):
@@ -52,10 +58,7 @@ def part_plan(chapters):
     return plan
 
 STAR = '<svg viewBox="0 0 10 10"><path d="M5 0C5.4 4.6 5.4 4.6 10 5C5.4 5.4 5.4 5.4 5 10C4.6 5.4 4.6 5.4 0 5C4.6 4.6 4.6 4.6 5 0Z" fill="#555"/></svg>'
-ORN = ('<div class="orn"><svg viewBox="0 0 70 9"><line x1="0" y1="4.5" x2="27" y2="4.5" stroke="#444" stroke-width=".5"/>'
-       '<path d="M35 0C35.5 3.9 35.5 3.9 39.5 4.5C35.5 5.1 35.5 5.1 35 9C34.5 5.1 34.5 5.1 30.5 4.5C34.5 3.9 34.5 3.9 35 0Z" fill="#222"/>'
-       '<circle cx="29.2" cy="4.5" r=".7" fill="#444"/><circle cx="40.8" cy="4.5" r=".7" fill="#444"/>'
-       '<line x1="43" y1="4.5" x2="70" y2="4.5" stroke="#444" stroke-width=".5"/></svg></div>')
+ORN = ('<div class="orn"><svg viewBox="0 0 60 32"><line x1="44.62" y1="16.66" x2="57.29" y2="13.76" stroke="#9a7b3c" stroke-width=".45"/><line x1="43.51" y1="13.49" x2="51.62" y2="9.58" stroke="#9a7b3c" stroke-width=".45"/><line x1="41.72" y1="10.64" x2="51.89" y2="2.54" stroke="#9a7b3c" stroke-width=".45"/><line x1="39.35" y1="8.27" x2="44.96" y2="1.23" stroke="#9a7b3c" stroke-width=".45"/><line x1="36.50" y1="6.48" x2="42.14" y2="-5.22" stroke="#9a7b3c" stroke-width=".45"/><line x1="33.33" y1="5.37" x2="35.34" y2="-3.39" stroke="#9a7b3c" stroke-width=".45"/><line x1="30.00" y1="5.00" x2="30.00" y2="-7.99" stroke="#9a7b3c" stroke-width=".45"/><line x1="26.66" y1="5.37" x2="24.65" y2="-3.39" stroke="#9a7b3c" stroke-width=".45"/><line x1="23.49" y1="6.48" x2="17.85" y2="-5.22" stroke="#9a7b3c" stroke-width=".45"/><line x1="20.64" y1="8.27" x2="15.03" y2="1.23" stroke="#9a7b3c" stroke-width=".45"/><line x1="18.27" y1="10.64" x2="8.10" y2="2.54" stroke="#9a7b3c" stroke-width=".45"/><line x1="16.48" y1="13.49" x2="8.37" y2="9.58" stroke="#9a7b3c" stroke-width=".45"/><line x1="15.37" y1="16.66" x2="2.70" y2="13.76" stroke="#9a7b3c" stroke-width=".45"/><circle cx="30" cy="20" r="11" fill="none" stroke="#9a7b3c" stroke-width=".8"/><clipPath id="cc"><circle cx="30" cy="20" r="10.3"/></clipPath><g clip-path="url(#cc)"><circle cx="30" cy="20.5" r="4.2" fill="#9a7b3c"/><path d="M18 31 L24 22 L27 25 L31 19.5 L35 24 L38 21.5 L43 31Z" fill="#2b2b2b"/><path d="M18 31 L24 22 L27 25 L31 19.5 L35 24 L38 21.5 L43 31" fill="none" stroke="#9a7b3c" stroke-width=".5"/></g></svg></div>')
 CAP = ('<div class="cap"><svg viewBox="0 0 300 9" preserveAspectRatio="xMidYMid meet"><line x1="0" y1="4.5" x2="138" y2="4.5" stroke="#555" stroke-width=".5"/>'
        '<path d="M150 0C150.5 3.9 150.5 3.9 154.5 4.5C150.5 5.1 150.5 5.1 150 9C149.5 5.1 149.5 5.1 145.5 4.5C149.5 3.9 149.5 3.9 150 0Z" fill="#222"/>'
        '<line x1="162" y1="4.5" x2="300" y2="4.5" stroke="#555" stroke-width=".5"/></svg></div>')
@@ -75,6 +78,8 @@ def mk(kind, s):
 
 def lead_html(text):
     """First paragraph of a chapter: drop cap and the first words in small caps."""
+    if JA:  # Japanese: no drop cap / small caps; the first paragraph is set without indent
+        return f'<p class="lead">{inline(text)}</p>'
     m = re.match(r"^([“‘\"']?)(\w)(.*)$", text, re.S)
     if m and len(text) < 120:  # too short to carry a drop cap: small caps only
         words = text.split(" ")
@@ -112,6 +117,27 @@ def group_maxims(bl):
             out.append(("h3", title))
         out.append((k, v)); i += 1
     return out
+
+
+def quote_ja(v):
+    """Japanese quotes keep their lines: prose paragraphs, verse lines (| ) and the attribution (――) on its own line."""
+    out, verse = [], []
+    def fl():
+        if verse:
+            out.append('<p class="vq">' + "<br>".join(inline(x) for x in verse) + "</p>"); verse.clear()
+    for line in v.split("\n"):
+        s = line.strip()
+        if s.startswith("|"):
+            verse.append(s.lstrip("| ").strip()); continue
+        fl()
+        if not s:
+            continue
+        if s.startswith("――"):
+            out.append(f'<p class="attr">{inline(s)}</p>')
+        else:
+            out.append(f"<p>{inline(s)}</p>")
+    fl()
+    return "<blockquote>" + "".join(out) + "</blockquote>"
 
 
 def render(bl, lead=False, creed=False):
@@ -152,6 +178,8 @@ def render(bl, lead=False, creed=False):
             else:
                 h.append(('<p class="first">' if first else "<p>") + inline(v) + "</p>")
             first = False
+        elif k == "quote" and JA:
+            h.append(quote_ja(v)); first = True
         elif k == "quote":
             h.append(f"<blockquote><p>{inline(v)}</p></blockquote>"); first = True
         elif k in ("ul", "ol"):
@@ -192,7 +220,30 @@ def fonts_css():
              ("CG", "italic", 400, "CG-Italic.ttf"), ("CG", "italic", 500, "CG-MediumItalic.ttf"),
              ("Jost", "normal", 300, "Jost-Light.ttf"), ("Jost", "normal", 400, "Jost-Regular.ttf"),
              ("Jost", "normal", 500, "Jost-Medium.ttf")]
-    return "".join(f"@font-face{{font-family:{a};font-style:{s};font-weight:{w};src:url('{f(n)}')}}" for a, s, w, n in faces)
+    css = "".join(f"@font-face{{font-family:{a};font-style:{s};font-weight:{w};src:url('{f(n)}')}}" for a, s, w, n in faces)
+    if JA:
+        css += cjk_faces()
+    return css
+
+
+CJK_RANGE = "U+2015,U+2025-2026,U+3000-303F,U+3040-30FF,U+31F0-31FF,U+3400-4DBF,U+4E00-9FFF,U+F900-FAFF,U+FF01-FF60,U+FFE0-FFEF,U+2E80-2FDF,U+FE30-FE4F"
+
+
+def cjk_faces():
+    """Japanese glyphs come from the embedded Noto CJK JP fonts; Latin letters and figures keep the Latin faces."""
+    out = []
+    f = lambda n: "url('file://" + os.path.join(ROOT, "fonts", n) + "')"
+    names = {"serif": (f("NotoSerifJP-Regular.ttf"), f("NotoSerifJP-Bold.ttf")),
+             "sans": (f("NotoSansJP-Regular.ttf"), f("NotoSansJP-Regular.ttf"))}
+    # only the weights/styles that the Latin faces have, otherwise Latin letters would fall back to system fonts
+    latin = {("EBG", "normal"): (400, 600), ("EBG", "italic"): (400,), ("CG", "normal"): (400, 500, 600),
+             ("CG", "italic"): (400, 500), ("Jost", "normal"): (300, 400, 500)}
+    for (fam, style), weights in latin.items():
+        kind = "sans" if fam == "Jost" else "serif"
+        for w in weights:
+            src = names[kind][1 if (w >= 600 and kind == "serif") else 0]
+            out.append(f"@font-face{{font-family:{fam};font-style:{style};font-weight:{w};src:{src};unicode-range:{CJK_RANGE}}}")
+    return "".join(out)
 
 
 def copyright_html():
@@ -246,7 +297,8 @@ def front_section(t, b, kick="", cls=""):
 
 def print_html(c, pages):
     h = [f'<!doctype html><html lang="{LANG_ATTR}"><head><meta charset="utf-8"><style>{fonts_css()}'
-         f'{open(os.path.join(TOOLS, "print.css"), encoding="utf-8").read()}</style></head><body class="{"compact" if B.get("compact_openers") else ""}">']
+         f'{open(os.path.join(TOOLS, "print.css"), encoding="utf-8").read()}'
+         f'{open(os.path.join(TOOLS, "print_ja.css"), encoding="utf-8").read() if JA else ""}</style></head><body class="{"compact" if B.get("compact_openers") else ""}{" ja" if JA else ""}">']
     tl = B["title_lines"]
     h.append(f'<div class="half">{mk("F", "half")}{html.escape(B["title"])}{ORN}</div>')
     h.append(f'''<div class="title recto">{mk("F", "title")}<div class="au">{B["author"]}</div>
@@ -276,7 +328,7 @@ def print_html(c, pages):
                      f'{html.escape(new.get("sub", ""))}</div>'
                      + (f'<div class="motto">' + "".join(f"<p>{inline(x)}</p>" for x in new["motto"]) + '</div>' if new.get("motto") else "")
                      + '</div>')
-        label = f'<div class="num"><span>{lab}</span>{ROMAN[num]}</div>' if lab else ""
+        label = (f'<div class="num">第{kanji_num(num + 1)}{lab}</div>' if JA else f'<div class="num"><span>{lab}</span>{ROMAN[num]}</div>') if lab else ""
         body = render(b, lead=t != creed, creed=t == creed)
         out = [f'<section class="{"recto" if new or t == creed else "page"}{" creed" if t == creed else ""}">{mk("S", s)}{mk("O", s)}'
                f'<div class="opener">{label}<h2{" class=long" if len(t) > 48 else ""}>{inline(t)}</h2></div>{ORN}'
@@ -336,7 +388,7 @@ def place_rectos(doc, pad):
         nonlocal n
         n += 1
         cls = re.sub(r"\brecto\b", "page", m.group(2))
-        before = '<div class="padpage"></div>' if n in pad else ""
+        before = ""
         return f'{before}<{m.group(1)} class="{cls}"{m.group(3)}>{mk("R", f"r{n}")}'
     return re.sub(r'<(div|section) class="([^"]*\brecto\b[^"]*)"([^>]*)>', rep, doc)
 
@@ -373,12 +425,7 @@ def running_heads(pm, titles):
                 cur = s; front = False
         opener = "O" in kinds or "F" in kinds
         recto = i % 2 == 0
-        if front or not visible or "F" in kinds:
-            heads.append((recto, "", False))
-        elif opener:
-            heads.append((recto, "", True))
-        else:
-            heads.append((recto, B["title"] if not recto else titles.get(cur, ""), True))
+        heads.append((recto, "", bool(visible)))
     return heads
 
 
@@ -386,9 +433,9 @@ def overlay_html(heads):
     h = [f'<!doctype html><html lang="{LANG_ATTR}"><head><meta charset="utf-8"><style>{fonts_css()}'
          f'@page{{size:6in 9in;margin:0}} body{{margin:0}}'
          f'{open(os.path.join(TOOLS, "print.css"), encoding="utf-8").read().split("/* overlay")[1].split("*/", 1)[1]}'
-         f'</style></head><body>']
+         f'{".ov .rh{letter-spacing:.12em;font-size:7.4pt}" if JA else ""}</style></head><body>']
     for i, (recto, head, folio) in enumerate(heads):
-        inner, outer = (0.9, 0.66) if recto else (0.66, 0.9)
+        inner, outer = (0.75, 0.55) if recto else (0.55, 0.75)
         rh = ""
         if head:
             pos = f"right:{outer}in" if recto else f"left:{outer if not recto else inner}in"
