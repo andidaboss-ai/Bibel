@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Vandaag ga ik",
+    "checks": [
+      "gelezen",
+      "visie vastgehouden",
+      "één stap gezet"
+    ],
     "toc_parts": [
       "Om te beginnen",
-      "",
+      "In de praktijk",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Hoofdstuk"
+    "chapter": "Hoofdstuk",
+    "practice": "Oefening",
+    "day": "Dag",
+    "source": "Bron:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Voorwoord",
     "Voorwoord van de uitgevers (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Verzameld werk</em><br>Volledige Nederlandse uitgave</p><p>De werken van Wallace D. Wattles (1860–1911) verschenen tussen 1905 en 1910 en zijn vrij van auteursrecht. Vertaling, voorwoord, opmaak en vormgeving van deze uitgave © 2026 Andreas Rupp. Alle rechten voorbehouden.</p><p><strong>Let op:</strong> Dit boek geeft de leer weer van een auteur uit het begin van de twintigste eeuw. Zijn opvattingen over voeding, vasten, ziekte en genezing komen niet overeen met de huidige medische kennis en vormen geen medisch advies. Vasten of maaltijden overslaan kan gevaarlijk zijn, bijvoorbeeld bij diabetes, zwangerschap, eetstoornissen of medicijngebruik. Raadpleeg bij gezondheidsklachten altijd een arts. Dit boek belooft rijkdom noch genezing.</p><p>Bezorgd door Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Verzameld werk</em><br>Volledige Nederlandse uitgave</p><p>De werken van Wallace D. Wattles (1860–1911) verschenen tussen 1905 en 1910 en zijn vrij van auteursrecht. Vertaling, voorwoord, oefeningen, het 30-dagenprogramma, opmaak en vormgeving van deze uitgave © 2026 Andreas Rupp. Alle rechten voorbehouden.</p><p><strong>Let op:</strong> Dit boek geeft de leer weer van een auteur uit het begin van de twintigste eeuw. Zijn opvattingen over voeding, vasten, ziekte en genezing komen niet overeen met de huidige medische kennis en vormen geen medisch advies. Vasten of maaltijden overslaan kan gevaarlijk zijn, bijvoorbeeld bij diabetes, zwangerschap, eetstoornissen of medicijngebruik. Raadpleeg bij gezondheidsklachten altijd een arts. Dit boek belooft rijkdom noch genezing.</p><p>Bezorgd door Andreas Rupp</p>"
 }

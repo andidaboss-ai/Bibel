@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Hoy voy a",
+    "checks": [
+      "leído",
+      "visión mantenida",
+      "un paso dado"
+    ],
     "toc_parts": [
       "Para empezar",
-      "",
+      "Llevarlo a la práctica",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Capítulo"
+    "chapter": "Capítulo",
+    "practice": "Práctica",
+    "day": "Día",
+    "source": "Fuente:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Prefacio",
     "Prólogo de los editores (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Obras reunidas</em><br>Edición completa en español</p><p>Las obras de Wallace D. Wattles (1860–1911) se publicaron entre 1905 y 1910 y son de dominio público. Traducción, prólogo, composición y diseño de esta edición © 2026 Andreas Rupp. Todos los derechos reservados.</p><p><strong>Advertencia:</strong> Este libro recoge las enseñanzas de un autor de principios del siglo XX. Sus ideas sobre la alimentación, el ayuno, la enfermedad y la curación no corresponden al estado actual de la medicina y no constituyen una recomendación médica. Ayunar o saltarse comidas puede ser peligroso, por ejemplo en caso de diabetes, embarazo, trastornos alimentarios o tratamiento con medicamentos. Ante cualquier dolencia, consulte a un médico. El libro no promete ni riqueza ni curación.</p><p>Edición de Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Obras reunidas</em><br>Edición completa en español</p><p>Las obras de Wallace D. Wattles (1860–1911) se publicaron entre 1905 y 1910 y son de dominio público. Traducción, prólogo, prácticas, la práctica de 30 días, composición y diseño de esta edición © 2026 Andreas Rupp. Todos los derechos reservados.</p><p><strong>Advertencia:</strong> Este libro recoge las enseñanzas de un autor de principios del siglo XX. Sus ideas sobre la alimentación, el ayuno, la enfermedad y la curación no corresponden al estado actual de la medicina y no constituyen una recomendación médica. Ayunar o saltarse comidas puede ser peligroso, por ejemplo en caso de diabetes, embarazo, trastornos alimentarios o tratamiento con medicamentos. Ante cualquier dolencia, consulte a un médico. El libro no promete ni riqueza ni curación.</p><p>Edición de Andreas Rupp</p>"
 }

@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Heute will ich",
+    "checks": [
+      "gelesen",
+      "Vision gehalten",
+      "einen Schritt getan"
+    ],
     "toc_parts": [
       "Zu Beginn",
-      "",
+      "In die Praxis",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Kapitel"
+    "chapter": "Kapitel",
+    "practice": "Übung",
+    "day": "Tag",
+    "source": "Quelle:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Vorwort",
     "Vorwort der Herausgeber (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Gesammelte Werke</em><br>Vollständige deutsche Ausgabe</p><p>Die Werke von Wallace D. Wattles (1860–1911) erschienen zwischen 1905 und 1910 und sind gemeinfrei. Übersetzung, Vorwort, Satz und Gestaltung dieser Ausgabe © 2026 Andreas Rupp. Alle Rechte vorbehalten.</p><p><strong>Bitte beachten Sie:</strong> Dieses Buch gibt die Lehren eines Autors aus dem frühen 20. Jahrhundert wieder. Seine Ansichten über Ernährung, Fasten, Krankheit und Heilung entsprechen nicht dem heutigen Stand der Medizin und sind keine medizinische Empfehlung. Fasten oder Mahlzeiten auszulassen kann gefährlich sein, etwa bei Diabetes, in der Schwangerschaft, bei Essstörungen oder unter Medikamenten. Bei Beschwerden wenden Sie sich bitte an eine Ärztin oder einen Arzt. Das Buch verspricht weder Reichtum noch Heilung.</p><p>Herausgegeben von Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Gesammelte Werke</em><br>Vollständige deutsche Ausgabe</p><p>Die Werke von Wallace D. Wattles (1860–1911) erschienen zwischen 1905 und 1910 und sind gemeinfrei. Übersetzung, Vorwort, Übungen, die 30-Tage-Praxis, Satz und Gestaltung dieser Ausgabe © 2026 Andreas Rupp. Alle Rechte vorbehalten.</p><p><strong>Bitte beachten Sie:</strong> Dieses Buch gibt die Lehren eines Autors aus dem frühen 20. Jahrhundert wieder. Seine Ansichten über Ernährung, Fasten, Krankheit und Heilung entsprechen nicht dem heutigen Stand der Medizin und sind keine medizinische Empfehlung. Fasten oder Mahlzeiten auszulassen kann gefährlich sein, etwa bei Diabetes, in der Schwangerschaft, bei Essstörungen oder unter Medikamenten. Bei Beschwerden wenden Sie sich bitte an eine Ärztin oder einen Arzt. Das Buch verspricht weder Reichtum noch Heilung.</p><p>Herausgegeben von Andreas Rupp</p>"
 }

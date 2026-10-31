@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Dziś zamierzam",
+    "checks": [
+      "przeczytane",
+      "wizja utrzymana",
+      "krok zrobiony"
+    ],
     "toc_parts": [
       "Na początek",
-      "",
+      "W praktyce",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Rozdział"
+    "chapter": "Rozdział",
+    "practice": "Ćwiczenie",
+    "day": "Dzień",
+    "source": "Źródło:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Przedmowa",
     "Przedmowa wydawców (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Dzieła zebrane</em><br>Pełne wydanie polskie</p><p>Dzieła Wallace’a D. Wattlesa (1860–1911) ukazały się w latach 1905–1910 i należą do domeny publicznej. Przekład, wstęp, skład i projekt graficzny niniejszego wydania © 2026 Andreas Rupp. Wszelkie prawa zastrzeżone.</p><p><strong>Uwaga:</strong> Książka przedstawia poglądy autora z początku XX wieku. Jego opinie o odżywianiu, poście, chorobie i uzdrawianiu nie odpowiadają współczesnej wiedzy medycznej i nie stanowią porady medycznej. Post lub pomijanie posiłków może być niebezpieczne, np. przy cukrzycy, w ciąży, przy zaburzeniach odżywiania lub przyjmowaniu leków. W razie problemów zdrowotnych zawsze skonsultuj się z lekarzem. Ta książka nie obiecuje ani bogactwa, ani uzdrowienia.</p><p>Opracował Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Dzieła zebrane</em><br>Pełne wydanie polskie</p><p>Dzieła Wallace’a D. Wattlesa (1860–1911) ukazały się w latach 1905–1910 i należą do domeny publicznej. Przekład, wstęp, ćwiczenia, 30-dniowa praktyka, skład i projekt graficzny niniejszego wydania © 2026 Andreas Rupp. Wszelkie prawa zastrzeżone.</p><p><strong>Uwaga:</strong> Książka przedstawia poglądy autora z początku XX wieku. Jego opinie o odżywianiu, poście, chorobie i uzdrawianiu nie odpowiadają współczesnej wiedzy medycznej i nie stanowią porady medycznej. Post lub pomijanie posiłków może być niebezpieczne, np. przy cukrzycy, w ciąży, przy zaburzeniach odżywiania lub przyjmowaniu leków. W razie problemów zdrowotnych zawsze skonsultuj się z lekarzem. Ta książka nie obiecuje ani bogactwa, ani uzdrowienia.</p><p>Opracował Andreas Rupp</p>"
 }

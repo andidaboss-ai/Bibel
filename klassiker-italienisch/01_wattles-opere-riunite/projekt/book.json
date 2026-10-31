@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Oggi farò",
+    "checks": [
+      "letto",
+      "visione mantenuta",
+      "un passo fatto"
+    ],
     "toc_parts": [
       "Per cominciare",
-      "",
+      "Mettere in pratica",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Capitolo"
+    "chapter": "Capitolo",
+    "practice": "Esercizio",
+    "day": "Giorno",
+    "source": "Fonte:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Prefazione",
     "Prefazione degli editori (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Opere riunite</em><br>Edizione integrale in italiano</p><p>Le opere di Wallace D. Wattles (1860–1911) furono pubblicate tra il 1905 e il 1910 e sono di pubblico dominio. Traduzione, prefazione, impaginazione e progetto grafico di questa edizione © 2026 Andreas Rupp. Tutti i diritti riservati.</p><p><strong>Avvertenza:</strong> Questo libro riporta gli insegnamenti di un autore dell’inizio del Novecento. Le sue idee su alimentazione, digiuno, malattia e guarigione non corrispondono alle conoscenze mediche attuali e non costituiscono un consiglio medico. Digiunare o saltare i pasti può essere pericoloso, per esempio in caso di diabete, gravidanza, disturbi alimentari o terapie farmacologiche. Per qualsiasi problema di salute, rivolgiti a un medico. Il libro non promette né ricchezza né guarigione.</p><p>A cura di Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Opere riunite</em><br>Edizione integrale in italiano</p><p>Le opere di Wallace D. Wattles (1860–1911) furono pubblicate tra il 1905 e il 1910 e sono di pubblico dominio. Traduzione, prefazione, esercizi, il percorso di 30 giorni, impaginazione e progetto grafico di questa edizione © 2026 Andreas Rupp. Tutti i diritti riservati.</p><p><strong>Avvertenza:</strong> Questo libro riporta gli insegnamenti di un autore dell’inizio del Novecento. Le sue idee su alimentazione, digiuno, malattia e guarigione non corrispondono alle conoscenze mediche attuali e non costituiscono un consiglio medico. Digiunare o saltare i pasti può essere pericoloso, per esempio in caso di diabete, gravidanza, disturbi alimentari o terapie farmacologiche. Per qualsiasi problema di salute, rivolgiti a un medico. Il libro non promette né ricchezza né guarigione.</p><p>A cura di Andreas Rupp</p>"
 }

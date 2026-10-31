@@ -168,6 +168,15 @@ blockquote p { text-indent: 0; font-family: CG; font-style: italic; font-weight:
 .toc li.part { font-family: CG; font-weight: 600; font-size: 7.6pt; color: #7d6330; }
 .toc li .d { border-bottom-color: #9a7b3c; }
 
+.companion .label { font-family: CG; font-weight: 600; font-size: 7.6pt; letter-spacing: .4em; text-transform: uppercase; color: #7d6330; }
+.companion p { font-size: 9.6pt; line-height: 12.8pt; }
+.companion .cap svg line { stroke: #9a7b3c; }
+.day .dnum { font-family: CG; font-weight: 600; font-size: 8pt; letter-spacing: .5em; color: #555; }
+.day .big { color: #9a7b3c; }
+.day .src { font-family: CG; font-weight: 600; font-size: 7pt; color: #7d6330; }
+.day .check { font-family: CG; }
+.lines .label { font-family: CG; font-weight: 600; letter-spacing: .3em; text-transform: uppercase; font-size: 7pt; color: #7d6330; }
+
 /* overlay (running heads and folios) */
 .ov { width: 6in; height: 9in; position: relative; break-after: page; overflow: hidden; }
 .ov .rh { position: absolute; top: .44in; font-family: Jost; font-weight: 400; font-size: 6.6pt; letter-spacing: .36em; text-transform: uppercase; color: #3a3a3a; white-space: nowrap; }

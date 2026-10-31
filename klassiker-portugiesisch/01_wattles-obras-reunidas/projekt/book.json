@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Hoje eu vou",
+    "checks": [
+      "li",
+      "mantive a visão",
+      "dei um passo"
+    ],
     "toc_parts": [
       "Para começar",
-      "",
+      "Pôr em prática",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Capítulo"
+    "chapter": "Capítulo",
+    "practice": "Prática",
+    "day": "Dia",
+    "source": "Fonte:"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Prefácio",
     "Prefácio dos editores (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Obras Reunidas</em><br>Edição completa em português</p><p>As obras de Wallace D. Wattles (1860–1911) foram publicadas entre 1905 e 1910 e são de domínio público. Tradução, prefácio, diagramação e projeto gráfico desta edição © 2026 Andreas Rupp. Todos os direitos reservados.</p><p><strong>Aviso:</strong> Este livro reproduz os ensinamentos de um autor do início do século XX. Suas ideias sobre alimentação, jejum, doença e cura não correspondem ao conhecimento médico atual e não constituem recomendação médica. Jejuar ou pular refeições pode ser perigoso, por exemplo em caso de diabetes, gravidez, transtornos alimentares ou uso de medicamentos. Em caso de qualquer problema de saúde, consulte um médico. O livro não promete riqueza nem cura.</p><p>Edição de Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Obras Reunidas</em><br>Edição completa em português</p><p>As obras de Wallace D. Wattles (1860–1911) foram publicadas entre 1905 e 1910 e são de domínio público. Tradução, prefácio, práticas, a prática de 30 dias, diagramação e projeto gráfico desta edição © 2026 Andreas Rupp. Todos os direitos reservados.</p><p><strong>Aviso:</strong> Este livro reproduz os ensinamentos de um autor do início do século XX. Suas ideias sobre alimentação, jejum, doença e cura não correspondem ao conhecimento médico atual e não constituem recomendação médica. Jejuar ou pular refeições pode ser perigoso, por exemplo em caso de diabetes, gravidez, transtornos alimentares ou uso de medicamentos. Em caso de qualquer problema de saúde, consulte um médico. O livro não promete riqueza nem cura.</p><p>Edição de Andreas Rupp</p>"
 }

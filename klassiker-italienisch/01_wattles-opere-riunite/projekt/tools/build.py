@@ -285,8 +285,10 @@ def toc_entries(c):
                 e.append(("i", new["title"], "part-" + slug(new["title"])))
         if part.get("toc") is not False:
             e.append(("i", t, key))
-    e += [("part", P[1])] + [("i", t) for t, _ in c["days"]] + [("i", t) for t, _ in c["finder"]]
-    e += [("part", P[2])] + [("i", t) for t, _ in c["back"]]
+    if c["days"] or c["finder"]:
+        e += ([("part", P[1])] if P[1] else []) + [("i", t) for t, _ in c["days"]] + [("i", t) for t, _ in c["finder"]]
+    if c["back"]:
+        e += ([("part", P[2])] if P[2] else []) + [("i", t) for t, _ in c["back"]]
     return e
 
 
@@ -339,10 +341,12 @@ def print_html(c, pages):
             if "reflection" in parts:
                 out.append(f'<div class="label">Reflection</div>{render(parts["reflection"])}')
             if "practice" in parts:
-                out.append(f'<div class="label sub">Practice</div>{render(parts["practice"])}')
+                out.append(f'<div class="label sub">{B["labels"].get("practice", "Practice")}</div>{render(parts["practice"])}')
             if "key" in parts:
                 out.append(f'<div class="key"><div class="label">{B["labels"]["key"]}</div>{render(parts["key"])}</div>')
-            out.append(f'<div class="lines"><div class="label">{B["labels"]["lines"]}</div>' + "<div></div>" * 4 + "</div></div>")
+            if B["labels"].get("lines"):
+                out.append(f'<div class="lines"><div class="label">{B["labels"]["lines"]}</div>' + "<div></div>" * 4 + "</div>")
+            out.append("</div>")
         out.append("</section>")
         h.append("".join(out))
     if c["days"]:
@@ -357,17 +361,17 @@ def print_html(c, pages):
                 intro.append((k, v))
         h.append(front_section(t, intro))
         for dt, db in days:
-            m = re.match(r"Day (\d+)\s*[–-]\s*(.*)", dt)
+            m = re.match(r"\D*?(\d+)\D*?[–-]\s*(.*)", dt)
             n, theme = (m.group(1), m.group(2)) if m else ("", dt)
             body, first = [], True
             for k, v in db:
-                if k == "p" and v.startswith("Source:"):
-                    body.append(f'<div class="src">{inline(v[7:].strip())}</div>')
+                if k == "p" and v.startswith(B["labels"].get("source", "Source:")):
+                    body.append(f'<div class="src">{inline(v[len(B["labels"].get("source", "Source:")):].strip())}</div>')
                 elif k == "p":
                     body.append(('<p class="first">' if first else "<p>") + inline(v) + "</p>"); first = False
                 else:
                     body.append(render([(k, v)]))
-            h.append(f'<section class="day">{mk("S", slug(t))}<div class="dnum">Day</div><div class="big">{n}</div>'
+            h.append(f'<section class="day">{mk("S", slug(t))}<div class="dnum">{B["labels"].get("day", "Day")}</div><div class="big">{n}</div>'
                      f'<h2>{inline(theme)}</h2>{ORN}{"".join(body)}'
                      f'<div class="lines fill"><div class="label">{B["labels"]["day_lines"]}</div><div class="ruled">' + "<div></div>" * 24 + '</div></div>'
                      '<div class="check">' + " &nbsp;&nbsp;&nbsp; ".join(f"☐&#8201; {x}" for x in B["labels"]["checks"]) + '</div></section>')

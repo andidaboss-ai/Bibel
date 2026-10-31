@@ -44,16 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "",
-    "checks": [],
+    "day_lines": "Aujourd’hui, je vais",
+    "checks": [
+      "lu",
+      "vision gardée",
+      "un pas fait"
+    ],
     "toc_parts": [
       "Pour commencer",
-      "",
+      "Passer à la pratique",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Chapitre"
+    "chapter": "Chapitre",
+    "practice": "Exercice",
+    "day": "Jour",
+    "source": "Source :"
   },
   "cover": {
     "emblem": "ascent",
@@ -169,5 +176,5 @@
     "Préface",
     "Préface des éditeurs (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Œuvres réunies</em><br>Édition intégrale en français</p><p>Les œuvres de Wallace D. Wattles (1860–1911) ont paru entre 1905 et 1910 et appartiennent au domaine public. Traduction, préface, mise en page et conception graphique de cette édition © 2026 Andreas Rupp. Tous droits réservés.</p><p><strong>Avertissement :</strong> Ce livre reproduit les enseignements d’un auteur du début du XX<sup>e</sup> siècle. Ses idées sur l’alimentation, le jeûne, la maladie et la guérison ne correspondent pas à l’état actuel de la médecine et ne constituent pas un avis médical. Jeûner ou sauter des repas peut être dangereux, par exemple en cas de diabète, de grossesse, de troubles alimentaires ou de traitement médicamenteux. En cas de problème de santé, consultez un médecin. Ce livre ne promet ni richesse ni guérison.</p><p>Édition établie par Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Œuvres réunies</em><br>Édition intégrale en français</p><p>Les œuvres de Wallace D. Wattles (1860–1911) ont paru entre 1905 et 1910 et appartiennent au domaine public. Traduction, préface, exercices, programme de 30 jours, mise en page et conception graphique de cette édition © 2026 Andreas Rupp. Tous droits réservés.</p><p><strong>Avertissement :</strong> Ce livre reproduit les enseignements d’un auteur du début du XX<sup>e</sup> siècle. Ses idées sur l’alimentation, le jeûne, la maladie et la guérison ne correspondent pas à l’état actuel de la médecine et ne constituent pas un avis médical. Jeûner ou sauter des repas peut être dangereux, par exemple en cas de diabète, de grossesse, de troubles alimentaires ou de traitement médicamenteux. En cas de problème de santé, consultez un médecin. Ce livre ne promet ni richesse ni guérison.</p><p>Édition établie par Andreas Rupp</p>"
 }
