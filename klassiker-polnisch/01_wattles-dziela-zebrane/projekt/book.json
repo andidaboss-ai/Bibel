@@ -1,0 +1,173 @@
+{
+  "slug": "wattles-dziela-zebrane",
+  "title": "Dzieła zebrane",
+  "kdp_title": "Wallace D. Wattles – Dzieła zebrane",
+  "subtitle": "Nauka bogacenia się, Nauka bycia zdrowym, Nauka bycia wielkim i siedem innych dzieł – pełne wydanie polskie",
+  "title_lines": [
+    "Wallace D.",
+    "Wattles",
+    "Dzieła zebrane"
+  ],
+  "title_styles": [
+    "big",
+    "big",
+    "small"
+  ],
+  "author": "Wallace D. Wattles",
+  "author_years": "1860–1911",
+  "first_published": 1910,
+  "pd_statement": "Dzieła Wallace’a D. Wattlesa (1860–1911) ukazały się w latach 1905–1910 i należą do domeny publicznej.",
+  "editor": "Andreas Rupp",
+  "edition": "Pełne wydanie polskie",
+  "title_page_sub": [
+    "Dziesięć dzieł w jednym tomie",
+    "przełożone w całości z języka angielskiego"
+  ],
+  "part_title": "",
+  "part_sub": "",
+  "epigraph": {
+    "text": "Najlepsze, co możesz zrobić dla całego świata, to wydobyć z siebie to, co najlepsze.",
+    "source": "Wallace D. Wattles, Nauka bogacenia się"
+  },
+  "unnumbered": [
+    "Przedmowa",
+    "Przedmowa wydawców (1905)"
+  ],
+  "creed": "",
+  "trim": [
+    6,
+    9
+  ],
+  "health_note": false,
+  "numbered_sections": false,
+  "compact_openers": false,
+  "labels": {
+    "key": "",
+    "lines": "",
+    "day_lines": "",
+    "checks": [],
+    "toc_parts": [
+      "Na początek",
+      "",
+      ""
+    ],
+    "practice_word": "",
+    "new_material": "",
+    "chapter": "Rozdział"
+  },
+  "cover": {
+    "emblem": "ascent",
+    "sky": [
+      "#24304f",
+      "#121a2e",
+      "#05070e"
+    ],
+    "sub": [
+      "Nauka bogacenia się, bycia zdrowym",
+      "i bycia wielkim – oraz siedem innych dzieł"
+    ],
+    "small_size": 96,
+    "title_size": 215,
+    "emblem_y": 1380,
+    "kicker": "Dziesięć dzieł w jednym tomie",
+    "spine_sub": "Wallace D. Wattles"
+  },
+  "back": {
+    "kicker": "Klasyka Nowej Myśli",
+    "headline": [
+      "Myśleć w Określony Sposób.",
+      "Działać w Określony Sposób.",
+      "Stać się tym, kim możesz być."
+    ],
+    "paras": [
+      "W 1910 roku Wallace D. Wattles opublikował niewielką książkę, której wznowienia ukazują się do dziś: Naukę bogacenia się – dzieło, które później zainspirowało światowy bestseller Sekret. W tym samym roku ukazały się Nauka bycia zdrowym i Nauka bycia wielkim.",
+      "To staranne wydanie gromadzi w jednym tomie dziesięć jego dzieł, każde przełożone w całości, zdanie po zdaniu, z oryginalnych wydań amerykańskich: od trzech „nauk”, przez pisma o sukcesie, zdrowiu i nauce Jezusa, aż po jego jedyną powieść, Piekielnego Harrisona."
+    ],
+    "bullets": [
+      "Dziesięć kompletnych dzieł w jednym tomie",
+      "Nowy, pełny przekład z oryginału",
+      "Trzy „nauki” i siedem innych dzieł",
+      "Ze wstępem i notą o źródłach",
+      "Staranny skład, wygodna lektura"
+    ],
+    "quote": [
+      "„Masz tworzyć,",
+      "a nie rywalizować o to,",
+      "co już zostało stworzone”."
+    ],
+    "headline_size": 0.3
+  },
+  "parts": [
+    {
+      "first_index": 0,
+      "title": "Nauka bogacenia się",
+      "sub": "1910 · siedemnaście rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 18,
+      "title": "Nauka bycia zdrowym",
+      "sub": "1910 · siedemnaście rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 36,
+      "title": "Nauka bycia wielkim",
+      "sub": "1910",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 58,
+      "title": "Jak zdobyć to, czego chcesz",
+      "sub": "pięć rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 63,
+      "title": "Człowiek, który potrafi",
+      "sub": "1909 · dziewięć rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 72,
+      "title": "Nowa nauka życia i uzdrawiania",
+      "sub": "dziewięć rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 81,
+      "title": "Czym jest prawda?",
+      "sub": "The Nautilus · 1909 · siedem rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 88,
+      "title": "Nowy Chrystus",
+      "sub": "osiem rozdziałów",
+      "label": "Rozdział"
+    },
+    {
+      "first_index": 96,
+      "title": "Jezus: człowiek i jego dzieło",
+      "sub": "wykład · 1905",
+      "label": ""
+    },
+    {
+      "first_index": 98,
+      "title": "Piekielny Harrison",
+      "sub": "powieść · 1910",
+      "label": ""
+    }
+  ],
+  "rh_max": 46,
+  "crisis_note": false,
+  "practice_kind": "a practice of thought and character",
+  "lang": "pl",
+  "byline": "Opracował Andreas Rupp",
+  "contents_label": "Spis treści",
+  "rh_part_for": [
+    "Przedmowa",
+    "Przedmowa wydawców (1905)"
+  ],
+  "copyright_html": "<p><em>Wallace D. Wattles – Dzieła zebrane</em><br>Pełne wydanie polskie</p><p>Dzieła Wallace’a D. Wattlesa (1860–1911) ukazały się w latach 1905–1910 i należą do domeny publicznej. Przekład, wstęp, skład i projekt graficzny niniejszego wydania © 2026 Andreas Rupp. Wszelkie prawa zastrzeżone.</p><p><strong>Uwaga:</strong> Książka przedstawia poglądy autora z początku XX wieku. Jego opinie o odżywianiu, poście, chorobie i uzdrawianiu nie odpowiadają współczesnej wiedzy medycznej i nie stanowią porady medycznej. Post lub pomijanie posiłków może być niebezpieczne, np. przy cukrzycy, w ciąży, przy zaburzeniach odżywiania lub przyjmowaniu leków. W razie problemów zdrowotnych zawsze skonsultuj się z lekarzem. Ta książka nie obiecuje ani bogactwa, ani uzdrowienia.</p><p>Opracował Andreas Rupp</p>"
+}
