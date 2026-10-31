@@ -1,5 +1,23 @@
 ## How to Use This Book
 
+^^ Dear Reader,
+
+how wonderful that you are here.
+
+It is no accident that you are holding this book. Something in you longs for more: more life, more joy, more freedom. That longing is good. It is the beginning of everything that lies ahead.
+
+More than a hundred years ago, Wallace D. Wattles wrote down what he had learned about wealth, health and a fulfilling life. His words have encouraged millions of people ever since, and now they have found their way to you.
+
+I wish with all my heart that this book will be your companion on the road to prosperity and success, to happiness and good health. May it give you confidence when you need it, and ideas that make your life more beautiful.
+
+So lean back, take a deep breath, and go ahead and smile a little. The best is yet to come.
+
+=> With warmest wishes,
+
+=> Andreas Rupp
+
+* * *
+
 This volume brings together ten works by Wallace D. Wattles, and each one is printed complete. Nothing has been shortened or modernized, so you read Wattles in his own words, with all the force and all the period flavor of the originals.
 
 Around those texts we have added a set of tools meant to help you understand and use them. Each work opens with a short introduction that tells you when it appeared, what it is about, and how it fits into the rest of Wattles' writing. After every chapter you will find three short pieces. The **Reflection** explains in plain modern language what the chapter says and what it might mean for a reader today. The **Practice** suggests one small, concrete exercise. The **Key Thought** is a single line from the chapter to carry with you. Below these there is space for your own notes. Write in it. A book like this works best when you argue with it, agree with it, and record what actually happens when you try its ideas.

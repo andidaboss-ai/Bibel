@@ -1,5 +1,23 @@
 ## Prefazione del curatore
 
+^^ Cara lettrice, caro lettore,
+
+che bello che tu sia qui.
+
+Non è un caso che tu tenga questo libro tra le mani. Qualcosa dentro di te desidera di più: più vita, più gioia, più libertà. Questo desiderio è buono. È l’inizio di tutto ciò che verrà.
+
+Più di cento anni fa, Wallace D. Wattles mise per iscritto ciò che aveva imparato sulla ricchezza, sulla salute e su una vita piena. Da allora le sue parole hanno dato coraggio a milioni di persone, e ora sono arrivate fino a te.
+
+Ti auguro di cuore che questo libro ti accompagni nel tuo cammino verso il benessere e il successo, verso la felicità e una buona salute. Possa donarti fiducia quando ne hai bisogno, e idee che rendano più bella la tua vita.
+
+Mettiti comodo, fai un respiro profondo e concediti un piccolo sorriso. Il meglio deve ancora venire.
+
+=> Con tutto il cuore, ogni bene,
+
+=> Andreas Rupp
+
+* * *
+
 Wallace Delois Wattles nacque nel 1860 negli Stati Uniti e morì nel febbraio del 1911. Per gran parte della sua vita conobbe la povertà e gli insuccessi, e la sua opera è la risposta a questa esperienza: un insegnamento di vita che non si limitò a mettere per iscritto, ma che negli ultimi anni cercò di vivere egli stesso.
 
 Wattles apparteneva al movimento del *Nuovo Pensiero* (*New Thought*), una corrente spirituale americana della fine dell’Ottocento e dell’inizio del Novecento, convinta che il pensiero dell’essere umano plasmi la sua vita. Molti dei suoi testi apparvero dapprima come articoli sulla rivista *The Nautilus* e come libri presso l’editrice Elizabeth Towne, a Holyoke, nel Massachusetts.

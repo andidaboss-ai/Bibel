@@ -1,4 +1,4 @@
-> **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **410 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 410 pages, cover 13.173 x 9.250 in, spine 0.923 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 410 pages, cover 14.688 x 10.418 in, spine 1.112 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
+> **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **411 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 411 pages, cover 13.176 x 9.250 in, spine 0.926 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 411 pages, cover 14.691 x 10.418 in, spine 1.115 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 
 # KDP-Anleitung: „Wallace D. Wattles – Obras Reunidas“ (brasilianisch-portugiesische Ausgabe)
 

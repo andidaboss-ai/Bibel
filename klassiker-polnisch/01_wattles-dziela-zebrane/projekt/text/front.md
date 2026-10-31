@@ -1,5 +1,23 @@
 ## Wstęp wydawcy
 
+^^ Droga Czytelniczko, Drogi Czytelniku,
+
+jak dobrze, że jesteś.
+
+To nie przypadek, że trzymasz tę książkę w dłoniach. Coś w tobie pragnie więcej: więcej życia, więcej radości, więcej wolności. To pragnienie jest dobre. Jest początkiem wszystkiego, co nadejdzie.
+
+Ponad sto lat temu Wallace D. Wattles spisał to, czego nauczył się o bogactwie, zdrowiu i spełnionym życiu. Jego słowa dodały od tamtej pory otuchy milionom ludzi, a teraz dotarły do ciebie.
+
+Z całego serca życzę ci, aby ta książka towarzyszyła ci w drodze do dobrobytu i sukcesu, do szczęścia i dobrego zdrowia. Niech daje ci ufność, gdy jej potrzebujesz, i pomysły, które uczynią twoje życie piękniejszym.
+
+Rozsiądź się wygodnie, weź głęboki oddech i uśmiechnij się choć trochę. Najlepsze wciąż przed tobą.
+
+=> Z serdecznymi życzeniami wszystkiego dobrego,
+
+=> Andreas Rupp
+
+* * *
+
 Wallace Delois Wattles urodził się w 1860 roku w Stanach Zjednoczonych i zmarł w lutym 1911 roku. Przez znaczną część życia zaznał biedy i niepowodzeń, a jego dzieło jest odpowiedzią na to doświadczenie: nauką o życiu, którą nie tylko przelał na papier, lecz w ostatnich latach próbował także sam wcielać w życie.
 
 Wattles należał do ruchu *Nowej Myśli* (*New Thought*), amerykańskiego nurtu duchowego z przełomu XIX i XX wieku, przekonanego, że myślenie człowieka kształtuje jego życie. Wiele jego tekstów ukazało się najpierw jako artykuły w czasopiśmie *The Nautilus* oraz jako książki w wydawnictwie Elizabeth Towne w Holyoke w stanie Massachusetts.

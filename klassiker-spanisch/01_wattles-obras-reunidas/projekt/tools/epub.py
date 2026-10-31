@@ -36,7 +36,8 @@ p.sec { text-indent: 0; margin-top: .5em; }
 .sn { font-weight: bold; margin-right: .4em; }
 .verse { margin: .6em 0 .6em 1.5em; }
 .dn { font-variant: small-caps; }
-p.salute { text-indent: 0; font-style: italic; }
+p.salute { text-indent: 0; font-size: 1.25em; color: #7d6330; margin-bottom: .8em; }
+p.salute + p { text-indent: 0; }
 p.close { text-indent: 0; text-align: right; font-style: italic; }
 p.fnote { text-indent: 0; font-size: .85em; }
 .verse p { text-indent: 0; font-style: italic; text-align: left; }

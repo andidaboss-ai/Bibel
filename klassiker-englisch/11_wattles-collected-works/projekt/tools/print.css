@@ -181,3 +181,8 @@ p.fnote { text-indent: 0; font-size: 9.4pt; line-height: 12.6pt; margin: 3pt 0; 
 .opener h2.long { font-size: 20pt; line-height: 1.14; padding: 0 .2in; text-wrap: balance; }
 .half .motto { display: table; margin: .55in auto 0; text-align: left; }
 .half .motto p { font-family: CG; font-style: italic; font-weight: 500; font-size: 12pt; line-height: 16pt; text-indent: 0; margin: 0; letter-spacing: 0; text-transform: none; }
+
+/* welcome address */
+p.salute { font-family: CG; font-style: normal; font-weight: 500; font-size: 14pt; line-height: 1.25; color: #7d6330; margin: 2pt 0 10pt; }
+p.close { font-family: CG; font-size: 13pt; line-height: 1.2; margin-top: 2pt; color: #3a2f1c; }
+p.salute + p { text-indent: 0; }

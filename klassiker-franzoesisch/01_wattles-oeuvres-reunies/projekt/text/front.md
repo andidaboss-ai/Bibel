@@ -1,5 +1,23 @@
 ## Préface de l’éditeur
 
+^^ Chère lectrice, cher lecteur,
+
+quelle joie que vous soyez là.
+
+Ce n’est pas un hasard si vous tenez ce livre entre vos mains. Quelque chose en vous aspire à davantage : davantage de vie, de joie, de liberté. Ce désir est bon. Il est le commencement de tout ce qui vient.
+
+Il y a plus de cent ans, Wallace D. Wattles a mis par écrit ce qu’il avait appris sur la richesse, la santé et une vie épanouie. Depuis, ses mots ont donné courage à des millions de personnes, et les voici maintenant arrivés jusqu’à vous.
+
+Je vous souhaite de tout cœur que ce livre vous accompagne sur votre chemin vers la prospérité et la réussite, vers le bonheur et une bonne santé. Puisse-t-il vous donner confiance quand vous en avez besoin, et des idées qui embellissent votre vie.
+
+Installez-vous confortablement, respirez profondément et autorisez-vous un petit sourire. Le meilleur est encore devant vous.
+
+=> De tout cœur, je vous souhaite le meilleur,
+
+=> Andreas Rupp
+
+* * *
+
 Wallace Delois Wattles naquit en 1860 aux États-Unis et mourut en février 1911. Une grande partie de sa vie fut marquée par la pauvreté et les revers, et son œuvre est la réponse à cette expérience : un enseignement de vie qu’il ne se contenta pas de mettre par écrit, mais qu’il s’efforça, dans ses dernières années, de vivre lui-même.
 
 Wattles appartenait au mouvement de la *Nouvelle Pensée* (*New Thought*), un courant spirituel américain de la fin du XIXe et du début du XXe siècle, convaincu que la pensée de l’être humain façonne sa vie. Beaucoup de ses textes parurent d’abord sous forme d’articles dans la revue *The Nautilus* et en volumes chez l’éditrice Elizabeth Towne, à Holyoke, dans le Massachusetts.

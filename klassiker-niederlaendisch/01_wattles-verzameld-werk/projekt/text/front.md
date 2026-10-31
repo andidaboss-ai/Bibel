@@ -1,5 +1,23 @@
 ## Voorwoord van de bezorger
 
+^^ Beste lezer,
+
+wat fijn dat je er bent.
+
+Dat je dit boek in handen hebt, is geen toeval. Iets in jou verlangt naar meer: meer leven, meer vreugde, meer vrijheid. Dat verlangen is goed. Het is het begin van alles wat komt.
+
+Meer dan honderd jaar geleden schreef Wallace D. Wattles op wat hij had geleerd over rijkdom, gezondheid en een vervuld leven. Zijn woorden hebben sindsdien miljoenen mensen moed gegeven, en nu zijn ze bij jou aangekomen.
+
+Ik wens je van harte dat dit boek je vergezelt op je weg naar welvaart en succes, naar geluk en een goede gezondheid. Moge het je vertrouwen geven wanneer je dat nodig hebt, en ideeën die je leven mooier maken.
+
+Leun achterover, haal diep adem en glimlach gerust een beetje. Het beste ligt nog voor je.
+
+=> Hartelijke groet en alle goeds,
+
+=> Andreas Rupp
+
+* * *
+
 Wallace Delois Wattles werd in 1860 in de Verenigde Staten geboren en stierf in februari 1911. Een groot deel van zijn leven kende hij armoede en tegenslag, en zijn werk is het antwoord op die ervaring: een levensleer die hij niet alleen op papier zette, maar in zijn laatste jaren ook zelf probeerde te leven.
 
 Wattles behoorde tot de beweging van het *Nieuwe Denken* (*New Thought*), een Amerikaanse spirituele stroming van het einde van de negentiende en het begin van de twintigste eeuw, die ervan overtuigd was dat het denken van de mens zijn leven vormgeeft. Veel van zijn teksten verschenen eerst als artikelen in het tijdschrift *The Nautilus* en als boeken bij de uitgeverij van Elizabeth Towne in Holyoke, Massachusetts.

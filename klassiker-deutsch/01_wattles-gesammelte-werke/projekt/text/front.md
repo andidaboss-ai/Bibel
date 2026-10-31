@@ -1,5 +1,23 @@
 ## Vorwort des Herausgebers
 
+^^ Liebe Leserin, lieber Leser,
+
+wie schön, dass Sie da sind.
+
+Dass Sie dieses Buch in den Händen halten, ist kein Zufall. Irgendetwas in Ihnen wünscht sich mehr: mehr Leben, mehr Freude, mehr Freiheit. Dieser Wunsch ist gut. Er ist der Anfang von allem, was kommt.
+
+Vor über hundert Jahren hat Wallace D. Wattles aufgeschrieben, was er über Reichtum, Gesundheit und ein erfülltes Leben gelernt hatte. Seine Worte haben seitdem Millionen Menschen Mut gemacht, und nun sind sie bei Ihnen angekommen.
+
+Ich wünsche Ihnen von Herzen, dass dieses Buch Sie begleitet, auf Ihrem Weg zu Wohlstand und Erfolg, zu Glück und guter Gesundheit. Möge es Ihnen Zuversicht schenken, wenn Sie sie brauchen, und Ideen, die Ihr Leben schöner machen.
+
+Lehnen Sie sich zurück, atmen Sie tief durch und lächeln Sie ruhig ein wenig. Das Beste liegt noch vor Ihnen.
+
+=> Von Herzen alles Gute,
+
+=> Andreas Rupp
+
+* * *
+
 Wallace Delois Wattles wurde 1860 in den Vereinigten Staaten geboren und starb im Februar 1911. Sein Leben war lange von Armut und Rückschlägen geprägt – und sein Werk ist die Antwort darauf: eine Lebenslehre, die er nicht nur aufschrieb, sondern in seinen letzten Jahren selbst zu leben versuchte.
 
 Wattles gehörte zur Bewegung des *New Thought*, einer amerikanischen Geistesströmung des späten 19. und frühen 20. Jahrhunderts, die davon überzeugt war, dass das Denken des Menschen sein Leben gestaltet. Viele seiner Texte erschienen zuerst als Artikel in der Zeitschrift *The Nautilus* und als Bücher im Verlag von Elizabeth Towne in Holyoke, Massachusetts.
