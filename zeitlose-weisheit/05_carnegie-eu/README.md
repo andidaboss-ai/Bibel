@@ -1,0 +1,2 @@
+# Band 5 – Carnegie (NUR EU-Vertrieb)
+Inhalt: How to Win Friends and Influence People (Originalfassung 1936) + How to Stop Worrying and Start Living (Originalfassung 1948). Carnegie †1.11.1955 → EU gemeinfrei seit 1.1.2026. USA: geschützt bis 2032 (1936) bzw. 2044 (1948) → bei KDP nur EU-Marktplätze freigeben; KDP-Sperr-Risiko, Alternative BoD/tolino. Keine Formulierungen aus der Revision 1981/1984. "Dale Carnegie" ist eine Marke → nur als Autorname.

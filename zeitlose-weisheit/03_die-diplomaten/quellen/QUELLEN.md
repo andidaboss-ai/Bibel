@@ -22,3 +22,15 @@ Nicht heruntergeladen / offen:
 - Revised Edition 1981 (Dorothy Carnegie u. a.): eigene Rechte bis lange nach 2050 ❌ – keine Formulierungen/Kapitel daraus (z. B. moderne Beispiele, TV-Kapitelnamen).
 - Übersetzungen (dt. "Wie man Freunde gewinnt", Scherz/Fischer u. a.): Übersetzerrechte ❌ → eigene Übersetzung aus dem englischen 1936-Text.
 - Marke: "Dale Carnegie" ist eine eingetragene Marke (Dale Carnegie & Associates). Name als Autorenangabe ok, aber nicht als Reihen-/Markenlogo, keine "offizielle Ausgabe"-Optik.
+
+## Update 01.11.2026 – vollständige Quellensuche
+| Datei | Werk | Übersetzer / Jahr | Quelle | EU | USA | Sauberkeit |
+|---|---|---|---|---|---|---|
+| castiglione_cortegiano_original_it.txt ⭐ | Il libro del Cortegiano, Original (mit Annotazioni der Ausgabe) | Original 1528 | https://it.wikisource.org/wiki/Il_libro_del_Cortegiano | ✅ | ✅ | sauber |
+| gracian_handorakel_schopenhauer_de_ocr.txt ⭐ DE | Handorakel und Kunst der Weltklugheit | Arthur Schopenhauer (†1860); Druck Otto Walter, Olten 1942 | https://archive.org/details/balthasar-gracian-handorakel-und-kunst-der-weltklugheit-1942 | ✅ | ✅ (Schopenhauers Text 1862) | ⚠️ OCR gut, Silbentrennungen/Seitenzahlen entfernen; Vorwort/Anmerkungen von 1942 NICHT übernehmen |
+| gracian_homme-de-cour_amelot-1684_fr.txt ⭐ FR | L'Homme de cour (300 Maximen) | Amelot de la Houssaie (†1706), 1684 | https://fr.wikisource.org/wiki/L’Homme_de_cour_(La_Houssaie) | ✅ | ✅ | sauber (alte Orthografie) |
+| carnegie-esenwein_art-of-public-speaking-1915_en.txt ⭐ | The Art of Public Speaking | Esenwein (†1946) & Carnegie (†1955), 1915 | https://www.gutenberg.org/ebooks/16317 (verifiziert) | ✅ (seit 2026) | ✅ (vor 1931) | sauber |
+| carnegie_public-speaking-influencing-men-1926_en_ocr.txt ⭐ | Public Speaking and Influencing Men in Business, Ausgabe 1926 | Carnegie | https://archive.org/details/bwb_T5-CCE-130_2 | ✅ (seit 2026) | ✅ 1926 + 95 J. → frei seit 01.01.2022 (unabhängig von Verlängerung) | ⚠️ OCR (Scan), Korrektur nötig |
+| alternativ/carnegie_public-speaking_1937-rev_en_ocr_NICHT-USA.txt | dieselbe, **überarbeitete Fassung 1937** (indischer Druck 1940) | Carnegie | https://archive.org/details/in.ernet.dli.2015.507373 | ✅ | ❌ bis 2032 (Revision 1937) | nur Vergleich, nicht für US-Ausgabe |
+
+Gracián Jacobs (EN, OCR) bleibt als Arbeitsdatei; automatische Korrektur nicht sinnvoll (Google-Scan mit Fußnoten) → beim Satz manuell bereinigen. Castiglione DE/FR/ES: keine PD-Fassung als Text gefunden. Carnegie 1936/1948 → siehe Ordner 05_carnegie-eu.
