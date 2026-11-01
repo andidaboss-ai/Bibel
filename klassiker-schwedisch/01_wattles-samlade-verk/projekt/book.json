@@ -1,12 +1,12 @@
 {
-  "slug": "wattles-verzameld-werk",
-  "title": "Verzameld werk",
-  "kdp_title": "Wallace D. Wattles – Verzameld werk",
-  "subtitle": "De wetenschap van het rijk worden, De wetenschap van het gezond zijn, De wetenschap van het groot worden en zeven andere werken – volledige Nederlandse uitgave",
+  "slug": "wattles-samlade-verk",
+  "title": "Samlade verk",
+  "kdp_title": "Wallace D. Wattles – Samlade verk",
+  "subtitle": "Vetenskapen om att bli rik, Vetenskapen om att vara frisk, Vetenskapen om att bli stor och sju andra verk – komplett svensk utgåva",
   "title_lines": [
     "Wallace D.",
     "Wattles",
-    "Verzameld werk"
+    "Samlade verk"
   ],
   "title_styles": [
     "big",
@@ -16,22 +16,22 @@
   "author": "Wallace D. Wattles",
   "author_years": "1860–1911",
   "first_published": 1910,
-  "pd_statement": "De werken van Wallace D. Wattles (1860–1911) verschenen tussen 1905 en 1910 en zijn vrij van auteursrecht.",
+  "pd_statement": "Wallace D. Wattles (1860–1911) verk utkom mellan 1905 och 1910 och är fria från upphovsrätt.",
   "editor": "Andreas Rupp",
-  "edition": "Volledige Nederlandse uitgave",
+  "edition": "Komplett svensk utgåva",
   "title_page_sub": [
-    "Tien werken in één band",
-    "integraal vertaald uit het Engels"
+    "Tio verk i en volym",
+    "oavkortat översatta från engelskan"
   ],
   "part_title": "",
   "part_sub": "",
   "epigraph": {
-    "text": "Het allerbeste wat je voor de hele wereld kunt doen, is het beste uit jezelf te halen.",
-    "source": "Wallace D. Wattles, De wetenschap van het rijk worden"
+    "text": "Det bästa du kan göra för hela världen är att göra det bästa av dig själv.",
+    "source": "Wallace D. Wattles, Vetenskapen om att bli rik"
   },
   "unnumbered": [
-    "Voorwoord",
-    "Voorwoord van de uitgevers (1905)"
+    "Förord",
+    "Utgivarnas förord (1905)"
   ],
   "creed": "",
   "trim": [
@@ -44,23 +44,23 @@
   "labels": {
     "key": "",
     "lines": "",
-    "day_lines": "Vandaag ga ik",
+    "day_lines": "I dag ska jag",
     "checks": [
-      "gelezen",
-      "visie vastgehouden",
-      "één stap gezet"
+      "läsa",
+      "hålla fast vid visionen",
+      "ta ett steg"
     ],
     "toc_parts": [
-      "Om te beginnen",
-      "In de praktijk",
+      "Till att börja med",
+      "I praktiken",
       ""
     ],
     "practice_word": "",
     "new_material": "",
-    "chapter": "Hoofdstuk",
-    "practice": "Oefening",
+    "chapter": "Kapitel",
+    "practice": "Övning",
     "day": "Dag",
-    "source": "Bron:"
+    "source": "Källa:"
   },
   "cover": {
     "emblem": "ascent",
@@ -70,111 +70,111 @@
       "#05070e"
     ],
     "sub": [
-      "De wetenschap van het rijk worden, het gezond zijn",
-      "en het groot worden – en zeven andere werken"
+      "Vetenskapen om att bli rik, att vara frisk",
+      "och att bli stor – och sju andra verk"
     ],
     "small_size": 96,
     "title_size": 215,
     "emblem_y": 1380,
-    "kicker": "Tien werken in één band",
+    "kicker": "Tio verk i en volym",
     "spine_sub": "Wallace D. Wattles"
   },
   "back": {
-    "kicker": "De klassieker van het Nieuwe Denken",
+    "kicker": "Klassikern från Nytt Tänkande",
     "headline": [
-      "Denken op een Bepaalde Manier.",
-      "Handelen op een Bepaalde Manier.",
-      "Worden wat je kunt zijn."
+      "Tänka på ett Bestämt Sätt.",
+      "Handla på ett Bestämt Sätt.",
+      "Bli den du kan vara."
     ],
     "paras": [
-      "In 1910 publiceerde Wallace D. Wattles een klein boek dat sindsdien nooit meer uit druk is geweest: De wetenschap van het rijk worden, het werk dat later de wereldwijde bestseller The Secret inspireerde. In hetzelfde jaar verschenen De wetenschap van het gezond zijn en De wetenschap van het groot worden.",
-      "Deze verzorgde uitgave brengt tien van zijn werken samen in één band, elk integraal en zin voor zin vertaald uit de oorspronkelijke Amerikaanse uitgaven: van de drie ‘wetenschapsboeken’, via zijn geschriften over succes, gezondheid en de leer van Jezus, tot zijn enige roman, Hellevuur-Harrison."
+      "År 1910 gav Wallace D. Wattles ut en liten bok som sedan dess aldrig har gått ur tryck: Vetenskapen om att bli rik, verket som senare inspirerade den världsomspännande bästsäljaren The Secret. Samma år utkom Vetenskapen om att vara frisk och Vetenskapen om att bli stor.",
+      "Denna omsorgsfulla utgåva samlar tio av hans verk i en volym, vart och ett oavkortat och mening för mening översatt från de ursprungliga amerikanska utgåvorna: från de tre ”vetenskapsböckerna”, via hans skrifter om framgång, hälsa och Jesu lära, till hans enda roman, Helveteseld-Harrison."
     ],
     "bullets": [
-      "Tien volledige werken in één band",
-      "Nieuwe, volledige vertaling uit het origineel",
-      "De drie ‘wetenschapsboeken’ en zeven andere werken",
-      "Met voorwoord en verantwoording van de bronnen",
-      "Fraaie opmaak, prettig leesbaar"
+      "Tio kompletta verk i en volym",
+      "Ny, fullständig översättning från originalet",
+      "De tre ”vetenskapsböckerna” och sju andra verk",
+      "Med förord, övningar och 30-dagarsprogram",
+      "Vacker typografi, behaglig att läsa"
     ],
     "quote": [
-      "“Je moet scheppen,",
-      "niet wedijveren om wat",
-      "al geschapen is.”"
+      "”Du ska skapa,",
+      "inte konkurrera om det som",
+      "redan är skapat.”"
     ],
     "headline_size": 0.3
   },
   "parts": [
     {
       "first_index": 0,
-      "title": "De wetenschap van het rijk worden",
-      "sub": "1910 · zeventien hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Vetenskapen om att bli rik",
+      "sub": "1910 · sjutton kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 18,
-      "title": "De wetenschap van het gezond zijn",
-      "sub": "1910 · zeventien hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Vetenskapen om att vara frisk",
+      "sub": "1910 · sjutton kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 36,
-      "title": "De wetenschap van het groot worden",
+      "title": "Vetenskapen om att bli stor",
       "sub": "1910",
-      "label": "Hoofdstuk"
+      "label": "Kapitel"
     },
     {
       "first_index": 58,
-      "title": "Hoe je krijgt wat je wilt",
-      "sub": "vijf hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Hur du får det du vill ha",
+      "sub": "fem kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 63,
-      "title": "De mens die het kan",
-      "sub": "1909 · negen hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Människan som kan",
+      "sub": "1909 · nio kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 72,
-      "title": "De nieuwe wetenschap van leven en genezen",
-      "sub": "negen hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Den nya vetenskapen om liv och läkning",
+      "sub": "nio kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 81,
-      "title": "Wat is waarheid?",
-      "sub": "The Nautilus · 1909 · zeven hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "Vad är sanning?",
+      "sub": "The Nautilus · 1909 · sju kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 88,
-      "title": "Een nieuwe Christus",
-      "sub": "acht hoofdstukken",
-      "label": "Hoofdstuk"
+      "title": "En ny Kristus",
+      "sub": "åtta kapitel",
+      "label": "Kapitel"
     },
     {
       "first_index": 96,
-      "title": "Jezus: de mens en zijn werk",
-      "sub": "een lezing · 1905",
+      "title": "Jesus: människan och hans verk",
+      "sub": "en föreläsning · 1905",
       "label": ""
     },
     {
       "first_index": 98,
-      "title": "Hellevuur-Harrison",
-      "sub": "een roman · 1910",
+      "title": "Helveteseld-Harrison",
+      "sub": "en roman · 1910",
       "label": ""
     }
   ],
   "rh_max": 46,
   "crisis_note": false,
   "practice_kind": "a practice of thought and character",
-  "lang": "nl",
-  "byline": "Bezorgd door Andreas Rupp",
-  "contents_label": "Inhoud",
+  "lang": "sv",
+  "byline": "Utgiven av Andreas Rupp",
+  "contents_label": "Innehåll",
   "rh_part_for": [
-    "Voorwoord",
-    "Voorwoord van de uitgevers (1905)"
+    "Förord",
+    "Utgivarnas förord (1905)"
   ],
-  "copyright_html": "<p><em>Wallace D. Wattles – Verzameld werk</em><br>Volledige Nederlandse uitgave</p><p>De werken van Wallace D. Wattles (1860–1911) verschenen tussen 1905 en 1910 en zijn vrij van auteursrecht. Vertaling, voorwoord, oefeningen, het 30-dagenprogramma, opmaak en vormgeving van deze uitgave © 2026 Andreas Rupp. Alle rechten voorbehouden.</p><p><strong>Let op:</strong> Dit boek geeft de leer weer van een auteur uit het begin van de twintigste eeuw. Zijn opvattingen over voeding, vasten, ziekte en genezing komen niet overeen met de huidige medische kennis en vormen geen medisch advies. Vasten of maaltijden overslaan kan gevaarlijk zijn, bijvoorbeeld bij diabetes, zwangerschap, eetstoornissen of medicijngebruik. Raadpleeg bij gezondheidsklachten altijd een arts. Dit boek belooft rijkdom noch genezing.</p><p>Bezorgd door Andreas Rupp</p>"
+  "copyright_html": "<p><em>Wallace D. Wattles – Samlade verk</em><br>Komplett svensk utgåva</p><p>Wallace D. Wattles (1860–1911) verk utkom mellan 1905 och 1910 och är fria från upphovsrätt. Översättning, förord, övningar, 30-dagarsprogrammet, sättning och formgivning av denna utgåva © 2026 Andreas Rupp. Alla rättigheter förbehållna.</p><p><strong>Observera:</strong> Denna bok återger läran hos en författare från början av 1900-talet. Hans uppfattningar om kost, fasta, sjukdom och läkning överensstämmer inte med dagens medicinska kunskap och utgör inga medicinska råd. Att fasta eller hoppa över måltider kan vara farligt, till exempel vid diabetes, graviditet, ätstörningar eller medicinering. Rådfråga alltid en läkare vid hälsobesvär. Denna bok utlovar varken rikedom eller läkning.</p><p>Utgiven av Andreas Rupp</p>"
 }
