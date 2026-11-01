@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.es** · 416 Seiten · Titel+Untertitel 189/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Obras reunidas
+- **Untertitel:** La ciencia de hacerse rico, La ciencia de estar bien, La ciencia de ser grande y otras siete obras – edición completa con ejercicios y programa de 30 días
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Editor), Andreas Rupp (Traductor)
+- **Reihe / Autorenseite:** Sin serie por ahora. Autor: Wallace D. Wattles; Andreas Rupp en Author Central como editor/traductor.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles libros en español`
+  2. `ley de la atraccion libro`
+  3. `manifestar abundancia manifestar dinero`
+  4. `mentalidad millonaria prosperidad riqueza`
+  5. `nuevo pensamiento clasicos autoayuda`
+  6. `exito desarrollo personal crecimiento`
+  7. `ejercicios programa 30 dias espiritualidad`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Diez obras de Wallace D. Wattles en un solo volumen: nueva traducción, completa y práctica.</b></p>
+<p>En 1910 Wallace D. Wattles publicó un pequeño libro que nunca ha dejado de imprimirse: <i>La ciencia de hacerse rico</i>, texto fundacional del Nuevo Pensamiento y origen de gran parte de la literatura actual sobre la ley de la atracción. Ese mismo año aparecieron <i>La ciencia de estar bien</i> y <i>La ciencia de ser grande</i>.</p>
+<p><b>Lo que ofrece esta edición:</b></p>
+<ul>
+<li>Diez obras completas y sin cortes, traducidas frase por frase de las ediciones originales</li>
+<li>Un discurso de bienvenida personal del editor Andreas Rupp</li>
+<li>Ejercicios después de cada capítulo para aplicar lo leído</li>
+<li>Un programa de 30 días que le guía paso a paso por la «manera cierta»</li>
+<li>Terminología coherente en todas las obras, cuidada composición, 416 páginas</li>
+</ul>
+<p><b>Incluye:</b> La ciencia de hacerse rico · La ciencia de estar bien · La ciencia de ser grande · Cómo obtener lo que deseas · Formar al hombre que puede · La nueva ciencia de vivir y sanar · ¿Qué es la verdad? · Un nuevo Cristo · Jesús: el hombre y su obra · Hell-Fire Harrison (novela)</p>
+<p>Un clásico honesto, sin promesas vacías, para leer las ideas de Wattles en su contexto original y ponerlas en práctica.</p>
+```
+
+- **Begründung:** Amazon.es: fuerte demanda de «la ciencia de hacerse rico wallace wattles», «ley de la atraccion libro», «manifestar dinero/abundancia», «mentalidad millonaria». Competencia: ediciones sueltas (1.002 y 1.490 valoraciones) y colecciones de 3–4 obras; ninguna con las diez obras + ejercicios + 30 días.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **416 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 416 pages, cover 13.187 x 9.250 in, spine 0.937 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 416 pages, cover 14.702 x 10.418 in, spine 1.126 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

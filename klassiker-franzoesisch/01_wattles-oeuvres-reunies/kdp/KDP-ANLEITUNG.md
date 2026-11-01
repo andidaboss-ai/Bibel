@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.fr** · 431 Seiten · Titel+Untertitel 195/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Œuvres réunies
+- **Untertitel:** La Science de l’enrichissement, La Science de la santé, La Science de la grandeur et 7 autres œuvres – édition intégrale avec exercices et programme de 30 jours
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Éditeur), Andreas Rupp (Traducteur)
+- **Reihe / Autorenseite:** Pas de série pour l’instant. Auteur : Wallace D. Wattles ; Andreas Rupp dans Author Central comme éditeur/traducteur.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles livre en français`
+  2. `la science de devenir riche richesse`
+  3. `loi de l attraction livre manifester`
+  4. `abondance financière prospérité succès`
+  5. `pensée positive développement personnel`
+  6. `nouvelle pensée classique spirituel`
+  7. `exercices programme 30 jours pratique`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Dix œuvres de Wallace D. Wattles réunies en un volume : nouvelle traduction intégrale, pensée pour la pratique.</b></p>
+<p>En 1910, Wallace D. Wattles publie un petit livre jamais épuisé depuis : <i>La Science de l’enrichissement</i>, texte fondateur de la Nouvelle Pensée et source d’une grande partie des livres actuels sur la loi de l’attraction. La même année paraissent <i>La Science de la santé</i> et <i>La Science de la grandeur</i>.</p>
+<p><b>Ce que vous offre cette édition :</b></p>
+<ul>
+<li>Dix œuvres intégrales, traduites phrase par phrase des éditions américaines originales</li>
+<li>Un mot de bienvenue personnel de l’éditeur Andreas Rupp</li>
+<li>Des exercices après chaque chapitre pour appliquer immédiatement</li>
+<li>Un programme de 30 jours pour suivre pas à pas la « manière certaine »</li>
+<li>Vocabulaire cohérent dans toutes les œuvres, mise en page soignée, 431 pages</li>
+</ul>
+<p><b>Contenu :</b> La Science de l’enrichissement · La Science de la santé · La Science de la grandeur · Comment obtenir ce que vous voulez · Former l’homme qui peut · La Nouvelle Science de la vie et de la guérison · Qu’est-ce que la vérité ? · Un nouveau Christ · Jésus : l’homme et son œuvre · Hell-Fire Harrison (roman)</p>
+<p>Un classique honnête, sans promesses creuses, pour découvrir les idées de Wattles dans leur contexte et les mettre en pratique.</p>
+```
+
+- **Begründung:** Amazon.fr : suggestions « la science de devenir riche », « la science de l’enrichissement », « loi de l’attraction », « abondance financière », « développement personnel livre ». Les pages de résultats amazon.fr ont bloqué la lecture automatique (captcha) : analyse concurrentielle FR limitée à l’autocomplétion. « devenir riche » est le terme le plus recherché, donc dans les mots-clés.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **431 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 431 pages, cover 13.221 x 9.250 in, spine 0.971 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 431 pages, cover 14.736 x 10.418 in, spine 1.160 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

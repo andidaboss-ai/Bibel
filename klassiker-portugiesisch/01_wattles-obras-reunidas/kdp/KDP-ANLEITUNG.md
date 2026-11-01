@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.com.br** · 411 Seiten · Titel+Untertitel 180/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Obras Reunidas
+- **Untertitel:** A Ciência de Ficar Rico, A Ciência de Ser Saudável, A Ciência de Ser Grande e mais 7 obras – edição completa com exercícios e programa de 30 dias
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Editor), Andreas Rupp (Tradutor)
+- **Reihe / Autorenseite:** Sem série por enquanto. Autor: Wallace D. Wattles; Andreas Rupp no Author Central como editor/tradutor. Atenção: no Brasil a KDP não imprime livros – amazon.com.br só para o eBook; o livro impresso vende-se em Portugal via amazon.es/europeus.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles livros em português`
+  2. `lei da atração livro`
+  3. `prosperidade riqueza abundância`
+  4. `mentalidade financeira vencedora`
+  5. `novo pensamento clássico espiritual`
+  6. `desenvolvimento pessoal sucesso`
+  7. `exercícios programa 30 dias prática`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Dez obras de Wallace D. Wattles em um só volume: nova tradução completa, pensada para a prática.</b></p>
+<p>Em 1910, Wallace D. Wattles publicou um pequeno livro que nunca saiu de catálogo: <i>A Ciência de Ficar Rico</i>, texto fundador do Novo Pensamento e origem de boa parte da literatura atual sobre a lei da atração. No mesmo ano vieram <i>A Ciência de Ser Saudável</i> e <i>A Ciência de Ser Grande</i>.</p>
+<p><b>O que esta edição oferece:</b></p>
+<ul>
+<li>Dez obras completas e sem cortes, traduzidas frase a frase das edições originais</li>
+<li>Uma mensagem de boas-vindas pessoal do editor Andreas Rupp</li>
+<li>Exercícios após cada capítulo para aplicar imediatamente</li>
+<li>Um programa de 30 dias que conduz passo a passo pelo «modo certo»</li>
+<li>Terminologia coerente em todas as obras, diagramação cuidada, 411 páginas</li>
+</ul>
+<p><b>Inclui:</b> A Ciência de Ficar Rico · A Ciência de Ser Saudável · A Ciência de Ser Grande · Como Conseguir o Que Você Quer · Formar o Homem que Pode · A Nova Ciência de Viver e Curar · O Que É a Verdade? · Um Novo Cristo · Jesus: o Homem e Sua Obra · Hell-Fire Harrison (romance)</p>
+<p>Um clássico honesto, sem promessas vazias, para conhecer as ideias de Wattles no contexto original e colocá-las em prática.</p>
+```
+
+- **Begründung:** Amazon.com.br: forte procura por «a ciencia de ficar rico (wallace d. wattles / capa dura)», «lei da atração livro», «prosperidade», «mentalidade financeira». Concorrência: edições avulsas (280 e 479 avaliações, R$ 28–35) e kits de 2–3 livros; nenhuma coletânea completa com exercícios.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **411 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 411 pages, cover 13.176 x 9.250 in, spine 0.926 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 411 pages, cover 14.691 x 10.418 in, spine 1.115 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

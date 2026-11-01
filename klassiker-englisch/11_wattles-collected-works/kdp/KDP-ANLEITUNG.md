@@ -1,3 +1,46 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.com** · 508 Seiten · Titel+Untertitel 190/200 Zeichen.
+
+- **Titel:** The Collected Works of Wallace D. Wattles (Annotated)
+- **Untertitel:** The Science of Getting Rich, The Science of Being Well, The Science of Being Great and 7 More Works – with Exercises and a 30-Day Program
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Editor)
+- **Reihe / Autorenseite:** "Annotated New Thought Classics" (keep, Vol. 6 only if volumes 1–5 actually exist on KDP; otherwise leave series empty until they do). Author: Wallace D. Wattles; set up Andreas Rupp in Author Central as editor.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles books complete collection`
+  2. `law of attraction books manifestation book`
+  3. `new thought movement books classics`
+  4. `money mindset wealth mindset prosperity`
+  5. `self help classics personal growth success`
+  6. `visualization techniques creative thought`
+  7. `30 day program workbook exercises spiritual`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought – low competition, exact fit
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Ten works by Wallace D. Wattles in one annotated volume – complete, restored and made practical.</b></p>
+<p>In 1910 Wallace D. Wattles published a slim book that has never gone out of print: <i>The Science of Getting Rich</i>, a founding text of the New Thought movement and of much of today's law of attraction literature. The same year he wrote <i>The Science of Being Well</i> and <i>The Science of Being Great</i>.</p>
+<p><b>What makes this edition different:</b></p>
+<ul>
+<li>Ten works complete and unabridged, carefully restored from early editions</li>
+<li>A personal welcome address by editor Andreas Rupp</li>
+<li>A biography of Wattles and a new introduction to every work</li>
+<li>Plain-language explanation, exercise and key thought after every chapter</li>
+<li>A guided 30-day program with space to write</li>
+<li>Quick Finder for everyday situations, glossary and afterword</li>
+</ul>
+<p><b>Included:</b> The Science of Getting Rich · The Science of Being Well · The Science of Being Great · How to Get What You Want · Making the Man Who Can · The New Science of Living and Healing · What Is Truth? · A New Christ · Jesus: The Man and His Work · Hell-Fire Harrison (novel)</p>
+<p>An honest guide to the "Certain Way" – no empty promises, just the original texts and practical help to apply them. 508 pages.</p>
+```
+
+- **Begründung:** Amazon.com autocomplete: "wallace wattles books/collection", "law of attraction books", "manifestation book", "new thought movement books", "money/wealth mindset", "self help classics", "visualization techniques". Competition: free/0.89 € e-collections and "The Complete Wallace D. Wattles (9 books)" (468 reviews), most without commentary. Differentiators in subtitle: annotated, exercises, 30-day program.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **508 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 508 pages, cover 13.394 x 9.250 in, spine 1.144 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 508 pages, cover 14.909 x 10.418 in, spine 1.333 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

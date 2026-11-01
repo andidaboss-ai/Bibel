@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.it** · 406 Seiten · Titel+Untertitel 200/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Opere riunite
+- **Untertitel:** La scienza del diventare ricchi, La scienza dello stare bene, La scienza dell’essere grandi e altre 7 opere – edizione integrale con esercizi e programma di 30 giorni
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Curatore), Andreas Rupp (Traduttore)
+- **Reihe / Autorenseite:** Nessuna serie per ora. Autore: Wallace D. Wattles; Andreas Rupp in Author Central come curatore/traduttore.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles libri in italiano`
+  2. `legge di attrazione libro soldi`
+  3. `manifestare soldi abbondanza`
+  4. `pensiero positivo libro autostima`
+  5. `crescita personale libro successo`
+  6. `ricchezza prosperità nuovo pensiero`
+  7. `esercizi programma 30 giorni spiritualità`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Dieci opere di Wallace D. Wattles in un unico volume: nuova traduzione integrale, pensata per la pratica.</b></p>
+<p>Nel 1910 Wallace D. Wattles pubblicò un piccolo libro mai uscito di stampa: <i>La scienza del diventare ricchi</i>, testo fondativo del Nuovo Pensiero e origine di gran parte della letteratura odierna sulla legge di attrazione. Nello stesso anno uscirono <i>La scienza dello stare bene</i> e <i>La scienza dell’essere grandi</i>.</p>
+<p><b>Cosa offre questa edizione:</b></p>
+<ul>
+<li>Dieci opere complete e senza tagli, tradotte frase per frase dalle edizioni originali</li>
+<li>Un discorso di benvenuto personale del curatore Andreas Rupp</li>
+<li>Esercizi dopo ogni capitolo per applicare subito quanto letto</li>
+<li>Un programma di 30 giorni che guida passo dopo passo nel «modo certo»</li>
+<li>Terminologia coerente in tutte le opere, impaginazione curata, 406 pagine</li>
+</ul>
+<p><b>Contiene:</b> La scienza del diventare ricchi · La scienza dello stare bene · La scienza dell’essere grandi · Come ottenere ciò che vuoi · Formare l’uomo che può · La nuova scienza del vivere e del guarire · Che cos’è la verità? · Un nuovo Cristo · Gesù: l’uomo e la sua opera · Hell-Fire Harrison (romanzo)</p>
+<p>Un classico onesto, senza promesse vuote, per leggere le idee di Wattles nel loro contesto e metterle in pratica.</p>
+```
+
+- **Begründung:** Amazon.it: suggerimenti «legge di attrazione libro/soldi», «manifestare soldi», «pensiero positivo libro», «crescita personale libro», «wallace wattles». Concorrenza: edizioni singole de «La scienza del diventare ricchi» (521 recensioni, 7,65 €); nessuna raccolta italiana completa con esercizi.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **406 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 406 pages, cover 13.164 x 9.250 in, spine 0.914 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 406 pages, cover 14.679 x 10.418 in, spine 1.103 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

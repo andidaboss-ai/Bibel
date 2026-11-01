@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.pl** · 406 Seiten · Titel+Untertitel 179/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Dzieła zebrane
+- **Untertitel:** Nauka bogacenia się, Nauka bycia zdrowym, Nauka bycia wielkim i siedem innych dzieł – pełne wydanie polskie z ćwiczeniami i 30-dniowym programem
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Redaktor), Andreas Rupp (Tłumacz)
+- **Reihe / Autorenseite:** Na razie bez serii. Autor: Wallace D. Wattles; Andreas Rupp w Author Central jako redaktor/tłumacz.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles książki po polsku`
+  2. `prawo przyciągania książka`
+  3. `manifestacja bogactwo obfitość`
+  4. `pozytywne myślenie sukces`
+  5. `rozwój osobisty książki`
+  6. `nowa myśl klasyka duchowość`
+  7. `ćwiczenia program 30 dni praktyka`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Dziesięć dzieł Wallace’a D. Wattlesa w jednym tomie: nowy, pełny przekład stworzony do praktyki.</b></p>
+<p>W 1910 roku Wallace D. Wattles wydał niewielką książkę, która nigdy nie zniknęła z rynku: <i>Naukę bogacenia się</i> – tekst założycielski ruchu Nowej Myśli i źródło wielu dzisiejszych książek o prawie przyciągania. W tym samym roku ukazały się <i>Nauka bycia zdrowym</i> i <i>Nauka bycia wielkim</i>.</p>
+<p><b>Co oferuje to wydanie:</b></p>
+<ul>
+<li>Dziesięć dzieł w całości, bez skrótów, przełożonych zdanie po zdaniu z oryginalnych wydań</li>
+<li>Osobiste słowo powitania od redaktora Andreasa Ruppa</li>
+<li>Ćwiczenia po każdym rozdziale, aby od razu stosować przeczytane treści</li>
+<li>30-dniowy program, który krok po kroku prowadzi przez „określony sposób”</li>
+<li>Spójna terminologia we wszystkich dziełach, staranny skład, 406 stron</li>
+</ul>
+<p><b>Zawartość:</b> Nauka bogacenia się · Nauka bycia zdrowym · Nauka bycia wielkim · Jak zdobyć to, czego chcesz · Kształtowanie człowieka, który potrafi · Nowa nauka życia i uzdrawiania · Czym jest prawda? · Nowy Chrystus · Jezus: człowiek i jego dzieło · Hell-Fire Harrison (powieść)</p>
+<p>Uczciwy klasyk bez pustych obietnic – by poznać idee Wattlesa w oryginalnym kontekście i wypróbować je samemu.</p>
+```
+
+- **Begründung:** Amazon.pl: autouzupełnianie książek działa tylko w trybie ogólnym; sugestie «prawo przyciągania», «manifestacja», «bogactwo», «pozytywne myślenie», «rozwój osobisty książki», «sukces jest dla ciebie». Konkurencja: prawie wyłącznie wydania angielskie i jedno polskie «Nauka bogacenia się» (59,85 zł) – nisza.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **406 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 406 pages, cover 13.164 x 9.250 in, spine 0.914 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 406 pages, cover 14.679 x 10.418 in, spine 1.103 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

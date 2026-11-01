@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.nl** · 426 Seiten · Titel+Untertitel 188/200 Zeichen.
+
+- **Titel:** Wallace D. Wattles – Verzameld werk
+- **Untertitel:** De wetenschap van het rijk worden, van het gezond zijn en van het groot worden en 7 andere werken – volledige uitgave met oefeningen en 30-dagenprogramma
+- **Autor:** Wallace D. Wattles
+- **Mitwirkende:** Andreas Rupp (Redacteur), Andreas Rupp (Vertaler)
+- **Reihe / Autorenseite:** Voorlopig geen reeks. Auteur: Wallace D. Wattles; Andreas Rupp in Author Central als redacteur/vertaler.
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `wallace wattles nederlands boek`
+  2. `wet van aantrekking boek geld`
+  3. `manifesteren overvloed rijkdom`
+  4. `positief denken mindset succes`
+  5. `zelfhulpboeken persoonlijke groei`
+  6. `new thought klassieker spiritualiteit`
+  7. `oefeningen 30 dagen programma werkboek`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>Tien werken van Wallace D. Wattles in één band: nieuwe, volledige vertaling, gemaakt om mee te oefenen.</b></p>
+<p>In 1910 publiceerde Wallace D. Wattles een dun boek dat sindsdien nooit uit druk is geweest: <i>De wetenschap van het rijk worden</i>, een grondtekst van de New Thought-beweging en bron van veel hedendaagse boeken over de wet van aantrekking. In hetzelfde jaar verschenen <i>De wetenschap van het gezond zijn</i> en <i>De wetenschap van het groot worden</i>.</p>
+<p><b>Wat deze uitgave biedt:</b></p>
+<ul>
+<li>Tien werken volledig en onverkort, zin voor zin vertaald uit de oorspronkelijke edities</li>
+<li>Een persoonlijk welkomstwoord van redacteur Andreas Rupp</li>
+<li>Oefeningen na elk hoofdstuk om het gelezene direct toe te passen</li>
+<li>Een 30-dagenprogramma dat u stap voor stap door de „bepaalde manier” leidt</li>
+<li>Consistente begrippen in alle werken, verzorgde vormgeving, 426 pagina’s</li>
+</ul>
+<p><b>Inhoud:</b> De wetenschap van het rijk worden · De wetenschap van het gezond zijn · De wetenschap van het groot worden · Hoe je krijgt wat je wilt · De man vormen die het kan · De nieuwe wetenschap van leven en genezen · Wat is waarheid? · Een nieuwe Christus · Jezus: de mens en zijn werk · Hell-Fire Harrison (roman)</p>
+<p>Een eerlijke klassieker zonder lege beloften, om Wattles’ ideeën in hun oorspronkelijke samenhang te lezen en zelf uit te proberen.</p>
+```
+
+- **Begründung:** Amazon.nl: kleine markt; suggesties «wet van aantrekking», «manifesteren», «rijk worden», «rijkdom», «positief denken», «zelfhulpboeken», «mindset nederlands». Er bestaat vrijwel geen Nederlandse Wattles-uitgave – duidelijke niche.
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **426 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 426 pages, cover 13.209 x 9.250 in, spine 0.959 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 426 pages, cover 14.724 x 10.418 in, spine 1.148 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).

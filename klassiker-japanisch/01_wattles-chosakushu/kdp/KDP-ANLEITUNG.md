@@ -1,3 +1,45 @@
+## Optimierte KDP-Metadaten (Stand 01.11.2026)
+
+> Gilt vor allen älteren Angaben weiter unten. Hauptmarkt: **amazon.co.jp** · 496 Seiten · Titel+Untertitel 69/200 Zeichen.
+
+- **Titel:** ウォレス・D・ワトルズ著作集
+- **Untertitel:** 富を得る科学・健康になる科学・偉大になる科学ほか全十作品 完全日本語訳 各章の実践ワークと30日プログラム付き
+- **Autor:** ウォレス・D・ワトルズ
+- **Mitwirkende:** アンドレアス・ルップ（編者）, アンドレアス・ルップ（翻訳）
+- **Reihe / Autorenseite:** シリーズなし。著者: ウォレス・D・ワトルズ。Author Central にアンドレアス・ルップ（編者・翻訳）を登録。注意: 日本ではハードカバー不可、ペーパーバックと電子書籍のみ。
+- **7 Schlüsselwörter (je ≤ 50 Zeichen):**
+  1. `ワトルズ 著作集 全集 完全版`
+  2. `引き寄せの法則 本 引き寄せ`
+  3. `潜在意識 本 願望実現`
+  4. `自己啓発 古典 成功哲学`
+  5. `ニューソート 新思考 古典`
+  6. `お金持ち 豊かさ 富 思考法`
+  7. `30日 実践 ワーク プログラム`
+- **Kategorien (3):**
+  1. Body, Mind & Spirit › New Thought
+  2. Self-Help › Personal Growth › Success
+  3. Body, Mind & Spirit › Inspiration & Personal Growth
+- **Beschreibung (HTML, so in KDP einfügen):**
+
+```html
+<p><b>ウォレス・D・ワトルズの十作品を一冊に。新訳・完全版、実践のための著作集です。</b></p>
+<p>1910年、ワトルズは一冊の小さな本を世に出しました。それ以来一度も絶版になったことのない『富を得る科学』です。ニューソート（新思考運動）の基本書であり、現代の「引き寄せの法則」の源流とされています。同じ年に『健康になる科学』『偉大になる科学』も刊行されました。</p>
+<p><b>本書の特長：</b></p>
+<ul>
+<li>十作品を省略なしで収録、原書から一文ずつ丁寧に翻訳</li>
+<li>編者アンドレアス・ルップによる心のこもった歓迎のことば</li>
+<li>各章のあとに、読んだ内容をすぐ実践できるワーク</li>
+<li>「確かな方法」を一歩ずつ身につける30日プログラム</li>
+<li>全作品で用語を統一、読みやすい組版、496ページ</li>
+</ul>
+<p><b>収録作品：</b> 富を得る科学 · 健康になる科学 · 偉大になる科学 · 望むものを手に入れる方法 · できる人をつくる · 生きることと癒すことの新しい科学 · 真理とは何か · 新しいキリスト · イエス――その人と仕事 · ヘルファイア・ハリソン（小説）</p>
+<p>空虚な約束のない誠実な古典。ワトルズの思想を原典の文脈で読み、自分で試したい方へ。</p>
+```
+
+- **Begründung:** amazon.co.jp: 候補「ワトルズ 富を引き寄せる科学的法則」「引き寄せの法則」「潜在意識 本」「自己啓発 古典 ベストセラー」「ニューソート」「成功哲学」。競合: 角川文庫『富を「引き寄せる」科学的法則』（732件）など単作の文庫本が中心。十作品の全集は日本語では見当たらず、明確な差別化。
+
+---
+
 > **Stand 31.10.2026 – neues Gold-Layout mit Übungen nach jedem Kapitel und 30-Tage-Praxis (gilt vor allen Angaben unten):** Innenteil 6 × 9 Zoll, **496 Seiten**, arabische Seitenzahlen, keine Kolumnentitel, keine Leerseiten. Taschenbuch-Umschlag: 496 pages, cover 13.367 x 9.250 in, spine 1.117 in (weißes Papier, 0,002252 Zoll/Seite). Hardcover-Umschlag: 496 pages, cover 14.882 x 10.418 in, spine 1.306 in. Ältere Seitenzahlen, Maße und Druckkosten weiter unten sind überholt.
 >
 > **Cover-Prüfung 31.10.2026:** Buchrücken und Umschlagmaße gegen die aktuelle Seitenzahl des Innenteils geprüft (passen). Alle Umschläge neu gerendert in 600 dpi, **verlustfrei** (PNG/Flate statt JPEG), ca. 18 MB (Taschenbuch) bzw. 22 MB (Hardcover). eBook-Cover 6250 × 10000 px, JPEG-Qualität 100 (KDP-Maximum).
