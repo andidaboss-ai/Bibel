@@ -200,12 +200,12 @@ TB = Taschenbuch, HC = Hardcover, ✅ = Dateien fertig, ⚠ = es fehlt noch eine
 | Q3 2027 | ES und FR sind komplett. **ca. 100 Titel** |
 | Q4 2027 | IT und JA sind komplett, PT ist angefangen. **ca. 126 Titel** |
 | Q1 2028 | PT, NL und PL sind komplett, SV ist angefangen (zuerst die Lücken-Bände). **ca. 152 Titel** |
-| Q2 2028 (April) | SV ist komplett. **Alle 157 Titel sind online** |
+| Q2 2028 (April) | SV ist komplett. **Alle 158 Titel sind online** |
 
 ## Ende
 - Nach dem Plan geht der **letzte Titel in der Woche ab 28.02.2028** (KW 9/2028) online.
-- Mit Puffer für Ausfälle, KDP-Prüfungen und Korrekturen rechnen wir mit **Anfang Mai 2028**.
-- Die Zahl: 155 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **157** (davon 15 auf Schwedisch). Davon sind 7 Carnegie-Titel. Fallen die weg, sind es 150, und das Ende ist ca. 3 Wochen früher.
+- Mit Puffer für Ausfälle, KDP-Prüfungen und Korrekturen rechnen wir mit **Ende Mai 2028**.
+- Die Zahl: 156 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **158** (davon 16 auf Schwedisch). Davon sind 7 Carnegie-Titel. Fallen die weg, sind es 151, und das Ende ist ca. 3 Wochen früher.
 
 ## Risiken
 1. **Übersetzungstempo:** Ab KW 49 muss jede Woche mindestens ein neuer Band übersetzt und gesetzt werden. Darum starten die Übersetzungen der Lücken-Bände **sofort**, während wir die fertigen Titel hochladen.
