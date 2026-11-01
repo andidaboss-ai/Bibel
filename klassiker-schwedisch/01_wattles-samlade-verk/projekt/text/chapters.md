@@ -1,514 +1,514 @@
-## het-recht-om-rijk-te-zijn
+## r-tten-att-vara-rik
 
 ### Practice
-Schrijf drie dingen op die je met meer geld zou doen en die je zouden helpen groeien in lichaam, geest of ziel, zoals een cursus, betere rust of een cadeau voor iemand van wie je houdt. Schrijf naast elk ervan een kleine stap die je deze maand kunt zetten.
+Skriv ned tre saker som du skulle göra med mer pengar och som skulle hjälpa dig att växa till kropp, sinne eller själ, till exempel en kurs, bättre vila eller en present till någon du älskar. Skriv bredvid var och en ett litet steg som du kan ta den här månaden.
 
-## er-bestaat-een-wetenschap-van-het-rijk-worden
-
-### Practice
-Denk aan iemand in jouw vakgebied wiens resultaten je bewondert. Schrijf drie concrete dingen op die die persoon anders doet dan jij, zoals gewoonten, vaardigheden of de manier waarop hij met klanten omgaat. Kies er één en probeer het deze week uit.
-
-## is-de-kans-gemonopoliseerd
+## det-finns-en-vetenskap-om-att-bli-rik
 
 ### Practice
-Schrijf een sector in je stad of je vakgebied op die groeit en een die overvol is. Besteed twintig minuten aan het verkennen van de groeiende: lees een artikel, vraag iemand die er werkt of bekijk vacatures.
+Tänk på någon inom ditt område vars resultat du beundrar. Skriv ned tre konkreta saker som den personen gör annorlunda än du, till exempel vanor, färdigheter eller sättet att bemöta kunder. Välj en av dem och pröva den den här veckan.
 
-## het-eerste-principe-in-de-wetenschap-van-het-rijk-worden
-
-### Practice
-Schrijf een zin op die beschrijft hoe je gewoonlijk over geld denkt, bijvoorbeeld: ‘Er is nooit genoeg.’ Schrijf dan een ware en hoopvollere zin om hem te vervangen. Lees de nieuwe zin een week lang elke ochtend en kijk of je keuzes veranderen.
-
-## het-leven-doen-groeien
+## r-m-jligheterna-monopoliserade
 
 ### Practice
-Denk aan een doel waaraan je werkt. Vraag jezelf: ‘Wie zou er nog meer baat bij hebben als ik het bereik?’ Schrijf één manier op om je plan zo aan te passen dat ten minste nog één ander persoon er ook bij wint.
+Skriv ned en bransch i din stad eller inom ditt område som växer och en som är överfull. Lägg tjugo minuter på att utforska den som växer: läs en artikel, fråga någon som arbetar där eller titta på lediga jobb.
 
-## hoe-rijkdom-tot-je-komt
-
-### Practice
-Kies een product of dienst die je aanbiedt, op het werk of in je privéleven. Schrijf op wat de ander betaalt en welke werkelijke waarde hij ontvangt. Zoek een manier om deze week waarde toe te voegen zonder de prijs te verhogen.
-
-## dankbaarheid
+## den-f-rsta-principen-i-vetenskapen-om-att-bli-rik
 
 ### Practice
-Schrijf een week lang elke avond drie concrete dingen op die die dag goed gingen, en wie of wat ze mogelijk maakte. Neem er minstens één persoon in op die je rechtstreeks zou kunnen bedanken, en bedank die persoon ook.
+Skriv ned en mening som beskriver hur du brukar tänka om pengar, till exempel: ’Det räcker aldrig.’ Skriv sedan en sann och mer hoppfull mening som ersätter den. Läs den nya meningen varje morgon i en vecka och se om dina val förändras.
 
-## denken-op-de-bepaalde-manier
-
-### Practice
-Schrijf een pagina waarin je een doel beschrijft alsof het al bereikt is: waar je bent, wat je elke dag doet, hoe je je voelt. Wees concreet. Onderstreep dan één detail waarmee je morgen al aan de slag zou kunnen.
-
-## hoe-je-de-wil-gebruikt
+## att-ka-livet
 
 ### Practice
-Zoek een nieuwsbron of gesprek dat je onrustig maakt zonder je te helpen in actie te komen. Vervang daar deze week vijftien minuten van door iets wat jou of anderen vooruithelpt: een vaardigheid, een project of een concrete daad van hulp.
+Tänk på ett mål som du arbetar mot. Fråga dig själv: ’Vem mer skulle ha nytta av att jag når det?’ Skriv ned ett sätt att justera din plan så att åtminstone ytterligare en person också vinner på den.
 
-## verder-gebruik-van-de-wil
-
-### Practice
-Schrijf een korte versie van je levensverhaal, gericht op de momenten waarop je groeide, leerde of weer opkrabbelde. Als oude moeilijkheden nog zwaar wegen, overweeg dan er met een goede vriend of een professional over te praten in plaats van ze weg te drukken.
-
-## handelen-op-de-bepaalde-manier
+## hur-rikedomen-kommer-till-dig
 
 ### Practice
-Kies een taak in je werk of je huidige project die je al een tijd voor je uit schuift. Doe hem vandaag, helemaal en zorgvuldig. Schrijf daarna één zin over hoe hij aansluit bij het grotere doel dat je nastreeft.
+Välj en produkt eller tjänst som du erbjuder, i arbetet eller privat. Skriv ned vad den andra personen betalar och vilket verkligt värde hon får. Hitta ett sätt att tillföra värde den här veckan utan att höja priset.
 
-## doeltreffend-handelen
-
-### Practice
-Kies morgen slechts drie taken. Sta voor elke taak even stil en herinner jezelf eraan waarom die voor jou belangrijk is. Doe hem met volle aandacht, zonder te multitasken. Schrijf 's avonds op welke taak het meest effectief voelde en waarom.
-
-## in-het-juiste-vak-terechtkomen
+## tacksamhet
 
 ### Practice
-Schrijf een baan op die je graag zou doen. Noteer één vaardigheid die daarvoor nodig is en die je nog mist. Zoek een bescheiden, goedkope manier om er deze maand mee te beginnen, zoals een gratis cursus, een gesprek of een weekendproject.
+Skriv varje kväll i en vecka ned tre konkreta saker som gick bra under dagen och vem eller vad som gjorde dem möjliga. Ta med minst en person som du skulle kunna tacka direkt – och tacka henne också.
 
-## de-indruk-van-groei
-
-### Practice
-Probeer bij je volgende drie contacten op het werk of thuis iedereen beter achter te laten dan je hem aantrof: een nuttig idee, een oprecht dankjewel of een bijzondere attentie. Let daarna op hoe de ander reageerde en hoe jij je voelde.
-
-## de-vooruitgaande-mens
+## att-t-nka-p-det-best-mda-s-ttet
 
 ### Practice
-Beschrijf kort welke rol je hierna zou willen vervullen. Zoek iemand die die rol al heeft en stel hem één vraag over hoe hij daar gekomen is. Doe dan deze week één ding dat iemand in die rol zou doen.
+Skriv en sida där du beskriver ett mål som om det redan vore uppnått: var du är, vad du gör varje dag, hur du känner dig. Var konkret. Stryk sedan under en detalj som du redan i morgon skulle kunna börja arbeta med.
 
-## enkele-waarschuwingen-en-slotopmerkingen
-
-### Practice
-Denk aan een recente teleurstelling. Schrijf één ding op dat ze je geleerd heeft en één deur die ze misschien geopend heeft. Neem dan één redelijke voorzorgsmaatregel voor de toekomst, zoals een klein spaarbedrag of een reserveplan.
-
-## samenvatting-van-de-wetenschap-van-het-rijk-worden
+## hur-man-anv-nder-viljan
 
 ### Practice
-Schrijf de gewoonten uit dit hoofdstuk op een kaart: visie, dankbaarheid, dagelijkse actie, efficiëntie, gebruikswaarde, toename. Vink twee weken lang elke avond aan welke je beoefend hebt. Kies er aan het eind één om te versterken.
+Hitta en nyhetskälla eller ett samtal som gör dig orolig utan att hjälpa dig att handla. Byt ut femton minuter av det den här veckan mot något som för dig eller andra framåt: en färdighet, ett projekt eller en konkret hjälpande handling.
 
-## het-principe-van-gezondheid
-
-### Practice
-Denk aan een moment waarop je je beter voelde alleen omdat je dat verwachtte, bijvoorbeeld na een geruststellend gesprek of een goede nachtrust. Schrijf er twee zinnen over en noteer dan één manier om die vol vertrouwen verwachting mee te nemen naar je volgende afspraak bij de dokter.
-
-## de-grondslagen-van-het-geloof
+## viljan-anv-nd-vidare
 
 ### Practice
-Plant een zaadje, of bekijk een plant die bij je in de buurt groeit eens goed. Besteed deze week elke dag een minuut aan het opmerken hoe hij verandert. Laat hem je eraan herinneren dat groei en genezing natuurlijk zijn, ook als ze langzaam gaan.
+Skriv en kort version av din livsberättelse med fokus på de stunder då du växte, lärde dig något eller reste dig igen. Om gamla svårigheter fortfarande tynger, överväg att tala med en god vän eller en professionell i stället för att trycka undan dem.
 
-## het-leven-en-zijn-organismen
-
-### Practice
-Schrijf één zin op die jou beschrijft als iemand die gezonder wordt. Koppel die dan aan één concrete handeling die je vandaag doet, zoals een korte wandeling, een glas water of het op tijd innemen van je voorgeschreven behandeling.
-
-## wat-je-moet-denken
+## att-handla-p-det-best-mda-s-ttet
 
 ### Practice
-Sluit drie minuten je ogen en stel je voor dat je een gewone taak met gemak en energie uitvoert, zoals de trap op gaan of boodschappen dragen. Schrijf daarna één detail van dat beeld op dat je mee de dag in wilt nemen.
+Välj en uppgift i ditt arbete eller ditt nuvarande projekt som du länge har skjutit upp. Gör den i dag, helt och omsorgsfullt. Skriv sedan en mening om hur den hänger ihop med det större mål du strävar mot.
 
-## geloof
-
-### Practice
-Schrijf deze week elke avond drie dingen op die je lichaam die dag goed deed, zoals ademen, een klein sneetje genezen of je naar je werk dragen. Bedank het, of bedank God, met de woorden die voor jou oprecht voelen.
-
-## het-gebruik-van-de-wil
+## verkningsfull-handling
 
 ### Practice
-Kijk naar de kamer waar je de meeste tijd doorbrengt. Haal één voorwerp weg dat je stemming drukt of zet het ergens anders neer, en voeg er één toe dat spreekt van energie of vreugde: een plant, een foto van een geliefde wandeling of open gordijnen.
+Välj bara tre uppgifter i morgon. Stanna upp en stund före varje uppgift och påminn dig om varför den är viktig för dig. Gör den med full uppmärksamhet, utan att göra flera saker samtidigt. Skriv på kvällen ned vilken uppgift som kändes mest verkningsfull och varför.
 
-## gezondheid-van-god
-
-### Practice
-Teken drie kolommen met de koppen lichaam, geest en ziel. Schrijf onder elke kolom één ding dat je er deze week voor gedaan hebt. Is een kolom leeg, kies dan een kleine, plezierige handeling om hem vóór zondag te vullen.
-
-## samenvatting-van-de-geestelijke-handelingen
+## att-komma-in-i-r-tt-verksamhet
 
 ### Practice
-Noem iemand met wie je je in concurrentie voelt of tegen wie je wrok koestert. Wens hem in stilte iets concreets goeds toe, zoals rust, succes of een fijne dag. Let op hoe je lichaam zich voor en na voelt.
+Skriv ned ett arbete som du gärna skulle vilja ha. Anteckna en färdighet som krävs för det och som du ännu saknar. Hitta ett anspråkslöst, billigt sätt att börja med den den här månaden, till exempel en gratis kurs, ett samtal eller ett helgprojekt.
 
-## wanneer-je-moet-eten
-
-### Practice
-Sta drie dagen lang voor elke maaltijd of tussendoortje even stil en geef je honger een cijfer van één tot vijf. Schrijf het cijfer op. Je hoeft niets te veranderen; merk alleen op hoe vaak je uit gewoonte, door stress of uit echte honger eet.
-
-## wat-je-moet-eten
+## intrycket-av-tillv-xt
 
 ### Practice
-Kies bij je volgende maaltijd een eenvoudig, vertrouwd gerecht dat je echt lekker vindt. Eet het zonder het als ‘goed’ of ‘slecht’ te beoordelen. Schrijf daarna één woord op over hoe de maaltijd voor je was.
+Försök vid dina tre nästa möten på arbetet eller hemma att lämna var och en i bättre skick än du fann dem: en användbar idé, ett uppriktigt tack eller en särskild omtanke. Lägg sedan märke till hur den andra reagerade och hur du själv kände dig.
 
-## hoe-je-moet-eten
-
-### Practice
-Leg bij één maaltijd vandaag je telefoon weg en neem de eerste vijf happen langzaam, terwijl je tussen elke hap je vork neerlegt. Concentreer je alleen op smaak en textuur. Merk op of je eerder vol zit dan gewoonlijk.
-
-## honger-en-eetlust
+## den-fram-tskridande-m-nniskan
 
 ### Practice
-Pauzeer halverwege je volgende maaltijd. Leg je vork neer, adem drie keer en vraag jezelf of je nog honger hebt of alleen van de smaak geniet. Beslis van daaruit, zonder schuldgevoel in welke richting dan ook.
+Beskriv kort vilken roll du skulle vilja ha härnäst. Hitta någon som redan har den rollen och ställ en fråga om hur hon kom dit. Gör sedan den här veckan en sak som någon i den rollen skulle göra.
 
-## in-een-notendop
-
-### Practice
-Zeg bij je volgende gedeelde maaltijd één concreet ding dat je waardeert aan het eten of aan degene die het heeft klaargemaakt. Eet je alleen, zeg het dan zachtjes tegen jezelf voor de eerste hap.
-
-## ademhaling
+## n-gra-varningar-och-avslutande-iakttagelser
 
 ### Practice
-Stel vandaag drie herinneringen in. Ga telkens als er een afgaat rechtop staan of zitten, rol je schouders naar achteren, adem langzaam in door je neus, pauzeer even en adem rustig uit. Merk op hoe je lichaam zich daarna voelt.
+Tänk på en nylig besvikelse. Skriv ned en sak den har lärt dig och en dörr som den kanske har öppnat. Vidta sedan en rimlig försiktighetsåtgärd inför framtiden, till exempel ett litet sparbelopp eller en reservplan.
 
-## slaap
-
-### Practice
-Breng vanavond de laatste vijf minuten voor het slapen zonder schermen door. Ga liggen, adem een paar keer langzaam en noem drie dingen van de dag waarvoor je dankbaar bent. Laat je gedachten dan rusten.
-
-## aanvullende-aanwijzingen
+## sammanfattning-av-vetenskapen-om-att-bli-rik
 
 ### Practice
-Kies een vorm van beweging waar je echt van geniet, zoals dansen, wandelen met een vriend, tuinieren of een balletje trappen. Plan er deze week vijftien minuten voor in, alleen voor het plezier.
+Skriv vanorna från detta kapitel på ett kort: vision, tacksamhet, daglig handling, effektivitet, bruksvärde, tillväxt. Bocka i två veckor varje kväll av dem som du har praktiserat. Välj i slutet en av dem att förstärka.
 
-## samenvatting-van-de-wetenschap-van-het-gezond-zijn
-
-### Practice
-Schrijf jezelf een kort briefje met twee ideeën uit dit boek die je wilt bewaren, zoals langzaam eten of dankbaarheid voor het slapengaan, en één die je laat liggen. Leg het briefje waar je het zult zien.
-
-## ieder-mens-kan-groot-worden
+## h-lsans-princip
 
 ### Practice
-Schrijf een situatie van deze week op waarin je gewoonlijk alleen reageert, zoals de voetbal. Bepaal vooraf één ding dat je daar op eigen initiatief zult doen. Schrijf daarna in één zin op wat er veranderde toen je van binnenuit handelde.
+Tänk på ett tillfälle då du mådde bättre bara för att du väntade dig det, till exempel efter ett lugnande samtal eller en god natts sömn. Skriv två meningar om det och anteckna sedan ett sätt att ta med denna tillitsfulla förväntan till ditt nästa läkarbesök.
 
-## erfelijkheid-en-kansen
-
-### Practice
-Noem een eigenschap waarvan je het gevoel hebt dat je die ‘geërfd’ hebt, zoals piekeren of opvliegendheid. Kies het tegenovergestelde en een heel kleine dagelijkse handeling die dat uitdrukt. Oefen die handeling een week lang elke dag en let op elke verandering.
-
-## de-bron-van-kracht
+## trons-grundvalar
 
 ### Practice
-Denk aan een beslissing die voor je ligt. Schrijf drie regels: het beste doel dat je ziet, de beste weg om het te bereiken en wat je klaar zou maken om te handelen. Zit dan vijf minuten in stilte en kijk of er iets helder wordt.
+Plantera ett frö, eller betrakta noga en växt som växer i din närhet. Ägna en minut varje dag den här veckan åt att lägga märke till hur den förändras. Låt den påminna dig om att tillväxt och läkning är naturliga, även när de går långsamt.
 
-## de-geest-van-god
-
-### Practice
-Breng tien minuten buiten of bij een raam door, zonder je telefoon. Houd één oprechte vraag in gedachten en wacht gewoon. Schrijf de gedachte of het gevoel op dat opkomt, zonder te oordelen, en kom er morgen op terug.
-
-## voorbereiding
+## livet-och-dess-organismer
 
 ### Practice
-Zet de motieven achter een doel dat je nastreeft op een rij. Omcirkel de motieven die gaan over iemand overtreffen of overheersen. Herschrijf het doel zo dat het alleen op groei of dienstbaarheid berust. Als zorgen je overweldigen, overweeg dan te praten met iemand die je vertrouwt of met een professional.
+Skriv ned en mening som beskriver dig som någon som blir friskare. Koppla den sedan till en konkret handling som du gör i dag, till exempel en kort promenad, ett glas vatten eller att ta din ordinerade behandling i tid.
 
-## het-maatschappelijke-gezichtspunt
-
-### Practice
-Kies een maatschappelijk probleem dat je na aan het hart ligt. Schrijf één zin die het beschrijft als verlies en één die het beschrijft als onvoltooid werk. Kies dan een kleine, hoopvolle handeling, zoals doneren, vrijwilligerswerk doen of je verder verdiepen, en doe die deze week.
-
-## het-persoonlijke-gezichtspunt
+## vad-man-ska-t-nka
 
 ### Practice
-Kies iemand die je ergert. Schrijf drie goede eigenschappen van die persoon op, hoe klein ook. Laat de volgende keer dat je hem ontmoet één van die eigenschappen bepalen hoe je met hem praat, terwijl je de grenzen bewaakt die je nodig hebt.
+Blunda i tre minuter och föreställ dig att du utför en vanlig uppgift med lätthet och energi, till exempel att gå uppför trappan eller bära matkassar. Skriv sedan ned en detalj ur den bilden som du vill ta med dig in i dagen.
 
-## toewijding
-
-### Practice
-Schrijf één ding op waarvan je weet dat je het zou moeten doen maar dat je niet doet, zoals een telefoontje, een excuus of een gezondere gewoonte. Doe vandaag de kleinste versie ervan. Noteer vanavond of je daden in overeenstemming waren met je beste gedachten.
-
-## vereenzelviging
+## tro
 
 ### Practice
-Zit vijf minuten in stilte. Adem langzaam en benoem in je eigen woorden de grotere werkelijkheid waartoe je behoort, of dat nu God, de natuur of de mensheid is. Kijk hoe je huidige zorg eruitziet tegen die grotere achtergrond.
+Skriv varje kväll den här veckan ned tre saker som din kropp gjorde bra under dagen, till exempel att andas, läka ett litet skärsår eller bära dig till arbetet. Tacka den, eller tacka Gud, med de ord som känns uppriktiga för dig.
+
+## viljans-bruk
+
+### Practice
+Se dig om i det rum där du tillbringar mest tid. Ta bort eller flytta ett föremål som tynger ditt humör, och lägg till ett som talar om energi eller glädje: en växt, ett foto från en älskad promenad eller fördragna gardiner.
+
+## h-lsa-fr-n-gud
+
+### Practice
+Rita tre kolumner med rubrikerna kropp, sinne och själ. Skriv under varje kolumn en sak som du har gjort för den den här veckan. Om en kolumn är tom, välj en liten, trevlig handling för att fylla den före söndag.
+
+## sammanfattning-av-de-inre-handlingarna
+
+### Practice
+Nämn någon som du känner dig i konkurrens med eller som du hyser agg mot. Önska i tysthet den personen något konkret gott, till exempel ro, framgång eller en fin dag. Lägg märke till hur din kropp känns före och efter.
+
+## n-r-man-ska-ta
+
+### Practice
+Stanna i tre dagar upp före varje måltid eller mellanmål och ge din hunger en siffra från ett till fem. Skriv ned siffran. Du behöver inte ändra något; lägg bara märke till hur ofta du äter av vana, av stress eller av verklig hunger.
+
+## vad-man-ska-ta
+
+### Practice
+Välj till din nästa måltid en enkel, välbekant rätt som du verkligen tycker om. Ät den utan att bedöma den som ’bra’ eller ’dålig’. Skriv sedan ned ett ord om hur måltiden var för dig.
+
+## hur-man-ska-ta
+
+### Practice
+Lägg vid en måltid i dag bort telefonen och ta de fem första tuggorna långsamt, medan du lägger ned gaffeln mellan varje tugga. Koncentrera dig enbart på smak och konsistens. Lägg märke till om du blir mätt tidigare än vanligt.
+
+## hunger-och-aptit
+
+### Practice
+Gör en paus halvvägs in i din nästa måltid. Lägg ned gaffeln, andas tre gånger och fråga dig om du fortfarande är hungrig eller bara njuter av smaken. Bestäm utifrån det, utan skuldkänslor åt något håll.
+
+## i-ett-n-tskal
+
+### Practice
+Säg vid din nästa gemensamma måltid en konkret sak som du uppskattar med maten eller med den som har lagat den. Äter du ensam, säg det tyst för dig själv före första tuggan.
+
+## andning
+
+### Practice
+Ställ in tre påminnelser i dag. Varje gång en ljuder: stå eller sitt rak, rulla axlarna bakåt, andas långsamt in genom näsan, gör en kort paus och andas lugnt ut. Lägg märke till hur kroppen känns efteråt.
+
+## s-mn
+
+### Practice
+Tillbringa i kväll de sista fem minuterna före sömnen utan skärmar. Lägg dig ned, andas några gånger långsamt och nämn tre saker från dagen som du är tacksam för. Låt sedan dina tankar vila.
+
+## kompletterande-anvisningar
+
+### Practice
+Välj en form av rörelse som du verkligen tycker om, till exempel att dansa, promenera med en vän, arbeta i trädgården eller sparka boll. Avsätt femton minuter för den den här veckan, bara för nöjes skull.
+
+## en-sammanfattning-av-vetenskapen-om-att-vara-frisk
+
+### Practice
+Skriv en kort lapp till dig själv med två idéer ur denna bok som du vill behålla, till exempel att äta långsamt eller tacksamhet före sömnen, och en som du lämnar därhän. Lägg lappen där du kommer att se den.
+
+## varje-m-nniska-kan-bli-stor
+
+### Practice
+Skriv ned en situation den här veckan där du vanligtvis bara reagerar, till exempel ett möte. Bestäm i förväg en sak som du kommer att göra där på eget initiativ. Skriv sedan i en mening vad som förändrades när du handlade inifrån.
+
+## arv-och-m-jligheter
+
+### Practice
+Nämn en egenskap som du känner att du har ’ärvt’, till exempel grubblande eller hetsighet. Välj dess motsats och en mycket liten daglig handling som uttrycker den. Öva den handlingen varje dag i en vecka och lägg märke till varje förändring.
+
+## kraftens-k-lla
+
+### Practice
+Tänk på ett beslut som ligger framför dig. Skriv tre rader: det bästa mål du ser, den bästa vägen dit och vad som skulle göra dig redo att handla. Sitt sedan fem minuter i tystnad och se om något klarnar.
+
+## guds-sinne
+
+### Practice
+Tillbringa tio minuter ute eller vid ett fönster, utan telefon. Håll en uppriktig fråga i tankarna och vänta bara. Skriv ned den tanke eller känsla som dyker upp, utan att döma, och återvänd till den i morgon.
+
+## f-rberedelse
+
+### Practice
+Lista motiven bakom ett mål som du strävar mot. Ringa in de motiv som handlar om att överträffa eller dominera någon. Skriv om målet så att det bara vilar på tillväxt eller tjänande. Om oron överväldigar dig, överväg att tala med någon du litar på eller med en professionell.
+
+## det-sociala-syns-ttet
+
+### Practice
+Välj ett samhällsproblem som ligger dig varmt om hjärtat. Skriv en mening som beskriver det som en förlust och en som beskriver det som ett ofullbordat arbete. Välj sedan en liten, hoppfull handling, till exempel att skänka pengar, arbeta ideellt eller fördjupa dig, och gör den den här veckan.
+
+## det-personliga-syns-ttet
+
+### Practice
+Välj någon som irriterar dig. Skriv ned tre goda egenskaper hos den personen, hur små de än är. Låt nästa gång ni möts en av dessa egenskaper bestämma hur du talar med henne, samtidigt som du håller de gränser du behöver.
+
+## h-ngivelse
+
+### Practice
+Skriv ned en sak som du vet att du borde göra men inte gör, till exempel ett telefonsamtal, en ursäkt eller en sundare vana. Gör i dag den minsta versionen av den. Anteckna i kväll om dina handlingar stämde med dina bästa tankar.
+
+## identifikation
+
+### Practice
+Sitt fem minuter i tystnad. Andas långsamt och benämn med dina egna ord den större verklighet som du tillhör, vare sig det är Gud, naturen eller mänskligheten. Se hur din nuvarande oro ser ut mot den större bakgrunden.
 
 ## idealisering
 
 ### Practice
-Schrijf een korte alinea die jou over vijf jaar beschrijft, op je best op één gebied van je leven. Lees die een week lang elke ochtend. Voeg er dan één concrete stap aan toe die je deze maand in die richting kunt zetten.
+Skriv ett kort stycke som beskriver dig om fem år, när du är som bäst inom ett område av ditt liv. Läs det varje morgon i en vecka. Lägg sedan till ett konkret steg som du kan ta i den riktningen den här månaden.
 
-## verwezenlijking
-
-### Practice
-Kies vandaag een routinetaak, zoals afwassen, een e-mail beantwoorden of een collega helpen. Doe die met alle zorg en gulheid die je kunt opbrengen. Schrijf daarna één zin over wat ‘het op een grote manier doen’ in de praktijk betekende.
-
-## haast-en-gewoonte
+## f-rverkligande
 
 ### Practice
-Neem de volgende keer dat je je opgejaagd voelt tien langzame ademhalingen voordat je handelt. Schrijf dan één zin over jezelf op die je tot gewoonte wilt maken, en herhaal die telkens als je een oude, beperkende beschrijving van jezelf opmerkt.
+Välj i dag en rutinuppgift, till exempel att diska, besvara ett mejl eller hjälpa en kollega. Gör den med all den omsorg och generositet du kan uppbåda. Skriv sedan en mening om vad ’att göra det på ett stort sätt’ betydde i praktiken.
 
-## denken
-
-### Practice
-Neem één idee uit iets wat je deze week gelezen hebt. Zet een timer op vijftien minuten en schrijf er zonder te stoppen over: ben je het ermee eens, waarom, en wat zou er veranderen als je ernaar handelde? Bewaar de pagina.
-
-## handelen-in-je-eigen-huis
+## br-dska-och-vana
 
 ### Practice
-Merk een avond lang thuis elke neiging op om iemand te verbeteren of te bekritiseren. Laat die voorbijgaan en zeg in plaats daarvan iets vriendelijks of behulpzaams. Noteer daarna één verzoek dat je de volgende keer beleefd zou kunnen weigeren, zonder schuldgevoel.
+Ta nästa gång du känner dig jäktad tio långsamma andetag innan du handlar. Skriv sedan ned en mening om dig själv som du vill göra till en vana, och upprepa den varje gång du märker en gammal, begränsande beskrivning av dig själv.
 
-## handelen-in-de-wereld
-
-### Practice
-Behandel vandaag iedereen met wie je te maken hebt, van de caissière tot de directeur, met dezelfde rustige hoffelijkheid. Neem dan contact op met één persoon die je zou kunnen helpen bij een huidig doel en vraag eenvoudig om een kort gesprek.
-
-## enkele-verdere-toelichtingen
+## tanken
 
 ### Practice
-Schrijf twee korte beschrijvingen van je leven nu: één als een ‘gestrand schip’ en één als een ‘schip dat leert sturen’. Lees ze allebei. Kies één kleine koerscorrectie die de tweede je ingeeft en voer die deze week uit.
+Ta en idé ur något som du har läst den här veckan. Ställ en timer på femton minuter och skriv om den utan att stanna: håller du med, varför, och vad skulle förändras om du handlade efter den? Spara sidan.
 
-## meer-over-het-denken
-
-### Practice
-Schrijf aan het eind van elke dag deze week één goed ding op dat je bij iemand hebt opgemerkt, vooral bij iemand die je meestal negeert of moeilijk vindt. Lees de lijst op zondag terug en kijk hoe je blik op die mensen veranderd is.
-
-## jezus-idee-van-grootheid
+## handling-i-hemmet
 
 ### Practice
-Denk aan een rol die je vervult, zoals ouder, leidinggevende, vriend of vrijwilliger. Schrijf één manier op om in die rol beter te dienen, en één manier waarop je misschien zoveel geeft dat je opbrandt. Pas één van beide aan.
+Lägg en kväll hemma märke till varje impuls att rätta eller kritisera någon. Låt den passera och säg i stället något vänligt eller hjälpsamt. Anteckna sedan en begäran som du nästa gång artigt skulle kunna avböja, utan skuldkänslor.
 
-## een-blik-op-de-evolutie
-
-### Practice
-Denk aan één gebied waarop het leven nu vriendelijker of eerlijker is dan een eeuw geleden, en één waarop het nog tekortschiet. Schrijf ze allebei op. Noteer dan één kleine handeling waarmee je het tweede vooruit zou kunnen helpen.
-
-## god-dienen
+## handling-ute-i-v-rlden
 
 ### Practice
-Schrijf één zin over wat ‘het meeste uit jezelf halen’ voor jou zou betekenen. Zet dan de mensen op een rij die van je afhankelijk zijn, en noteer één manier om die groei na te streven terwijl je toch goed voor hen blijft zorgen.
+Bemöt i dag alla du har att göra med, från kassören till direktören, med samma lugna artighet. Kontakta sedan en person som skulle kunna hjälpa dig med ett aktuellt mål och be helt enkelt om ett kort samtal.
 
-## een-geestelijke-oefening
-
-### Practice
-Neem vanavond in bed tien minuten om elk deel van je lichaam te ontspannen, van je hoofd tot je voeten. Herhaal dan langzaam een zin uit het hoofdstuk die voor jou goed voelt. Maakt een lichamelijk symptoom je ongerust, schrijf het dan op om het met een arts te bespreken.
-
-## samenvatting-van-de-wetenschap-van-het-groot-worden
+## n-gra-ytterligare-f-rklaringar
 
 ### Practice
-Lees de samenvatting langzaam door en markeer de stap die je het minst beoefent. Schrijf die op een kaart en leg hem waar je hem elke dag ziet. Kijk na een maand wat er veranderd is en kies de volgende stap.
+Skriv två korta beskrivningar av ditt liv nu: en som ett ’strandat skepp’ och en som ett ’skepp som lär sig att styra’. Läs båda. Välj en liten kurskorrigering som den andra ger dig och genomför den den här veckan.
 
-## de-definitie-van-succes
-
-### Practice
-Schrijf je drie grootste vermogens op, en vraag ook een vriend om de jouwe te noemen. Kijk dan naar je huidige werk of je belangrijkste project en noteer één concrete manier om die sterke kanten deze week beter te benutten.
-
-## het-iets-dat-wie-slaagt-bezit
+## mer-om-tanken
 
 ### Practice
-Kies één taak die je vermijdt. Adem zeven avonden lang voor het slapengaan langzaam en zeg zachtjes: ‘Ik kan dit, en ik leer hoe.’ Zet elke ochtend één kleine stap in die taak.
+Skriv i slutet av varje dag den här veckan ned en god sak som du har lagt märke till hos någon, särskilt hos någon som du oftast förbiser eller tycker är svår. Läs listan på söndagen och se hur din blick på de människorna har förändrats.
 
-## de-juiste-manier-om-te-krijgen-wat-je-wilt
-
-### Practice
-Kies één gebied: werk, zaken, vriendschap of thuis. Zet op een rij wat je daar al hebt: vaardigheden, contacten, tijd, goede wil. Kies één van die middelen en zet het vandaag vollediger in, bijvoorbeeld door een taak helemaal af te maken of weer contact op te nemen met iemand.
-
-## het-beste-van-alles-hebben
+## jesu-id-om-storhet
 
 ### Practice
-Denk aan één relatie die je als routine behandelt, met een partner, een collega of een vaste klant. Doe vandaag één klein ding dat echte belangstelling toont voor diens welzijn, zonder er iets voor terug te vragen. Let op hoe het contact verloopt.
+Tänk på en roll som du har, till exempel förälder, chef, vän eller volontär. Skriv ned ett sätt att tjäna bättre i den rollen, och ett sätt på vilket du kanske ger så mycket att du bränner ut dig. Justera ett av dem.
 
-## slotgedachten
-
-### Practice
-Schrijf een alinea die met concrete details beschrijft wat je over drie jaar wilt doen. Schrijf daaronder de ene handeling die je deze week, in je huidige situatie, kunt doen en die je daar dichterbij brengt. Leg de pagina waar je hem zult zien.
-
-## het-krachtige-leven-waar-komt-de-kracht-vandaan
+## en-syn-p-utvecklingen
 
 ### Practice
-Breng vijf rustige minuten buiten of bij een raam door. Merk één gewoon levend wezen op, zoals een plant, een vogel of een boom. Denk na over het leven dat erin is, en dan over het leven dat in jou is. Schrijf één zin over wat die verbondenheid voor je betekent.
+Tänk på ett område där livet nu är vänligare eller rättvisare än för hundra år sedan, och ett där det fortfarande brister. Skriv ned båda. Anteckna sedan en liten handling med vilken du skulle kunna föra det andra framåt.
 
-## de-zakelijke-houding
-
-### Practice
-Pauzeer de volgende keer dat iemand je advies geeft, of dat je online een uitgesproken mening leest, voordat je handelt. Schrijf de suggestie op, daarna je eigen conclusie erover, en handel alleen naar het tweede.
-
-## wat-je-verlangt
+## att-tj-na-gud
 
 ### Practice
-Schrijf één ding op dat je al lang wilt doen of worden. Zet daaronder de eigenschappen die dat verlangen in jou onthult, zoals nieuwsgierigheid, vriendelijkheid of liefde voor schoonheid. Kies één kleine manier om die eigenschap deze week te uiten.
+Skriv en mening om vad ’att få ut det mesta av dig själv’ skulle betyda för dig. Lista sedan de människor som är beroende av dig, och anteckna ett sätt att sträva efter den tillväxten samtidigt som du fortsätter att ta väl hand om dem.
 
-## worden-wat-je-wilt-zijn
-
-### Practice
-Noem één vaardigheid die de rol die je hierna wilt zou vragen en die je huidige rol niet vraagt. Besteed er deze week dertig minuten aan om haar te oefenen of te leren, via een cursus, een boek of een kleine extra taak op het werk.
-
-## jezelf-bevorderen
+## en-andlig-vning
 
 ### Practice
-Schrijf op wat je volgende rol moet zijn. Noteer dan twee dingen die je al doet en die die kant op leiden, en één die je zou kunnen toevoegen. Prik een datum om na te gaan of je huidige werkplek je die volgende stap kan bieden.
+Ta i kväll i sängen tio minuter för att slappna av i varje del av kroppen, från huvudet till fötterna. Upprepa sedan långsamt en mening ur kapitlet som känns rätt för dig. Om ett kroppsligt symtom oroar dig, skriv ned det för att ta upp det med en läkare.
 
-## de-vooruitgaande-gedachte
-
-### Practice
-Voeg bij je volgende drie contacten met een klant of collega één zin toe die spreekt over diens vooruitgang of toekomst, bijvoorbeeld door op te merken hoe ver een project al is gekomen. Noteer daarna kort hoe iedereen reageerde.
-
-## de-wet-van-de-overvloed
+## sammanfattning-av-vetenskapen-om-att-bli-stor
 
 ### Practice
-Denk aan een situatie waarin je je in concurrentie voelt met iemand. Schrijf één manier op waarop je daar in plaats daarvan nieuwe waarde zou kunnen scheppen, door te helpen, samen te werken of iets anders te bieden, in plaats van te proberen een groter deel te krijgen van wat er al is.
+Läs långsamt igenom sammanfattningen och markera det steg som du praktiserar minst. Skriv det på ett kort och lägg det där du ser det varje dag. Se efter en månad vad som har förändrats och välj nästa steg.
 
-## de-mens-en-het-geld
-
-### Practice
-Denk aan iets wat je in je werk verkoopt, maakt of levert. Schrijf op hoe het het leven van de ontvanger werkelijk verbetert. Noem dan één verandering die het nuttiger voor die persoon zou maken zonder de prijs te verhogen.
-
-## woorden-die-opbouwen
+## definitionen-av-framg-ng
 
 ### Practice
-Let een dag lang op hoe je je geld of je werk aan anderen beschrijft. Telkens als je jezelf betrapt op het opnieuw vertellen van een oude worsteling, voeg je één zin toe over een vaardigheid die je hebt of een stap die je nu zet.
+Skriv ned dina tre största förmågor, och be också en vän att nämna dina. Titta sedan på ditt nuvarande arbete eller ditt viktigaste projekt och anteckna ett konkret sätt att använda dessa styrkor bättre den här veckan.
 
-## de-bron-van-de-werkkracht
-
-### Practice
-Sta drie dagen lang voor elke maaltijd of tussendoortje stil en geef je echte honger een cijfer van 1 tot 10. Noteer het cijfer en wat je naar het eten dreef. Verander je eetpatroon niet. Bekijk het patroon gewoon met nieuwsgierigheid.
-
-## de-slaap
+## det-n-got-som-de-framg-ngsrika-ger
 
 ### Practice
-Kies vanavond een vaste bedtijd en leg de schermen dertig minuten van tevoren weg. Schrijf 's ochtends één regel over hoe uitgerust je je voelt. Herhaal dit een week en kijk wat er veranderd is.
+Välj en uppgift som du undviker. Andas sju kvällar i rad långsamt före sömnen och säg tyst: ’Jag kan det här, och jag lär mig hur.’ Ta varje morgon ett litet steg i den uppgiften.
 
-## hoe-je-de-slaap-gebruikt
-
-### Practice
-Schrijf je eigen korte avondzin van vertrouwen of dankbaarheid, met het gebed van Wattles als voorbeeld als dat bij je past. Lees hem zeven avonden lang langzaam voor het slapengaan, en merk op of je avonden anders aanvoelen.
-
-## wetenschappelijk-leven-en-genezen
+## det-r-tta-s-ttet-att-f-det-du-vill-ha
 
 ### Practice
-Let op een gewone dag op elk moment waarop je eet om een andere reden dan honger: verveling, stress, gewoonte, beleefdheid. Noteer elk moment zonder oordeel. Ben je ziek, volg dan het advies van je arts over eten en drinken.
+Välj ett område: arbete, affärer, vänskap eller hemmet. Lista vad du redan har där: färdigheter, kontakter, tid, välvilja. Välj en av dessa resurser och använd den mer fullständigt i dag, till exempel genom att slutföra en uppgift helt eller återuppta kontakten med någon.
 
-## geestelijke-genezingen
-
-### Practice
-Geef je volgende wandeling of trainingssessie je volle aandacht, met plezier, in plaats van haar als een karwei te behandelen. Schrijf daarna één zin over hoe je je voelde. Maakt een symptoom je ongerust, noteer het dan en bespreek het met een arts.
-
-## aard-en-ontwikkeling-van-de-wilskracht
+## att-ha-det-b-sta-av-allt
 
 ### Practice
-Zit deze week elke dag vijf minuten in stilte. Als je gedachten afglijden naar zorgen of zelfmedelijden, merk dat dan vriendelijk op en keer terug naar de rust, of naar een korte zin van jezelf over het kiezen voor het goede.
+Tänk på en relation som du behandlar som rutin, med en partner, en kollega eller en stamkund. Gör i dag en liten sak som visar verkligt intresse för den personens välbefinnande, utan att be om något tillbaka. Lägg märke till hur kontakten blir.
 
-## de-levende
-
-### Practice
-Breng tien minuten buiten door en kijk naar iets levends: een boom, een vogel, een tuin. Schrijf dan drie zinnen over wat je opmerkte en hoe het voelt om deel uit te maken van dezelfde levende wereld.
-
-## nieuw-licht-op-de-onsterfelijkheid
+## avslutande-tankar
 
 ### Practice
-Schrijf drie dagelijkse gewoonten op die levengevend aanvoelen en één die je uitput. Kies zonder jezelf iets te verwijten één kleine levengevende stap voor morgen, en let op hoe je je voelt.
+Skriv ett stycke som med konkreta detaljer beskriver vad du vill göra om tre år. Skriv under det den enda handling som du den här veckan, i din nuvarande situation, kan göra och som för dig närmare dit. Lägg sidan där du kommer att se den.
 
-## lijden-bij-ziekte
-
-### Practice
-Zorg je voor iemand die ziek of oud is, vraag dan zijn zorgteam welke voeding hij nodig heeft. Vraag de persoon zelf vervolgens wat hem vandaag het meeste troost zou geven, en luister aandachtig naar het antwoord.
-
-## de-tijd
+## det-kraftfulla-livet-varifr-n-kommer-kraften
 
 ### Practice
-Loop vanavond je dag na en markeer één uur dat goed besteed was en één uur dat wegglipte. Kies zonder oordeel één kleine verandering waardoor het verloren uur morgen telt.
+Tillbringa fem lugna minuter ute eller vid ett fönster. Lägg märke till ett vanligt levande väsen, till exempel en växt, en fågel eller ett träd. Tänk på livet i det, och sedan på livet i dig. Skriv en mening om vad den samhörigheten betyder för dig.
 
-## de-ruimte
-
-### Practice
-Kijk rond in de kamer waar je bent. Let op de voorwerpen en de lege ruimte ertussen. Kies één rommelige hoek en ruim die op; kijk dan hoe de vrijgekomen ruimte de sfeer van de kamer verandert en de manier waarop je haar gebruikt.
-
-## de-substantie
+## aff-rsmannens-h-llning
 
 ### Practice
-Neem een alledaags voorwerp, zoals een kop, een stoel of een appel, en volg zijn oorsprong zo ver terug als je kunt: materialen, zonlicht, aarde, lucht. Schrijf een paar regels over wat het betekent dat gewone dingen gemeenschappelijke wortels hebben.
+Gör nästa gång någon ger dig råd, eller du läser en tvärsäker åsikt på nätet, en paus innan du handlar. Skriv ned förslaget, sedan din egen slutsats om det, och handla bara efter det senare.
 
-## het-bewustzijn
-
-### Practice
-Zit drie minuten in stilte en merk eenvoudig op dat je bewust bent: van geluiden, gewaarwordingen, gedachten. Schrijf dan één zin over hoe het voelt om bewust te zijn, en één manier waarop je zou willen dat je bewustzijn groeit.
-
-## de-beweging
+## det-du-nskar
 
 ### Practice
-Kies één verandering die je in je leven wilt zien. Stel haar de vraag van Wattles: welke kracht, welke voortdurende druk zou haar werkelijk vooruitstuwen? Schrijf één kleine, regelmatige handeling op die die stuwkracht zou kunnen leveren.
+Skriv ned en sak som du länge har velat göra eller bli. Skriv under den de egenskaper som denna längtan avslöjar hos dig, till exempel nyfikenhet, vänlighet eller kärlek till skönhet. Välj ett litet sätt att uttrycka den egenskapen den här veckan.
 
-## het-begin-van-de-beweging
-
-### Practice
-Schrijf vandaag drie kleine dingen op die je echt geluk brachten. Noteer naast elk of het ook iemand anders gelukkig maakte. Denk na over Wattles' gedachte dat echt geluk gedeeld wordt.
-
-## de-mens-en-zijn-krachten
+## att-bli-det-du-vill-vara
 
 ### Practice
-Schrijf een korte beschrijving van wat je ‘hoogste goed’ zou zijn op het gebied van gezondheid, relaties en werk. Noteer dan één ding om voor te bidden of over te mediteren, en één praktische stap voor deze week, zoals een uitgestelde controle inplannen.
+Nämn en färdighet som den roll du vill ha härnäst skulle kräva och som din nuvarande roll inte kräver. Ägna trettio minuter den här veckan åt att öva eller lära dig den, genom en kurs, en bok eller en liten extra uppgift på arbetet.
 
-## zijn-persoonlijkheid
-
-### Practice
-Schrijf drie eigenschappen op waarvan je geleerd hebt dat een ‘goed mens’ ze moet hebben. Vraag je bij elke af: helpt deze me goed te handelen, of vooral om te zwijgen als iets oneerlijk is? Houd er één zoals ze is en herschrijf er één op een sterkere, gezondere manier.
-
-## zijn-houding
+## att-befordra-dig-sj-lv
 
 ### Practice
-Zet de groepen op een rij waartoe je behoort: geloof, partij, team, beroep. Denk terug aan een recent moment waarop loyaliteit aan een groep botste met eerlijkheid tegenover een persoon. Hoe zou ‘de kant van de mensheid kiezen’ er toen hebben uitgezien? Schrijf er twee eerlijke zinnen over.
+Skriv ned vad din nästa roll bör vara. Anteckna sedan två saker som du redan gör och som leder åt det hållet, och en som du skulle kunna lägga till. Bestäm ett datum för att pröva om din nuvarande arbetsplats kan erbjuda dig det nästa steget.
 
-## zijn-leer-over-de-mens
-
-### Practice
-Let vandaag op elke uitdrukking die je hoort of gebruikt en die mensen indeelt als ‘goedkoop’, ‘minderwaardig’ of ‘minder dan niets’, in een gesprek, op het nieuws of online. Formuleer haar telkens in stilte om met woorden die de waarde van de persoon eren. Tel hoe vaak het gebeurt.
-
-## zijn-leer-over-rijkdom
+## den-fram-tskridande-tanken
 
 ### Practice
-Denk aan één goed ding waaraan je deze maand werkt: een vaardigheid, opslag, rust, betere gezondheid. Noem één concrete persoon die er ook baat bij zou kunnen hebben, en zet deze week één kleine stap die hem helpt het ook te bereiken.
+Lägg vid dina tre nästa kontakter med en kund eller kollega till en mening som talar om den personens framsteg eller framtid, till exempel genom att notera hur långt ett projekt redan har kommit. Anteckna sedan kort hur var och en reagerade.
 
-## de-apostelen-en-hun-falen
-
-### Practice
-Schrijf één zin over een plek in je leven, zoals werk, familie of buurt, waar mensen strijden om ‘de eerste plaats’. Noteer dan één praktische verandering die die plek iets meer coöperatief zou maken, en probeer die deze week één keer uit.
-
-## de-bron-van-de-kracht
+## verfl-dets-lag
 
 ### Practice
-Zit drie minuten in stilte. Adem langzaam en herhaal in je eigen woorden één zin die je verbondenheid uitdrukt met God, met het leven of met iets groters, zoals jij dat begrijpt. Noteer daarna één manier waarop dat gevoel van verbondenheid kan bepalen hoe je vandaag met iemand omgaat.
+Tänk på en situation där du känner dig i konkurrens med någon. Skriv ned ett sätt på vilket du i stället skulle kunna skapa nytt värde där, genom att hjälpa, samarbeta eller erbjuda något annat, i stället för att försöka få en större del av det som redan finns.
 
-## het-bereiken-van-kosmisch-bewustzijn
-
-### Practice
-Begin een week lang elke dag met twee minuten stilte waarin je om niets vraagt. Bedank alleen en rust in het gevoel gedragen te worden door iets groters. Noteer in een schrift elke verandering in je stemming of concentratie.
-
-## verwezenlijking-en-bereiken
+## m-nniskan-och-pengarna
 
 ### Practice
-Lees de afsluitende ‘Verklaring van het zijn’ één keer langzaam door. Kies de regel die je het nuttigst lijkt, misschien die over vrede of liefde, en schrijf hem op een kaart. Laat er vandaag elke keer dat je hem ziet een vriendelijke daad voor iemand op volgen.
+Tänk på något som du säljer, gör eller levererar i ditt arbete. Skriv ned hur det verkligen förbättrar mottagarens liv. Nämn sedan en förändring som skulle göra det mer användbart för den personen utan att höja priset.
 
-## jezus-de-mens-en-zijn-werk
-
-### Practice
-Teken een schroefvijzel en een wenteltrap. Noem in je werk, je gemeenschap of je gemeente één plek die werkt als het eerste en één die werkt als het tweede. Kies dan deze maand één kleine handeling, zoals vrijwilligerswerk, iemand jonger begeleiden of het woord nemen, die iemand helpt van de hendel naar de trap te gaan.
-
-## hoofdstuk-een
+## tal-som-bygger-upp
 
 ### Practice
-Waar verberg je warmte of enthousiasme achter een koele, gereserveerde houding? Denk aan iemand die blij zou zijn te zien wat je werkelijk voelt, en zoek deze week een kleine manier om het hem te laten zien.
+Lägg under en dag märke till hur du beskriver din ekonomi eller ditt arbete för andra. Varje gång du kommer på dig själv med att återberätta en gammal kamp, lägg till en mening om en färdighet du har eller ett steg du tar nu.
 
-## hoofdstuk-twee
-
-### Practice
-Alicia krijgt hulp door eerlijk de nood te beschrijven in plaats van te eisen. Is er een situatie waarin jij steun nodig hebt? Schrijf op hoe je die eenvoudig zou kunnen uitleggen aan iemand die om je geeft.
-
-## hoofdstuk-drie
+## arbetskraftens-k-lla
 
 ### Practice
-Is er een beslissing waartoe je je gedreven voelt uit angst of door de haast van anderen? Schrijf op hoe een keuze eruit zou zien die in helderheid in plaats van onder druk gemaakt wordt, en wat je eerst zou moeten weten.
+Stanna i tre dagar upp före varje måltid eller mellanmål och ge din verkliga hunger en siffra från 1 till 10. Anteckna siffran och vad som drev dig till maten. Ändra inte dina matvanor. Betrakta bara mönstret med nyfikenhet.
 
-## hoofdstuk-vier
-
-### Practice
-Harrison onderschatte zijn tegenstander na een gemakkelijke overwinning. Denk aan een moment waarop je na een succes te vroeg ontspande. Welke kleine, eenvoudige controle zou je in je gewoonten kunnen inbouwen om de volgende keer alert te blijven?
-
-## hoofdstuk-vijf
+## s-mnen
 
 ### Practice
-Bijna iedereen negeerde Dicky, en toch was hij degene die handelde. Wie in jouw leven of omgeving wordt gemakkelijk over het hoofd gezien? Neem deze week de tijd om die persoon echt op te merken, en vraag je af wat je van hem zou kunnen leren.
+Välj i kväll en fast sänggåendetid och lägg undan skärmarna trettio minuter innan. Skriv på morgonen en rad om hur utvilad du känner dig. Upprepa detta i en vecka och se vad som har förändrats.
 
-## hoofdstuk-zes
-
-### Practice
-Mary handelde op het moment dat ze zeker was. Is er een verbintenis die je blijft afwegen zonder te beslissen? Schrijf op wat je zeker zou maken, en één kleine stap die je vandaag kunt zetten om dat te ontdekken.
-
-## hoofdstuk-zeven
+## hur-man-anv-nder-s-mnen
 
 ### Practice
-Harrison hield al zijn gevoelens verborgen. Is uiterlijke kalmte altijd een kracht? Denk aan een recent moeilijk moment. Aan wie had je kunnen vertellen wat je werkelijk voelde, en wat had er kunnen veranderen als je dat had gedaan?
+Skriv din egen korta kvällsmening om tillit eller tacksamhet, med Wattles bön som förebild om det passar dig. Läs den långsamt före sömnen sju kvällar i rad och lägg märke till om dina kvällar känns annorlunda.
 
-## hoofdstuk-acht
+## vetenskapligt-liv-och-l-kning
 
 ### Practice
-De cynicus eindigt in dankbaarheid. Welk goed ding in je leven verdient vandaag je eigen ‘Amen’? Schrijf het op in een of twee zinnen, en zeg dank aan iemand die ermee verbonden is.
+Lägg en vanlig dag märke till varje tillfälle då du äter av något annat skäl än hunger: leda, stress, vana, artighet. Anteckna varje tillfälle utan att döma. Är du sjuk, följ din läkares råd om mat och dryck.
+
+## sj-lsliga-botemedel
+
+### Practice
+Ge din nästa promenad eller ditt nästa träningspass hela din uppmärksamhet, med glädje, i stället för att behandla det som en plikt. Skriv sedan en mening om hur du kände dig. Om ett symtom oroar dig, anteckna det och tala med en läkare om det.
+
+## viljekraftens-natur-och-utveckling
+
+### Practice
+Sitt fem minuter i tystnad varje dag den här veckan. När dina tankar glider iväg mot oro eller självömkan, lägg vänligt märke till det och återvänd till stillheten, eller till en kort egen mening om att välja det goda.
+
+## den-levande
+
+### Practice
+Tillbringa tio minuter ute och betrakta något levande: ett träd, en fågel, en trädgård. Skriv sedan tre meningar om vad du lade märke till och hur det känns att vara en del av samma levande värld.
+
+## nytt-ljus-ver-od-dligheten
+
+### Practice
+Skriv ned tre dagliga vanor som känns livgivande och en som tömmer dig. Välj, utan att förebrå dig själv, ett litet livgivande steg för i morgon, och lägg märke till hur du känner dig.
+
+## lidande-i-sjukdom
+
+### Practice
+Om du vårdar någon som är sjuk eller gammal, fråga personens vårdteam vilken näring hon behöver. Fråga sedan personen själv vad som skulle ge henne mest tröst i dag, och lyssna uppmärksamt på svaret.
+
+## tiden
+
+### Practice
+Gå i kväll igenom din dag och markera en timme som var väl använd och en som gled iväg. Välj utan att döma en liten förändring som gör att den förlorade timmen räknas i morgon.
+
+## rummet
+
+### Practice
+Se dig omkring i rummet där du befinner dig. Lägg märke till föremålen och det tomma utrymmet mellan dem. Välj ett stökigt hörn och röj upp det; se sedan hur det frigjorda utrymmet förändrar stämningen i rummet och hur du använder det.
+
+## substansen
+
+### Practice
+Ta ett vardagligt föremål, till exempel en kopp, en stol eller ett äpple, och följ dess ursprung så långt tillbaka du kan: material, solljus, jord, luft. Skriv några rader om vad det betyder att vanliga ting har gemensamma rötter.
+
+## medvetandet
+
+### Practice
+Sitt tre minuter i tystnad och lägg helt enkelt märke till att du är medveten: om ljud, förnimmelser, tankar. Skriv sedan en mening om hur det känns att vara medveten, och ett sätt på vilket du skulle vilja att ditt medvetande växte.
+
+## r-relsen
+
+### Practice
+Välj en förändring som du vill se i ditt liv. Ställ Wattles fråga till den: vilken kraft, vilket ständigt tryck skulle verkligen driva den framåt? Skriv ned en liten, regelbunden handling som skulle kunna ge den drivkraften.
+
+## r-relsens-b-rjan
+
+### Practice
+Skriv i dag ned tre små saker som verkligen gjorde dig lycklig. Anteckna bredvid var och en om den också gjorde någon annan lycklig. Reflektera över Wattles tanke att verklig lycka delas.
+
+## m-nniskan-och-hennes-krafter
+
+### Practice
+Skriv en kort beskrivning av vad ditt ’högsta goda’ skulle vara när det gäller hälsa, relationer och arbete. Anteckna sedan en sak att be för eller meditera över, och ett praktiskt steg för den här veckan, till exempel att boka en uppskjuten kontroll.
+
+## hans-personlighet
+
+### Practice
+Skriv ned tre egenskaper som du har lärt dig att en ’god människa’ bör ha. Fråga dig vid var och en: hjälper den mig att handla rätt, eller mest att tiga när något är orättvist? Behåll en som den är och skriv om en på ett starkare, sundare sätt.
+
+## hans-h-llning
+
+### Practice
+Lista de grupper du tillhör: tro, parti, lag, yrke. Tänk tillbaka på en nylig stund då lojaliteten mot en grupp krockade med ärligheten mot en person. Hur skulle ’att ställa sig på mänsklighetens sida’ ha sett ut då? Skriv två ärliga meningar om det.
+
+## hans-l-ra-om-m-nniskan
+
+### Practice
+Lägg i dag märke till varje uttryck som du hör eller använder och som delar in människor som ’billiga’, ’mindervärdiga’ eller ’mindre än ingenting’, i ett samtal, på nyheterna eller på nätet. Formulera det varje gång tyst om med ord som ärar personens värde. Räkna hur ofta det händer.
+
+## hans-l-ra-om-rikedom
+
+### Practice
+Tänk på en god sak som du arbetar för den här månaden: en färdighet, en löneförhöjning, ro, bättre hälsa. Nämn en konkret person som också skulle kunna ha nytta av den, och ta den här veckan ett litet steg som hjälper henne att också nå den.
+
+## apostlarna-och-deras-misslyckande
+
+### Practice
+Skriv en mening om ett ställe i ditt liv, till exempel arbetet, familjen eller grannskapet, där människor tävlar om ’första platsen’. Anteckna sedan en praktisk förändring som skulle göra det stället lite mer samarbetsinriktat, och pröva den en gång den här veckan.
+
+## k-llan-till-kraften
+
+### Practice
+Sitt tre minuter i tystnad. Andas långsamt och upprepa med dina egna ord en mening som uttrycker din samhörighet med Gud, med livet eller med något större, så som du förstår det. Anteckna sedan ett sätt på vilket den känslan av samhörighet kan bestämma hur du bemöter någon i dag.
+
+## att-n-kosmiskt-medvetande
+
+### Practice
+Börja varje dag i en vecka med två minuters tystnad då du inte ber om något. Tacka bara och vila i känslan av att vara buren av något större. Anteckna i en anteckningsbok varje förändring i ditt humör eller din koncentration.
+
+## f-rverkligande-och-uppn-ende
+
+### Practice
+Läs den avslutande ’Bekännelse om varat’ en gång långsamt. Välj den rad som du finner mest användbar, kanske den om frid eller kärlek, och skriv den på ett kort. Låt i dag varje gång du ser den följas av en vänlig handling mot någon.
+
+## jesus-m-nniskan-och-hans-verk
+
+### Practice
+Rita en domkraft och en spiraltrappa. Nämn i ditt arbete, ditt samhälle eller din församling ett ställe som fungerar som det första och ett som fungerar som det andra. Välj sedan den här månaden en liten handling, till exempel ideellt arbete, att handleda någon yngre eller att ta till orda, som hjälper någon att gå från handtaget till trappan.
+
+## kapitel-ett
+
+### Practice
+Var döljer du värme eller entusiasm bakom en kylig, reserverad hållning? Tänk på någon som skulle bli glad att se vad du verkligen känner, och hitta den här veckan ett litet sätt att visa det.
+
+## kapitel-tv
+
+### Practice
+Alicia får hjälp genom att ärligt beskriva nöden i stället för att kräva. Finns det en situation där du behöver stöd? Skriv ned hur du enkelt skulle kunna förklara den för någon som bryr sig om dig.
+
+## kapitel-tre
+
+### Practice
+Finns det ett beslut som du känner dig driven till av rädsla eller av andras brådska? Skriv ned hur ett val skulle se ut som fattas i klarhet i stället för under tryck, och vad du först skulle behöva veta.
+
+## kapitel-fyra
+
+### Practice
+Harrison underskattade sin motståndare efter en lätt seger. Tänk på ett tillfälle då du slappnade av för tidigt efter en framgång. Vilken liten, enkel kontroll skulle du kunna bygga in i dina vanor för att vara vaken nästa gång?
+
+## kapitel-fem
+
+### Practice
+Nästan alla förbisåg Dicky, och ändå var det han som handlade. Vem i ditt liv eller din omgivning förbises lätt? Ta dig tid den här veckan att verkligen lägga märke till den personen, och fråga dig vad du skulle kunna lära dig av henne.
+
+## kapitel-sex
+
+### Practice
+Mary handlade i samma stund som hon var säker. Finns det ett åtagande som du fortsätter att väga utan att besluta? Skriv ned vad som skulle göra dig säker, och ett litet steg som du kan ta i dag för att ta reda på det.
+
+## kapitel-sju
+
+### Practice
+Harrison höll alla sina känslor dolda. Är yttre lugn alltid en styrka? Tänk på en nylig svår stund. Vem hade du kunnat berätta för vad du verkligen kände, och vad hade kunnat förändras om du hade gjort det?
+
+## kapitel-tta
+
+### Practice
+Cynikern slutar i tacksamhet. Vilken god sak i ditt liv förtjänar i dag ditt eget ’amen’? Skriv ned den i en eller två meningar, och tacka någon som är förbunden med den.
