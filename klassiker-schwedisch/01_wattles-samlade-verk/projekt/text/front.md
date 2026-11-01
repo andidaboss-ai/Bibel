@@ -1,52 +1,52 @@
-## Voorwoord van de bezorger
+## Utgivarens förord
 
-^^ Beste lezer,
+^^ Kära läsare,
 
-wat fijn dat je er bent.
+vad roligt att du är här.
 
-Dat je dit boek in handen hebt, is geen toeval. Iets in jou verlangt naar meer: meer leven, meer vreugde, meer vrijheid. Dat verlangen is goed. Het is het begin van alles wat komt.
+Att du håller den här boken i dina händer är ingen slump. Något i dig längtar efter mer: mer liv, mer glädje, mer frihet. Den längtan är god. Den är början på allt som kommer.
 
-Meer dan honderd jaar geleden schreef Wallace D. Wattles op wat hij had geleerd over rijkdom, gezondheid en een vervuld leven. Zijn woorden hebben sindsdien miljoenen mensen moed gegeven, en nu zijn ze bij jou aangekomen.
+För mer än hundra år sedan skrev Wallace D. Wattles ned det han hade lärt sig om rikedom, hälsa och ett fullödigt liv. Hans ord har sedan dess gett miljontals människor mod, och nu har de kommit fram till dig.
 
-Ik wens je van harte dat dit boek je vergezelt op je weg naar welvaart en succes, naar geluk en een goede gezondheid. Moge het je vertrouwen geven wanneer je dat nodig hebt, en ideeën die je leven mooier maken.
+Jag önskar dig av hela mitt hjärta att den här boken följer dig på din väg mot välstånd och framgång, mot lycka och god hälsa. Må den ge dig tillförsikt när du behöver det, och idéer som gör ditt liv vackrare.
 
-Leun achterover, haal diep adem en glimlach gerust een beetje. Het beste ligt nog voor je.
+Luta dig tillbaka, andas djupt och le gärna lite. Det bästa ligger fortfarande framför dig.
 
-=> Hartelijke groet en alle goeds,
+=> Varma hälsningar och allt gott,
 
 => Andreas Rupp
 
 * * *
 
-Wallace Delois Wattles werd in 1860 in de Verenigde Staten geboren en stierf in februari 1911. Een groot deel van zijn leven kende hij armoede en tegenslag, en zijn werk is het antwoord op die ervaring: een levensleer die hij niet alleen op papier zette, maar in zijn laatste jaren ook zelf probeerde te leven.
+Wallace Delois Wattles föddes 1860 i USA och dog i februari 1911. Under en stor del av sitt liv kände han fattigdom och motgångar, och hans verk är svaret på den erfarenheten: en livslära som han inte bara satte på pränt, utan under sina sista år också själv försökte leva.
 
-Wattles behoorde tot de beweging van het *Nieuwe Denken* (*New Thought*), een Amerikaanse spirituele stroming van het einde van de negentiende en het begin van de twintigste eeuw, die ervan overtuigd was dat het denken van de mens zijn leven vormgeeft. Veel van zijn teksten verschenen eerst als artikelen in het tijdschrift *The Nautilus* en als boeken bij de uitgeverij van Elizabeth Towne in Holyoke, Massachusetts.
+Wattles tillhörde rörelsen *Nytt Tänkande* (*New Thought*), en amerikansk andlig strömning från slutet av 1800-talet och början av 1900-talet, som var övertygad om att människans tänkande formar hennes liv. Många av hans texter publicerades först som artiklar i tidskriften *The Nautilus* och som böcker på Elizabeth Townes förlag i Holyoke, Massachusetts.
 
-Zijn beroemdste werk, *De wetenschap van het rijk worden*, verscheen in 1910. Bijna honderd jaar later maakte de wereldwijde bestseller *The Secret* (2006) van Rhonda Byrne het bekend bij een internationaal publiek; Byrne noemde het een van haar belangrijkste inspiratiebronnen.
+Hans mest berömda verk, *Vetenskapen om att bli rik*, kom ut 1910. Nästan hundra år senare gjorde Rhonda Byrnes världsomspännande bästsäljare *The Secret* (2006) det känt för en internationell publik; Byrne nämnde det som en av sina viktigaste inspirationskällor.
 
-Maar Wattles was veel meer dan de auteur van één boek. Deze band brengt tien van zijn werken samen, integraal in het Nederlands vertaald:
+Men Wattles var mycket mer än författaren till en enda bok. Den här volymen samlar tio av hans verk, oavkortat översatta till svenska:
 
-- de drie ‘wetenschapsboeken’ – *rijk worden*, *gezond zijn*, *groot worden* –, het hart van zijn denken;
-- *Hoe je krijgt wat je wilt*, een beknopt overzicht van zijn leer over succes;
-- *De mens die het kan* en *De nieuwe wetenschap van leven en genezen*, geschriften over succes, wilskracht, slaap en gezondheid;
-- *Wat is waarheid?*, de artikelenreeks die in 1909 in *The Nautilus* verscheen over de filosofische grondslagen van zijn denken;
-- *Een nieuwe Christus* en de lezing *Jezus: de mens en zijn werk*, die Wattles laten zien als een hartstochtelijk sociaal hervormer;
-- en ten slotte *Hellevuur-Harrison* (1910), zijn enige roman: een avonturen- en liefdesverhaal in het achttiende-eeuwse Engeland.
+- de tre ”vetenskapsböckerna” – *att bli rik*, *att vara frisk*, *att bli stor* –, hjärtat i hans tänkande;
+- *Hur du får det du vill ha*, en koncis översikt över hans lära om framgång;
+- *Människan som kan* och *Den nya vetenskapen om liv och läkning*, skrifter om framgång, viljekraft, sömn och hälsa;
+- *Vad är sanning?*, den artikelserie om de filosofiska grunderna för hans tänkande som publicerades i *The Nautilus* 1909;
+- *En ny Kristus* och föreläsningen *Jesus: människan och hans verk*, som visar Wattles som en lidelsefull social reformator;
+- och slutligen *Helveteseld-Harrison* (1910), hans enda roman: en äventyrs- och kärleksberättelse i 1700-talets England.
 
-Moge dit werk hen vinden die eraan toe zijn het te lezen.
+Må detta verk finna dem som är redo att läsa det.
 
-Andreas Rupp, bezorger
+Andreas Rupp, utgivare
 
-## Over deze uitgave
+## Om denna utgåva
 
-Alle werken zijn integraal vertaald uit de oorspronkelijke Engelse uitgaven, zin voor zin en zonder inkortingen.
+Alla verk är oavkortat översatta från de ursprungliga engelska utgåvorna, mening för mening och utan förkortningar.
 
-*De wetenschap van het rijk worden*, *De wetenschap van het gezond zijn* en *De wetenschap van het groot worden* volgen de eerste uitgaven of eerste drukken die in 1910 verschenen bij Elizabeth Towne in Holyoke, Massachusetts. *Hellevuur-Harrison* volgt de uitgave van L. C. Page & Company, Boston, 1910. *Wat is waarheid?* komt uit de reeks die Wattles in 1909 in *The Nautilus* publiceerde.
+*Vetenskapen om att bli rik*, *Vetenskapen om att vara frisk* och *Vetenskapen om att bli stor* följer de första utgåvorna eller första tryckningarna som kom ut 1910 hos Elizabeth Towne i Holyoke, Massachusetts. *Helveteseld-Harrison* följer utgåvan från L. C. Page & Company, Boston, 1910. *Vad är sanning?* kommer från den serie som Wattles publicerade i *The Nautilus* 1909.
 
-*De nieuwe wetenschap van leven en genezen* volgt de herdruk van 1924, zonder het commentaar dat Elizabeth Towne aan die druk toevoegde. *Een nieuwe Christus* en de lezing *Jezus: de mens en zijn werk* berusten op een latere transcriptie, vergeleken met afbeeldingen van de bladzijden van de eerdere druk. Van *De mens die het kan* hadden we vooral een heruitgave uit 2005 tot onze beschikking, waarin de taal genderneutraal was herschreven; voor deze band is Wattles’ oorspronkelijke formulering hersteld. *Hoe je krijgt wat je wilt* volgt een latere herdruk; de hoofdstuktitels zijn van een bewerker, niet van Wattles.
+*Den nya vetenskapen om liv och läkning* följer nytryckningen från 1924, utan den kommentar som Elizabeth Towne lade till i den tryckningen. *En ny Kristus* och föreläsningen *Jesus: människan och hans verk* bygger på en senare transkription, jämförd med bilder av sidorna i det tidigare trycket. Av *Människan som kan* hade vi främst tillgång till en nyutgåva från 2005, där språket hade skrivits om könsneutralt; för den här volymen har Wattles ursprungliga formuleringar återställts. *Hur du får det du vill ha* följer en senare nytryckning; kapitelrubrikerna är en bearbetares, inte Wattles egna.
 
-Kennelijke drukfouten in de originelen zijn stilzwijgend verbeterd. Waar Wattles de Engelse King James-bijbel citeert, volgen de citaten de stijl van de Statenvertaling.
+Uppenbara tryckfel i originalen har rättats i tysthet. Där Wattles citerar den engelska King James-bibeln följer citaten stilen i 1917 års svenska bibelöversättning. Amerikanska mått har räknats om till metriska.
 
-Wattles schreef voor de lezers van zijn tijd. Zijn taal, zijn voorbeelden en sommige van zijn ideeën – bijvoorbeeld over voeding, vasten en ziekte – weerspiegelen het begin van de twintigste eeuw. Ze worden hier ongewijzigd weergegeven, zodat ieder er zijn eigen oordeel over kan vormen.
+Wattles skrev för sin tids läsare. Hans språk, hans exempel och en del av hans idéer – till exempel om kost, fasta och sjukdom – speglar början av 1900-talet. De återges här oförändrade, så att var och en kan bilda sig en egen uppfattning om dem.
 
-De werken van Wallace D. Wattles zijn vrij van auteursrecht. De vertaling, het voorwoord, de opmaak en de vormgeving van deze uitgave zijn auteursrechtelijk beschermd.
+Wallace D. Wattles verk är fria från upphovsrätt. Översättningen, förordet, sättningen och formgivningen av denna utgåva är upphovsrättsligt skyddade.

@@ -1,249 +1,249 @@
-## Dertig dagen oefenen
+## Trettio dagars övning
 
-Wattles was ervan overtuigd dat ideeën een leven pas veranderen wanneer ze gewoonten worden, en dat gewoonten dag na dag ontstaan, op heel gewone dagen. Deze praktijk geeft je dertig van zulke dagen.
+Wattles var övertygad om att idéer förändrar ett liv först när de blir vanor, och att vanor växer fram dag för dag, under helt vanliga dagar. Den här övningen ger dig trettio sådana dagar.
 
-Elke dag biedt een korte passage van Wattles, een aanwijzing waar die vandaan komt en een eenvoudige opdracht. Lees de passage langzaam, misschien twee keer. Doe dan de opdracht en schrijf een paar regels op de gelinieerde pagina. Wat viel je op? Wat was moeilijk? Wat is er veranderd, als er al iets veranderd is? Vijftien minuten is genoeg. Sla je een dag over, ga dan gewoon verder. Dit is geen examen.
+Varje dag bjuder på ett kort avsnitt ur Wattles, en uppgift om var det kommer ifrån och en enkel uppgift. Läs avsnittet långsamt, kanske två gånger. Gör sedan uppgiften och skriv några rader på den linjerade sidan. Vad lade du märke till? Vad var svårt? Vad har förändrats, om något alls har förändrats? Femton minuter räcker. Hoppar du över en dag, fortsätt bara. Det här är inget prov.
 
-De vier weken volgen de opbouw van Wattles' leer. De eerste week gaat over visie en de Bepaalde Manier: weten wat je wilt en waarom. De tweede week richt zich op dankbaarheid, geloof en wil. De derde week gaat over handelen: het werk van vandaag goed doen, meer geven dan je neemt en leven wat Wattles het vooruitgaande leven noemde. De vierde week verbreedt de kring naar gezonde gewoonten, grootheid van karakter, dienstbaarheid en liefde; de laatste twee dagen zijn gewijd aan terugkijken en vooruitkijken.
+De fyra veckorna följer uppbyggnaden av Wattles lära. Den första veckan handlar om vision och det Bestämda Sättet: att veta vad du vill och varför. Den andra veckan riktar in sig på tacksamhet, tro och vilja. Den tredje veckan handlar om handling: att göra dagens arbete väl, ge mer än du tar och leva det som Wattles kallade det framåtskridande livet. Den fjärde veckan vidgar kretsen till sunda vanor, storhet i karaktären, tjänande och kärlek; de två sista dagarna ägnas åt att se tillbaka och se framåt.
 
-Twee opmerkingen vooraf. Geen van deze opdrachten vraagt je te vasten, maaltijden over te slaan of je eetpatroon te veranderen. Komt er een gezondheidsvraag op, praat dan met een arts. En raakt een dag aan iets zwaars, zoals geldzorgen, ziekte of rouw, dan mag je behoedzaam te werk gaan, met iemand praten die je vertrouwt of professionele hulp zoeken. De praktijk is er om jou te dienen.
+Två påpekanden i förväg. Ingen av dessa uppgifter ber dig att fasta, hoppa över måltider eller ändra dina matvanor. Dyker en hälsofråga upp, tala med en läkare. Och rör en dag vid något tungt, som pengaoro, sjukdom eller sorg, får du gå varsamt fram, tala med någon du litar på eller söka professionell hjälp. Övningen finns till för att tjäna dig.
 
-### Dag 1 – Het verlangen om meer te leven
+### Dag 1 – Längtan efter mer liv
 
-> Het verlangen naar rijkdom is in werkelijkheid het verlangen naar een rijker, voller en overvloediger leven; en dat verlangen is prijzenswaardig.
+> Längtan efter rikedom är i själva verket längtan efter ett rikare, fylligare och överflödigare liv; och den längtan är lovvärd.
 
-Bron: De wetenschap van het rijk worden, Het recht om rijk te zijn
+Källa: Vetenskapen om att bli rik, Rätten att vara rik
 
-Wattles zegt dat we leven voor het lichaam, voor de geest en voor de ziel. Teken drie kolommen met die koppen en schrijf in elke kolom wat ‘meer leven’ daar zou betekenen. Laat geld voorlopig buiten beschouwing. Merk op welke kolom het makkelijkst en welke het moeilijkst te vullen is.
+Wattles säger att vi lever för kroppen, för sinnet och för själen. Rita tre kolumner med de rubrikerna och skriv i varje kolumn vad ”mer liv” skulle betyda där. Lämna pengarna utanför tills vidare. Lägg märke till vilken kolumn som är lättast och vilken som är svårast att fylla.
 
-### Dag 2 – Een Bepaalde Manier
+### Dag 2 – Ett Bestämt Sätt
 
-> Uit dit alles moeten we concluderen dat rijk worden het gevolg is van het doen van dingen op een Bepaalde Manier.
+> Av allt detta måste vi dra slutsatsen att det att bli rik är resultatet av att göra saker på ett Bestämt Sätt.
 
-Bron: De wetenschap van het rijk worden, Er bestaat een wetenschap van het rijk worden
+Källa: Vetenskapen om att bli rik, Det finns en vetenskap om att bli rik
 
-Wattles vond de manier waarop je dingen doet belangrijker dan talent of omstandigheden. Omstandigheden tellen ook, maar denk aan wat binnen jouw bereik ligt. Schrijf drie manieren van werken, spreken of beslissen op die je tot jouw eigen ‘Bepaalde Manier’ wilt maken. Kies er één en oefen die vandaag.
+Wattles ansåg att sättet du gör saker på är viktigare än begåvning eller omständigheter. Omständigheterna räknas också, men tänk på det som ligger inom räckhåll för dig. Skriv ned tre sätt att arbeta, tala eller besluta som du vill göra till ditt eget ”Bestämda Sätt”. Välj ett och öva det i dag.
 
-### Dag 3 – Eerst in gedachten
+### Dag 3 – Först i tanken
 
-> Alle vormen die de mens met zijn handen vervaardigt, moeten eerst in zijn gedachte bestaan; hij kan een ding niet vormen voordat hij dat ding heeft gedacht.
+> Alla former som människan formar med sina händer måste först finnas i hennes tanke; hon kan inte forma något förrän hon har tänkt det.
 
-Bron: De wetenschap van het rijk worden, Het eerste principe in de wetenschap van het rijk worden
+Källa: Vetenskapen om att bli rik, Den första principen i vetenskapen om att bli rik
 
-Denk aan iets wat je hebt gemaakt of bereikt: een maaltijd, een tuin, een afgerond project. Volg het terug tot het moment waarop het alleen een idee was. Schrijf dan een idee op dat je nu met je meedraagt en dat nog geen vorm heeft gekregen.
+Tänk på något som du har gjort eller uppnått: en måltid, en trädgård, ett avslutat projekt. Följ det tillbaka till den stund då det bara var en idé. Skriv sedan ned en idé som du bär på nu och som ännu inte har fått form.
 
-### Dag 4 – Scheppen, niet wedijveren
+### Dag 4 – Skapa, inte konkurrera
 
-> Je moet scheppen, niet wedijveren om wat al geschapen is.
+> Du ska skapa, inte konkurrera om det som redan är skapat.
 
-Bron: De wetenschap van het rijk worden, Het leven doen groeien
+Källa: Vetenskapen om att bli rik, Att öka livet
 
-Let er vandaag op wanneer je je in een wedloop met iemand voelt, om aandacht, erkenning, een verkoop of een plek in de rij. Vraag jezelf telkens: wat zou ik hier kunnen bijdragen, in plaats van te willen winnen? Schrijf één moment op waarop die vraag veranderde wat je deed.
+Lägg i dag märke till när du känner dig i kapplöpning med någon, om uppmärksamhet, erkännande, en försäljning eller en plats i kön. Fråga dig varje gång: vad skulle jag kunna bidra med här, i stället för att vilja vinna? Skriv ned en stund då frågan förändrade vad du gjorde.
 
-### Dag 5 – Een helder beeld
+### Dag 5 – En klar bild
 
-> Je moet je een helder en duidelijk omlijnd beeld vormen van wat je wilt; je kunt geen idee overbrengen als je het niet zelf hebt.
+> Du måste skapa en klar och bestämd inre bild av det du vill ha; du kan inte överföra en idé om du inte själv har den.
 
-Bron: De wetenschap van het rijk worden, Denken op de Bepaalde Manier
+Källa: Vetenskapen om att bli rik, Att tänka på det Bestämda Sättet
 
-Beschrijf in één alinea iets wat je wenst, alsof het al deel uitmaakt van je leven. Wees concreet: waar je bent, wat je doet, wie er bij je is. Laat vage woorden als ‘beter’ of ‘meer’ weg. Lees de alinea vanavond één keer.
+Beskriv i ett stycke något du önskar, som om det redan vore en del av ditt liv. Var konkret: var du är, vad du gör, vem som är med dig. Undvik vaga ord som ”bättre” eller ”mer”. Läs stycket en gång i kväll.
 
-### Dag 6 – Wat je verlangen je vertelt
+### Dag 6 – Vad din längtan säger dig
 
-> Het feit dat je wilt zijn, is het bewijs dat je kunt zijn.
+> Det faktum att du vill vara är beviset på att du kan vara.
 
-Bron: De mens die het kan, Wat je verlangt
+Källa: Människan som kan, Det du önskar
 
-Je kunt de bewering van Wattles lezen als een belofte of als een aanwijzing. Noem één ding dat je al lang wilt zijn of doen. Vraag je af naar welk vermogen of welke interesse dit verlangen wijst, en schrijf één kleine stap op waarmee dat vermogen deze week kan groeien.
+Du kan läsa Wattles påstående som ett löfte eller som en vägvisare. Nämn en sak som du länge har velat vara eller göra. Fråga dig vilken förmåga eller vilket intresse denna längtan pekar på, och skriv ned ett litet steg med vilket den förmågan kan växa den här veckan.
 
-### Dag 7 – Met het gezicht ernaartoe
+### Dag 7 – Med blicken riktad mot målet
 
-> Dat heldere mentale beeld moet je voortdurend voor ogen hebben, zoals de zeeman de haven voor ogen heeft waarheen hij het schip stuurt; je moet je gezicht er de hele tijd naar gericht houden.
+> Den klara inre bilden måste du ständigt ha i sinnet, så som sjömannen har i sinnet den hamn mot vilken han styr skeppet; du måste hela tiden hålla blicken riktad mot den.
 
-Bron: De wetenschap van het rijk worden, Denken op de Bepaalde Manier
+Källa: Vetenskapen om att bli rik, Att tänka på det Bestämda Sättet
 
-Kijk terug op de week. Lees je beeld van dag vijf opnieuw en verfijn het als je wilt. Kies dan een kleine geheugensteun die het je in de loop van de dag in herinnering brengt, zoals een briefje in je portemonnee of een woord op het vergrendelscherm van je telefoon.
+Se tillbaka på veckan. Läs din bild från dag fem igen och förfina den om du vill. Välj sedan en liten påminnelse som för den till dina tankar under dagen, till exempel en lapp i plånboken eller ett ord på telefonens låsskärm.
 
-### Dag 8 – De gewoonte van danken
+### Dag 8 – Vanan att tacka
 
-> Het is dus nodig de gewoonte te ontwikkelen dankbaar te zijn voor elk goed ding dat tot je komt, en voortdurend te danken.
+> Det är alltså nödvändigt att odla vanan att vara tacksam för varje gott ting som kommer till dig; och att ständigt tacka.
 
-Bron: De wetenschap van het rijk worden, Dankbaarheid
+Källa: Vetenskapen om att bli rik, Tacksamhet
 
-Schrijf vanavond tien dingen van de dag op waarvoor je dankbaar bent, hoe klein ook: een vriendelijk woord, een warm drankje, een bus die op tijd kwam. Probeer elk ding precies te benoemen. Let op hoe je je voelt als je klaar bent.
+Skriv i kväll ned tio saker från dagen som du är tacksam för, hur små de än är: ett vänligt ord, en varm dryck, en buss som kom i tid. Försök att benämna varje sak exakt. Lägg märke till hur du känner dig när du är klar.
 
-### Dag 9 – Het oog gericht op het beste
+### Dag 9 – Blicken riktad mot det bästa
 
-> De dankbare geest is voortdurend gericht op het beste; daarom heeft hij de neiging het beste te worden; hij neemt de vorm of het karakter van het beste aan en zal het beste ontvangen.
+> Det tacksamma sinnet är ständigt riktat mot det bästa; därför tenderar det att bli det bästa; det antar det bästas form eller karaktär och kommer att få det bästa.
 
-Bron: De wetenschap van het rijk worden, Dankbaarheid
+Källa: Vetenskapen om att bli rik, Tacksamhet
 
-Kies iemand met wie je het moeilijk hebt. Schrijf drie echte goede eigenschappen van die persoon op, of drie dingen die je via hem hebt ontvangen. Dankbaarheid verontschuldigt geen werkelijk onrecht; heeft deze persoon je kwaad gedaan, kies dan iemand anders.
+Välj någon som du har svårt med. Skriv ned tre verkliga goda egenskaper hos den personen, eller tre saker som du har fått genom henne. Tacksamhet ursäktar inte verklig orätt; har den här personen skadat dig, välj någon annan.
 
-### Dag 10 – Geloof groeit uit dankbaarheid
+### Dag 10 – Tron växer ur tacksamheten
 
-> Dankbaarheid heeft een tweevoudige uitwerking: zij versterkt je eigen geloof, en zij brengt je in nauwe en harmonische betrekking met de Allerhoogste.
+> Tacksamheten har en dubbel verkan; den stärker din egen tro, och den för dig i nära och harmonisk förbindelse med den Högste.
 
-Bron: De wetenschap van het gezond zijn, Geloof
+Källa: Vetenskapen om att vara frisk, Tro
 
-Wat je ook gelooft: neem vijf stille minuten om te danken, in gebed, hardop of in een brief die je niet verstuurt. Schrijf daarna op of je vertrouwen voor de komende dag anders voelt.
+Vad du än tror på: ta fem stilla minuter för att tacka, i bön, högt eller i ett brev som du inte skickar. Skriv sedan ned om din tillit inför den kommande dagen känns annorlunda.
 
-### Dag 11 – De wil naar binnen gericht
+### Dag 11 – Viljan riktad inåt
 
-> Dat is het rechtmatige gebruik van de wil bij het verkrijgen van wat je wilt: hem gebruiken om jezelf op de juiste koers te houden.
+> Det är det berättigade bruket av viljan när du vill få det du önskar – att använda den för att hålla dig själv på rätt kurs.
 
-Bron: De wetenschap van het rijk worden, Hoe je de wil gebruikt
+Källa: Vetenskapen om att bli rik, Hur man använder viljan
 
-Wattles waarschuwt ervoor wilskracht te gebruiken om anderen onder druk te zetten. Richt de jouwe vandaag alleen op jezelf. Kies een voornemen dat je je begin deze week hebt gesteld en houd je eraan, juist op het moment dat je liever niet zou willen. Schrijf op hoe dat moment voelde.
+Wattles varnar för att använda viljekraften för att sätta press på andra. Rikta din i dag bara mot dig själv. Välj en föresats som du satte i början av veckan och håll fast vid det, just i den stund då du helst inte skulle vilja. Skriv ned hur den stunden kändes.
 
-### Dag 12 – Je eigen aandacht kiezen
+### Dag 12 – Att välja din egen uppmärksamhet
 
-> Het enige rechtmatige gebruik van de wil is te bepalen waaraan je je aandacht zult schenken, en wat je zult denken over de dingen waaraan je je aandacht schenkt.
+> Viljans enda berättigade bruk är att bestämma vad du ska ge din uppmärksamhet åt och vad du ska tänka om de ting som din uppmärksamhet riktas mot.
 
-Bron: De wetenschap van het gezond zijn, Het gebruik van de wil
+Källa: Vetenskapen om att vara frisk, Viljans bruk
 
-Let er vandaag op wat aan je aandacht trekt: nieuws, feeds, zorgen, gesprekken. Richt je aandacht drie keer bewust op iets wat je zelf gekozen hebt. Noteer waarvan je je afwendde en waarnaar je je toewendde.
+Lägg i dag märke till vad som drar i din uppmärksamhet: nyheter, flöden, oro, samtal. Rikta tre gånger medvetet din uppmärksamhet mot något som du själv har valt. Anteckna vad du vände dig bort från och vad du vände dig mot.
 
-### Dag 13 – Een beetje stilte
+### Dag 13 – Lite tystnad
 
-> Zonder je af op de stilste plek die je kunt vinden, waar je een poosje vrij kunt zijn van onderbreking.
+> Gå avsides till den tystaste plats du kan finna, där du kan vara fri från avbrott en liten stund.
 
-Bron: De nieuwe wetenschap van leven en genezen, Aard en ontwikkeling van de wilskracht
+Källa: Den nya vetenskapen om liv och läkning, Viljekraftens natur och utveckling
 
-Zoek tien stille minuten, ook als dat een geparkeerde auto of een afgesloten badkamerdeur betekent. Zit, adem en doe verder niets. Probeer niets op te lossen. Schrijf daarna een of twee regels over hoe je je voelt.
+Hitta tio stilla minuter, även om det betyder en parkerad bil eller en låst badrumsdörr. Sitt, andas och gör ingenting annat. Försök inte lösa något. Skriv sedan en eller två rader om hur du känner dig.
 
-### Dag 14 – De gewoonte van denken
+### Dag 14 – Tankens vana
 
-> Het is de gewoonlijke, niet de af en toe voorkomende gedachte die je lot bepaalt.
+> Det är den vanemässiga, inte den tillfälliga tanken som avgör ditt öde.
 
-Bron: De wetenschap van het groot worden, Haast en gewoonte
+Källa: Vetenskapen om att bli stor, Brådska och vana
 
-Kijk terug op de tweede week. Welke gedachte over jezelf herhaal je het vaakst? Schrijf die eerlijk op. Schrijf dan een eerlijkere en hoopvollere versie die nog steeds waar is, en zeg die vandaag minstens vijf keer tegen jezelf.
+Se tillbaka på den andra veckan. Vilken tanke om dig själv upprepar du oftast? Skriv ned den ärligt. Skriv sedan en ärligare och mer hoppfull version som fortfarande är sann, och säg den till dig själv minst fem gånger i dag.
 
-### Dag 15 – Handelen waar je bent
+### Dag 15 – Att handla där du är
 
-> Je kunt niet handelen waar je niet bent; je kunt niet handelen waar je geweest bent, en je kunt niet handelen waar je zult zijn; je kunt alleen handelen waar je bent.
+> Du kan inte handla där du inte är; du kan inte handla där du har varit, och du kan inte handla där du kommer att vara; du kan handla endast där du är.
 
-Bron: De wetenschap van het rijk worden, Handelen op de Bepaalde Manier
+Källa: Vetenskapen om att bli rik, Att handla på det Bestämda Sättet
 
-Maak een korte lijst van wat er vandaag werkelijk voor je ligt: taken, mensen, beslissingen. Kies één ding dat je hebt uitgesteld tot de omstandigheden beter zijn, en doe er nu het eerste deel van.
+Gör en kort lista över det som verkligen ligger framför dig i dag: uppgifter, människor, beslut. Välj en sak som du har skjutit upp tills omständigheterna blir bättre, och gör nu den första delen av den.
 
-### Dag 16 – Doeltreffend handelen
+### Dag 16 – Verkningsfull handling
 
-> Doe elke dag alles wat je die dag kunt doen, en verricht elke handeling op een doeltreffende manier.
+> Gör varje dag allt du kan göra den dagen, och utför varje handling på ett verkningsfullt sätt.
 
-Bron: De wetenschap van het rijk worden, Doeltreffend handelen
+Källa: Vetenskapen om att bli rik, Verkningsfull handling
 
-Wattles zegt ook dat je je ‘niet moet overwerken’. Kies dus drie taken voor vandaag en niet meer, en doe elke taak met volle aandacht en zo goed als je kunt. Noteer 's avonds welke het sterkst voelde en waarom.
+Wattles säger också att du inte ska ”överarbeta dig”. Välj därför tre uppgifter för i dag och inte fler, och gör varje uppgift med full uppmärksamhet och så väl du kan. Anteckna på kvällen vilken som kändes starkast och varför.
 
-### Dag 17 – Gebruiken wat je hebt
+### Dag 17 – Att använda det du har
 
-> Verspil geen tijd aan het overwegen hoe je bepaalde dingen zou gebruiken als je ze had; overweeg eenvoudig hoe je gebruikt wat je hebt.
+> Slösa inte tid på att fundera på hur du skulle använda vissa ting om du hade dem; fundera helt enkelt på hur du ska använda det du har.
 
-Bron: Hoe je krijgt wat je wilt, De juiste manier om te krijgen wat je wilt
+Källa: Hur du får det du vill ha, Det rätta sättet att få det du vill ha
 
-Maak een eerlijke lijst van de middelen die je al hebt, zoals vaardigheden, tijd, contacten, gereedschap en ervaring. Omcirkel er één die je te weinig gebruikt. Schrijf één manier op om die deze week in te zetten.
+Gör en ärlig lista över de resurser du redan har, till exempel färdigheter, tid, kontakter, verktyg och erfarenhet. Ringa in en som du använder för lite. Skriv ned ett sätt att sätta in den den här veckan.
 
-### Dag 18 – Meer geven dan je neemt
+### Dag 18 – Att ge mer än du tar
 
-> Geef ieder mens meer gebruikswaarde dan je hem aan geldwaarde afneemt; dan voeg je met elke zakelijke transactie iets toe aan het leven van de wereld.
+> Ge varje människa mer i bruksvärde än du tar från henne i penningvärde; då berikar du världens liv genom varje affär.
 
-Bron: De wetenschap van het rijk worden, Hoe rijkdom tot je komt
+Källa: Vetenskapen om att bli rik, Hur rikedomen kommer till dig
 
-Denk aan iemand die je dient, klant, collega, werkgever of familielid. Vraag je af wat zou maken dat wat je hem geeft nuttiger is in zijn leven, en niet alleen indrukwekkender. Doe vandaag één zo’n ding.
+Tänk på någon som du tjänar, kund, kollega, arbetsgivare eller familjemedlem. Fråga dig vad som skulle göra det du ger den personen mer användbart i hennes liv, och inte bara mer imponerande. Gör i dag en sådan sak.
 
-### Dag 19 – Nooit haasten
+### Dag 19 – Aldrig jäkta
 
-> Ga zo snel als je kunt, maar haast je nooit.
+> Gå så fort du kan, men jäkta aldrig.
 
-Bron: De wetenschap van het rijk worden, In het juiste vak terechtkomen
+Källa: Vetenskapen om att bli rik, Att komma in i rätt verksamhet
 
-Sta vandaag elke keer dat je jezelf betrapt op haasten één ademhaling lang stil. Herinner jezelf aan je doel en denk aan één ding waarvoor je dankbaar bent. Ga dan in een rustig tempo verder. Tel hoe vaak je het opmerkte.
+Stanna i dag upp ett andetag varje gång du kommer på dig själv med att jäkta. Påminn dig om ditt mål och tänk på en sak som du är tacksam för. Fortsätt sedan i lugn takt. Räkna hur ofta du lade märke till det.
 
-### Dag 20 – De indruk van toename
+### Dag 20 – Intrycket av tillväxt
 
-> Breng met alles wat je doet de indruk van vooruitgang over, zodat alle mensen de indruk krijgen dat je een Vooruitgaande Mens bent, en dat je allen die met je omgaan vooruithelpt.
+> Förmedla intrycket av framåtskridande med allt du gör, så att alla människor får intrycket att du är en Framåtskridande Människa och att du för alla som har med dig att göra framåt.
 
-Bron: De wetenschap van het rijk worden, De indruk van groei
+Källa: Vetenskapen om att bli rik, Intrycket av tillväxt
 
-Probeer in elk gesprek vandaag de ander een beetje rijker achter te laten: een bemoedigend woord, een nuttig idee, echte belangstelling voor zijn plannen. Schep niet op en speel geen rol. Schrijf één ontmoeting op die anders voelde.
+Försök i varje samtal i dag att lämna den andra lite rikare: ett uppmuntrande ord, en användbar idé, verkligt intresse för hennes planer. Skryt inte och spela ingen roll. Skriv ned ett möte som kändes annorlunda.
 
-### Dag 21 – De volgende stap zetten
+### Dag 21 – Att ta nästa steg
 
-> Wacht niet op een kans om alles te zijn wat je wilt zijn; wanneer zich een kans voordoet om meer te zijn dan je nu bent, en je je ertoe aangetrokken voelt, grijp haar dan.
+> Vänta inte på en möjlighet att bli allt du vill vara; när en möjlighet att bli mer än du är nu erbjuds och du känner dig dragen till den, ta den.
 
-Bron: De wetenschap van het rijk worden, De vooruitgaande mens
+Källa: Vetenskapen om att bli rik, Den Framåtskridande Människan
 
-Kijk terug op de derde week. Ligt er nu een kans voor je die kleiner is dan je droom, maar groter dan waar je nu staat? Schrijf die op, met wat je tegenhoudt en de eerste stap die je zou kunnen zetten.
+Se tillbaka på den tredje veckan. Finns det nu en möjlighet framför dig som är mindre än din dröm, men större än där du står nu? Skriv ned den, tillsammans med det som håller dig tillbaka och det första steg du skulle kunna ta.
 
-### Dag 22 – Ademen
+### Dag 22 – Att andas
 
-> Richt je op; vul je longen *helemaal*; strek je borst en richt je wervelkolom, en adem rustig uit.
+> Räta på dig; fyll lungorna HELT; sträck ut bröstet och räta ut ryggraden, och andas ut lugnt.
 
-Bron: De wetenschap van het gezond zijn, Ademhaling
+Källa: Vetenskapen om att vara frisk, Andning
 
-Sta vandaag drie keer stil en doe wat deze passage beschrijft, comfortabel en zonder inspanning. Doe het, als het kan, één keer buiten. Heb je een long- of hartaandoening, blijf er dan zacht in. Let erop of en hoe je stemming verandert.
+Stanna i dag upp tre gånger och gör det som avsnittet beskriver, bekvämt och utan ansträngning. Gör det, om det går, en gång utomhus. Har du en lung- eller hjärtsjukdom, var varsam. Lägg märke till om och hur ditt humör förändras.
 
-### Dag 23 – Rust
+### Dag 23 – Vila
 
-> Het is in de slaap dat de hersenen van de mens opnieuw met levensenergie worden geladen, en dat het Principe van Gezondheid in hem nieuwe kracht krijgt.
+> Det är i sömnen som människans hjärna åter laddas med livsenergi och Hälsans Princip inom henne får ny styrka.
 
-Bron: De wetenschap van het gezond zijn, Slaap
+Källa: Vetenskapen om att vara frisk, Sömn
 
-Gun jezelf vanavond een rustiger laatste halfuur voor het slapengaan. Leg de schermen weg, laat wat frisse lucht binnen als dat prettig en veilig is, en kies een vredige gedachte om mee in slaap te vallen. Noteer 's ochtends hoe je geslapen hebt. Heb je al lang moeite met slapen, praat dan met een arts.
+Unna dig i kväll en lugnare sista halvtimme före sömnen. Lägg undan skärmarna, släpp in lite frisk luft om det är skönt och säkert, och välj en fridfull tanke att somna med. Anteckna på morgonen hur du sov. Har du länge haft svårt att sova, tala med en läkare.
 
-### Dag 24 – Een maaltijd zonder haast
+### Dag 24 – En måltid utan brådska
 
-> Loop niet vooruit op de smaak van het volgende; houd je geest gericht op de smaak van wat je in je mond hebt.
+> Föregrip inte smaken av nästa sak; håll ditt sinne samlat kring smaken av det du har i munnen.
 
-Bron: De wetenschap van het gezond zijn, Hoe je moet eten
+Källa: Vetenskapen om att vara frisk, Hur man ska äta
 
-Eet vandaag een van je gewone maaltijden langzaam en aandachtig, zonder te veranderen wat of hoeveel je eet. Leg je telefoon weg en let op de smaak. Dank vooraf, als je wilt. Schrijf op wat je opviel.
+Ät i dag en av dina vanliga måltider långsamt och uppmärksamt, utan att ändra vad eller hur mycket du äter. Lägg undan telefonen och lägg märke till smaken. Tacka i förväg, om du vill. Skriv ned vad du lade märke till.
 
-### Dag 25 – Geen gewone mensen
+### Dag 25 – Inga vanliga människor
 
-> Er zijn ongedroomde mogelijkheden in de gewone levens overal om ons heen; in ruime zin bestaan er geen “gewone” mensen.
+> Det finns oanade möjligheter i de vanliga liven runt omkring oss; i vidare mening finns det inga ”vanliga” människor.
 
-Bron: De wetenschap van het groot worden, Ieder mens kan groot worden
+Källa: Vetenskapen om att bli stor, Varje människa kan bli stor
 
-Kies iemand die je vaak ziet maar aan wie je zelden denkt, zoals een buurvrouw, een caissière of een collega. Geef die persoon vandaag echte aandacht, stel een oprechte vraag en luister. Schrijf één ding op dat je te weten kwam.
+Välj någon som du ofta ser men sällan tänker på, till exempel en granne, en kassör eller en kollega. Ge den personen verklig uppmärksamhet i dag, ställ en uppriktig fråga och lyssna. Skriv ned en sak som du fick veta.
 
-### Dag 26 – Grootheid thuis
+### Dag 26 – Storhet i hemmet
 
-> Het is een groot mens die thuis altijd evenwichtig, zelfverzekerd, kalm en volkomen vriendelijk en attent kan zijn.
+> Det är en stor människa som alltid kan vara balanserad, säker, lugn och fullkomligt vänlig och hänsynsfull i hemmet.
 
-Bron: De wetenschap van het groot worden, Handelen in je eigen huis
+Källa: Vetenskapen om att bli stor, Handling i hemmet
 
-Kies vandaag een moment thuis, bij het eten, bij het thuiskomen of voor het slapengaan, en wees daarin zo kalm en vriendelijk als je maar kunt. Wattles waarschuwt ook tegen bemoeizucht; breng dus een dag door zonder de gewoonten van anderen te corrigeren. Noteer wat er gebeurt.
+Välj i dag en stund hemma, vid maten, när du kommer hem eller före sömnen, och var i den så lugn och vänlig som du någonsin kan. Wattles varnar också för klåfingrighet; tillbringa därför en dag utan att rätta andras vanor. Anteckna vad som händer.
 
-### Dag 27 – Een grote dienaar
+### Dag 27 – En stor tjänare
 
-> Lincoln was een groot man omdat hij wist hoe hij een groot dienaar moest zijn.
+> Lincoln var en stor man därför att han visste hur man är en stor tjänare.
 
-Bron: De wetenschap van het groot worden, Jezus’ idee van grootheid
+Källa: Vetenskapen om att bli stor, Jesu idé om storhet
 
-Bewijs vandaag een dienst die je echte sterke kanten benut. Doe het vrijwillig, zonder jezelf klein te maken en zonder dank te verwachten. Schrijf dan op wat het jou gaf en wat het de ander gaf.
+Gör i dag en tjänst som använder dina verkliga styrkor. Gör den frivilligt, utan att göra dig själv liten och utan att vänta dig tack. Skriv sedan ned vad den gav dig och vad den gav den andra.
 
-### Dag 28 – De naaste liefhebben
+### Dag 28 – Att älska sin nästa
 
-> Als ik haar liefheb als mezelf, zal ik even vurig taart voor haar wensen als voor mezelf, en zal ik even hard proberen die voor haar te krijgen als voor mezelf.
+> Om jag älskar henne som mig själv, kommer jag att önska paj åt henne lika intensivt som åt mig själv, och jag kommer att försöka lika ihärdigt att skaffa den åt henne som åt mig själv.
 
-Bron: Een nieuwe Christus, Zijn leer over rijkdom
+Källa: En ny Kristus, Hans lära om rikedom
 
-Denk aan iemand die dicht bij je staat en aan iets goeds dat je jezelf toewenst. Vraag je eerlijk af of je dat goede hem evenzeer toewenst. Zet dan één concrete stap in die richting, voor hem.
+Tänk på någon som står dig nära och på något gott som du önskar dig själv. Fråga dig ärligt om du önskar den personen detta goda lika mycket. Ta sedan ett konkret steg i den riktningen, för hennes skull.
 
-### Dag 29 – Terugblik
+### Dag 29 – Tillbakablick
 
-> Er kan niet genoeg nadruk worden gelegd op het belang van het veelvuldig beschouwen van het mentale beeld, gepaard aan onwankelbaar geloof en vrome dankbaarheid.
+> Man kan inte nog betona vikten av att ofta betrakta den inre bilden, förenat med orubblig tro och andäktig tacksamhet.
 
-Bron: De wetenschap van het rijk worden, Samenvatting van de wetenschap van het rijk worden
+Källa: Vetenskapen om att bli rik, Sammanfattning av vetenskapen om att bli rik
 
-Lees je aantekeningen van de afgelopen vier weken door. Markeer de drie dagen die het meest voor je betekenden en de ene die het moeilijkst was. Schrijf op wat je geleerd hebt over je visie, je dankbaarheid en je manier van handelen.
+Läs igenom dina anteckningar från de senaste fyra veckorna. Markera de tre dagar som betydde mest för dig och den som var svårast. Skriv ned vad du har lärt dig om din vision, din tacksamhet och ditt sätt att handla.
 
-### Dag 30 – Kleine dingen, op de juiste manier
+### Dag 30 – Små ting, på rätt sätt
 
-> Zoals hij de ware en juiste koers in kleine dingen ziet, moet hij die koers volgen.
+> När hon ser den sanna och rätta vägen i små saker, måste hon slå in på den vägen.
 
-Bron: De wetenschap van het groot worden, Samenvatting van de wetenschap van het groot worden
+Källa: Vetenskapen om att bli stor, Sammanfattning av vetenskapen om att bli stor
 
-Kies drie oefeningen uit deze maand die je wilt houden. Schrijf elk op met een tijd en een plaats waar die een plek krijgt. Kies dan een datum, ongeveer een maand vanaf vandaag, om naar deze pagina’s terug te keren en te kijken hoe het met je gaat.
+Välj tre övningar från den här månaden som du vill behålla. Skriv ned var och en med en tid och en plats där den får sitt utrymme. Välj sedan ett datum, ungefär en månad från i dag, för att återvända till dessa sidor och se hur det går för dig.
