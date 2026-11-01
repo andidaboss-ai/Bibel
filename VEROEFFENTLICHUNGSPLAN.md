@@ -1,4 +1,4 @@
-# Veröffentlichungsplan – alle Bücher, 9 Sprachen
+# Veröffentlichungsplan – alle Bücher, 10 Sprachen
 
 Stand: 01.11.2026 · Start: Woche ab 02.11.2026
 
@@ -9,7 +9,8 @@ Wir wollen **1.000 € im Monat passiv** verdienen. Dafür bringen wir **2 Titel
 - Jedes Buch hat **höchstens 500 Seiten**. Ist ein Band länger, nehmen wir Auszüge.
 - Was schon fertig im Repo liegt, kommt zuerst. So gibt es keine Leerlauf-Wochen.
 - Danach kommen die **Marktlücken**: der Erfolgs-Band in allen Sprachen, die Stoiker in DE/IT/NL und die Strategen in IT/NL.
-- Danach kommt der Rest nach Marktgröße: EN, DE, ES, FR, IT, JA, PT, NL, PL.
+- Danach kommt der Rest nach Marktgröße: EN, DE, ES, FR, IT, JA, PT, NL, PL und zum Schluss **SV (Schwedisch, amazon.se)**.
+- **Schweden:** Für Schweden fehlen auf amazon.se gute Ausgaben von Stoikern, Strategen, Erfolgs-Band und Carnegie. Weil der Markt klein ist, kommt Schwedisch trotzdem ans Ende. Innerhalb der schwedischen Titel stehen diese vier Bände aber ganz vorne.
 - Gemeinfreie Bücher bekommen bei KDP nur **35 % Tantieme für das E-Book**, und es gibt kein KDP Select. Die Taschenbücher und Hardcover sind deshalb das Wichtigste.
 - Bei KDP ändern wir nur etwas, wenn Andreas ausdrücklich „ja“ gesagt hat.
 
@@ -173,6 +174,22 @@ TB = Taschenbuch, HC = Hardcover, ✅ = Dateien fertig, ⚠ = es fehlt noch eine
 | KW 8/2028 | 21.02.2028 | Thomas von Kempen – Nachfolge Christi | PL | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
 | KW 9/2028 | 28.02.2028 | Allen – As a Man Thinketh | PL | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
 | KW 9/2028 | 28.02.2028 | Carnegie-Band (nur EU-Marktplätze) | PL | TB+HC+eBook | ⚠ nur mit sauberer 1936/1948-Quelle; sonst entfällt |
+| KW 10/2028 | 06.03.2028 | Meister des Erfolgs | SV | TB+HC+eBook | 🎯 Marktlücke amazon.se; Übersetzung SV |
+| KW 10/2028 | 06.03.2028 | Die Stoiker | SV | TB+HC+eBook | 🎯 Marktlücke amazon.se; Übersetzung SV |
+| KW 11/2028 | 13.03.2028 | Die Strategen | SV | TB+HC+eBook | 🎯 Marktlücke amazon.se; ⚠ Musashi-Quelle |
+| KW 11/2028 | 13.03.2028 | Carnegie-Band (nur EU-Marktplätze) | SV | TB+HC+eBook | 🎯 Marktlücke amazon.se; ⚠ nur mit sauberer Quelle |
+| KW 12/2028 | 20.03.2028 | Wattles – Gesammelte Werke | SV | TB+HC+eBook | Übersetzung SV, Satz, Cover |
+| KW 12/2028 | 20.03.2028 | Die Diplomaten | SV | TB+HC+eBook | Übersetzung SV, Satz |
+| KW 13/2028 | 27.03.2028 | Shinn – Your Word Is Your Wand | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 13/2028 | 27.03.2028 | Atkinson – Your Forces and How to Use Them | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 14/2028 | 03.04.2028 | Mulford – Thought Vibration | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 14/2028 | 03.04.2028 | Mulford – Thoughts Are Things | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 15/2028 | 10.04.2028 | Marc Aurel – Selbstbetrachtungen | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 15/2028 | 10.04.2028 | Laozi – Tao Te King (Legge) | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 16/2028 | 17.04.2028 | Bruder Lorenz – Gegenwart Gottes | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 16/2028 | 17.04.2028 | Epiktet – Lehrgespräche & Handbüchlein | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 17/2028 | 24.04.2028 | Thomas von Kempen – Nachfolge Christi | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
+| KW 17/2028 | 24.04.2028 | Allen – As a Man Thinketh | SV | TB+HC+eBook | Übersetzung aus EN-Ausgabe, Satz |
 
 ## Meilensteine pro Quartal
 | Quartal | Was bis dahin online sein soll |
@@ -182,12 +199,13 @@ TB = Taschenbuch, HC = Hardcover, ✅ = Dateien fertig, ⚠ = es fehlt noch eine
 | Q2 2027 | Die Reihe in DE ist komplett, ES ist angefangen. **ca. 74 Titel** |
 | Q3 2027 | ES und FR sind komplett. **ca. 100 Titel** |
 | Q4 2027 | IT und JA sind komplett, PT ist angefangen. **ca. 126 Titel** |
-| Q1 2028 | PT, NL und PL sind komplett. **Alle ca. 142 Titel sind online** |
+| Q1 2028 | PT, NL und PL sind komplett, SV ist angefangen (zuerst die Lücken-Bände). **ca. 152 Titel** |
+| Q2 2028 (April) | SV ist komplett. **Alle 157 Titel sind online** |
 
 ## Ende
 - Nach dem Plan geht der **letzte Titel in der Woche ab 28.02.2028** (KW 9/2028) online.
-- Mit Puffer für Ausfälle, KDP-Prüfungen und Korrekturen rechnen wir mit **Ende März 2028**.
-- Die Zahl: 140 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **142**. Davon sind 6 Carnegie-Titel. Fallen die weg, sind es 136, und das Ende ist ca. 3 Wochen früher.
+- Mit Puffer für Ausfälle, KDP-Prüfungen und Korrekturen rechnen wir mit **Anfang Mai 2028**.
+- Die Zahl: 155 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **157** (davon 15 auf Schwedisch). Davon sind 7 Carnegie-Titel. Fallen die weg, sind es 150, und das Ende ist ca. 3 Wochen früher.
 
 ## Risiken
 1. **Übersetzungstempo:** Ab KW 49 muss jede Woche mindestens ein neuer Band übersetzt und gesetzt werden. Darum starten die Übersetzungen der Lücken-Bände **sofort**, während wir die fertigen Titel hochladen.
@@ -198,7 +216,7 @@ TB = Taschenbuch, HC = Hardcover, ✅ = Dateien fertig, ⚠ = es fehlt noch eine
 6. **Einnahmen:** Ob 1.000 €/Monat erreicht werden, hängt vor allem von der Sichtbarkeit ab (Keywords, Reihe, X-Werbung). Wir prüfen die Verkäufe nach jedem Quartal und schieben gut laufende Sprachen nach vorne.
 
 ## Offene Fragen
-- **Schweden (SE):** Gewünscht waren Stoiker und Strategen auch für Schweden. Schwedisch gehört aber nicht zu unseren 9 Sprachen. amazon.se gibt es, und KDP liefert dorthin. Sollen wir eine **10. Sprache Schwedisch** dazunehmen, oder reicht die englische Ausgabe auf amazon.se?
+- **Schweden:** Ist jetzt die 10. Sprache (SV). Offen ist noch, ob wir die schwedischen Lücken-Bände früher bringen, statt sie ans Ende zu setzen.
 - **Meister des Erfolgs:** Welche Werke kommen hinein? Bisher geplant sind Wattles, Allen und Shinn. Wattles und Allen gibt es aber auch schon als eigene Bücher.
 - **Carnegie:** Sollen wir eine Erstausgabe von 1936 kaufen? Und Carnegie auf EN für die EU-Marktplätze auch?
 - **Reihenfolge:** Sollen die Einzelbücher in DE früher kommen als die Sammelbände in EN?
