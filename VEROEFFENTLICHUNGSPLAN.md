@@ -187,7 +187,7 @@ TB = Taschenbuch, HC = Hardcover, ✅ = Dateien fertig, ⚠ = es fehlt noch eine
 ## Ende
 - Nach dem Plan geht der **letzte Titel in der Woche ab 28.02.2028** (KW 9/2028) online.
 - Mit Puffer für Ausfälle, KDP-Prüfungen und Korrekturen rechnen wir mit **Ende März 2028**.
-- Die Zahl: 138 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **140**. Davon sind 6 Carnegie-Titel. Fallen die weg, sind es 134, und das Ende ist ca. 3 Wochen früher.
+- Die Zahl: 140 Titel im Plan, dazu die 2 schon eingereichten (Wattles DE/EN), zusammen **142**. Davon sind 6 Carnegie-Titel. Fallen die weg, sind es 136, und das Ende ist ca. 3 Wochen früher.
 
 ## Risiken
 1. **Übersetzungstempo:** Ab KW 49 muss jede Woche mindestens ein neuer Band übersetzt und gesetzt werden. Darum starten die Übersetzungen der Lücken-Bände **sofort**, während wir die fertigen Titel hochladen.
